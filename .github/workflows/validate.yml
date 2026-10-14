@@ -1,0 +1,31 @@
+name: Validate Bot manuscript
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout manuscript
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install validators
+        run: python -m pip install -r tools/requirements.txt
+      - name: Check canon and continuity references
+        run: python tools/validate.py
+      - name: Assemble book
+        run: python tools/build.py
+      - name: Upload assembled manuscript
+        uses: actions/upload-artifact@v4
+        with:
+          name: bot-manuscript-preview
+          path: dist/*.md
+          if-no-files-found: error

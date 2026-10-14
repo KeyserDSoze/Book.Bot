@@ -1,0 +1,88 @@
+name: Release versioned Bot editions
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: book-release-main
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout manuscript
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install publishing tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer fonts-dejavu-core
+          python -m pip install -r tools/requirements.txt
+
+      - name: Read version
+        id: version
+        shell: bash
+        run: |
+          VERSION="$(tr -d '[:space:]' < VERSION)"
+          if [[ ! "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "Invalid VERSION: $VERSION" >&2
+            exit 1
+          fi
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Validate manuscript
+        run: python tools/validate.py
+
+      - name: Build Markdown, DOCX and EPUB
+        run: python tools/build.py --require-pandoc
+
+      - name: Build PDF
+        shell: bash
+        env:
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          libreoffice -env:UserInstallation=file:///tmp/bot-lo-${{ github.run_id }} --headless --convert-to pdf --outdir dist "dist/Bot-v${VERSION}.docx"
+          test -s "dist/Bot-v${VERSION}.pdf"
+
+      - name: Check edition outputs
+        shell: bash
+        env:
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          for ext in md docx epub pdf; do
+            test -s "dist/Bot-v${VERSION}.${ext}"
+          done
+
+      - name: Store build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bot-editions-${{ steps.version.outputs.version }}-${{ github.sha }}
+          path: dist/Bot-v${{ steps.version.outputs.version }}.*
+          if-no-files-found: error
+
+      - name: Publish first release for this version
+        if: github.ref == 'refs/heads/main'
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          TAG="v${VERSION}"
+          if gh release view "${TAG}" >/dev/null 2>&1; then
+            echo "Release ${TAG} already exists. Keep it immutable; bump VERSION for a new release."
+            exit 0
+          fi
+          gh release create "${TAG}"             "dist/Bot-v${VERSION}.md"             "dist/Bot-v${VERSION}.docx"             "dist/Bot-v${VERSION}.epub"             "dist/Bot-v${VERSION}.pdf"             --target "${GITHUB_SHA}"             --title "Bot ${VERSION}"             --generate-notes
