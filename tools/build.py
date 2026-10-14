@@ -37,7 +37,7 @@ def assemble(version: str):
     dist = ROOT / "dist"
     dist.mkdir(parents=True, exist_ok=True)
     base = dist / f"Bot-v{version}"
-    md = base.with_suffix(".md")
+    md = base.parent / (base.name + ".md")
     md.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
     print(f"Assembled {chapter_count} chapters and {scene_count} scenes: {md.relative_to(ROOT)}")
     return md, base
@@ -62,7 +62,7 @@ def main():
         ("docx", ["--standalone"]),
         ("epub", ["--standalone", "--toc", "--toc-depth=2"]),
     ):
-        dest = base.with_suffix("." + ext)
+        dest = base.parent / (base.name + "." + ext)
         subprocess.run([pandoc, "--from=markdown+yaml_metadata_block", *options,
                         str(md), "--output", str(dest)], check=True, cwd=ROOT)
         if not dest.is_file() or dest.stat().st_size == 0:
