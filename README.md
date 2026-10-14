@@ -10,11 +10,11 @@ Il libro è sviluppato in italiano come un progetto editoriale versionato. Il ma
 2. Aprire `state/current.md` prima di aggiungere una scena; verificare `timeline/`, `characters/`, `locations/`, `factions/`, `secrets/`.
 3. Aggiungere `chapters/NNN-titolo/chapter.md` e scene `NNN-titolo.md`, ciascuna con frontmatter YAML e `canon: canon` solo dopo revisione.
 4. Eseguire `python tools/validate.py` e `python tools/build.py`.
-5. Fare la review via pull request. Aggiornare `VERSION` solo quando si vuole una nuova edizione pubblicata.
+5. Lavorare direttamente su `main`; ogni push esegue i controlli e la build. Aggiornare `VERSION` solo quando si vuole una nuova edizione pubblicata.
 
 ## Esportazione
 
-La pipeline pubblica un EPUB, un DOCX, un PDF e il Markdown completo per ogni versione SemVer distinta di `VERSION`. Su ogni PR i controlli verificano numerazione, metadati, riferimenti e dialoghi. Su `main`, dopo la build, si crea una GitHub Release immutabile per convenzione (`vMAJOR.MINOR.PATCH`). Un tag già pubblicato **non** viene sovrascritto: incrementare `VERSION` per modificare l'edizione.
+La pipeline pubblica un EPUB, un DOCX, un PDF e il Markdown completo per ogni versione SemVer distinta di `VERSION`. Su `main` i controlli verificano numerazione, metadati, riferimenti e dialoghi prima della pubblicazione. Dopo la build si crea una GitHub Release immutabile per convenzione (`vMAJOR.MINOR.PATCH`). Un tag già pubblicato **non** viene sovrascritto: incrementare `VERSION` per modificare l'edizione.
 
 ### Esecuzione locale
 
