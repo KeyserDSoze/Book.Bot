@@ -43,3 +43,9 @@ Prosa in italiano, focalizzazione ravvicinata, tensione e azioni visibili; dialo
 ## Regola speciale del capitolo 1
 
 Kyla crede genuinamente nella missione di Cyberdine. L'automazione è raccontata dal suo sguardo con entusiasmo e orgoglio, non con lessico della coercizione. Non anticipare in modo esplicito il futuro conflitto sui diritti robotici. Il lettore deve poter condividere per intero la promessa positiva prima di riconsiderarla.
+
+## Capitolo 3 e note riservate
+
+Nel terzo capitolo B-17 riceve da **Nerea Dalmasso** il soprannome **Bi**. L'improvviso affinamento della capacità conversazionale è visibile, ma la sua origine non deve essere rivelata né spiegata nei capitoli pubblici prima della rivelazione programmata. Descrivere ciò che persone reali vedono: il robot saluta alla macchinetta del caffè, chiede come stanno, interrompe una classificazione non urgente, lascia parlare Nerea e suggerisce di documentare il rischio prima di un intervento irreversibile. Il consiglio dovrà avere un riscontro nel futuro.
+
+**Questa repository è pubblica:** non committare mai note confidenziali dell'autore, spiegazioni causali riservate, nomi di personaggi segreti o materiali non ancora rivelati, neppure in `secrets/`, issue, pull request o altri rami. La nota riservata del capitolo 3 deve restare in custodia privata dell'autore e non fa parte del repository.

@@ -34,3 +34,10 @@ Dialoghi con «caporali». Settori di Cyberdine e Aruvhana ancora non dichiarati
 La bussola filosofica obbligatoria è `guidelines/innovazione-non-chiede-permesso.md` (testo originale integrale). Prima di scrivere ogni nuova scena, identificare una scelta razionale e concreta che modifica, anche impercettibilmente, abitudini, costi, ruolo di un collega o distribuzione di una responsabilità. Preferire un gesto e le sue ripercussioni a una spiegazione sulla società. Evitare sia il determinismo tecnologico sia un unico personaggio che abbia sempre ragione.
 
 Con B-17 la progressione non è un'esplosione di abilità: prima oggetto di curiosità, poi risorsa utile, poi componente normale del posto di lavoro. Solo allora potranno essere riconoscibili le conseguenze sistemiche. Non retrodatare il mutamento di coscienza, la rivendicazione dei diritti o l'interpretazione morale: verranno costruiti con gli eventi.
+
+
+# Capitolo 3: il linguaggio dell'attenzione
+
+Nel terzo capitolo l'umanizzazione viene **vista** dai colleghi, senza certificazioni di una nuova coscienza e senza spiegare il salto di capacità. Il nome «Bi» nasce come scelta quotidiana, non come battesimo solenne. Il dialogo serale deve fare spazio al linguaggio spezzato, alle domande fuori sequenza e ai gesti nervosi di Nerea: sedia spostata senza sedersi, chiave stretta, tesserino arrotolato, ritorno sulla soglia. L'ascolto di Bi si traduce in pause, assenza di rassicurazioni false e un consiglio verificabile. Evitare l'effetto terapeuta perfetto: Bi non promette soluzioni e riconosce i limiti del proprio aiuto.
+
+Tenere **riservata** ogni spiegazione causale del salto tecnico, non inserendola nei documenti pubblici. In futuro far sì che il consiglio di Bi abbia conseguenze, ma senza una coincidenza artificiosa.

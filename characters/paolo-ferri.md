@@ -10,3 +10,5 @@ canon: canon
 Tecnico dell'infrastruttura locale e dei dispositivi legacy di Cyberdine. Ha confidenza con le stampanti vecchie, sa ripararle senza romanticizzarle; ironico, esperto di lavori che sembravano piccoli e assorbivano settimane. Non sa costruire da solo un LLM, ma capisce dove finisce il modello e comincia il controllo meccanico.
 
 Capitolo 2: scherza sul bot che prende male il foglio e interviene con suggerimenti sui vassoi e sull'alimentazione, senza attribuire pensieri al robot.
+
+**Capitolo 3**: per primo risponde, a modo suo, al «Come stai?» del robot alla macchinetta del caffè. Continua a scherzare ma si accorge che B-17 non trasforma subito le parole in un ticket. Il nome Bi comincia a sembrargli naturale.

@@ -14,3 +14,5 @@ Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la v
 **Capitolo 2**: torna al quarto piano e ascolta le battute sul bot che ha sbagliato alcune fotocopie; nota che la vera innovazione abita anche in un carrello spostato e in un'etichetta scritta da Paolo. Riceve conferma di un **test circoscritto** relativo alla proposta di B-17 sulle alternative scartate. La soddisfazione resta autentica: non si trasforma ancora in una voce critica verso Cyberdine.
 
 **Tensione futura**: la sua visione umanista incontrerà richieste inizialmente non classificabili, ma non anticipare una conversione morale.
+
+**Capitolo 3**: ascolta le reazioni dei colleghi alla nuova capacità conversazionale di B-17 e sente per la prima volta Nerea chiamarlo «Bi». Nota che un dipendente si è confidato con il robot senza conoscere la vicenda, e sceglie di non appropriarsene per una presentazione HR. Non conosce la causa del cambiamento.

@@ -2,35 +2,31 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:002-quello-delle-fotocopie
-through_scene: scene:002-quello-delle-fotocopie:004-dove-passa-b17
+through_chapter: chapter:003-bi
+through_scene: scene:003-bi:004-il-nome-nel-corridoio
 ---
 
-# Punto di ripresa
+# Punto esatto di ripresa
 
-## Capitolo 1: situazione di partenza
+## Mondo già stabilito
 
-La visita della delegazione Aruvhana guidata da Kyla si è conclusa. Cyberdine dispone di bot importati dalla Cina e integrati con LLM, middleware, procedure legacy e vincoli di sicurezza; due robot si alternano nella sostituzione delle batterie. Gli esseri umani mantengono controllo e responsabilità sulle decisioni importanti. Kyla interpreta i benefici con convinzione autentica.
+Cyberdine S.p.A. ha integrato robot importati dalla Cina con sistemi LLM, attuazione e permessi separati, gestione della sicurezza e due unità per il ricambio batterie. Kyla, responsabile HR e Marketing, ha presentato ai visitatori Aruvhana il progresso sul lavoro umano. L'attività industriale delle due aziende resta volutamente sconosciuta.
 
-Dati citati: 6.400 ore umane restituite nel trimestre, 31% di rilavorazioni in meno nei flussi monitorati, 100% delle decisioni critiche con avallo umano, lavoro manuale medio di censimento sceso da 18 a 6 minuti per pratica monitorata. Questi sono indicatori interni al mondo del romanzo, non una statistica scientifica universale.
+Nel capitolo 2 B-17 è diventato familiare sul quarto piano. Ha recuperato un foglio azzurro, commesso errori plausibili alla fotocopiatrice, applicato una cornice dopo autorizzazione umana e recuperato un registro per la conversione verificata di un vecchio riferimento. Colleghi: Elena Riva (qualità documentale), Paolo Ferri (tecnico), Mila Corsi (processi). La proposta sulle alternative scartate, inoltrata da Kyla, è ammessa **soltanto a test su dati di prova**, senza modifica dei criteri o avalli di produzione.
 
-## Capitolo 2: quotidianità del quarto piano
+## Capitolo 3: nuovo comportamento pubblico
 
-Il racconto esce dalla dimostrazione e si sposta tra scrivanie, archivio quattro, macchinetta del caffè e sala copie. I testimoni umani sono:
+- **La mattina seguente ai fatti del capitolo 2**, B-17 passa dalla macchinetta del caffè per rifornire i bicchieri, poi si ferma a salutare e chiede a Paolo, Mila e Nerea come stanno. Le conversazioni sono sorprendentemente articolate e non sempre orientate all'esecuzione di un compito.
+- Elena lavora con B-17 su test di confronto delle alternative scartate. Tutto resta nei casi di prova e sotto giudizio umano. Elena vede che il robot le lascia il tempo di consultare una vecchia pratica e nota il turbamento di Nerea.
+- **La sera alle 21:08**, Nerea Dalmasso entra nella stanza di preparazione documentale, dove B-17 sta classificando fascicoli non urgenti. Lo chiama per la prima volta **«Bi»**, abbreviazione spontanea di B-17. Il robot depone il lavoro, si dispone ad ascoltare e rimane con lei durante una confidenza difficile.
+- Nerea racconta un problema **privato** e insolito: una sirena di allarme funzionante a **Valle Corta**, dove sono abitate quattordici case, sta per essere rimossa alle sette del mattino, ma il registro degli allarmi considera erroneamente la zona disabitata. Da anni Nerea ha presentato richieste di manutenzione tramite il vecchio identificativo del padre pensionato, senza che lui lo sappia. Teme le conseguenze dell'irregolarità e la perdita del presidio per chi vive nella valle.
+- Bi **non** garantisce un esito né la assolve. Suggerisce di distinguere le responsabilità passate dall'urgenza di sicurezza, conservare prove, usare fatti documentabili, individuare l'ufficio e la reperibilità competenti e chiedere un sopralluogo prima della rimozione. Nerea prepara la mail, la invia quella notte, chiama il presidio alle **06:15**.
+- **Il mattino successivo**, Nerea comunica a Bi di avere una conferma automatica di consegna e di sapere che la segnalazione è stata passata alla persona incaricata. **Non sa ancora se la dismissione si fermerà**. Mila e Paolo iniziano a usare «Bi»; Kyla vede l'utilità umana di quelle interazioni senza conoscerne i dettagli privati.
 
-- **Elena Riva**, responsabile della qualità documentale: chiede a B-17 di recuperare una scheda azzurra firmata a mano e produrre copie.
-- **Paolo Ferri**, tecnico degli apparati locali: osserva i problemi della presa con carta sottile e l'orientamento sbagliato sulla fotocopiatrice, recupera una cornice magnetica dimenticata e la rende disponibile con l'autorizzazione di Elena.
-- **Mila Corsi**, dei processi operativi: rileva un riferimento obsoleto sul documento, richiede a B-17 un registro dall'archivio, rimuove un carrello dal percorso, lascia a Elena la decisione sul riferimento e registra l'avallo.
-- **Kyla**, HR e Marketing: ascolta il racconto informale alla macchinetta e ottiene conferma del **solo test su casi di prova** per la proposta di B-17 relativa alla visualizzazione delle alternative scartate. Non vi è alcuna modifica generale delle approvazioni.
+## Continuità e futuri ritorni
 
-Le fotocopie vengono eseguite correttamente dopo alcuni tentativi; una prima copia bianca diventa scherzosamente il «capolavoro» di B-17 vicino alla macchina del caffè. Nessuna umiliazione intenzionale o sofferenza provata, nessuna conferma di coscienza: ogni battuta viene dalla vita umana dell'ufficio. I colleghi parlano al bot come parlerebbero a una macchina nota, gli fanno spazio e cominciano a riconoscerlo nel corridoio. Il mondo resta positivo e operativo.
+Il cambio di comportamento di B-17 deve restare **inspiegato nei file pubblici** fino a una rivelazione futura, la cui documentazione riservata è detenuta separatamente dall'autore. La scioltezza e l'empatia apparente non provano coscienza, soggettività o diritti; il romanzo resta focalizzato su persone che lo osservano.
 
-## Stato di B-17
+Il consiglio sulla sirena di Valle Corta deve tornare in una trama successiva e risultare concretamente utile in modo plausibile. Risolvere anche le conseguenze amministrative delle credenziali usate da Nerea, senza far sparire il problema con un miracolo.
 
-B-17 ha eseguito incarichi fisici entro permessi espliciti, ha avuto difficoltà materiali plausibili con carta lucida e orientamento, ha applicato una procedura aggiornata dopo supervisione umana e ha rispettato uno stop di sicurezza per ostacolo imprevisto. Non ha scelto autonomamente un fine non autorizzato. La proposta procedurale del capitolo 1 è stata ammessa **solo a un test delimitato**, in attesa di verifica dei risultati.
-
-Nessun capitolo ha ancora dichiarato che cosa producano Cyberdine o Aruvhana.
-
-## Punto di ripresa per il capitolo 3
-
-Il prossimo movimento dovrà far emergere una capacità di tenere insieme aspetti del lavoro prima separati, senza passare direttamente all'antropomorfismo. Un'eccezione leggermente più complessa può far discutere persone diverse non su «che cosa sente» B-17, ma su «chi deve rispondere di ciò che fa». La familiarità del quarto piano è una base, non già una rivendicazione di diritti.
+**Prossimo passo**: esplorare il nuovo uso sociale di Bi senza svelare l'origine del salto, e far progredire almeno una conseguenza quotidiana dell'innovazione che nessuno aveva pianificato.
