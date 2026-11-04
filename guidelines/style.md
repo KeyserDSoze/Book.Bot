@@ -28,3 +28,9 @@ Il capitolo 1 è **ottimista senza ironia**: Kyla crede al progresso, i visitato
 Il capitolo 2 è **quotidiano, corale e appena ironico**. Un punto di vista umano per scena: Elena, Paolo, Mila, Kyla. I colleghi scherzano sulle fotocopie sbagliate, come farebbero con un aggeggio d'ufficio ostinato, ma B-17 continua a fare lavori utili. È una presenza che cresce attraverso gli occhi degli altri, non mediante pensieri attribuiti al bot. Evitare tanto la satira crudele quanto l'epifania sulla coscienza.
 
 Dialoghi con «caporali». Settori di Cyberdine e Aruvhana ancora non dichiarati. Il mistero nasce da dettagli materiali e dalle divergenze di interpretazione, non da minacce artificiose.
+
+# Mostrare la rivoluzione senza dichiararla
+
+La bussola filosofica obbligatoria è `guidelines/innovazione-non-chiede-permesso.md` (testo originale integrale). Prima di scrivere ogni nuova scena, identificare una scelta razionale e concreta che modifica, anche impercettibilmente, abitudini, costi, ruolo di un collega o distribuzione di una responsabilità. Preferire un gesto e le sue ripercussioni a una spiegazione sulla società. Evitare sia il determinismo tecnologico sia un unico personaggio che abbia sempre ragione.
+
+Con B-17 la progressione non è un'esplosione di abilità: prima oggetto di curiosità, poi risorsa utile, poi componente normale del posto di lavoro. Solo allora potranno essere riconoscibili le conseguenze sistemiche. Non retrodatare il mutamento di coscienza, la rivendicazione dei diritti o l'interpretazione morale: verranno costruiti con gli eventi.

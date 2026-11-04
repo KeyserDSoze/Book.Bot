@@ -11,6 +11,12 @@ genre: thriller tecnologico / fantascienza sociale
 
 Un robot arrivato come semplice lavoratore partecipa, lentamente e non necessariamente per scelta, a un percorso che porterà la società a riconoscere ai robot una dignità e diritti. La rivoluzione non nasce da una guerra improvvisa: passa dalle parole con cui le persone misurano il lavoro, dal potere di decidere e dall'idea di chi meriti un nome.
 
+# Principio filosofico e motore sociale
+
+**L'innovazione non chiede permesso.** Non arriva dopo un consenso condiviso, ma quando una tecnologia sufficientemente utile diventa economicamente conveniente e viene adottata in migliaia di piccoli gesti. Il suo effetto collettivo può essere molto più grande delle intenzioni dei singoli: cambiano mansioni, costi, redditi, rapporti di potere e abitudini, con esiti non preordinati.
+
+Il testo integrale, da mantenere **intatto** come direttiva autoriale primaria, è in `guidelines/innovazione-non-chiede-permesso.md`. I capitoli devono rappresentarne le conseguenze attraverso la narrazione, mai convertirlo in un saggio o farne una verità proclamata dai personaggi.
+
 # Promessa al lettore
 
 Il primo atto deve essere seducente: LLM e robot liberano gli esseri umani da compiti estenuanti, restituiscono tempo e precisione; il controllo delle scelte resta alle persone. Solo attraverso episodi successivi il lettore scopre il prezzo implicito di quel progresso. Evitare una voce autoriale che denunci in anticipo le contraddizioni.

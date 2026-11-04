@@ -31,6 +31,7 @@ Gli export intermedi sono in `dist/` e non vanno committati.
 ## Organizzazione
 
 - `book.md`: promessa, tema, arco e tono; `context.md`: mondo tecnologico e sociale.
+- `guidelines/innovazione-non-chiede-permesso.md`: manifesto autoriale **integrale e invariato**, vincolante per gli sviluppi futuri.
 - `chapters/`: romanzo pubblico, in ordine di lettura.
 - `characters/`, `locations/`, `factions/`: schede persistenti; `timeline/`: eventi.
 - `secrets/`: rivelazioni editoriali e limiti di anticipazione (attenzione: repository pubblica).
