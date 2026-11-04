@@ -15,3 +15,5 @@ Capitolo 2: all'inizio tratta B-17 come un inevitabile spunto per scherzi; poi, 
 
 
 **Capitolo 4**: partecipa all'organizzazione dello Spazio Comune, dove i bot aiutano la logistica senza gestire i rapporti tra persone. Osserva le partite e scherza sui risultati. Vince anche una partita contro Bi dopo le prime vittorie nette del robot; cerca di stemperare l'esultanza offensiva di Dario.
+
+**Capitolo 5**: viene a sapere alla macchinetta del caffè che la posizione di Adriana Lodi non sarà ripubblicata. Ha chiesto spesso di automatizzare attività e ne conosce i vantaggi; non riesce però a minimizzare la delusione di Irene. Rifiuta l'idea letterale del posto «rubato» da Bi ma comprende che una scelta umana ha eliminato un'opportunità.

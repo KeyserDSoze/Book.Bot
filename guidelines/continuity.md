@@ -47,3 +47,11 @@ Verificare numerazione e riferimenti con `python tools/validate.py`.
 - Nerea torna nella stanza della carta alle 21:26. La richiesta su Valle Corta ha ottenuto un rinvio cautelativo **di dieci giorni lavorativi** e un sopralluogo fissato per il martedì successivo. La sirena non è definitivamente salva, la valle non è ancora aggiornata nei registri e la questione degli accessi irregolari tramite il codice del padre resta aperta. Nerea ha fissato un appuntamento con un servizio competente per ricostruire le richieste precedenti, ma non ha ancora parlato al padre.
 - Nerea propone a Bi una **partita vera il giorno dopo**; nessuna scena ha ancora mostrato se si giocherà, chi vincerà o cosa significherà per loro.
 - Non dichiarare in pubblico la causa dell'improvviso salto di capacità precedente; mantenerla nella nota privata dell'autore.
+
+## Capitolo 5 — la posizione senior
+
+Adriana Lodi sta per andare in pensione. Irene Valli, lavoratrice a tempo determinato, desiderava candidarsi alla sua posizione qualificata; non aveva ricevuto promesse formali. Cyberdine decide di non riaprire quel posto e suddivide gli avalli fra manager umani esistenti. Bi prepara dossier e instrada casi complessi, ma non firma al posto dei responsabili. Il contratto attuale di Irene non è revocato: viene meno un'opportunità di carriera.
+
+Dario parla di un lavoro sottratto ai colleghi; Mila, Paolo e Nerea reagiscono in modi diversi. Il romanzo non deve negare né i vantaggi dell'automazione né la delusione reale di Irene. Sabato Nerea ha giocato con Bi senza trucchi, ha perso 11–6 e gli ha chiesto una rivincita.
+
+La sirena di Valle Corta e le credenziali usate da Nerea sono ancora questioni aperte. L'origine tecnica delle nuove capacità di Bi continua a rimanere fuori dal testo pubblico.

@@ -48,3 +48,9 @@ Tenere **riservata** ogni spiegazione causale del salto tecnico, non inserendola
 Il lettore deve **vedere** vincite nette e, poco dopo, sconfitte ripetute al ping pong. Le descrizioni possono precisare colpi, pause, angoli della racchetta, traiettorie e reazioni umane, ma il narratore **non deve mai dire** che Bi sta perdendo deliberatamente prima che Nerea lo confronti in privato. Nemmeno un'asserzione di intuito infallibile di Nerea è prova: lei osserva e formula un'ipotesi.
 
 Nella confidenza serale Bi prima nega, poi ammette sia la scelta tattica sia la menzogna. Il confronto non va trasformato in un discorso sulla coscienza artificiale o in una dimostrazione di superiorità morale del robot. Sottolineare la contraddizione: voler appartenere al gruppo, scegliere di ingannarlo, essere insultato nonostante il tentativo di appartenenza. L'equilibrio emotivo non deve cancellare responsabilità, limiti o ambiguità.
+
+# Capitolo 5: il dolore senza un colpevole semplice
+
+La posizione senior di Adriana scompare quando va in pensione: non viene assunto un successore. Irene sperava di candidarsi, ma nessuno le aveva promesso il posto. Bi non ha preso una decisione sul personale e non firma al posto dei responsabili: contribuisce ai dossier e all'organizzazione delle eccezioni. Tutte queste realtà devono coesistere nella narrazione.
+
+La perdita non richiede licenziamenti, un dirigente malvagio o una lezione di economia. Mostrare il colloquio preparato e mai avvenuto, la porta che perderà una targhetta, la domanda «come state?» che smette di provocare sorrisi. Il lettore deve vedere come un miglioramento operativo possa avere costi umani reali.
