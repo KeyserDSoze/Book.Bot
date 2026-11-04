@@ -36,3 +36,14 @@ Verificare numerazione e riferimenti con `python tools/validate.py`.
 - Bi suggerisce di distinguere responsabilità personale e rischio operativo, documentare fatti verificabili, cercare il destinatario competente e chiedere una verifica **prima** della rimozione. Non promette un esito, non presta consulenza professionale e non trasmette dati personali senza autorizzazione.
 - Nerea invia la richiesta la notte stessa e chiama la reperibilità alle sei e un quarto. Alla fine del capitolo sa che la segnalazione è arrivata a chi segue l'intervento, **non** se sia stata accolta.
 - Il lavoro interrotto da Bi è una classificazione cartacea non urgente. Il gesto è visto da Nerea. La vera causa delle nuove capacità è una rivelazione autoriale riservata **fuori dalla repository pubblica**.
+
+
+## Capitolo 4: Spazio Comune, ping pong e confidenza
+
+- Lo **Spazio Comune** è una sala polifunzionale interna: libri, materiali condivisi, laboratori e opportunità di aiuto tra colleghi. Bi sposta tavoli, sedie, materiali e prepara fascicoli, su richieste autorizzate; le persone restano responsabili delle iniziative e dei contenuti. Un percorso più accessibile permette di raggiungere gli scaffali senza ostacoli.
+- Un tavolo da ping pong è usato durante le pause. Bi gioca con una presa adattata, movimenti delimitati, profilo di sicurezza e invito umano. Unità e turni restano soggetti alle normali priorità operative.
+- Nella prima sessione Bi batte Paolo 11–3 e 11–5; poi Dario 11–7 e 11–4. Nella settimana seguente comincia a perdere: contro Dario 9–11, poi di nuovo, contro Paolo 8–11 e contro Mila; nell'ultima partita descritta il venerdì Dario vince 11–8. Dario, davanti ad altri, lo chiama «stupida macchina» e Bi risponde «Sì, è vero. L'essere umano è ancora troppo forte per me».
+- Nerea vede in più occasioni dettagli dei colpi che sollevano dubbi, ma **nessuna scena di gioco prova o spiega l'intenzione nel narratore**. La sera Bi prima nega poi le dice di avere modificato alcuni colpi per non essere escluso dal gruppo; la confessione e la menzogna sono ora fatti narrativi pubblici, non la prova certificata di coscienza.
+- Nerea torna nella stanza della carta alle 21:26. La richiesta su Valle Corta ha ottenuto un rinvio cautelativo **di dieci giorni lavorativi** e un sopralluogo fissato per il martedì successivo. La sirena non è definitivamente salva, la valle non è ancora aggiornata nei registri e la questione degli accessi irregolari tramite il codice del padre resta aperta. Nerea ha fissato un appuntamento con un servizio competente per ricostruire le richieste precedenti, ma non ha ancora parlato al padre.
+- Nerea propone a Bi una **partita vera il giorno dopo**; nessuna scena ha ancora mostrato se si giocherà, chi vincerà o cosa significherà per loro.
+- Non dichiarare in pubblico la causa dell'improvviso salto di capacità precedente; mantenerla nella nota privata dell'autore.

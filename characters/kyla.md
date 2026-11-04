@@ -16,3 +16,6 @@ Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la v
 **Tensione futura**: la sua visione umanista incontrerà richieste inizialmente non classificabili, ma non anticipare una conversione morale.
 
 **Capitolo 3**: ascolta le reazioni dei colleghi alla nuova capacità conversazionale di B-17 e sente per la prima volta Nerea chiamarlo «Bi». Nota che un dipendente si è confidato con il robot senza conoscere la vicenda, e sceglie di non appropriarsene per una presentazione HR. Non conosce la causa del cambiamento.
+
+
+**Capitolo 4**: autorizza e osserva l'uso organizzato dello Spazio Comune, area di condivisione di materiali, corsi tra colleghi e aiuto reciproco. Bi aiuta a rendere accessibile il percorso e a preparare il locale, senza scegliere gli obiettivi sociali. Kyla vede la trasformazione attraverso l'uso normale di uno spazio prima inutilizzato; non sa delle sconfitte intenzionali né delle confidenze serali.

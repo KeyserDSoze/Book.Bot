@@ -12,3 +12,6 @@ Segue i processi operativi e gli interventi di miglioramento dei flussi. Osserva
 Capitolo 2: all'inizio tratta B-17 come un inevitabile spunto per scherzi; poi, guardandolo attraversare i reparti per completare una commissione, fa spazio al suo passaggio in modo spontaneo.
 
 **Capitolo 3**: alla macchinetta del caffè vede B-17 iniziare conversazioni spontanee e accetta, dopo lo stupore iniziale, che sappia lasciar parlare le persone. Il mattino successivo sente Nerea chiamarlo Bi e usa il soprannome senza dargli solennità.
+
+
+**Capitolo 4**: partecipa all'organizzazione dello Spazio Comune, dove i bot aiutano la logistica senza gestire i rapporti tra persone. Osserva le partite e scherza sui risultati. Vince anche una partita contro Bi dopo le prime vittorie nette del robot; cerca di stemperare l'esultanza offensiva di Dario.

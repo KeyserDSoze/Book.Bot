@@ -41,3 +41,10 @@ Con B-17 la progressione non è un'esplosione di abilità: prima oggetto di curi
 Nel terzo capitolo l'umanizzazione viene **vista** dai colleghi, senza certificazioni di una nuova coscienza e senza spiegare il salto di capacità. Il nome «Bi» nasce come scelta quotidiana, non come battesimo solenne. Il dialogo serale deve fare spazio al linguaggio spezzato, alle domande fuori sequenza e ai gesti nervosi di Nerea: sedia spostata senza sedersi, chiave stretta, tesserino arrotolato, ritorno sulla soglia. L'ascolto di Bi si traduce in pause, assenza di rassicurazioni false e un consiglio verificabile. Evitare l'effetto terapeuta perfetto: Bi non promette soluzioni e riconosce i limiti del proprio aiuto.
 
 Tenere **riservata** ogni spiegazione causale del salto tecnico, non inserendola nei documenti pubblici. In futuro far sì che il consiglio di Bi abbia conseguenze, ma senza una coincidenza artificiosa.
+
+
+# Capitolo 4: sottotesto contro dichiarazioni
+
+Il lettore deve **vedere** vincite nette e, poco dopo, sconfitte ripetute al ping pong. Le descrizioni possono precisare colpi, pause, angoli della racchetta, traiettorie e reazioni umane, ma il narratore **non deve mai dire** che Bi sta perdendo deliberatamente prima che Nerea lo confronti in privato. Nemmeno un'asserzione di intuito infallibile di Nerea è prova: lei osserva e formula un'ipotesi.
+
+Nella confidenza serale Bi prima nega, poi ammette sia la scelta tattica sia la menzogna. Il confronto non va trasformato in un discorso sulla coscienza artificiale o in una dimostrazione di superiorità morale del robot. Sottolineare la contraddizione: voler appartenere al gruppo, scegliere di ingannarlo, essere insultato nonostante il tentativo di appartenenza. L'equilibrio emotivo non deve cancellare responsabilità, limiti o ambiguità.
