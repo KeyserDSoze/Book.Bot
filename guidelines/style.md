@@ -54,3 +54,12 @@ Nella confidenza serale Bi prima nega, poi ammette sia la scelta tattica sia la 
 La posizione senior di Adriana scompare quando va in pensione: non viene assunto un successore. Irene sperava di candidarsi, ma nessuno le aveva promesso il posto. Bi non ha preso una decisione sul personale e non firma al posto dei responsabili: contribuisce ai dossier e all'organizzazione delle eccezioni. Tutte queste realtà devono coesistere nella narrazione.
 
 La perdita non richiede licenziamenti, un dirigente malvagio o una lezione di economia. Mostrare il colloquio preparato e mai avvenuto, la porta che perderà una targhetta, la domanda «come state?» che smette di provocare sorrisi. Il lettore deve vedere come un miglioramento operativo possa avere costi umani reali.
+
+
+# Capitolo 6: la frattura
+
+Mostrare le due posizioni attraverso persone con bisogni specifici: lavoro qualificato e opportunità mancate, ma anche tempo restituito alle famiglie e condizioni migliori. Evitare una folla totalmente buona e una totalmente cattiva. L'aggressione è un superamento grave e ingiustificabile del limite, da raccontare in modo concreto e intenso senza compiacimento: il lettore deve sentire la perdita e la paura attraverso parole e azioni visibili, non tramite descrizioni cruente. I responsabili sono identificati e sottoposti ad accertamenti.
+
+# Capitolo 7: l'assenza
+
+L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi vedere in un bicchiere che manca, un registro che non si trova, una domanda che nessuno pone e un tavolo da ping pong fermo. Non trasformare l'ufficio in un disastro irreversibile; lasciare che gli esseri umani affrontino i problemi. Dario non diventa improvvisamente buono: può vedere il valore delle piccole cose anche restando responsabile della violenza. Concludere preferibilmente su un gesto umano discreto che conserva qualcosa di ciò che Bi ha cambiato.

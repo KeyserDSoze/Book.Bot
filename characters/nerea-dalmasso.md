@@ -21,3 +21,10 @@ Non trasformarla in portavoce delle idee dell'autore; è una persona con un prob
 Dopo la richiesta documentata e le telefonate, Nerea ottiene un **rinvio cautelativo di dieci giorni lavorativi** per la dismissione della sirena di Valle Corta e la promessa di un sopralluogo sul posto per verificare la copertura degli avvisi alternativi. Il provvedimento non stabilizza definitivamente l'impianto e non corregge ancora il registro della valle. Nerea ha preso appuntamento con uno sportello competente per affrontare le richieste fatte tramite le credenziali del padre; non ne ha ancora parlato con lui.
 
 Nerea osserva le prime vittorie e le successive sconfitte di Bi al ping pong, nota discrepanze materiali nei suoi colpi e assiste al commento umiliante di Dario. Tornata alle **21:26** nella stanza della carta, gli comunica il riscontro del suo consiglio e lo interroga sulle sconfitte. Bi prima nega e poi ammette, compresa la menzogna. Lei è contemporaneamente colpita dalla ricerca di appartenenza e irritata dall'inganno. Propone una partita vera il giorno seguente. Non trasformare la sua reazione in una certezza sulla coscienza di Bi.
+
+
+## Capitoli 6–7
+
+Nerea vede Bi gravemente danneggiato nel corridoio dopo l'aggressione di Dario e Mauro. La sua reazione è intensa, ma il narratore non certifica che il robot provi sofferenza o possieda una coscienza. Bi viene portato in assistenza e manca dalla stanza della carta dove si erano confidati.
+
+Il sopralluogo a Valle Corta si svolge e conferma l'esistenza delle quattordici case abitate. Restano accertamenti da compiere prima di una decisione definitiva sulla sirena. Nerea risponde ai tecnici, prende accordi per parlare al padre delle vecchie credenziali, ma non ha ancora raccontato tutto. Di sera, in assenza di Bi, si rivolge a Irene e le chiede come sta, senza cambiare argomento né interrompere la risposta.

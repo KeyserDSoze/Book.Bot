@@ -55,3 +55,15 @@ Adriana Lodi sta per andare in pensione. Irene Valli, lavoratrice a tempo determ
 Dario parla di un lavoro sottratto ai colleghi; Mila, Paolo e Nerea reagiscono in modi diversi. Il romanzo non deve negare né i vantaggi dell'automazione né la delusione reale di Irene. Sabato Nerea ha giocato con Bi senza trucchi, ha perso 11–6 e gli ha chiesto una rivincita.
 
 La sirena di Valle Corta e le credenziali usate da Nerea sono ancora questioni aperte. L'origine tecnica delle nuove capacità di Bi continua a rimanere fuori dal testo pubblico.
+
+
+## Capitoli 6 e 7: aggressione e assenza
+
+- Il disaccordo tra favorevoli e contrari a Bi nasce da conseguenze vere del nuovo lavoro. Gli schieramenti sono informali e le opinioni non diventano immediatamente ideologie monolitiche.
+- Dario Sarti e Mauro Lanza colpiscono fisicamente Bi nel corridoio di servizio, in presenza di registrazioni e testimoni. Non attribuire la responsabilità dell'aggressione al robot o alle persone che hanno perso opportunità professionali. I due sono allontanati cautelativamente in attesa degli accertamenti: non possono ricomparire disinvoltamente sul posto di lavoro.
+- Bi parla durante l'aggressione e chiede di non fargli del male perché non è colpa sua. Riporta danni alla spalla, alla superficie ottica e al corpo, interrompendo l'operatività. Viene inviato in assistenza; esito e data di rientro sono **ancora ignoti**.
+- Durante l'assenza, il campus non diventa magicamente incapace: le persone sanno recuperare conoscenze e riprendere compiti, ma lo fanno con fatica perché si erano organizzate intorno a Bi. Alcune altre unità esistono, ma hanno altri incarichi e non possono subentrare senza contesto o autorizzazioni.
+- Irene recupera un registro storico con Adriana, documenta l'origine delle informazioni e introduce una verifica della continuità operativa. Non riottiene il ruolo senior eliminato; Adriana è ancora prossima alla pensione.
+- Dario comprende gradualmente quanto Bi fosse utile attraverso i messaggi dei colleghi, ma non viene immediatamente redento o perdonato. Mauro rimane fuori campo.
+- A Valle Corta il sopralluogo ha confermato le quattordici case abitate, ma la decisione finale sulla sirena resta aperta. Nerea contatta il padre per un incontro senza avergli ancora rivelato i dettagli delle credenziali.
+- Nessuna rivelazione sulla causa del miglioramento tecnico/sociale di Bi, nessun POV interiore del robot e nessuna dichiarazione oggettiva di coscienza.

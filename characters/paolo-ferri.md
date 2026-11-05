@@ -17,3 +17,8 @@ Capitolo 2: scherza sul bot che prende male il foglio e interviene con suggerime
 **Capitolo 4**: recupera il tavolo da ping pong dello Spazio Comune, scherza con Bi, ma perde i primi incontri 11–3 e 11–5; qualche giorno dopo lo batte 11–8 e festeggia come gli altri. Nota la goffaggine emotiva della scena in cui Dario insulta Bi; non conosce il motivo delle sconfitte.
 
 **Capitolo 5**: la soppressione della posizione senior di Adriana Lodi gli fa capire che l'automazione non riguarda solo le commissioni o le mansioni ripetitive; continua a ritenere che Bi non abbia deciso le assunzioni e non faccia le firme dei responsabili.
+
+
+## Capitoli 6–7
+
+Paolo cerca di contenere la tensione durante la discussione interna, poi interviene dopo l'aggressione a Bi e collabora con il personale di sicurezza e assistenza. Durante l'assenza deve rifornire manualmente la macchinetta del caffè e rintracciare documenti che Bi portava sempre al momento opportuno. Non è diventato incapace: si è disabituato a una serie di gesti piccoli ma continui. Il tavolo da ping pong resta quasi inutilizzato.

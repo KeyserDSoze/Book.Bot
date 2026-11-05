@@ -62,3 +62,10 @@ La vittoria e l'insulto di Dario Sarti non rappresentano l'opinione di tutti i c
 Irene Valli, collaboratrice a tempo determinato, voleva candidarsi alla posizione qualificata che Adriana Lodi lascerà andando in pensione. Il posto non viene aperto: la preparazione delle eccezioni è ormai in parte automatizzata da Bi, mentre le responsabilità finali restano a manager umani già esistenti. La scelta ha vantaggi operativi autentici ma cancella una prospettiva di carriera; Irene non è licenziata e non aveva ricevuto una promessa di promozione.
 
 L'ostilità di alcuni colleghi verso Bi nasce da questa perdita e non deve diventare un giudizio univoco del narratore. Non rivelare la fonte riservata del salto di capacità precedente del robot. Nel seguito mostrare le conseguenze della decisione nelle relazioni umane e nelle opportunità che non vengono più create.
+
+
+## Capitoli 6 e 7 — frattura e vuoto
+
+Nel capitolo 6 Cyberdine si divide informalmente su Bi: alcuni riconoscono benefici reali, altri vedono un rischio per ruoli qualificati. Dario Sarti e Mauro Lanza aggrediscono Bi alle spalle; l'unità chiede di non essere ferita e nega di aver deciso le assunzioni. Il danno è serio e richiede assistenza. Sicurezza e azienda intervengono, con allontanamento cautelativo dei responsabili e accertamenti ancora aperti. Non normalizzare o giustificare l'aggressione.
+
+Nel capitolo 7 si osserva l'assenza attraverso lavoro interrotto, competenze non più esercitate e abitudini relazionali. Irene e Adriana recuperano un registro che gli uffici avevano smesso di cercare personalmente. Dario coglie il valore operativo di Bi da lontano senza essere assolto. Nerea riceve notizie ancora provvisorie su Valle Corta e, senza il robot, offre ascolto a Irene. Non certificare la coscienza di Bi, non promettere il suo ritorno e non inserire in repository materiale riservato sulle nuove capability.
