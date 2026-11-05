@@ -2,8 +2,8 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:017-mille-piccoli-bi
-through_scene: scene:017-mille-piccoli-bi:004-mille-non-sono-uno
+through_chapter: chapter:018-il-giorno-in-cui-si-fermarono
+through_scene: scene:018-il-giorno-in-cui-si-fermarono:004-la-notizia-piu-semplice
 ---
 
 # Stato corrente di Bot — dopo il capitolo 14
@@ -76,3 +76,9 @@ Lea e Kyla trattano i due incidenti come problemi distinti e ricevono chiariment
 Sei settimane dopo i primi confronti, Lanter avvia un'estensione controllata del nuovo modulo **Collaborazione Contestuale**, sviluppato autonomamente studiando anche casi osservati su B-17; non è una clonazione del suo software o della sua memoria. Mei Lin ottiene condizioni di test e documentazione ma non un fermo completo: l'origine dei materiali è ancora contestata.
 
 Presso un piccolo centro assistenziale Ada Serri verifica benefici autentici nelle consegne e nelle richieste di chiarimento, ma rifiuta di assumere che ciò giustifichi meno assistenza umana. All'**Hub Levante**, centro logistico indipendente, Sofia Rizzi e Amir Haddad osservano miglioramenti e segnalazioni anomale nella **baia quattro**, dove la mappa ufficiale e le indicazioni sul pavimento divergono. Una lavoratrice formata sulle eccezioni ha meno straordinari; Sofia promette soltanto verifiche difficili temporanee. Tre mesi dopo i primi piloti, il rapporto di Lanter indica **1.006 unità** con la funzione abilitata. Mei apre un nuovo controllo sui conflitti persistenti tra suggerimenti di chiarimento e autorizzazioni locali. Nessuno ha creato mille copie di Bi.
+
+## Capitolo 18 — Il giorno in cui si fermarono
+
+All'Hub Levante una mappa tecnica in ritardo rispetto alla disposizione reale e una regola **configurata localmente dagli umani** inducono più robot con Collaborazione Contestuale a fermarsi e chiedere avallo. La verifica dura **47 minuti**, ritarda una partenza e aumenta il lavoro umano. Nello stesso turno un distinto arresto del controllore evita l'attraversamento di un carrello instabile: i due meccanismi non vanno confusi. Sofia e Amir distinguono risultato, costo e responsabilità senza definirlo uno sciopero.
+
+Nel centro assistenziale di Ada una discrepanza nella destinazione della biancheria produce 22 minuti di ritardo e lavoro manuale; Ada sospende l'estensione commerciale, non la sicurezza. Segnalazioni di arresti e conferme superflue in più siti sono collegate al medesimo modulo, **non a un'organizzazione cosciente tra robot**. Un video dell'Hub Levante diventa virale con il titolo «I robot si rifiutano di lavorare». Mei Lin dispone, con la direzione Lanter, una pausa ai nuovi rilasci e indicazioni di verifica sito per sito: non esiste un interruttore mondiale sicuro. Un giornalista chiede il rapporto tra il modulo e B-17 a Veyra.
