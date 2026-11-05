@@ -2,8 +2,8 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:016-la-seconda-porta
-through_scene: scene:016-la-seconda-porta:003-la-versione-pulita
+through_chapter: chapter:017-mille-piccoli-bi
+through_scene: scene:017-mille-piccoli-bi:004-mille-non-sono-uno
 ---
 
 # Stato corrente di Bot — dopo il capitolo 14
@@ -70,3 +70,9 @@ A Veyra l'amministrativo Enrico ha allegato per errore il testo integrale a una 
 **Mei Lin**, responsabile qualità di Lanter Robotics, verifica che la piattaforma di supporto ha pubblicato un estratto dalla lettera privata di Nerea in una descrizione indicizzata tra clienti; Lanter interrompe quella funzione e conserva le evidenze, ma la possibile lettura precedente resta da accertare. Un team prodotto ha inoltre usato risultati osservati su B-17 durante il recupero per ricostruire una funzione denominata **Collaborazione Contestuale**, senza provare che ne sia stato copiato direttamente il codice. La provenienza dei casi è contestata e Mei chiede una revisione, ma il calendario dei piloti commerciali non è ancora annullato.
 
 Lea e Kyla trattano i due incidenti come problemi distinti e ricevono chiarimenti da Lanter. Nico viene ascoltato con accessi operativi sempre sospesi; ammette risultati promettenti ma non validati del proprio intervento e ricorda che un suggerimento contestuale non deve poter scavalcare gli arresti del controllore. Non gli viene concesso accesso ai sistemi del produttore. Lanter ha annunciato un pilota per la settimana seguente. Nessuna dichiarazione certifica che la backdoor sia rimossa o che Bi sia cosciente.
+
+## Capitolo 17 — Mille piccoli Bi
+
+Sei settimane dopo i primi confronti, Lanter avvia un'estensione controllata del nuovo modulo **Collaborazione Contestuale**, sviluppato autonomamente studiando anche casi osservati su B-17; non è una clonazione del suo software o della sua memoria. Mei Lin ottiene condizioni di test e documentazione ma non un fermo completo: l'origine dei materiali è ancora contestata.
+
+Presso un piccolo centro assistenziale Ada Serri verifica benefici autentici nelle consegne e nelle richieste di chiarimento, ma rifiuta di assumere che ciò giustifichi meno assistenza umana. All'**Hub Levante**, centro logistico indipendente, Sofia Rizzi e Amir Haddad osservano miglioramenti e segnalazioni anomale nella **baia quattro**, dove la mappa ufficiale e le indicazioni sul pavimento divergono. Una lavoratrice formata sulle eccezioni ha meno straordinari; Sofia promette soltanto verifiche difficili temporanee. Tre mesi dopo i primi piloti, il rapporto di Lanter indica **1.006 unità** con la funzione abilitata. Mei apre un nuovo controllo sui conflitti persistenti tra suggerimenti di chiarimento e autorizzazioni locali. Nessuno ha creato mille copie di Bi.
