@@ -2,8 +2,8 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:014-non-e-in-vendita
-through_scene: scene:014-non-e-in-vendita:004-la-domanda-che-non-ha-un-modulo
+through_chapter: chapter:015-la-lettera-impossibile
+through_scene: scene:015-la-lettera-impossibile:003-una-copia-per-assistenza
 ---
 
 # Stato corrente di Bot — dopo il capitolo 14
@@ -58,3 +58,9 @@ La seconda passata ha corretto l'immagine di Nico evitando la caricatura del deg
 Il capitolo 8 procede ora in ordine: reazione di Nerea nello stesso giorno della plenaria, poi settimane di lavoro manuale con Irene. Due apparizioni di Nico sono state tagliate; i suoi gesti restanti sono sufficienti a preparare la rivelazione. Dopo l'informativa di sicurezza Nerea decide di incontrarlo il giorno successivo, e nel capitolo 14 sceglie la lettera sapendo che verrà letta almeno da un referente autorizzato. Veyra ha comunicato limitazioni temporanee sulle prove di B-17 durante le verifiche, **senza dichiarare eliminata la backdoor o concluso l'incidente**. La raccolta di 101.240 euro matura in quasi tre settimane e la soglia iniziale di 100.000 euro non implica il consenso alla vendita.
 
 **Immutato:** B-17 non è stato venduto ai colleghi; la sua possibile risposta a Nerea è ancora in attesa di decisione; l'esito dell'indagine su Nico è sconosciuto; Irene non ottiene il posto desiderato; la questione di Valle Corta rimane aperta.
+
+## Capitolo 15 — La lettera impossibile
+
+La prima frase della lettera che Nerea aveva spedito privatamente a B-17 a Veyra emerge in una scheda tecnica stampata a Cyberdine mentre B-21 esegue una normale verifica della coda di documenti. **B-21 non ricorda la lettera né cerca informazioni di nascosto**; il documento proviene da un servizio del produttore. Nerea e Lea avviano accertamenti; non esistono prove che Nico abbia originato questa nuova esposizione.
+
+A Veyra l'amministrativo Enrico ha allegato per errore il testo integrale a una richiesta di assistenza su come consentire a B-17 di rispondere a un messaggio personale, senza chiedere a Nerea il consenso per inoltrarlo al produttore. Una parte dell'indicizzazione di assistenza **Lanter Robotics**, produttore immaginario della famiglia B, ha permesso che un estratto diventasse disponibile anche nel contesto di un altro cliente. La falla è in verifica, il perimetro delle persone che hanno letto il documento non è ancora noto. Mina e Marta lo trattano come un incidente di riservatezza; nessuno usa la backdoor di Nico per indagare. Lanter chiede anche chiarimenti sull'origine della configurazione conversazionale anomala di B-17. La risposta personale di Bi a Nerea **non è ancora partita**.
