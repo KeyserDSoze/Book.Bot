@@ -67,3 +67,14 @@ La sirena di Valle Corta e le credenziali usate da Nerea sono ancora questioni a
 - Dario comprende gradualmente quanto Bi fosse utile attraverso i messaggi dei colleghi, ma non viene immediatamente redento o perdonato. Mauro rimane fuori campo.
 - A Valle Corta il sopralluogo ha confermato le quattordici case abitate, ma la decisione finale sulla sirena resta aperta. Nerea contatta il padre per un incontro senza avergli ancora rivelato i dettagli delle credenziali.
 - Nessuna rivelazione sulla causa del miglioramento tecnico/sociale di Bi, nessun POV interiore del robot e nessuna dichiarazione oggettiva di coscienza.
+
+
+## Capitoli 8 e 9 — il preventivo e la copia
+
+- **Lorenzo Verri** è l'amministratore delegato di Cyberdine. Nella plenaria del capitolo 8 dà aggiornamenti d'impresa senza rivelare il settore produttivo; alla fine comunica una decisione disciplinare e il preventivo per la vecchia unità.
+- **Dario Sarti e Mauro Lanza**: dopo un allontanamento inizialmente cautelativo e accertamenti con registrazioni e audizioni, il rapporto di lavoro con entrambi è terminato. Non compaiono più sul campus come dipendenti attivi.
+- Il CEO chiama il robot **«B-17»**, come identificativo ufficiale, non «Bi». La riparazione costa quasi quanto una unità nuova e non dà certezza su tempi e risultato. La decisione **non** è di riparare; il corpo resta in custodia, senza affermazione di distruzione irreversibile.
+- Le mansioni sono coperte manualmente o con altre unità nei limiti dei permessi per varie settimane; circa un mese dopo si riceve la nuova unità.
+- **B-21** ha lo stesso aspetto/modello esteriore ma un proprio numero di serie; funziona bene nei lavori autorizzati e parla in modo formale e orientato al compito. Non conosce le confidenze, il ping pong e i gesti personali di Bi. Non rappresentare la differenza come difetto tecnico, né spiegarla svelando in anticipo il segreto di B-17.
+- Elena, Paolo, Irene e Nerea osservano una differenza tra equivalenza operativa e relazione. Irene mantiene la perdita del ruolo senior anche quando le procedure migliorano. Adriana è in pensione al tempo del capitolo 9.
+- Nerea ha iniziato a parlare con il padre dell'uso del suo vecchio identificativo; i due stanno ricostruendo i fatti con assistenza competente, senza conclusione amministrativa. La sirena di Valle Corta resta in funzione durante gli accertamenti sulla copertura alternativa. La prima volta che Nerea chiama «Bi» B-21, il nuovo robot chiarisce che **non è B-17**.

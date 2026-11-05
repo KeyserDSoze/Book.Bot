@@ -15,3 +15,8 @@ Il ruolo comprende raccolta di informazioni, confronto di alternative, allineame
 ## Capitoli 6–7
 
 Adriana sta ancora preparando la pensione e ha tolto la targhetta dal proprio ufficio. Dopo l'aggressione assiste indirettamente alle conseguenze della divisione. Durante l'assenza di Bi aiuta Irene a trovare un registro cartaceo ormai dimenticato; ammette che il trasferimento delle conoscenze ai sistemi automatici era stato più accurato della formazione dei futuri responsabili umani. La pensione non è ancora iniziata al termine del capitolo 7.
+
+
+## Capitoli 8–9
+
+Adriana è ancora in prossimità della pensione durante le settimane di lavoro manuale dopo il fermo di Bi. Circa un mese dopo, nel capitolo 9, è **in pensione** e torna solo per recuperare una scatola di effetti personali con accesso autorizzato. Riconosce a Irene il merito di avere migliorato la continuità delle informazioni, senza poterle promettere una posizione.

@@ -19,3 +19,9 @@ canon: canon
 - **Arco finale: il riconoscimento**. Diritti e dignità sono discussi collettivamente, con costi e conseguenze; non una ricompensa per la sola produttività.
 
 Non certificare troppo presto una consapevolezza artificiale. La traiettoria dell'emancipazione procede dal **vedere un oggetto al riconoscere una presenza**, poi soltanto dalla presenza alla possibilità di un soggetto di diritto.
+
+## Capitoli 8–9
+
+Capitolo 8: plenaria di Lorenzo Verri, uscita di Dario e Mauro dall'azienda dopo accertamenti, decisione di **non riparare B-17** per ragioni economiche e lavoro aggiuntivo temporaneo per i colleghi. Il corpo non è dichiarato distrutto.
+
+Capitolo 9: arriva **B-21**, identico modello e buone prestazioni operative, ma privo della storia relazionale condivisa con Bi. Nerea lo chiama per sbaglio «Bi» e il robot la corregge. Non svelare la fonte riservata delle capacità peculiari di B-17: l'identità del tecnico, gli strumenti e le spiegazioni causali restano fuori dal repository pubblico.

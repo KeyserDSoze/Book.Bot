@@ -63,3 +63,10 @@ Mostrare le due posizioni attraverso persone con bisogni specifici: lavoro quali
 # Capitolo 7: l'assenza
 
 L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi vedere in un bicchiere che manca, un registro che non si trova, una domanda che nessuno pone e un tavolo da ping pong fermo. Non trasformare l'ufficio in un disastro irreversibile; lasciare che gli esseri umani affrontino i problemi. Dario non diventa improvvisamente buono: può vedere il valore delle piccole cose anche restando responsabile della violenza. Concludere preferibilmente su un gesto umano discreto che conserva qualcosa di ciò che Bi ha cambiato.
+
+
+# Capitoli 8 e 9: il prezzo e la somiglianza
+
+Nella plenaria l'amministratore delegato ha ragioni economiche reali, non è un cattivo artificioso. Deve parlare dei risultati e delle responsabilità aziendali prima della breve comunicazione di servizio su **B-17**; chiamare il robot col codice ufficiale crea una distanza dolorosa per i colleghi che lo chiamavano «Bi». Gli aggressori subiscono conseguenze professionali; non trasformare il licenziamento in una spettacolarizzazione punitiva.
+
+La nuova unità B-21 è **competente**, esteriormente uguale e interamente diversa sul piano della relazione vissuta. Il narratore non deve spiegare perché le capacità sociali siano diverse, e non può testimoniare dall'interno una coscienza del vecchio robot. Mostrare la differenza nei saluti, nelle risposte letterali, nell'assenza di domande spontanee e nei gesti piccoli dei colleghi. Non usare «copia mal riuscita»: per il lavoro è una sostituzione riuscita.

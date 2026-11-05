@@ -69,3 +69,10 @@ L'ostilità di alcuni colleghi verso Bi nasce da questa perdita e non deve diven
 Nel capitolo 6 Cyberdine si divide informalmente su Bi: alcuni riconoscono benefici reali, altri vedono un rischio per ruoli qualificati. Dario Sarti e Mauro Lanza aggrediscono Bi alle spalle; l'unità chiede di non essere ferita e nega di aver deciso le assunzioni. Il danno è serio e richiede assistenza. Sicurezza e azienda intervengono, con allontanamento cautelativo dei responsabili e accertamenti ancora aperti. Non normalizzare o giustificare l'aggressione.
 
 Nel capitolo 7 si osserva l'assenza attraverso lavoro interrotto, competenze non più esercitate e abitudini relazionali. Irene e Adriana recuperano un registro che gli uffici avevano smesso di cercare personalmente. Dario coglie il valore operativo di Bi da lontano senza essere assolto. Nerea riceve notizie ancora provvisorie su Valle Corta e, senza il robot, offre ascolto a Irene. Non certificare la coscienza di Bi, non promettere il suo ritorno e non inserire in repository materiale riservato sulle nuove capability.
+
+
+## Capitoli 8 e 9: sostituzione contro identità
+
+L'amministratore delegato **Lorenzo Verri** comunica in plenaria i risultati di Cyberdine, poi la cessazione dei rapporti di lavoro con Dario e Mauro dopo accertamenti, quindi decide di non riparare ufficialmente **B-17** perché il costo è quasi pari a quello del nuovo e non sono certi tempi o risultato. Verri parla di B-17, non lo chiama «Bi». Il vecchio corpo resta temporaneamente custodito, non si dichiara smantellato. Per un mese il personale copre diversi lavori a mano.
+
+Nel capitolo 9 arriva **B-21**, esteriormente identico, con un nuovo numero di serie. Il robot sostitutivo funziona bene nelle mansioni assegnate, ma non ha le relazioni, i dialoghi e la capacità di attenzione che i colleghi conoscevano in Bi. Non creare un guasto tecnico per forzare la morale: sottolineare la differenza tra sostituire una funzione e ritrovare una persona a cui ci si era abituati. Il segreto autoriale sulle capability di B-17 non va spiegato né riportato nei file pubblici.

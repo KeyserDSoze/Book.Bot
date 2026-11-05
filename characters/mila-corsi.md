@@ -22,3 +22,8 @@ Capitolo 2: all'inizio tratta B-17 come un inevitabile spunto per scherzi; poi, 
 ## Capitoli 6–7
 
 Mila tenta di sostenere allo stesso tempo i benefici dell'automazione e le possibilità di carriera dei colleghi. Assiste a uno scontro verbale durante la riunione interna, avverte la frattura ma non immagina l'aggressione successiva. Nel capitolo 7 aiuta Paolo a riorganizzare compiti rimasti in sospeso, cerca documenti e rifiuta di ridurre la vicenda a slogan. A Dario, allontanato cautelativamente, chiede di non usare un gruppo personale per commentare l'accaduto.
+
+
+## Capitoli 8–9
+
+Mila collabora alla distribuzione temporanea di compiti rimasti senza B-17 dopo la scelta di non ripararlo. Riconosce il valore di descrivere in modo umano e realistico il lavoro di continuità, senza sminuire i benefici reali dell'automazione. L'arrivo del sostituto ripristina i servizi, non la confidenza dei colleghi con Bi.

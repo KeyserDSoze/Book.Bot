@@ -22,3 +22,8 @@ Capitolo 2: scherza sul bot che prende male il foglio e interviene con suggerime
 ## Capitoli 6–7
 
 Paolo cerca di contenere la tensione durante la discussione interna, poi interviene dopo l'aggressione a Bi e collabora con il personale di sicurezza e assistenza. Durante l'assenza deve rifornire manualmente la macchinetta del caffè e rintracciare documenti che Bi portava sempre al momento opportuno. Non è diventato incapace: si è disabituato a una serie di gesti piccoli ma continui. Il tavolo da ping pong resta quasi inutilizzato.
+
+
+## Capitoli 8–9
+
+Paolo verifica il preventivo per B-17 e conferma che ripristinare spalla, sensori e certificazioni di sicurezza costerebbe quasi quanto una unità nuova. Non trova argomenti economici semplici per contraddire la direzione. Un mese dopo partecipa al collaudo di B-21: il nuovo robot è competente e conforme, copia i fogli senza problemi e rifornisce il caffè; ciò non gli restituisce l'abitudine di parlare con Bi o di giocare con lui.

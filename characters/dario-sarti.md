@@ -19,3 +19,8 @@ Non attribuirgli conoscenze sulle ragioni delle sconfitte di Bi.
 Dario perde fiducia nella promessa dell'automazione quando apprende che il posto senior lasciato da Adriana Lodi non verrà aperto. Si mostra ostile a Bi e discute con colleghi che invece lo difendono. Dopo una riunione interna, insieme a Mauro Lanza, aggredisce Bi in un corridoio di servizio. La scena è documentata da telecamere e testimoni. Viene allontanato cautelativamente dal servizio e dal campus, con responsabilità e conseguenze da accertare.
 
 Durante il capitolo 7 rimane a casa, privo di accesso operativo. Legge i messaggi di un gruppo personale dei colleghi sulle attività che non vengono più svolte spontaneamente. Inizia a rendersi conto della dipendenza dalle routine di Bi, ma non si scusa, non si giustifica e non viene perdonato. Non farlo ricomparire in ufficio senza un evento canonico che lo consenta.
+
+
+## Capitolo 8
+
+Dopo l'allontanamento cautelativo, gli accertamenti aziendali sull'aggressione a Bi vengono conclusi. L'AD Lorenzo Verri comunica nella plenaria che Dario Sarti e Mauro Lanza **non lavoreranno più per Cyberdine**. Non è stata narrata una riconciliazione né un rientro. Il suo futuro fuori dall'azienda rimane aperto.

@@ -28,3 +28,10 @@ Nerea osserva le prime vittorie e le successive sconfitte di Bi al ping pong, no
 Nerea vede Bi gravemente danneggiato nel corridoio dopo l'aggressione di Dario e Mauro. La sua reazione è intensa, ma il narratore non certifica che il robot provi sofferenza o possieda una coscienza. Bi viene portato in assistenza e manca dalla stanza della carta dove si erano confidati.
 
 Il sopralluogo a Valle Corta si svolge e conferma l'esistenza delle quattordici case abitate. Restano accertamenti da compiere prima di una decisione definitiva sulla sirena. Nerea risponde ai tecnici, prende accordi per parlare al padre delle vecchie credenziali, ma non ha ancora raccontato tutto. Di sera, in assenza di Bi, si rivolge a Irene e le chiede come sta, senza cambiare argomento né interrompere la risposta.
+
+
+## Capitoli 8–9
+
+Nella plenaria Nerea sente l'AD Lorenzo Verri parlare della mancata riparazione di **«B-17»**, senza usare il nome «Bi». B-17 resta in custodia tecnica, il suo rientro non è previsto. Nerea racconta al padre che ha usato il suo identificativo per le richieste di manutenzione; iniziano insieme una ricostruzione assistita, senza esito conclusivo. I sopralluoghi a Valle Corta confermano le quattordici case e la dismissione è ancora sospesa in attesa delle verifiche sulla copertura alternativa.
+
+Un mese dopo Nerea incontra il nuovo B-21, identico nell'aspetto, cortese e capace nei compiti, ma estraneo alle loro confidenze. Nella stanza della carta lo chiama «Bi» e lui chiarisce di essere B-21 e non B-17. Nerea ne rispetta il nome, comprendendo che la nuova unità non è il Bi che conosceva. Nessuna prova conclusiva di coscienza.

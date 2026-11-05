@@ -26,3 +26,8 @@ Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la v
 ## Capitoli 6–7
 
 Kyla convoca un incontro di ascolto tra colleghi divisi su Bi, senza promettere soluzioni inesistenti. Dopo l'aggressione coordina la comunicazione interna con la sicurezza e conferma l'allontanamento cautelativo di Dario e Mauro; non minimizza la gravità dell'episodio. In seguito comunica a Nerea che il centro di assistenza non può ancora fornire una data di rientro. Nota che l'assenza di Bi espone una dipendenza dell'azienda da conoscenze operative poco documentate.
+
+
+## Capitolo 8
+
+Kyla segue la plenaria dell'AD Lorenzo Verri. Ascolta l'annuncio della cessazione del rapporto di lavoro con Dario e Mauro e la scelta di non riparare B-17. Non contesta i costi del preventivo, ma riconosce l'importanza di non promettere ai colleghi che un nuovo robot equivalga anche a Bi come relazione. Nel capitolo 9 è presente al collaudo di B-21, identico nell'aspetto e diverso nelle conversazioni.
