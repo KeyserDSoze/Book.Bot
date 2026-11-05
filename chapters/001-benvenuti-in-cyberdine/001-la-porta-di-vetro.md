@@ -31,7 +31,7 @@ Vicino al banco d'accoglienza, Nico Valenti, del gruppo di sviluppo, stava aiuta
 
 Kyla lo salutò da lontano. Lui rispose alzando due dita, senza perdere il filo. Era uno degli sviluppatori migliori nel capire dove un sistema smetteva di essere utile a chi lo usava. A volte, nelle riunioni, dimenticava di guardare negli occhi la persona a cui stava parlando. Kyla aveva imparato a riconoscere entrambe le cose.
 
-Kyla aspettò ancora un istante.
+Kyla tornò agli ospiti.
 
 «Non vedo linee di produzione», disse Sahir Venn.
 

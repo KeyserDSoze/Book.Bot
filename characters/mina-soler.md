@@ -15,3 +15,7 @@ Nel capitolo 10 controlla la squadra azzurra durante una simulazione tra robot: 
 ## Capitoli 11–14
 
 Mina vede diffondersi un montaggio virale della prova nel bosco, più spettacolare della sequenza completa, e annota che il risultato dipende dalla squadra e dalla sua autorizzazione di sicurezza. Interviene contro proposte di spettacoli che inducano cadute o rischi non controllati. In capitolo 14, con autorizzazione di Marta Ledesma, legge a B-17 una lettera personale di Nerea. B-17 chiede di rispondere. Non esistendo una procedura apposita per corrispondenza personale del robot verso esterni non proprietari, Mina apre una richiesta, ancora in attesa.
+
+## Regola della simulazione, capitolo 10
+
+Il punteggio della prova di Veyra è verificabile: il controllo rosso del punto centrale porta a una vittoria dopo l'esaurimento del suo conto alla rovescia; l'azzurro può ribaltarlo raggiungendo la colonnina e mantenendo il contatto per **cinque secondi**. B-17 riesce nell'azione soltanto dopo che Mina ha verificato e autorizzato un percorso alternativo sicuro. Nessuna vittoria automatica perché il robot è «speciale».

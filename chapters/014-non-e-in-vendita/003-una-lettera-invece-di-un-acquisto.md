@@ -117,6 +117,4 @@ Firmò soltanto **Nerea**.
 
 Paolo chiuse la raccolta. Irene controllò per l'ultima volta che tutti i contribuenti ricevessero una comunicazione chiara. Kyla si offrì di verificare, con i referenti autorizzati di Veyra, se fosse possibile inoltrare una lettera personale senza usarla per promozione.
 
-Non avevano ottenuto il robot.
-
-Avevano trovato qualcosa di più piccolo da tentare, e per la prima volta quel piccolo tentativo non richiedeva di mettere un prezzo su Bi.
+Sul tavolo il riepilogo dei contributi stava già scomparendo dalla pagina della raccolta. Nerea rilesse l'ultima riga della lettera. Non c'era nessuna cifra da correggere.

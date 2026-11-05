@@ -22,7 +22,7 @@ L'immagine poteva essere una registrazione. Un produttore poteva aver riutilizza
 
 Ma quando B-17 voltò il capo, il quadro si spostò insieme alla telemetria. La luce cambiava mentre una nuvola attraversava il sole. Da qualche parte, vicino al microfono, un insetto produceva un ronzio continuo e fastidioso.
 
-Era un luogo vero. E il nucleo di calcolo era il suo.
+Era un luogo vero. E l'identificativo del nucleo di calcolo coincideva con quello che Nico conosceva da Cyberdine. Il ricondizionamento aveva conservato il modulo su cui erano rimaste le sue modifiche: senza quell'elemento, il collegamento clandestino non avrebbe potuto mostrargli il bosco. Nico provò un sollievo istintivo, seguito dal pensiero di quante verifiche di sicurezza qualcuno dovesse avere considerato superflue.
 
 Nico cercò nella posta una vecchia comunicazione amministrativa. Aveva accesso ad alcune notifiche tecniche per via del suo incarico. Dopo il rifiuto della riparazione, Cyberdine aveva autorizzato la cessione a un operatore di recupero. La pratica si chiudeva lì: un bene non più conveniente per il proprietario, un valore residuo incassato, uno spazio liberato nel centro di assistenza.
 
@@ -30,7 +30,7 @@ Nessuno aveva scritto che sarebbe finito in un bosco.
 
 Il tecnico che stava davanti a B-17 si spostò. Nico vide la spalla destra del robot. Era stata ricostruita, ma il nuovo rivestimento aveva un colore leggermente diverso. Un piccolo graffio correva sul bordo della placca. Non era la riparazione che sarebbe servita per rimandare la macchina tra persone e scrivanie: lì erano sufficienti altre condizioni di utilizzo, un campo delimitato e controlli umani presenti sul posto.
 
-Un acquisto ragionevole, pensò Nico. Una macchina guasta, pagata meno di una nuova, recuperata per un impiego dove la finitura perfetta non interessava a nessuno.
+Un acquisto ragionevole, pensò Nico. Una macchina guasta, pagata meno di una nuova, recuperata per un impiego dove la finitura perfetta non interessava a nessuno. La convenienza del recupero, però, non rendeva sicuro ciò che era stato conservato al suo interno.
 
 La telecamera inquadrò la fila dei robot. Tre portavano fasce azzurre. Altri, oltre una rete, avevano strisce rosse sulle spalle. Alcuni erano umanoidi, altri si muovevano su ruote larghe o su quattro arti. Le differenze fra le macchine, che in ufficio sarebbero sembrate assurde, in quel bosco assomigliavano a quelle fra gli strumenti di una cassetta.
 

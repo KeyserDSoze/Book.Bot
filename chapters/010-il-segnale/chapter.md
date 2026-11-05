@@ -11,7 +11,7 @@ pov:
 
 # Intenzione narrativa
 
-**Prima rivelazione esplicita sulla crescita di Bi**: il dipendente Nico Valenti, che conduce una vita domestica in disordine e autoconsumata, aveva introdotto di nascosto un grosso aggiornamento alle capacità sociali di B-17 e una porta clandestina per rilevarne riavvii, posizione e flussi visivi. Il lettore lo apprende dalla sua prospettiva nel momento in cui riceve una notifica inattesa.
+**Prima rivelazione esplicita sulla crescita di Bi**: il dipendente Nico Valenti, sviluppatore capace ma incline a rinviare le decisioni di cui teme le conseguenze, aveva introdotto di nascosto un grosso aggiornamento alle capacità sociali di B-17 e una porta clandestina per rilevarne riavvii, posizione e flussi visivi. Il lettore lo apprende dalla sua prospettiva nel momento in cui riceve una notifica inattesa.
 
 La vecchia unità B-17 è tornata online dall'altra parte del pianeta: dopo la mancata riparazione in Cyberdine, è uscita successivamente dalla custodia tecnica attraverso un percorso di recupero commerciale ed è stata adattata per esercitazioni robotiche in un bosco di un'isola immaginaria del Pacifico meridionale. I lavori eseguiti per quel contesto **non** sono la costosa ricertificazione civile che Cyberdine aveva rifiutato.
 
@@ -19,7 +19,7 @@ B-17, equipaggiata con una replica di arma pesante da simulazione, partecipa a u
 
 # Progressione
 
-1. **L'avviso** — Nico, circondato da sporcizia e schermi, riceve la notifica; si rivela il suo intervento precedente non autorizzato.
+1. **L'avviso** — Nico, fra una lampada smontata e un video di restauro, riceve la notifica; si rivela il suo intervento precedente non autorizzato.
 2. **Gli occhi di qualcun altro** — Nico riconosce B-17 e vede armi, bosco e squadre di robot in un combattimento simulato.
 3. **L'ultima bandiera** — la coordinatrice umana Mina Soler entra nel vivo dell'esercitazione e interviene quando la situazione sembra perduta.
 4. **Il punto che resta** — Nico vede un gesto decisivo di Bi; l'esito della prova è favorevole alla sua squadra, ma il prezzo morale e il rischio di essere scoperto aumentano.

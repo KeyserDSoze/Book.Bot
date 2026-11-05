@@ -20,7 +20,7 @@ Era scritta sul pannello accanto alla postazione, ma non era per questo che la a
 
 La pioggia batteva sul tetto della sala di controllo. Sei schermi mostravano il bosco da angolazioni diverse; un settimo conteneva le posizioni delle unità ancora in gioco. La squadra azzurra aveva perso due partecipanti in pochi minuti. Dall'altra parte restavano due unità rosse, oltre a una terza che aveva già raggiunto l'obiettivo centrale.
 
-Il conto alla rovescia proseguiva.
+Il conto alla rovescia proseguiva. La squadra rossa controllava il punto centrale e avrebbe vinto se il proprio tempo fosse arrivato a zero. Per rovesciare il risultato un avversario doveva raggiungere la colonnina e mantenerne attivo il contatto per cinque secondi, senza che il comando fosse interrotto. Era una regola semplice; fino a quel momento la squadra azzurra non aveva neppure raggiunto il punto.
 
 **ROSSO — 01:42.**
 
@@ -110,13 +110,13 @@ Il robot tese una mano.
 
 Una luce lampeggiò sul pannello di controllo.
 
-**PUNTO CENTRALE CONTESTATO.**
+**PUNTO CENTRALE CONTESTATO — CONTROLLO AZZURRO IN 00:05.**
 
 Mina si alzò così bruscamente che la sedia urtò contro il tavolo.
 
 «È arrivato!»
 
-Il robot rosso tentò di tornare verso la colonnina. Un altro segnale attraversò la radura, ma sullo schermo il conto era ormai arrivato a pochi secondi.
+Il robot rosso tentò di tornare verso la colonnina. Un altro segnale attraversò la radura senza interrompere il contatto. B-17 teneva la mano ferma sul comando. Sul monitor, accanto al conto rosso, scendevano gli ultimi secondi necessari a ribaltare il controllo del punto.
 
 Tre.
 

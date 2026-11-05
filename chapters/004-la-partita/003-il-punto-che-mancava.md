@@ -129,7 +129,7 @@ Dario lasciò cadere la racchetta sul piano e sollevò il mento.
 
 Il rumore delle mani riempì la stanza.
 
-Bi si chinò a raccogliere la pallina. Lo fece con la stessa attenzione che aveva impiegato a prendere la chiave di Nerea, una sera, per non farla cadere dal banco.
+Bi si chinò a raccogliere la pallina. Nerea riconobbe la cautela delle sue mani: la stessa che ricordava dalla sera in cui aveva ritrovato la chiave di ottone al sicuro, lontano dal bordo del banco.
 
 Dario gli si avvicinò fin quasi a toccare la striscia di sicurezza. Si piegò in avanti, con il sorriso di chi non vuole soltanto vincere ma essere visto mentre vince.
 

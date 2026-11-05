@@ -88,3 +88,11 @@ Un richiamo narrativo deve **cambiare significato**, non solo ripetere una parol
 Nico, dalla prima scena, deve essere uno sviluppatore competente e schivo. Non renderlo un colpevole segnalato da occhiate sinistre, né un eroe segreto. Il lettore iniziale non può conoscere la causa del salto delle capacità prima del capitolo 10. Il suo ascolto di un dipendente nel capitolo 1 deve avere senso prima che il capitolo 12 ne mostri il paradosso.
 
 Eliminare spiegazioni ridondanti che ripetono quanto già raccontato da un gesto. Evitare volgarità ornamentali, scandali gratuiti e cliffhanger artificiali. La grandezza di Bot deve nascere dall'inevitabilità delle conseguenze e dalla precisione delle contraddizioni, non dal volume delle rivelazioni. Custodire la sincerità degli argomenti economici di Irene, Paolo, Kyla, Lorenzo, Mina e Marta.
+
+## Seconda passata: personaggi, chiarezza, sottrazione (v0.16.0)
+
+Un personaggio moralmente discutibile non ha bisogno di una casa ripugnante per risultare responsabile delle proprie azioni. Nico è competente, solo e incline a rinviare; la sua scelta clandestina emerge dal desiderio di preservare un miglioramento senza sostenerne pubblicamente la valutazione. Non trasformare la sua difficoltà a prendersi cura di sé in una caricatura. Ogni gesto che riguarda un'informazione privata deve essere compatibile con ciò che il POV poteva conoscere: **nessuna onniscienza ottenuta per comodità narrativa**.
+
+Nelle azioni con regole (partite, test, contratti, raccolte) il lettore deve capire **la causa del risultato**. Una svolta emozionante che non supera una verifica logica è più debole, non più epica. Gli oggetti ricorrenti devono avere continuità fisica: la chiave di Nerea non può essere «presa» da Bi in una scena se quella precedente non lo mostra.
+
+Dopo una scena forte non aggiungere due frasi per spiegare che è forte. Lasciare al lettore il lavoro finale di collegare i fatti.

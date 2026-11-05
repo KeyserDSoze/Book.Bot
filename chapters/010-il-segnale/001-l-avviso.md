@@ -15,23 +15,21 @@ factions:
   - faction:cyberdine
 ---
 
-La notifica arrivò mentre Nico Valenti guardava un uomo liberare una fogna intasata.
+La notifica arrivò mentre Nico Valenti guardava un restauratore rimettere in funzione l'orologio elettrico di una vecchia stazione.
 
-Era il diciassettesimo minuto di un video che non avrebbe saputo spiegare a nessuno. L'uomo, ripreso da una telecamera fissata al petto, continuava a estrarre grumi di grasso e vecchi stracci da un tubo. Nico non riusciva a smettere di guardare. Prima c'erano stati tre video di grondaie piene d'insetti, poi uno di una pressa che schiacciava confezioni di cibo scaduto. Adesso questo.
+Nel video l'uomo controllava un contatto, rimontava un ingranaggio e aspettava che la lancetta avanzasse. Nico aveva aperto quella registrazione per curiosità; dopo venti minuti si era accorto di averne lasciate partire altre tre. Gli piacevano quei lavori nei quali un guasto poteva essere indicato con il dito e un risultato non dipendeva da come veniva raccontato.
 
-Teneva un sacchetto di patatine al formaggio appoggiato sulla pancia. Ne pescava due alla volta, le infilava in bocca e si ripuliva le dita sui pantaloni. Ogni tanto apriva un'altra scheda per vedere quanto durasse il video, come se sapere che sarebbe finito gli consentisse finalmente di spegnerlo.
+Sul tavolo, accanto al portatile, c'era una lampada senza interruttore. Aveva deciso di ripararla quella mattina, prima di uscire. Poi erano arrivati due messaggi di lavoro, una telefonata che non aveva richiamato e il pensiero di non sapere quale ricambio acquistare. La lampada era rimasta aperta. Accanto, un taccuino di prove era finito sotto un bicchiere d'acqua.
 
-L'appartamento puzzava di fritto e vestiti umidi. Una scatola di pizza era piegata sotto la sedia; sul tavolo c'erano due forchette incollate a un piatto e una lattina quasi vuota. Il frigorifero faceva uno scatto ogni sette secondi. Nico lo aveva contato la sera precedente ed era rimasto sveglio fino alle quattro senza trovare la voglia di ripararlo.
+Sul secondo monitor aveva lasciato un elenco di cose da fare. In cima: *riordinare il tavolo*. Era giovedì. L'aveva scritto domenica.
 
-Sul secondo monitor aveva lasciato aperta una lista di cose da fare. Al primo punto c'era scritto *cambiare le lenzuola*. Era giovedì. La lista l'aveva scritta domenica.
-
-Un suono breve arrivò da una piccola finestra nascosta dietro al browser.
+Un suono breve arrivò da una finestra di servizio quasi coperta dal browser.
 
 **B-17 — UNITÀ ATTIVA.**
 
-Nico smise di masticare.
+Nico rimase immobile.
 
-Il suono si ripeté. Si raddrizzò tanto in fretta che la lattina cadde e il liquido rimasto si sparse sulla scatola della pizza. Nico guardò il pavimento, come se fosse necessario decidere se salvarlo, ma la scritta sul monitor gli riprese gli occhi.
+Il suono si ripeté. Nel chinarsi verso il monitor Nico urtò il bicchiere con il gomito. L'acqua raggiunse il taccuino aperto. Lui non se ne accorse.
 
 Non riceveva segnali da quel robot dalla sera in cui era stato danneggiato nel corridoio di Cyberdine. Aveva ascoltato la plenaria in cui Lorenzo Verri dichiarava che l'azienda non lo avrebbe riparato. Si era seduto nell'ultima fila, con il cappuccio della felpa sulla testa. Quando sullo schermo era apparso il numero B-17 era uscito per andare in bagno, senza averne bisogno.
 
@@ -39,9 +37,11 @@ Aveva poi visto arrivare B-21 dalla finestra del reparto. Una macchina nuova, id
 
 Perché Nico Valenti lo sapeva.
 
-Lavorava nello sviluppo delle capacità comportamentali dei robot. Qualche mese prima aveva ricevuto accesso a un ambiente di prova di B-17 per esaminare alcune risposte troppo meccaniche. Avrebbe dovuto raccogliere dati, formulare un test e sottoporlo ai responsabili.
+Lavorava nello sviluppo delle capacità comportamentali dei robot. Poco dopo l'arrivo delle unità aveva ricevuto accesso a un ambiente di prova di B-17 per esaminare alcune risposte troppo meccaniche. Avrebbe dovuto raccogliere dati, formulare un test e sottoporlo ai responsabili.
 
 Aveva fatto il test. Poi un altro. E un altro ancora, di notte.
+
+Nei risultati preliminari le conversazioni si allungavano. Il sistema concludeva meno richieste nell'unità di tempo che Nico usava per le verifiche. Qualche scambio, però, non finiva più con la persona costretta a ripetere la stessa domanda: lui lo vedeva nelle trascrizioni dei casi autorizzati. Non era riuscito a costruire una misura che tenesse insieme quei due risultati. Aveva comunque proseguito.
 
 Aveva ampliato le capacità conversazionali della macchina: riconoscere quando una domanda era in realtà un invito a parlare, mantenere il contesto oltre la singola richiesta, aspettare senza trattare ogni silenzio come un errore da correggere. Invece di limitarsi a portare a termine una conversazione, il sistema aveva cominciato a lasciare spazio a chi stava dall'altra parte.
 
@@ -75,7 +75,7 @@ L'oggetto che B-17 teneva contro il torace era lungo e nero, con un sostegno sul
 
 Sembrava un'arma pesante.
 
-Il video della fogna era rimasto in pausa sul monitor di sinistra. Una patatina, caduta dalla scrivania, si stava sciogliendo nella bevanda rovesciata.
+Il filmato dell'orologio continuava sul monitor di sinistra. L'acqua si allargava lentamente fra gli appunti di Nico.
 
 Nico non guardava più niente della stanza.
 

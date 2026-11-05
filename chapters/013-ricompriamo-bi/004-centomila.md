@@ -106,6 +106,4 @@ Nella stanza non si alzò nessun applauso. Paolo chiuse il computer e raccolse l
 
 Avevano ottenuto un risultato sorprendente: centinaia di persone, alcune sconosciute, avevano deciso di mettere denaro a disposizione per una macchina con un nome.
 
-Da qualche parte, dall'altra parte del pianeta, quel nome apparteneva già a un contratto.
-
-Kyla lo sapeva. Non volle dirlo proprio in quel momento.
+Da qualche parte, dall'altra parte del pianeta, B-17 era ormai al centro di accordi commerciali che quel gruppo non poteva sciogliere. Il nome «Bi», invece, era nato in un corridoio e non era scritto nella loro offerta come un bene da comprare. Kyla guardò la conferma dell'invio e lasciò che gli altri rimanessero in silenzio.

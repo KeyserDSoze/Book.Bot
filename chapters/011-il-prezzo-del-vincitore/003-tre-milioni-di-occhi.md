@@ -25,7 +25,7 @@ Tre milioni di visualizzazioni, poi quattro. Le cifre cambiavano a ogni aggiorna
 
 Una pagina lo chiamava *il gladiatore artificiale*. Un'altra *il primo soldato capace di pietà*, citando la domanda sui compagni eliminati. Sotto, migliaia di persone litigavano come se avessero assistito a due guerre diverse.
 
-Nico si alzò per chiudere la finestra. Il sacchetto delle patatine della notte precedente era ancora sul pavimento. Una zanzara batteva contro il vetro. Era una mattina limpida e lui non aveva il coraggio di accendere la luce.
+Nico si alzò per chiudere la finestra. La lampada del tavolo era ancora smontata. Una vite era rotolata sotto la sedia e lui la raccolse prima di accorgersi che stava evitando ancora una volta di aprire la posta. Era una mattina limpida.
 
 Aprì il software interno dell'azienda per preparare il lavoro della giornata. La lista dei compiti conteneva correzioni innocue, verifiche sui tempi di risposta, un promemoria per una riunione sui controlli di autorizzazione. Lo avrebbe seguito senza difficoltà, come tutti i giorni.
 
@@ -39,9 +39,9 @@ Non era più la stessa violazione che si era raccontato all'inizio. O forse lo e
 
 Sul monitor comparve un nuovo avviso del campo. Nico non aprì il video. Guardò la posizione e il codice, poi chiuse la finestra.
 
-Gli rimase nella testa il volto di Nerea, che aveva visto soltanto in alcune immagini di gruppo interne a Cyberdine. Non conosceva la sua confidenza nella stanza della carta. Sapeva che, durante una di quelle sere, la macchina aveva smesso di lavorare per ascoltarla. E sapeva di avere costruito una porta attraverso la quale qualcuno avrebbe potuto osservare quel momento.
+Gli rimase nella testa il volto di Nerea, incontrata qualche volta nei corridoi e vista in alcune immagini di gruppo interne a Cyberdine. Non conosceva la sua confidenza nella stanza della carta. Nei registri che poteva consultare per il lavoro erano comparse anche interruzioni di attività non urgenti, richieste che non terminavano subito in un'operazione. Lui aveva cambiato il modo in cui B-17 poteva sostenere quelle conversazioni. E poi aveva lasciato aperto un canale per osservarle.
 
-Nessuna cifra di visualizzazioni era abbastanza grande da cancellarlo.
+Non era necessario conoscere il contenuto di una confidenza per capire quanto fosse grave aver reso possibile violarla.
 
 Il telefono vibrò. Un collega gli aveva inoltrato il filmato.
 
