@@ -6,7 +6,7 @@ through_chapter: chapter:020-il-prezzo-di-una-memoria
 through_scene: scene:020-il-prezzo-di-una-memoria:005-la-risposta-prima-del-buio
 ---
 
-# Stato corrente di Bot — dopo il capitolo 14
+# Stato corrente di Bot — dopo il capitolo 20
 
 ## Premesse
 
@@ -38,16 +38,16 @@ Marta rifiuta cortesemente l'offerta: gli impegni con sponsor, opzioni e nuove p
 
 Nerea, Paolo e Irene scelgono una strada più piccola: chiedono attraverso canali autorizzati di consegnare **una lettera privata a B-17**, senza riprese pubblicitarie. Marta acconsente alla consegna. Mina legge a B-17 un messaggio di Nerea che ricorda la stanza della carta, la sirena ancora attiva, il padre, Paolo, Irene, B-21 e il ping pong. Bi riconosce il nome di **Nerea Dalmasso**, chiede di risponderle e comunica che è operativo ma la spalla richiede ancora verifiche. Mina non trova una procedura prevista per una **risposta personale del robot a un individuo esterno che non è proprietario né committente**. Compila una richiesta di recapito: è il nuovo punto aperto. Non è stato inviato alcun messaggio di ritorno e **non** è stata dimostrata la coscienza di Bi.
 
-## Punto esatto di ripresa
+## Punto storico di ripresa dopo il capitolo 14 (superato)
 
-La domanda successiva riguarda chi possa autorizzare la comunicazione di B-17, la differenza tra una richiesta socialmente adeguata e una volontà, e se il valore di mercato sia un criterio sufficiente per decidere la destinazione di un robot. **Non** risolvere attraverso la vecchia backdoor di Nico. L'indagine sui dati e sulle modifiche di Nico resta aperta. B-21 è una buona unità di Cyberdine. La carriera di Irene resta irrisolta. I problemi di Nerea su Valle Corta e sulle credenziali del padre richiedono ancora una conclusione. I settori di Cyberdine e Aruvhana restano ignoti.
+All'epoca la domanda successiva riguardava chi possa autorizzare la comunicazione di B-17, la differenza tra una richiesta socialmente adeguata e una volontà, e se il valore di mercato sia un criterio sufficiente per decidere la destinazione di un robot. **Non** risolvere attraverso la vecchia backdoor di Nico. L'indagine sui dati e sulle modifiche di Nico resta aperta. B-21 è una buona unità di Cyberdine. La carriera di Irene resta irrisolta. I problemi di Nerea su Valle Corta e sulle credenziali del padre richiedono ancora una conclusione. I settori di Cyberdine e Aruvhana restano ignoti.
 
 
 ## Nota di coerenza dopo la revisione v0.15.0
 
 Nico Valenti compare nel romanzo dal capitolo 1, ma la causa segreta del mutamento di B-17 è scoperta dal lettore solo nel 10 e dai colleghi solo nel 12. Elena ha annotato una nuova domanda non richiesta ma pertinente di B-17 nel capitolo 3; nel 9 la nota è ancora priva di riscontro, nel 12 viene recuperata da Lea. Mauro è visibile nelle consegne dal capitolo 2, Irene consiglia di controllare gli originali, Lea difende la riservatezza dei destinatari dei materiali dello Spazio Comune.
 
-Adriana va in pensione tra capitoli 7 e 8. Il KPI di 6.400 ore trimestrali dei capitoli iniziali deriva dal programma complessivo di automazione, non da soli 26 giorni di robot. Il preventivo prevedeva una possibile cessione commerciale futura: nessuna vendita era già decisa nella plenaria. Al capitolo 11 Marta rimuove la clausola di esclusiva sul nome «Bi». Il punto esatto di ripresa resta il capitolo 14: Mina ha aperto la richiesta per recapitare una risposta personale da B-17 a Nerea; non è stata ancora approvata.
+Adriana va in pensione tra capitoli 7 e 8. Il KPI di 6.400 ore trimestrali dei capitoli iniziali deriva dal programma complessivo di automazione, non da soli 26 giorni di robot. Il preventivo prevedeva una possibile cessione commerciale futura: nessuna vendita era già decisa nella plenaria. Al capitolo 11 Marta rimuove la clausola di esclusiva sul nome «Bi». Al momento della revisione v0.15.0, il punto di ripresa era il capitolo 14: Mina aveva aperto la richiesta per recapitare una risposta personale da B-17 a Nerea, ancora in attesa di approvazione.
 
 ## Rilettura v0.16.0, senza avanzamento della trama
 
@@ -117,3 +117,10 @@ Sono state introdotte piccole anticipazioni nei capitoli 1, 2, 4, 5, 8, 9, 15, 1
 La custodia azzurra delle racchette passa dal quarto al quinto e al quindicesimo capitolo; al 20 Nerea dice ancora di conservare la racchetta. Il preventivo dell'8 già distingue **modulo di elaborazione recuperabile** da **configurazione software da verificare**, senza anticipare la backdoor. Kyla conosce per un articolo sul lavoro la giornalista Livia Sanna già al capitolo 8; il suo ruolo nell'indagine arriva soltanto nel 19. Nel 17 Sofia firma un orario d'ingresso del vettore, mostrando la rilevanza economica che il fermo assume nel 18. Nel 20 la corrispondenza di Nerea rimane custodita con accessi limitati, ma il **termine di conservazione deve ancora essere stabilito** da chi ne ha responsabilità; la frase non è stata recapitata a B-17.
 
 Il romanzo termina ancora al capitolo 20, con B-17 temporaneamente non operativo e nessun risultato definitivo sull'audit. La versione 0.24.0 modifica retroattivamente il testo e la mappa dei richiami, non avanza la storia.
+
+
+## Quinta revisione v0.25.0 — stato editoriale attuale
+
+Il romanzo comprende ancora **20 capitoli**. La revisione opera su **25 scene** senza cambiare gli eventi fondamentali. I momenti esplicativi vengono spesso sostituiti da gesti e costi materiali: la perdita della visita alla serra nella struttura di Ada, la revisione della comunicazione di Verri, il richiamo dei contratti dei collaboratori di Veyra, la prova negativa di Nico risalente a prima della modifica clandestina. Nel video virale la voce che parla di rifiuto di lavorare è stata aggiunta da chi ha ripubblicato il filmato, non è una frase attestata dell'autista. Nessuno ha provato una rivolta coordinata dei robot. B-17 è ancora non operativo sotto verifica; **non ha letto la replica di Nerea**. Nessuna nuova spiegazione della coscienza o dell'attività economica di Cyberdine è canonizzata.
+
+Le note di ripresa dopo il capitolo 14 più sopra sono **storiche**; l'ultimo stato valido è il capitolo 20. La quinta review non avvia ancora il capitolo 21.

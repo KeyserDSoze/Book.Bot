@@ -157,8 +157,8 @@ Il lavoro riprendeva, esattamente come il direttore aveva promesso.
 
 Non avrebbe voluto scambiarlo con il mese precedente, quando ogni cosa richiedeva una ricerca e un favore. Eppure, mentre guardava il contenitore vuoto, si accorse di non aver raccontato a nessuno il dettaglio più banale: la prima volta che aveva parlato davvero a Bi, lui l'aveva ascoltata mentre diceva di desiderare il posto di Adriana.
 
-Il nuovo robot non avrebbe saputo che cosa significava quella frase per lei.
+B-21 passò davanti alla sua postazione.
 
-Non era una sua mancanza professionale.
+«Il dossier successivo è pronto», disse.
 
-Era qualcosa che non entrava nei compiti assegnati.
+Irene lo prese. Prima di aprirlo si accorse di aver lasciato la pagina del portfolio personale sotto il peso delle nuove pratiche.

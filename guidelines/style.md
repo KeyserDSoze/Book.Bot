@@ -120,3 +120,12 @@ La conclusione del capitolo 20 offre una **comunicazione personale concreta ma l
 Un dettaglio seminato deve servire **prima** della rivelazione: la casella di delega serve a completare un avallo, il riepilogo della cornice serve a non rifare una prova, la custodia azzurra viene tolta dal passaggio di un corridoio, il registro d'ingresso del vettore determina chi paga il tempo di attesa. Solo dopo quei dettagli cambiano senso. Favorire relazioni fra una scelta locale iniziale e una conseguenza lontana, senza costruire falsi nessi causali: il campo di delega del capitolo 1 non causa il fermo dell'Hub Levante, ma fa riconoscere al lettore una classe di problemi.
 
 Evitiamo oggetti carichi di simbolismo prima del tempo, dialoghi che sottolineano «ricordatelo» o spiegazioni retrospettive da narratore. La presenza di Lanter Service nel secondo capitolo non autorizza alcuna deduzione su una futura falla; il servizio è utile e un tecnico lo adopera responsabilmente. Anche i semi successivi al capitolo 20 restano **opportunità editoriali**, non rivelazioni future già fissate: il messaggio in sospeso ha una conservazione da definire, il dossier sulla sirena non è chiuso e i diritti su dati e comunicazioni restano questioni da risolvere.
+
+
+## Quinta revisione: ritmo e presenza (v0.25.0)
+
+Leggere `guidelines/revisione-05-tensione-e-vita.md` prima di ripetere strutture collaudate. Il nostro thriller usa tecniche generali di urgenza, asimmetria informativa, investigazione attraverso prove, capovolgimenti motivati e cambi di punto di vista; la prosa resta originale e non deve imitare formule riconoscibili di altri autori.
+
+Quando la scena ha già mostrato un oggetto decisivo (la targhetta, il foglio, la racchetta) o una scelta (una firma, una rinuncia, una telefonata), il finale **non deve spiegarne il significato**. Nei capitoli 3, 5, 6, 11, 14–20 sono stati rimossi numerosi commenti ridondanti e aggiunte conseguenze visibili: un'attività saltata in un centro assistenziale, i costi del rinvio delle riprese, una prova sfavorevole databile, una comunicazione corretta sullo schermo. Non ripristinare in futuro le vecchie frasi esplicative.
+
+Una conversazione realistica è anche una cosa interrotta: persone che pensano alla paga, una collega che arriva con un modulo, una voce dal corridoio, qualcuno che rinuncia a dire la frase perfetta. Non fare dei personaggi prudenti portavoce onniscienti. Non aggiungere oggetti simbolici solo perché suggeriscono mistero: chiedersi sempre a che cosa servono nella scena prima del ritorno.

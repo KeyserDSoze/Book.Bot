@@ -28,9 +28,9 @@ In fondo alla mail c'era una frase più difficile della prima domanda.
 
 *In una scheda proveniente da un ambiente di servizio del produttore compare il riferimento a uno sviluppatore di Cyberdine, N. Valenti, associato a una configurazione conversazionale non standard. Il documento è autentico?*
 
-Kyla posò il telefono sul tavolo.
+Kyla posò il telefono sul tavolo. Riaprì l'allegato: non era la scheda intera, soltanto un ritaglio senza intestazione, con tre righe di diagnostica. La sigla *N. Valenti* era leggibile; il numero della pratica, invece, risultava tagliato. Kyla ingrandì l'immagine fino a vedere i quadratini dei caratteri. Il nome non cambiò.
 
-Nico non era più un nome confinato nei verbali dell'indagine interna. Qualcuno aveva messo insieme due indizi: un vecchio robot divenuto famoso in un campo di simulazione e un aggiornamento commerciale che ora causava discussioni in più paesi.
+In quel momento qualcuno bussò per chiedere una firma sulla presentazione. Kyla richiuse l'allegato prima di rispondere.
 
 Chiamò Lea.
 
@@ -62,9 +62,15 @@ Verri la guardò.
 
 «Quella seconda parte non aiuta.»
 
-«Non deve aiutare. Deve essere corretta.»
+Kyla guardò il titolo della bozza sullo schermo: **CYBERDINE ESCLUDE QUALSIASI COLLEGAMENTO**.
 
-Il silenzio durò quanto il ronzio del proiettore. Kyla si accorse di aver parlato con una durezza che non usava di solito davanti all'AD. Non era diventata improvvisamente coraggiosa. Era stanca di riconoscere le frasi imprecise soltanto dopo che erano state pubblicate.
+«Quel titolo va tolto», disse.
+
+Verri rimase con il dito sul touchpad. «Cosa ci mettiamo?»
+
+«Che stiamo verificando i collegamenti possibili. E che la funzione commerciale è stata sviluppata da un'altra azienda.»
+
+Verri cancellò la parola *qualsiasi*. Rilesse la frase rimasta, poi chiuse la bozza senza inviarla.
 
 Livia richiamò verso le dodici. Kyla le rispose insieme a Lea, dal numero dell'ufficio.
 
@@ -96,4 +102,4 @@ Nel pomeriggio arrivò la seconda mail di Livia Sanna.
 
 *La notizia potrebbe essere pubblicata domani. Prima vorrei parlare anche con Nico Valenti.*
 
-Kyla la inoltrò a Lea. Poi, per la prima volta, si domandò che cosa avrebbe fatto Nico se qualcuno gli avesse offerto una telecamera e la possibilità di dire finalmente che tutto era cominciato da lui.
+Kyla la inoltrò a Lea. Il programma di posta completò l'invio mentre nell'ufficio accanto qualcuno provava il microfono per la presentazione del giorno dopo. La prima frase che arrivò attraverso la parete fu: «Da capo, per favore».

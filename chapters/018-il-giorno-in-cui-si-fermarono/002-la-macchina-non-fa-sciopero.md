@@ -74,4 +74,4 @@ Non lo inviò subito. Si accorse che suonava troppo semplice. Aggiunse: *E una u
 
 Il collega mandò una faccina che rideva.
 
-Amir mise via il telefono e andò a prendere un caffè. Doveva ancora compilare due rapporti per la stessa mattina. Non poteva ridurli a una parola, anche se quella parola sarebbe stata molto più comoda.
+Amir mise via il telefono. Davanti a lui c'erano due moduli di incidente. Sul primo scrisse **discrepanza documentale**; sul secondo **ostacolo fisico nel percorso**. Controllò gli orari prima di firmarli.

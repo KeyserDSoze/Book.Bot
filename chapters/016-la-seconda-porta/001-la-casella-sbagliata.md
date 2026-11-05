@@ -20,9 +20,11 @@ A Suzhou erano le otto e mezza del mattino. Dall'altra parte del vetro due tecni
 
 Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberdine.
 
-La catena era breve, e questo la rendeva peggiore. Il Circuito Veyra aveva inoltrato all'assistenza una richiesta sulla possibilità di recapitare una risposta personale generata dall'unità B-17. Un impiegato vi aveva allegato la lettera originale di una donna italiana. La piattaforma aveva conservato l'allegato nell'area riservata del cliente, ma aveva estratto automaticamente la prima riga di testo nella descrizione indicizzata del problema.
+Mei aprì due schermate affiancate. A sinistra, la pratica del Circuito Veyra: richiesta di recapito di una risposta, lettera allegata, accessi riservati. A destra, la scheda ricevuta dal servizio di Cyberdine durante una normale verifica di compatibilità. Nella descrizione della seconda compariva la prima riga della lettera.
 
-L'indice di alcune descrizioni era condiviso tra clienti della stessa famiglia di prodotto. Doveva contenere categorie tecniche, non frasi delle persone.
+Fece scorrere di nuovo il registro del servizio. La piattaforma aveva conservato l'allegato completo nell'area del Circuito, ma aveva ricavato una descrizione testuale che il motore di ricerca poteva mostrare ad altri clienti della stessa famiglia di robot. La voce *interazione personale* era stata trattata come le altre categorie di manutenzione, senza una separazione equivalente.
+
+Mei guardò le due colonne. Le persone avevano chiesto di recapitare una risposta, non di condividere la domanda.
 
 Era stato utile per anni. Un manutentore poteva trovare in pochi secondi il caso di un accessorio già risolto altrove. Bastava non includere contenuti privati. Nessuno, fino al caso di Veyra, aveva verificato che la nuova categoria *interazione personale* lo impedisse davvero.
 
@@ -72,11 +74,7 @@ Non avevano previsto che un esempio derivasse da un robot modificato clandestina
 
 Mei fissò la scheda.
 
-Il problema documentale della lettera e il progetto sperimentale non erano la stessa cosa. Uno dipendeva da un indice di assistenza costruito troppo largamente; l'altro da un processo che aveva confuso *funziona in prova* con *possiamo usarlo come modello per altri prodotti*.
-
-La stessa unità aveva reso visibili due scorciatoie diverse.
-
-Mei scrisse due segnalazioni separate. La prima chiedeva di delimitare subito gli accessi ai documenti. La seconda sospendeva l'approvazione della provenienza degli esempi del nuovo modulo fino a una verifica dedicata.
+Mei aprì due segnalazioni. Il sistema suggerì di unirle: stesso numero di serie, stesso cliente di origine. Rifiutò. Nella prima scrisse di delimitare gli accessi ai documenti e preservare le evidenze; nella seconda bloccò, per la parte di sua competenza, l'approvazione della provenienza degli esempi del nuovo modulo. I due fascicoli ricevettero numeri diversi.
 
 Dopo averle inviate, rimase un attimo con la mano sulla tazza. Non era nemmeno finita la mattinata.
 
@@ -84,6 +82,4 @@ Dal laboratorio arrivò un applauso breve: la pinza aveva finalmente sollevato i
 
 Poi riaprì la scheda di B-17. Sotto i risultati compariva una nota che non ricordava di avere mai approvato: *Trasferibile ad altre unità senza dipendenza dall'hardware originale*.
 
-La lesse una seconda volta.
-
-Era una promessa molto più grande di un contenitore sollevato.
+Mei lesse una seconda volta la nota. Il campo *autorizzato da* rimandava alla revisione standard del prodotto. Non indicava chi avesse verificato che fosse consentito usare quei casi per svilupparne uno nuovo.

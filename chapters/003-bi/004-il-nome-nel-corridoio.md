@@ -174,8 +174,4 @@ Dall'altra parte della parete qualcuno lo chiamò.
 
 «Certamente. Puoi inviarmi la richiesta.»
 
-Kyla proseguì senza voltarsi.
-
-Era un nome di due lettere, pronunciato nel mezzo di un normale mattino d'ufficio. Nessuno lo aveva approvato in una riunione. Nessuno aveva deciso che dovesse diventare ufficiale.
-
-Era bastato che una persona lo dicesse. E che un'altra cominciasse a usarlo.
+Kyla proseguì senza voltarsi. Dopo pochi passi sentì un'altra voce chiamare dal fondo del corridoio: «Bi, passa anche da noi quando hai finito». Il robot confermò l'incarico e girò oltre l'angolo.

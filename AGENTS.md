@@ -129,3 +129,12 @@ I richiami retroattivi sono registrati in `guidelines/indizi-e-risonanze.md`. In
 La custodia azzurra è introdotta durante l'allestimento del ping pong al capitolo 4, portata da Nerea dopo la partita vera nel 5 e cercata da lei nel 15. Il preventivo dell'8 indica il **modulo di elaborazione recuperabile**, distinto dall'eventuale verifica della configurazione; il sistema originario resta in B-17 a Veyra. Livia Sanna firma un articolo sui turni di lavoro citato da Kyla nell'8, prima di entrare direttamente nel 19. Nel 17 un registro d'ingresso del vettore prepara il costo e la registrazione del fermo nel 18. Il messaggio non consegnato a B-17 nel 20 ha un **termine di conservazione da stabilire**, non un tempo infinito: è una pratica aperta, non un nuovo countdown già deciso.
 
 Non retrodatare la scoperta della modifica clandestina prima del capitolo 10; non trasformare gli indizi in apparizioni frequenti di Nico; non promettere un nuovo colpo di scena senza una catena di responsabilità verificabile.
+
+
+## Quinta revisione v0.25.0 — tensione, prova, vita
+
+Obbligatorio consultare `guidelines/revisione-05-tensione-e-vita.md` quando si rielaborano scene o si scrive il seguito. La revisione riguarda **25 scene** e non cambia la trama già avvenuta. Tutte le scene devono sostenersi prima dei commenti del narratore. Un gesto concreto deve rappresentare il costo di una scelta: una visita perduta alla serra, un collaboratore che perde una giornata di lavoro, un foglio che diventa un dato accessibile ad altri.
+
+Tecniche di thriller ammesse: asimmetria dell'informazione, scoperte graduali, conseguenze verificabili, tempo pressante, variazione dei POV. **Niente imitazione della voce di scrittori viventi**, niente cliffhanger automatico in ogni scena, niente evidenze comparse per convenienza. Preservare incertezza sulla coscienza di Bi, titolarità, audit e provenienza dei dati. Dopo la quinta revisione il settore di Cyberdine e Aruvhana rimane intenzionalmente non dichiarato: deve diventare una scelta strutturale nel prossimo arco, non un dettaglio casuale aggiunto a un capitolo precedente.
+
+Punto di ripresa reale: **dopo il capitolo 20, v0.25.0**. Le note storiche in `state/current.md` non vanno trattate come istruzioni attuali sul capitolo 14.

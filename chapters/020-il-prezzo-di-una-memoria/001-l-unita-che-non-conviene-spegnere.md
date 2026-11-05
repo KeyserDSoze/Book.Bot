@@ -65,9 +65,21 @@ Mina le mostrò il piano preparato con Lanter. Una strada era riportare il softw
 
 Rimasero con i due fogli aperti.
 
-Marta chiamò il responsabile commerciale. Gli disse di avviare la procedura per rinviare le riprese della prossima sessione e di non promettere immagini sostitutive di B-17. Poi chiamò il legale per preparare una comunicazione agli sponsor. Avrebbero contestato le penali, se necessario; il risultato non era certo.
+Marta chiamò il responsabile commerciale. Gli disse di avviare la procedura per rinviare le riprese della prossima sessione e di non promettere immagini sostitutive di B-17.
 
-Dopo aver chiuso, rimase per qualche istante a guardare le cifre.
+«E la troupe?» domandò lui. «Abbiamo già confermato le giornate.»
+
+Marta aprì il foglio dei costi. Accanto alle batterie comparivano i nomi delle imprese incaricate di luci, trasporto e montaggio, con acconti già versati. Per alcuni lavoratori l'annullamento avrebbe significato perdere giornate che avevano tenuto libere per Veyra.
+
+«Dimmi quali contratti prevedono il pagamento anche in caso di rinvio», disse. «Per gli altri voglio il costo delle giornate già impegnate. Non mandare a tutti un messaggio uguale.»
+
+«Il produttore dell'evento vuole una data sostitutiva.»
+
+«Non ce l'ho. Glielo devi dire prima che spenda altri soldi.»
+
+Chiuse la chiamata e contattò il legale per preparare la comunicazione agli sponsor. Avrebbero contestato le penali, se necessario; il risultato non era certo. Il responsabile commerciale le mandò intanto un elenco di persone da richiamare una per una.
+
+Marta lo stampò. La prima pagina finiva a metà di un nome.
 
 «Non ho deciso di smantellarlo», disse a Mina.
 
@@ -75,7 +87,7 @@ Dopo aver chiuso, rimase per qualche istante a guardare le cifre.
 
 «Ho deciso di non metterlo in uno spettacolo mentre non sappiamo se possiamo farlo in sicurezza.»
 
-«È una decisione sufficiente per oggi.»
+«Allora sospendo le sessioni programmate nel registro del campo», disse Mina. «Il laboratorio resta nel perimetro di verifica già concordato.»
 
 Marta attraversò il corridoio del laboratorio. Dietro il vetro B-17 eseguiva una verifica del braccio, senza portare alcuna attrezzatura da simulazione. Si muoveva lentamente, fermandosi a ogni richiesta del tecnico.
 
@@ -97,4 +109,4 @@ Marta guardò Mina, poi rispose.
 
 «No. Ci sono persone incaricate. Per ora non devi fare altro.»
 
-Era una risposta che non avrebbe usato in un comunicato stampa. In quella stanza, però, era esatta.
+Marta tolse il dito dall'interfono. Il tecnico dietro il vetro attese che le indicazioni comparissero anche sul proprio terminale.

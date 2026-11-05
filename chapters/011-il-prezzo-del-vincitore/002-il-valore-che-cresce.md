@@ -108,6 +108,4 @@ Marta ci pensò.
 
 Rientrò in ufficio e aprì un documento nuovo. In alto scrisse: **B-17 — non impegnare a terzi senza autorizzazione direzione**.
 
-Lo salvò.
-
-Una macchina che Cyberdine aveva giudicato troppo costosa da riparare era diventata, nel giro di pochi giorni, qualcosa che Marta non poteva più permettersi di vendere per il suo solo prezzo materiale.
+Lo salvò. Appena chiuse il documento, arrivò una richiesta dello sponsor per anticipare la data della prossima prova. Marta rispose soltanto: *Prima il piano di sicurezza*.

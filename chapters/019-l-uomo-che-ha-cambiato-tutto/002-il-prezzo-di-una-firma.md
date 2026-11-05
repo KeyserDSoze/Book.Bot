@@ -22,7 +22,7 @@ La proposta arrivò con un documento da firmare e una frase molto gentile.
 
 Nico lesse il messaggio tre volte. La società che lo aveva contattato non produceva robot. Investiva in software e comprava piccole aziende. Nel file allegato si parlava di un accordo per finanziare una nuova impresa dedicata alle capacità sociali dei sistemi automatici. La cifra iniziale era superiore a ciò che Nico avrebbe guadagnato lavorando molti anni a Cyberdine.
 
-C'era però una condizione: doveva dichiarare di essere titolare delle idee e dei diritti necessari a svilupparle.
+C'era però una condizione: doveva dichiarare di essere titolare delle idee e dei diritti necessari a svilupparle. Nel modulo la dichiarazione occupava meno spazio della cifra dell'investimento. Nico fece scorrere il dito sul bordo della casella da firmare. Per alcuni secondi immaginò come sarebbe stato vedere quel denaro sul proprio conto e non dover più chiedere a Cyberdine di ascoltarlo.
 
 Nico si alzò. La lampada smontata era ancora sul tavolo; questa volta aveva comprato il ricambio giusto, ma non lo aveva montato. Guardò la piccola vite nella scatola e sentì un impulso ridicolo di sistemare tutto prima di rispondere all'offerta.
 
@@ -74,9 +74,15 @@ Livia non si affrettò a riempire il silenzio.
 
 Nico pensò all'investitore, alla dichiarazione di proprietà che gli chiedevano di firmare, alla differenza fra avere fatto un esperimento e poter rivendicare tutto ciò che era accaduto dopo.
 
-«Non voglio prendermi meriti che non posso dimostrare», disse. «E non voglio usare questa incertezza per evitare le responsabilità di quello che ho fatto davvero.»
+«Ho visto dei risultati che mi piacevano», disse Nico. «Troppo. Ho saltato verifiche che avrebbero dovuto farmi cambiare idea su alcune cose.»
 
-La frase gli parve troppo preparata appena la pronunciò. Ma era la più vicina a ciò che riusciva a sostenere senza mentire.
+«Ha dei documenti che lo dimostrano?»
+
+Nico abbassò gli occhi sul tavolo.
+
+«Li sto mettendo a disposizione dell'indagine. Non glieli mando io.»
+
+Livia non gli chiese una conclusione da mettere nel titolo. Annotò la risposta e gli ricordò che avrebbe potuto precisarla attraverso il suo legale prima della pubblicazione.
 
 Terminata la telefonata, aprì il documento dell'investitore.
 
@@ -92,4 +98,4 @@ Un attimo dopo gli arrivò una notifica di una pagina che seguiva la vicenda. Il
 
 Nico spense lo schermo.
 
-La lampada rimase aperta sul tavolo. In quel momento preferì non toccarla: c'erano già troppe cose che aveva provato a sistemare di nascosto.
+La lampada rimase aperta sul tavolo. Nico trovò la vite sotto il foglio dell'investitore e la rimise nella scatola del ricambio.

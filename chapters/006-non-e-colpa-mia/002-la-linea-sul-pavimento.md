@@ -129,8 +129,10 @@ Dario e Mauro stavano percorrendo il corridoio di servizio. Non gridavano più. 
 
 Bi, una decina di metri avanti, portava lo stesso contenitore di prima verso l'archivio.
 
-Mila sentì una fitta d'inquietudine tanto vaga da sembrarle sciocca. Si ricordò che doveva riconsegnare alcune sedie al deposito e tornò dentro.
+«Mila, mi dai una mano?», chiamò Paolo dalla sala. Una delle sedie aveva perso il piedino e rigava il pavimento a ogni spostamento.
 
-L'ultima cosa che vide fu la linea gialla dipinta sul pavimento, quella che indicava il percorso sicuro delle unità.
+«Arrivo.»
 
-Non c'era nessuna linea che separasse gli esseri umani in due gruppi. Eppure, da giorni, Mila aveva la sensazione di attraversarla a ogni frase.
+Mila guardò ancora il corridoio. Dario e Mauro seguivano la linea gialla a dieci passi da Bi. Non stavano correndo; qualcuno li salutò e Mauro fece un cenno come in un giorno qualunque.
+
+Mila rientrò e prese la sedia dal lato opposto a quello di Paolo. La gamba strisciò ancora sul pavimento.

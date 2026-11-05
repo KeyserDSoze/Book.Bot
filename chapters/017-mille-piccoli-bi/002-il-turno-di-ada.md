@@ -69,6 +69,8 @@ La aggiunse nelle note, senza chiamarla produttività.
 
 A fine giornata arrivò una proposta commerciale per estendere la funzione ad altre unità. Ada non la approvò subito. Chiese prima una prova più lunga e un elenco dei casi in cui il sistema aveva insistito per ottenere chiarimenti non necessari.
 
-Il venditore non sembrò contento.
+Il venditore propose di registrare comunque la richiesta come *estensione programmata*, in attesa del suo via libera. Ada si fece mostrare il modulo e lo restituì senza la firma.
 
-Ada gli spiegò che era contentissima del carrello arrivato nel posto giusto. Voleva soltanto sapere che cosa sarebbe successo il giorno in cui un carrello sarebbe rimasto fermo per una ragione sbagliata.
+«Prima voglio vedere anche le segnalazioni che avete classificato come inutili», disse. «Poi ne riparliamo.»
+
+Il carrello delle lenzuola passò davanti all'ufficio. La porta, questa volta, era aperta; l'operatrice lo raggiunse con tre passi e proseguì con lui.

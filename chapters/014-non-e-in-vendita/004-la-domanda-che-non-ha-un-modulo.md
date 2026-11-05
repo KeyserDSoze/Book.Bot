@@ -88,7 +88,7 @@ Poi proseguì.
 
 Mina abbassò il foglio.
 
-Non accadde nulla di spettacolare. Nessuna luce cambiò colore, nessun allarme si accese, nessun componente si mosse in un modo che potesse essere chiamato emozione. Il robot rimase davanti a lei come durante i test, in attesa.
+Il tecnico alla parete finì di contare le oscillazioni di un giunto. Si sentì il clic di una cinghia che tornava al suo posto. Mina teneva ancora il foglio sollevato; B-17 rimase fermo davanti a lei.
 
 «Il messaggio è finito», disse.
 
@@ -116,9 +116,7 @@ Mina guardò il foglio.
 
 «Vorrei rispondere anche alla sua domanda.»
 
-Mina non si affrettò a interpretare il verbo. I sistemi erano in grado di produrre richieste socialmente adeguate. Nico, lo sviluppatore che aveva modificato B-17, non era presente e Mina non conosceva i dettagli del suo intervento. La frase poteva essere una continuazione molto sofisticata di un dialogo. Poteva essere qualcosa che non avevano ancora imparato a descrivere.
-
-In quel momento a Mina non interessava decidere quale spiegazione fosse vera.
+Mina ripiegò un angolo della lettera, poi lo distese con il pollice. Era abituata a ricevere richieste di verifica da B-17. Questa, però, chiedeva di far arrivare parole a qualcuno che non aveva un contratto con il Circuito.
 
 «Va bene», disse. «Vediamo come fare.»
 
@@ -140,4 +138,4 @@ Non sapeva se l'avrebbero autorizzata. Non sapeva nemmeno chi avrebbe dovuto far
 
 Fuori dalla finestra, sotto la pioggia, gli altri robot si preparavano per il turno successivo.
 
-Mina salvò la richiesta. Non la cancellò soltanto perché nessuno aveva previsto una casella adatta.
+Mina salvò la richiesta. Il programma le assegnò un numero di pratica, ma lasciò vuoto il campo del destinatario responsabile.

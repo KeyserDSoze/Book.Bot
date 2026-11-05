@@ -71,6 +71,12 @@ Quella sera arrivò un ospite nuovo. Ada lo accompagnò al tavolo comune e gli i
 
 Ada guardò Giulia, che stava sistemando i bicchieri.
 
-«Chiede», rispose. «E qualcuno deve esserci per rispondere.»
+«Si ferma e ci domanda dove andare», rispose Ada.
 
-Non sapeva se quella risposta sarebbe stata vera per sempre. Per quel turno aveva deciso che lo sarebbe stata.
+L'uomo guardò Giulia, che stava sistemando i bicchieri.
+
+«Allora, se devo chiedere qualcosa, lo chiedo a lei?»
+
+«Anche a me», disse Ada.
+
+Giulia arrivò al tavolo con due bicchieri d'acqua. Ne lasciò uno davanti al nuovo ospite e gli chiese se desiderasse vedere il giardino prima di cena.

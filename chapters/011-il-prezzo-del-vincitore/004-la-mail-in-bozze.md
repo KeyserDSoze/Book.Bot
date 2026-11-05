@@ -81,6 +81,6 @@ Nico deglutì.
 
 Kyla tirò fuori il telefono, scelse un contatto e si allontanò di pochi passi per parlare. Nico rimase vicino al distributore, con il rumore di una porta automatica che si apriva e chiudeva alle sue spalle.
 
-La bozza era ancora sul suo schermo. Non la inviò.
+La bozza era ancora sul suo schermo. Non la inviò. Kyla tornò accanto a lui, gli chiese un recapito su cui Lea potesse richiamarlo e aprì il calendario.
 
-Per la prima volta, però, aveva pronunciato ad alta voce il nome di una persona a cui avrebbe dovuto raccontare tutto. E quella persona non gli aveva risposto con un ticket.
+Nico provò a dettarle il numero. Lo sbagliò alla settima cifra e dovette ricominciare.

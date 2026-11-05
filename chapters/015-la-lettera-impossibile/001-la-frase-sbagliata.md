@@ -72,7 +72,13 @@ Nerea gli mostrò la riga. Paolo non sorrise più.
 
 «Appunto.»
 
-Paolo guardò la stampante, B-21, il foglio. Per un momento Nerea riconobbe nel suo viso lo stesso pensiero che l'aveva colpita: *Bi ha trovato il modo di rispondere*. Era una spiegazione bellissima e sbagliata. Non c'era nulla che indicasse una risposta, soltanto un pezzo delle sue parole.
+Paolo guardò la stampante, poi B-21. Le labbra gli si mossero prima di trovare le parole.
+
+«Ma allora ha...»
+
+Nerea voltò il foglio: sul retro c'erano soltanto i codici di verifica e il logo del produttore.
+
+«È l'inizio della mia lettera», disse. «Non c'è una risposta.»
 
 «Non tocchiamo più niente», disse Paolo.
 
@@ -92,8 +98,4 @@ Lea lesse il documento senza commentare il contenuto personale.
 
 Alle spalle di entrambe, B-21 aspettava istruzioni per liberare la stampante. La sua mano rimase ferma a qualche centimetro dal vassoio.
 
-Nerea guardò la macchina nuova. Era precisa, educata, non aveva fatto nulla che assomigliasse a un tradimento. Eppure, per la seconda volta, un foglio aveva trovato la strada sbagliata attraverso un robot.
-
-La prima volta avevano riso tutti.
-
-Questa volta nessuno rideva.
+Nerea rimase accanto al banco. Sul cassetto della stampante Paolo aveva ancora lasciato l'etichetta **CORNICE, QUI**. Il foglio di Veyra era caldo fra le sue dita.

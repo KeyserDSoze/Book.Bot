@@ -68,7 +68,17 @@ Il consulente gli chiese se esistessero altre prove escluse dal riepilogo.
 
 Lea annotò la proposta e aggiunse alla richiesta di evidenze il materiale mancante. Non chiese a Nico di collegarsi a nessun sistema.
 
-Quella pagina non spiegava tutti gli arresti osservati nei siti di Lanter; il modulo commerciale era un prodotto diverso. Dimostrava però che Nico aveva visto un limite del proprio esperimento prima di distribuirlo senza approvazione.
+Il consulente ruotò il quaderno per leggere la data accanto alla nota.
+
+«Questa prova era precedente all'aggiornamento lasciato su B-17?»
+
+«Sì», rispose Nico.
+
+La penna di Lea rimase sospesa sul verbale. «Puoi confermarlo sui registri conservati?»
+
+«Attraverso la verifica degli originali, sì. Se esistono ancora tutti.»
+
+Lea scrisse una richiesta di controllo delle date, non una conclusione. Nessuno in quella stanza aveva accesso al codice di Lanter per affermare che il prodotto successivo avesse lo stesso difetto.
 
 A metà mattina fecero una pausa. Nico rimase seduto mentre gli altri andavano a prendere acqua. Guardò il quaderno. Aveva sempre creduto che il difetto più grave dei suoi esperimenti fosse non riuscire a convincere gli altri abbastanza rapidamente. Ora gli sembrava che il difetto fosse aver deciso di non dare agli altri il tempo di dire di no.
 

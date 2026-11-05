@@ -115,5 +115,3 @@ Nerea si fermò sotto la tettoia del negozio. Scrisse una risposta, la cancellò
 Rilesse, poi inviò.
 
 Il ponte rimase dov'era. La sirena, per ora, anche.
-
-Non per questo il lavoro era finito.

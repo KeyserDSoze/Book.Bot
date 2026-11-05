@@ -211,8 +211,6 @@ Non ce ne sarebbe stato un altro sotto.
 
 Nel corridoio Bi passò spingendo il carrello delle pratiche verso l'archivio. Un collega gli fece spazio senza dire niente, poi tornò a guardare lo schermo.
 
-Irene si rese conto che nessuno aveva assistito a un grande cambiamento. Una donna stava andando in pensione, una riunione aveva approvato un'organizzazione più economica, una macchina portava via cartelle.
+Dall'ufficio Adriana chiamò: «Irene, se venerdì non riesco a svitare la targhetta, sai dove tengo il cacciavite?»
 
-Domani le persone avrebbero continuato a lavorare.
-
-Soltanto la porta, fra qualche giorno, non avrebbe avuto più un nome.
+«Nel secondo cassetto», rispose Irene senza voltarsi. Aveva passato mesi a imparare dove Adriana teneva le cose.

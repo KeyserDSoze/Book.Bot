@@ -92,4 +92,4 @@ Mei scrisse invece:
 
 **Non possiamo garantire che il ripristino conservi le modalità di interazione riconoscibili alle persone che hanno conosciuto B-17.**
 
-Era una frase più lunga. Sarebbe rimasta vera anche se, un giorno, quelle persone avessero smesso di chiamarlo Bi.
+Mei salvò la versione con le tre colonne. Il programma le chiese se volesse sostituire il documento precedente. Selezionò **conserva entrambe le versioni**.

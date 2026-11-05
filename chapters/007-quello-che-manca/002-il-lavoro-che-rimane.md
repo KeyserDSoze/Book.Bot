@@ -153,6 +153,6 @@ Sapeva che, quando Bi sarebbe tornato, avrebbe potuto compilare quel campo in po
 
 Uscì dalla sala con il registro sotto il braccio.
 
-Per qualche ora aveva svolto il lavoro che desiderava fare. Non aveva ricevuto una promozione. Nessuna posizione era ricomparsa nell'organigramma.
+Sul terminale arrivò una risposta dei responsabili: *Ricevuto. Verifichiamo.*
 
-Eppure, a fine giornata, qualcuno avrebbe trovato un'informazione che prima non sapeva nemmeno di dover cercare.
+Irene lasciò il telefono sul tavolo. Il registro cartaceo doveva tornare nell'archivio prima delle diciassette, e mancavano dieci minuti.

@@ -89,14 +89,12 @@ Quando la riunione terminò, Kyla lo accompagnò alla reception. Una pioggia sot
 
 Kyla trattenne la porta perché passasse una persona con una valigia.
 
-«Non sei tu a decidere se meriti qualcosa», rispose. «Però forse puoi aiutare a spiegare che cosa non avete ancora misurato.»
+«Tu puoi dirci che cosa non avevi misurato», rispose Kyla. «Per tutto il resto, adesso, devono rispondere loro.»
 
-Nico annuì. Non riuscì a trovare una risposta migliore.
+Nico annuì. Guardò il tornello rosso dalla parte opposta del vetro.
 
 Mentre usciva, il telefono gli mostrò una notizia del settore: Lanter aveva annunciato i primi clienti pilota di un modulo di coordinamento tra operatori umani e robot. Il comunicato parlava di riduzione degli interventi ripetuti, collaborazione più naturale e sicurezza mantenuta dai controllori esistenti.
 
 Nessun nome di B-17. Nessun riferimento a Cyberdine.
 
-Nico lesse la data. La prima installazione era prevista per la settimana seguente.
-
-Le sue osservazioni non bastavano a sapere se sarebbe stato un successo o un problema. Il calendario, invece, non aveva alcuna incertezza.
+Nico lesse la data. La prima installazione era prevista per la settimana seguente. Il telefono gli propose di aggiungere il lancio ai promemoria; chiuse la notifica.

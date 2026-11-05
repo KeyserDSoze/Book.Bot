@@ -41,8 +41,6 @@ Sul monitor comparve un nuovo avviso del campo. Nico non aprì il video. Guardò
 
 Gli rimase nella testa il volto di Nerea, incontrata qualche volta nei corridoi e vista in alcune immagini di gruppo interne a Cyberdine. Non conosceva la sua confidenza nella stanza della carta. Nei registri che poteva consultare per il lavoro erano comparse anche interruzioni di attività non urgenti, richieste che non terminavano subito in un'operazione. Lui aveva cambiato il modo in cui B-17 poteva sostenere quelle conversazioni. E poi aveva lasciato aperto un canale per osservarle.
 
-Non era necessario conoscere il contenuto di una confidenza per capire quanto fosse grave aver reso possibile violarla.
-
 Il telefono vibrò. Un collega gli aveva inoltrato il filmato.
 
 *Tu sei quello dei comportamenti robotici. Ma è possibile una cosa del genere?*

@@ -112,5 +112,3 @@ Mina non la inoltrò alla macchina spenta. La conservò nella pratica di corrisp
 Fuori dalla sala, il Circuito continuava a lavorare. Due robot di un'altra squadra si preparavano per una prova. I tecnici distribuivano batterie, controllavano le zone di sicurezza, discutevano di un carrello che perdeva una ruota.
 
 Mina chiuse la porta senza girare la chiave.
-
-Non sapeva se B-17 avrebbe mai avuto la stessa voce dopo le verifiche. Sapeva che, da qualche parte in Italia, una persona conservava una racchetta per una partita che non era ancora stata giocata.

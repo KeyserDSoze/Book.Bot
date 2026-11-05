@@ -28,7 +28,7 @@ Il telefono squillò.
 
 «Quella sui robot che smettono di lavorare.»
 
-Mei aprì il collegamento. Il video mostrava sei unità ferme davanti a una baia, riprese dal piazzale dei camion. Era stato girato da un autista che documentava il ritardo e l'aveva condiviso in un gruppo di trasportatori. Nella versione ripubblicata, la voce di chi filmava ripeteva: «Non vogliono più lavorare». Mancavano il modulo firmato dalla capoturno e la parte in cui veniva spiegata l'attesa per l'aggiornamento della mappa. Il titolo scelto dalla pagina era più netto: **I ROBOT SI RIFIUTANO DI LAVORARE**.
+Mei aprì il collegamento. Il video mostrava sei unità ferme davanti a una baia, riprese dal piazzale dei camion. Era stato girato da un autista che documentava il ritardo e l'aveva condiviso in un gruppo di trasportatori. Nella versione ripubblicata, qualcuno aveva aggiunto una voce fuori campo: «Non vogliono più lavorare». Il filmato originale serviva a documentare un'attesa; quello che Mei aveva davanti adesso si interrompeva prima della firma della capoturno. Mancavano il modulo che ne attestava la causa e la ripresa della movimentazione. Il titolo scelto dalla pagina era più netto: **I ROBOT SI RIFIUTANO DI LAVORARE**.
 
 Nei commenti qualcuno parlava di un primo sciopero artificiale. Altri accusavano Lanter di aver distribuito un software difettoso. Una persona raccontava che un arresto aveva impedito a un carico di raggiungere la destinazione in tempo. Un'altra scriveva di sentirsi più sicura da quando il robot chiedeva conferma prima delle manovre incerte.
 
@@ -56,9 +56,7 @@ Nel pomeriggio Mei ricevette un rapporto dall'Hub Levante. Un fermo di quarantas
 
 Mei stampò la pagina e la tenne accanto al filmato virale.
 
-La notizia aveva una parola sola per tutto: *rifiuto*.
-
-Nel rapporto ce n'erano almeno dodici, e ognuna richiedeva una decisione diversa.
+Mei avvicinò il video al rapporto e fermò entrambi sullo stesso orario. Su una schermata c'era scritto *rifiuto*. Sull'altra: *attesa per autorizzazione del responsabile della baia*. Il secondo documento portava una firma e un'ora di ripresa. Il filmato si fermava venti secondi prima.
 
 Arrivò infine un messaggio del gruppo legale. Un giornalista stava chiedendo se il nuovo modulo fosse collegato a una macchina diventata famosa in una simulazione su un'isola del Pacifico.
 

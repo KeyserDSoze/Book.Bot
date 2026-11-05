@@ -130,6 +130,10 @@ Adriana chiuse il quaderno. Nella copertina interna erano attaccati biglietti da
 
 Elena guardò lo schermo ancora acceso. Nell'ultima riga compariva la formula scelta dalla riunione: **posizione non ripristinata**.
 
-Non si trattava di un licenziamento, né di un ordine impartito con cattiveria. La nuova organizzazione poteva davvero far lavorare meglio molte persone.
+«Quando lo saprà Irene?», chiese Adriana.
 
-Eppure, davanti a quella formula, Elena non riusciva a immaginare una frase altrettanto ordinata da dire a Irene.
+Elena riaprì il verbale. L'approvazione era stata inviata ai responsabili di processo. Irene non figurava nell'elenco.
+
+«Kyla deve parlarle», rispose.
+
+Adriana rimise il quaderno nella borsa. «Prima che le arrivi un appuntamento cancellato, spero.»

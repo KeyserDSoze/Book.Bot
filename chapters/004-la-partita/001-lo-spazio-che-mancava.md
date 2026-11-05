@@ -148,4 +148,4 @@ Senza che nessuno avesse organizzato un evento, qualcosa aveva cominciato a muov
 
 Bi appoggiò delicatamente la pallina sul tavolo, mentre Paolo andava a cercare la cassetta delle racchette.
 
-Il vero problema, pensò Kyla uscendo, non sarebbe stato trovare qualcuno disposto a giocare. Sarebbe stato convincerlo a tornare al lavoro.
+Kyla era già in corridoio quando udì il primo servizio. «Occhio alla lampada!», gridò attraverso la porta. Un altro *tac* le rispose, seguito dalla risata di Paolo.
