@@ -2,8 +2,8 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
-through_scene: scene:019-l-uomo-che-ha-cambiato-tutto:004-la-persona-e-il-numero
+through_chapter: chapter:020-il-prezzo-di-una-memoria
+through_scene: scene:020-il-prezzo-di-una-memoria:005-la-risposta-prima-del-buio
 ---
 
 # Stato corrente di Bot — dopo il capitolo 14
@@ -88,3 +88,23 @@ Nel centro assistenziale di Ada una discrepanza nella destinazione della bianche
 La giornalista **Livia Sanna** segue il legame tra B-17, la modifica di Nico Valenti e Collaborazione Contestuale, sulla base di una scheda non destinata alla pubblicazione che cita «N. Valenti». Cyberdine e Lea distinguono il comportamento clandestino del dipendente dall'ideazione e vendita del modulo diverso di Lanter. Nico, nel frattempo, riceve un'offerta economica per una nuova impresa ma non firma alcuna dichiarazione di proprietà esclusiva: i diritti e la provenienza sono controversi; comunica alla giornalista solo fatti compatibili con l'indagine.
 
 Mei Lin accerta che il gruppo prodotto di Lanter aveva ricostruito un modulo diverso facendo riferimento anche a esempi osservati su B-17, con perimetro contrattuale non ancora chiarito. Distribuzione a nuovi clienti sospesa, installazioni esistenti da valutare **sito per sito**. Non esiste un interruttore remoto con cui Nico possa spegnere la funzione. Il Circuito Veyra chiede una valutazione di ripristino della vecchia unità; la configurazione originale modificata senza autorizzazione non è certificabile con i documenti attuali. Nerea apprende il rischio che una modifica di sicurezza cancelli o alteri le capacità di Bi e chiede informazioni ufficiali, **senza impedire gli accertamenti**.
+
+
+## Capitolo 20 — Il prezzo di una memoria (punto esatto di ripresa)
+
+**Marta Ledesma** sospende le dimostrazioni pubbliche e l'impiego ordinario di B-17 al Circuito Veyra, rinviando uno spettacolo economicamente importante. La macchina **non è smantellata né ripristinata definitivamente**: viene posta in uno stato non operativo per verifiche indipendenti. Lanter Robotics, tramite **Mei Lin**, non può certificare la configurazione alterata senza una valutazione separata; tornare alla versione di riferimento potrebbe modificare le capacità conversazionali e il modo di usare il contesto precedente. Il materiale che fosse legittimo conservare deve essere trattato rispettando privacy e responsabilità, non copiato liberamente su altre unità. **Nessun risultato dei test è ancora definitivo.**
+
+**Nico Valenti** collabora con un colloquio tecnico formalizzato, senza accessi operativi e senza essere assolto o licenziato definitivamente. Ammette che non ha condotto le verifiche richieste e che non può garantire la sicurezza della propria modifica. Non ottiene il controllo di B-17 e non può fermare da solo il modulo commerciale di Lanter.
+
+**Nerea Dalmasso** torna a **Valle Corta** e parla con il padre **Bruno Dalmasso**, già impegnato con lei a chiarire le richieste fatte usando le credenziali del padre a sua insaputa. La vecchia sirena non è stata rimossa, ma la copertura alternativa resta da verificare. Nerea chiede ufficialmente che B-17 sia messo in sicurezza senza sacrificare capacità non comprese prima di aver valutato le alternative; **non ha autorità per decidere al posto del proprietario**.
+
+Con l'autorizzazione di Marta e dei referenti del Circuito, **Mina Soler** raccoglie una comunicazione locale supervisionata da B-17 e la trasmette tramite un umano a Nerea. **Nessun uso della backdoor, nessun servizio generale di messaggistica e nessuna certificazione di coscienza.** B-17 dice che la spalla destra richiede controlli e che la partita di rivincita chiesta da Nerea non è ancora stata giocata. La risposta arriva a Nerea in modo trasparente, identificata come «messaggio mediato dell'unità B-17». Nerea replica: **«Grazie. La racchetta è ancora qui.»** La replica viene conservata fra le comunicazioni autorizzate, ma **non è stata consegnata al robot ormai non operativo**.
+
+Il prossimo capitolo partirà con Bi sotto verifica e le conseguenze dell'incidente commerciale ancora in corso. Non ripristinare automaticamente Bi, non trasformare Nico in salvatore, non definire il modulo commerciale un clone con memoria del robot. La cornice economica resta la somma di molte decisioni locali, non un destino automatico.
+
+
+## Esito della revisione editoriale conclusiva v0.23.0
+
+L'arco 15–20 è stato riletto nel suo insieme. Nel capitolo 15 la stampa avviene nell'ufficio accanto allo Spazio Comune; non si tratta di una lettera prodotta da B-21. La lavoratrice del centro assistenziale si chiama Giulia Orsini per distinguerla da Marta Ledesma. Mei Lin era tra chi ha autorizzato il primo ampliamento condizionato di Collaborazione Contestuale e non può scaricare ogni responsabilità sui clienti. All'Hub Levante il fermo colpisce anche la remunerazione del vettore: Sofia registra la causa interna del ritardo, e la ripresa dell'autista, privata del contesto, diventa virale. Ada corregge una delega che aveva dimenticato di prevedere.
+
+Nel capitolo 20 Nico ha consegnato un ulteriore elemento alla verifica indipendente: l'indicazione di **prove sintetiche fallite che aveva escluso dal riepilogo**, senza poter conoscere o governare i sistemi successivi di Lanter. L'esito degli accertamenti e il futuro funzionamento di B-17 rimangono aperti. **La replica «La racchetta è ancora qui» non è ancora stata comunicata a Bi.**

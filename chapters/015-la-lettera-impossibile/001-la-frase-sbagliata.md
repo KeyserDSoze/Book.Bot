@@ -18,11 +18,11 @@ factions:
   - faction:cyberdine
 ---
 
-La stampante cominciò a lavorare mentre Nerea cercava una racchetta.
+La stampante nell'ufficio accanto allo Spazio Comune cominciò a lavorare mentre Nerea cercava una racchetta.
 
 Non per giocare. Doveva liberare il mobile dello Spazio Comune per una lezione del pomeriggio e Paolo continuava a lasciare il materiale del ping pong dietro i libri. Aveva trovato due racchette e una scatola di palline, ma non la custodia azzurra.
 
-B-21 era davanti alla macchina, con una cartellina in mano. Prelevò il primo foglio, controllò il bordo, poi si spostò per lasciar posto a una collega.
+Attraverso la porta rimasta aperta Nerea vedeva B-21 davanti alla macchina, con una cartellina in mano. Prelevò il primo foglio, controllò il bordo, poi si spostò per lasciar posto a una collega.
 
 «La stampa di verifica è terminata», annunciò.
 
@@ -84,7 +84,7 @@ Lea arrivò prima che cominciasse la lezione. Chiese di non distruggere il fogli
 
 Nerea le indicò la riga.
 
-«Non c'è soltanto una copia di una cosa privata», disse. «C'è una copia nel posto dove io avevo deciso di non metterla.»
+«Questa l'ho scritta io», disse Nerea. «Non doveva arrivare qui.»
 
 Lea lesse il documento senza commentare il contenuto personale.
 

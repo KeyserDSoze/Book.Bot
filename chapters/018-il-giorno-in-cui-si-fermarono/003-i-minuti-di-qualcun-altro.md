@@ -8,6 +8,7 @@ canon: canon
 pov: character:ada-serri
 characters:
   - character:ada-serri
+  - character:giulia-orsini
 locations:
   - location:centro-assistenza-ada
 factions:
@@ -22,15 +23,15 @@ La stanza era stata destinata temporaneamente a un ospite che aveva bisogno di t
 
 Il robot aveva chiesto di conciliare le due informazioni. La regola locale del centro, impostata dopo una consegna arrivata in una stanza occupata, prevedeva che in caso di discrepanza si aspettasse un'autorizzazione del coordinatore.
 
-Il coordinatore era Ada. Era però nel cortile, a parlare con la famiglia di un ospite che voleva rientrare a casa per qualche giorno. Non aveva il tablet.
+La regola era stata approvata da Ada, che voleva evitare consegne in camere occupate. Nel predisporla non aveva indicato un sostituto per i momenti in cui lei fosse lontana dal tablet. Quella mattina era nel cortile, a parlare con la famiglia di un ospite che voleva rientrare a casa per qualche giorno.
 
 Quando tornò, la lavanderia le aveva già telefonato due volte.
 
-«È la seconda volta questa settimana», disse l'operatrice Marta.
+«È la seconda volta questa settimana», disse l'operatrice Giulia.
 
-Ada verificò la richiesta, aggiornò la destinazione, fece riprendere l'unità. Il carrello arrivò al piano previsto con ventidue minuti di ritardo.
+Ada verificò la richiesta, aggiornò la destinazione, fece riprendere l'unità. Il carrello arrivò al piano previsto con ventidue minuti di ritardo. Giulia non le disse nulla. Ada avrebbe preferito una lamentela: era più facile da affrontare di una collega che aveva imparato a risolvere il problema da sola.
 
-Non era un'emergenza. Nessuno aveva rischiato la vita. Ma Marta aveva lasciato un'attività che stava facendo con un ospite, un'altra collega aveva trasportato a mano parte della biancheria e una donna nella sala comune aveva aspettato più a lungo del necessario che qualcuno l'accompagnasse in giardino.
+Non era un'emergenza. Nessuno aveva rischiato la vita. Ma Giulia aveva lasciato un'attività che stava facendo con un ospite, un'altra collega aveva trasportato a mano parte della biancheria e una donna nella sala comune aveva aspettato più a lungo del necessario che qualcuno l'accompagnasse in giardino.
 
 I minuti risparmiati dai robot non restavano su un conto da cui si potesse prelevare a piacere. Quando mancavano, ricadevano sulle persone.
 
@@ -58,6 +59,8 @@ Ada guardò il documento e pensò a quanto fosse facile fare una domanda a cui u
 
 «Spieghiamo che stiamo verificando. È una delle ragioni per cui ci pagano.»
 
+Prima della chiusura, Ada tornò al piano con Giulia. Le mostrò la richiesta rimasta bloccata e si assunse la responsabilità della regola approvata senza una delega per il turno. Concordarono che, per le sole consegne ordinarie, l'operatrice responsabile avrebbe potuto verificare e convalidare un cambio di stanza, lasciandone traccia. Le barriere di sicurezza e le situazioni cliniche restavano fuori da quella delega. Il giorno dopo avrebbero allineato i due elenchi delle camere.
+
 Quella sera arrivò un ospite nuovo. Ada lo accompagnò al tavolo comune e gli indicò la persona a cui chiedere aiuto, poi la porta del giardino. Lui guardò un robot che passava lungo il corridoio con un contenitore di asciugamani.
 
 «Quello ci aiuta?», chiese.
@@ -66,7 +69,7 @@ Quella sera arrivò un ospite nuovo. Ada lo accompagnò al tavolo comune e gli i
 
 «E quando non sa una cosa?»
 
-Ada guardò Marta, che stava sistemando i bicchieri.
+Ada guardò Giulia, che stava sistemando i bicchieri.
 
 «Chiede», rispose. «E qualcuno deve esserci per rispondere.»
 

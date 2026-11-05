@@ -16,7 +16,7 @@ factions:
 
 Tre mesi dopo i primi piloti, Mei vide il numero **1.006** comparire nel rapporto di adozione.
 
-Erano unità attive con Collaborazione Contestuale abilitata, distribuite fra clienti che avevano sottoscritto un aggiornamento di servizio. Non mille robot con la memoria di B-17. Non mille macchine dotate dello stesso passato. Mille configurazioni commerciali della medesima funzione, installate su macchine che avevano proprietari, mansioni e controllori differenti.
+Erano unità attive con Collaborazione Contestuale abilitata, distribuite fra clienti che avevano sottoscritto un aggiornamento di servizio. Erano configurazioni commerciali della stessa funzione, installate su macchine che avevano proprietari, mansioni e controllori differenti. Non possedevano i ricordi di B-17.
 
 Il reparto comunicazione voleva intitolare il comunicato *Una nuova generazione di collaborazione*. Mei non si oppose al titolo. Chiese di aggiungere un riferimento ai limiti del programma e alle verifiche richieste nei contesti più delicati.
 

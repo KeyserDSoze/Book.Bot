@@ -18,7 +18,7 @@ La prima notifica arrivò da un centro di smistamento europeo. La seconda, quara
 
 Mei Lin aprì la dashboard di qualità. I siti non avevano tutti gli stessi problemi. In un caso un robot era stato fermato perché una linea di produzione richiedeva una conferma prima di introdurre un carico non previsto. In un altro il chiarimento era stato risolto in pochi minuti, ma l'operatore aveva classificato la richiesta come anomalia. In un terzo, simile all'Hub Levante, una mappa e un ordine avevano dato indicazioni diverse.
 
-La somiglianza non era una ribellione comune. Era il modo in cui il nuovo modulo formulava una cautela quando le informazioni non coincidevano.
+In tutti e tre i rapporti, le unità avevano segnalato informazioni discordanti; erano stati i sistemi dei clienti a stabilire se attendere un'approvazione prima di ripartire. Non risultava alcuna comunicazione fra le macchine di siti diversi.
 
 Il telefono squillò.
 
@@ -28,7 +28,7 @@ Il telefono squillò.
 
 «Quella sui robot che smettono di lavorare.»
 
-Mei aprì il collegamento. Il video mostrava sei unità ferme davanti a una baia, riprese da lontano. La voce di chi filmava ripeteva: «Non vogliono più lavorare». Il titolo scelto dalla pagina era più netto: **I ROBOT SI RIFIUTANO DI LAVORARE**.
+Mei aprì il collegamento. Il video mostrava sei unità ferme davanti a una baia, riprese dal piazzale dei camion. Era stato girato da un autista che documentava il ritardo e l'aveva condiviso in un gruppo di trasportatori. Nella versione ripubblicata, la voce di chi filmava ripeteva: «Non vogliono più lavorare». Mancavano il modulo firmato dalla capoturno e la parte in cui veniva spiegata l'attesa per l'aggiornamento della mappa. Il titolo scelto dalla pagina era più netto: **I ROBOT SI RIFIUTANO DI LAVORARE**.
 
 Nei commenti qualcuno parlava di un primo sciopero artificiale. Altri accusavano Lanter di aver distribuito un software difettoso. Una persona raccontava che un arresto aveva impedito a un carico di raggiungere la destinazione in tempo. Un'altra scriveva di sentirsi più sicura da quando il robot chiedeva conferma prima delle manovre incerte.
 
@@ -40,7 +40,7 @@ Nei commenti qualcuno parlava di un primo sciopero artificiale. Altri accusavano
 
 «Lo so.»
 
-Mei aveva già chiesto di sospendere l'estensione commerciale in attesa di test su configurazioni reali. Adesso poteva mostrare casi concreti, non soltanto una previsione. La direzione autorizzò una pausa per i nuovi rilasci e una guida temporanea per verificare i collegamenti fra suggerimenti contestuali e regole locali di conferma.
+Mei aveva firmato l'estensione iniziale con condizioni precise. I test avevano verificato i casi favorevoli e alcuni conflitti isolati; non avevano riprodotto un turno in cui chi doveva dare conferma fosse contemporaneamente occupato altrove. Le condizioni scritte erano rimaste corrette sulla carta. Ora la domanda era se fossero bastate. La direzione autorizzò una pausa per i nuovi rilasci e una guida temporanea per verificare i collegamenti fra suggerimenti contestuali e regole locali di conferma.
 
 Non era possibile disattivare in modo cieco ogni installazione dalla sede di Suzhou: i clienti avevano sistemi diversi, contratti diversi e responsabilità locali sugli arresti di sicurezza. Un'operazione centrale non sarebbe stata automaticamente né lecita né sicura. Lanter poteva offrire una versione precedente verificata, supportare i responsabili dei siti e chiedere di sospendere i collegamenti non necessari, ma ciascun contesto doveva valutare gli effetti della modifica.
 

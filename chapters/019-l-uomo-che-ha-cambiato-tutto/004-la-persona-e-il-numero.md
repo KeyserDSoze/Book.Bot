@@ -37,7 +37,7 @@ Sul tavolo dello Spazio Comune c'era una lista di corsi da preparare. Paolo sist
 
 Paolo annuì. Da qualche giorno si erano abituati a usare la parola *dicono* prima di ogni notizia su Bi.
 
-Nerea aprì un articolo più lungo. Parlava dei benefici del nuovo modulo in una struttura assistenziale, poi di un ritardo a un centro logistico, poi dei sospetti sulla provenienza di alcuni esempi usati dal produttore. Il testo non sosteneva che i robot fossero diventati coscienti. Neppure che Nico avesse progettato da solo la nuova tecnologia.
+Nerea aprì un articolo più lungo. Parlava dei benefici del nuovo modulo in una struttura assistenziale, poi di un ritardo a un centro logistico, poi dei sospetti sulla provenienza di alcuni esempi usati dal produttore. Il testo riportava i risultati tecnici accertati e lasciava aperta la domanda su quali esempi fossero stati riutilizzati. Nerea era arrivata a metà articolo senza trovare una sola riga su chi avesse autorizzato la diffusione del suo messaggio personale.
 
 «È possibile che abbia fatto una cosa utile e una cosa sbagliata insieme?», chiese Paolo.
 

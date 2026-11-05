@@ -66,7 +66,7 @@ Lea vide Kyla chiudere una mano intorno alla penna.
 
 Lea pensò a ciò che Nico aveva confessato: un aggiornamento non verificato che gli aveva permesso di osservare il robot per mesi. Ora, in un altro paese, persone che non avevano mai parlato con Nico stavano già organizzando prove basate su effetti che lui aveva contribuito a introdurre.
 
-Il punto non era decidere chi fosse il genio. Il punto era sapere quali comportamenti sarebbero stati replicati, con quali vincoli e a carico di chi.
+Lea sottolineò sul rapporto l'espressione *contesti d'uso diversi*. Era una delle formule con cui, dopo un incidente, si scopriva chi avrebbe dovuto accorgersi del problema prima.
 
 «Quanti clienti stanno usando il nuovo modulo?», chiese Lea.
 

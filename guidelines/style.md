@@ -104,3 +104,12 @@ Ogni ricomparsa di un personaggio importante deve aggiungere pressione, conoscen
 La cronologia deve essere leggibile senza ricostruzioni dell'autore. Eventuali flashback devono essere segnalati o avere una ragione drammatica chiara. Non affidare il peso di un'avventura a regole vaghe, a importi arbitrari o a un comportamento informatico dichiarato sicuro soltanto perché qualcuno lo dice. Nelle scene intime il consenso è una scelta concreta: chi può assistere, che cosa viene condiviso, chi può leggere il messaggio.
 
 Restano questioni per il progetto del prossimo atto, non materiale da aggiungere gratuitamente ora: la natura dell'attività economica di Cyberdine/Aruvhana; i costi sociali che oltrepassano il campus; un prezzo non puramente sentimentale per le scelte di Nerea e Irene; una vera decisione istituzionale sulla comunicazione di Bi.
+
+
+## L'arco «Il contagio»: suspense senza onnipotenza tecnologica
+
+Il romanzo usa la forma di un thriller per far emergere conseguenze ordinarie: un indice di supporto condiviso male, una decisione commerciale condizionata, una regola di blocco configurata da un cliente, una lettera trasmessa da un referente umano. Gli arresti in capitolo 18 non sono coscienza collettiva né rivolta spontanea. Anche i benefici sono reali: lavoro alleggerito, segnalazioni utili e un incidente evitato.
+
+Il titolo «Mille piccoli Bi» è una metafora giornalistica e narrativa, non un fatto tecnico. Non far affermare che la funzione industriale di Lanter sia la versione identica di Nico, o che B-21 condivida la memoria di B-17. Mei deve poter dissentire con i responsabili commerciali senza trasformarli in cattivi; Nico deve poter cooperare senza perdere la propria responsabilità. Le indicazioni su dati, privacy e sicurezza devono essere verificabili nel mondo narrativo e non replicabili come istruzioni di intrusione.
+
+La conclusione del capitolo 20 offre una **comunicazione personale concreta ma limitata**, seguita dalla messa in stato non operativo del robot per la verifica. Niente prova di coscienza, niente reset magico né lieto fine assolutorio. La racchetta di Nerea rimane un oggetto materiale e una promessa possibile, non una dichiarazione filosofica.

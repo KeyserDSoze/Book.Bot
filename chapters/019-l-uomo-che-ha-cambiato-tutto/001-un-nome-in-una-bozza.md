@@ -18,7 +18,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Il primo messaggio della giornalista arrivò senza titolo.
+Il primo messaggio della giornalista arrivò senza saluti.
 
 Kyla lo vide mentre controllava le richieste per la presentazione di un nuovo sistema interno. L'oggetto era una sola domanda: *Potete confermare che B-17 è stato modificato senza approvazione prima della sua cessione?*
 

@@ -8,6 +8,7 @@ canon: canon
 pov: character:ada-serri
 characters:
   - character:ada-serri
+  - character:giulia-orsini
 locations:
   - location:centro-assistenza-ada
 factions:
@@ -20,7 +21,7 @@ Fu il carrello delle lenzuola arrivato nel posto giusto.
 
 Nel centro assistenziale in cui lavorava, quello era già un risultato. La lavanderia consegnava i carrelli per piano, ma il secondo piano aveva cambiato disposizione delle stanze e ogni volta qualcuno doveva correggere a mano una lista. Ada non aveva autorizzato un robot a decidere quali camere fossero prioritarie. Aveva soltanto chiesto che, prima di consegnare il materiale, verificasse con una persona se l'itinerario corrispondeva al turno effettivo.
 
-Con il nuovo modulo il robot non ripeteva più soltanto il numero di stanza. Se un'operatrice diceva «Oggi non lì, la signora è giù in sala», chiedeva se doveva rimandare quella consegna o tutto il giro. La differenza occupava pochi secondi. Alla fine della settimana ne aveva restituiti abbastanza da permettere a Marta, un'operatrice del mattino, di dedicare più tempo a un ospite che tendeva a rimanere solo dopo pranzo.
+Con il nuovo modulo il robot non ripeteva più soltanto il numero di stanza. Se un'operatrice diceva «Oggi non lì, la signora è giù in sala», chiedeva se doveva rimandare quella consegna o tutto il giro. La differenza occupava pochi secondi. Alla fine della settimana ne aveva restituiti abbastanza da permettere a Giulia, un'operatrice del mattino, di dedicare più tempo a un ospite che tendeva a rimanere solo dopo pranzo.
 
 Ada non cercava miracoli. Aveva quarantasette dipendenti, un budget che cambiava ogni trimestre e un edificio troppo vecchio per qualunque promessa di automazione totale.
 
@@ -56,7 +57,7 @@ La responsabile sospirò. Avevano conti da far tornare.
 
 Ada non aveva una risposta che cancellasse quella necessità. Sapeva soltanto che una macchina che correggeva meglio un itinerario non sostituiva automaticamente chi conosceva gli ospiti per nome.
 
-Nel tardo pomeriggio l'operatrice Marta le raccontò che la donna della poltrona aveva voluto insegnare al robot una canzone sentita alla radio. Il sistema aveva risposto che non disponeva di un servizio musicale attivo e aveva chiesto se fosse necessario chiamare qualcuno.
+Nel tardo pomeriggio l'operatrice Giulia le raccontò che la donna della poltrona aveva voluto insegnare al robot una canzone sentita alla radio. Il sistema aveva risposto che non disponeva di un servizio musicale attivo e aveva chiesto se fosse necessario chiamare qualcuno.
 
 «Le è dispiaciuto?», domandò Ada.
 

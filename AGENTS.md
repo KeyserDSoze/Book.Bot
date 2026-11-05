@@ -104,3 +104,19 @@ Prima di proseguire rispettare le correzioni della sezione v0.16.0 in continuit�
 I cameo di Nico nel ping pong (004/002) e nella discussione sul lavoro (005/003) sono stati **rimossi**: non erano necessari. Il nuovo ordine definitivo del capitolo 8 è 001 plenaria, 002 preventivo, 003 Nerea nello stesso giorno, 004 Irene nelle settimane successive (Adriana già pensionata). Le scene sono state rinumerate, non duplicate.
 
 Nel capitolo 12 Nerea sceglie di incontrare Nico **il mattino dopo** la comunicazione della sicurezza. Veyra dichiara un uso temporaneamente limitato dell'unità in prove locali supervisionate, ma la backdoor e l'esposizione precedente **non sono certificate risolte**. Nerea scrive la lettera sapendo che un referente umano potrebbe leggerla. La raccolta del capitolo 13 dura quasi tre settimane: 100.000 euro non sono un prezzo di vendita confermato. Non confondere continuità narrativa con presenza onnipresente degli stessi personaggi.
+
+
+## Capitoli 15–20: il contagio non è una magia
+
+Il romanzo prosegue con sei capitoli pubblicati nelle versioni v0.18.0–v0.23.0. Il produttore immaginario Lanter Robotics ha una piattaforma di assistenza in cui un allegato privato di Veyra è stato impropriamente indicizzato per altri clienti. B-21 si limita a stampare un documento disponibile nella coda ordinaria: non possiede dati o coscienza di B-17. Il nuovo modulo Collaborazione Contestuale è un prodotto commerciale distinto sviluppato anche da comportamenti osservati su B-17, con provenienza da accertare, non codice di Nico copiato su mille unità.
+
+I blocchi di lavoro emergono da regole di conferma configurate da persone in siti diversi, non da uno sciopero robotico. Non usare istruzioni tecniche replicabili su vulnerabilità o backdoor. Nerea conosce e gestisce meglio il consenso sulla propria lettera, mentre Lanter e Veyra devono rispondere a una nuova esposizione. Nico rimane soggetto ad accertamenti e non riottiene accessi.
+
+**Capitolo 20 è sospeso, non risolto:** Marta decide per una verifica indipendente e una sospensione temporanea del servizio ordinario di B-17. Mina trasmette un messaggio privato mediato a Nerea, che risponde «La racchetta è ancora qui», ma la sua replica non è stata consegnata al robot non operativo. Il ripristino della configurazione originaria, la sicurezza e la preservazione delle capacità restano incerti. La vecchia sirena di Valle Corta e le credenziali del padre di Nerea restano oggetto di verifiche.
+
+
+## Rilettura editoriale v0.23.0
+
+Non reintrodurre la lavoratrice «Marta» nel centro assistenziale: è **Giulia Orsini**; Marta Ledesma dirige solo Veyra. Il video virale delle macchine ferme nasce dal bisogno di un autista di documentare un ritardo di cui qualcuno può negare la remunerazione; il montaggio perde l'informazione sulla mappa non approvata. Mei Lin firmò un'estensione condizionata dei piloti e Ada Serri approvò una regola senza prevedere il sostituto: non sono portavoci infallibili. Nico mette a disposizione una prova sintetica con esito sfavorevole prima occultata nel riepilogo, non una chiave di accesso o una soluzione magica.
+
+Non trasformare in certezze le ipotesi che il romanzo mantiene aperte: il rischio di B-17 e il destino delle sue capacità, la provenienza dei dati del produttore, l'effetto sociale del modulo, le conseguenze professionali di Nico. Curare scene vissute più ampie invece di replicare nuove riunioni esplicative.

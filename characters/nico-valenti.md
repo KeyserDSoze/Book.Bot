@@ -27,3 +27,8 @@ La prima scena dal suo punto di vista è stata sottratta ai dettagli degradanti:
 ## Revisione v0.17.0
 
 Le apparizioni durante il ping pong (capitolo 4) e la discussione sulla soppressione del ruolo senior (capitolo 5) sono state tagliate perché troppo programmatiche. L'incontro con Nerea, dopo la confessione, avviene il mattino seguente all'informativa, con le persone competenti presenti.
+
+
+## Il caso di prova omesso — capitolo 20, revisione v0.23.0
+
+In una prova **sintetica** non presentata nel riepilogo, dopo che l'interlocutore chiedeva di interrompere la conversazione, il robot formulava un'ulteriore domanda di chiarimento. Nico aveva annotato «non usare nella presentazione» perché considerava il caso da correggere prima di discuterne. Lo espone ora ai consulenti e offre l'indice delle altre prove conservate attraverso un canale autorizzato. Non dimostra che il prodotto distinto di Lanter abbia riprodotto quel difetto; rende però concreta la mancata valutazione critica del suo intervento clandestino.

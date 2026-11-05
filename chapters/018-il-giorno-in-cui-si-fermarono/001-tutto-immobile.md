@@ -78,6 +78,12 @@ Un altro robot diventò giallo, questa volta lontano dalla baia quattro. Era coi
 
 Sofia capì che avrebbero perso la prima finestra di partenza.
 
+L'autista tornò al banco, questa volta senza chiedere quando avrebbe potuto andare via. Le porse un modulo per certificare l'attesa. Nel contratto del vettore il tempo perso per un fermo dell'impianto veniva conteggiato diversamente da un ritardo imputato al camion. Per la contabilità del magazzino sarebbe stato più comodo indicare una generica partenza fuori finestra.
+
+«Mi serve un'ora scritta», disse l'uomo. «Altrimenti alla prossima busta paga questo tempo non esiste.»
+
+Sofia controllò il registro, segnò l'inizio del fermo e firmò **attesa per verifica interna della baia quattro**. Non autorizzò una cifra che non spettava a lei stabilire. Consegnò all'autista una copia: adesso l'attesa avrebbe avuto una causa e una persona a cui chiedere conto. Lui la ripiegò e riprese con il telefono la fila dei mezzi e i robot immobili, dal piazzale dove aspettava. «Così almeno vedono», disse. Sofia pensò che parlasse del suo ufficio paghe.
+
 Non si sentì tradita da una macchina. Si sentì responsabile di una catena di passaggi che aveva lasciato incompleta.
 
 Le tornò in mente la sera in cui Amir le aveva detto di unificare la mappa.

@@ -56,16 +56,12 @@ Mei indicò il secondo foglio.
 
 La discussione durò due ore. Alla fine la direzione approvò un'estensione controllata a un numero limitato di siti, a condizione che gli arresti di sicurezza rimanessero separati dai suggerimenti linguistici e che i clienti registrassero le proprie regole di conferma. Mei ottenne un controllo aggiuntivo e un periodo di osservazione. Non ottenne l'esclusione di tutti i contesti più complessi.
 
-Firmò il documento che descriveva le condizioni, non una dichiarazione generica di sicurezza.
+Firmò il documento che descriveva le condizioni, non una dichiarazione generica di sicurezza. Aveva chiesto che fossero verificate anche le configurazioni dei siti pilota, ma il campione sarebbe stato raccolto durante l'estensione, non prima. Il documento lo diceva. Mei firmò ugualmente: i test disponibili mostravano benefici e i clienti coinvolti avevano accettato le restrizioni. Non avrebbe potuto sostenere, in seguito, che la scelta fosse stata presa senza di lei.
 
 Prima di uscire le arrivò un messaggio dal team legale. L'indagine sulla provenienza dei casi di B-17 continuava. Il gruppo che aveva ricostruito il modulo sosteneva di aver usato osservazioni e prove legittimamente acquisite durante il recupero; Cyberdine contestava la portata di quella autorizzazione. Non avevano concluso nulla.
 
 Mei guardò una volta ancora l'unità dietro il vetro. Un tecnico le chiese di ripetere la consegna con un altro contenitore. La macchina rispose che il percorso era libero e avanzò.
 
-Nessuno in quella stanza aveva copiato i ricordi di B-17. Nessuno aveva riprodotto Nerea, Paolo o la stanza della carta.
+Mei rilesse una delle istruzioni del nuovo modulo: *chiedere conferma quando il contesto non coincide con il compito*. Era una funzione utile, non la memoria di B-17. Sul contratto, tuttavia, non era scritto chi avrebbe avuto il tempo di rispondere a tutte quelle conferme.
 
-Avevano però copiato una domanda: *serve un chiarimento prima di fare la cosa che mi è stata chiesta?*
-
-Era una domanda utile.
-
-Mei chiuse il fascicolo e si chiese quante cose avrebbero imparato le persone a farle dire.
+Chiuse il fascicolo. Il tecnico dietro il vetro era già passato al contenitore successivo.

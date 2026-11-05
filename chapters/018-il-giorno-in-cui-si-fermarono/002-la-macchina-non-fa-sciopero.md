@@ -62,7 +62,7 @@ Il primo camion aveva già perso la finestra.
 
 «Quarantasette minuti per il primo itinerario, meno per gli altri. Il resto dipende dalle baie a valle.»
 
-Sofia annotò il numero.
+Sofia annotò il numero. Sul registro aggiunse anche le ore del personale richiamato alle movimentazioni manuali, la richiesta del vettore e l'aggiornamento della mappa rimasto senza una seconda approvazione. La voce *fermo robot* avrebbe occupato meno spazio, ma avrebbe spostato su una macchina una scelta amministrativa che le persone non avevano completato.
 
 Amir tornò al pannello. La cronologia delle richieste mostrava due eventi diversi: un chiarimento documentale rimasto aperto e un arresto fisico davanti a un ostacolo. Se qualcuno avesse guardato soltanto il grafico delle macchine ferme, avrebbe visto una sola linea rossa e gialla. I dettagli erano tutto.
 

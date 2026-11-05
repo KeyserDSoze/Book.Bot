@@ -21,7 +21,7 @@ Nico non aveva più il tesserino per entrare nella zona di sviluppo.
 
 Lo scoprì quando il tornello emise un suono breve e rosso. Sapeva che sarebbe successo; gli era stato comunicato per iscritto. Il rumore gli diede comunque la sensazione sciocca di essere arrivato nel posto sbagliato.
 
-Kyla lo attendeva alla reception con una persona incaricata di accompagnarlo alla saletta riservata. La riunione era stata concordata e registrata; sul tavolo c'erano il verbale precedente e la presenza di un referente scelto per garantire che le domande rimanessero nell'ambito dell'accertamento.
+Kyla lo attendeva alla reception con una persona incaricata di accompagnarlo alla saletta riservata. La riunione era stata concordata e registrata. Sul tavolo c'era il verbale precedente; accanto a Lea sedeva il referente incaricato di assistere Nico e verificare che le domande rimanessero nell'ambito dell'accertamento.
 
 Lea gli mostrò una scheda con poche righe: risultati conversazionali raccolti da B-17, criteri di confronto e una formula generica di *interazione contestuale*.
 
