@@ -2,8 +2,8 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:018-il-giorno-in-cui-si-fermarono
-through_scene: scene:018-il-giorno-in-cui-si-fermarono:004-la-notizia-piu-semplice
+through_chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
+through_scene: scene:019-l-uomo-che-ha-cambiato-tutto:004-la-persona-e-il-numero
 ---
 
 # Stato corrente di Bot — dopo il capitolo 14
@@ -82,3 +82,9 @@ Presso un piccolo centro assistenziale Ada Serri verifica benefici autentici nel
 All'Hub Levante una mappa tecnica in ritardo rispetto alla disposizione reale e una regola **configurata localmente dagli umani** inducono più robot con Collaborazione Contestuale a fermarsi e chiedere avallo. La verifica dura **47 minuti**, ritarda una partenza e aumenta il lavoro umano. Nello stesso turno un distinto arresto del controllore evita l'attraversamento di un carrello instabile: i due meccanismi non vanno confusi. Sofia e Amir distinguono risultato, costo e responsabilità senza definirlo uno sciopero.
 
 Nel centro assistenziale di Ada una discrepanza nella destinazione della biancheria produce 22 minuti di ritardo e lavoro manuale; Ada sospende l'estensione commerciale, non la sicurezza. Segnalazioni di arresti e conferme superflue in più siti sono collegate al medesimo modulo, **non a un'organizzazione cosciente tra robot**. Un video dell'Hub Levante diventa virale con il titolo «I robot si rifiutano di lavorare». Mei Lin dispone, con la direzione Lanter, una pausa ai nuovi rilasci e indicazioni di verifica sito per sito: non esiste un interruttore mondiale sicuro. Un giornalista chiede il rapporto tra il modulo e B-17 a Veyra.
+
+## Capitolo 19 — L'uomo che ha cambiato tutto
+
+La giornalista **Livia Sanna** segue il legame tra B-17, la modifica di Nico Valenti e Collaborazione Contestuale, sulla base di una scheda non destinata alla pubblicazione che cita «N. Valenti». Cyberdine e Lea distinguono il comportamento clandestino del dipendente dall'ideazione e vendita del modulo diverso di Lanter. Nico, nel frattempo, riceve un'offerta economica per una nuova impresa ma non firma alcuna dichiarazione di proprietà esclusiva: i diritti e la provenienza sono controversi; comunica alla giornalista solo fatti compatibili con l'indagine.
+
+Mei Lin accerta che il gruppo prodotto di Lanter aveva ricostruito un modulo diverso facendo riferimento anche a esempi osservati su B-17, con perimetro contrattuale non ancora chiarito. Distribuzione a nuovi clienti sospesa, installazioni esistenti da valutare **sito per sito**. Non esiste un interruttore remoto con cui Nico possa spegnere la funzione. Il Circuito Veyra chiede una valutazione di ripristino della vecchia unità; la configurazione originale modificata senza autorizzazione non è certificabile con i documenti attuali. Nerea apprende il rischio che una modifica di sicurezza cancelli o alteri le capacità di Bi e chiede informazioni ufficiali, **senza impedire gli accertamenti**.
