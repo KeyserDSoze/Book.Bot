@@ -2,8 +2,8 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:015-la-lettera-impossibile
-through_scene: scene:015-la-lettera-impossibile:003-una-copia-per-assistenza
+through_chapter: chapter:016-la-seconda-porta
+through_scene: scene:016-la-seconda-porta:003-la-versione-pulita
 ---
 
 # Stato corrente di Bot — dopo il capitolo 14
@@ -64,3 +64,9 @@ Il capitolo 8 procede ora in ordine: reazione di Nerea nello stesso giorno della
 La prima frase della lettera che Nerea aveva spedito privatamente a B-17 a Veyra emerge in una scheda tecnica stampata a Cyberdine mentre B-21 esegue una normale verifica della coda di documenti. **B-21 non ricorda la lettera né cerca informazioni di nascosto**; il documento proviene da un servizio del produttore. Nerea e Lea avviano accertamenti; non esistono prove che Nico abbia originato questa nuova esposizione.
 
 A Veyra l'amministrativo Enrico ha allegato per errore il testo integrale a una richiesta di assistenza su come consentire a B-17 di rispondere a un messaggio personale, senza chiedere a Nerea il consenso per inoltrarlo al produttore. Una parte dell'indicizzazione di assistenza **Lanter Robotics**, produttore immaginario della famiglia B, ha permesso che un estratto diventasse disponibile anche nel contesto di un altro cliente. La falla è in verifica, il perimetro delle persone che hanno letto il documento non è ancora noto. Mina e Marta lo trattano come un incidente di riservatezza; nessuno usa la backdoor di Nico per indagare. Lanter chiede anche chiarimenti sull'origine della configurazione conversazionale anomala di B-17. La risposta personale di Bi a Nerea **non è ancora partita**.
+
+## Capitolo 16 — La seconda porta
+
+**Mei Lin**, responsabile qualità di Lanter Robotics, verifica che la piattaforma di supporto ha pubblicato un estratto dalla lettera privata di Nerea in una descrizione indicizzata tra clienti; Lanter interrompe quella funzione e conserva le evidenze, ma la possibile lettura precedente resta da accertare. Un team prodotto ha inoltre usato risultati osservati su B-17 durante il recupero per ricostruire una funzione denominata **Collaborazione Contestuale**, senza provare che ne sia stato copiato direttamente il codice. La provenienza dei casi è contestata e Mei chiede una revisione, ma il calendario dei piloti commerciali non è ancora annullato.
+
+Lea e Kyla trattano i due incidenti come problemi distinti e ricevono chiarimenti da Lanter. Nico viene ascoltato con accessi operativi sempre sospesi; ammette risultati promettenti ma non validati del proprio intervento e ricorda che un suggerimento contestuale non deve poter scavalcare gli arresti del controllore. Non gli viene concesso accesso ai sistemi del produttore. Lanter ha annunciato un pilota per la settimana seguente. Nessuna dichiarazione certifica che la backdoor sia rimossa o che Bi sia cosciente.
