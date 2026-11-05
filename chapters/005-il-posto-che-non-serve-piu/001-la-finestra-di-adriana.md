@@ -133,7 +133,7 @@ Adriana raccolse la fotografia dal pavimento. La girò: ritraeva un gruppo di co
 
 Irene annuì. Era una risposta corretta e, nonostante tutto, le diede coraggio.
 
-Mentre usciva, incrociò Nerea con una custodia di racchette sotto il braccio.
+Mentre usciva, incrociò Nerea con la custodia azzurra delle racchette sotto il braccio. Il manico di una spuntava dalla cerniera mezza aperta.
 
 «Avete giocato sabato?» le chiese.
 

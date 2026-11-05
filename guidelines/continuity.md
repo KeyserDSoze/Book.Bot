@@ -144,3 +144,17 @@ Ogni indizio è utile già nella scena d'origine e acquista un altro senso alla 
 - Restano canonici: nessun diritto robotico riconosciuto, nessuna memoria trasferita fra unità, B-17 temporaneamente non operativo per audit, risposta mediata a Nerea consegnata e replica di Nerea non ancora trasmessa a Bi.
 
 **Criticità editoriali irrisolte:** i capitoli 15–20 raccontano eventi di grande scala con molte scene brevi; 15–16 sono procedurali, 17 si allarga a nuovi POV, il 18 non deve essere raccontato come una catastrofe globale che il testo non mostra. Le scene future dovranno dare maggiore spazio alle conseguenze vissute, a responsabilità non enunciate soltanto in riunione e alla natura concreta dell'attività di Cyberdine. Non aggiungere cameo o indizi superflui.
+
+
+## Quarta revisione v0.24.0 — indizi retroattivi, non nuovi eventi
+
+La nuova `guidelines/indizi-e-risonanze.md` distingue gli indizi **causali** dalle **risonanze tematiche**, e registra i semi ancora aperti senza stabilirne il payoff futuro. Questa revisione non crea nuovi capitoli.
+
+- Nel **capitolo 1** una pratica rimane in attesa perché il responsabile è assente e nessun sostituto è autorizzato; nel capitolo 17–18 il medesimo problema organizzativo ricompare in contesti diversi, non per una falla comune. Sempre nel primo capitolo Kyla insiste sui tentativi esclusi dai report, creando contrasto con la successiva omissione dei test sfavorevoli di Nico.
+- Nel **capitolo 2** Paolo registra in **Lanter Service** un rimedio di compatibilità per la presa del foglio da parte di B-17, senza allegare il documento firmato. Questo spiega perché l'archivio di note condivisibili sia utile; nel **capitolo 9** una scheda dello stesso servizio supporta B-21. Nel **capitolo 15** Lea confronta la scheda utile della cornice con l'estratto inopportuno della lettera. **Il portale Lanter è ormai nominato dal capitolo 2, non per la prima volta nel 15.**
+- La **custodia azzurra** è già presso il tavolo da ping pong nel **capitolo 4**, Nerea la porta dopo la partita reale nel **5** e la cerca nel **15**. Il messaggio «La racchetta è ancora qui» al **20** mantiene il peso emotivo senza confermare una coscienza.
+- Nel **preventivo del capitolo 8** il modulo di elaborazione del robot è recuperabile come hardware, cosa diversa dalla certificazione del software. Nel **10** il modulo originale rimane a Veyra e il collegamento clandestino funziona; il **20** affronta le verifiche, ancora senza esito. Nel capitolo 8 **Kyla legge un articolo di Livia Sanna**, che interviene direttamente nel 19.
+- Nel **17** Sofia firma l'orario d'ingresso richiesto da un conducente: nel **18** la responsabilità dell'attesa e il video virale acquistano una dimensione economica. Non identificare automaticamente quel conducente con l'autista che riprende il video, se il testo non lo dice.
+- Nel **20** la risposta di Nerea a B-17 resta conservata nella pratica, con accessi limitati; il termine di conservazione è ancora **da definire** e il robot resta **non operativo**. Non inviare la risposta automaticamente in una continuazione.
+
+La materia di Cyberdine e Aruvhana resta deliberatamente non specificata in pubblico. Evitare di dare una soluzione sicura o una futura rivelazione in queste note, soprattutto dove il testo lascia esiti aperti.

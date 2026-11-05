@@ -47,7 +47,7 @@ Sahir annuì, ma rimase davanti ai numeri.
 
 «Le ore sono un indicatore facile da piegare alle storie che si vogliono raccontare. Un'ora risparmiata non è necessariamente un'ora restituita.»
 
-Kyla annuì. Non avrebbe potuto sperare in un'obiezione migliore. Lorenzo Verri, l'amministratore delegato, le aveva restituito una volta una bozza di presentazione con una sola frase scritta a margine: *Un beneficio che nessuno può verificare non è un risultato*. Da allora Kyla non nascondeva la definizione degli indicatori nelle note minuscole.
+Kyla annuì. Non avrebbe potuto sperare in un'obiezione migliore. Lorenzo Verri, l'amministratore delegato, le aveva restituito una volta una bozza di presentazione con una sola frase scritta a margine: *Un beneficio che nessuno può verificare non è un risultato*. Da allora Kyla non nascondeva la definizione degli indicatori nelle note minuscole. Chiedeva sempre anche il registro dei tentativi scartati dai confronti: non per mostrarli agli ospiti uno per uno, ma per sapere che cosa quei numeri non raccontavano.
 
 «Infatti distinguiamo le due cose. Non contiamo un minuto liberato finché non sappiamo che cosa è successo dopo. Se un controllo automatico risparmia due ore ma il dipendente ne trascorre tre a risolvere eccezioni, abbiamo peggiorato il processo. Il nostro indicatore usa i flussi effettivamente completati e viene confrontato con le attività ancora svolte dalle persone.»
 

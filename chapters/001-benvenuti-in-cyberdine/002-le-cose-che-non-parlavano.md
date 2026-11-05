@@ -55,6 +55,14 @@ Sahir esaminò la casella vuota.
 
 Sul pannello una piccola icona cambiò colore. Un dipendente seduto a una postazione rialzata lesse la notifica, verificò due campi e diede l'avallo. Il registro registrò il suo nome.
 
+Accanto alla riga completata ne rimase una in attesa. Il titolare dell'avallo era fuori sede; nessun sostituto risultava ancora designato.
+
+«Quella non la fate avanzare?», chiese Leïa.
+
+«Non finché non arriva una delega registrata», disse Kyla. «Una persona libera non è necessariamente una persona autorizzata.»
+
+Leïa annuì. La riga restò gialla anche quando il robot si allontanò.
+
 «C'è ancora qualcuno davanti a uno schermo», notò Leïa.
 
 «Certo. Ma non è la stessa persona di prima. Prima inseguiva venti valori. Ora riceve una proposta completa, con le eccezioni in evidenza. La verifica richiede meno tempo e molta più attenzione. Sembra un paradosso, ma abbiamo aumentato il valore del momento in cui interviene un essere umano.»

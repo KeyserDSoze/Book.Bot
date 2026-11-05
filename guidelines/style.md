@@ -113,3 +113,10 @@ Il romanzo usa la forma di un thriller per far emergere conseguenze ordinarie: u
 Il titolo «Mille piccoli Bi» è una metafora giornalistica e narrativa, non un fatto tecnico. Non far affermare che la funzione industriale di Lanter sia la versione identica di Nico, o che B-21 condivida la memoria di B-17. Mei deve poter dissentire con i responsabili commerciali senza trasformarli in cattivi; Nico deve poter cooperare senza perdere la propria responsabilità. Le indicazioni su dati, privacy e sicurezza devono essere verificabili nel mondo narrativo e non replicabili come istruzioni di intrusione.
 
 La conclusione del capitolo 20 offre una **comunicazione personale concreta ma limitata**, seguita dalla messa in stato non operativo del robot per la verifica. Niente prova di coscienza, niente reset magico né lieto fine assolutorio. La racchetta di Nerea rimane un oggetto materiale e una promessa possibile, non una dichiarazione filosofica.
+
+
+## Revisione a risonanze v0.24.0
+
+Un dettaglio seminato deve servire **prima** della rivelazione: la casella di delega serve a completare un avallo, il riepilogo della cornice serve a non rifare una prova, la custodia azzurra viene tolta dal passaggio di un corridoio, il registro d'ingresso del vettore determina chi paga il tempo di attesa. Solo dopo quei dettagli cambiano senso. Favorire relazioni fra una scelta locale iniziale e una conseguenza lontana, senza costruire falsi nessi causali: il campo di delega del capitolo 1 non causa il fermo dell'Hub Levante, ma fa riconoscere al lettore una classe di problemi.
+
+Evitiamo oggetti carichi di simbolismo prima del tempo, dialoghi che sottolineano «ricordatelo» o spiegazioni retrospettive da narratore. La presenza di Lanter Service nel secondo capitolo non autorizza alcuna deduzione su una futura falla; il servizio è utile e un tecnico lo adopera responsabilmente. Anche i semi successivi al capitolo 20 restano **opportunità editoriali**, non rivelazioni future già fissate: il messaggio in sospeso ha una conservazione da definire, il dossier sulla sirena non è chiuso e i diritti su dati e comunicazioni restano questioni da risolvere.

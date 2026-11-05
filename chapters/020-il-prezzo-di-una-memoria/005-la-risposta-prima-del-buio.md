@@ -107,7 +107,7 @@ Sul telefono comparve una conferma di lettura del messaggio. Poco dopo, attraver
 
 *Grazie. La racchetta è ancora qui.*
 
-Mina non la inoltrò alla macchina spenta. La conservò nella pratica di corrispondenza, accessibile soltanto ai referenti autorizzati, e annotò che non era ancora stata comunicata a B-17.
+Mina non la inoltrò alla macchina spenta. La conservò nella pratica di corrispondenza, accessibile soltanto ai referenti autorizzati, e annotò che non era ancora stata comunicata a B-17. Sul modulo c'era un campo vuoto: **termine di conservazione**. Chiese al referente di stabilirlo insieme a chi ne aveva la responsabilità. Non voleva che quella frase rimanesse per sempre in attesa soltanto perché nessuno aveva previsto quando consegnarla.
 
 Fuori dalla sala, il Circuito continuava a lavorare. Due robot di un'altra squadra si preparavano per una prova. I tecnici distribuivano batterie, controllavano le zone di sicurezza, discutevano di un carrello che perdeva una ruota.
 

@@ -40,6 +40,12 @@ L'operatore non aveva chiesto i dati di Veyra. Non sapeva neppure che quelle inf
 
 La piattaforma si chiamava **Lanter Service**, dalla società che aveva costruito i robot. Cyberdine era cliente da tempo; finché i documenti erano separati correttamente, l'uso quotidiano non dava motivo di sospettare che qualcuno potesse vedere un pezzo di una pratica altrui.
 
+Paolo aprì una scheda diversa, senza allegati. C'era scritto: *cornice magnetica; lato stampato verso il vetro*.
+
+«Questa l'avevo inserita io», disse. «Era servita per le copie di B-17. Se un altro reparto usa lo stesso accessorio, si evita un'altra mattina persa.»
+
+Lea osservò i due riepiloghi affiancati. Il servizio che rendeva facile ritrovare una soluzione ordinaria aveva lasciato passare anche una riga che non doveva circolare.
+
 «Quando avete chiesto di cercare B-17?», domandò Lea.
 
 Paolo ricostruì la sequenza. Aveva richiesto una verifica di compatibilità per B-21 dopo un aggiornamento di un accessorio. Il codice vecchio compariva ancora nella documentazione storica. Il sistema di assistenza aveva fornito una scheda di confronto; la stampante aveva eseguito quanto ricevuto. Non c'era stato un comando inconsueto del robot né una richiesta di rispondere a Nerea.

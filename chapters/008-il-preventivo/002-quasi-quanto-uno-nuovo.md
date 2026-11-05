@@ -44,6 +44,8 @@ Kyla lesse l'ultima cifra.
 
 Fu Paolo a esserne infastidito. Avrebbe preferito un errore nei conti, una voce duplicata, una mancanza di attenzione. Si sarebbe potuto discutere. Invece il rapporto era solido. Il centro assistenza aveva perfino offerto una quota di recupero dei componenti ancora sani, ma il vantaggio economico restava piccolo rispetto a una unità nuova garantita.
 
+Fra i componenti dichiarati recuperabili figurava il modulo di elaborazione. Non aveva subito gli urti della spalla. La scheda, però, distingueva il riuso materiale del componente dalla verifica della configurazione con cui sarebbe stato rimesso in funzione. Paolo passò oltre: il costo che gli interessava era quello di rendere nuovamente sicuro il robot vicino alle persone.
+
 Nel prospetto c'era anche una voce per un'eventuale cessione integrale dell'unità a un operatore di recupero, soltanto dopo la chiusura degli accertamenti e con documenti separati. Paolo la cerchiò: non significava che qualcuno avesse deciso di vendere B-17, ma era il punto del contratto in cui si sarebbe deciso chi avrebbe potuto disporne in seguito.
 
 «E se usassimo una delle altre unità?» domandò Kyla.

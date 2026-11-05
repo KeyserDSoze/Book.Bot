@@ -51,6 +51,8 @@ Nico si chinò per leggere la nuova scritta sul cassetto della fotocopiatrice. �
 
 Nico annuì. Lasciò passare una collega con un contenitore e riprese il corridoio senza fare una foto al foglio bianco.
 
+Paolo approfittò della pausa per annotare la soluzione su **Lanter Service**, il portale di assistenza del costruttore dei robot. La scheda della famiglia B chiedeva una descrizione breve, utile a chi avrebbe usato lo stesso accessorio su un'altra unità. Scrisse *cornice magnetica; lato stampato verso il vetro*. Non allegò il documento firmato di Elena: per spiegare un problema di presa non serviva mostrare cosa ci fosse scritto sulla carta.
+
 «Quindi l'operazione è riuscita», disse Kyla.
 
 «Perfettamente», rispose Elena entrando nella nicchia con il telefono in mano. «E per una volta non ho passato la mattina davanti alla fotocopiatrice.»

@@ -114,6 +114,8 @@ Paolo aveva tolto il telo da un vecchio tavolo da ping pong. Il piano azzurro er
 
 «Questo», dichiarò Paolo, «non si dona. Questo si salva.»
 
+Accanto a una gamba del tavolo c'era una custodia azzurra, scolorita vicino alla cerniera. Paolo la spinse sotto lo scaffale per liberare il passaggio appena sistemato. Avrebbe controllato il manico delle racchette più tardi.
+
 Lanciò la pallina, colpì il tavolo dalla parte sbagliata e la mandò sotto lo scaffale.
 
 Bi si chinò. Ci mise più tempo di quanto Paolo si aspettasse, perché prima controllò lo spazio intorno alle gambe del tavolo. Raccolse la pallina con due dita e gliela porse.

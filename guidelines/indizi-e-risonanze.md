@@ -1,0 +1,39 @@
+---
+type: guideline
+id: guideline:indizi-e-risonanze
+canon: canon
+---
+
+# Mappa editoriale degli indizi e dei ritorni — v0.24.0
+
+Questa mappa è per la continuità di scrittura, **non** un testo da inserire nel romanzo. Distinguere un nesso causale da un'eco: vedere lo stesso problema in due luoghi non significa che la stessa persona o lo stesso software abbia provocato entrambi.
+
+## Richiami già realizzati
+
+| Seme o dettaglio iniziale | Ritorno | Natura | Controllo editoriale |
+| --- | --- | --- | --- |
+| **1/001:** Nico aiuta l'addetto davanti a un varco segnato come verificato ma ancora chiuso | **12:** Kyla ricorda la sua capacità di ascoltare, non come scusa per la backdoor. **17–18:** ritorna il conflitto fra dato formalmente giusto e realtà fisica | Risonanza psicologica e tematica | Non dedurre che Nico abbia toccato i sistemi logistici di Lanter |
+| **1/002:** un avallo resta giallo finché non c'è sostituto autorizzato | **5:** soppressione di un ruolo qualificato e avalli redistribuiti. **17–18:** Ada e Hub Levante si accorgono del costo di una delega non pronta | Risonanza di responsabilità | In Cyberdine la regola funzionava; in altri siti sono state configurate regole diverse |
+| **1/004:** Kyla chiede che i tentativi esclusi restino visibili nella valutazione | **10:** Nico valuta miglioramenti incompleti; **20:** emerge il test sintetico sfavorevole che aveva nascosto al riepilogo | Contrasto morale, non lo stesso test | Nico è responsabile della mancata verifica; non certificare che il difetto si sia propagato identico al nuovo prodotto |
+| **2/002–004:** cornice magnetica che risolve un problema fisico; Paolo registra su Lanter Service solo il breve metodo di presa, non il documento firmato | **9/001:** B-21 consulta normali schede della famiglia B. **15/002:** lo stesso tipo di indice fa riemergere la nota utile e, impropriamente, una riga privata della lettera di Nerea. **16:** Mei separa le responsabilità del servizio | Causalità di infrastruttura: lo strumento è utile, il confine dei dati è fallito | La riga privata non proviene da B-21 né dalla backdoor di Nico |
+| **3/001–002:** domanda sociale nuova di Bi; Elena registra un'osservazione fuori dai campi di rilascio | **10:** il lettore scopre la modifica clandestina; **12:** la nota viene recuperata; **16–17:** Lanter prende a modello comportamenti osservati | Semina tecnica ed etica | Non suggerire coscienza o che gli altri robot abbiano ricevuto la memoria di B-17 |
+| **3–4:** Nerea espone il rischio della sirena e l'uso delle credenziali del padre, poi chiede prove vere | **20:** ritorno di Nerea e Bruno al ponte: sirena ancora presente ma copertura non certificata | Conflitto umano e prova materiale | La responsabilità di Nerea non è chiusa e Valle Corta non dipende da Cyberdine |
+| **4/001:** custodia azzurra spostata da Paolo per liberare il passaggio allo Spazio Comune | **5/001:** Nerea la porta dopo la partita vinta da Bi 11–6. **15/001:** la cerca mentre esce la lettera. **20/005:** «La racchetta è ancora qui» | Oggetto che attraversa appartenenza, assenza, attesa | Non trasformarla in un simbolo commentato dal narratore; non sostenere che sia prova di sentimenti del robot |
+| **5/002:** la formazione di Irene non diventa la posizione senior desiderata | **9 e 13:** competenza senza promozione, tensione nel finanziamento di Bi. **17:** Elisa all'Hub Levante ha formazione ma meno straordinari | Eco sociale, non nesso personale | Non far incontrare Irene ed Elisa solo per dimostrare la tesi |
+| **8/001:** Kyla legge un articolo di Livia Sanna sui turni e i richiami fuori orario | **19/001:** riconosce la stessa giornalista quando chiede l'origine delle modifiche a B-17 | Caratterizzazione indiretta | Livia non compare fisicamente in Cyberdine al capitolo 8 |
+| **8/002:** il modulo di elaborazione di B-17 è segnato come recuperabile, ma il riuso materiale non certifica la configurazione | **10:** il modulo originario rimane sul robot ricondizionato e rende possibile l'accesso clandestino. **19–20:** la configurazione deve essere verificata indipendentemente | Causalità hardware/gestione | Non concludere che un tecnico abbia deliberatamente ignorato la sicurezza; gli accertamenti rimangono aperti |
+| **17/003:** un vettore chiede a Sofia la registrazione dell'orario d'ingresso, perché tempo e causa dell'attesa hanno un valore economico | **18/001–004:** la certificazione del fermo e il video girato dal piazzale conducono alla notizia distorta sullo «sciopero» | Meccanismo sociale della diffusione della notizia | Non è necessario sostenere che si tratti del medesimo autista senza un'identificazione nel testo |
+| **14–20:** B-17 è nominato come oggetto di una procedura ma chiede di rispondere alla lettera | **20/005:** una persona ne autorizza e media la risposta, con responsabilità tracciata | Progressione concreta del riconoscimento | È una decisione singola, non un riconoscimento giuridico di persona |
+
+## Semi ancora aperti — utilizzabili dopo il capitolo 20
+
+- **La replica di Nerea non consegnata a B-17.** È depositata in una pratica a accesso limitato. Il campo «termine di conservazione» deve ancora essere definito da chi ha titolo: la futura storia può far emergere il problema del recapito, della cancellazione o della custodia, **non** presupporre che la macchina l'abbia letta.
+- **L'audit di Bi.** Le prove tecniche e il materiale che si può conservare hanno titolarità e vincoli diversi. Il corpo esiste; nessuno ha dimostrato un ripristino innocuo delle capacità sociali. Evitare un reset miracoloso.
+- **Chi ha diffuso la scheda usata dalla giornalista?** Non attribuire con certezza la fonte a Nico, Mei o Lanter senza una scena futura con prove. Il confine fra informazione pubblica, riservatezza e diritto di cronaca può diventare un conflitto umano.
+- **Valle Corta.** Esiste una verifica della copertura alternativa ancora da completare; il padre e la figlia hanno iniziato a chiarire le credenziali utilizzate senza autorizzazione. Non risolvere tutto con un'unica chiamata né legare la sirena per coincidenza al cliente Aruvhana.
+- **Lavoro qualificato e responsabilità.** Irene, Elisa e Giulia illustrano ruoli diversi: formazione senza posizione, ore di lavoro che spariscono, responsabilità logistiche che riappaiono. Non sono state messe in scena per diventare una «fazione» unitaria.
+- **Il nome Bi nei contratti.** Marta ha rifiutato di promettere un'esclusiva su un nome di provenienza sociale non chiarita. Il fatto non implica diritti acquisiti da B-17, ma rende più complessa ogni futura comunicazione a suo nome.
+
+## Filtro prima di introdurre altri semi
+
+Un richiamo merita di rimanere solo se soddisfa tutte e tre le condizioni: **(1)** è utile o autentico nella scena in cui nasce; **(2)** un'altra scena lo trasforma senza contraddire i fatti; **(3)** non richiede un narratore che ne spieghi la funzione. Se serve soltanto a fare annusare un mistero, toglierlo. Non convertire queste opportunità in profezie o rivelazioni già decise.

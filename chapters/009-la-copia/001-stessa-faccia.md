@@ -23,7 +23,7 @@ Fu il primo pensiero che gli attraversò la testa, e gli dispiacque averlo avuto
 
 La cassa era alta quasi due metri, con i supporti di sicurezza ancora fissati ai lati. Il furgone l'aveva lasciata nel magazzino tecnico alle otto e dieci. Sulla distinta di consegna comparivano un codice di modello identico a quello di B-17 e un numero di serie diverso.
 
-Paolo controllò il documento due volte. La pratica era corretta.
+Paolo controllò il documento due volte. La pratica era corretta. La distinta rimandava anche alle schede di compatibilità Lanter della famiglia B, lo stesso archivio di supporto a cui aveva affidato la nota sulla cornice magnetica. Stesso modello, altro numero di serie; le istruzioni utili potevano tornare, le autorizzazioni locali no.
 
 Dietro il vetro del reparto sviluppo, Nico Valenti aveva interrotto una conversazione per guardare la cassa. Non si avvicinò. Prima che il tecnico della consegna iniziasse a togliere i fermi, Nico sparì dietro una porta interna. Paolo pensò che probabilmente avesse un test in corso e non potesse abbandonarlo.
 

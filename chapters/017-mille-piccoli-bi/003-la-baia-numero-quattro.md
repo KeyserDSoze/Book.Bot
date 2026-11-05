@@ -22,6 +22,8 @@ Un camion era arrivato in anticipo, uno aveva un problema alla sponda e una terz
 
 Il suo lavoro era impedire che si sommassero nel modo sbagliato.
 
+Un conducente le porse il registro per farsi attestare l'ora d'ingresso. Sofia firmò senza interrompere la lettura del piano: sapeva che per i vettori una mezz'ora d'attesa imputata al magazzino e una mezz'ora di ritardo del camion potevano finire su due voci economiche diverse.
+
 L'Hub Levante aveva installato il nuovo modulo di collaborazione su otto robot. La scelta non era stata ideologica. Durante i turni misti, i robot eseguivano bene i percorsi previsti ma interpretavano male le richieste degli operatori quando una baia cambiava nome o un carico doveva attendere. Il nuovo software chiedeva conferme pertinenti e riduceva le telefonate dal pavimento al banco turno.
 
 Sofia era stata favorevole. La settimana precedente un robot aveva fermato una movimentazione perché la distanza tra un carrello e una persona non corrispondeva più alla mappa provvisoria. Il controllore di sicurezza avrebbe comunque impedito il contatto, ma il chiarimento arrivato prima aveva evitato una sequenza di manovre inutili.
