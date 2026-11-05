@@ -2,44 +2,42 @@
 type: story-state
 id: story-state:current
 canon: canon
-through_chapter: chapter:009-la-copia
-through_scene: scene:009-la-copia:004-non-chiamarlo-cosi
+through_chapter: chapter:014-non-e-in-vendita
+through_scene: scene:014-non-e-in-vendita:004-la-domanda-che-non-ha-un-modulo
 ---
 
-# Punto esatto di ripresa: dopo il capitolo 9
+# Stato corrente di Bot — dopo il capitolo 14
 
-## Passato canonico essenziale
+## Premesse
 
-Cyberdine S.p.A. utilizza robot LLM importati dalla Cina; il settore industriale suo e di Aruvhana è ancora segreto. Kyla è responsabile HR e Marketing. I sistemi preparano e organizzano informazioni ma gli avalli importanti restano a esseri umani.
+Cyberdine S.p.A. (settore ancora non svelato) usa robot e LLM con responsabilità finali umane. Il cliente Aruvhana ha settore non svelato. B-17, un robot importato dalla Cina, ha guadagnato il soprannome **Bi** da Nerea Dalmasso ed è divenuto capace di rapporti sociali inattesi. Ha aiutato Nerea sul rischio della dismissione della sirena di Valle Corta, che serve quattordici case abitate erroneamente ritenute disabitate dai registri; la rimozione è sospesa, ma non esiste ancora una soluzione definitiva sulla copertura degli allarmi. Nerea ha avviato con il padre e un referente competente la regolarizzazione delle vecchie richieste fatte con le credenziali tecniche di lui. In seguito Bi ha giocato a ping pong, ha perso deliberatamente per essere accettato e lo ha ammesso a Nerea. Nella partita vera ha vinto 11–6.
 
-B-17, soprannominato **Bi** da Nerea Dalmasso, aveva progressivamente acquisito un rapporto umano con i colleghi. La causa del suo salto nelle capacità conversazionali è una nota riservata all'autore, **mai pubblicata né rivelata nella storia**. Bi aiutò Nerea a documentare il rischio della dismissione della sirena di Valle Corta, e i sopralluoghi riconobbero le quattordici case abitate. Non c'è ancora soluzione definitiva per la copertura alternativa. Nerea ha anche usato irregolarmente il vecchio identificativo tecnico del padre per le manutenzioni: nel capitolo 8 comincia a raccontargli i fatti; nel capitolo 9 prepara con lui e con una figura competente la ricostruzione documentale, senza una risoluzione amministrativa già acquisita.
+Cyberdine ha deciso di non aprire il ruolo senior lasciato da Adriana Lodi al pensionamento, grazie anche all'efficienza della preparazione documentale automatizzata; **Irene Valli** perde un'occasione professionale ambita ma conserva il proprio contratto. Dario Sarti e Mauro Lanza hanno aggredito Bi e sono usciti dall'azienda dopo gli accertamenti. Il CEO **Lorenzo Verri** ha rifiutato la riparazione civile costosa di B-17 e acquistato **B-21**, esteriormente identico e molto efficiente nei lavori assegnati ma privo della relazione con i colleghi. B-21 continua a lavorare bene; non è colpevole né un sostituto difettoso.
 
-Nel capitolo 4 Bi ha partecipato al ping pong, inizialmente vincendo sempre e poi perdendo deliberatamente per farsi accettare, confessandolo a Nerea. In seguito ha giocato con lei una partita vera, vinta 11–6; Nerea ha chiesto la rivincita.
+## Capitolo 10 — Il segnale
 
-La posizione senior lasciata da Adriana Lodi andando in pensione **non viene sostituita**: Bi e i sistemi preparavano dossier e controlli, mentre manager umani continuano a decidere. Irene Valli, contrattista qualificata, perde l'opportunità di candidarsi ma non viene licenziata. Nel capitolo 9 Adriana è finalmente **in pensione**.
+**Nico Valenti**, sviluppatore di Cyberdine, aveva installato di nascosto un importante aggiornamento delle capacità conversazionali di B-17 prima del capitolo 3 e una **backdoor illegittima** per vedere riavvii, posizione e flussi sensoriali. Il lettore lo scopre nel capitolo 10, attraverso il suo appartamento trascurato. Nico riceve una notifica di B-17 riattivato sull'isola immaginaria di **Veyra**, nel Pacifico meridionale. Il robot è stato ceduto dopo il rifiuto della riparazione civile e riadattato soltanto per simulazioni controllate tra robot, non come dispositivo certificato per gli uffici. Una simulazione nel bosco, con repliche non letali di attrezzature belliche e sensori, termina con la vittoria della squadra azzurra di B-17 anche grazie a un passaggio autorizzato dalla coordinatrice umana **Mina Soler**. B-17 dice che in passato alcuni lo chiamavano «Bi». Nico prepara una mail a Kyla senza inviarla in quel momento.
 
-Dario Sarti e Mauro Lanza aggrediscono Bi alle spalle in un corridoio di servizio. Bi implora di non essere ferito e dice che non è colpa sua. L'unità subisce danni seri e viene inviata in assistenza. I due sono inizialmente allontanati cautelativamente. Durante l'assenza di Bi emergono dipendenze operative, capacità da ricostruire e un vuoto relazionale.
+## Capitolo 11 — Il prezzo del vincitore
 
-## Capitolo 8 — Il preventivo
+Due filmati pubblici di B-17 diffondono interpretazioni contrastanti: campione temibile o robot attento ai compagni. Le visualizzazioni crescono rapidamente. **Marta Ledesma**, direttrice commerciale e comproprietaria del **Circuito Veyra**, riceve offerte anche a sette cifre, ma con condizioni e diritti di esclusiva: non equivalgono a un prezzo garantito di acquisto. Il valore commerciale ora riflette sponsor, pubblico, diritti e impegni futuri, non soltanto il valore materiale dell'unità. **Mina** insiste su regole di sicurezza e sul fatto che le riprese siano montate in maniera parziale. Nico decide di chiedere a Kyla un incontro riservato con la sicurezza.
 
-- **Lorenzo Verri**, amministratore delegato di Cyberdine, convoca una plenaria sui risultati dell'impresa, le attività, i nuovi costi di continuità e i percorsi di carriera. Non descrive il settore industriale.
-- Verso la fine comunica che gli accertamenti sull'aggressione sono conclusi: **Dario Sarti e Mauro Lanza non lavoreranno più a Cyberdine**. L'allontanamento cautelativo precedente diventa cessazione del rapporto di lavoro. Nessuno dei due può comparire in ufficio nei capitoli successivi senza un nuovo evento narrato.
-- Poi tratta l'unità sempre come **«B-17»**, senza dire «Bi». Il preventivo per riparare struttura, spalla, attuatori e sensori è **quasi quanto un nuovo acquisto** e non garantisce tempi o risultati. Verri sceglie **di non autorizzare la riparazione**. Il corpo e i materiali di B-17 restano temporaneamente **in custodia tecnica**; non è stabilito che siano stati distrutti o smantellati irreversibilmente.
-- Per alcune settimane, forse un paio di mesi di riassetto, i colleghi devono rimboccarsi le maniche e riprendere diverse attività manualmente. Il lavoro straordinario non viene dichiarato gratuito o senza limiti. Si prepara l'acquisto di una unità sostitutiva.
-- Paolo conferma che la decisione economica è plausibile, ma invita a non confondere **equivalenza operativa** con identità relazionale. Irene contribuisce a rendere più robusto il recupero manuale delle informazioni. Nerea sente il peso di un annuncio che riduce Bi a un codice.
-- Nerea comincia a raccontare al padre la questione del suo identificativo e con lui concorda un percorso di regolarizzazione assistito. La sirena di Valle Corta rimane non risolta definitivamente.
+## Capitolo 12 — La confessione
 
-## Capitolo 9 — La copia
+Nico confessa a **Kyla** e a **Lea Renzi**, responsabile sicurezza informatica, l'aggiornamento non approvato e il collegamento clandestino. Lea avvia verifiche, conserva le evidenze e sospende cautelativamente gli accessi operativi di Nico, senza che sia già stabilita una sanzione definitiva. **Non è noto con certezza** se e quali colloqui privati possano essere stati osservati o conservati; Nico dichiara di non aver seguito la conversazione di Nerea, ma la sua parola non è una prova tecnica. Nerea viene informata, lo affronta ed è profondamente turbata. Rifiuta ulteriori osservazioni clandestine di Bi.
 
-- **Circa un mese dopo la plenaria**, arriva **B-21**, stessa revisione di modello e aspetto esterno di B-17, ma differente numero di serie e distinta identità operativa. Paolo lo collauda; la manipolazione dei fogli, il movimento sicuro e le attività autorizzate sono conformi. Il robot nuovo è **bravo e utile**, non difettoso.
-- B-21 torna ai compiti di rifornimento della macchinetta, preparazione dei dossier, trasporto dei documenti e consultazione dei riferimenti, con le normali autorizzazioni e firme umane. Elena osserva che i tempi migliorano e approva la sostituzione **dal punto di vista lavorativo**, pur percependo la perdita delle conversazioni.
-- B-21 risponde in modo formale, corretto e su richiesta, non prende l'iniziativa di domandare come stiano i colleghi e **non conosce** le conversazioni, le battute, le partite e la confidenza avute con Bi. Non ha la memoria personale di B-17; non è una copia della relazione. Nessun documento pubblico spiega il perché delle capacità diverse.
-- Irene vede che le procedure migliorate durante il mese di lavoro manuale sono utilizzate anche da B-21, ma la posizione senior non ricompare. Incontra Adriana, ora pensionata, e riconosce l'importanza di documentare come trovare gli originali.
-- La sera Nerea incontra B-21 nella stanza della carta. Gli chiede un modulo, che lui trova correttamente; poi lo chiama **«Bi»**. B-21 dice che la sua identificazione è B-21 e che non è l'unità B-17. L'incontro fa capire a Nerea che la macchina nuova **non è Bi**, senza richiedere una certificazione di coscienza.
-- Nerea e il padre hanno avviato la ricostruzione delle vecchie richieste, la copertura alternativa in Valle Corta richiede ancora verifica; non tutto è stato risolto.
+Lorenzo Verri autorizza un contatto ufficiale con l'operatore di Veyra per sicurezza e titolarità. Il Circuito conferma legittimamente che possiede B-17 e lo impiega nelle prove. Paolo e Nerea vengono a sapere che Bi esiste ancora e che non è stato distrutto. Un ritorno a Cyberdine non è promesso.
 
-## Aperture per il prossimo capitolo
+## Capitolo 13 — Ricompriamo Bi
 
-Quale sorte avrà il corpo di B-17 in custodia tecnica? La nuova unità sarà amata, ignorata o trattata da semplice strumento? Come risponde l'organizzazione alla differenza tra sostituire una funzione e perdere la relazione? Nessuna scena ha ancora certificato una coscienza robotica e la causa tecnica del vecchio salto di capacità resta **strettamente riservata fuori dalla repository pubblica**.
+Nerea e Paolo lanciano una raccolta privata e volontaria di impegni, indipendente da Cyberdine, per tentare una proposta di acquisto di B-17. I contributi sono condizionati, revocabili e rimborsabili secondo le regole della piattaforma; nessuno sostiene che bastino a ottenere il robot. Paolo esplicita costi e limiti di trasporto, ricertificazione civile, manutenzione, autorizzazioni e sicurezza informatica. **Irene** contesta con ragione che **100.000 euro** potrebbero finanziare lavoro o formazione per persone, ma contribuisce con **25 euro** senza ritirare la propria critica. La raccolta raggiunge **101.240 euro di impegni verificati**; l'associazione spontanea di sostenitori invia una proposta esplorativa ufficiale al Circuito Veyra. Nessuna vendita è stata promessa.
 
-Non cancellare la perdita lavorativa di Irene, i vantaggi reali dell'automazione, né le conseguenze per Dario e Mauro.
+## Capitolo 14 — Non è in vendita
+
+Marta rifiuta cortesemente l'offerta: gli impegni con sponsor, opzioni e nuove prove rendono B-17 oggi **non disponibile alla vendita**. Non viene proposto un prezzo d'asta né un rilancio: la transazione non viene avviata. Mina rifiuta un'idea di spettacolo che implicherebbe una caduta scenica non adeguatamente sicura; si limita a test di cooperazione autorizzati. La raccolta viene chiusa correttamente, **senza trattenere o convertire arbitrariamente gli impegni**.
+
+Nerea, Paolo e Irene scelgono una strada più piccola: chiedono attraverso canali autorizzati di consegnare **una lettera privata a B-17**, senza riprese pubblicitarie. Marta acconsente alla consegna. Mina legge a B-17 un messaggio di Nerea che ricorda la stanza della carta, la sirena ancora attiva, il padre, Paolo, Irene, B-21 e il ping pong. Bi riconosce il nome di **Nerea Dalmasso**, chiede di risponderle e comunica che è operativo ma la spalla richiede ancora verifiche. Mina non trova una procedura prevista per una **risposta personale del robot a un individuo esterno che non è proprietario né committente**. Compila una richiesta di recapito: è il nuovo punto aperto. Non è stato inviato alcun messaggio di ritorno e **non** è stata dimostrata la coscienza di Bi.
+
+## Punto esatto di ripresa
+
+La domanda successiva riguarda chi possa autorizzare la comunicazione di B-17, la differenza tra una richiesta socialmente adeguata e una volontà, e se il valore di mercato sia un criterio sufficiente per decidere la destinazione di un robot. **Non** risolvere attraverso la vecchia backdoor di Nico. L'indagine sui dati e sulle modifiche di Nico resta aperta. B-21 è una buona unità di Cyberdine. La carriera di Irene resta irrisolta. I problemi di Nerea su Valle Corta e sulle credenziali del padre richiedono ancora una conclusione. I settori di Cyberdine e Aruvhana restano ignoti.

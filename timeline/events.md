@@ -39,3 +39,15 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **Capitolo 8, settimane di attesa**: Irene e altri colleghi distribuiscono attività, migliorano la reperibilità degli originali e riconoscono quanto tempo richiedano passaggi prima automatizzati. Nerea inizia a raccontare al padre le richieste fatte con le sue vecchie credenziali.
 - **Circa un mese dopo la plenaria, capitolo 9**: arriva **B-21**, robot dello stesso modello esteriore di B-17, nuovo e distinto. Paolo lo collauda: i compiti di lavoro sono corretti; Elena verifica che i tempi tornano a migliorare. Adriana è ormai in pensione.
 - **Capitolo 9, sera**: Nerea incontra B-21 nella stanza della carta e lo chiama «Bi». B-21 precisa di essere B-21, non B-17; risponde ai compiti ma non alle attese relazionali maturate con Bi. La relazione di Nerea con il padre e le pratiche di Valle Corta rimangono aperte.
+
+
+- **Dopo il capitolo 9, capitolo 10**: Nico Valenti, sviluppatore di Cyberdine, riceve a casa una notifica: la vecchia unità B-17 è stata riattivata sull'isola immaginaria di Veyra, nel Pacifico meridionale. Il lettore scopre che Nico aveva installato di nascosto il grande aggiornamento conversazionale antecedente al capitolo 3 e un collegamento di osservazione non autorizzato.
+- **Stesso giorno, Veyra**: B-17 partecipa con una squadra azzurra a una simulazione nel bosco. La coordinatrice umana Mina Soler autorizza un passaggio verificato; B-17 raggiunge il punto centrale e la squadra vince.
+- **Dopo la prova**: B-17 dice che alcune persone lo chiamavano «Bi». Nico prepara una mail a Kyla per raccontare la verità, ma non è ancora stata inviata.
+
+
+- **Cap. 10, dopo l'arrivo di B-21**: Nico Valenti vede B-17 riattivato dal suo collegamento clandestino sul campo simulato di Veyra; il robot vince con autorizzazione umana e ricorda il nome «Bi». Nico prepara una mail a Kyla, ma non la invia.
+- **Cap. 11, giorni successivi**: i video della prova si diffondono e vengono interpretati in modi divergenti. Marta Ledesma riceve offerte condizionate molto superiori al costo del recupero. Nico chiede a Kyla un incontro riservato.
+- **Cap. 12**: Nico confessa l'aggiornamento clandestino e la backdoor a Kyla e Lea Renzi. Accessi operativi sospesi; accertamenti aperti, esposizione di dati non ancora determinata. Nerea è informata della possibilità di essere stata osservata e affronta Nico. La società di Veyra conferma per via ufficiale la proprietà e l'operatività di B-17.
+- **Cap. 13**: «Ricompriamo Bi», iniziativa privata, ottiene **101.240 euro** di impegni condizionati. Irene partecipa con 25 euro pur criticando il contrasto con i posti di lavoro. L'offerta esplorativa viene inviata alle 18:42.
+- **Cap. 14**: Marta rifiuta la vendita senza negoziare un nuovo prezzo. La raccolta è chiusa e i fondi condizionati non vengono usati per altri scopi. Mina rifiuta richieste di spettacolo non sicure. Nerea scrive a Bi; Veyra consente una consegna privata. B-17 chiede di rispondere e Mina apre una procedura non ancora prevista.

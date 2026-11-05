@@ -27,3 +27,8 @@ Paolo cerca di contenere la tensione durante la discussione interna, poi intervi
 ## Capitoli 8–9
 
 Paolo verifica il preventivo per B-17 e conferma che ripristinare spalla, sensori e certificazioni di sicurezza costerebbe quasi quanto una unità nuova. Non trova argomenti economici semplici per contraddire la direzione. Un mese dopo partecipa al collaudo di B-21: il nuovo robot è competente e conforme, copia i fogli senza problemi e rifornisce il caffè; ciò non gli restituisce l'abitudine di parlare con Bi o di giocare con lui.
+
+
+## Capitoli 12–14
+
+Paolo contribuisce a confermare per vie lecite l'identificativo dell'unità B-17 nel Circuito Veyra. Con Nerea avvia «Ricompriamo Bi» e costruisce un prospetto onesto di trasporto, ricertificazione, manutenzione e limiti dell'eventuale ritorno. Non disprezza B-21 e non intende usare l'accesso illegittimo di Nico. Dopo il rifiuto della vendita chiude correttamente gli impegni e partecipa all'inoltro di una lettera privata.

@@ -31,3 +31,8 @@ Kyla convoca un incontro di ascolto tra colleghi divisi su Bi, senza promettere 
 ## Capitolo 8
 
 Kyla segue la plenaria dell'AD Lorenzo Verri. Ascolta l'annuncio della cessazione del rapporto di lavoro con Dario e Mauro e la scelta di non riparare B-17. Non contesta i costi del preventivo, ma riconosce l'importanza di non promettere ai colleghi che un nuovo robot equivalga anche a Bi come relazione. Nel capitolo 9 è presente al collaudo di B-21, identico nell'aspetto e diverso nelle conversazioni.
+
+
+## Capitoli 11–14
+
+Dopo la richiesta di Nico, Kyla partecipa con Lea Renzi alla confessione sull'aggiornamento e la backdoor di B-17. Si preoccupa della privacy e della fiducia tradita, senza escludere che la capacità tecnica fosse autentica. Informa Nerea del rischio, autorizza con la direzione un contatto legittimo col Circuito Veyra e fornisce a Nerea e Paolo la conferma della nuova destinazione. Supporta la correttezza informativa dell'iniziativa privata «Ricompriamo Bi» senza renderla una campagna aziendale né promettere il ritorno dell'unità. Dopo il rifiuto della vendita, contribuisce a far inoltrare legittimamente una lettera privata di Nerea.

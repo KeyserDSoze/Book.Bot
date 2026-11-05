@@ -20,3 +20,8 @@ Irene rifiuta che l'opportunità senior perduta sia utilizzata per giustificare 
 ## Capitoli 8–9
 
 Irene partecipa alla fase in cui l'azienda compensa manualmente l'assenza di Bi. Scrive e migliora una procedura per recuperare gli originali quando i sistemi non sono disponibili. Lavorare di più non le restituisce il ruolo senior di Adriana. Un mese dopo B-21 utilizza le nuove regole che lei ha contribuito a stabilire; Irene riconosce il miglioramento tecnico ma conserva la propria ambizione professionale. Incontra Adriana, ormai pensionata. Non viene licenziata.
+
+
+## Capitoli 13–14: non un voto su chi vale di più
+
+Irene ritiene paradossale destinare 100.000 euro al tentativo di ricomprare Bi mentre la posizione senior di Adriana non è stata riaperta. Critica l'idea che il valore sentimentale di una macchina cancelli i bisogni professionali umani, ma contribuisce comunque con 25 euro alla raccolta privata, senza ritirare la critica. Dopo il rifiuto della vendita, aiuta a chiudere correttamente gli impegni e suggerisce a Nerea di provare prima a parlare a Bi, anziché diventare semplicemente una nuova proprietaria. Il suo lavoro presso Cyberdine continua; nessuna promozione è avvenuta.

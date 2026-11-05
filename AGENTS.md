@@ -76,3 +76,14 @@ Nel capitolo 7 si osserva l'assenza attraverso lavoro interrotto, competenze non
 L'amministratore delegato **Lorenzo Verri** comunica in plenaria i risultati di Cyberdine, poi la cessazione dei rapporti di lavoro con Dario e Mauro dopo accertamenti, quindi decide di non riparare ufficialmente **B-17** perché il costo è quasi pari a quello del nuovo e non sono certi tempi o risultato. Verri parla di B-17, non lo chiama «Bi». Il vecchio corpo resta temporaneamente custodito, non si dichiara smantellato. Per un mese il personale copre diversi lavori a mano.
 
 Nel capitolo 9 arriva **B-21**, esteriormente identico, con un nuovo numero di serie. Il robot sostitutivo funziona bene nelle mansioni assegnate, ma non ha le relazioni, i dialoghi e la capacità di attenzione che i colleghi conoscevano in Bi. Non creare un guasto tecnico per forzare la morale: sottolineare la differenza tra sostituire una funzione e ritrovare una persona a cui ci si era abituati. Il segreto autoriale sulle capability di B-17 non va spiegato né riportato nei file pubblici.
+
+
+## Capitoli 11–14: mercato, riservatezza, raccolta, comunicazione
+
+Da capitolo 10 il **lettore** conosce la causa del salto di capacità di Bi: Nico Valenti introdusse clandestinamente un grosso aggiornamento conversazionale e una backdoor. Nel **capitolo 12** lo racconta anche a Kyla e a Lea Renzi, responsabile sicurezza. Non anticipare questo ai personaggi prima di tale incontro. La confessione non esonera Nico: accessi operativi sospesi cautelativamente e indagine in corso sulla possibile esposizione di dati privati. Nerea dichiara di non volere che Bi sia spiato ulteriormente. Non mostrare dettagli operativi della backdoor.
+
+Il Circuito Veyra, diretto commercialmente da Marta Ledesma, valorizza B-17 per video virali, sponsor e potenziali accordi di esclusiva. Si tratta di offerte **condizionate**, non di cassa già incassata o capacità militari provate. Mina Soler tutela la sicurezza delle prove simulate.
+
+Nerea e Paolo avviano privatamente una raccolta di impegni, **non una raccolta aziendale**, per tentare di comprare B-17. Irene denuncia la contraddizione con i posti di lavoro non creati ma partecipa con 25 euro. Gli impegni raggiungono 101.240 euro. L'attuale proprietario **rifiuta di vendere** senza indicare un prezzo di rilancio; le promesse economiche vengono sciolte/rimborsate secondo le condizioni. Nessun ritorno di Bi, nessuna promozione di Irene, nessuna cura miracolosa.
+
+Nel capitolo 14 Mina consegna a B-17 una lettera privata di Nerea attraverso canali autorizzati. B-17 chiede di rispondere; **non esiste ancora una procedura per la corrispondenza personale dell'unità con persone esterne non proprietarie**, e Mina apre una richiesta. La domanda sui diritti prende forma da un problema pratico, non dalla prova di coscienza. B-21 continua a lavorare bene a Cyberdine.

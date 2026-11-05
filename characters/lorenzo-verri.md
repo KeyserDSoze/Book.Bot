@@ -12,3 +12,8 @@ Amministratore delegato di Cyberdine S.p.A. Attento ai conti, ai rischi operativ
 Nel capitolo 8 convoca una plenaria: andamento di Cyberdine, problemi legati al fermo di B-17, conclusione degli accertamenti sull'aggressione, cessazione dei rapporti di lavoro con Dario Sarti e Mauro Lanza secondo le procedure aziendali. Usa il codice ufficiale **B-17**, non il soprannome «Bi». Comunica la scelta **di non autorizzare la riparazione**, quasi costosa quanto un nuovo acquisto, e una fase di alcune settimane di lavoro manuale aggiuntivo, fino a un nuovo assetto. La nuova unità arriva un mese dopo.
 
 Non anticipare i dettagli del settore produttivo di Cyberdine e non rivelare la causa del salto di capacità di Bi.
+
+
+## Capitolo 12
+
+Lorenzo apprende da Kyla e Lea il comportamento non autorizzato di Nico relativo a B-17. Autorizza controlli e contatti formali con il Circuito Veyra per la sicurezza dei dati, senza reclamare automaticamente una unità che Cyberdine aveva ceduto. Non decide immediatamente il licenziamento di Nico. Non autorizza né finanzia come iniziativa aziendale la raccolta volontaria per ricomprare Bi; B-21 continua a svolgere regolarmente i compiti previsti.

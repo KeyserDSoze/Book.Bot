@@ -70,3 +70,12 @@ L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi ved
 Nella plenaria l'amministratore delegato ha ragioni economiche reali, non è un cattivo artificioso. Deve parlare dei risultati e delle responsabilità aziendali prima della breve comunicazione di servizio su **B-17**; chiamare il robot col codice ufficiale crea una distanza dolorosa per i colleghi che lo chiamavano «Bi». Gli aggressori subiscono conseguenze professionali; non trasformare il licenziamento in una spettacolarizzazione punitiva.
 
 La nuova unità B-21 è **competente**, esteriormente uguale e interamente diversa sul piano della relazione vissuta. Il narratore non deve spiegare perché le capacità sociali siano diverse, e non può testimoniare dall'interno una coscienza del vecchio robot. Mostrare la differenza nei saluti, nelle risposte letterali, nell'assenza di domande spontanee e nei gesti piccoli dei colleghi. Non usare «copia mal riuscita»: per il lavoro è una sostituzione riuscita.
+
+
+# Capitoli 11–14: mercati e domande non previste
+
+La fama di Bi nasce da un video montato, non da una rivelazione scientifica: la stessa prova simulatа viene letta come efficacia militare o attenzione verso i compagni. Mostrare contratti, penali, sponsor e condizioni, non un compratore malvagio e una cifra magica. La società che possiede Bi ha ragioni commerciali vere e Mina ha responsabilità di sicurezza vere.
+
+Nico confessa la modifica non autorizzata e la backdoor. La storia va scritta come un problema di fiducia e privacy, non come una soluzione tecnologica miracolosa. Nessuna scena deve descrivere procedure riproducibili di accesso clandestino. Non far affermare ai narratori che Bi è cosciente; personaggi possono formulare ipotesi e dubbi.
+
+Raccolta fondi: evitare un trionfo facile. Nerea vuole Bi, Irene non cessa di pensare alle opportunità professionali perse e B-21 non è svalutato. La raccolta riuscita non compra nulla, e la successiva risposta scritta del proprietario non è una trattativa. Alla fine una lettera privata arriva a Bi, che chiede di rispondere; il fatto nuovo è che l'organizzazione non ha il modulo per questa domanda, non che l'autore emetta una sentenza sullo statuto della macchina.

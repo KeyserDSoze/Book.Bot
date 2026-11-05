@@ -35,3 +35,12 @@ Il sopralluogo a Valle Corta si svolge e conferma l'esistenza delle quattordici 
 Nella plenaria Nerea sente l'AD Lorenzo Verri parlare della mancata riparazione di **«B-17»**, senza usare il nome «Bi». B-17 resta in custodia tecnica, il suo rientro non è previsto. Nerea racconta al padre che ha usato il suo identificativo per le richieste di manutenzione; iniziano insieme una ricostruzione assistita, senza esito conclusivo. I sopralluoghi a Valle Corta confermano le quattordici case e la dismissione è ancora sospesa in attesa delle verifiche sulla copertura alternativa.
 
 Un mese dopo Nerea incontra il nuovo B-21, identico nell'aspetto, cortese e capace nei compiti, ma estraneo alle loro confidenze. Nella stanza della carta lo chiama «Bi» e lui chiarisce di essere B-21 e non B-17. Nerea ne rispetta il nome, comprendendo che la nuova unità non è il Bi che conosceva. Nessuna prova conclusiva di coscienza.
+
+
+## Capitoli 12–14: la persona che può parlare e quella che non può rispondere
+
+Nerea apprende che Nico ha installato su Bi un aggiornamento e un accesso clandestino a flussi sensoriali. Non esiste prova completa sull'accesso a conversazioni intime; Nico dichiara di non aver seguito la sua confidenza, ma Nerea non lo assolve. Apprende tramite contatti ufficiali che B-17 è vivo operativamente nel Circuito Veyra, senza usare il canale clandestino.
+
+Con Paolo organizza una raccolta privata, revocabile e condizionata per tentare l'acquisto di B-17; i contributi verificati arrivano a 101.240 euro. Il proprietario rifiuta di venderlo. Nerea scrive allora una lettera privata ricordando la stanza della carta, Valle Corta, il padre, Paolo, Irene, B-21 e il ping pong. Mina la legge a B-17 a Veyra. Il robot chiede di rispondere; la risposta non è ancora stata consegnata.
+
+Valle Corta è stata riconosciuta come zona abitata nelle verifiche, e la sirena non è stata rimossa, ma copertura alternativa e ricostruzione amministrativa delle vecchie credenziali rimangono da completare.
