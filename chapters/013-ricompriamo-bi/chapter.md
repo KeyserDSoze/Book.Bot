@@ -21,3 +21,7 @@ pov:
 # Guardrail
 
 La raccolta è volontaria e separata dalla direzione di Cyberdine. Usa impegni rimborsabili condizionati alla fattibilità, non denaro richiesto con pressione ai colleghi. L'eventuale ritorno richiede verifiche di sicurezza, trasporto e manutenzione, non è automatico. B-21 continua a svolgere bene i compiti; nessun posto senior riappare. La violazione di Nico non viene cancellata dalla raccolta.
+
+## Soglia e tempi — v0.17.0
+
+La raccolta cresce in quasi tre settimane. La soglia di 100.000 euro è un limite iniziale di disponibilità deciso dai partecipanti e non corrisponde ad alcun prezzo proposto o accettato da Veyra. Conservare queste condizioni nelle scene future.

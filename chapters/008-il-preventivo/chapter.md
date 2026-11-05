@@ -7,8 +7,8 @@ canon: canon
 pov:
   - character:kyla
   - character:paolo-ferri
-  - character:irene-valli
   - character:nerea-dalmasso
+  - character:irene-valli
 ---
 
 # Direzione
@@ -21,8 +21,8 @@ La plenaria chiarisce che **Dario Sarti e Mauro Lanza**, già allontanati cautel
 
 1. I numeri sullo schermo — dal POV di Kyla, plenaria credibile, dati operativi senza rivelare i settori aziendali; Verri comunica cessazione rapporto Dario/Mauro e mancata riparazione di B-17.
 2. Quasi quanto uno nuovo — Paolo verifica preventivo, alternative e limiti tecnici, sostiene in modo credibile che la scelta può essere razionale, ma non può garantire l'identità del sostituto.
-3. Un mese di mani — Irene scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
-4. Il numero — Nerea riflette sul nome ufficiale, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
+3. Il numero — Nerea riflette sul nome ufficiale lo stesso giorno della plenaria, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
+4. Un mese di mani — nelle settimane successive Irene scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
 
 # Continuità
 

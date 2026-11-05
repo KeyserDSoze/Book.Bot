@@ -44,3 +44,7 @@ Nerea apprende che Nico ha installato su Bi un aggiornamento e un accesso clande
 Con Paolo organizza una raccolta privata, revocabile e condizionata per tentare l'acquisto di B-17; i contributi verificati arrivano a 101.240 euro. Il proprietario rifiuta di venderlo. Nerea scrive allora una lettera privata ricordando la stanza della carta, Valle Corta, il padre, Paolo, Irene, B-21 e il ping pong. Mina la legge a B-17 a Veyra. Il robot chiede di rispondere; la risposta non è ancora stata consegnata.
 
 Valle Corta è stata riconosciuta come zona abitata nelle verifiche, e la sirena non è stata rimossa, ma copertura alternativa e ricostruzione amministrativa delle vecchie credenziali rimangono da completare.
+
+## Consenso alla lettera — v0.17.0
+
+Dopo il confronto con Nico, Nerea non torna ingenuamente a una comunicazione senza limiti: chiede a Kyla come passerebbe il messaggio presso il Circuito, accetta la possibilità che un referente umano autorizzato lo legga e che restino tracce di gestione, rifiuta l'impiego pubblicitario e non inserisce credenziali o informazioni private delle persone della valle. Vuole essere ascoltata senza pretendere un diritto assoluto a una conversazione incontrollata. Il suo incontro con Nico è avvenuto il giorno successivo all'informativa della sicurezza, per sua scelta.

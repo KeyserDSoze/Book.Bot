@@ -20,6 +20,8 @@ factions:
 
 L'ultima cifra arrivò durante una riunione che non riguardava Bi.
 
+Erano passate quasi tre settimane da quando il primo link aveva raggiunto i colleghi. Gli impegni erano cresciuti a ondate: una piccola somma alla volta nei primi giorni, poi contributi di sconosciuti che avevano visto il filmato di Veyra. Il totale non rappresentava un accordo sul futuro di B-17, nemmeno fra chi aveva versato cinque euro e chi ne aveva promessi cinquecento.
+
 Kyla stava discutendo con Lorenzo Verri un problema di tempi di approvazione quando il telefono vibrò tre volte. Lo lasciò rivolto verso il tavolo. Poi si accorse che sul display comparivano tre messaggi di Nerea, tutti cominciati con la stessa parola.
 
 *Centomila.*

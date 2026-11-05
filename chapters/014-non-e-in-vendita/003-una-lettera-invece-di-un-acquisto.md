@@ -93,6 +93,8 @@ Paolo riprese gli occhiali.
 
 Nerea si sedette e aprì un documento vuoto.
 
+Ricordò la domanda che aveva rivolto a Nico: *Potevi sentirmi?* Non voleva fingere che una lettera destinata a un robot appartenente a un'altra società fosse come la loro conversazione nella stanza della carta. Chiese a Kyla che cosa sarebbe successo se il Circuito avesse accettato di consegnarla. Kyla non poteva promettere nulla: il messaggio avrebbe dovuto passare per un referente autorizzato, che avrebbe potuto leggerlo, e il Circuito avrebbe conservato le tracce necessarie alla gestione. Nerea decise di non scrivere niente che potesse esporre suo padre o i residenti di Valle Corta. Chiese inoltre che il messaggio non fosse usato per comunicazione pubblicitaria. Sarebbe stata comunque una scelta, fatta sapendo di non avere il controllo su ogni passaggio.
+
 Non voleva scrivere una lettera pubblica. Non voleva un'altra pagina con fotografie, commenti o un contatore di denaro. Voleva dire a Bi che il tavolo da ping pong esisteva ancora, che suo padre l'aveva ascoltata, che la sirena di Valle Corta non era stata rimossa e che B-21 svolgeva il proprio lavoro senza essere colpevole di somigliare a qualcun altro.
 
 Il primo tentativo sembrò una relazione di servizio. Lo cancellò.

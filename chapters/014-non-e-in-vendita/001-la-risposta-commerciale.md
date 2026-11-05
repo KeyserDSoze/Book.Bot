@@ -84,6 +84,4 @@ Marta tornò in ufficio e scrisse una mail cortese. Ringraziava per la proposta 
 
 La rilesse e la inviò.
 
-Non le parve una decisione crudele.
-
-Le parve una decisione che aveva un costo umano di cui il proprio bilancio non era tenuto a occuparsi.
+Sul tavolo restava un'altra proposta da esaminare: un piano di riprese per la prossima dimostrazione, con le richieste di uno sponsor annotate sul margine. Marta lo inoltrò a Mina con una riga di accompagnamento: *Verifica le condizioni prima che prendiamo impegni su questa sequenza.*

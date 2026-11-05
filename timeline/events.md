@@ -56,7 +56,14 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **Capitolo 1:** Nico Valenti interviene già nell'atrio per assistere un dipendente davanti a un varco di servizio che risulta verificato sul terminale ma non si apre. Il KPI trimestrale delle 6.400 ore riguarda tutto il programma di automazione; i primi robot fisici sono arrivati 26 giorni prima della visita.
 - **Capitolo 2:** Mauro Lanza è impegnato nelle consegne e teme cambiamenti ai turni. Nico osserva la vicenda del foglio bianco e della cornice magnetica; Irene ricorda che è necessario verificare il registro originale anziché fidarsi di una «versione finale» digitale.
 - **Capitoli 3, 9 e 12:** Elena annota una domanda conversazionale inattesa di B-17 come osservazione di qualità; la nota resta senza un esito esplicito nel 9 e Lea la ritrova durante l'indagine del 12. Nico compare nei corridoi senza che i colleghi conoscano la modifica clandestina.
-- **Capitoli 4–6:** Lea Renzi è già attenta alla minimizzazione dei dati dello Spazio Comune. Nico attraversa le prime partite a ping pong, sente la discussione sul posto senior e vede le conseguenze dell'aggressione; non si appropria né della confidenza di Nerea né di una spiegazione per il pubblico.
+- **Capitoli 4–6:** Lea Renzi è già attenta alla minimizzazione dei dati dello Spazio Comune. I cameo di Nico nelle partite e nella discussione sul posto senior sono stati tolti; Nico assiste soltanto alle conseguenze dell'aggressione nel capitolo 6.
 - **Tra capitoli 7 e 8:** Adriana Lodi va in pensione. Nell'ottavo Irene guarda l'ufficio ormai diventato «Sala di appoggio»; nel nono Adriana pensionata torna una sola volta per prendere una scatola.
 - **Capitolo 8:** una clausola del preventivo cita la possibilità futura, non ancora autorizzata, di cedere B-17 a recupero dopo le verifiche. Nico lascia la plenaria quando appare il codice B-17. Nel capitolo 9 guarda arrivare B-21.
 - **Capitoli 11 e 14:** Marta Ledesma non concede una clausola di esclusiva sul nome «Bi» di cui non sa la provenienza. Mina, quando cerca di rispondere alla lettera di Nerea, trova B-17 solo nell'elenco delle attrezzature, non in quello dei mittenti.
+
+## Aggiornamento cronologico v0.17.0
+
+- **Capitolo 8:** la plenaria e la reazione di Nerea (scene 001–003) precedono le settimane di lavoro manuale di Irene (scena 004).
+- **Capitolo 12:** l'informativa di Lea a Nerea avviene un giorno prima dell'incontro di Nerea con Nico; l'incontro è volontario. Veyra dichiara temporaneamente prove supervisionate e verifiche di sicurezza.
+- **Capitolo 13:** il gruppo raggiunge 101.240 euro di impegni dopo quasi tre settimane; 100.000 euro non è il prezzo comunicato da Veyra.
+- **Capitolo 14:** Nerea informa Kyla dei limiti di privacy desiderati; il messaggio viene consegnato con autorizzazione, senza impiego pubblicitario. L'eventuale risposta resta aperta.

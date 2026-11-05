@@ -68,7 +68,7 @@ Un colpo secco venne dal fondo. Una bottiglietta di plastica era caduta sotto un
 
 Verri aspettò.
 
-«Non discuterò qui le loro posizioni personali», continuò. «Voglio però che una cosa sia chiarissima. Le divergenze sulle scelte aziendali, anche le più dure, sono legittime. L'aggressione e il danneggiamento violento non lo sono. Non li accetteremo. La sicurezza sul lavoro non dipende da quale opinione ciascuno di noi ha dell'automazione.»
+«Non discuterò qui le loro posizioni personali», continuò. «Gli eventuali profili esterni agli accertamenti aziendali seguono percorsi distinti, sui quali questa plenaria non deve pronunciarsi. Voglio però che una cosa sia chiarissima. Le divergenze sulle scelte aziendali, anche le più dure, sono legittime. L'aggressione e il danneggiamento violento non lo sono. Non li accetteremo. La sicurezza sul lavoro non dipende da quale opinione ciascuno di noi ha dell'automazione.»
 
 Kyla sentì la gravità della frase senza il sollievo che qualcuno aveva forse sperato di provare. Dario era stato un collega capace di far ridere un'intera stanza durante una pausa. Mauro aveva passato anni a spostare materiali che nessuno voleva spostare. Ora due scrivanie sarebbero rimaste vuote per una decisione che entrambi avevano preso e che non poteva più essere disfatta.
 

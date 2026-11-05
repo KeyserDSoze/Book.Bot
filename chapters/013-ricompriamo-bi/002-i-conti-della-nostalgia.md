@@ -83,6 +83,8 @@ Alla sera Paolo aprì il documento dei costi. Aggiustò una voce troppo ottimist
 
 **La raccolta non dà alcun diritto di proprietà sull'unità B-17, né garantisce la possibilità di riportarla a Cyberdine.**
 
+Aggiunse anche una nota sul traguardo di centomila euro che il gruppo stava valutando: non era il prezzo di B-17, sconosciuto a tutti, ma una soglia iniziale di disponibilità da poter presentare a un proprietario. Superarla non avrebbe reso la cifra adeguata per forza. Se una trattativa avesse richiesto altri soldi, avrebbero dovuto chiedere di nuovo il consenso dei partecipanti.
+
 La mandò a Nerea.
 
 La risposta arrivò poco dopo: *Mettila in evidenza.*

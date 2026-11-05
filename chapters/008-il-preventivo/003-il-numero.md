@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:008-il-preventivo:004-il-numero
+id: scene:008-il-preventivo:003-il-numero
 chapter: chapter:008-il-preventivo
-number: 4
+number: 3
 title: Il numero
 canon: canon
 pov: character:nerea-dalmasso

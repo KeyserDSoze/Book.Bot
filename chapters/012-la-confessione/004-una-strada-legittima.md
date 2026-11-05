@@ -78,7 +78,7 @@ Paolo rimase in silenzio. Poi fece una cosa che Kyla non si aspettava: prese un 
 
 Kyla ripiegò il foglio e lo mise nella cartellina.
 
-Quella sera il contatto formale arrivò. La società di Veyra confermò di possedere e impiegare un'unità con il numero di serie di B-17 nelle proprie prove controllate. Accettò un confronto tecnico riservato sulla sicurezza dei dati, senza riconoscere alcun obbligo di rivenderla.
+Quella sera il contatto formale arrivò. La società di Veyra confermò di possedere e impiegare un'unità con il numero di serie di B-17 nelle proprie prove controllate. Accettò un confronto tecnico riservato sulla sicurezza dei dati e comunicò che avrebbe limitato l'uso dell'unità alle prove supervisionate in attesa di verifiche ulteriori. Non offrì una certificazione di integrità del software, né riconobbe alcun obbligo di rivenderla.
 
 Kyla raggiunse Nerea nello Spazio Comune.
 

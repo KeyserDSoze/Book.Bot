@@ -154,8 +154,6 @@ Mina guardò gli altri due robot azzurri, ancora immobili tra gli alberi.
 
 Non sapeva se gli ultimi movimenti fossero stati una finta intenzionale o l'esito fortunato di valutazioni meccaniche. Avrebbe dovuto studiare le registrazioni. Sapeva però che B-17 era arrivato alla colonnina soltanto perché qualcuno aveva notato un percorso possibile e lei aveva deciso di verificarlo e autorizzarlo.
 
-Una macchina aveva eseguito il movimento. Una persona si era assunta la responsabilità di lasciarglielo fare.
-
-Per quella volta era bastato.
+Mina spense il microfono e aprì il rapporto degli interventi. Prima di lasciare la sala avrebbe firmato anche il percorso che aveva autorizzato.
 
 ---

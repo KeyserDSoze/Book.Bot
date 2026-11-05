@@ -20,6 +20,8 @@ La lettera arrivò sulla scrivania di Mina insieme a un rapporto sulle batterie.
 
 Non aveva un timbro particolare. Era stata inoltrata dall'ufficio amministrativo dopo una verifica del mittente e l'autorizzazione alla consegna interna. In alto era scritto: **Messaggio personale destinato all'unità B-17 — non destinato alla diffusione pubblica**.
 
+La documentazione allegata specificava che Nerea aveva autorizzato la consegna attraverso un referente umano, non la diffusione del testo. Non conteneva le vecchie credenziali del padre, né dati privati dei residenti.
+
 Mina la lesse una prima volta senza sedersi.
 
 Parlava di un tavolo da ping pong, di una sirena in una valle lontana e di una donna che aveva trovato il coraggio di parlare con il proprio padre. Non chiedeva la restituzione del robot e non conteneva accuse contro il Circuito. Finiva con una domanda semplicissima.

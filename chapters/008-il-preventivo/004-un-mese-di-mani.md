@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:008-il-preventivo:003-un-mese-di-mani
+id: scene:008-il-preventivo:004-un-mese-di-mani
 chapter: chapter:008-il-preventivo
-number: 3
+number: 4
 title: Un mese di mani
 canon: canon
 pov: character:irene-valli
@@ -115,7 +115,3 @@ Qualcuno aveva incollato sul lato un foglio scritto a mano:
 Sotto, in caratteri più piccoli: **NON SERVE UN ROBOT PER LEGGERLO.**
 
 Irene sorrise appena. Si versò dell'acqua e rimise il bicchiere nella raccolta. Poi tornò a verificare che la porta dell'archivio fosse chiusa.
-
-Da quel momento, pensò, molte persone avrebbero dovuto imparare cose nuove.
-
-Alcune avrebbero imparato a fare un lavoro. Altre, forse, a capire quanto valeva prima di sparire dalla loro giornata.

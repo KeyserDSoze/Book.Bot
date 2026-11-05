@@ -13,7 +13,7 @@ Sviluppatore di software e capacità comportamentali a Cyberdine. Vive solo, rim
 
 Nel capitolo 10 riceve dal proprio appartamento una notifica che l'unità B-17, data per ferma dopo l'aggressione e la mancata riparazione, è stata riaccesa dall'altra parte del mondo. Vede attraverso le sue telecamere un campo di guerra simulata tra robot, con attrezzature da addestramento e supervisione umana. **Osserva senza intervenire nel combattimento**; l'esistenza stessa del collegamento clandestino rimane una violazione da accertare.
 
-Fino al capitolo 12 Nico non è noto ai colleghi come autore dell'aggiornamento. Nella revisione editoriale della v0.15.0 è presente già dal capitolo 1: Kyla lo vede assistere un collega con un varco bloccato; nel capitolo 2 osserva la vicenda delle fotocopie; nel capitolo 3 assiste al primo saluto insolito di B-17 senza intervenire; nel capitolo 4 attraversa lo Spazio Comune mentre si gioca a ping pong; nel capitolo 5 ascolta senza partecipare la discussione sui posti di lavoro; nel capitolo 6 vede B-17 danneggiato; nel capitolo 8 esce dalla plenaria quando compare il codice B-17; nel capitolo 9 guarda arrivare l'unità sostitutiva. Le presenze sono esterne e ordinarie; nessuna rivela la causa del cambiamento prima del capitolo 10.
+Fino al capitolo 12 Nico non è noto ai colleghi come autore dell'aggiornamento. Nella revisione editoriale della v0.15.0 è presente già dal capitolo 1: Kyla lo vede assistere un collega con un varco bloccato; nel capitolo 2 osserva la vicenda delle fotocopie; nel capitolo 3 assiste al primo saluto insolito di B-17 senza intervenire; nel capitolo 6 vede B-17 danneggiato; nel capitolo 8 esce dalla plenaria quando compare il codice B-17; nel capitolo 9 guarda arrivare l'unità sostitutiva. Le presenze sono esterne e ordinarie; nessuna rivela la causa del cambiamento prima del capitolo 10.
 
 
 ## Capitoli 11–14: confessione e conseguenze
@@ -23,3 +23,7 @@ Nico osserva il successo mediatico di B-17 e chiede di persona a Kyla un incontr
 ## Seconda revisione editoriale — v0.16.0
 
 La prima scena dal suo punto di vista è stata sottratta ai dettagli degradanti: un video di restauro, una lampada lasciata da riparare, un taccuino con appunti rovinati dall'acqua. Nico rimane evasivo e responsabile delle proprie scelte, ma non è definito dall'immondizia di casa. Prima della modifica clandestina ha osservato nei test autorizzati che tempi di interazione più lunghi potevano evitare domande ripetute; anziché formulare e sostenere una verifica condivisa, ha lasciato sul robot un cambiamento non approvato. **Non sa della confessione privata di Bi a Nerea sulle partite di ping pong**. Eventuali registri consultabili da lui documentano solo attività e interruzioni operative, non il contenuto dell'incontro di Nerea.
+
+## Revisione v0.17.0
+
+Le apparizioni durante il ping pong (capitolo 4) e la discussione sulla soppressione del ruolo senior (capitolo 5) sono state tagliate perché troppo programmatiche. L'incontro con Nerea, dopo la confessione, avviene il mattino seguente all'informativa, con le persone competenti presenti.

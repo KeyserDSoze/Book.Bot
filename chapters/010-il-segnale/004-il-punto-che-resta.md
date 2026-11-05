@@ -109,5 +109,3 @@ Nico guardò la stanza: la lampada smontata, le pagine bagnate del taccuino, il 
 Per la prima volta quella notte Nico non lo contò.
 
 Rimase a fissare il cursore che lampeggiava sotto l'oggetto della mail. Aveva passato mesi a nascondere una decisione dentro un aggiornamento.
-
-Questa volta nessuna macchina avrebbe potuto prendere la decisione al posto suo.

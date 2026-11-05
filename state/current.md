@@ -52,3 +52,9 @@ Adriana va in pensione tra capitoli 7 e 8. Il KPI di 6.400 ore trimestrali dei c
 ## Rilettura v0.16.0, senza avanzamento della trama
 
 La seconda passata ha corretto l'immagine di Nico evitando la caricatura del degrado domestico. Al lettore viene mostrata meglio la causa della sua autoassoluzione (i tempi di interazione peggioravano alcune metriche pur aiutando alcune richieste), senza giustificare la modifica non autorizzata. Nico non conosce la confessione privata di Bi sul ping pong. A Veyra il controllo della colonnina si ribalta dopo cinque secondi di contatto: è così che la squadra azzurra vince. Il modulo originale di B-17 è stato conservato durante il recupero, rendendo credibile la persistenza dell'accesso clandestino. Nel capitolo 13 il **corpo dell'unità**, non il nome sociale «Bi», è sottoposto ai contratti commerciali di Veyra. La conclusione del capitolo 14 e tutte le questioni ancora aperte restano invariate.
+
+## Verifica critica v0.17.0
+
+Il capitolo 8 procede ora in ordine: reazione di Nerea nello stesso giorno della plenaria, poi settimane di lavoro manuale con Irene. Due apparizioni di Nico sono state tagliate; i suoi gesti restanti sono sufficienti a preparare la rivelazione. Dopo l'informativa di sicurezza Nerea decide di incontrarlo il giorno successivo, e nel capitolo 14 sceglie la lettera sapendo che verrà letta almeno da un referente autorizzato. Veyra ha comunicato limitazioni temporanee sulle prove di B-17 durante le verifiche, **senza dichiarare eliminata la backdoor o concluso l'incidente**. La raccolta di 101.240 euro matura in quasi tre settimane e la soglia iniziale di 100.000 euro non implica il consenso alla vendita.
+
+**Immutato:** B-17 non è stato venduto ai colleghi; la sua possibile risposta a Nerea è ancora in attesa di decisione; l'esito dell'indagine su Nico è sconosciuto; Irene non ottiene il posto desiderato; la questione di Valle Corta rimane aperta.

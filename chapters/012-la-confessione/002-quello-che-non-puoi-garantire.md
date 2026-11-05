@@ -89,7 +89,7 @@ Dopo che Nico fu accompagnato fuori, Lea rimase con Kyla nella stanza.
 
 «Ti sembra pentito?», chiese Kyla.
 
-«Non sono qualificata a misurare il pentimento. Ho visto persone disperate raccontare cose false e persone tranquillissime raccontare la verità. Le verifiche servono anche per non dipendere dalle nostre impressioni.»
+«Non lo so. Ho visto persone disperate raccontare cose false e persone tranquillissime dire la verità. Preferisco che le verifiche non dipendano da quanto uno sembra pentito.»
 
 Kyla guardò la sedia vuota.
 

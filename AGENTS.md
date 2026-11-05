@@ -91,10 +91,16 @@ Nel capitolo 14 Mina consegna a B-17 una lettera privata di Nerea attraverso can
 
 ## Revisione di struttura v0.15.0
 
-Leggere la sezione «Revisione organica v0.15.0» delle linee guida di continuità. L'edit retroattivo introduce Nico Valenti dal capitolo 1 con presenze ordinarie in 2, 3, 4, 5, 6, 8 e 9, senza svelare prima del capitolo 10 il suo upgrade non autorizzato o la backdoor. Nel capitolo 12 il segreto arriva a Kyla e Lea, poi a Nerea. Una nota reale di Elena collega capitoli 3, 9 e 12 e spiega un'anomalia conversazionale osservata ma non approfondita.
+Leggere la sezione «Revisione organica v0.15.0» delle linee guida di continuità. L'edit retroattivo introduce Nico Valenti dal capitolo 1 con presenze ordinarie in 2, 3, 6, 8 e 9, senza svelare prima del capitolo 10 il suo upgrade non autorizzato o la backdoor. Nel capitolo 12 il segreto arriva a Kyla e Lea, poi a Nerea. Una nota reale di Elena collega capitoli 3, 9 e 12 e spiega un'anomalia conversazionale osservata ma non approfondita.
 
 Correzioni canoniche: 26 giorni di presenza fisica dei robot, ma KPI trimestrale riferito all'automazione più ampia; pensione di Adriana fra i capitoli 7 e 8; nel preventivo la cessione a recupero è soltanto un'eventualità futura; la proprietà del soprannome «Bi» non è chiarita. Non trasformare gli indizi in spiegoni o anticipazioni narratorie. Ogni aggiunta deve essere funzionale prima e dopo la rivelazione; se serve solo a fare effetto, tagliarla.
 
 ## Seconda review editoriale v0.16.0
 
 Prima di proseguire rispettare le correzioni della sezione v0.16.0 in continuità: Nico è responsabile di scelte gravi, ma la sua rappresentazione non deve essere squallida o caricaturale; non conosce il colloquio riservato Nerea/Bi; l'eventuale persistenza di accessi dopo la cessione è un rischio concreto da indagare; la vittoria a Veyra deriva dal controllo del punto mantenuto cinque secondi; la chiave di Nerea non viene afferrata nella scena canonica; «Bi» non è un nome già ceduto per contratto. Evitare riassunti morali dopo scene che già mostrano le conseguenze. I fatti e il punto di ripresa dopo il capitolo 14 restano immutati.
+
+## Terza revisione v0.17.0 — precisione, consenso, ritmo
+
+I cameo di Nico nel ping pong (004/002) e nella discussione sul lavoro (005/003) sono stati **rimossi**: non erano necessari. Il nuovo ordine definitivo del capitolo 8 è 001 plenaria, 002 preventivo, 003 Nerea nello stesso giorno, 004 Irene nelle settimane successive (Adriana già pensionata). Le scene sono state rinumerate, non duplicate.
+
+Nel capitolo 12 Nerea sceglie di incontrare Nico **il mattino dopo** la comunicazione della sicurezza. Veyra dichiara un uso temporaneamente limitato dell'unità in prove locali supervisionate, ma la backdoor e l'esposizione precedente **non sono certificate risolte**. Nerea scrive la lettera sapendo che un referente umano potrebbe leggerla. La raccolta del capitolo 13 dura quasi tre settimane: 100.000 euro non sono un prezzo di vendita confermato. Non confondere continuità narrativa con presenza onnipresente degli stessi personaggi.

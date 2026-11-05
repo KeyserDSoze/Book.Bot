@@ -20,3 +20,7 @@ pov:
 # Guardrail
 
 B-17 non è venduto. La raccolta rimborsabile non viene convertita arbitrariamente ad altre finalità. Non c'è liberazione miracolosa, non vengono certificati diritti o coscienza, non si rende il nuovo proprietario una figura semplicemente malvagia. I rapporti di Nico con Cyberdine restano oggetto di indagine; nessuna backdoor viene riattivata per risolvere il problema.
+
+## Nuovo raccordo — v0.17.0
+
+Marta inoltra a Mina le richieste di ripresa degli sponsor prima di assumere impegni. Durante l'indagine sulla sicurezza B-17 partecipa soltanto a prove locali supervisionate, secondo le limitazioni dichiarate dal Circuito. Nerea sceglie la lettera dopo aver considerato chi potrebbe leggerla; la richiesta di non usarla per promozione non equivale a garanzia tecnica su tutti i dati. La risposta di Bi è ancora soltanto una richiesta.

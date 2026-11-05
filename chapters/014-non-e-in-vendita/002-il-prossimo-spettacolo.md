@@ -20,6 +20,8 @@ Il nuovo sponsor voleva che B-17 cadesse.
 
 Non lo disse così, naturalmente. Nel progetto arrivato a Mina si parlava di *momento di vulnerabilità*, di *rischio scenico controllato*, di *aumento della tensione narrativa*. Una freccia rossa indicava un tratto di percorso dove il terreno era più ripido e dove una telecamera avrebbe avuto un'ottima inquadratura del robot che perdeva l'equilibrio.
 
+Il documento era arrivato mentre il Circuito riduceva temporaneamente alcune attività di B-17. Dopo la segnalazione ricevuta da Cyberdine, i tecnici di Veyra stavano verificando l'integrità dei sistemi e l'eventuale esposizione di dati raccolti in passato. L'unità partecipava soltanto a prove locali supervisionate, senza sessioni aggiuntive per gli sponsor. Quelle precauzioni non dimostravano che un accesso clandestino non fosse mai esistito; impedivano almeno di trattare il sospetto come una faccenda chiusa.
+
 Mina lesse il documento due volte.
 
 Poi lo rimandò indietro.

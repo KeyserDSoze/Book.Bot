@@ -43,7 +43,9 @@ Kyla nominò Nico Valenti.
 
 Lea non le fece subito una domanda sul perché.
 
-Nico entrò dieci minuti dopo. Aveva un'aria stanca, le mani troppo pulite per il resto dei vestiti e una piccola ferita rimarginata vicino all'unghia del pollice. Nerea lo aveva già incontrato in ascensore senza memorizzarne il volto.
+Lea non chiamò Nico seduta stante. Spiegò a Nerea che poteva incontrarlo soltanto se lo desiderava, con una persona presente, e che non era tenuta a rispondere alle sue domande né a chiarirgli ciò che aveva confidato a Bi. Nerea chiese un giorno per pensarci.
+
+Il mattino seguente tornò nella stessa saletta. Non aveva preparato un discorso; aveva scritto tre domande sul retro di un foglio che tenne piegato in tasca. Kyla e Lea erano lì. Quando Nerea confermò di voler proseguire, Nico entrò. Aveva un'aria stanca, le mani troppo pulite per il resto dei vestiti e una piccola ferita rimarginata vicino all'unghia del pollice. Nerea lo aveva già incontrato in ascensore senza memorizzarne il volto.
 
 «Tu mi hai vista?», chiese.
 
@@ -69,7 +71,7 @@ Nico abbassò lo sguardo.
 
 Nerea lo guardò cercando una ragione per credergli. Il problema non era che sul suo volto ci fosse la menzogna. Il problema era che non c'era nulla da cui potesse capire la verità.
 
-«Allora dimmi una cosa», disse. «Hai inventato un robot capace di ascoltare una persona che non sapeva più a chi parlare. E nello stesso tempo hai lasciato aperta una porta per ascoltarla anche tu.»
+«Io gli ho parlato perché con nessun altro riuscivo a parlare», disse. «E tu avevi lasciato una porta aperta. Non per me. Per te.»
 
 Nico si sedette soltanto quando Kyla gli indicò una sedia.
 

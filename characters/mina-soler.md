@@ -19,3 +19,7 @@ Mina vede diffondersi un montaggio virale della prova nel bosco, più spettacola
 ## Regola della simulazione, capitolo 10
 
 Il punteggio della prova di Veyra è verificabile: il controllo rosso del punto centrale porta a una vittoria dopo l'esaurimento del suo conto alla rovescia; l'azzurro può ribaltarlo raggiungendo la colonnina e mantenendo il contatto per **cinque secondi**. B-17 riesce nell'azione soltanto dopo che Mina ha verificato e autorizzato un percorso alternativo sicuro. Nessuna vittoria automatica perché il robot è «speciale».
+
+## Restrizioni a Veyra — v0.17.0
+
+Il Circuito riceve l'avviso di Cyberdine su possibili accessi non autorizzati al modulo originario di B-17. Durante gli accertamenti limita temporaneamente il programma alle prove locali supervisionate. Mina non interpreta la misura come attestazione che ogni problema passato sia risolto. La lettera di Nerea è consegnata tramite un referente umano con il consenso della mittente, senza sfruttamento promozionale.

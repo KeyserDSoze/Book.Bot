@@ -13,7 +13,6 @@ characters:
   - character:nerea-dalmasso
   - character:irene-valli
   - character:b-17
-  - character:nico-valenti
 locations:
   - location:cyberdine-campus
   - location:spazio-comune
@@ -86,8 +85,6 @@ Paolo mosse appena la testa verso Dario.
 «Basta. La decisione non l'ha presa lui.»
 
 «Infatti. L'hanno presa quelli che possiedono i robot.»
-
-Nico Valenti uscì dalla sala tecnica con un taccuino sotto il braccio. Aveva sentito le ultime parole di Dario: si fermò accanto alla nicchia senza chiedere un caffè. Per qualche istante sembrò sul punto di rispondere, ma passò lo sguardo dai colleghi a Bi e riprese il corridoio. Mila aveva già visto Nico rimanere senza parole davanti a una domanda sociale, non davanti a un problema di software. Non gli diede peso.
 
 Mila pensò alle racchette sul tavolo dello Spazio Comune. Una settimana prima Dario si era vantato di aver battuto Bi. Dopo la partita aveva persino riso con lui. Ora gli stava parlando come si parla a qualcuno che, senza averlo voluto, ha reso visibile una paura difficile da ammettere.
 
