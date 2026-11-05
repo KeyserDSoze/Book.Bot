@@ -15,3 +15,8 @@ Capitoli 11–14: la vittoria imprevista rende B-17 molto attraente per sponsor 
 ## Capitoli 11 e 14
 
 Marta riceve offerte economiche condizionate a sette cifre, costruite su sponsor, diritti di trasmissione e visibilità virale, non su una certezza scientifica sulle capacità di Bi. Al capitolo 14 rifiuta l'offerta esplorativa dei colleghi di Cyberdine sostenuta da 101.240 euro di impegni: B-17 non è disponibile alla vendita per gli impegni di programma e le opzioni contrattuali. Non propone un rilancio né finge di avere un prezzo segreto. Permette la consegna privata della lettera di Nerea purché non diventi contenuto promozionale.
+
+
+## Nome e proprietà
+
+Nel capitolo 11 Marta scopre che una proposta commerciale vorrebbe ottenere anche l'esclusiva sui soprannomi associati all'unità. Non sa chi abbia dato a B-17 il nome «Bi» e fa rimuovere quella clausola: non può garantire contrattualmente un diritto che nessuno ha chiarito. Il gesto non la porta a rinunciare agli accordi economici con i partner, ma prepara il contrasto del capitolo 14 fra proprietà della macchina e possibilità di scambiare messaggi personali.

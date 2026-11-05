@@ -87,3 +87,10 @@ Il Circuito Veyra, diretto commercialmente da Marta Ledesma, valorizza B-17 per 
 Nerea e Paolo avviano privatamente una raccolta di impegni, **non una raccolta aziendale**, per tentare di comprare B-17. Irene denuncia la contraddizione con i posti di lavoro non creati ma partecipa con 25 euro. Gli impegni raggiungono 101.240 euro. L'attuale proprietario **rifiuta di vendere** senza indicare un prezzo di rilancio; le promesse economiche vengono sciolte/rimborsate secondo le condizioni. Nessun ritorno di Bi, nessuna promozione di Irene, nessuna cura miracolosa.
 
 Nel capitolo 14 Mina consegna a B-17 una lettera privata di Nerea attraverso canali autorizzati. B-17 chiede di rispondere; **non esiste ancora una procedura per la corrispondenza personale dell'unità con persone esterne non proprietarie**, e Mina apre una richiesta. La domanda sui diritti prende forma da un problema pratico, non dalla prova di coscienza. B-21 continua a lavorare bene a Cyberdine.
+
+
+## Revisione di struttura v0.15.0
+
+Leggere la sezione «Revisione organica v0.15.0» delle linee guida di continuità. L'edit retroattivo introduce Nico Valenti dal capitolo 1 con presenze ordinarie in 2, 3, 4, 5, 6, 8 e 9, senza svelare prima del capitolo 10 il suo upgrade non autorizzato o la backdoor. Nel capitolo 12 il segreto arriva a Kyla e Lea, poi a Nerea. Una nota reale di Elena collega capitoli 3, 9 e 12 e spiega un'anomalia conversazionale osservata ma non approfondita.
+
+Correzioni canoniche: 26 giorni di presenza fisica dei robot, ma KPI trimestrale riferito all'automazione più ampia; pensione di Adriana fra i capitoli 7 e 8; nel preventivo la cessione a recupero è soltanto un'eventualità futura; la proprietà del soprannome «Bi» non è chiarita. Non trasformare gli indizi in spiegoni o anticipazioni narratorie. Ogni aggiunta deve essere funzionale prima e dopo la rivelazione; se serve solo a fare effetto, tagliarla.

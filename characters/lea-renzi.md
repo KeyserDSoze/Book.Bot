@@ -15,3 +15,8 @@ Non può certificare automaticamente che la backdoor non abbia esposto colloqui 
 ## Capitolo 12
 
 Lea apre l'incidente di sicurezza dopo la confessione di Nico, sospende cautelativamente i suoi accessi operativi, conserva le evidenze e non garantisce l'assenza di esposizione di dati senza verifica. Non confonde una dichiarazione personale con una prova forense. La titolarità del robot è ormai esterna e i contatti di sicurezza passano tramite proprietario e referenti legittimi; l'indagine resta aperta.
+
+
+## Prima apparizione — capitolo 4
+
+Prima della confessione di Nico, Lea è già citata/mostrata come responsabile della sicurezza dei dati: suggerisce a Kyla di non raccogliere i nomi di chi ritira oggetti dallo Spazio Comune, quando non servono. Il consiglio rende concreto il contrasto con la backdoor di Nico nel capitolo 12, senza anticiparne l'esistenza al lettore.

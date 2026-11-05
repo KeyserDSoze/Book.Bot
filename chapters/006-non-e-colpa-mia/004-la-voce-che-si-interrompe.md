@@ -12,6 +12,7 @@ characters:
   - character:paolo-ferri
   - character:irene-valli
   - character:b-17
+  - character:nico-valenti
 locations:
   - location:cyberdine-campus
 factions:
@@ -71,6 +72,14 @@ La frase le arrivò in un punto del corpo dove non aveva parole. Dovette appoggi
 Paolo non rispose subito. Nerea guardò i fogli sparsi, il contenitore rovesciato, una delle cartelline rimasta impigliata nella mano di Bi.
 
 «Non si sono fermati subito», disse infine.
+
+Nico Valenti comparve dalla parte degli uffici di sviluppo. Aveva ancora il tesserino girato sul rovescio e un rotolo di etichette tecniche in mano. Si fermò vedendo i danni, senza oltrepassare la linea isolata.
+
+«Il centro ha già identificato l'unità?», chiese a Paolo.
+
+«Sì. Hanno il numero di serie e la diagnostica. Non possiamo toccarlo.»
+
+Nico annuì. Strinse il rotolo tanto da piegare il cartoncino centrale, poi fece spazio ai tecnici. Nerea non aveva la forza di chiedergli perché fosse venuto.
 
 Kyla arrivò dal corridoio principale, accompagnata da un responsabile della sicurezza. Teneva il telefono in mano ma non lo guardava. Sul volto aveva un'espressione composta che a Nerea ricordò la mattina in cui aveva parlato a Irene della posizione senior scomparsa.
 

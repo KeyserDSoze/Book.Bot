@@ -126,6 +126,8 @@ C'erano campi per i report agli sponsor, per le richieste ai manutentori, per i 
 
 Non trovò un campo per rispondere a una lettera personale arrivata da una persona che non possedeva la macchina.
 
+Provò a iniziare una nuova comunicazione. Nel campo *mittente* poteva scegliere un dipendente, una società o un reparto. B-17 compariva soltanto nell'elenco delle attrezzature a cui assegnare la pratica. Mina lasciò il menu aperto qualche secondo, poi lo chiuse.
+
 Mina aprì un nuovo documento e scrisse in alto:
 
 **Richiesta di recapito di un messaggio personale da B-17 a Nerea Dalmasso.**

@@ -41,3 +41,10 @@ Nerea, Paolo e Irene scelgono una strada più piccola: chiedono attraverso canal
 ## Punto esatto di ripresa
 
 La domanda successiva riguarda chi possa autorizzare la comunicazione di B-17, la differenza tra una richiesta socialmente adeguata e una volontà, e se il valore di mercato sia un criterio sufficiente per decidere la destinazione di un robot. **Non** risolvere attraverso la vecchia backdoor di Nico. L'indagine sui dati e sulle modifiche di Nico resta aperta. B-21 è una buona unità di Cyberdine. La carriera di Irene resta irrisolta. I problemi di Nerea su Valle Corta e sulle credenziali del padre richiedono ancora una conclusione. I settori di Cyberdine e Aruvhana restano ignoti.
+
+
+## Nota di coerenza dopo la revisione v0.15.0
+
+Nico Valenti compare nel romanzo dal capitolo 1, ma la causa segreta del mutamento di B-17 è scoperta dal lettore solo nel 10 e dai colleghi solo nel 12. Elena ha annotato una nuova domanda non richiesta ma pertinente di B-17 nel capitolo 3; nel 9 la nota è ancora priva di riscontro, nel 12 viene recuperata da Lea. Mauro è visibile nelle consegne dal capitolo 2, Irene consiglia di controllare gli originali, Lea difende la riservatezza dei destinatari dei materiali dello Spazio Comune.
+
+Adriana va in pensione tra capitoli 7 e 8. Il KPI di 6.400 ore trimestrali dei capitoli iniziali deriva dal programma complessivo di automazione, non da soli 26 giorni di robot. Il preventivo prevedeva una possibile cessione commerciale futura: nessuna vendita era già decisa nella plenaria. Al capitolo 11 Marta rimuove la clausola di esclusiva sul nome «Bi». Il punto esatto di ripresa resta il capitolo 14: Mina ha aperto la richiesta per recapitare una risposta personale da B-17 a Nerea; non è stata ancora approvata.

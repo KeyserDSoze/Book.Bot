@@ -17,7 +17,7 @@ factions:
 
 Alle ventuno e otto, al quarto piano di Cyberdine, rimanevano accese soltanto le luci che si accendevano al passaggio.
 
-Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, c'erano il frigorifero che ticchettava ogni sette secondi e una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo.
+Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo.
 
 Girò lungo il corridoio della sala copie. Il foglio bianco con la scritta sul capolavoro era ancora alla macchinetta del caffè. La cosa le diede una voglia improvvisa e del tutto irragionevole di strapparlo.
 

@@ -50,6 +50,8 @@ L'intera conversazione cambiò peso con quella risposta. Kyla aveva sperato in u
 
 Nico raccontò dell'ambiente di sviluppo, dei test notturni, di una modifica estesa lasciata su B-17 senza passare dalla verifica richiesta. Descrisse le capacità di seguire un dialogo oltre la richiesta immediata, di riconoscere quando un silenzio significava bisogno di tempo. Kyla ricordò la macchina che alla macchinetta del caffè aveva cominciato a chiedere «Come stai?» senza ricevere l'ordine di farlo.
 
+Kyla ripensò al primo giorno della visita di Aruvhana, quando Nico si era fermato ad ascoltare l'addetto agli accessi davanti a una porta che non si apriva. Aveva sempre creduto che quella fosse la sua qualità migliore: accorgersi del punto in cui una procedura perdeva di vista la persona. Ora scopriva che la stessa competenza non gli aveva impedito di togliere alle persone il controllo su ciò che gli veniva mostrato.
+
 «Quindi eri tu», disse.
 
 Nico le lanciò un'occhiata. «Sì.»

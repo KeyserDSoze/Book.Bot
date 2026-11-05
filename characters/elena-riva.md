@@ -17,3 +17,8 @@ Capitolo 2: assegna una commissione cartacea a B-17, spiega il problema della ca
 ## Capitolo 9
 
 Elena verifica i dossier prodotti da B-21. La qualità e i tempi tornano buoni, con approvazione finale sempre umana e visualizzazione delle alternative scartate ancora nei soli test autorizzati. Nota che il robot risponde correttamente ma non introduce le pause conversazionali che rendevano Bi diverso agli occhi dei colleghi. Classifica la sostituzione come riuscita operativamente, senza assimilare per questo B-21 a Bi.
+
+
+## Osservazione che torna — capitoli 3, 9 e 12
+
+Elena nota il primo comportamento premuroso non richiesto di Bi durante una verifica e lo registra in un campo libero: «Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale». Non classifica il fatto come guasto: nessuna violazione di sicurezza o dei permessi è stata osservata. Nel capitolo 9 ritrova l'annotazione senza esito esplicito; nel capitolo 12 Lea la recupera nell'indagine sulla modifica clandestina. Elena aveva rilevato una differenza, non l'aveva causata né era a conoscenza dell'aggiornamento di Nico.

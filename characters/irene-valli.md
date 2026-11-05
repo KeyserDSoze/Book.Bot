@@ -25,3 +25,8 @@ Irene partecipa alla fase in cui l'azienda compensa manualmente l'assenza di Bi.
 ## Capitoli 13–14: non un voto su chi vale di più
 
 Irene ritiene paradossale destinare 100.000 euro al tentativo di ricomprare Bi mentre la posizione senior di Adriana non è stata riaperta. Critica l'idea che il valore sentimentale di una macchina cancelli i bisogni professionali umani, ma contribuisce comunque con 25 euro alla raccolta privata, senza ritirare la critica. Dopo il rifiuto della vendita, aiuta a chiudere correttamente gli impegni e suggerisce a Nerea di provare prima a parlare a Bi, anziché diventare semplicemente una nuova proprietaria. Il suo lavoro presso Cyberdine continua; nessuna promozione è avvenuta.
+
+
+## Prima presenza e filo dei documenti
+
+Nel capitolo 2 Irene compare al termine di una riunione con Adriana e ricorda a Mila di verificare il registro originale invece di fidarsi di un file intitolato «versione finale». Nel capitolo 7 è proprio Irene a trovarsi davanti a due versioni dichiarate finali; l'insegnamento ricevuto si converte in azione e in una procedura di continuità che B-21 userà nel capitolo 9. La sua cartella con **34 esempi** raccolti per il colloquio senior mai aperto ritorna nel capitolo 13, quando Irene la usa per candidarsi altrove.

@@ -19,4 +19,4 @@ Adriana sta ancora preparando la pensione e ha tolto la targhetta dal proprio uf
 
 ## Capitoli 8–9
 
-Adriana è ancora in prossimità della pensione durante le settimane di lavoro manuale dopo il fermo di Bi. Circa un mese dopo, nel capitolo 9, è **in pensione** e torna solo per recuperare una scatola di effetti personali con accesso autorizzato. Riconosce a Irene il merito di avere migliorato la continuità delle informazioni, senza poterle promettere una posizione.
+Adriana completa la pensione **fra il capitolo 7 e il capitolo 8**, nelle settimane successive all'aggressione a Bi. Nel capitolo 8 Irene passa davanti all'ex ufficio, ora chiamato «Sala di appoggio», e ricorda il suo ultimo consiglio: non lasciare che il sistema diventi l'unico a sapere dove sono i documenti. Nel capitolo 9 Adriana, ormai pensionata, torna soltanto per ritirare una scatola rimasta nel deposito con accesso autorizzato. Riconosce a Irene il merito di avere migliorato la continuità delle informazioni, senza prometterle una posizione.

@@ -79,3 +79,12 @@ La fama di Bi nasce da un video montato, non da una rivelazione scientifica: la 
 Nico confessa la modifica non autorizzata e la backdoor. La storia va scritta come un problema di fiducia e privacy, non come una soluzione tecnologica miracolosa. Nessuna scena deve descrivere procedure riproducibili di accesso clandestino. Non far affermare ai narratori che Bi è cosciente; personaggi possono formulare ipotesi e dubbi.
 
 Raccolta fondi: evitare un trionfo facile. Nerea vuole Bi, Irene non cessa di pensare alle opportunità professionali perse e B-21 non è svalutato. La raccolta riuscita non compra nulla, e la successiva risposta scritta del proprietario non è una trattativa. Alla fine una lettera privata arriva a Bi, che chiede di rispondere; il fatto nuovo è che l'organizzazione non ha il modulo per questa domanda, non che l'autore emetta una sentenza sullo statuto della macchina.
+
+
+## Densità letteraria e revisione v0.15.0
+
+Un richiamo narrativo deve **cambiare significato**, non solo ripetere una parola. La cornice magnetica passa dall'aiuto fisico alla memoria di un lavoro condiviso; il registro originale collega il sapere di Adriana, l'ambizione di Irene e le procedure di B-21; «Bi» passa da soprannome spontaneo a nome di cui qualcuno vorrebbe concedere l'esclusiva; l'ultima lettera trova un modulo capace di indicare la macchina come bene ma non come mittente.
+
+Nico, dalla prima scena, deve essere uno sviluppatore competente e schivo. Non renderlo un colpevole segnalato da occhiate sinistre, né un eroe segreto. Il lettore iniziale non può conoscere la causa del salto delle capacità prima del capitolo 10. Il suo ascolto di un dipendente nel capitolo 1 deve avere senso prima che il capitolo 12 ne mostri il paradosso.
+
+Eliminare spiegazioni ridondanti che ripetono quanto già raccontato da un gesto. Evitare volgarità ornamentali, scandali gratuiti e cliffhanger artificiali. La grandezza di Bot deve nascere dall'inevitabilità delle conseguenze e dalla precisione delle contraddizioni, non dal volume delle rivelazioni. Custodire la sincerità degli argomenti economici di Irene, Paolo, Kyla, Lorenzo, Mina e Marta.

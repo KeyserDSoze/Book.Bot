@@ -11,6 +11,7 @@ characters:
   - character:paolo-ferri
   - character:b-17
   - character:nerea-dalmasso
+  - character:nico-valenti
 locations:
   - location:cyberdine-campus
 factions:
@@ -54,6 +55,10 @@ La macchinetta emise tre segnali acuti. Sul display di Paolo comparve **CREDITO 
 «Sembra una mattina poco collaborativa.»
 
 Paolo lo fissò. Mila, accanto a lui, smise di frugare nella tasca alla ricerca delle monete.
+
+Nico Valenti, che aveva appena raggiunto il distributore con due bicchieri vuoti per i colleghi del reparto sviluppo, si fermò dall'altra parte della fila. Non scoppiò a ridere; spostò i bicchieri da una mano all'altra e guardò B-17 come si guarda un apparecchio che ha appena fatto una cosa non prevista dall'orario. Quando Paolo riprese a parlare, Nico si fece da parte per lasciar passare un collega con un carrello e si allontanò verso il proprio reparto.
+
+A Mila sembrò uno dei tanti tecnici che avevano fretta di rientrare ai loro schermi.
 
 «Poco collaborativa?» ripeté Paolo. «È la definizione tecnica di questa azienda prima delle dieci.»
 

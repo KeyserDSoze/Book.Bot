@@ -52,7 +52,9 @@ Il suo aggiornamento non aveva dato a B-17 una nuova spalla o una batteria infin
 
 Nico si accorse di aver aperto con il mouse la finestra dei vecchi test. Era un gesto automatico, come andare a cercare un oggetto nel cassetto dove lo si è lasciato anni prima.
 
-La documentazione ufficiale della modifica non esisteva. Le prove erano rimaste su file personali di lavoro, i motivi nelle sue notti insonni, la responsabilità in una decisione che aveva preso da solo. Tutto ciò che non era riuscito a dire ai colleghi aveva finito per diventare un problema troppo grande da raccontare in una mail.
+La documentazione ufficiale della modifica non esisteva. Le prove erano rimaste su file personali di lavoro, i motivi nelle sue notti insonni, la responsabilità in una decisione che aveva preso da solo.
+
+Gli tornò in mente il giorno della visita di Aruvhana. Nell'atrio aveva ascoltato l'addetto agli accessi prima di correggere una verifica chiusa troppo presto. Gli era sembrata una cosa normale: per capire un problema dovevi prima chiedere alla persona che cosa non funzionava. Con B-17 non aveva fatto altrettanto. Aveva deciso da solo che cosa la macchina avrebbe dovuto essere in grado di fare, e da solo aveva scelto di poterla osservare. Tutto ciò che non era riuscito a dire ai colleghi aveva finito per diventare un problema troppo grande da raccontare in una mail.
 
 Ma non era successo niente di ciò che aveva sperato. Il robot era stato danneggiato, rifiutato come riparazione, venduto come materiale recuperabile. E dopo quel percorso, che nessuno aveva pianificato con l'intenzione di fargli del male, stava per entrare in un nuovo programma di prove.
 

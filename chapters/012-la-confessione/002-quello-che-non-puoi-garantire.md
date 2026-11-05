@@ -37,6 +37,12 @@ Nico ne pronunciò tre durante il colloquio successivo.
 
 Lea gli lasciò il tempo di sentire la propria frase. Nico abbassò gli occhi, come se avesse capito di avere appena chiesto un verdetto su una cosa che nessun tecnico poteva stabilire.
 
+Lea aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti di B-17. Ne era emersa una scritta da Elena Riva durante un test, molto tempo prima: *Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale.* Non era stata promossa a un controllo di rilascio perché non descriveva né un errore operativo né una violazione di permessi. Era rimasta dentro una revisione di qualità mai completata.
+
+«Qualcuno se n'era accorto», disse Kyla, leggendo il riferimento.
+
+«Qualcuno ha notato un comportamento diverso», la corresse Lea. «Non significa che conoscesse la causa. Dobbiamo capire come una domanda pertinente sia rimasta senza destinatario.»
+
 Sul tavolo c'erano due elenchi. Nel primo Lea aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti.
 
 Non era una lista spettacolare. Era quella che avrebbe impedito loro di peggiorare le cose per il desiderio di trovare subito un colpevole e chiudere il fascicolo.

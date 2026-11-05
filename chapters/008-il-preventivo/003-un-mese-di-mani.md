@@ -10,7 +10,6 @@ characters:
   - character:irene-valli
   - character:mila-corsi
   - character:elena-riva
-  - character:adriana-lodi
 locations:
   - location:cyberdine-campus
 factions:
@@ -67,19 +66,13 @@ Irene non rispose subito.
 
 Il collega sorrise senza allegria.
 
-Rientrando vide Adriana Lodi che attraversava il corridoio con una borsa troppo piena per una sola giornata di lavoro. Mancavano pochi giorni alla pensione e lei continuava a portare a casa un oggetto alla volta, come se un addio potesse essere suddiviso in impegni ordinari.
+Rientrando passò davanti all'ex ufficio di Adriana Lodi. La pensione era arrivata nelle settimane trascorse dall'aggressione, senza la festa che avevano immaginato prima che il quarto piano si dividesse. La vecchia targhetta era sparita. Al suo posto un cartello stampato indicava **SALA DI APPOGGIO**.
 
-«Hai trovato il registro?»
+Irene si fermò con il registro sotto il braccio. Ricordò Adriana che riusciva a trovarlo in archivio senza aprire una schermata, e la frase con cui l'aveva salutata l'ultimo giorno: «Non lasciate che il sistema diventi l'unico a sapere dove sono le cose.»
 
-Irene lo sollevò.
+Aveva cercato il registro per trentadue minuti. La procedura che stava riscrivendo avrebbe ridotto quel tempo per tutti. Ma non avrebbe fatto comparire sulla porta un altro nome.
 
-«Sì. E ho trovato un'altra cosa da documentare.»
-
-Adriana fece una smorfia. «Non finiremo mai.»
-
-«Tu sì, invece.»
-
-Adriana scoppiò a ridere. Irene avrebbe voluto seguirla, ma la frase le ricordò la posizione che non sarebbe stata aperta. Nessun rifornimento manuale, nessun sovraccarico temporaneo l'avrebbe fatta ricomparire. L'azienda non stava per assumere un sostituto solo perché tutti si accorgevano quanto lavoro aveva svolto Bi.
+L'azienda non stava per assumere un sostituto solo perché i dipendenti si erano accorti di quanto lavoro svolgesse Bi. Né perché avevano riscoperto, nel frattempo, le competenze di Adriana.
 
 Più tardi Elena entrò nella stanza di Irene. Le mostrò la bozza della nuova procedura di continuità.
 

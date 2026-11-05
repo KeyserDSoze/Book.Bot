@@ -22,6 +22,8 @@ Marta Ledesma aveva aperto entrambi i documenti sul tavolo della mensa. Il preve
 
 Il mittente voleva comprare B-17 e ottenere il diritto di mostrarlo in esclusiva durante una serie di dimostrazioni. La cifra dipendeva dal superamento dei test, dalla verifica dei diritti software e dal fatto che il robot conservasse prestazioni paragonabili a quelle del video.
 
+Una clausola, quasi nascosta tra le definizioni, le fece tornare indietro: l'acquirente chiedeva anche l'uso esclusivo di ogni nome con cui il robot fosse stato conosciuto. Un tecnico aveva riferito che, dopo la prima prova, B-17 aveva pronunciato «Bi». Marta non sapeva chi avesse inventato quel nome. Chiese che la clausola fosse tolta: non intendeva garantire un diritto che nessuno aveva verificato di possedere.
+
 Marta prese un foglio e scrisse in alto: *valore dell'hardware*.
 
 Sotto aggiunse: *valore di ciò che la gente crede di avere visto*.

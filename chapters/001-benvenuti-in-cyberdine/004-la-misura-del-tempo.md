@@ -35,13 +35,19 @@ Comparvero tre numeri.
 
 Sahir lesse i valori due volte.
 
+«I robot sono qui da ventisei giorni. Perché il grafico ne copre un trimestre?»
+
+«Perché include il programma di automazione nel suo insieme, anche i sistemi software che usavamo già», precisò Kyla. «Nel dettaglio distinguiamo quel contributo da quello misurato dopo l'arrivo dei robot. Non attribuirei a ventisei giorni di macchine il merito di anni di lavoro.»
+
+Sahir annuì, ma rimase davanti ai numeri.
+
 «Mi piace il terzo», disse. «Mi preoccupa il primo.»
 
 «Perché?»
 
 «Le ore sono un indicatore facile da piegare alle storie che si vogliono raccontare. Un'ora risparmiata non è necessariamente un'ora restituita.»
 
-Kyla annuì. Non avrebbe potuto sperare in un'obiezione migliore.
+Kyla annuì. Non avrebbe potuto sperare in un'obiezione migliore. Lorenzo Verri, l'amministratore delegato, le aveva restituito una volta una bozza di presentazione con una sola frase scritta a margine: *Un beneficio che nessuno può verificare non è un risultato*. Da allora Kyla non nascondeva la definizione degli indicatori nelle note minuscole.
 
 «Infatti distinguiamo le due cose. Non contiamo un minuto liberato finché non sappiamo che cosa è successo dopo. Se un controllo automatico risparmia due ore ma il dipendente ne trascorre tre a risolvere eccezioni, abbiamo peggiorato il processo. Il nostro indicatore usa i flussi effettivamente completati e viene confrontato con le attività ancora svolte dalle persone.»
 
@@ -91,7 +97,7 @@ Per la prima volta Sahir lasciò cadere la postura dell'ospite in visita. Estras
 
 «È un buon risultato per una mattina.»
 
-Kyla li accompagnò verso l'uscita. Parlarono ancora di formazione, di responsabilità e di quanto sarebbe cambiata la maniera di valutare il lavoro. Non parlarono una sola volta di che cosa, precisamente, facessero le loro aziende. In quel momento la cosa le parve naturale. Il metodo era abbastanza importante da riempire la conversazione.
+Kyla li accompagnò verso l'uscita. Leïa volle sapere come venivano registrate le eccezioni che nessun sistema aveva previsto; Sahir chiese se, al prossimo incontro, avrebbero potuto parlare con uno dei responsabili che firmavano gli avalli. Kyla si segnò entrambe le richieste. Erano domande migliori di quelle che avrebbe potuto suggerire la sua presentazione.
 
 Quando le porte si richiusero dietro la delegazione, Kyla tornò alla parete dei dati per annotare le richieste di approfondimento.
 
@@ -104,6 +110,8 @@ Una notifica discreta era comparsa tra le proposte in attesa di revisione.
 **Stato: in attesa di valutazione umana.**
 
 Kyla lesse la motivazione allegata. Era breve e ben costruita: con più contesto, il responsabile avrebbe potuto giudicare meglio. Nessuna scorciatoia, nessun permesso aggiuntivo. Soltanto una proposta per rendere più informata una scelta umana.
+
+Kyla ripensò per un istante al varco dell'atrio: una verifica segnata come conclusa e una porta che non si apriva ancora. Il risultato di un processo e la situazione di chi lo stava vivendo non erano sempre la stessa cosa.
 
 La inoltrò al referente del processo con un commento: *Ottima idea. Verificare sui casi del prossimo ciclo.*
 

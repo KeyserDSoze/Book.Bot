@@ -11,6 +11,8 @@ characters:
   - character:elena-riva
   - character:paolo-ferri
   - character:b-17
+  - character:mauro-lanza
+  - character:irene-valli
 locations:
   - location:cyberdine-campus
 factions:
@@ -49,9 +51,23 @@ Di solito un incarico digitale cambiava stato dentro uno schermo. Uno fisico fac
 
 B-17 attraversò l'area aperta vicino alle sale riunioni. Si fermò davanti al pavimento bagnato, segnalato da due coni gialli. Invece di tagliare il percorso, prese il passaggio laterale. Svoltò oltre i telefoni di servizio, costeggiò la biblioteca tecnica e raggiunse l'archivio dal lato opposto.
 
-Un uomo che stava portando una pila di tazze al punto di raccolta fece un passo indietro per lasciarlo passare. Non interruppe la conversazione che aveva in corso.
+Mauro Lanza, del servizio di movimentazione, stava portando una pila di tazze al punto di raccolta. Fece un passo indietro per lasciare il passaggio al robot, senza interrompere la conversazione con un collega.
+
+«Ormai devo aspettare anche io il verde», scherzò.
+
+Mila gli rivolse un cenno. Pochi giorni prima Mauro le aveva chiesto se i turni delle consegne interne sarebbero cambiati, ora che gran parte dei trasporti ordinari veniva assegnata ai robot. Lei gli aveva promesso che avrebbe controllato la pianificazione; non aveva ancora ricevuto una risposta.
 
 Mila pensò a tutte le volte in cui aveva chiesto a qualcuno di andare a cercare una carta. La richiesta era breve; il tragitto mai. Bisognava lasciare una verifica a metà, trovare l'armadio giusto, ricordare quale chiave funzionasse, tornare e poi riprendere il filo. Il tragitto rubava dieci minuti, l'interruzione spesso mezz'ora.
+
+Irene Valli, che stava uscendo dalla stanza di Adriana Lodi con due fascicoli sotto il braccio, si fermò vedendo Mila davanti al terminale.
+
+«State cercando la vecchia numerazione?», domandò.
+
+«Sì. Ci manca la corrispondenza con il registro.»
+
+«Allora controllate la pagina originale. Adriana dice sempre di non fidarsi di un indice soltanto perché qualcuno ci ha scritto *versione finale*.»
+
+Mila annuì. Irene si allontanò, ancora intenta a cercare una firma fra le cartelle. Non le aveva risolto il problema; le aveva ricordato che il problema era la fonte, non il formato.
 
 B-17 rientrò dall'archivio con una custodia trasparente.
 

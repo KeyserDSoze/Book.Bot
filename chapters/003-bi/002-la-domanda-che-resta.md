@@ -62,6 +62,8 @@ Il robot confermò e riprese il percorso lungo la parete.
 
 Elena cercò di tornare ai propri numeri. Non ci riuscì subito. Era una domanda di organizzazione del lavoro, semplice e utile, ma aveva avuto la forma di una premura. Il genere di domanda che una collega attenta avrebbe fatto senza aspettare che fosse richiesto.
 
+Aprì la scheda delle osservazioni sui test. Poteva indicare errori di documento, eccezioni di accesso, problemi di esecuzione. Non aveva una casella per una domanda inattesa che migliorava il lavoro. Nel campo libero scrisse: *Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale.* Non la classificò come guasto: non aveva osservato un movimento vietato né una consultazione fuori permesso. Salvò la nota per la revisione successiva.
+
 Un colpo leggero alla porta le fece alzare la testa.
 
 Nerea Dalmasso apparve con una cartella stretta al petto. Era quella delle verifiche interne, riconoscibile da un elastico verde. La camicia era ancora spiegazzata sotto il cappotto, che non si era tolta.

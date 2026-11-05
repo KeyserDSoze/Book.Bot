@@ -36,3 +36,8 @@ Kyla segue la plenaria dell'AD Lorenzo Verri. Ascolta l'annuncio della cessazion
 ## Capitoli 11–14
 
 Dopo la richiesta di Nico, Kyla partecipa con Lea Renzi alla confessione sull'aggiornamento e la backdoor di B-17. Si preoccupa della privacy e della fiducia tradita, senza escludere che la capacità tecnica fosse autentica. Informa Nerea del rischio, autorizza con la direzione un contatto legittimo col Circuito Veyra e fornisce a Nerea e Paolo la conferma della nuova destinazione. Supporta la correttezza informativa dell'iniziativa privata «Ricompriamo Bi» senza renderla una campagna aziendale né promettere il ritorno dell'unità. Dopo il rifiuto della vendita, contribuisce a far inoltrare legittimamente una lettera privata di Nerea.
+
+
+## Percorso di Nico nella revisione editoriale
+
+Kyla saluta Nico Valenti già nell'atrio del capitolo 1 mentre lui aiuta un addetto con una porta di servizio bloccata. In capitolo 8 lo vede lasciare la plenaria quando compare B-17. Non riconosce quei gesti come indizi di una modifica clandestina: sono compatibili con la normale vita del reparto sviluppo. Solo durante la confessione nel capitolo 12 ricostruisce il contrasto tra competenza nell'ascolto dei colleghi e scelta di violarne la privacy.

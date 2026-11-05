@@ -12,6 +12,7 @@ characters:
   - character:elena-riva
   - character:paolo-ferri
   - character:b-17
+  - character:lea-renzi
 locations:
   - location:cyberdine-campus
   - location:spazio-comune
@@ -48,6 +49,8 @@ C'erano libri per la scuola, attrezzi che potevano essere prestati, un calendari
 Kyla aveva approvato l'uso della sala con una sola condizione: niente classifiche dei più generosi, niente nomi esposti accanto alle richieste d'aiuto.
 
 «Non siamo una vetrina di beneficenza», aveva detto a Mila. «Se qualcuno prende un libro, non deve spiegare perché.»
+
+Lea Renzi, che seguiva la sicurezza dei dati, aveva suggerito di non registrare i nomi di chi prendeva i materiali. Bastava sapere quali oggetti mancavano e quando rifornirli. «Se un'informazione non vi serve per aiutare qualcuno», aveva detto, «non raccoglietela solo perché il sistema è capace di farlo.» Kyla aveva accettato senza discutere.
 
 Adesso, sul primo scaffale, una scritta a pennarello recitava: **LASCIA QUELLO CHE PUÒ SERVIRE. PRENDI QUELLO CHE TI SERVE.**
 

@@ -44,6 +44,8 @@ Kyla lesse l'ultima cifra.
 
 Fu Paolo a esserne infastidito. Avrebbe preferito un errore nei conti, una voce duplicata, una mancanza di attenzione. Si sarebbe potuto discutere. Invece il rapporto era solido. Il centro assistenza aveva perfino offerto una quota di recupero dei componenti ancora sani, ma il vantaggio economico restava piccolo rispetto a una unità nuova garantita.
 
+Nel prospetto c'era anche una voce per un'eventuale cessione integrale dell'unità a un operatore di recupero, soltanto dopo la chiusura degli accertamenti e con documenti separati. Paolo la cerchiò: non significava che qualcuno avesse deciso di vendere B-17, ma era il punto del contratto in cui si sarebbe deciso chi avrebbe potuto disporne in seguito.
+
 «E se usassimo una delle altre unità?» domandò Kyla.
 
 «Sono tutte già impegnate. Puoi spostarle, certo. Ma ogni volta togli capacità da un altro processo. E Bi aveva accessi e flussi autorizzati che non trasferisci a caso come una cartella da un computer all'altro.»

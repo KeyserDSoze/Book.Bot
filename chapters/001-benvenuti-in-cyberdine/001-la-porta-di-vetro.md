@@ -9,6 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:visitors
+  - character:nico-valenti
 locations:
   - location:cyberdine-campus
 factions:
@@ -25,6 +26,10 @@ Era un dettaglio che aveva imparato durante i primi mesi nel reparto Marketing: 
 L'atrio occupava tre piani di luce. Un giardino sospeso scendeva dal soffitto fino a una vasca circolare; l'acqua correva su una lastra di pietra così sottile che, a distanza, pareva appesa nell'aria. Oltre il vetro interno, due figure metalliche attraversavano il pavimento con piccoli contenitori tra le mani. Una terza si fermò davanti a un pannello, inclinò appena il busto e ripartì.
 
 La delegazione di Aruvhana aveva percorso quasi tutta la sala senza accorgersi dei robot.
+
+Vicino al banco d'accoglienza, Nico Valenti, del gruppo di sviluppo, stava aiutando un addetto con una porta di servizio. Sul terminale la verifica risultava completata, ma il varco restava chiuso. Nico non si precipitava sulla tastiera; ascoltò l'uomo spiegare quando aveva visto accendersi la spia, controllò il lettore e segnò qualcosa sul proprio taccuino.
+
+Kyla lo salutò da lontano. Lui rispose alzando due dita, senza perdere il filo. Era uno degli sviluppatori migliori nel capire dove un sistema smetteva di essere utile a chi lo usava. A volte, nelle riunioni, dimenticava di guardare negli occhi la persona a cui stava parlando. Kyla aveva imparato a riconoscere entrambe le cose.
 
 Kyla aspettò ancora un istante.
 

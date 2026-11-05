@@ -17,3 +17,8 @@ Nel capitolo 7 non entra sul campus. Il suo futuro disciplinare e personale rima
 ## Capitolo 8
 
 Il rapporto di lavoro di Mauro Lanza con Cyberdine è cessato dopo gli accertamenti sull'aggressione a Bi, come comunicato dall'AD Lorenzo Verri in plenaria. Non è più un collega attivo nel campus. La sua vita successiva non è stata raccontata.
+
+
+## Anticipazione editoriale — capitolo 2
+
+Mauro compare già nel corridoio lungo, mentre lascia spazio al passaggio di B-17 con alcune tazze in mano. Mila ricorda che lui le ha chiesto se i turni delle consegne cambieranno con l'arrivo dei robot. È una preoccupazione professionale concreta che anticipa il suo malcontento del capitolo 6, **non** una giustificazione della successiva violenza.

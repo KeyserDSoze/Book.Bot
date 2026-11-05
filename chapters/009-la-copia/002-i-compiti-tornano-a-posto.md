@@ -106,6 +106,8 @@ Più tardi aggiornò la dashboard. I tempi medi delle attività assegnate alla n
 
 Elena guardò le colonne verdi.
 
+Nella cronologia delle vecchie verifiche intravide una propria nota su B-17, scritta il mattino in cui le aveva chiesto se volesse cercare un precedente: *Verificare l'origine del comportamento conversazionale*. La domanda risultava ancora associata alla revisione di qualità delle interazioni, senza un esito esplicito. Non aveva riguardato le soglie di movimento o i permessi e, tra l'aggressione e l'acquisto dell'unità nuova, nessuno l'aveva riportata sul tavolo. Elena si segnò di chiedere se fosse stata chiusa correttamente; non lo fece in quel momento.
+
 Il sistema le chiedeva di classificare la sostituzione come **riuscita**.
 
 Selezionò la casella.

@@ -25,7 +25,7 @@ Sotto c'era una fotografia della vecchia cornice magnetica sulla fotocopiatrice.
 
 Irene rimase sulla parola *ricostruire*.
 
-La posizione di Adriana non era stata ricostruita. Il suo contratto continuava, sì, ma da mesi lei cercava opportunità senior in altre aziende e non riceveva risposte altrettanto concrete del proprio lavoro. Nel frattempo il nuovo robot B-21 compilava dossier impeccabili anche grazie alle procedure che aveva scritto lei.
+La posizione di Adriana non era stata ricostruita. Il suo contratto continuava, sì, ma da mesi lei cercava opportunità senior in altre aziende e non riceveva risposte altrettanto concrete del proprio lavoro. Nella cartella privata conservava ancora i trentaquattro esempi preparati per il colloquio che Cyberdine non aveva mai aperto. Li usava per presentarsi altrove. Nessuno di quei file era diventato inutile soltanto perché il posto per cui li aveva raccolti era scomparso. Nel frattempo il nuovo robot B-21 compilava dossier impeccabili anche grazie alle procedure che aveva scritto lei.
 
 Sul lato destro della pagina compariva la cifra obiettivo: **100.000 euro**.
 

@@ -112,7 +112,7 @@ Irene guardò Dario. Non le stava chiedendo di partecipare a una riunione. Le st
 
 Mauro si morse l'interno della guancia prima di parlare.
 
-«Perché è la prima storia che si vede. Io non ho perso il posto, ma negli ultimi sei mesi mi hanno tolto quasi tutti gli interventi che mi permettevano di guadagnare qualcosa in più. Quando lo dico, mi rispondono che posso formarmi. Mi sono formato. Poi mi hanno detto che devo aspettare.»
+«Perché è la prima storia che si vede. Io non ho perso il posto, ma da quando i robot hanno preso in carico molte consegne mi hanno tolto quasi tutti gli interventi che mi permettevano di guadagnare qualcosa in più. Quando lo dico, mi rispondono che posso formarmi. Mi sono iscritto al percorso che mi hanno indicato. Poi mi hanno detto che devo aspettare.»
 
 Irene conosceva quella frase. *Devi aspettare.* Non significava mai quanto.
 

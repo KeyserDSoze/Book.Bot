@@ -32,3 +32,8 @@ Paolo verifica il preventivo per B-17 e conferma che ripristinare spalla, sensor
 ## Capitoli 12–14
 
 Paolo contribuisce a confermare per vie lecite l'identificativo dell'unità B-17 nel Circuito Veyra. Con Nerea avvia «Ricompriamo Bi» e costruisce un prospetto onesto di trasporto, ricertificazione, manutenzione e limiti dell'eventuale ritorno. Non disprezza B-21 e non intende usare l'accesso illegittimo di Nico. Dopo il rifiuto della vendita chiude correttamente gli impegni e partecipa all'inoltro di una lettera privata.
+
+
+## Continuità editoriale
+
+Paolo vede Nico nel capitolo 2 davanti alla prima fotocopia completamente bianca; lo sviluppatore osserva che l'errore non è linguistico, mentre Paolo mostra la cornice magnetica. L'episodio prepara tanto la differenza fra competenza tecnica e lavoro umano quanto la successiva responsabilità di Nico, senza anticiparne il segreto. Nel capitolo 8 Paolo riconosce nella pratica di preventivo una **possibile cessione a recupero** dopo la chiusura degli accertamenti; la cessione non è ancora decisa, e non conosce la futura destinazione dell'unità a Veyra.

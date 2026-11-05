@@ -11,6 +11,7 @@ characters:
   - character:mila-corsi
   - character:dario-sarti
   - character:b-17
+  - character:nico-valenti
 locations:
   - location:spazio-comune
 factions:
@@ -86,6 +87,16 @@ Paolo fece una seconda partita. Perse undici a cinque, dopo aver segnato due pun
 «Progressi notevoli», sentenziò Mila.
 
 «Il miglioramento continuo è nel nostro DNA.»
+
+Nico Valenti era entrato per controllare una presa di rete nella stanza. Quando Paolo aveva perso la seconda partita, era rimasto qualche minuto accanto alla parete, con il piccolo tester in mano.
+
+«State facendo una prova?», aveva chiesto.
+
+«Stiamo giocando», rispose Paolo. «Sono due cose diverse.»
+
+Nico guardò il tabellone e sorrise appena. «Giusto.»
+
+Poi ripose il tester, richiuse lo sportello della presa e lasciò la stanza ai giocatori, proprio mentre arrivava l'avversario successivo.
 
 Arrivò Dario Sarti mentre Paolo stava consegnando la racchetta a un collega.
 

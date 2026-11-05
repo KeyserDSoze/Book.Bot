@@ -35,6 +35,8 @@ Non voleva chiamarla. Voleva dimostrare di saper fare da sola.
 
 Dopo venti minuti aveva trovato due copie della stessa appendice, entrambe con l'etichetta *versione finale*. Una portava la data sbagliata. L'altra rinviava a una tabella che non esisteva nel percorso digitalizzato.
 
+Le tornò in mente una conversazione fatta con Mila davanti all'archivio: *Non fidarti del titolo, controlla l'originale*. Era un consiglio che sapeva dare agli altri con naturalezza. Scoprire di averne bisogno lei stessa le tolse l'ultimo pretesto per rimandare la telefonata ad Adriana.
+
 Sentì salire la rabbia.
 
 Quando aveva iniziato a lavorare a Cyberdine, quei problemi richiedevano giornate intere. Poi erano arrivati i sistemi automatici e, a poco a poco, il tempo aveva cominciato a essere impiegato per le decisioni, non per i passaggi intermedi. Irene aveva imparato a ragionare sui casi complessi. Ora la parte intermedia tornava a occuparle tutto il giorno.

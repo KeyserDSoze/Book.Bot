@@ -13,6 +13,7 @@ characters:
   - character:paolo-ferri
   - character:mila-corsi
   - character:nerea-dalmasso
+  - character:nico-valenti
 locations:
   - location:cyberdine-campus
 factions:
@@ -37,7 +38,7 @@ Sullo schermo apparvero quattro indicatori. Il volume delle pratiche concluse er
 
 Kyla annotò la frase. Era precisa, e i colleghi avrebbero potuto riconoscere in essa la propria fatica.
 
-Il grafico successivo mostrava le ore necessarie a verificare documenti complessi. Non raccontava cosa producesse Cyberdine, né dove andassero le pratiche una volta approvate. Raccontava soltanto il tempo che i dipendenti impiegavano prima di poter decidere.
+Il grafico successivo misurava il tempo speso a verificare allegati, recuperare versioni precedenti e accertare che una firma corrispondesse alla revisione corretta. Kyla ricordava le discussioni necessarie per costruire quei dati: ciò che compariva sullo schermo era una sintesi, non tutto il lavoro che serviva a renderla attendibile.
 
 «Abbiamo risparmiato molto lavoro ripetitivo», proseguì Verri. «Questo ci ha dato margine per attività più qualificate. Alcuni di voi hanno potuto chiudere prima, tornare in famiglia, concentrarsi su problemi veri. Non intendo fingere che non sia un risultato.»
 
@@ -78,6 +79,8 @@ Verri riprese il telecomando.
 «La seconda comunicazione è operativa.»
 
 Apparve una schermata dal titolo **UNITÀ B-17 — ESITO VALUTAZIONE TECNICA**.
+
+Dall'ultima fila Nico Valenti si alzò proprio mentre il codice appariva sullo schermo. Kyla lo riconobbe dalla felpa scura; era venuto alla plenaria senza sedersi con il resto del gruppo di sviluppo. Si infilò nella porta laterale con il telefono in mano. Non fu il solo a uscire durante una riunione così lunga, e Kyla tornò subito a guardare il palco.
 
 Il nome sembrò tagliare la sala in due, ma soltanto a Kyla. Per il resto delle persone probabilmente era un codice, come gli altri codici dei robot. Le dita di Nerea, seduta a pochi posti da Irene, si serrarono intorno a un foglio piegato.
 

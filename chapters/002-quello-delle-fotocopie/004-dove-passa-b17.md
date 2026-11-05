@@ -12,6 +12,7 @@ characters:
   - character:paolo-ferri
   - character:mila-corsi
   - character:b-17
+  - character:nico-valenti
 locations:
   - location:cyberdine-campus
 factions:
@@ -37,6 +38,18 @@ Kyla si fermò a guardarlo.
 «Cos'è successo?»
 
 La spiegazione richiese tre persone, molte interruzioni e due versioni incompatibili del numero di tentativi. B-17 aveva preso male una scheda dall'archivio, aveva copiato il lato sbagliato, poi aveva stampato un margine tagliato. Paolo aveva recuperato una vecchia cornice per tenere fermo l'originale. Elena aveva autorizzato il procedimento. Alla fine le copie erano state prodotte e consegnate, e una verifica documentale complicata era stata chiusa in tempo.
+
+Nico Valenti si fermò davanti al foglio appeso, con una custodia di attrezzi sotto il braccio. Era passato per una prova su una postazione vicina e adesso osservava la pagina completamente bianca.
+
+«Non era un problema di testo», disse.
+
+«Era un problema di lato», rispose Paolo. «E di qualcuno che si ricordasse dov'era la cornice.»
+
+Nico si chinò per leggere la nuova scritta sul cassetto della fotocopiatrice. «Quella non la registrano nei test», osservò.
+
+«Eppure ha risolto il problema», disse Elena.
+
+Nico annuì. Lasciò passare una collega con un contenitore e riprese il corridoio senza fare una foto al foglio bianco.
 
 «Quindi l'operazione è riuscita», disse Kyla.
 
