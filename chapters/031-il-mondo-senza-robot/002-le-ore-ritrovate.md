@@ -1,0 +1,101 @@
+---
+type: scene
+id: scene:031-il-mondo-senza-robot:002-le-ore-ritrovate
+chapter: chapter:031-il-mondo-senza-robot
+number: 2
+title: Le ore ritrovate
+canon: canon
+pov: character:rosa-fabbri
+characters:
+  - character:rosa-fabbri
+  - character:sofia-rizzi
+  - character:amir-haddad
+locations:
+  - location:hub-levante
+factions: 
+  - faction:hub-levante
+---
+
+Alle sei del mattino Rosa Fabbri si presentò all'Hub Levante con le scarpe antinfortunistiche e un contenitore di caffè.
+
+Non era stata convocata. Aveva visto i filmati dei camion fermi davanti al cancello e aveva chiamato Sofia.
+
+«Se c'è lavoro, ci sono», le aveva detto.
+
+Sofia le aveva risposto che avrebbe potuto entrare soltanto dopo una verifica delle abilitazioni e una decisione formale sul personale aggiuntivo. Alle cinque e quarantatré la chiamò per dirle di venire.
+
+Rosa trovò il magazzino illuminato come sempre, ma il rumore era diverso.
+
+Non c'erano i piccoli motori dei robot che si incrociavano fra le corsie. Alcuni carrelli erano rimasti sospesi in zone non raggiungibili senza una procedura di messa in sicurezza. Due camion attendevano ancora con la merce destinata agli ospedali; gli altri erano stati rimandati ai depositi di partenza.
+
+Sofia aveva una cartina di carta attaccata al vetro.
+
+«Questa è la parte che possiamo usare.»
+
+Rosa osservò i quadrati colorati.
+
+«E il resto?»
+
+«Finché Amir non approva gli accessi manuali, non ci entriamo.»
+
+Amir arrivò dalla manutenzione, portando in mano un mazzo di chiavi. Aveva passato metà della notte a controllare gli attuatori, non a riparare guasti. Le macchine erano ferme in condizioni apparentemente sicure, ma nessun responsabile poteva promettere che rimuovere un carico o spostare un braccio non provocasse rischi.
+
+«Siamo sicuri che non ripartiranno da sole?», chiese Rosa.
+
+«Non siamo sicuri di tutto. Per questo isoliamo fisicamente le aree in cui entreranno le persone.»
+
+«Ci vorranno giorni.»
+
+«Per alcune sì.»
+
+Il primo trasporto manuale richiese ventisei minuti. Quando il vecchio programma assegnava le baie, la stessa attività ne occupava meno di sei, compresi i controlli automatici. Rosa dovette verificare due codici, cercare la giusta pila e aspettare che un collega liberasse un transpallet.
+
+Alle nove arrivò la notizia che una delle merci urgenti non sarebbe partita fino al pomeriggio.
+
+Il vettore telefonò per discutere le penali.
+
+Sofia aprì il registro, mostrò l'orario e confermò che il fermo sarebbe stato certificato. Era lo stesso gesto che aveva compiuto anni prima per i quarantasette minuti della baia quattro. Stavolta non c'era una riga che potesse promettere la soluzione.
+
+A pranzo Rosa si sedette vicino alla finestra con tre colleghi. Uno di loro disse che almeno adesso l'azienda avrebbe capito perché servivano persone.
+
+«Non ci assumeranno tutti per sempre», rispose Rosa.
+
+«Intanto ci hanno richiamati.»
+
+«Per una crisi. Non è la stessa cosa.»
+
+Bevve un sorso di caffè ormai tiepido.
+
+Il telefono le mostrò un messaggio del figlio: *Oggi vieni a prendermi tu?*
+
+Rosa aveva appena ottenuto un turno extra, proprio ciò che chiedeva da mesi. Non sapeva quando sarebbe uscita.
+
+«Devo chiamare la scuola», disse.
+
+Sofia, passandole accanto, sentì la frase.
+
+«Se hai un problema di orario, dimmelo adesso. Non voglio che tutti diano per scontato che possiamo tenervi fino a stanotte.»
+
+«Ho chiesto io di venire.»
+
+«Lo so. Non significa che tu debba promettere tutto.»
+
+Rosa chiamò una vicina per chiedere aiuto con il bambino. Poi tornò alla corsia, dove un uomo cercava un carico usando una lista stampata la settimana precedente.
+
+«Quella non è aggiornata», disse.
+
+«Ne hai un'altra?»
+
+«No. Ma so dove sono state spostate le scatole.»
+
+Si mise davanti alla pila e indicò le etichette una per una.
+
+Era una conoscenza che il software non le aveva tolto. Poteva ancora usarla.
+
+Dopo un'ora aveva la schiena dolorante e una certezza meno piacevole: non bastava conoscere la merce per muovere un intero magazzino con le mani.
+
+Alle tredici Sofia le fece firmare le ore aggiuntive. Erano le prime da molto tempo.
+
+Rosa pensò al conto di casa. Poi al figlio che sarebbe uscito da scuola senza trovarla davanti al cancello.
+
+Non capì se provare sollievo o vergogna.
