@@ -94,6 +94,20 @@ Nerea guardò il tavolo invaso dai fogli.
 
 «Questa volta è vero.»
 
+«Nerea?»
+
+«Dimmi.»
+
+«Quando finisce questo casino, vieni una domenica? Non per controllare la sirena. Ho ancora il sugo nel congelatore che ti piaceva da piccola.»
+
+Nerea guardò il monitor.
+
+«Papà, non è che possiamo aspettare che finisca tutto. Potremmo non finire mai.»
+
+Bruno si grattò la nuca, dall'altra parte della chiamata. «Allora vieni anche se non è finito.»
+
+«Ti dico un giorno preciso», rispose. Non lo fece subito. Bruno non insistette, e fu la cosa che le fece più male.
+
 Il padre la salutò e uscì dalla farmacia. Nella piazza una donna stava mostrando a due ragazzi come aprire manualmente la serranda del piccolo negozio di alimentari. Uno dei due teneva una torcia.
 
 Bruno si fermò a dare una mano.

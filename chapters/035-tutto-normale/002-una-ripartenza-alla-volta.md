@@ -38,6 +38,20 @@ Rosa guardò i pallet accumulati. Era tornata a lavorare in quei giorni più di 
 
 Dopo tre ore un secondo robot completò una consegna. Il giorno seguente le corsie principali ripresero con velocità ridotta. Alcuni modelli richiesero un intervento in loco e rimasero sospesi più a lungo.
 
+«A che ora finisci oggi?», chiese a Rosa.
+
+«Quando avete finito voi, immagino.»
+
+«Non era la domanda.»
+
+Rosa strinse la cinghia della borsa. «Gli devo ancora una pizza, a mio figlio. Gliela prometto da quando mi hanno cambiato i turni.»
+
+«Questa sera la consegna ai camion la seguiamo noi. Se il tuo turno è finito, non ti chiedo di restare.»
+
+«Le ore mi servirebbero», disse Rosa.
+
+Sofia lo sapeva. Per un momento desiderò poterle offrire entrambe le cose, la paga e la serata. Le diede soltanto l'orario effettivo delle ore disponibili e le lasciò scegliere se fermarsi per il turno autorizzato del giorno dopo. Rosa lo fotografò e uscì senza ringraziare. Non doveva farlo.
+
 Sofia firmò una ripartenza alla volta.
 
 Non era il momento spettacolare che la televisione aveva aspettato. Non c'era una piazza mondiale in cui tutti i robot si accendevano insieme. C'erano verifiche, carichi spostati e persone che aggiornavano gli orari.

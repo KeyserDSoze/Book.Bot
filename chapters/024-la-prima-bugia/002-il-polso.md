@@ -94,6 +94,10 @@ Si limitò a dire che, per quel pomeriggio, l'assistenza sarebbe stata svolta da
 
 B-32 rimase fermo accanto alla porta.
 
+Giulia aveva passato parte dell'attesa a domandarsi se il riposo sarebbe stato pagato come un infortunio oppure sottratto alle ferie. Aveva già prenotato tre giorni per andare a trovare un'amica che non vedeva da tempo. Le sembrava meschino pensare alle ferie con il polso gonfio e Teresa che avrebbe potuto farsi male. Eppure non intendeva regalare all'organizzazione anche quei giorni.
+
+Aveva deciso di chiedere ad Ada una risposta per iscritto prima di andarsene. Non voleva arrivare a casa e scoprire di aver firmato il modulo sbagliato con la mano buona.
+
 Quando Giulia rientrò con il polso immobilizzato e un'indicazione di riposo, trovò sul tavolo il suo rapporto del giorno precedente, stampato e messo in evidenza da Ada.
 
 La prima frase diceva: *Si richiede verifica del percorso e dei supporti prima di confermare il normale servizio.*

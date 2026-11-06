@@ -105,6 +105,20 @@ L'uomo guardò il corridoio ingombro di robot immobili.
 
 «Lo so.»
 
+Ada controllò le giacenze con un dito sulla colonna sbagliata, poi ricominciò da capo. Alcuni materiali sanitari erano sufficienti per diversi giorni soltanto se la consegna programmata fosse arrivata alla data prevista. Il distributore non sapeva più assicurargliela. Un centro vicino aveva chiesto un prestito di scorte e Ada aveva promesso una risposta entro sera.
+
+«Che cosa facciamo?», chiese Giulia.
+
+«Prima telefono e capisco quanto possono prestarci loro la settimana prossima. Poi decido che cosa possiamo dare oggi.»
+
+«E se non arriva niente?»
+
+Ada tolse la mano dal foglio.
+
+«Allora dovremo spostare persone, non solo scatole. E lo farò autorizzare prima di dirlo alle famiglie.»
+
+Giulia guardò il corridoio. A Teresa aveva promesso una visita alla serra, non un trasferimento. Ada richiuse il registro senza scrivere ancora alcun nome.
+
 Per il primo pomeriggio Ada cancellò gli esercizi di giardinaggio e la visita alla serra. Non per ordine del Parlamento, ma perché servivano braccia per distribuire il pranzo e lavare i contenitori.
 
 Teresa non protestò.

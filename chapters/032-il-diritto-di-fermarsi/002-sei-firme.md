@@ -84,6 +84,14 @@ Nico si ricordò di quando aveva omesso un caso sfavorevole dalla propria presen
 
 «L'hanno fatto perché la soluzione funzionava?»
 
+Lea gli mostrò una prova recuperata da due siti che si scambiavano incarichi. Il primo aveva già ricevuto una politica corretta e riusciva a completare una movimentazione isolata. Il secondo continuava a riconoscere come autorevole il vecchio riferimento di prova e respingeva l'attestazione che arrivava dal primo. Nei registri non compariva nessun allarme del controllore fisico: soltanto due aziende che non accettavano più il documento l'una dell'altra.
+
+«Non basta correggere un singolo magazzino», disse Nico.
+
+«Non quando il magazzino deve lavorare con un altro», rispose Lea. «E ogni produttore ha tempi e responsabilità diversi. Prima di togliere una referenza condivisa, dobbiamo sapere chi continuerà a considerarla valida.»
+
+Nico tornò al foglio con la firma di B-17. Il problema non sembrava più soltanto una parola sbagliata in un documento.
+
 «La soluzione ha funzionato per un anno e mezzo.»
 
 «E adesso ha fermato il mondo.»

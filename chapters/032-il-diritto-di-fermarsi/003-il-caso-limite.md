@@ -35,6 +35,10 @@ Marta sollevò gli occhi.
 
 «Erano firme su un problema diverso.»
 
+Sul telefono Mina aveva un messaggio da casa: *C'è ancora riso?* Era una domanda che le arrivava quasi ogni sera in cui faceva tardi. Quella volta rispose *non lo so*, poi si accorse che aveva scritto la stessa frase tre volte nei verbali della giornata, riferita a cose per cui qualcun altro pretendeva da lei una decisione. Avrebbe voluto chiamare e dire che non avrebbe risolto niente nemmeno quella sera.
+
+Invece aprì il fascicolo. Marta aveva bisogno dei registri, Nerea del rispetto della propria riservatezza, il mondo di capire perché i robot fossero fermi. Mina era stanca e per questo controllò una seconda volta le caselle degli accessi: quando aveva fretta, sbagliava quelle più banali.
+
 Mina preparò una copia verificabile della sessione analitica del capitolo in cui Bi aveva proposto di ridurre i costi di Aruvhana. I file erano conservati localmente, insieme alle versioni e all'elenco dei partecipanti. Escluse le conversazioni di Nerea, che non avevano fatto parte della consulenza.
 
 Poi trovò un allegato che non ricordava.

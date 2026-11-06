@@ -63,6 +63,20 @@ Nerea si voltò.
 
 «Lo so.»
 
+«Hai mangiato?», chiese Nerea.
+
+Nico la guardò, disorientato. «Cosa?»
+
+«Non è una domanda tecnica.»
+
+«No.»
+
+«Nemmeno io.»
+
+Nerea aveva in tasca una merendina schiacciata nel viaggio. La tirò fuori, la spezzò lungo l'incarto e gli porse la metà più grande. Nico la prese con due dita, facendo attenzione a non sporcare il foglio che teneva in mano.
+
+Per qualche minuto masticarono senza parlarsi. Nerea non si sentì più vicina a perdonarlo. Aveva soltanto fame, e davanti aveva un uomo che tremava.
+
 Rimasero in silenzio.
 
 «Sai che Bi ha fatto la stessa cosa?», domandò lei.

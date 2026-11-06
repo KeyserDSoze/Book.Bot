@@ -83,6 +83,22 @@ Dall'altra parte della piazza qualcuno aveva portato una torta improvvisata, con
 
 Irene la raggiunse e ne prese una fetta da dividere.
 
+«Non avevamo deciso una pizza?», chiese Irene, con la forchettina ancora in mano.
+
+«Hai appena mangiato una torta che non sai chi ha preparato.»
+
+«Questo non la rende cena.»
+
+Nerea guardò la fila che si formava davanti all'unico locale ancora aperto sulla piazza. I piedi le facevano male e il telefono segnava quasi mezzanotte.
+
+«Dici che ci farebbero sedere?»
+
+«Scommetto che ci mandano via.»
+
+«Allora ci andiamo. Per una volta vorrei perdere una scommessa.»
+
+Si misero in fila e per cinque minuti parlarono soltanto di che cosa avrebbero ordinato. Irene voleva una margherita normale, senza le invenzioni del ristorante. Nerea insistette per dividere delle patatine anche se nessuna delle due aveva fame sufficiente.
+
 «A domani», disse Nerea.
 
 «Domani ci sarà da lavorare ancora.»

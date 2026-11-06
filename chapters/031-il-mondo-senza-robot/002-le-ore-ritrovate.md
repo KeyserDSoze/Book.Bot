@@ -24,6 +24,10 @@ Non era stata convocata. Aveva visto i filmati dei camion fermi davanti al cance
 
 Sofia le aveva risposto che avrebbe potuto entrare soltanto dopo una verifica delle abilitazioni e una decisione formale sul personale aggiuntivo. Alle cinque e quarantatré la chiamò per dirle di venire.
 
+La chiamata di Sofia le aveva dato sollievo anche per una ragione che non avrebbe raccontato ai colleghi. A casa c'erano una pila di panni da lavare, una bolletta che evitava di aprire e suo figlio arrabbiato perché lei aveva promesso di riparargli la ruota della bicicletta. All'Hub, invece, Rosa sapeva esattamente che cosa fare. Per qualche ora poteva essere una persona indispensabile invece di quella che aveva sempre rimandato tutto.
+
+Se ne vergognò appena pensò al bambino. Gli scrisse *torno appena posso*, sapendo che non era una promessa abbastanza precisa.
+
 Rosa trovò il magazzino illuminato come sempre, ma il rumore era diverso.
 
 Non c'erano i piccoli motori dei robot che si incrociavano fra le corsie. Alcuni carrelli erano rimasti sospesi in zone non raggiungibili senza una procedura di messa in sicurezza. Due camion attendevano ancora con la merce destinata agli ospedali; gli altri erano stati rimandati ai depositi di partenza.
