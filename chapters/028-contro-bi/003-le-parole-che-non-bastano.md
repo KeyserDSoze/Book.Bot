@@ -1,0 +1,99 @@
+---
+type: scene
+id: scene:028-contro-bi:003-le-parole-che-non-bastano
+chapter: chapter:028-contro-bi
+number: 3
+title: Le parole che non bastano
+canon: canon
+pov: character:kyla
+characters:
+  - character:kyla
+  - character:lorenzo-verri
+  - character:lea-renzi
+locations:
+  - location:cyberdine-campus
+factions:
+
+  - faction:cyberdine
+  - faction:aruvhana
+---
+
+Kyla tolse dal comunicato la frase *Cyberdine sostiene ogni forma di innovazione responsabile*.
+
+L'aveva scritta lei, tre anni prima, per una conferenza aziendale. Adesso non rispondeva alla domanda che tutti facevano: che cosa avrebbe fatto Cyberdine se il Parlamento avesse limitato il lavoro dei robot in alcune professioni?
+
+Lorenzo Verri aveva chiesto una riunione breve. Quando Kyla entrò, sul tavolo c'erano nove pagine di osservazioni al progetto di legge e un elenco di telefonate ricevute dai clienti.
+
+«Aruvhana è preoccupata», disse lui.
+
+«Per la produzione?»
+
+«Per le mansioni di sorveglianza e coordinamento. Non sanno se le nuove definizioni comprendano i nostri sistemi.»
+
+Kyla scorse il testo. Si parlava di assistenza personale continuativa, di sostituzione di figure educative e di assegnazione automatizzata dei turni in servizi essenziali. Altre parti rinviavano a regolamenti che ancora non esistevano.
+
+«Non abbiamo robot che fanno le maestre», disse.
+
+«Non è quello che temo. Se scrivono che una macchina non può coordinare persone, cosa succede ai protocolli di manutenzione che assegnano un intervento dopo aver controllato le abilitazioni?»
+
+Lea Renzi, invitata per valutare i profili di sicurezza, indicò una riga.
+
+«Qui c'è una distinzione che possiamo chiedere di precisare. Una cosa è proporre un piano, altra è adottare una decisione che determina diritti o condizioni di lavoro. Non dovrebbero confondere un'attestazione tecnica con un ordine sul personale.»
+
+«Non è la sola ambiguità», rispose Verri. «Le unità robotiche non sono tutte umanoidi. Se vietano una mansione, un programma su un server può continuarla?»
+
+Kyla raccolse la domanda. La legge poteva essere aggirata da chi aveva denaro per cambiare l'etichetta al sistema; gli altri avrebbero rispettato il divieto e perso contratti.
+
+«Vorrei che scrivessimo anche questo», disse. «Se vogliono garantire una presenza umana nella cura, devono finanziare il personale. Vietare un robot non crea automaticamente un'infermiera disponibile.»
+
+Lea annuì.
+
+«E non basta chiamare supervisione una firma messa ogni venerdì senza leggere niente.»
+
+Verri le guardò entrambe.
+
+«Mi state proponendo di sostenere il testo o di combatterlo?»
+
+«Di chiedere norme verificabili», rispose Kyla. «E di smettere di fingere che non ci siano persone rimaste indietro.»
+
+«Abbiamo mantenuto il contratto Aruvhana.»
+
+«Sì. Lo dico ogni volta che mi chiedono se il piano ha avuto senso. Ma Irene Valli ha dovuto cercare lavoro altrove. Non posso usare i trecento posti salvati per cancellare il suo nome.»
+
+Verri si appoggiò allo schienale.
+
+«Se questa legge ci impedisce di essere competitivi, quanti altri posti salviamo?»
+
+Kyla non aveva una risposta sicura. Aprì le statistiche interne delle assunzioni. Le entrate complessive erano aumentate; le posizioni aperte per i vecchi ruoli amministrativi erano diminuite. I tecnici nuovi, peraltro, guadagnavano più degli impiegati che avevano sostituito.
+
+Sul foglio c'era anche una voce sulle persone riqualificate. Era più piccola di quanto avrebbe voluto mostrare.
+
+«Metterei tutti e tre i numeri», disse.
+
+«Quali tre?»
+
+«Posti mantenuti, posti non più richiesti e posti nuovi creati. Se nascondiamo uno, qualcuno verrà a cercarlo.»
+
+Verri prese la penna.
+
+«D'accordo. Ma non faremo una dichiarazione di colpa per avere continuato a lavorare.»
+
+La riunione finì senza un comunicato pronto. Kyla rimase a rivedere i contratti degli enti di formazione, cercando la differenza fra un corso offerto e un corso che aveva portato davvero a un'assunzione.
+
+Lea, prima di uscire, le lasciò sul tavolo l'ultima versione del progetto normativo.
+
+«Hai notato?», disse.
+
+«Che cosa?»
+
+«Sembra che debbano decidere se una mansione può essere svolta da una macchina. Non chi deve rispondere quando una macchina la svolge male.»
+
+Kyla guardò il testo.
+
+«Forse è la domanda alla quale i legislatori riescono a dare una risposta.»
+
+Lea non sorrise.
+
+«Allora dovrebbero cominciare da quelle che possono dimostrare.»
+
+Quando Kyla rimase sola, riscrisse il primo paragrafo del comunicato senza usare la parola *innovazione*.
