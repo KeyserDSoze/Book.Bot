@@ -20,3 +20,8 @@ Durante la sospensione della baia quattro, Sofia certifica su richiesta del vett
 ## Capitolo 23
 
 Sofia autorizza un pilota di sei settimane per la pianificazione delle turnazioni proposta da B-37 in risposta a diciannove firme di dipendenti. Controlla gli avalli, il rispetto dei riposi e le eccezioni. I processi migliorano e il ricorso agli straordinari cala; su decisione della direzione due contratti di somministrazione non vengono rinnovati. Sofia non attribuisce la responsabilità a B-37 e comunica con Rosa, che perde ore aggiuntive.
+
+
+## Capitoli 28–30
+
+Le discussioni nazionali sui divieti non cancellano il vantaggio reale della pianificazione robotica dell'Hub Levante. **Il giorno dopo il voto della legge**, alle 17:00 italiane, B-37 e le unità operative di diversi fornitori si fermano simultaneamente. Sofia registra le attese dei vettori a carico del magazzino, avvia i piani manuali di continuità e scopre che, senza straordinari di recupero e personale in riserva, non può far lavorare a mano tutte le baie insieme. Amir verifica che il fermo è diverso dal precedente blocco locale di quarantasette minuti; non ne conoscono la causa.
