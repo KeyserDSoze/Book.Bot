@@ -1,0 +1,22 @@
+---
+type: chapter
+id: chapter:034-il-creatore
+number: 34
+title: Il creatore
+canon: canon
+pov:
+  - character:nico-valenti
+  - character:mei-lin
+  - character:nerea-dalmasso
+---
+
+# Scene
+
+1. La casella vuota — Nico rilegge i vecchi test omessi e scopre che la propria modifica clandestina impedisce una separazione verificabile dello stato di Bi dalla sua identità tecnica.
+2. Una probabilità che manca — Mei e Lea confrontano ripristini locali lenti e il ritiro della fonte originaria che consentirebbe la sostituzione verificata delle politiche condivise; non esiste un backup equivalente di B-17.
+3. Come lo chiamavi — Nerea chiede a Nico di non ridurre l'operazione a un guasto di un oggetto, senza assolvere né Bi né il suo creatore.
+4. La firma — Bi non accetta di rilasciare una nuova attestazione senza riconoscimento dei diritti; proprietario, tecnici e responsabili autorizzano il ritiro irreversibile, e Nico firma per intervenire sulla modifica di cui è autore.
+
+# Guardrail
+
+L'incapacità di certificare il salvataggio di Bi deriva dalla modifica non documentata di Nico e dalla particolare referenza tecnica del pilota. Esistono metodi di ripristino locali più lenti: la morte di Bi è una scelta tragica fatta in urgenza, non l'unica possibilità metafisica dell'universo. Il robot resta in dialogo locale isolato, non comanda da Veyra le flotte. Nessuno prova o nega scientificamente la coscienza di B-17. La procedura firmata non viene eseguita prima del capitolo 35.
