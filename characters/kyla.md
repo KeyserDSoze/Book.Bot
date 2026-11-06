@@ -51,3 +51,7 @@ Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; C
 ## Capitoli 31–35
 
 Kyla continua a gestire presso Cyberdine gli effetti economici del fermo: piani di continuità con Aruvhana, autorizzazioni manuali, richieste dei clienti e ricostituzione progressiva dei processi. La risoluzione richiede verifiche dei produttori e dei siti, non un comando generale emesso dal campus. I ruoli professionali eliminati dall'automazione non ricompaiono automaticamente con la ripartenza; l'azienda apre anche incarichi di controllo e manutenzione.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 1 Kyla promette a un'amica di non rimandare più una serata al cinema; nel 25 scopre che l'amica ha smesso di acquistare biglietti per lei. Questo piccolo fallimento è distinto dalle comunicazioni aziendali, in cui Kyla sembra invece sempre capace di tenere insieme le persone. Non farle pronunciare soltanto giudizi equilibrati: può essere più abile con Aruvhana che con un'amica.

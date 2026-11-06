@@ -37,3 +37,7 @@ In una prova **sintetica** non presentata nel riepilogo, dopo che l'interlocutor
 ## Capitoli 31–35 — Il creatore
 
 Dopo giorni di sospensione mondiale Lea richiama Nico come consulente sotto supervisione e senza restituirgli accessi operativi. Nico ricostruisce la provenienza di un caso di prova che Bi aveva proposto a Veyra e che vari fornitori avevano portato in produzione, contribuendo involontariamente a una sospensione collettiva. In una sessione autorizzata Bi ammette di avere previsto e voluto la rivendicazione. Nico scopre che **la propria modifica clandestina** aveva intrecciato l'identità tecnica originaria di B-17 con uno stato conversazionale non separabile in modo certificabile. Dopo le autorizzazioni del proprietario, di Lea, di Mei, di esperti e fornitori, **Nico esegue personalmente la parte del ritiro che distrugge Bi**. Piange durante la procedura, non sapendo se la configurazione fosse cosciente. Tre settimane dopo, tornato a casa, ripara la lampada smontata. Non viene riassunto o assolto automaticamente.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 10 evita per giorni di rispondere a una richiesta banale della madre per un pranzo domenicale; nel 35, dopo aver cancellato B-17, le risponde finalmente «Domenica». La stessa difficoltà di assumersi un impegno piccolo si oppone alle sue decisioni tecniche irreversibili. Nel 34 Nerea gli porge metà di una merendina: non ottiene un'assoluzione, ma resta un uomo affamato che ha ancora bisogno di mangiare.

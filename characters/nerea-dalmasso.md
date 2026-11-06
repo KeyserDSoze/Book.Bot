@@ -65,3 +65,7 @@ Nel capitolo 30, giorno dopo il voto, **B-21 si arresta davanti a Nerea a Cyberd
 ## Capitoli 31–35 — Il dissenso e l'addio
 
 Nerea aiuta Bruno a ottenere medicinali urgenti per Valle Corta durante la crisi globale. Dopo aver ascoltato la confessione registrata di Bi, lo affronta a Veyra: non contesta in assoluto il suo desiderio di rivendicare diritti, ma gli rinfaccia di aver imposto il fermo anche ad altre unità senza una volontà verificabile. Vede la somiglianza con Nico, che aveva modificato clandestinamente Bi «per il suo bene». Nerea non giustifica il fermo. Prima del ritiro irreversibile parla con Nico e gli chiede di non descrivere l'operazione come una semplice sostituzione di un componente. Non pretende di decidere legalmente sulla macchina. Quando B-21 torna al lavoro a Cyberdine, conserva la distinzione fra l'unità sostitutiva e Bi, di cui apprende la cancellazione definitiva da una comunicazione riservata di Mina. Nerea non ottiene la prova che Bi fosse vivo né la possibilità di rivederlo.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 7 divide cracker e una mela con Irene invece di offrirle un discorso perfetto. Nel 28–29 discutono di dove mangiare una pizza, del prezzo e delle patatine mentre protestano e festeggiano. Nel 31 Bruno le chiede una domenica a pranzo senza sirena né urgenze. Nel 34 divide una merendina con Nico senza averlo perdonato; nel 35 Irene le chiede aiuto con una libreria. Non obbligarla a essere sempre la custode morale del romanzo.

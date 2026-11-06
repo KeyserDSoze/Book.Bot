@@ -23,3 +23,7 @@ Il polso di Giulia è tornato abbastanza funzionale da consentirle il lavoro con
 ## Capitoli 31 e 35
 
 Giulia sostiene materialmente il centro assistenziale durante il fermo, perde pause e giornate in serra, e promette a Teresa soltanto ciò che può garantire. Dopo il ripristino supervisionato delle unità recupera una parte del tempo per la cura diretta. Assiste alla prima nuova conversazione di Teresa con B-32 su un pomodoro chiamato Carlo, senza presentarla come ritorno di Bi.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 24, dopo il danno al polso, Giulia si preoccupa di non farsi scalare da ferie già prenotate i giorni di riposo per l'infortunio. È una preoccupazione legittima e anche egoista, accanto al timore che Teresa si facesse male. Nel 31 vuole cinque minuti veri per ascoltare Teresa e, insieme, tornare a casa a dormire.

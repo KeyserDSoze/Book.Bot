@@ -25,3 +25,7 @@ Nel capitolo 11 Marta scopre che una proposta commerciale vorrebbe ottenere anch
 ## Capitoli 31–35
 
 Durante il blocco mondiale Marta deve sostenere costi e obblighi contrattuali anche se la maggior parte delle unità del Circuito è ferma. Preserva i registri della consulenza di B-17 tramite Mina e accetta una verifica con partecipanti esterni autorizzati. Chiede che le conseguenze umane di un ritiro irreversibile siano documentate, benché il robot non abbia uno status giuridico di persona. Come titolare firma la procedura di cessazione di Bi, non certificandone la coscienza né la mancanza di coscienza.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto per vedere un'amica in terraferma, che ha smesso di credere alle sue promesse. Il desiderio personale convive con contratti, paghe e penali. Nel 34 reagisce con un'ombra di risentimento alla responsabilità di scegliere su una crisi che coinvolge perfino un centro assistenziale sconosciuto.

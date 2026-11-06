@@ -50,3 +50,7 @@ Irene corregge le ipotesi di automazione del contratto Aruvhana, chiedendo di ma
 ## Capitoli 31–35 — Una normalità senza garanzie
 
 Irene torna a Cyberdine per alcune giornate retribuite di verifica delle procedure manuali, utili durante l'emergenza. Rifiuta la semplificazione secondo cui lo stop robotico sarebbe automaticamente uno sciopero: per lei bisogna stabilire chi abbia scelto e potuto dissentire. Dopo la ripartenza ottiene un incarico a termine di **tre mesi** per il controllo di alcuni processi di continuità, non il posto senior un tempo soppresso e non un impiego stabile. Sostiene Nerea dopo la notizia della cancellazione di Bi. I problemi distributivi che hanno attraversato il romanzo restano irrisolti.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 5 Irene conserva nel telefono una libreria che vorrebbe comprare per togliere i libri dalle sedie di cucina. Nel 26 la ritrova più cara proprio quando il contratto viene messo in discussione. Nel 35 ne compra finalmente una usata e chiede a Nerea di aiutarla a montarla. Non è un risarcimento al ruolo senior perduto: soltanto un gesto privato che riesce a compiere anche con un futuro professionale incerto.

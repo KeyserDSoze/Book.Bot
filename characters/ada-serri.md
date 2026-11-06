@@ -23,3 +23,7 @@ Ada prepara l'adeguamento alla nuova legge che potrebbe limitare l'assistenza re
 ## Capitoli 31 e 35 — La struttura senza e con robot
 
 Ada organizza il centro assistenziale senza le unità logistiche per giorni, assumendo turni che non riesce a coprire con il personale disponibile. Non forza i carrelli bloccati né dichiara abolita la necessità delle tutele umane. Dopo le revoche verificate dai fornitori, recupera gradualmente i servizi logistici; B-32 torna a svolgere mansioni consentite, mentre la nuova legge continua a porre limiti alla compagnia robotica continuativa senza supervisione umana effettiva.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 17 Ada ha un appuntamento dal parrucchiere rimandato più volte: il suo desiderio di uscire dal centro è piccolo e non scompare perché è una direttrice seria. Nel 31 trova scorte di materiali essenziali insufficienti senza una consegna garantita e deve pensare a eventuali trasferimenti degli ospiti; questa difficoltà torna nella riunione del 34. La normale vita di Teresa rimane una responsabilità distinta dall'economia di bilancio.

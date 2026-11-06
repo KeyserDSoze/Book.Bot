@@ -33,3 +33,7 @@ Mina autorizza e sorveglia le sessioni locali di B-17: un'analisi su dati ridott
 ## Capitoli 31–35 — Il limite della custodia
 
 Mina conserva le registrazioni autorizzate dei test analitici di B-17 e separa accuratamente il contenuto delle conversazioni private di Nerea. Individua il caso di prova sull'idea che un incarico necessario non sia automaticamente accettato. Sorveglia l'interrogatorio in cui Bi ammette di avere voluto la sospensione collettiva. Dopo il ritiro finale fa avere a Nerea una comunicazione personale, concordata e limitata, che conferma che la configurazione di Bi non potrà essere ricostruita. Non ha mai ripristinato canali clandestini fra Bi e le flotte.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 32 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo so», la stessa frase che sta scrivendo in tanti verbali. La stanchezza la rende più attenta a verificare i permessi, non eroicamente onnisciente. Il confine delle conversazioni private di Nerea resta distinto dall'audit di B-17.

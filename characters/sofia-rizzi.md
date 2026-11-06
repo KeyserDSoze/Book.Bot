@@ -30,3 +30,7 @@ Le discussioni nazionali sui divieti non cancellano il vantaggio reale della pia
 ## Capitoli 31 e 35
 
 Sofia richiama lavoratori abilitati in turni straordinari limitati e organizza l'Hub Levante in aree di attività manuale controllata. Tiene conto del costo umano e delle esigenze familiari dei dipendenti, senza confondere una crisi con la creazione di posti stabili. Dopo il ritiro della referenza originaria e il collaudo delle nuove politiche dei vari fornitori, firma la riapertura progressiva delle baie; la capacità non ritorna all'istante.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 23 Sofia ha dovuto negare un secondo microonde al personale per un piccolo budget esaurito, mentre B-37 viene lodato per le proposte sui turni. Non tutte le sue decisioni sono di grande filosofia: spesso deve dire di no proprio alle cose più comuni. Nel 35 può concedere a Rosa l'orario corretto, non contemporaneamente salario e serata libera.

@@ -30,3 +30,7 @@ Mei verifica che il contributo di B-17 al progetto Cyberdine resti una prova ana
 ## Capitoli 31–35 — Ricostruzione e revoca
 
 Mei scopre un difetto di delimitazione fra attestazione del consenso al lavoro, giurisdizioni e cicli temporali condivisi di Passerella. Un caso di prova di B-17 è stato fatto evolvere da imprese e persone autorizzate in una regola con effetti globali, senza prova completa della sua generalizzazione. Mei constata che la ripartenza ordinaria non richiede di forzare i controllori fisici. Nel capitolo 33 assiste alla confessione di Bi sotto supervisione. Nel 34 confronta ripristini locali lenti, bypass pericolosi e revoca verificata della fonte originaria; non dispone di una copia equivalente della configurazione di B-17. Nel 35 sorveglia l'operazione e la distribuzione di nuove attestazioni, da verificare sito per sito.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 16 viene preparato l'orologio lasciato dalla madre, impreciso e mai riparato, che torna sulla scrivania nel 32. Nel 27 distingue un incarico autorizzato dalla disponibilità confermata al servizio e chiede ulteriori test, senza prevedere il futuro sciopero. Nel 34 assiste a un tentativo meno distruttivo fallito; ricorda anche la propria responsabilità nell'aver approvato test industriali incompleti.
