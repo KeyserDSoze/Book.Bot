@@ -1,0 +1,112 @@
+---
+type: scene
+id: scene:026-ti-avevo-creduto:001-la-riga-del-contratto
+chapter: chapter:026-ti-avevo-creduto
+number: 1
+title: La riga del contratto
+canon: canon
+pov: character:irene-valli
+characters:
+  - character:irene-valli
+  - character:kyla
+  - character:lorenzo-verri
+locations:
+  - location:cyberdine-campus
+factions:
+  - faction:cyberdine
+  - faction:aruvhana
+---
+
+Irene Valli arrivò alla riunione in anticipo, con il rapporto delle prove stampato e tre correzioni segnate in rosso.
+
+Era stata invitata a presentare il risultato del pilota. Non a una riunione sul personale.
+
+Il sistema di interoperabilità aveva funzionato meglio delle prime stime. I passaggi fra vecchi terminali, controlli umani e nuove unità robotiche richiedevano meno trascrizioni, meno ricostruzioni a posteriori e meno telefonate di chiarimento. Gli arresti di sicurezza restavano separati. Due problemi erano emersi in prova ed erano stati corretti da persone prima di estendere l'impiego.
+
+Aruvhana aveva accettato il rinnovo condizionato a ulteriori verifiche, ma su una base economica già approvata.
+
+La sala era piena. Kyla e Lorenzo Verri erano seduti vicino ai responsabili del personale.
+
+Irene aprì il proprio fascicolo.
+
+«Non occorre presentare i test», le disse Kyla a bassa voce. «Li abbiamo validati ieri.»
+
+«Allora perché sono qui?»
+
+Kyla non rispose subito.
+
+Il direttore del personale distribuì un documento di tre pagine.
+
+Non aveva l'intestazione *licenziamenti*. Si chiamava *Riorganizzazione delle funzioni di presidio e preparazione eccezioni*.
+
+Verri annunciò che il contratto con Aruvhana era stato rinnovato per tre anni, con passaggi di verifica e obblighi di continuità. Gran parte degli impieghi collegati al servizio sarebbe rimasta. I costi si sarebbero ridotti grazie a nuove soluzioni tecniche e alla riduzione del lavoro ripetitivo.
+
+«Complessivamente», disse, «trentuno ruoli equivalenti non saranno più necessari nella configurazione a regime. Per alcune persone sono previste ricollocazioni; per altre, una gestione delle scadenze contrattuali e un confronto individuale.»
+
+Irene guardò la seconda pagina.
+
+Nella tabella c'era la sua mansione.
+
+Aveva imparato a leggere quelle formule senza farsi ingannare. *Riduzione progressiva* voleva dire che sarebbe rimasta per alcuni mesi a verificare un processo destinato a non aver più bisogno della sua presenza. *Mancato rinnovo alla scadenza* voleva dire che non l'avrebbero chiamata più.
+
+Alzò la mano.
+
+«Le persone coinvolte hanno già ricevuto una comunicazione?»
+
+«Sono in programma colloqui individuali», rispose il direttore del personale.
+
+«Allora stiamo leggendo le nostre mansioni in una tabella prima di sapere se abbiamo ancora un contratto.»
+
+Kyla aprì la bocca, poi la richiuse.
+
+«Non tutti i casi sono identici», intervenne Verri.
+
+«È vero. Ma il mio è abbastanza chiaro.»
+
+Irene indicò la riga.
+
+«La funzione che ho contribuito a rendere verificabile è quella che state eliminando.»
+
+«Hai un ruolo importante nella transizione.»
+
+«Non è quello che ho chiesto.»
+
+La riunione proseguì. Qualcuno domandò quanti posti sarebbero stati ricollocati, un altro quali criteri sarebbero stati adottati. Verri rispose con i numeri che erano stati verificati: dodici percorsi interni possibili, diciannove rapporti a termine o di somministrazione destinati a non proseguire alla scadenza, fatte salve le verifiche individuali ancora previste.
+
+Non erano trentuno persone tutte licenziate.
+
+Per Irene la distinzione era importante. Non la consolava.
+
+Alla fine Kyla le chiese di rimanere.
+
+«Voglio fare il colloquio prima che la comunicazione ufficiale ti arrivi per posta», disse.
+
+«Il mio contratto termina tra quattro mesi.»
+
+«Sì.»
+
+«E non intendete rinnovarlo nella posizione attuale.»
+
+«Non in questa funzione.»
+
+«Avete un'altra posizione da offrirmi?»
+
+Kyla guardò la cartellina.
+
+«Al momento no. Possiamo verificare i posti aperti nella gestione delle eccezioni avanzate, ma non posso prometterti un trasferimento.»
+
+Irene annuì.
+
+«Sai che cosa mi sarebbe piaciuto?», chiese.
+
+«Dimmi.»
+
+«Una volta sola, arrivare a una riunione e trovare una proposta di lavoro che portasse il mio nome.»
+
+Kyla non provò a contraddirla.
+
+Irene raccolse le tre correzioni che aveva preparato per il pilota.
+
+Due erano già state recepite.
+
+La terza rimase sul suo foglio, perché il sistema era stato rilasciato dopo una verifica che non la riguardava più.
