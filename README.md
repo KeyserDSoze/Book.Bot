@@ -40,3 +40,11 @@ Gli export intermedi sono in `dist/` e non vanno committati.
 - `tools/` e `.github/workflows/`: validazione, assemblaggio, artefatti e release.
 
 Tutti i marchi e le aziende del racconto appartengono al mondo della finzione.
+
+## Edizione illustrata
+
+L'esportazione genera un PDF editoriale nel formato libro **6x9 pollici**, con copertina, indice, testatine, pagine numerate e un'immagine iconica dopo ogni capitolo. EPUB e DOCX includono le tavole. Le 35 illustrazioni e la copertina sono raccolte anche in uno ZIP nella GitHub Release.
+
+La guida visiva si trova in art/visual-bible.md. Le tavole attuali usano oggetti e silhouette riproducibili; per eventuali immagini realistiche di personaggi ricorrenti occorreranno reference sheet approvate e gli stessi asset di riferimento, non generazioni indipendenti. Il sistema è versionato insieme al manoscritto.
+
+Per rigenerare l'edizione: installare le dipendenze Python in tools/requirements.txt e Pandoc, poi eseguire python tools/build.py. La conversione da DOCX a PDF viene eseguita nella pipeline GitHub tramite LibreOffice.

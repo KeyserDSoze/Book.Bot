@@ -29,7 +29,7 @@ jobs:
       - name: Install publishing tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc libreoffice-writer fonts-dejavu-core
+          sudo apt-get install -y pandoc libreoffice-writer fonts-dejavu-core fonts-lato fonts-liberation2
           python -m pip install -r tools/requirements.txt
 
       - name: Read version
@@ -65,12 +65,16 @@ jobs:
           for ext in md docx epub pdf; do
             test -s "dist/Bot-v${VERSION}.${ext}"
           done
+          test -s "dist/Bot-illustrations-v${VERSION}.zip"
+          python -m zipfile -l "dist/Bot-illustrations-v${VERSION}.zip" | grep -q chapter-035.png
 
       - name: Store build artifact
         uses: actions/upload-artifact@v4
         with:
           name: bot-editions-${{ steps.version.outputs.version }}-${{ github.sha }}
-          path: dist/Bot-v${{ steps.version.outputs.version }}.*
+          path: |
+            dist/Bot-v${{ steps.version.outputs.version }}.*
+            dist/Bot-illustrations-v${{ steps.version.outputs.version }}.zip
           if-no-files-found: error
 
       - name: Publish first release for this version
@@ -90,4 +94,4 @@ jobs:
             fi
             exit 0
           fi
-          gh release create "${TAG}"             "dist/Bot-v${VERSION}.md"             "dist/Bot-v${VERSION}.docx"             "dist/Bot-v${VERSION}.epub"             "dist/Bot-v${VERSION}.pdf"             --target "${GITHUB_SHA}"             --title "Bot ${VERSION}"             --generate-notes
+          gh release create "${TAG}"             "dist/Bot-v${VERSION}.md"             "dist/Bot-v${VERSION}.docx"             "dist/Bot-v${VERSION}.epub"             "dist/Bot-v${VERSION}.pdf"             "dist/Bot-illustrations-v${VERSION}.zip"             --target "${GITHUB_SHA}"             --title "Bot ${VERSION}"             --generate-notes
