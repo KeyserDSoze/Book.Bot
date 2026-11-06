@@ -31,6 +31,10 @@ Vicino al banco d'accoglienza, Nico Valenti, del gruppo di sviluppo, stava aiuta
 
 Kyla lo salutò da lontano. Lui rispose alzando due dita, senza perdere il filo. Era uno degli sviluppatori migliori nel capire dove un sistema smetteva di essere utile a chi lo usava. A volte, nelle riunioni, dimenticava di guardare negli occhi la persona a cui stava parlando. Kyla aveva imparato a riconoscere entrambe le cose.
 
+Il telefono vibrò nella tasca della giacca. Un'amica le aveva scritto: *Ho preso due biglietti per stasera. Stavolta non puoi fare tardi*. Kyla non ricordava nemmeno il titolo del film; ricordava di aver annullato le ultime due uscite, una per una presentazione da correggere e l'altra per una telefonata che avrebbe potuto aspettare.
+
+Rispose con un pollice alzato. Si promise che quella sera avrebbe lasciato il telefono nella borsa, in modalità silenziosa. Era una promessa piccola e le dava più apprensione della visita di Aruvhana. Gli ospiti, almeno, avevano ricevuto un programma con un'ora di fine.
+
 Kyla tornò agli ospiti.
 
 «Non vedo linee di produzione», disse Sahir Venn.

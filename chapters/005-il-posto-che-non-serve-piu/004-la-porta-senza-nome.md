@@ -21,6 +21,10 @@ Irene aveva preparato trentaquattro esempi per il colloquio che non ci sarebbe s
 
 Li aveva ordinati in una cartella privata, con date, problemi risolti, decisioni prese dai responsabili grazie al suo lavoro. Tre riguardavano situazioni in cui aveva proposto di non seguire la procedura più veloce. In un caso la scelta aveva fatto perdere due giorni e risparmiato tre settimane di correzioni.
 
+Sul telefono aveva aperta da due settimane la fotografia di una libreria di legno chiaro. Il mobile non era particolarmente bello. Era largo quanto l'unico muro libero del suo appartamento e avrebbe finalmente tolto i libri dalle due sedie della cucina. Irene aveva inserito l'indirizzo per la consegna tre volte, poi aveva chiuso la pagina prima di pagare.
+
+Con il contratto a termine, anche una spesa così sciocca diventava un calcolo. Si vergognava di averlo pensato. Aveva fatto un corso di gestione del rischio, e intanto non riusciva a scegliere dove mettere dei romanzi.
+
 Nessuno glieli aveva chiesti.
 
 Kyla le aveva spiegato la decisione al mattino, in una saletta senza finestre, lontano dal passaggio dei colleghi. Non era stata sbrigativa. Aveva aperto il piano delle responsabilità, mostrato come sarebbero stati redistribuiti gli avalli e ascoltato Irene fino alla fine.

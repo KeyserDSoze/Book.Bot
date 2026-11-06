@@ -23,6 +23,10 @@ Sul tavolo, accanto al portatile, c'era una lampada senza interruttore. Aveva de
 
 Sul secondo monitor aveva lasciato un elenco di cose da fare. In cima: *riordinare il tavolo*. Era giovedì. L'aveva scritto domenica.
 
+Sua madre gli aveva scritto poco prima: *Domenica vieni a pranzo o devo scongelare meno roba?* Nico aveva letto il messaggio dall'anteprima. L'idea di rispondere *sì* gli sembrò impegnativa, rispondere *no* gli sembrò crudele. Aveva lasciato il telefono a faccia in giù, come se bastasse quello a impedire al frigorifero di sua madre di riempirsi.
+
+Si disse che avrebbe risposto dopo aver sistemato la lampada. Non aveva neppure ancora trovato l'interruttore giusto.
+
 Un suono breve arrivò da una finestra di servizio quasi coperta dal browser.
 
 **B-17 — UNITÀ ATTIVA.**

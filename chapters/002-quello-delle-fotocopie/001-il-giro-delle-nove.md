@@ -53,6 +53,18 @@ Paolo alzò un dito. «Non si può chiedere rispetto per le macchine e poi prete
 
 «Perché no? Qui è esattamente quello che facciamo.»
 
+«Comunque qualcuno mi deve un pranzo», disse Mila.
+
+Paolo sollevò gli occhi dal bicchiere. «Io?»
+
+«Mi hai spostato la vaschetta dal frigorifero. Le lasagne sono finite accanto al contenitore del ghiaccio.»
+
+«Facevano condensa.»
+
+«Erano lasagne, Paolo. Non un originale da proteggere.»
+
+Elena rise. Mila non riuscì a rimanere offesa più di un secondo, ma mise subito in chiaro che alle tredici avrebbe mangiato seduta, senza essere chiamata a spostare sedie o recuperare fogli. Nessuno promise di non disturbarla.
+
 Un lieve rumore di passi meccanici raggiunse la nicchia. B-17 comparve dietro l'angolo. Portava un contenitore vuoto e procedeva verso l'archivio quattro, proprio al termine del corridoio. Nessuno gli fece caso finché non tentò di passare tra il cestino della raccolta carta e la schiena di Paolo.
 
 Il robot si fermò.

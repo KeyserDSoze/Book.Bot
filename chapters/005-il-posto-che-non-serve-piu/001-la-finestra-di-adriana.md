@@ -63,6 +63,18 @@ Adriana si spostò verso la finestra e tirò la maniglia anche se non ce n'era b
 
 «È un saluto.»
 
+«Mi sono iscritta a un corso di nuoto», disse Adriana, quasi sottovoce.
+
+Irene distolse gli occhi dalla finestra. «Tu nuoti?»
+
+«Non bene. Ho scritto principianti e mi hanno chiesto da quanti anni non entro in piscina. Ho risposto che preferivo non fare i conti.»
+
+«E perché proprio nuoto?»
+
+Adriana strinse il coperchio dello scatolone. «Perché la mattina del mercoledì non voglio venire qui a chiedere se serve una mano. Mi conosco.»
+
+Irene rise. Le sarebbe piaciuto prendere in giro Adriana sulla cuffia e sugli occhialini, come si fa con qualcuno che si immagina ancora nella propria vita dopo una porta chiusa. Non lo fece. Le chiese soltanto di raccontarle la prima lezione.
+
 Il calendario di Irene conteneva da settimane un appuntamento senza partecipanti: *Colloquio percorso senior*. Non era ufficiale. Aveva creato lei quel promemoria per ricordarsi di aggiornare il portfolio interno, raccogliere i risultati delle riunioni condotte, preparare le domande da fare a chi avrebbe deciso la successione.
 
 Non aveva ricevuto alcuna promessa. Adriana glielo ricordava sempre.

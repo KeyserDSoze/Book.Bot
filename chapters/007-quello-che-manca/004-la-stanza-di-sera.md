@@ -156,6 +156,16 @@ Dopo qualche secondo Irene abbassò gli occhi sulla tazza.
 
 «Non molto bene», disse.
 
+«Ho fame», aggiunse Irene, quasi arrabbiata di aver detto anche quello.
+
+Nerea aprì la borsa. Ne tirò fuori un pacchetto di cracker piegato a metà e una mela con un livido sul fianco.
+
+«Non ho di meglio.»
+
+«Non ho chiesto di meglio.»
+
+Nerea lasciò i cracker fra loro, senza metterli in un piattino. Irene ne prese uno e lo spezzò sul registro. Caddero briciole tra le pagine. Non le raccolse subito.
+
 Nerea fece un passo nella stanza e si sedette.
 
 Il corridoio, fuori, restava silenzioso.
