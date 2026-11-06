@@ -59,6 +59,18 @@ Porti, magazzini, strutture assistenziali, impianti agricoli, manutenzione di re
 
 Il responsabile le mostrò l'ultima revisione. Ogni attestazione includeva la versione della procedura applicata e un riferimento temporale condiviso, così che i siti potessero ricostruire le sequenze anche quando lavoravano in fusi orari diversi. Una macchina non poteva sostituire con una frase il controllore indipendente di un'altra.
 
+Nel modello di attestazione le saltò agli occhi una distinzione nuova: *incarico tecnicamente autorizzato* e *disponibilità confermata al servizio*. Sembrava un modo ordinato di impedire che due aziende presumessero l'una l'assenso dell'altra.
+
+«Chi deve confermare il secondo stato?», chiese.
+
+«Il sistema del sito, secondo la politica scelta dal cliente», rispose il responsabile. «È un campo in più.»
+
+«È un campo che, quando manca, può lasciare una macchina ferma.»
+
+«Come succede già con un documento non firmato.»
+
+Mei non tolse la condizione dalla prova. Ne chiese una variante che verificasse che cosa succedeva quando due siti applicavano regole diverse. Le parve una precauzione abbastanza precisa per quella fase, e la segnò nell'elenco dei test ancora aperti.
+
 Mei trovò due casi da provare prima del rilascio.
 
 Uno riguardava un'attestazione valida ricevuta troppo tardi. L'altro una richiesta di sospensione del lavoro in attesa di una verifica, quando il sito successivo aveva già cominciato la propria attività.

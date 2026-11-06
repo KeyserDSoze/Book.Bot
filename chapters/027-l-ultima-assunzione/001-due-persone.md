@@ -21,6 +21,10 @@ Sul tavolo della cucina aveva tre preventivi. Il primo riguardava la manutenzion
 
 Il terreno non era enorme. Venti ettari di noccioleti su un pendio che rendeva certe file difficili da lavorare, una piccola rimessa e un mutuo che non si era accorciato abbastanza.
 
+Un vicino lo aveva invitato alla partita a carte del sabato. Sergio aveva risposto *vediamo*, benché sapesse già che non sarebbe andato. Non sopportava più le domande sul prezzo delle nocciole, formulate con la delicatezza di chi in realtà voleva sapere se stesse fallendo. Gli sarebbe piaciuto sedersi a perdere cinque euro senza dover raccontare il proprio mutuo.
+
+Si era persino promesso che, se avesse trovato una soluzione per la raccolta, la sera avrebbe mangiato fuori senza portarsi appresso i preventivi. Poi aveva disposto i tre fogli sul tavolo della cucina, uno accanto all'altro, come tutti gli altri giorni.
+
 Sergio chiamò il commercialista.
 
 «Se scelgo le macchine, riesco a pagare il mutuo?»

@@ -116,4 +116,18 @@ Un uomo a pochi passi da loro, che portava al collo un tesserino da manutentore,
 
 Nessuno lo ascoltò.
 
+Nerea le mostrò il fondo della bottiglia d'acqua. «Dopo mangiamo qualcosa? Non ho pranzato.»
+
+«Se scegli tu il posto», rispose Irene.
+
+«L'ultima volta hai detto che la pizza era troppo cara.»
+
+«Perché lo era. Diciotto euro per una margherita non sono una questione di principi, sono una truffa.»
+
+Nerea rise, sorpresa di riuscirci in mezzo ai cori.
+
+«Va bene. Ma stasera non mi chiedi di parlare di Bi.»
+
+«Non prometto niente», disse Irene. «Puoi chiedermi di non cominciare io.»
+
 Irene abbassò il cartello per riposare il braccio. Poi lo rialzò, dal lato su cui aveva scritto lei.

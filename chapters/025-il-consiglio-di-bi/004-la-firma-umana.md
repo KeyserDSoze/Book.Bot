@@ -17,6 +17,10 @@ factions:
   - faction:aruvhana
 ---
 
+La sera prima, l'amica con cui continuava a rimandare il cinema le aveva mandato la fotografia di due sedie vuote davanti a uno schermo: *Non ho più comprato i biglietti. Quando hai davvero tempo, chiamami*. Kyla non era arrabbiata con lei; era arrabbiata con se stessa, e per qualche minuto aveva scritto e cancellato risposte tanto educate da non significare niente.
+
+Alla fine aveva mandato soltanto: *Hai ragione*. Le era sembrata una frase molto più faticosa delle venti pagine di analisi economica che aveva finito poco dopo mezzanotte.
+
 Kyla portò la proposta finale nella sala riunioni il martedì successivo.
 
 Sul tavolo aveva due dossier.

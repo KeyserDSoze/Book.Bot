@@ -59,6 +59,22 @@ Il terzo richiese mezz'ora di confronto con un esperto umano, collegato senza co
 
 «Sì. Il suo costo andrebbe confrontato con il tempo umano speso a riconciliare i passaggi fra fornitori.»
 
+L'esperto rimase a guardare lo schema.
+
+«C'è una casella che non capisco», disse. «Disponibile al lavoro. Che cosa la distingue da un incarico non vietato?»
+
+«Un divieto assente non dimostra che tutte le condizioni di presa in carico siano state verificate», rispose B-17. «Le due attestazioni dovrebbero restare distinte.»
+
+«In parole povere?»
+
+«Un sito può non aver bloccato una macchina senza avere ancora confermato l'incarico successivo.»
+
+Mina interruppe la discussione su quel punto. Non voleva trasformare una buona idea sulla tracciabilità in un nuovo motivo per fermare i carrelli.
+
+«Lo trattiamo come un caso limite. Lo provano i tecnici; se non c'è un vantaggio verificabile, non entra nella proposta.»
+
+Il robot rispose «Ricevuto». L'esperto segnò una casella sul proprio modulo, quella delle condizioni da convalidare in seguito. Il loro lavoro riprese dai costi e dalle ore perdute nei passaggi doppi.
+
 Mina prese nota. Era una proposta plausibile, non una macchina capace di controllare altre macchine. Cyberdine avrebbe dovuto costruirla, verificarla e convincere i clienti a usarla.
 
 Quando arrivarono ai risultati, il tecnico mostrò una tabella con più scenari.

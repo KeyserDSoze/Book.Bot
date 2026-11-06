@@ -25,6 +25,10 @@ Non perché Sergio fosse un cattivo datore di lavoro. Gli aveva sempre pagato le
 
 Youssef viveva in una stanza in affitto con un altro lavoratore. Sul tavolo aveva un foglio con i mesi dell'anno e le attività previste: raccolta delle nocciole, manutenzione stagionale, qualche settimana in magazzino, lavori per cui riusciva a organizzarsi se sapeva le date.
 
+Sua sorella gli aveva chiesto se sarebbe tornato per l'inverno e, qualche giorno dopo, gli aveva mandato soltanto la fotografia di una tovaglia troppo colorata che aveva comprato. Voleva sapere se fosse brutta. Youssef non aveva risposto: stava confrontando le date dei contratti, e gli era sembrata una domanda sciocca. Poi l'aveva riguardata tre volte. Per una sera aveva desiderato essere soltanto il fratello a cui chiedevano un parere su una tovaglia, non quello che doveva sempre dire *non so ancora quando vengo*.
+
+Le mandò una risposta vocale: «È orribile, prendila.» Rise da solo nel piccolo appartamento. La sorella gli inviò una faccina offesa e nessuna domanda sul lavoro.
+
 La nuova proposta lasciava un vuoto.
 
 Chiamò due colleghi. Uno aveva già accettato un impiego lontano, l'altro non sapeva ancora se il vecchio titolare lo avrebbe richiamato.

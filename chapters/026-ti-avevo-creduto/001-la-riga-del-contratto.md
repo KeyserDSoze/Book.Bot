@@ -75,6 +75,10 @@ La riunione proseguì. Qualcuno domandò quanti posti sarebbero stati ricollocat
 
 Non erano trentuno persone tutte licenziate.
 
+La libreria di legno chiaro era ancora nel carrello di un negozio online. Nel frattempo il prezzo era aumentato di diciannove euro. Irene si rese conto di ricordare quella cifra meglio della percentuale di risparmio che aveva appena presentato. Avrebbe potuto comprarla anche senza una promozione. Non riusciva a togliersi dalla testa il pensiero che fra quattro mesi avrebbe potuto dover cambiare casa, e che ogni oggetto abbastanza pesante avrebbe rappresentato un problema.
+
+Si irritò con se stessa. Le stavano togliendo una funzione che aveva contribuito a migliorare, e lei pensava a due sedie di cucina occupate dai libri.
+
 Per Irene la distinzione era importante. Non la consolava.
 
 Alla fine Kyla le chiese di rimanere.
