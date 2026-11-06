@@ -25,6 +25,18 @@ Con il nuovo modulo il robot non ripeteva più soltanto il numero di stanza. Se 
 
 Ada non cercava miracoli. Aveva quarantasette dipendenti, un budget che cambiava ogni trimestre e un edificio troppo vecchio per qualunque promessa di automazione totale.
 
+Sul calendario personale Ada aveva un appuntamento dal parrucchiere, alle diciotto del giorno dopo. Lo aveva già spostato due volte, una per una febbre improvvisa in reparto, l'altra perché la responsabile amministrativa le aveva chiesto di restare a controllare un inventario. Non era un evento importante. Aveva semplicemente cominciato a infastidirsi quando si guardava nello specchio dell'ascensore.
+
+«Se domani finisco il mio giro in tempo, tu esci alle sei?», le chiese Giulia.
+
+«Sì.»
+
+«Sul serio?»
+
+«Non provocarmi.»
+
+Giulia sorrise. Ada chiuse il calendario prima di dover promettere una terza volta.
+
 Il problema cominciò un martedì alle undici.
 
 Un robot portò una bottiglia d'acqua e una coperta leggera nella sala comune, secondo un incarico validato dall'operatrice. Si fermò presso una poltrona e chiese: «La consegna deve essere completata qui? La persona indicata risulta in un'altra stanza.»

@@ -18,6 +18,10 @@ factions:
 
 Amir aveva imparato a temere soprattutto le persone che dicevano «è solo un pulsante».
 
+La domenica precedente Amir aveva saltato la partita di calcetto con gli amici per sostituire un collega. Lunedì gli avevano mandato una fotografia della squadra: avevano vinto anche senza di lui e glielo avevano ricordato in tutti i messaggi successivi. Amir aveva risposto con una faccina offesa e poi aveva chiesto se la domenica seguente ci fosse ancora posto.
+
+Nessuno dei suoi amici era disposto a considerare «il robot aspetta un'autorizzazione» una spiegazione interessante per non presentarsi a giocare. Amir non poteva dar loro torto.
+
 Quando arrivò al pannello della baia quattro, un responsabile gli indicò il comando di ripresa.
 
 «Se lo premiamo da qui?»

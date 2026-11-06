@@ -16,7 +16,11 @@ factions:
 
 Mei Lin rimase davanti alla schermata di assistenza fino a quando il caffè le diventò freddo.
 
-A Suzhou erano le otto e mezza del mattino. Dall'altra parte del vetro due tecnici provavano un braccio robotico con una pinza troppo morbida per sollevare ciò che avrebbe dovuto sollevare. Uno dei due continuava a cambiare la posizione del contenitore; l'altro prendeva appunti. Mei conosceva quella categoria di problema: un oggetto può essere perfettamente a posto e completamente inutile rispetto alla richiesta che gli viene fatta.
+A Suzhou erano le otto e mezza del mattino. Sul bordo della scrivania c'era l'orologio che sua madre le aveva lasciato anni prima. Perdeva due minuti ogni settimana. Mei era capace di riconoscere uno scarto minimo in un sistema di attestazioni, ma per quell'orologio continuava a dire «lo faccio domenica» da mesi. La madre le aveva mandato il contatto di un riparatore e poi aveva smesso di domandare.
+
+Mei guardò le lancette, anticipò mentalmente di due minuti l'ora della prossima riunione e lasciò il quadrante dov'era.
+
+Dall'altra parte del vetro due tecnici provavano un braccio robotico con una pinza troppo morbida per sollevare ciò che avrebbe dovuto sollevare. Uno dei due continuava a cambiare la posizione del contenitore; l'altro prendeva appunti. Mei conosceva quella categoria di problema: un oggetto può essere perfettamente a posto e completamente inutile rispetto alla richiesta che gli viene fatta.
 
 Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberdine.
 

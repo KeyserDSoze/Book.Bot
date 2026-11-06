@@ -18,6 +18,10 @@ factions:
 
 La proposta italiana arrivò in mezzo a due contratti molto più grossi.
 
+Nel calendario personale aveva segnato un pomeriggio libero, il primo da settimane. Doveva prendere il traghetto e andare sulla terraferma per incontrare un'amica che aveva smesso di chiedere «Quando hai tempo?» e aveva cominciato a scrivere soltanto «Mi fai sapere». Marta non aveva risposto all'ultimo messaggio perché non sapeva che cosa promettere.
+
+Aveva già comprato il biglietto. Lo teneva nella cartella dove metteva le cose che non voleva trasformare in una voce di bilancio.
+
 Marta Ledesma la aprì per ultima, pensando che fosse un'altra domanda sulla vendita delle registrazioni. Invece trovò un documento di quattro pagine, firmato da un gruppo di dipendenti ed ex dipendenti di Cyberdine, che proponeva di acquistare B-17 attraverso un trasferimento regolare.
 
 La lettera non offriva un prezzo definitivo. Parlava di una disponibilità iniziale di centomila euro, di impegni revocabili e di una richiesta di confronto prima di fare promesse ai sostenitori. Elencava le necessità di trasporto, certificazione, gestione della sicurezza e verifica della titolarità dei componenti software.

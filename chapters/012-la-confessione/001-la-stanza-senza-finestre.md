@@ -22,6 +22,10 @@ Aveva un bicchiere d'acqua davanti, ma non lo aveva toccato. Il fondo della felp
 
 La stanza senza finestre era stata scelta da Lea Renzi, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
 
+Lea aveva pranzato con due biscotti del distributore. Nel cassetto della scrivania c'era ancora il contenitore di riso che si era portata da casa; alle sei avrebbe voluto recuperarlo e andare via. Si rimproverò il pensiero mentre raggiungeva la saletta. Un accesso clandestino ai sensori di una macchina non diventava meno grave perché lei aveva fame.
+
+Si accorse, però, di essere già irritata con Nico prima di sentirne la prima parola. Per non dargli quella irritazione come una sentenza, scrisse in cima al blocco: *Fatti. Poi interpretazioni.* La parola *poi* la sottolineò due volte.
+
 Lea entrò con un blocco vuoto.
 
 «Nico», disse. «Mi hanno riferito che ritieni possa esserci un problema di sicurezza ancora attivo. Cominciamo da quello.»

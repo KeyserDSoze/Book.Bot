@@ -43,6 +43,8 @@ Amir aprì il foglio degli straordinari.
 
 «Le ore non si spostano soltanto da una squadra all'altra. In parte non servono più.»
 
+La settimana prima Sofia aveva negato la richiesta di un secondo microonde nella sala mensa. Non perché costasse molto, ma perché il budget delle piccole attrezzature era già stato assorbito da una riparazione urgente. La collega che glielo aveva chiesto aveva risposto: «Tu sai dire soltanto di no». Sofia ci pensava ancora. Un robot che proponeva turni migliori riceveva ringraziamenti; lei firmava anche le richieste meno importanti, e qualcuno doveva restare arrabbiato con lei per un pranzo che si raffreddava.
+
 Sofia lesse due volte.
 
 «Non possiamo eliminare tutti gli straordinari.»
