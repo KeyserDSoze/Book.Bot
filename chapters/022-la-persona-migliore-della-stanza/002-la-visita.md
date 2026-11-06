@@ -14,7 +14,7 @@ characters:
 locations:
   - location:centro-assistenza-ada
 factions:
-
+  - faction:lanter-robotics
 ---
 
 Elisa Marin arrivò con trentaquattro minuti di ritardo e una torta che sua madre non avrebbe dovuto mangiare tutta.
