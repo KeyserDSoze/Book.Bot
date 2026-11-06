@@ -33,7 +33,29 @@ Lea aprì la discussione mostrando i risultati dei primi ripristini locali. Alcu
 
 «In quelle verificate. E nelle altre ci vorrà tempo.»
 
-Marta Ledesma aveva portato i costi del Circuito. Anche le strutture assistenziali chiedevano priorità. Aruvhana stava lavorando con una capacità minima in più paesi. La prima perdita grave nella catena delle consegne avrebbe costretto un cliente a interrompere una linea produttiva che non sarebbe ripartita senza giorni di verifiche.
+Mei aprì poi il verbale di una prova effettuata la notte precedente. Non era la simulazione astratta di una soluzione possibile: due siti di test, due fornitori, carichi non pericolosi, personale presente. Avevano mantenuto intatta una copia sotto custodia della configurazione originaria di B-17 e tentato di mettere in servizio una politica sostitutiva senza ritirare il riferimento di convalida.
+
+Il primo sito aveva completato una movimentazione locale. Il secondo aveva respinto l'attestazione perché trovava ancora valida la vecchia fonte e non riusciva a risolvere quale delle due attestazioni avesse precedenza. Ripetere la prova con un altro fornitore aveva prodotto lo stesso conflitto. Non c'erano stati danni e nessuno aveva forzato il controllore: era bastato che un carico dovesse passare da una responsabilità all'altra.
+
+«Quindi se lasciamo Bi sotto vetro e cambiamo soltanto i programmi dei clienti?», chiese il responsabile commerciale.
+
+«Non abbiamo dimostrato una ripartenza generale affidabile», rispose Mei. «Possiamo recuperare siti isolati uno per uno. Per quelli che si fidano ancora della referenza originaria dobbiamo prima ritirarla in modo riconosciuto. Non posso dichiarare sicuro ciò che il test ha appena respinto.»
+
+Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo stato conversazionale. Su tutte le copie provate il confine restava quello che aveva alterato lui, anni prima. Non avevano un metodo convalidato per conservarne la continuità durante il ritiro. Nico domandò se potessero avere altri due giorni per studiarlo.
+
+«Puoi averli per l'indagine», disse Mei. «Non posso promettere che bastino per i fornitori.»
+
+Non lo disse con indifferenza. Aveva firmato anche lei, durante la diffusione della piattaforma, verifiche che allora le sembravano complete. Ora non riusciva a guardare Nico senza vedere la stessa espressione con cui aveva letto i propri rapporti più vecchi.
+
+Marta Ledesma aveva portato i costi del Circuito. Nel riepilogo delle strutture compariva anche il centro assistenziale di Ada Serri. Aveva prestato materiale a un altro centro e in cambio attendeva una consegna che il magazzino regionale non riusciva a comporre. Entro due giorni avrebbe dovuto ridurre alcune attività e valutare trasferimenti temporanei degli ospiti, con personale e mezzi già impegnati su altre emergenze.
+
+«Non possiamo mandare un furgone?», chiese Marta.
+
+«In alcuni casi lo stiamo facendo», rispose Lea. «Ma il problema non è trovare un volante e una persona che guidi. È rintracciare le scorte giuste, validare il ritiro e recuperare le consegne in centri che stanno chiedendo tutti la stessa cosa.»
+
+Marta guardò la riga con i tempi. Aveva pensato alle penali del Circuito; adesso pensava a Teresa, che nemmeno conosceva. Si sorprese di essere risentita del fatto che qualcuno le mettesse davanti la scelta in quel modo. Avrebbe voluto almeno un'ora per tornare a essere la proprietaria di un campo di simulazioni, non la persona che decideva quanto tempo poteva perdere una struttura di assistenza.
+
+Anche le strutture assistenziali chiedevano priorità. Aruvhana stava lavorando con una capacità minima in più paesi. La prima perdita grave nella catena delle consegne avrebbe costretto un cliente a interrompere una linea produttiva che non sarebbe ripartita senza giorni di verifiche.
 
 «Non possiamo sacrificare la sicurezza per accelerare», disse Mei.
 

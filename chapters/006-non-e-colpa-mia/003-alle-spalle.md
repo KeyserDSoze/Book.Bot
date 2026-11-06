@@ -24,6 +24,14 @@ Il primo rumore fu una cosa ordinaria: le ruote del carrello che Bi spingeva sop
 
 Il robot avanzava lungo il corridoio di servizio, diretto all'archivio. Portava un contenitore con i fascicoli preparati per la mattina successiva. Dietro di lui, Dario e Mauro camminavano ancora parlando della riunione.
 
+«Dovrei andare», disse Mauro. Guardò il telefono: un pacco lo aspettava al punto di ritiro vicino a casa, che avrebbe chiuso tra poco. Dentro c'erano scarpe ordinate della misura sbagliata e da restituire entro il giorno dopo.
+
+«Vai», rispose Dario.
+
+«E ti lascio qui che continui a borbottare da solo?»
+
+Dario sorrise appena. Mauro rimise via il telefono. Avrebbe potuto salutare e prendere l'ascensore. Continuò invece lungo il corridoio, irritato di avere perso un altro pomeriggio per una discussione che non finiva.
+
 «Non è servita a niente», disse Mauro.
 
 «Sono bravi a dire che ti ascoltano.»

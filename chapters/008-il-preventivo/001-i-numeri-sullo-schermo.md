@@ -28,6 +28,16 @@ Non c'era un robot in vista.
 
 Era passato abbastanza tempo dall'aggressione perché l'azienda avesse riaperto regolarmente il corridoio di servizio e distribuito i fascicoli che Bi trasportava quella sera. Non abbastanza perché tutti smettessero di abbassare la voce quando ne parlavano.
 
+Cinque minuti prima, dietro il telo che separava il palco dalla sala, Verri aveva chiesto a Kyla se la camicia gli si fosse macchiata di caffè. Lei aveva controllato il colletto.
+
+«È pulita.»
+
+«Sei sicura?»
+
+«Lorenzo, nessuno è venuto per vedere il tuo colletto.»
+
+«Io sì», aveva risposto lui, e aveva cercato di sorridere. Kyla aveva capito che era nervoso. Le era parso quasi rassicurante, poi si era irritata perché toccava a lei tranquillizzarlo proprio nella giornata in cui avrebbe dovuto spiegare ai colleghi decisioni dure.
+
 Verri salì sul piccolo palco con il telecomando nella mano sinistra e un foglio piegato nella destra.
 
 «Partiamo dai numeri.»
