@@ -48,3 +48,9 @@ L'esportazione genera un PDF editoriale nel formato libro **6x9 pollici**, con c
 La guida visiva si trova in art/visual-bible.md. Le tavole attuali usano oggetti e silhouette riproducibili; per eventuali immagini realistiche di personaggi ricorrenti occorreranno reference sheet approvate e gli stessi asset di riferimento, non generazioni indipendenti. Il sistema è versionato insieme al manoscritto.
 
 Per rigenerare l'edizione: installare le dipendenze Python in tools/requirements.txt e Pandoc, poi eseguire python tools/build.py. La conversione da DOCX a PDF viene eseguita nella pipeline GitHub tramite LibreOffice.
+
+## Revisione corale v0.31.0
+
+La nuova lettura di BOT rafforza la vita di ogni personaggio oltre il confronto sui robot: amici che non si vedono, acquisti rinviati, sport per principianti, turni, figli, conversazioni familiari banali e bisogni non dichiarati. Le modifiche sono state integrate in **34 scene** canoniche senza cambiare la struttura di 35 capitoli né il finale.
+
+La guida alla caratterizzazione è in [`guidelines/personaggi-vita-privata-e-contraddizioni.md`](guidelines/personaggi-vita-privata-e-contraddizioni.md); il rapporto di revisione è in [`reviews/revisione-arco-corale-v0.31.0.md`](reviews/revisione-arco-corale-v0.31.0.md). Le schede `characters/`, lo stato e la timeline sono state aggiornate per preservare i desideri quotidiani nel lavoro successivo. Rimangono volutamente aperte alcune questioni morali e operative; la review non dichiara risolto ogni difetto letterario.
