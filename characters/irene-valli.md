@@ -35,3 +35,8 @@ Nel capitolo 2 Irene compare al termine di una riunione con Adriana e ricorda a 
 ## Capitolo 21
 
 Irene controlla la provenienza di un originale e domanda chi avrà la responsabilità delle eccezioni se verrà estesa ai turni serali la preparazione automatica delle pratiche. L'estensione è soltanto proposta. Il ruolo senior di Adriana resta non riaperto e Irene non ottiene una promozione.
+
+
+## Capitolo 22
+
+Irene riceve un ulteriore rifiuto per una candidatura esterna di coordinamento, nonostante abbia preparato in forma anonima la cartella dei trentaquattro esempi. Discute con Nerea la differenza fra i vantaggi operativi dei robot e le nuove opportunità di lavoro che non si aprono. Non è stata licenziata, né promossa.

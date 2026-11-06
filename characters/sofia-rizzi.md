@@ -15,3 +15,8 @@ Sotto il nuovo pacchetto di collaborazione di Lanter Robotics è costretta a ris
 ## Il costo economico del fermo
 
 Durante la sospensione della baia quattro, Sofia certifica su richiesta del vettore che l'attesa deriva da una verifica interna del magazzino, invece di indicare genericamente una partenza in ritardo che potrebbe negargli il compenso. Registra anche le ore di lavoro manuale e gli avalli rimasti incompleti. L'autista riprende la scena per documentarla; il video, ripubblicato senza il contesto, diventa la notizia dello «sciopero» robotico.
+
+
+## Capitolo 23
+
+Sofia autorizza un pilota di sei settimane per la pianificazione delle turnazioni proposta da B-37 in risposta a diciannove firme di dipendenti. Controlla gli avalli, il rispetto dei riposi e le eccezioni. I processi migliorano e il ricorso agli straordinari cala; su decisione della direzione due contratti di somministrazione non vengono rinnovati. Sofia non attribuisce la responsabilità a B-37 e comunica con Rosa, che perde ore aggiuntive.

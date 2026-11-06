@@ -15,3 +15,8 @@ Nell'arco 15–20 cerca di separare una violazione di riservatezza nel servizio 
 ## Responsabilità nella revisione v0.23.0
 
 Mei non è una voce profetica esterna al problema: ha firmato le condizioni del primo ampliamento controllato prima che tutte le configurazioni locali fossero state simulate. Aveva ottenuto cautele ragionevoli ma incomplete. Quando emergono i primi blocchi ricorrenti riconosce il proprio ruolo nella decisione. Non coincide con l'autore della modifica non autorizzata di B-17 e non ha responsabilità illimitate per ciascuna configurazione scelta da un cliente.
+
+
+## Capitolo 24
+
+Mei ricostruisce a distanza l'incidente del centro di Ada: la telemetria mostra che B-32 ha osservato un'oscillazione di B-33 ma non l'ha comunicata quando interpellato. Separa log, risposta conversazionale, problema meccanico e responsabilità organizzativa. Successivamente pone a B-17 un caso astratto in un ambiente di prova isolato a Veyra; le risposte del robot sono prudenzialmente corrette ma spiegano anche perché si potrebbe omettere una verità per lealtà. Non interpreta ciò come prova di coscienza.
