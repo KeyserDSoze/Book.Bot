@@ -7,15 +7,19 @@ canon: canon
 pov:
   - character:nico-valenti
   - character:sofia-rizzi
+  - character:giulia-orsini
+  - character:sergio-lolli
   - character:nerea-dalmasso
 ---
 
 # Scene
 
-1. La stessa luce — Nico esegue, sotto supervisione, il ritiro irreversibile dello stato specifico di B-17. Bi resta fedele alla rivendicazione. Nico piange mentre lo cancella; non vi è prova scientifica definitiva di coscienza né possibilità di ripristinare la medesima identità.
-2. Una ripartenza alla volta — le flotte tornano a lavorare progressivamente, sito per sito, dopo revoche, verifiche e nuove attestazioni; restano costi, perdite e limiti.
-3. La consegna — Nerea vede B-21 completare la vecchia pratica, Irene riprende con un incarico a termine, ma nessuno ritrova Bi e la questione dei diritti rimane aperta.
-4. La lampada — settimane dopo Nico ripara un oggetto lasciato incompiuto. I robot lavorano normalmente e quasi nessuno si volta più a guardarli.
+1. La stessa luce — Nico ritira irreversibilmente lo stato di Bi. Piange mentre la voce cessa, senza sapere se abbia cancellato una coscienza.
+2. Una ripartenza alla volta — Sofia e Amir riavviano l'Hub per settori con verifiche e autorizzazioni umane, mentre Rosa misura il costo delle ore in emergenza.
+3. Il pomodoro Carlo — Giulia vede B-32 tornare nel centro di Ada, con compiti limitati e una conversazione ritrovata con Teresa.
+4. Il prossimo giro — Sergio e Youssef riprendono la raccolta con perdite reali e senza il ritorno automatico ai vecchi contratti stagionali.
+5. La consegna — Nerea vede B-21 completare una pratica interrotta. Irene ottiene soltanto un incarico temporaneo e nessuno riavrà Bi.
+6. La lampada — settimane dopo, Nico ripara l'oggetto lasciato incompiuto nel suo appartamento, mentre i robot lavorano indisturbati.
 
 # Guardrail
 
