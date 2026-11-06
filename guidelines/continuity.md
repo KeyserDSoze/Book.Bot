@@ -172,3 +172,12 @@ La materia di Cyberdine e Aruvhana resta deliberatamente non specificata in pubb
 - **20/001:** il rinvio delle dimostrazioni mette a rischio anche giornate già prenotate per i collaboratori del Circuito; Marta chiede di conteggiarle esplicitamente. **20/003:** il consulente verifica che il test negativo omesso da Nico fosse **anteriore** all'aggiornamento non autorizzato, chiedendo conferma sui registri originali; nessuno deduce per questo che Lanter abbia lo stesso bug. **20/005:** Mina chiude la porta della sala dopo il fermo temporaneo senza formulare certezze sulla futura voce di Bi. La replica di Nerea non è stata recapitata a B-17.
 
 Fili **non** risolti: audit e futura configurazione, provenienza e liceità dei casi Lanter, fonte del giornalista, contratto di Nico, messaggio non recapitato, sirena e credenziali di Valle Corta, identità economica di Cyberdine/Aruvhana.
+
+
+## Capitolo 21 — Quello che è rimasto
+
+- B-17 partecipa soltanto a sessioni conversazionali locali, con controllo indipendente e profilo di sicurezza limitato. **Non è tornato al lavoro ordinario** e la sua configurazione non è stata certificata. Nessuna backdoor è riaperta o definitivamente dichiarata eliminata.
+- La replica di Nerea, «Grazie. La racchetta è ancora qui», **non recapitata nel capitolo 20**, è letta da Mina nel capitolo 21, scena 2. La successiva richiesta di Bi di far sapere che l'ha ricevuta richiede un'autorizzazione distinta.
+- Nerea incontra Bi tre giorni dopo: riconosce la voce e alcuni ricordi, ma il sistema non può confermare il motivo dichiarato in passato per perdere apposta a ping pong. Non trattare questo fatto come una perdita definitiva di coscienza o come prova di continuità personale.
+- A Cyberdine B-21 resta efficiente e privo della memoria di B-17. L'estensione serale del processo è una **proposta**, non un'automazione già avviata: Irene domanda chi approverà le eccezioni in sua assenza. Il suo posto senior desiderato resta chiuso.
+- Continuità del romanzo: niente POV interno certo del robot, nessuna conclusione assoluta sui suoi diritti, nessuna infrastruttura di controllo universale introdotta senza preparazione narrativa e tecnica.

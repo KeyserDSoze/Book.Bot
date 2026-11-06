@@ -30,3 +30,8 @@ Irene ritiene paradossale destinare 100.000 euro al tentativo di ricomprare Bi m
 ## Prima presenza e filo dei documenti
 
 Nel capitolo 2 Irene compare al termine di una riunione con Adriana e ricorda a Mila di verificare il registro originale invece di fidarsi di un file intitolato «versione finale». Nel capitolo 7 è proprio Irene a trovarsi davanti a due versioni dichiarate finali; l'insegnamento ricevuto si converte in azione e in una procedura di continuità che B-21 userà nel capitolo 9. La sua cartella con **34 esempi** raccolti per il colloquio senior mai aperto ritorna nel capitolo 13, quando Irene la usa per candidarsi altrove.
+
+
+## Capitolo 21
+
+Irene controlla la provenienza di un originale e domanda chi avrà la responsabilità delle eccezioni se verrà estesa ai turni serali la preparazione automatica delle pratiche. L'estensione è soltanto proposta. Il ruolo senior di Adriana resta non riaperto e Irene non ottiene una promozione.

@@ -48,3 +48,8 @@ Valle Corta è stata riconosciuta come zona abitata nelle verifiche, e la sirena
 ## Consenso alla lettera — v0.17.0
 
 Dopo il confronto con Nico, Nerea non torna ingenuamente a una comunicazione senza limiti: chiede a Kyla come passerebbe il messaggio presso il Circuito, accetta la possibilità che un referente umano autorizzato lo legga e che restino tracce di gestione, rifiuta l'impiego pubblicitario e non inserisce credenziali o informazioni private delle persone della valle. Vuole essere ascoltata senza pretendere un diritto assoluto a una conversazione incontrollata. Il suo incontro con Nico è avvenuto il giorno successivo all'informativa della sicurezza, per sua scelta.
+
+
+## Capitolo 21 — Il ritorno a Veyra
+
+Nerea visita Veyra tre giorni dopo la consegna mediata al robot della sua risposta. Ritrova la voce di Bi ma nota differenze nel modo in cui usa e verifica il contesto; in particolare non riesce a recuperare con lui la spiegazione delle sconfitte deliberate a ping pong. Accetta il perimetro supervisionato senza pretenderne la riattivazione completa. Bruno continua a occuparsi della documentazione relativa a Valle Corta; la copertura alternativa e le credenziali storiche non sono risolte.
