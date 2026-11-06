@@ -42,3 +42,8 @@ Paolo vede Nico nel capitolo 2 davanti alla prima fotocopia completamente bianca
 ## Capitolo 30
 
 A Cyberdine Paolo assiste al fermo improvviso di B-21 durante una consegna. Recupera le procedure manuali preparate in passato con Irene, ma constata che le risorse di rinforzo previste per guasti parziali non possono coprire simultaneamente tutti i processi. Non forza la macchina e non dispone di una soluzione per un arresto globale.
+
+
+## Capitoli 31 e 35
+
+Paolo recupera con Irene i registri originali e le procedure manuali in emergenza, poi controlla che la cartellina sospesa di B-21 non sia già stata trattata prima di accettare la sua consegna finale. Non confonde continuità documentale con la ricreazione della relazione personale che alcuni colleghi avevano sviluppato con B-17.

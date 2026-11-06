@@ -13,3 +13,8 @@ Agricoltore che gestisce un noccioleto a Colle Alto. Affitta raccoglitrici auton
 ## Capitoli 28 e 30
 
 Sergio difende la scelta di noleggiare raccoglitrici perché, senza il risparmio, la sua azienda rischierebbe la chiusura. Propone a Youssef alcune giornate di verifica e manutenzione, meno di quelle di una stagione tradizionale. Il giorno successivo al voto della legge, **alle 17:00**, entrambe le raccoglitrici si fermano in modo controllato pur avendo energia disponibile. Il normale comando locale di ripresa non funziona. Sergio recupera i teli manuali, ma non ha la squadra né l'attrezzatura di una volta. Non sa perché le macchine si siano fermate; il divieto italiano non le riguarda.
+
+
+## Capitoli 31 e 35
+
+Sergio subisce il blocco delle raccoglitrici al momento in cui avrebbe bisogno di completare la stagione. L'aiuto manuale di Youssef non può sostituire il volume precedente. Dopo il ritorno graduale delle macchine recupera una parte del raccolto ma perde merce e margini; non assume nuovamente sette stagionali per il futuro, perché i conti non lo consentono.

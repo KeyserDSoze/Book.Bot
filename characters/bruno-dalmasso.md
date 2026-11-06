@@ -15,3 +15,8 @@ Non assolve Nerea semplicemente perché le sue intenzioni erano buone. È una pe
 ## Capitolo 30
 
 Bruno è a Valle Corta quando i robot in diverse aree italiane si fermano alle 17:00. Contatta Nerea e riferisce che la vecchia sirena mantiene un percorso locale di verifica distinto dalle nuove flotte robotiche; l'accertamento complessivo sulla copertura alternativa e sulle credenziali storiche non è concluso. Sono a rischio anche le consegne ordinarie alla valle, compresi medicinali attesi da alcuni abitanti.
+
+
+## Capitolo 31
+
+Bruno coordina con Nerea un'autorizzazione regolare per il ritiro fisico di medicinali urgenti destinati a Valle Corta; guida un vecchio furgone e attende al deposito. La vecchia sirena conserva un percorso di controllo locale funzionante, senza risolvere automaticamente le credenziali storiche ancora sotto verifica. Non considera il ritorno ai vecchi sistemi una soluzione romanticamente migliore.
