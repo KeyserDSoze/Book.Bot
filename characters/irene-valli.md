@@ -45,3 +45,8 @@ Irene riceve un ulteriore rifiuto per una candidatura esterna di coordinamento, 
 ## Capitoli 25–30 — Il lavoro e la legge
 
 Irene corregge le ipotesi di automazione del contratto Aruvhana, chiedendo di mantenere tracciabilità dei dati e avalli umani. Dopo il rinnovo condizionato del cliente, la direzione Cyberdine decide di non proseguire la sua posizione alla scadenza: le restano quattro mesi e non le viene offerto un nuovo posto sicuro. Diciotto mesi dopo svolge incarichi saltuari e cerca nuove occasioni professionali, molte delle quali non diventano assunzioni. Partecipa alle proteste con Nerea **senza chiedere lo spegnimento generale dei robot**; reclama criteri di distribuzione dei benefici e responsabilità umana. Nel capitolo 29 festeggia l'approvazione della legge mirata in Piazza Montecitorio, precisando che il voto non le restituirà il ruolo perso. Non appare come causa tecnica né come organizzatrice dell'arresto mondiale del 30.
+
+
+## Capitoli 31–35 — Una normalità senza garanzie
+
+Irene torna a Cyberdine per alcune giornate retribuite di verifica delle procedure manuali, utili durante l'emergenza. Rifiuta la semplificazione secondo cui lo stop robotico sarebbe automaticamente uno sciopero: per lei bisogna stabilire chi abbia scelto e potuto dissentire. Dopo la ripartenza ottiene un incarico a termine di **tre mesi** per il controllo di alcuni processi di continuità, non il posto senior un tempo soppresso e non un impiego stabile. Sostiene Nerea dopo la notizia della cancellazione di Bi. I problemi distributivi che hanno attraversato il romanzo restano irrisolti.

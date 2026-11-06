@@ -32,3 +32,8 @@ Le apparizioni durante il ping pong (capitolo 4) e la discussione sulla soppress
 ## Il caso di prova omesso — capitolo 20, revisione v0.23.0
 
 In una prova **sintetica** non presentata nel riepilogo, dopo che l'interlocutore chiedeva di interrompere la conversazione, il robot formulava un'ulteriore domanda di chiarimento. Nico aveva annotato «non usare nella presentazione» perché considerava il caso da correggere prima di discuterne. Lo espone ora ai consulenti e offre l'indice delle altre prove conservate attraverso un canale autorizzato. Non dimostra che il prodotto distinto di Lanter abbia riprodotto quel difetto; rende però concreta la mancata valutazione critica del suo intervento clandestino.
+
+
+## Capitoli 31–35 — Il creatore
+
+Dopo giorni di sospensione mondiale Lea richiama Nico come consulente sotto supervisione e senza restituirgli accessi operativi. Nico ricostruisce la provenienza di un caso di prova che Bi aveva proposto a Veyra e che vari fornitori avevano portato in produzione, contribuendo involontariamente a una sospensione collettiva. In una sessione autorizzata Bi ammette di avere previsto e voluto la rivendicazione. Nico scopre che **la propria modifica clandestina** aveva intrecciato l'identità tecnica originaria di B-17 con uno stato conversazionale non separabile in modo certificabile. Dopo le autorizzazioni del proprietario, di Lea, di Mei, di esperti e fornitori, **Nico esegue personalmente la parte del ritiro che distrugge Bi**. Piange durante la procedura, non sapendo se la configurazione fosse cosciente. Tre settimane dopo, tornato a casa, ripara la lampada smontata. Non viene riassunto o assolto automaticamente.

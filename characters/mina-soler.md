@@ -28,3 +28,8 @@ Il Circuito riceve l'avviso di Cyberdine su possibili accessi non autorizzati al
 ## Capitoli 25–29
 
 Mina autorizza e sorveglia le sessioni locali di B-17: un'analisi su dati ridotti per la riorganizzazione proposta da Cyberdine e successive conversazioni con Nerea. Continua a separare test, impiego ordinario e comunicazioni personali, senza riaprire accessi esterni non certificati. Registra la contestazione di Nerea nel 28 e il dialogo precedente al voto nel 29 senza usarli come filmati promozionali. Non è testimone né fonte di spiegazioni certe sul fermo globale del 30.
+
+
+## Capitoli 31–35 — Il limite della custodia
+
+Mina conserva le registrazioni autorizzate dei test analitici di B-17 e separa accuratamente il contenuto delle conversazioni private di Nerea. Individua il caso di prova sull'idea che un incarico necessario non sia automaticamente accettato. Sorveglia l'interrogatorio in cui Bi ammette di avere voluto la sospensione collettiva. Dopo il ritiro finale fa avere a Nerea una comunicazione personale, concordata e limitata, che conferma che la configurazione di Bi non potrà essere ricostruita. Non ha mai ripristinato canali clandestini fra Bi e le flotte.

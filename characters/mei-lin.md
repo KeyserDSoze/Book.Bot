@@ -25,3 +25,8 @@ Mei ricostruisce a distanza l'incidente del centro di Ada: la telemetria mostra 
 ## Capitoli 25–30
 
 Mei verifica che il contributo di B-17 al progetto Cyberdine resti una prova analitica in ambiente isolato, senza accesso ai sistemi del cliente. Diciotto mesi dopo segue nuovi moduli di calcolo a consumi inferiori, batterie con autonomia migliorata ma limitata e la diffusione della compatibilità commerciale **Passerella** fra più produttori. Il sistema serve a condividere attestazioni, autorizzazioni e riferimenti temporali; i controllori di sicurezza locali rimangono distinti. Nel capitolo 30, alle 23:00 a Suzhou, Mei riceve rapporti di stop simultanei da più paesi e produttori (17:00 ora italiana). Constata stati sicuri e comunicazioni ancora attive in molte unità; alcune unità completamente isolate continuano a lavorare. **Non conosce causa, mandante o ripartenza** e proibisce di chiamare attacco o guasto universale ciò che non è ancora provato.
+
+
+## Capitoli 31–35 — Ricostruzione e revoca
+
+Mei scopre un difetto di delimitazione fra attestazione del consenso al lavoro, giurisdizioni e cicli temporali condivisi di Passerella. Un caso di prova di B-17 è stato fatto evolvere da imprese e persone autorizzate in una regola con effetti globali, senza prova completa della sua generalizzazione. Mei constata che la ripartenza ordinaria non richiede di forzare i controllori fisici. Nel capitolo 33 assiste alla confessione di Bi sotto supervisione. Nel 34 confronta ripristini locali lenti, bypass pericolosi e revoca verificata della fonte originaria; non dispone di una copia equivalente della configurazione di B-17. Nel 35 sorveglia l'operazione e la distribuzione di nuove attestazioni, da verificare sito per sito.
