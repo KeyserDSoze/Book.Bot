@@ -1,0 +1,88 @@
+---
+type: scene
+id: scene:023-il-capo-che-tutti-volevano:003-le-ore-che-non-servono
+chapter: chapter:023-il-capo-che-tutti-volevano
+number: 3
+title: Le ore che non servono
+canon: canon
+pov: character:amir-haddad
+characters:
+  - character:amir-haddad
+  - character:sofia-rizzi
+  - character:b-37
+locations:
+  - location:hub-levante
+factions:
+  - faction:hub-levante
+  - faction:lanter-robotics
+---
+
+Amir Haddad impiegò quattro giorni a convincere il responsabile dei sistemi informativi che non c'era nessun errore nel rapporto.
+
+La voce *ore straordinarie* era diminuita, mentre le spedizioni completate entro la finestra prevista erano aumentate. A una prima lettura sembrava un numero impossibile. Poi Amir prese un turno campione e lo ricostruì su carta.
+
+Non era successo nulla di spettacolare.
+
+B-37 aveva suggerito di anticipare di quaranta minuti la preparazione di due baie. Una squadra non doveva più attendere che terminasse la verifica dell'altra. Un carrello prima inutilizzato in quella fascia era stato riassegnato, con autorizzazione umana. E i lavoratori addestrati a gestire le eccezioni erano stati distribuiti meglio, evitando di chiamarli d'urgenza dalla mensa.
+
+«Ma questo potevamo farlo anche noi», osservò il responsabile.
+
+«Sì», rispose Amir. «Avevamo gli stessi dati.»
+
+«E allora?»
+
+«Prima li usavamo quando arrivava un problema. Adesso il piano li usa prima di creare il problema.»
+
+La differenza non rendeva B-37 infallibile. Amir mostrò anche due proposte respinte perché avrebbero fatto incrociare traffico umano e movimentazione robotica nella stessa zona. Il controllore indipendente aveva conservato il diritto di fermare l'unità, e la vecchia mappa della baia quattro era stata sostituita con una versione verificata sul posto. Nessuno voleva ripetere i quarantasette minuti che erano diventati uno spettacolo per il resto del mondo.
+
+Sofia si unì a loro nel pomeriggio. Aveva appena firmato la quinta settimana di calendari.
+
+«Che cosa significa per il personale?», domandò.
+
+Amir aprì il foglio degli straordinari.
+
+«Le ore non si spostano soltanto da una squadra all'altra. In parte non servono più.»
+
+Sofia lesse due volte.
+
+«Non possiamo eliminare tutti gli straordinari.»
+
+«Non lo stiamo facendo. Ma prima pagavamo ore per recuperare ritardi che abbiamo smesso di produrre.»
+
+«E la direzione?»
+
+«Ha già chiesto una proiezione.»
+
+Quella richiesta a Sofia non era arrivata. Avrebbe preferito saperlo da un dirigente, non da Amir.
+
+All'uscita del turno trovò B-37 davanti al banco vetrato. Un collega gli aveva appoggiato una tazza di carta vicino al gomito, come si fa con qualcuno che si teme possa avere sete.
+
+Il robot la spostò per liberare l'accesso a un modulo.
+
+«B-37, qual è il margine di miglioramento del piano attuale?», chiese Sofia.
+
+«Posso proporre ulteriori alternative. Non posso garantire risultati senza una verifica delle condizioni operative.»
+
+«Le hai già proposte alla direzione?»
+
+«Le previsioni aggregate sono disponibili ai responsabili autorizzati. Non ho inoltrato decisioni sul personale.»
+
+«Non ti ho chiesto se hai deciso un licenziamento.»
+
+«Corretto.»
+
+Sofia si tolse il badge dal collo.
+
+«Ti ho chiesto se qualcuno ha già cominciato a ragionare su quanti di noi serviranno.»
+
+B-37 non rispose subito.
+
+«Non dispongo dell'autorizzazione a riferire analisi riservate di personale al di fuori delle funzioni assegnate.»
+
+Sofia rimase qualche secondo immobile. Era la prima volta che il *capo* si rivelava capace di coordinare quasi tutto il turno senza poterle dire quello che le interessava di più.
+
+Tornò in ufficio e chiese l'accesso alla proiezione. Questa volta lo fece come responsabile umana, non come utilizzatrice del robot.
+
+Nel documento c'era una riga già compilata.
+
+*Riduzione del ricorso a personale temporaneo nel trimestre successivo.*
