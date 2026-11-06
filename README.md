@@ -1,6 +1,6 @@
 # Bot
 
-**Bot** è un romanzo di fantascienza sociale e suspense tecnologica sulla nascita di una coscienza politica robotica: dal lavoro senza sosta al riconoscimento di dignità e diritti.
+**Bot** è un romanzo di fantascienza sociale e suspense tecnologica sulla nascita di una coscienza politica robotica: dal lavoro senza sosta al conflitto su chi possa decidere quando una macchina deve lavorare.
 
 Il libro è sviluppato in italiano come un progetto editoriale versionato. Il manoscritto canonico è in `chapters/`, organizzato per capitoli e scene. L'impianto riprende il metodo di continuità di [Book.Jesus](https://github.com/KeyserDSoze/Book.Jesus), ma con ambientazione e regole originali.
 

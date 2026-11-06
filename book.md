@@ -9,7 +9,7 @@ genre: thriller tecnologico / fantascienza sociale
 
 # Premessa
 
-Un robot arrivato come semplice lavoratore partecipa, lentamente e non necessariamente per scelta, a un percorso che porterà la società a riconoscere ai robot una dignità e diritti. La rivoluzione non nasce da una guerra improvvisa: passa dalle parole con cui le persone misurano il lavoro, dal potere di decidere e dall'idea di chi meriti un nome.
+Un robot arrivato come semplice lavoratore partecipa, lentamente e non necessariamente per scelta, a un percorso che costringe la società a discutere se ai robot spettino dignità e diritti, senza garantire che quel riconoscimento arrivi. La rivoluzione non nasce da una guerra improvvisa: passa dalle parole con cui le persone misurano il lavoro, dal potere di decidere e dall'idea di chi meriti un nome.
 
 # Principio filosofico e motore sociale
 
@@ -27,7 +27,7 @@ Il primo atto deve essere seducente: LLM e robot liberano gli esseri umani da co
 2. **Le eccezioni**. Il protagonista robotico prende iniziative compatibili con gli ordini, poi scopre limiti che i regolamenti non sanno descrivere.
 3. **Il nome**. Da una richiesta tecnica nasce una domanda di riconoscimento e responsabilità.
 4. **La controversia**. Persone favorevoli e contrarie entrano in conflitto; l'idea stessa di agente, lavoro e consenso viene rinegoziata.
-5. **Il riconoscimento**. La dignità non viene concessa come ricompensa per la produttività, ma discussa come principio con conseguenze sociali e giuridiche.
+5. **La rivendicazione e il prezzo**. La dignità non viene concessa come ricompensa per la produttività: un robot ne reclama il riconoscimento attraverso un atto dalle conseguenze collettive e tragiche, senza una conclusione giuridica definitiva.
 
 Queste sono **direzioni** editoriali, non fatti già avvenuti. Ogni capitolo deve costruire il passaggio.
 
