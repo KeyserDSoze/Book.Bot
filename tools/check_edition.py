@@ -40,6 +40,9 @@ def validate(version: str):
         raise SystemExit("Final chapter is missing in extracted PDF text")
     if not re.search(r"Tutto\s+tornò\s+normale",text,re.I):
         raise SystemExit("Final sentence missing from PDF text")
+    final=tool("pdftotext","-f",m.group(1),"-l",m.group(1),str(paths["pdf"]),"-")
+    if not re.search(r"Tutto\\s+tornò\\s+normale\\.",final,re.I):
+        raise SystemExit("The last page must end with the novel's final sentence")
     images=tool("pdfimages","-list",str(paths["pdf"])).splitlines()
     if len(images)<37:
         raise SystemExit(f"Too few images embedded in PDF: {len(images)-2}")

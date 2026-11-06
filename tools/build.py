@@ -42,10 +42,16 @@ def assemble(version: str):
             target.extend([f"# Capitolo {num}","","## "+title,""])
             for i,body in enumerate(scenes):
                 if i:target.extend(["","* * *",""])
+                if target is epub_lines and num==35 and i==len(scenes)-1:
+                    body=body.rstrip()
+                    if body.endswith("Tutto tornò normale."):
+                        body=body[:-len("Tutto tornò normale.")].rstrip()
                 target.extend([body,""])
         epub_lines.extend([
             "",f"![Immagine iconica del capitolo {num}: {title}](chapter-{num:03d}.png){{width=4.4in}}",""
         ])
+        if num==35:
+            epub_lines.extend(["", "Tutto tornò normale.", ""])
         scene_count+=len(scenes)
     if not chapters:raise SystemExit("No canonical scenes to export")
     md=Path(str(base)+".md")

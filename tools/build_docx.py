@@ -220,6 +220,9 @@ def add_chapter(doc, meta, scenes, art_dir):
             p.paragraph_format.space_after=Pt(13)
             r=p.add_run("◆   ◆   ◆")
             r.font.name=SANS;r.font.color.rgb=AMBER;r.font.size=Pt(8)
+        # On the final illustrated plate the novel's last line must still be last.
+        if n==35 and i==len(scenes)-1 and body.rstrip().endswith("Tutto tornò normale."):
+            body=body.rstrip()[:-len("Tutto tornò normale.")].rstrip()
         add_body(doc,body)
     art=art_dir/f"chapter-{n:03d}.png"
     if not art.exists():
@@ -238,6 +241,15 @@ def add_chapter(doc, meta, scenes, art_dir):
     label.paragraph_format.space_before=Pt(11)
     r=label.add_run(f"CAPITOLO {n:02d}  ·  {title}")
     r.font.name=SANS;r.font.size=Pt(8);r.font.color.rgb=MUTED
+    if n==35:
+        closing=doc.add_paragraph()
+        closing.alignment=WD_ALIGN_PARAGRAPH.CENTER
+        closing.paragraph_format.space_before=Pt(48)
+        ending=closing.add_run("Tutto tornò normale.")
+        ending.font.name=SERIF
+        ending.font.size=Pt(15)
+        ending.font.italic=True
+        ending.font.color.rgb=INK
 
 def render(output: Path,version: str,art_dir: Path):
     canonical=[]
