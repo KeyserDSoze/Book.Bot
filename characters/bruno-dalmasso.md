@@ -20,3 +20,7 @@ Bruno è a Valle Corta quando i robot in diverse aree italiane si fermano alle 1
 ## Capitolo 31
 
 Bruno coordina con Nerea un'autorizzazione regolare per il ritiro fisico di medicinali urgenti destinati a Valle Corta; guida un vecchio furgone e attende al deposito. La vecchia sirena conserva un percorso di controllo locale funzionante, senza risolvere automaticamente le credenziali storiche ancora sotto verifica. Non considera il ritorno ai vecchi sistemi una soluzione romanticamente migliore.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 31 Bruno recupera medicinali con un furgone e autorizzazioni regolari, senza fare del ritorno alle vecchie procedure un ideale. Prima di salutare Nerea la invita a mangiare il sugo che conserva nel congelatore, **anche se la sirena non sarà ancora sistemata**. Vorrebbe ritrovare la figlia fuori dalle emergenze; la richiesta semplice mette in luce la sua fierezza e l'incapacità di formulare affetto senza sembrare pratico.

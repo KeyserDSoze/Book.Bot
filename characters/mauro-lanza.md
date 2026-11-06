@@ -22,3 +22,7 @@ Il rapporto di lavoro di Mauro Lanza con Cyberdine è cessato dopo gli accertame
 ## Anticipazione editoriale — capitolo 2
 
 Mauro compare già nel corridoio lungo, mentre lascia spazio al passaggio di B-17 con alcune tazze in mano. Mila ricorda che lui le ha chiesto se i turni delle consegne cambieranno con l'arrivo dei robot. È una preoccupazione professionale concreta che anticipa il suo malcontento del capitolo 6, **non** una giustificazione della successiva violenza.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 6 Mauro avrebbe potuto separarsi da Dario per ritirare un pacco da restituire — scarpe arrivate della misura sbagliata — ma sceglie di restare nel corridoio, irritato e solidale con l'amico. Il gesto quotidiano non è la causa della violenza, che rimane una sua decisione. Ha meno ore aggiuntive e non riesce a farsi riconoscere le competenze, ma non è un semplice seguace passivo. La sua stanchezza non è un'assoluzione.

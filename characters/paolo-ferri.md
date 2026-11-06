@@ -47,3 +47,7 @@ A Cyberdine Paolo assiste al fermo improvviso di B-21 durante una consegna. Recu
 ## Capitoli 31 e 35
 
 Paolo recupera con Irene i registri originali e le procedure manuali in emergenza, poi controlla che la cartellina sospesa di B-21 non sia già stata trattata prima di accettare la sua consegna finale. Non confonde continuità documentale con la ricreazione della relazione personale che alcuni colleghi avevano sviluppato con B-17.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 2 Paolo continua a spiegare la macchinetta del caffè a chi non glielo ha chiesto, sposta le lasagne di Mila nel frigorifero perché fanno condensa e deve sopportare che gli altri lo prendano in giro. Il suo modo di voler bene è spesso pratico e irritante. Nei capitoli 7–13 e 35 i registri originali e l'aiuto a Nerea restano importanti, ma non deve diventare soltanto il custode dei documenti.

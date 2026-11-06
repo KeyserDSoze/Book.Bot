@@ -23,3 +23,7 @@ Amir confronta gli stati di sicurezza delle unità ferme all'Hub Levante e const
 ## Capitoli 31 e 35
 
 Amir impedisce manovre manuali senza verifica nelle zone dell'Hub occupate dai robot e organizza percorsi fisicamente sicuri per lavoratori e transpalet. Dopo il ritiro delle vecchie referenze, verifica l'arrivo e l'accettazione dei nuovi stati tecnici prima di riaprire un'area alla volta. Non fornisce una spiegazione magica dello stop; distingue politica operativa da controllore fisico.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 18 Amir scopre di aver perso una partita di calcetto con gli amici perché ha sostituito un collega; quelli hanno vinto senza di lui e continuano a prenderlo in giro. È esperto nel distinguere un arresto fisico da un'approvazione mancante, ma talvolta è insofferente verso chi chiama tutto «solo un pulsante». Nei capitoli 30–35 il costo umano della sua competenza è essere il tecnico che tutti chiamano proprio quando aveva promesso di esserci per qualcosa di ordinario.

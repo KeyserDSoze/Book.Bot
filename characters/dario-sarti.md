@@ -24,3 +24,7 @@ Durante il capitolo 7 rimane a casa, privo di accesso operativo. Legge i messagg
 ## Capitolo 8
 
 Dopo l'allontanamento cautelativo, gli accertamenti aziendali sull'aggressione a Bi vengono conclusi. L'AD Lorenzo Verri comunica nella plenaria che Dario Sarti e Mauro Lanza **non lavoreranno più per Cyberdine**. Non è stata narrata una riconciliazione né un rientro. Il suo futuro fuori dall'azienda rimane aperto.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 6 Dario non riesce a separare la perdita di status dalla propria rabbia verso Bi e vorrebbe che Irene raccontasse la vicenda come prova di un'ingiustizia universale. Nell'aggressione compie gesti e scelte ripetute dopo che Bi chiede di fermarsi; la frustrazione lavorativa non lo assolve. Nel 7 è solo nell'appartamento e non sa neppure come rispondere alla chat di chi continua a lavorare. Non introdurre una redenzione facile e non trasformare ogni sua frase in un proclama ideologico.

@@ -13,3 +13,7 @@ Giornalista indipendente che segue lavoro e tecnologie industriali. Lavora con v
 ## Capitoli 28–29
 
 Livia documenta proteste eterogenee e l'approvazione della legge sulle mansioni riservate agli umani senza attribuire ai robot un'unica colpa per la perdita di lavoro. Rileva che il video breve di Bi sul contratto Aruvhana omette la parte sulle decisioni umane e sul rischio di perdere il cliente. Intervista Irene, che rifiuta una storia semplicistica sul robot che «ruba il lavoro». In Piazza Montecitorio raccoglie la sua reazione al voto; la legge non restituisce posti automaticamente.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 22 Livia evita per giorni di rispondere a un'amica che chiede se siano più belle tende verdi o gialle: una richiesta sciocca a cui lei non sa trovare dieci minuti, mentre sa intervistare persone in crisi. Livia desidera una grande storia e sa che un titolo netto avrebbe più lettori di un'incertezza verificata. Non renderla una giornalista impeccabile o una giornalista cinica: il conflitto tra ambizione e precisione deve avere conseguenze su come lavora.

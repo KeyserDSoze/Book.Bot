@@ -27,3 +27,7 @@ Mila tenta di sostenere allo stesso tempo i benefici dell'automazione e le possi
 ## Capitoli 8–9
 
 Mila collabora alla distribuzione temporanea di compiti rimasti senza B-17 dopo la scelta di non ripararlo. Riconosce il valore di descrivere in modo umano e realistico il lavoro di continuità, senza sminuire i benefici reali dell'automazione. L'arrivo del sostituto ripristina i servizi, non la confidenza dei colleghi con Bi.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel capitolo 2 Mila reclama la propria pausa e il diritto di mangiare le lasagne senza che Paolo le sposti nel frigorifero. Nel 6 è stanca di sistemare sedie e materiali per altri, e un'incombenza banale la distrae mentre Dario e Mauro seguono Bi nel corridoio. La distrazione non equivale a responsabilità per l'aggressione: il gesto violento è una scelta degli aggressori. Mila non è la segretaria perfetta del gruppo e può essere sbrigativa con chi le piace.

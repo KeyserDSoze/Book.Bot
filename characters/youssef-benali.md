@@ -18,3 +18,7 @@ Youssef completa un corso di manutenzione robotica ma non trova un impiego stabi
 ## Capitoli 31 e 35
 
 Youssef usa la propria esperienza sul terreno e la formazione tecnica per organizzare interventi legittimi durante il fermo, senza forzare robot sospesi. Aiuta Sergio a recuperare una parte del raccolto anche dopo la riattivazione. Non riceve una garanzia di impiego stabile quando le raccoglitrici tornano operative.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Nel 27 la sorella manda a Youssef la foto di una tovaglia sgargiante e gli chiede un parere. Lui rimanda perché sta controllando i contratti, poi le risponde con un vocale scherzoso: «È orribile, prendila.» Per una sera vuole essere soltanto un fratello, non un lavoratore che non sa quando potrà tornare a trovarla. La sua competenza sul terreno e la formazione tecnica sono vere, ma nessuna crea automaticamente un nuovo impiego stabile.

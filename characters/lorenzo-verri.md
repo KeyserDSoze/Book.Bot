@@ -22,3 +22,7 @@ Lorenzo apprende da Kyla e Lea il comportamento non autorizzato di Nico relativo
 ## Capitoli 25–29
 
 Verri mantiene una posizione economicamente pragmatica: il contratto Aruvhana, con 341 rapporti collegati in misura rilevante, è minacciato da una richiesta di ribasso del 17%. Approva un pilota verificabile con avalli umani e firma la riorganizzazione successiva, che comprende 31 ruoli equivalenti esposti. Non delega formalmente a Bi le decisioni sul personale. Davanti al disegno di legge italiano teme perdite di competitività e chiede che i limiti sulle mansioni siano applicabili e chiari; non propone una sospensione globale delle macchine.
+
+## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
+
+Prima della plenaria del capitolo 8 Verri domanda a Kyla, più di una volta, se abbia una macchia di caffè sul colletto. La vanità buffa non lo rende privo di competenza, né allevia i costi delle sue decisioni. Nel 25–26 continua a dover difendere conti, rinnovi, formazione e tagli. Non fargli pronunciare sempre la migliore spiegazione della responsabilità manageriale; può cercare una formula rassicurante anche quando non esiste.
