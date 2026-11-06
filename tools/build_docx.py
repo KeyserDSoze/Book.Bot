@@ -118,6 +118,9 @@ def add_body(doc, content: str):
         first=False
 
 def make_header(section):
+    # Do not leak the body running header/footer onto the full-art cover.
+    section.header.is_linked_to_previous=False
+    section.footer.is_linked_to_previous=False
     hdr=section.header
     hdr.distance=Inches(.36)
     p=hdr.paragraphs[0]
@@ -221,12 +224,20 @@ def add_chapter(doc, meta, scenes, art_dir):
     art=art_dir/f"chapter-{n:03d}.png"
     if not art.exists():
         raise RuntimeError(f"Missing chapter illustration: {art}")
+    # Each end-of-chapter image is now a deliberately centered plate, not an
+    # orphan thumbnail stranded at the top of an otherwise blank page.
+    doc.add_page_break()
     p=doc.add_paragraph()
-    p.paragraph_format.space_before=Pt(24)
-    p.paragraph_format.space_after=Pt(12)
+    p.paragraph_format.space_before=Pt(112)
+    p.paragraph_format.space_after=Pt(16)
     p.alignment=WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.keep_together=True
-    p.add_run().add_picture(str(art),width=Inches(4.35),height=Inches(2.447))
+    p.add_run().add_picture(str(art),width=Inches(4.50),height=Inches(2.531))
+    label=doc.add_paragraph()
+    label.alignment=WD_ALIGN_PARAGRAPH.CENTER
+    label.paragraph_format.space_before=Pt(11)
+    r=label.add_run(f"CAPITOLO {n:02d}  ·  {title}")
+    r.font.name=SANS;r.font.size=Pt(8);r.font.color.rgb=MUTED
 
 def render(output: Path,version: str,art_dir: Path):
     canonical=[]
