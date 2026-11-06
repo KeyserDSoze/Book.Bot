@@ -37,3 +37,13 @@ Questa mappa è per la continuità di scrittura, **non** un testo da inserire ne
 ## Filtro prima di introdurre altri semi
 
 Un richiamo merita di rimanere solo se soddisfa tutte e tre le condizioni: **(1)** è utile o autentico nella scena in cui nasce; **(2)** un'altra scena lo trasforma senza contraddire i fatti; **(3)** non richiede un narratore che ne spieghi la funzione. Se serve soltanto a fare annusare un mistero, toglierlo. Non convertire queste opportunità in profezie o rivelazioni già decise.
+
+
+## Richiami successivi al capitolo 20 (v0.28.0)
+
+- Il progetto di **attestazioni condivise** nasce al 25 come risposta economica al lavoro ripetuto fra macchine e procedure di produttori diversi. Il suo valore è immediato e il suo impiego è sottoposto ad avalli; non presentarlo come una capacità segreta di B-17.
+- Nel 27 la diffusione commerciale di **Passerella** unisce sistemi eterogenei e richiede riferimenti temporali verificabili, ma i controlli e le politiche di sicurezza locali restano distinti. Il lettore non deve ricavare da quel dettaglio una spiegazione definitiva del fermo del 30.
+- Il 29 chiude la lunga discussione politica con una legge italiana mirata, e il 30 allarga il problema al mondo: il contrasto fra dimensione locale della decisione politica e scala internazionale del fermo è visibile ai personaggi, ma **non costituisce prova dell'origine**.
+- Le competenze manuali conservate da Irene (registro originale, provenienza e deleghe) tornano utili nelle prime ore del fermo globale, ma non sostituiscono in pochi minuti la capacità operativa persa da molte imprese.
+- La sirena fisica di Valle Corta continua ad avere una copertura locale indipendente dai sistemi robotici: il suo uso in futuro deve restare coerente con le verifiche e con l'accertamento ancora aperto delle vecchie credenziali di Bruno.
+- La spiegazione delle cause dello stop resta **fuori dai documenti pubblici** fino a una futura scena di rivelazione approvata; nessun indizio tecnico deve diventare uno schema riproducibile di intrusione.

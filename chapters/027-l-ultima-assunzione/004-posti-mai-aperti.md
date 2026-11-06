@@ -86,7 +86,7 @@ Kyla la guardò.
 
 Irene fissò il pannello dei posti aperti. Manutenzione, sicurezza, supporto alle batterie, gestione di un catalogo di procedure. Nessuna posizione uguale a quella che aveva cercato quando Adriana era andata in pensione.
 
-Non era disoccupata da diciotto mesi. Aveva trovato incarichi temporanei, aiutato piccole imprese a sistemare registri e accettato giornate di formazione. Ma non aveva trovato il ruolo stabile per cui aveva preparato trentquattro esempi.
+Non era disoccupata da diciotto mesi. Aveva trovato incarichi temporanei, aiutato piccole imprese a sistemare registri e accettato giornate di formazione. Ma non aveva trovato il ruolo stabile per cui aveva preparato trentaquattro esempi.
 
 «Sai qual è il numero che non compare sul vostro pannello?», chiese a Kyla.
 
