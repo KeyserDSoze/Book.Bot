@@ -5,6 +5,7 @@ import argparse
 import shutil
 import subprocess
 import zipfile
+from pathlib import Path
 
 from common import ROOT, load_document, chapter_dirs, scene_files
 from artwork import generate
