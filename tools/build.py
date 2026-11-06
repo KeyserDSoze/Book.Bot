@@ -1,74 +1,95 @@
 #!/usr/bin/env python3
-"""Assemble canonical scenes and optionally render DOCX/EPUB with Pandoc."""
+"""Build the manuscript, illustrated EPUB, bespoke paperback DOCX and art ZIP."""
+from __future__ import annotations
 import argparse
 import shutil
 import subprocess
+import zipfile
 
 from common import ROOT, load_document, chapter_dirs, scene_files
+from artwork import generate
+from build_docx import render as render_docx
 
 
 def assemble(version: str):
-    book, _ = load_document(ROOT / "book.md")
-    lines = ["---", f"title: {book['title']}", "lang: it-IT", "---", "",
-             "# Bot", "", "*Un romanzo di emancipazione.*", ""]
-    chapter_count = 0
-    scene_count = 0
+    book,_=load_document(ROOT/"book.md")
+    base=ROOT/"dist"/f"Bot-v{version}"
+    base.parent.mkdir(parents=True,exist_ok=True)
+    md_lines=[
+        "---",f"title: {book['title']}", "lang: it-IT", "---","",
+        "# Bot","","*Un romanzo di emancipazione.*",""
+    ]
+    epub_lines=[
+        "---",f"title: {book['title']}",
+        "subtitle: L'innovazione non chiede permesso",
+        "lang: it-IT", "---", ""
+    ]
+    chapters=[]
+    scene_count=0
     for folder in chapter_dirs():
-        meta, _ = load_document(folder / "chapter.md")
-        if meta.get("canon") != "canon":
-            continue
-        chapters_scenes = []
+        meta,_=load_document(folder/"chapter.md")
+        if meta.get("canon")!="canon":continue
+        scenes=[]
         for scene in scene_files(folder):
-            info, body = load_document(scene)
-            if info.get("canon") == "canon":
-                chapters_scenes.append((info, body))
-        if not chapters_scenes:
-            continue
-        chapter_count += 1
-        lines.extend([f"# Capitolo {meta['number']}", "",
-                      f"## {meta['title']}", ""])
-        for index, (scene, body) in enumerate(chapters_scenes):
-            if index:
-                lines.extend(["", "* * *", ""])
-            lines.extend([body, ""])
-            scene_count += 1
-    if not scene_count:
-        raise SystemExit("No canonical scenes to export")
-    dist = ROOT / "dist"
-    dist.mkdir(parents=True, exist_ok=True)
-    base = dist / f"Bot-v{version}"
-    md = base.parent / (base.name + ".md")
-    md.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
-    print(f"Assembled {chapter_count} chapters and {scene_count} scenes: {md.relative_to(ROOT)}")
-    return md, base
+            info,body=load_document(scene)
+            if info.get("canon")=="canon":
+                scenes.append(body)
+        if not scenes:continue
+        num=int(meta["number"]);title=str(meta["title"])
+        chapters.append((num,title))
+        for target in (md_lines,epub_lines):
+            target.extend([f"# Capitolo {num}","","## "+title,""])
+            for i,body in enumerate(scenes):
+                if i:target.extend(["","* * *",""])
+                target.extend([body,""])
+        epub_lines.extend([
+            "",f"![Immagine iconica del capitolo {num}: {title}](chapter-{num:03d}.png){{width=4.4in}}",""
+        ])
+        scene_count+=len(scenes)
+    if not chapters:raise SystemExit("No canonical scenes to export")
+    md=base.with_suffix(".md")
+    md.write_text("\n".join(md_lines).rstrip()+"\n",encoding="utf-8")
+    export=base.parent/(".Bot-v"+version+"-illustrated.md")
+    export.write_text("\n".join(epub_lines).rstrip()+"\n",encoding="utf-8")
+    print(f"Assembled {len(chapters)} chapters and {scene_count} scenes")
+    return base,md,export,chapters
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--require-pandoc", action="store_true",
-                        help="Fail if Pandoc is unavailable")
-    args = parser.parse_args()
-
-    version = (ROOT / "VERSION").read_text(encoding="utf-8").strip()
-    md, base = assemble(version)
-    pandoc = shutil.which("pandoc")
+    p=argparse.ArgumentParser()
+    p.add_argument("--require-pandoc",action="store_true")
+    args=p.parse_args()
+    version=(ROOT/"VERSION").read_text(encoding="utf-8").strip()
+    base,md,epub_source,chapters=assemble(version)
+    art_dir=ROOT/"dist"/"illustrations"
+    generate(art_dir,chapters)
+    # The DOCX (and PDF made from it) have genuinely designed page geometry.
+    docx=base.with_suffix(".docx")
+    render_docx(docx,version,art_dir)
+    pandoc=shutil.which("pandoc")
     if not pandoc:
-        if args.require_pandoc:
-            raise SystemExit("pandoc is required for this release build")
-        print("Pandoc not installed: complete Markdown is ready; DOCX/EPUB skipped.")
-        return
+        if args.require_pandoc:raise SystemExit("Pandoc is required")
+        print("Pandoc not installed: EPUB skipped.")
+    else:
+        epub=base.with_suffix(".epub")
+        subprocess.run([
+            pandoc,
+            "--from=markdown+yaml_metadata_block",
+            "--standalone","--toc","--toc-depth=2",
+            "--resource-path="+str(art_dir)+":"+str(ROOT),
+            "--epub-cover-image="+str(art_dir/"cover.png"),
+            str(epub_source),"--output",str(epub)
+        ],cwd=ROOT,check=True)
+        if not epub.is_file() or epub.stat().st_size==0:
+            raise SystemExit("Empty or missing EPUB")
+        print(f"Built {epub.relative_to(ROOT)}")
+    # Export each plate as a usable individual asset, alongside the PDF/EPUB.
+    bundle=ROOT/"dist"/f"Bot-illustrations-v{version}.zip"
+    with zipfile.ZipFile(bundle,"w",compression=zipfile.ZIP_DEFLATED,compresslevel=6) as z:
+        for file in sorted(art_dir.glob("*.png")):
+            z.write(file,arcname=file.name)
+    print(f"Built {bundle.relative_to(ROOT)}: {len(list(art_dir.glob('*.png')))} images")
+    epub_source.unlink(missing_ok=True)
 
-    for ext, options in (
-        ("docx", ["--standalone"]),
-        ("epub", ["--standalone", "--toc", "--toc-depth=2"]),
-    ):
-        dest = base.parent / (base.name + "." + ext)
-        subprocess.run([pandoc, "--from=markdown+yaml_metadata_block", *options,
-                        str(md), "--output", str(dest)], check=True, cwd=ROOT)
-        if not dest.is_file() or dest.stat().st_size == 0:
-            raise SystemExit(f"Empty or missing export: {dest}")
-        print(f"Built {dest.relative_to(ROOT)}")
-
-
-if __name__ == "__main__":
+if __name__=="__main__":
     main()
