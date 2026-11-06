@@ -23,3 +23,8 @@ Il punteggio della prova di Veyra è verificabile: il controllo rosso del punto 
 ## Restrizioni a Veyra — v0.17.0
 
 Il Circuito riceve l'avviso di Cyberdine su possibili accessi non autorizzati al modulo originario di B-17. Durante gli accertamenti limita temporaneamente il programma alle prove locali supervisionate. Mina non interpreta la misura come attestazione che ogni problema passato sia risolto. La lettera di Nerea è consegnata tramite un referente umano con il consenso della mittente, senza sfruttamento promozionale.
+
+
+## Capitoli 25–29
+
+Mina autorizza e sorveglia le sessioni locali di B-17: un'analisi su dati ridotti per la riorganizzazione proposta da Cyberdine e successive conversazioni con Nerea. Continua a separare test, impiego ordinario e comunicazioni personali, senza riaprire accessi esterni non certificati. Registra la contestazione di Nerea nel 28 e il dialogo precedente al voto nel 29 senza usarli come filmati promozionali. Non è testimone né fonte di spiegazioni certe sul fermo globale del 30.

@@ -41,3 +41,8 @@ Dopo la richiesta di Nico, Kyla partecipa con Lea Renzi alla confessione sull'ag
 ## Percorso di Nico nella revisione editoriale
 
 Kyla saluta Nico Valenti già nell'atrio del capitolo 1 mentre lui aiuta un addetto con una porta di servizio bloccata. In capitolo 8 lo vede lasciare la plenaria quando compare B-17. Non riconosce quei gesti come indizi di una modifica clandestina: sono compatibili con la normale vita del reparto sviluppo. Solo durante la confessione nel capitolo 12 ricostruisce il contrasto tra competenza nell'ascolto dei colleghi e scelta di violarne la privacy.
+
+
+## Capitoli 25–30
+
+Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; Cyberdine rende esplicito il proprio ruolo come integratore di sistemi industriali di produttori diversi. Chiede che ogni stima di efficienza includa le competenze e le persone coinvolte. Nel capitolo 26, dopo il rinnovo condizionato del cliente, affronta con Irene la mancata prosecuzione della sua funzione. Nel 28 rifiuta comunicati sul progresso che ignorino posti non più creati o lavori sostituiti. Nel 29 distingue la legge italiana mirata dalle attività non vietate e dalle sedi estere; non promette continuità assoluta. Durante il fermo mondiale del 30 chiede un piano per i clienti internazionali, trovandosi davanti a procedure manuali pensate per guasti parziali.

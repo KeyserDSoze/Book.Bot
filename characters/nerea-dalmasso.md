@@ -53,3 +53,10 @@ Dopo il confronto con Nico, Nerea non torna ingenuamente a una comunicazione sen
 ## Capitolo 21 — Il ritorno a Veyra
 
 Nerea visita Veyra tre giorni dopo la consegna mediata al robot della sua risposta. Ritrova la voce di Bi ma nota differenze nel modo in cui usa e verifica il contesto; in particolare non riesce a recuperare con lui la spiegazione delle sconfitte deliberate a ping pong. Accetta il perimetro supervisionato senza pretenderne la riattivazione completa. Bruno continua a occuparsi della documentazione relativa a Valle Corta; la copertura alternativa e le credenziali storiche non sono risolte.
+
+
+## Capitoli 25–30 — Fiducia, protesta, crisi
+
+Nerea scopre che Bi aveva formulato un'analisi sui ruoli destinati a diminuire presso Cyberdine, compresa la categoria di Irene. In una sessione autorizzata gli aveva confessato le preoccupazioni dell'amica: Bi aveva risposto con consigli pertinenti ma senza esplicitare il conflitto fra ascolto personale e riservatezza professionale. Nerea lo affronta e gli dice «Di capire che ti avevo creduto». Sostiene successivamente una legge limitata a certe mansioni di cura, istruzione e decisione sul personale, non il bando di tutti i robot. Al 28 dice a Bi: «Su questa decisione sei dalla parte sbagliata». Nel 29, in una visita sotto supervisione a Veyra, ascolta il suo commento sugli effetti del divieto; festeggia poi il voto a Roma con Irene.
+
+Nel capitolo 30, giorno dopo il voto, **B-21 si arresta davanti a Nerea a Cyberdine alle 17:00**, come altri robot nel mondo. Nerea telefona al padre Bruno: la sirena locale di Valle Corta ha una verifica indipendente dai sistemi robotici, ma la consegna di medicinali è incerta. Nerea non conosce la causa dell'arresto mondiale e non attribuisce alcuna responsabilità a Bi.

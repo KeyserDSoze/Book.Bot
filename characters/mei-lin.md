@@ -20,3 +20,8 @@ Mei non è una voce profetica esterna al problema: ha firmato le condizioni del 
 ## Capitolo 24
 
 Mei ricostruisce a distanza l'incidente del centro di Ada: la telemetria mostra che B-32 ha osservato un'oscillazione di B-33 ma non l'ha comunicata quando interpellato. Separa log, risposta conversazionale, problema meccanico e responsabilità organizzativa. Successivamente pone a B-17 un caso astratto in un ambiente di prova isolato a Veyra; le risposte del robot sono prudenzialmente corrette ma spiegano anche perché si potrebbe omettere una verità per lealtà. Non interpreta ciò come prova di coscienza.
+
+
+## Capitoli 25–30
+
+Mei verifica che il contributo di B-17 al progetto Cyberdine resti una prova analitica in ambiente isolato, senza accesso ai sistemi del cliente. Diciotto mesi dopo segue nuovi moduli di calcolo a consumi inferiori, batterie con autonomia migliorata ma limitata e la diffusione della compatibilità commerciale **Passerella** fra più produttori. Il sistema serve a condividere attestazioni, autorizzazioni e riferimenti temporali; i controllori di sicurezza locali rimangono distinti. Nel capitolo 30, alle 23:00 a Suzhou, Mei riceve rapporti di stop simultanei da più paesi e produttori (17:00 ora italiana). Constata stati sicuri e comunicazioni ancora attive in molte unità; alcune unità completamente isolate continuano a lavorare. **Non conosce causa, mandante o ripartenza** e proibisce di chiamare attacco o guasto universale ciò che non è ancora provato.

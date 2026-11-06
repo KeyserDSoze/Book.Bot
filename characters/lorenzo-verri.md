@@ -17,3 +17,8 @@ Non anticipare i dettagli del settore produttivo di Cyberdine e non rivelare la 
 ## Capitolo 12
 
 Lorenzo apprende da Kyla e Lea il comportamento non autorizzato di Nico relativo a B-17. Autorizza controlli e contatti formali con il Circuito Veyra per la sicurezza dei dati, senza reclamare automaticamente una unità che Cyberdine aveva ceduto. Non decide immediatamente il licenziamento di Nico. Non autorizza né finanzia come iniziativa aziendale la raccolta volontaria per ricomprare Bi; B-21 continua a svolgere regolarmente i compiti previsti.
+
+
+## Capitoli 25–29
+
+Verri mantiene una posizione economicamente pragmatica: il contratto Aruvhana, con 341 rapporti collegati in misura rilevante, è minacciato da una richiesta di ribasso del 17%. Approva un pilota verificabile con avalli umani e firma la riorganizzazione successiva, che comprende 31 ruoli equivalenti esposti. Non delega formalmente a Bi le decisioni sul personale. Davanti al disegno di legge italiano teme perdite di competitività e chiede che i limiti sulle mansioni siano applicabili e chiari; non propone una sospensione globale delle macchine.

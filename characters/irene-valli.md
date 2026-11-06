@@ -40,3 +40,8 @@ Irene controlla la provenienza di un originale e domanda chi avrà la responsabi
 ## Capitolo 22
 
 Irene riceve un ulteriore rifiuto per una candidatura esterna di coordinamento, nonostante abbia preparato in forma anonima la cartella dei trentaquattro esempi. Discute con Nerea la differenza fra i vantaggi operativi dei robot e le nuove opportunità di lavoro che non si aprono. Non è stata licenziata, né promossa.
+
+
+## Capitoli 25–30 — Il lavoro e la legge
+
+Irene corregge le ipotesi di automazione del contratto Aruvhana, chiedendo di mantenere tracciabilità dei dati e avalli umani. Dopo il rinnovo condizionato del cliente, la direzione Cyberdine decide di non proseguire la sua posizione alla scadenza: le restano quattro mesi e non le viene offerto un nuovo posto sicuro. Diciotto mesi dopo svolge incarichi saltuari e cerca nuove occasioni professionali, molte delle quali non diventano assunzioni. Partecipa alle proteste con Nerea **senza chiedere lo spegnimento generale dei robot**; reclama criteri di distribuzione dei benefici e responsabilità umana. Nel capitolo 29 festeggia l'approvazione della legge mirata in Piazza Montecitorio, precisando che il voto non le restituirà il ruolo perso. Non appare come causa tecnica né come organizzatrice dell'arresto mondiale del 30.
