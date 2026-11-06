@@ -20,3 +20,8 @@ Lea apre l'incidente di sicurezza dopo la confessione di Nico, sospende cautelat
 ## Prima apparizione — capitolo 4
 
 Prima della confessione di Nico, Lea è già citata/mostrata come responsabile della sicurezza dei dati: suggerisce a Kyla di non raccogliere i nomi di chi ritira oggetti dallo Spazio Comune, quando non servono. Il consiglio rende concreto il contrasto con la backdoor di Nico nel capitolo 12, senza anticiparne l'esistenza al lettore.
+
+
+## Capitoli 28–30
+
+Lea esamina con Kyla e Verri il disegno di legge, insistendo sulla distinzione fra responsabilità umana effettiva, firma formale e controllo tecnico indipendente. Non garantisce che il sistema possa operare in ogni circostanza. Al momento dello stop mondiale del 30 coordina un perimetro di sicurezza a Cyberdine: nessun riavvio improvvisato né forzatura di attuatori finché non sia stata verificata la causa. Non conosce né avalla alcuna attribuzione a Bi.
