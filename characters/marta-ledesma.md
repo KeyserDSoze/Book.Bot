@@ -20,3 +20,8 @@ Marta riceve offerte economiche condizionate a sette cifre, costruite su sponsor
 ## Nome e proprietà
 
 Nel capitolo 11 Marta scopre che una proposta commerciale vorrebbe ottenere anche l'esclusiva sui soprannomi associati all'unità. Non sa chi abbia dato a B-17 il nome «Bi» e fa rimuovere quella clausola: non può garantire contrattualmente un diritto che nessuno ha chiarito. Il gesto non la porta a rinunciare agli accordi economici con i partner, ma prepara il contrasto del capitolo 14 fra proprietà della macchina e possibilità di scambiare messaggi personali.
+
+
+## Capitoli 31–35
+
+Durante il blocco mondiale Marta deve sostenere costi e obblighi contrattuali anche se la maggior parte delle unità del Circuito è ferma. Preserva i registri della consulenza di B-17 tramite Mina e accetta una verifica con partecipanti esterni autorizzati. Chiede che le conseguenze umane di un ritiro irreversibile siano documentate, benché il robot non abbia uno status giuridico di persona. Come titolare firma la procedura di cessazione di Bi, non certificandone la coscienza né la mancanza di coscienza.

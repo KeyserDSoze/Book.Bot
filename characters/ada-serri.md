@@ -18,3 +18,8 @@ Ada conferma la visita alla serra di Teresa con B-32 come supporto, senza sostit
 ## Capitoli 29–30
 
 Ada prepara l'adeguamento alla nuova legge che potrebbe limitare l'assistenza relazionale continuativa fornita da B-32 senza supervisione umana effettiva. Il centro non ha ancora ottenuto le persone aggiuntive richieste; restano autorizzabili incarichi logistici e forme limitate di supporto. **Alle 17:00 del giorno dopo il voto**, gli incarichi di B-32 e degli altri robot si interrompono improvvisamente benché la legge non imponga il fermo generalizzato. Ada riordina le priorità di assistenza e impedisce riavvii o movimentazioni manuali non sicuri, mentre le richieste di aiuto si moltiplicano.
+
+
+## Capitoli 31 e 35 — La struttura senza e con robot
+
+Ada organizza il centro assistenziale senza le unità logistiche per giorni, assumendo turni che non riesce a coprire con il personale disponibile. Non forza i carrelli bloccati né dichiara abolita la necessità delle tutele umane. Dopo le revoche verificate dai fornitori, recupera gradualmente i servizi logistici; B-32 torna a svolgere mansioni consentite, mentre la nuova legge continua a porre limiti alla compagnia robotica continuativa senza supervisione umana effettiva.

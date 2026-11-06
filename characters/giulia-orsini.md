@@ -18,3 +18,8 @@ Giulia accompagna Teresa alla serra, sostenuta ma non sostituita logisticamente 
 ## Capitoli 29–30
 
 Il polso di Giulia è tornato abbastanza funzionale da consentirle il lavoro con cautele. Nel 29 affronta con Ada la possibile riduzione delle conversazioni autonome di B-32 a tutela degli ospiti, sapendo però che il personale disponibile è già scarso. Nel 30, quando B-32 si ferma a metà di una frase rivolta a Teresa, Giulia organizza gli interventi umani e resta accanto alla donna per qualche minuto nonostante la mole di attività. Il fermo non è un guasto meccanico come l'episodio di B-33.
+
+
+## Capitoli 31 e 35
+
+Giulia sostiene materialmente il centro assistenziale durante il fermo, perde pause e giornate in serra, e promette a Teresa soltanto ciò che può garantire. Dopo il ripristino supervisionato delle unità recupera una parte del tempo per la cura diretta. Assiste alla prima nuova conversazione di Teresa con B-32 su un pomodoro chiamato Carlo, senza presentarla come ritorno di Bi.

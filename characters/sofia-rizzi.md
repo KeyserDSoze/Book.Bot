@@ -25,3 +25,8 @@ Sofia autorizza un pilota di sei settimane per la pianificazione delle turnazion
 ## Capitoli 28–30
 
 Le discussioni nazionali sui divieti non cancellano il vantaggio reale della pianificazione robotica dell'Hub Levante. **Il giorno dopo il voto della legge**, alle 17:00 italiane, B-37 e le unità operative di diversi fornitori si fermano simultaneamente. Sofia registra le attese dei vettori a carico del magazzino, avvia i piani manuali di continuità e scopre che, senza straordinari di recupero e personale in riserva, non può far lavorare a mano tutte le baie insieme. Amir verifica che il fermo è diverso dal precedente blocco locale di quarantasette minuti; non ne conoscono la causa.
+
+
+## Capitoli 31 e 35
+
+Sofia richiama lavoratori abilitati in turni straordinari limitati e organizza l'Hub Levante in aree di attività manuale controllata. Tiene conto del costo umano e delle esigenze familiari dei dipendenti, senza confondere una crisi con la creazione di posti stabili. Dopo il ritiro della referenza originaria e il collaudo delle nuove politiche dei vari fornitori, firma la riapertura progressiva delle baie; la capacità non ritorna all'istante.

@@ -46,3 +46,8 @@ Kyla saluta Nico Valenti già nell'atrio del capitolo 1 mentre lui aiuta un adde
 ## Capitoli 25–30
 
 Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; Cyberdine rende esplicito il proprio ruolo come integratore di sistemi industriali di produttori diversi. Chiede che ogni stima di efficienza includa le competenze e le persone coinvolte. Nel capitolo 26, dopo il rinnovo condizionato del cliente, affronta con Irene la mancata prosecuzione della sua funzione. Nel 28 rifiuta comunicati sul progresso che ignorino posti non più creati o lavori sostituiti. Nel 29 distingue la legge italiana mirata dalle attività non vietate e dalle sedi estere; non promette continuità assoluta. Durante il fermo mondiale del 30 chiede un piano per i clienti internazionali, trovandosi davanti a procedure manuali pensate per guasti parziali.
+
+
+## Capitoli 31–35
+
+Kyla continua a gestire presso Cyberdine gli effetti economici del fermo: piani di continuità con Aruvhana, autorizzazioni manuali, richieste dei clienti e ricostituzione progressiva dei processi. La risoluzione richiede verifiche dei produttori e dei siti, non un comando generale emesso dal campus. I ruoli professionali eliminati dall'automazione non ricompaiono automaticamente con la ripartenza; l'azienda apre anche incarichi di controllo e manutenzione.
