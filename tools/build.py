@@ -47,7 +47,7 @@ def assemble(version: str):
         ])
         scene_count+=len(scenes)
     if not chapters:raise SystemExit("No canonical scenes to export")
-    md=base.with_suffix(".md")
+    md=Path(str(base)+".md")
     md.write_text("\n".join(md_lines).rstrip()+"\n",encoding="utf-8")
     export=base.parent/(".Bot-v"+version+"-illustrated.md")
     export.write_text("\n".join(epub_lines).rstrip()+"\n",encoding="utf-8")
@@ -64,14 +64,14 @@ def main():
     art_dir=ROOT/"dist"/"illustrations"
     generate(art_dir,chapters)
     # The DOCX (and PDF made from it) have genuinely designed page geometry.
-    docx=base.with_suffix(".docx")
+    docx=Path(str(base)+".docx")
     render_docx(docx,version,art_dir)
     pandoc=shutil.which("pandoc")
     if not pandoc:
         if args.require_pandoc:raise SystemExit("Pandoc is required")
         print("Pandoc not installed: EPUB skipped.")
     else:
-        epub=base.with_suffix(".epub")
+        epub=Path(str(base)+".epub")
         subprocess.run([
             pandoc,
             "--from=markdown+yaml_metadata_block",
