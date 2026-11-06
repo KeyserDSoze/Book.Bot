@@ -61,6 +61,22 @@ Irene appoggiò la borsa sulla sedia.
 
 Non parlarono per un po'.
 
+«Ti devo dire una cosa assurda», disse Irene.
+
+Nerea la guardò.
+
+«Ho comprato quella libreria. Usata. Ha una mensola storta e mi è costata meno di quanto ci ho messo a decidermi.»
+
+«Quella che dovevi comprare quando eri ancora nel vecchio reparto?»
+
+«Proprio quella. Non so perché te lo sto dicendo oggi.»
+
+Nerea abbassò gli occhi. «Perché mi hai sempre detto che prima o poi l'avresti presa.»
+
+«Mi aiuti a metterla in piedi? Non oggi. Quando vuoi.»
+
+«Mandami una foto», disse Nerea. Non promise un giorno. Era la prima richiesta semplice che riceveva da quando aveva letto la comunicazione sulla fine di Bi.
+
 Dalla porta si sentì la voce di Paolo che chiedeva a B-21 di aspettare una seconda firma. La macchina si fermò, consultò il registro e attese. Una procedura ordinaria, eseguita correttamente.
 
 Irene aveva ricevuto una proposta di tre mesi per verificare alcuni processi di continuità presso un cliente di Cyberdine. Non era il posto senior che aveva desiderato, e non era neppure un contratto permanente. L'aveva accettata perché il compenso era adeguato e il lavoro corrispondeva alla sua esperienza.

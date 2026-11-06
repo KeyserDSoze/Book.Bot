@@ -33,7 +33,7 @@ Lea aprì la discussione mostrando i risultati dei primi ripristini locali. Alcu
 
 «In quelle verificate. E nelle altre ci vorrà tempo.»
 
-Mei aprì poi il verbale di una prova effettuata la notte precedente. Non era la simulazione astratta di una soluzione possibile: due siti di test, due fornitori, carichi non pericolosi, personale presente. Avevano mantenuto intatta una copia sotto custodia della configurazione originaria di B-17 e tentato di mettere in servizio una politica sostitutiva senza ritirare il riferimento di convalida.
+Mei aprì poi il verbale di una prova effettuata la notte precedente. Non era la simulazione astratta di una soluzione possibile: due siti di test, due fornitori, carichi non pericolosi, personale presente. Avevano mantenuto valida nel circuito di prova la referenza tecnica originaria di B-17, senza clonare la sua configurazione conversazionale, e tentato di mettere in servizio una politica sostitutiva senza ritirare quel riferimento.
 
 Il primo sito aveva completato una movimentazione locale. Il secondo aveva respinto l'attestazione perché trovava ancora valida la vecchia fonte e non riusciva a risolvere quale delle due attestazioni avesse precedenza. Ripetere la prova con un altro fornitore aveva prodotto lo stesso conflitto. Non c'erano stati danni e nessuno aveva forzato il controllore: era bastato che un carico dovesse passare da una responsabilità all'altra.
 
@@ -41,7 +41,7 @@ Il primo sito aveva completato una movimentazione locale. Il secondo aveva respi
 
 «Non abbiamo dimostrato una ripartenza generale affidabile», rispose Mei. «Possiamo recuperare siti isolati uno per uno. Per quelli che si fidano ancora della referenza originaria dobbiamo prima ritirarla in modo riconosciuto. Non posso dichiarare sicuro ciò che il test ha appena respinto.»
 
-Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo stato conversazionale. Su tutte le copie provate il confine restava quello che aveva alterato lui, anni prima. Non avevano un metodo convalidato per conservarne la continuità durante il ritiro. Nico domandò se potessero avere altri due giorni per studiarlo.
+Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo stato conversazionale. Nelle prove sui componenti di verifica il confine fra identità tecnica e stato conversazionale restava quello che aveva alterato lui, anni prima. Non avevano un metodo convalidato per conservarne la continuità durante il ritiro. Nico domandò se potessero avere altri due giorni per studiarlo.
 
 «Puoi averli per l'indagine», disse Mei. «Non posso promettere che bastino per i fornitori.»
 
