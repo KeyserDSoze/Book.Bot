@@ -138,3 +138,8 @@ Obbligatorio consultare `guidelines/revisione-05-tensione-e-vita.md` quando si r
 Tecniche di thriller ammesse: asimmetria dell'informazione, scoperte graduali, conseguenze verificabili, tempo pressante, variazione dei POV. **Niente imitazione della voce di scrittori viventi**, niente cliffhanger automatico in ogni scena, niente evidenze comparse per convenienza. Preservare incertezza sulla coscienza di Bi, titolarità, audit e provenienza dei dati. Dopo la quinta revisione il settore di Cyberdine e Aruvhana rimane intenzionalmente non dichiarato: deve diventare una scelta strutturale nel prossimo arco, non un dettaglio casuale aggiunto a un capitolo precedente.
 
 Punto di ripresa reale: **dopo il capitolo 20, v0.25.0**. Le note storiche in `state/current.md` non vanno trattate come istruzioni attuali sul capitolo 14.
+
+
+## Revisione corale — v0.31.0
+
+Prima di ritoccare un personaggio, leggere anche `guidelines/personaggi-vita-privata-e-contraddizioni.md` e `reviews/revisione-arco-corale-v0.31.0.md`. Conservare i desideri privati ormai mostrati (il nuoto di Adriana, la libreria di Irene, i piccoli accordi fra Nerea e Bruno, i problemi di Rosa col figlio, l'orologio di Mei e gli appuntamenti mancati di Kyla) senza usare ogni volta gli stessi simboli. Alcuni desideri non hanno un payoff obbligatorio. Attenzione: la mappa distingue proposte non canonizzate da dettagli effettivamente entrati nella prosa.

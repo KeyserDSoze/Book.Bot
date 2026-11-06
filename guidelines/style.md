@@ -129,3 +129,16 @@ Leggere `guidelines/revisione-05-tensione-e-vita.md` prima di ripetere strutture
 Quando la scena ha già mostrato un oggetto decisivo (la targhetta, il foglio, la racchetta) o una scelta (una firma, una rinuncia, una telefonata), il finale **non deve spiegarne il significato**. Nei capitoli 3, 5, 6, 11, 14–20 sono stati rimossi numerosi commenti ridondanti e aggiunte conseguenze visibili: un'attività saltata in un centro assistenziale, i costi del rinvio delle riprese, una prova sfavorevole databile, una comunicazione corretta sullo schermo. Non ripristinare in futuro le vecchie frasi esplicative.
 
 Una conversazione realistica è anche una cosa interrotta: persone che pensano alla paga, una collega che arriva con un modulo, una voce dal corridoio, qualcuno che rinuncia a dire la frase perfetta. Non fare dei personaggi prudenti portavoce onniscienti. Non aggiungere oggetti simbolici solo perché suggeriscono mistero: chiedersi sempre a che cosa servono nella scena prima del ritorno.
+
+
+## Revisione v0.31.0 — La vita fuori dal caso Bi
+
+I personaggi devono essere riconoscibili **anche senza robot in scena**. Oltre a un obiettivo di trama, un POV può avere fame, desiderare un sabato libero, voler restituire un pacco sbagliato, voler essere invitato a cena o provare gelosia per una cosa ingiusta. Non trasformare questi bisogni in allegorie e non dotare tutti di un hobby da presentazione. Una richiesta stupida può restare irrisolta, e talvolta dovrebbe.
+
+- Mostrare piccoli vizi prima della grande decisione: procrastinare, voler avere ragione, evitare una telefonata, provare piacere perché qualcun altro ha torto, sperare segretamente che una riunione venga annullata.
+- Far esistere relazioni in cui si parli di **altro**. I personaggi possono interrompersi, fraintendersi, essere goffi, dire una cosa spiacevole e non correggerla immediatamente. Il dialogo non è un concorso alla frase moralmente più accurata.
+- Dare conseguenze realistiche a fame, trasporti, affitto, tempi della scuola, visite mediche, desiderio di svago, soldi limitati. Non costruire una nuova grande tragedia per ogni persona.
+- Usare il ripetersi di un desiderio solo quando cambia significato: la libreria di Irene compare prima e dopo la perdita del contratto; il desiderio di Nico di aggiustare la lampada non risolve il fatto che ha distrutto Bi.
+- **Non affollare le scene decisive:** la cancellazione di B-17 e gli incidenti di sicurezza conservano il proprio ritmo. Il dettaglio umano non è un'interruzione decorativa.
+
+La mappa caratteriale completa, distinta fra fatti confermati e proposte, è in `guidelines/personaggi-vita-privata-e-contraddizioni.md`. La review del romanzo dopo questo intervento è in `reviews/revisione-arco-corale-v0.31.0.md`.
