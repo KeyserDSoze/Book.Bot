@@ -5,16 +5,16 @@ number: 18
 title: Il giorno in cui si fermarono
 canon: canon
 pov:
-  - character:sofia-rizzi
-  - character:amir-haddad
-  - character:ada-serri
-  - character:mei-lin
+  - character:sophie-grant
+  - character:omar-haddad
+  - character:grace-morgan
+  - character:mei-chen
 ---
 
 # Scene
 
 1. Tutto immobile — la stessa discrepanza della baia quattro, davanti a più ordini urgenti, provoca un arresto prudenziale configurato localmente.
-2. La macchina non fa sciopero — Amir scopre la catena di autorizzazioni senza fingere che il guasto sia un rifiuto cosciente; una verifica ha evitato un rischio reale.
+2. La macchina non fa sciopero — Omar scopre la catena di autorizzazioni senza fingere che il guasto sia un rifiuto cosciente; una verifica ha evitato un rischio reale.
 3. I minuti di qualcun altro — in una struttura assistenziale un arresto simile costa tempo e attenzione alle persone, benché il nuovo modulo avesse dato benefici.
 4. La notizia più semplice — le segnalazioni da più paesi diventano uno slogan mediatico; Lanter avvia limitazioni verificabili, non un interruttore magico mondiale.
 
@@ -25,9 +25,9 @@ Nessuna rivolta o coordinazione autonoma globale: i casi sono collegati dalla st
 
 ## Review del dialogo tecnico (terza passata)
 
-In 002 il chiarimento di Amir sulla differenza fra mappa della baia e arresto anticollisione è stato abbreviato: la prima spiegazione resta nella scena di Sofia (001), la seconda mostra il ruolo della firma umana senza ripetere una lezione sul middleware. Questo fermo locale è distinto da quello del 30.
+In 002 il chiarimento di Omar sulla differenza fra mappa della baia e arresto anticollisione è stato abbreviato: la prima spiegazione resta nella scena di Sophie (001), la seconda mostra il ruolo della firma umana senza ripetere una lezione sul middleware. Questo fermo locale è distinto da quello del 30.
 
 
 ## Quarta review: costo misurato e costo vissuto
 
-In 003 un ritardo documentale di ventidue minuti porta Giulia a rinviare la visita alla serra di una donna già vestita per uscire; Ada aggiunge `visita rinviata` a mano nel registro che prevede solo ritardi di consegna. La decisione prepara il rifiuto di Teresa di perdere un'altra visita nel 22. In 004 Mei confronta il video virale tagliato con la ripresa dell'attività documentata, senza una doppia spiegazione finale. Questo blocco **non è** quello simultaneo del capitolo 30.
+In 003 un ritardo documentale di ventidue minuti porta Julia a rinviare la visita alla serra di una donna già vestita per uscire; Grace aggiunge `visita rinviata` a mano nel registro che prevede solo ritardi di consegna. La decisione prepara il rifiuto di Helen di perdere un'altra visita nel 22. In 004 Mei confronta il video virale tagliato con la ripresa dell'attività documentata, senza una doppia spiegazione finale. Questo blocco **non è** quello simultaneo del capitolo 30.

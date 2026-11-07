@@ -5,16 +5,16 @@ chapter: chapter:017-mille-piccoli-bi
 number: 1
 title: La soglia di prova
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions:
   - faction:lanter-robotics
 ---
 
-Sei settimane dopo la riunione con Cyberdine, Mei Lin si trovò a scegliere fra due firme.
+Sei settimane dopo la riunione con Cyberdine, Mei Chen si trovò a scegliere fra due firme.
 
 Una autorizzava un secondo ciclo di prove del modulo Collaborazione Contestuale. L'altra approvava l'estensione a centoventi unità già utilizzate da clienti che avevano chiesto di entrare nel programma. La seconda aveva un allegato più spesso e una data di scadenza più vicina.
 

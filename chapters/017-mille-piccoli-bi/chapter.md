@@ -5,15 +5,15 @@ number: 17
 title: Mille piccoli Bi
 canon: canon
 pov:
-  - character:mei-lin
-  - character:ada-serri
-  - character:sofia-rizzi
+  - character:mei-chen
+  - character:grace-morgan
+  - character:sophie-grant
 ---
 
 # Scene
 
 1. La soglia di prova — un modulo derivato da comportamenti osservati in B-17 supera i test limitati e viene autorizzato commercialmente con condizioni non perfette.
-2. Il turno di Ada — in una struttura assistenziale la capacità aggiuntiva porta un beneficio concreto a una persona e una scelta organizzativa non neutra.
+2. Il turno di Grace — in una struttura assistenziale la capacità aggiuntiva porta un beneficio concreto a una persona e una scelta organizzativa non neutra.
 3. La baia numero quattro — in un hub logistico persone e robot lavorano meglio, ma alcune incongruenze preannunciano una fragilità di coordinamento.
 4. Mille non sono uno — Mei scopre che il prodotto si è diffuso per decisioni commerciali indipendenti; i robot non sono copie di Bi e non possiedono la sua memoria.
 
