@@ -70,7 +70,7 @@ Bruno non la guardò subito.
 
 «Non possiamo risolvere il problema della sirena facendo finta che quello non sia successo.»
 
-Nerea annuì. Le sembrò un'altra versione della conversazione avuta con Nico. Le intenzioni non cancellavano la porta aperta senza permesso.
+Nerea annuì. Richiuse la cartellina, ma la tenne sulle ginocchia. Bruno non gliela chiese.
 
 Rimasero qualche minuto a osservare una persona che attraversava il ponte a piedi, con due sacchetti della spesa. Non era un'immagine drammatica. Era qualcuno che doveva arrivare dall'altra parte.
 

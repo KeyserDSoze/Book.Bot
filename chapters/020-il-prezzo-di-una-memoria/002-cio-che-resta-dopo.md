@@ -92,6 +92,6 @@ Mei scrisse invece:
 
 **Non possiamo garantire che il ripristino conservi le modalità di interazione riconoscibili alle persone che hanno conosciuto B-17.**
 
-Mei rilesse la frase. Era l'unica cosa che poteva certificare. Non aggiunse che, se quelle interazioni fossero scomparse, qualcuno sarebbe morto: non avrebbe saputo dimostrarlo. Ma si rifiutò anche di sostituirla con la più rassicurante formula *nessun impatto su soggetti viventi*. Nemmeno quella era una conclusione prodotta dalle prove.
+Mei rilesse la frase. Nel modello di rapporto, più sotto, una casella proponeva *nessun impatto su soggetti viventi*. La lasciò deselezionata. Nessuna delle prove effettuate permetteva di compilare quel campo.
 
 Mei salvò la versione con le tre colonne. Il programma le chiese se volesse sostituire il documento precedente. Selezionò **conserva entrambe le versioni**.

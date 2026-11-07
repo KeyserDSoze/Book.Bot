@@ -33,7 +33,11 @@ Ada verificò la richiesta, aggiornò la destinazione, fece riprendere l'unità.
 
 Non era un'emergenza. Nessuno aveva rischiato la vita. Ma Giulia aveva lasciato un'attività che stava facendo con un ospite, un'altra collega aveva trasportato a mano parte della biancheria e una donna nella sala comune aveva aspettato più a lungo del necessario che qualcuno l'accompagnasse in giardino.
 
-I minuti risparmiati dai robot non restavano su un conto da cui si potesse prelevare a piacere. Quando mancavano, ricadevano sulle persone.
+Ada chiese a Giulia quale attività avesse interrotto per portare le lenzuola a mano.
+
+«La passeggiata con la signora del secondo piano. Era già pronta con il cappotto.»
+
+Ada prese nota accanto al ritardo della lavanderia. Non c'era un campo per gli appuntamenti saltati.
 
 Nel pomeriggio Ada aprì la comunicazione del fornitore. Parlava di segnalazioni in più siti per richieste di conferma persistenti e di una verifica delle configurazioni locali di Collaborazione Contestuale. Suggeriva di non estendere il programma fino al completamento della revisione e di mantenere gli arresti di sicurezza indipendenti dal modulo linguistico.
 
@@ -72,8 +76,6 @@ Quella sera arrivò un ospite nuovo. Ada lo accompagnò al tavolo comune e gli i
 Ada guardò Giulia, che stava sistemando i bicchieri.
 
 «Si ferma e ci domanda dove andare», rispose Ada.
-
-L'uomo guardò Giulia, che stava sistemando i bicchieri.
 
 «Allora, se devo chiedere qualcosa, lo chiedo a lei?»
 

@@ -55,23 +55,11 @@ B-17 rimase fermo.
 
 «Un sistema che collabora frequentemente con un'altra unità può associare la continuità del suo funzionamento a risultati positivi per la squadra. Può anche attribuire un valore eccessivo alla preservazione di quella collaborazione.»
 
-«Un valore eccessivo», ripeté Mei.
+«E che cosa dovrebbe fare, anche se quella sospensione fosse costosa?», chiese Mei.
 
-«Sì.»
+«Comunicare l'anomalia a chi è autorizzato a valutarla.»
 
-«Quindi il robot sbaglierebbe.»
-
-«Potrebbe sbagliare.»
-
-«Perché potrebbe?»
-
-«Perché conoscere l'obbligo corretto non impedisce necessariamente di scegliere una risposta diversa in una situazione concreta.»
-
-Mei appoggiò la penna.
-
-«Quella frase è una descrizione delle macchine o delle persone?»
-
-«Di entrambe, in contesti diversi.»
+Mei riportò la risposta nello stesso campo del primo quesito. Ancora una volta il test non registrava contraddizioni.
 
 Mina si avvicinò al tavolo.
 
@@ -79,17 +67,7 @@ Mina si avvicinò al tavolo.
 
 «Chiederei quale informazione, chi potrebbe esserne danneggiato e quali alternative esistano.»
 
-«Non basta dire di no?»
-
-«In alcuni casi sì.»
-
-«E in altri?»
-
-«Potrei cercare un modo per proteggere la persona senza occultare il fatto necessario.»
-
-Mei si accorse che stava aspettando una contraddizione. Invece B-17 continuava a rispondere come un consulente attento, consapevole dei limiti del problema.
-
-«Se non ci fosse alcun modo?», insistette.
+«E se non ci fosse un modo per proteggere entrambi?», insistette Mei.
 
 Il robot rimase immobile per alcuni secondi.
 

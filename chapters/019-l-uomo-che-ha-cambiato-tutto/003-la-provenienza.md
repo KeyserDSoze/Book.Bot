@@ -23,8 +23,6 @@ Sul tavolo c'erano due rapporti.
 
 Il primo descriveva la modifica clandestina a B-17 per come Cyberdine aveva potuto ricostruirla: capacità conversazionali ampliate, accesso di osservazione non autorizzato, valutazioni parziali. Il secondo documentava la funzione di Collaborazione Contestuale sviluppata da Lanter: nuovi test, nuovi vincoli di applicazione, integrazione con i sistemi dei clienti.
 
-Le differenze erano reali. Anche le somiglianze.
-
 Mei evidenziò una sezione sugli esempi di dialogo. Alcuni scenari utilizzati dal team prodotto derivavano dalla storia diagnostica di B-17 recuperata dopo la cessione. Non c'erano i colloqui privati di Nerea. C'erano descrizioni di risposte inattese, test svolti nel servizio e note su richieste di chiarimento più lunghe del previsto.
 
 Nell'accordo di recupero l'uso dei dati per assistenza tecnica era scritto chiaramente. L'uso per progettare una funzione venduta a un migliaio di clienti no.
