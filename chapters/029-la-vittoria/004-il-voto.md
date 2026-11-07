@@ -107,6 +107,6 @@ Si misero in fila e per cinque minuti parlarono soltanto di che cosa avrebbero o
 
 Le persone continuarono a cantare fino a tardi.
 
-In quel momento, nei magazzini italiani e stranieri, i robot completarono gli incarichi notturni come sempre. Le raccoglitrici agricole furono messe in carica per la mattina. Le unità delle strutture assistenziali spostarono gli ultimi carrelli della giornata. I responsabili prepararono i turni del giorno successivo.
+In quel momento, nei magazzini italiani e stranieri, i robot completarono gli incarichi notturni come sempre. Le raccoglitrici agricole furono messe in carica per la mattina. Le unità delle strutture assistenziali spostarono gli ultimi carrelli della giornata.
 
-Negli uffici gli addetti prepararono i turni del giorno successivo, come avevano fatto la settimana prima.
+I responsabili prepararono i turni del giorno successivo.
