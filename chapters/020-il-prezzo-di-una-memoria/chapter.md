@@ -28,3 +28,8 @@ Non confondere sospensione cautelativa con smantellamento, reset definitivo o mo
 ## Review della responsabilità (terza passata)
 
 In 003 Nico domanda se B-17 sarà informato della possibilità che il ripristino cancelli una parte della sua configurazione e dei suoi ricordi. Lea risponde nel quadro delle sessioni autorizzate: l'ascolto non sostituisce collaudi, consenso giuridico o decisione tecnica. Nico non ha accesso diretto alla macchina.
+
+
+## Quarta review: documentare ciò che non si sa
+
+In 002 Mei conserva l'avvertenza verificabile sulla possibile perdita delle interazioni di B-17, mentre lascia deselezionata la casella `nessun impatto su soggetti viventi`, non certificabile dai test. Non anticipare un verdetto sull'anima o sulla morte; neppure il futuro programma di cancellazione del 35 è già deciso in questo capitolo. In 004 Nerea e Bruno non hanno bisogno di una chiosa del narratore che assimili la sirena alla backdoor di Nico.

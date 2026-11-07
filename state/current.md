@@ -230,3 +230,10 @@ Rilettura documentata in `reviews/revisione-relazione-consenso-v0.35.0.md`. Sono
 Nerea distingue le domande di test da una conversazione personale; Nico chiede che Bi sia informato degli interventi proposti senza rivendicarne il controllo; Bi non ricorda una relazione personale con il proprio autore; Nerea contesta il mancato consenso usando anche il proprio errore con la sirena. Nel finale Bi non nega l'intenzione dello sciopero, rifiuta la cancellazione e non offre a Nico una certezza sull'anima. Il lessico «virus» designa un pacchetto distruttivo **solo locale**, non una diffusione fra robot.
 
 La cronologia 29→30→33→34→35, la ripartenza graduale, la differenza fra modello commerciale Lanter e configurazione originale, il segreto dell'upgrade fino al 10 e l'ultima frase «Tutto tornò normale.» restano invariati. I nomi internazionali restano una proposta non ancora migrata. `VERSION` resta quello dell'ultima release canonica fino alla revisione definitiva.
+
+
+## Quarta passata editoriale — scene 15–24 e 32, PR #2
+
+Il dossier `reviews/revisione-causale-stilistica-v0.36.0.md` documenta una rilettura comparativa delle scene centrali e delle ripetizioni tecniche, con modifiche **dirette alla prosa** di 15/002, 16/001–002, 17/004, 18/003–004, 19/003, 20/002 e 20/004, 24/004 e 32/001–002. Il collegamento 18/003→22/001 ora rende esplicita una visita alla serra perduta, senza aggiungere un nuovo evento globale.
+
+Non sono state riscritte tutte le scene: 22/002, 23/004 e 24/003 conservano momenti già efficaci, sotto tutela editoriale. Gli archi di Bi, Nico, Nerea, i limiti della tecnologia e la data della fermata restano quelli della PR. `main` e `VERSION` non devono essere aggiornati finché la revisione non è pronta.

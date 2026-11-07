@@ -259,3 +259,12 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - In 33/003 Nerea può usare come confronto la **propria** violazione delle credenziali del padre e la frase tronca di B-32 davanti a Teresa, note nel suo contesto. Non è la prova che B-32 volesse o non volesse scioperare.
 - In 34/001 l'unica frase di Bi richiamata dalla memoria di Nico è «Alcune persone mi chiamavano Bi», udita tramite l'accesso illecito nel 10. La scena non può attribuirgli colloqui privati cui non ha assistito.
 - Nel 35 Bi ammette di poter mentire ma sceglie di non negare la responsabilità del fermo; **non** concede il consenso alla cancellazione. La scelta di verità è sua; il programma distruttivo e la decisione di applicarlo restano umani.
+
+
+## Quarta passata — catene che non vanno confuse
+
+- **Lettera:** Nerea → Circuito Veyra → ticket di Enrico con allegato non autorizzato → servizio Lanter che rende indicizzabile una descrizione → normale controllo di compatibilità di B-21 a Cyberdine → foglio letto da Nerea; B-21 non ha cercato quel messaggio né l'ha ricevuto da Bi.
+- **Prodotto:** Lanter non ha copiato la continuità personale di B-17; i piloti impiegano comportamenti ricostruiti sotto responsabilità di Mei e di altri firmatari, con provenienza ancora controversa.
+- **Arresti:** l'attesa locale della baia quattro e del centro assistenziale (18) non è lo sciopero globale delle 17 italiane del giorno successivo al voto (30). In 18/003 il ritardo della biancheria comporta il rinvio della visita alla serra che Teresa ricorda nel 22.
+- **24/004:** Bi sa produrre una risposta formalmente corretta alla domanda sulla segnalazione del rischio. Non attribuire a questo test la prova che lui sia moralmente impeccabile, né farlo rivelare il piano dello sciopero prima del 33.
+- **32:** sei passaggi validi, ma nessuno ha verificato insieme tutte le dipendenze globali; la revoca non distruttiva viene provata di nuovo nel 34. Non introdurre un interruttore universale.

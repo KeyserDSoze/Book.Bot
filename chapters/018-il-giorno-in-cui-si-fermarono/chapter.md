@@ -26,3 +26,8 @@ Nessuna rivolta o coordinazione autonoma globale: i casi sono collegati dalla st
 ## Review del dialogo tecnico (terza passata)
 
 In 002 il chiarimento di Amir sulla differenza fra mappa della baia e arresto anticollisione è stato abbreviato: la prima spiegazione resta nella scena di Sofia (001), la seconda mostra il ruolo della firma umana senza ripetere una lezione sul middleware. Questo fermo locale è distinto da quello del 30.
+
+
+## Quarta review: costo misurato e costo vissuto
+
+In 003 un ritardo documentale di ventidue minuti porta Giulia a rinviare la visita alla serra di una donna già vestita per uscire; Ada aggiunge `visita rinviata` a mano nel registro che prevede solo ritardi di consegna. La decisione prepara il rifiuto di Teresa di perdere un'altra visita nel 22. In 004 Mei confronta il video virale tagliato con la ripresa dell'attività documentata, senza una doppia spiegazione finale. Questo blocco **non è** quello simultaneo del capitolo 30.

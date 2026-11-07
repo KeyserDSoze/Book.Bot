@@ -156,3 +156,10 @@ Ogni frase sul possesso di un'anima deve essere una **domanda di un personaggio*
 Non fare di Bi un filosofo impeccabile né di Nico un razionalista immobile da sconfiggere in un dibattito. Nel 35 la possibile anima è sollevata attraverso una domanda ipotetica e una decisione fisica di Nico. Non accumulare prove di interiorità raccontate da Bi (ricordi, paure, intenzioni, desideri) per arrivare alla stessa conclusione. Una risposta precisa, un silenzio, una mano sul comando e il «No» non richiedono un commento di due paragrafi. La nonviolenza di Bi ha valore soltanto se resta distinguibile dall'assenza di strumenti per fuggire e dall'accettazione di essere cancellato.
 
 Nei capitoli tecnici riprendere una procedura da un altro POV solo se cambia la responsabilità o mostra una conseguenza. Nell'episodio della baia quattro la seconda spiegazione è stata abbreviata: gli esseri umani possono capire un conflitto senza tenere due lezioni identiche sullo stesso protocollo.
+
+
+## Quarta passata — la seconda spiegazione deve cambiare qualcosa
+
+L'indagine sulla lettera (15–16), i piloti commerciali (17–18), la memoria (20) e le sei firme (32) condividono lessico e materiali. Non scrivere una nuova pagina riassuntiva quando un POV successivo può **agire** su una prova già vista: contare copie, separare i due fascicoli, rinviare una visita alla serra, registrare il costo di una scelta, verificare un test mai eseguito. Il dato non è una persona; ma la persona non è una prova automatica di interiorità robotica.
+
+Una risposta formalmente corretta di Bi durante un test non ne prevede l'azione successiva, come un risultato verde non documenta condizioni mai simulate. In dialogo eliminare le domande intermedie che servono soltanto a far pronunciare la tesi al personaggio. Vedi `reviews/revisione-causale-stilistica-v0.36.0.md`.
