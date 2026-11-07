@@ -21,7 +21,7 @@ Il rapporto arrivò a Irene senza il nome di B-17.
 
 Sul frontespizio figurava una formula impersonale: *Analisi comparativa di processi operativi — verifica umana richiesta*. I dettagli sull'autore del primo suggerimento erano in un allegato a cui lei non aveva accesso.
 
-Le chiesero di controllare una parte molto concreta: i passaggi fra il ricevimento di un'eccezione e la firma della persona responsabile.
+Le chiesero di controllare una parte molto concreta: i passaggi fra il ricevimento di un'eccezione software, la verifica dei test e la firma della persona responsabile. Era il pezzo di sviluppo che Irene conosceva meglio: sapeva leggere un risultato automatico, ma anche domandare quale caso non fosse mai stato provato.
 
 Irene riconobbe subito una delle procedure. Aveva passato tre settimane a renderla più chiara dopo che Adriana era andata in pensione, quando ancora sperava che la capacità di mettere ordine le sarebbe valsa un posto migliore.
 
@@ -67,7 +67,7 @@ Kyla ricordò la discussione avuta tempo prima sui KPI che non mostravano i tent
 
 «Mettilo tra le condizioni di approvazione», rispose.
 
-Quel pomeriggio Irene rimase con B-21 davanti a un vecchio terminale che nessuno aveva ancora sostituito. La macchina leggeva gli stati e trascriveva i valori; Irene controllava che un codice di errore non venisse interpretato come l'autorizzazione a proseguire.
+Quel pomeriggio Irene rimase con B-21 davanti a un vecchio terminale che nessuno aveva ancora sostituito. Accanto aveva una patch scritta da un agente software. La proposta era leggibile e passava tutte le prove previste, ma Irene aveva chiesto di eseguire anche il caso che il test non sapeva simulare: un messaggio di errore restituito dal terminale soltanto quando il collegamento veniva ripristinato a metà operazione. Era una delle lezioni che aveva imparato nel mese senza Bi, quando nessun riepilogo era riuscito a sostituire la memoria dei vecchi sistemi. La macchina leggeva gli stati e trascriveva i valori; Irene controllava che un codice di errore non venisse interpretato come l'autorizzazione a proseguire.
 
 «L'operazione richiede un responsabile», disse B-21.
 

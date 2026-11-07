@@ -19,7 +19,7 @@ factions:
 
 Kyla lesse la lettera di Aruvhana in piedi, davanti alla stampante.
 
-Era arrivata alle sei e quarantotto, senza formule di cortesia superflue. La società cliente intendeva rinnovare il contratto di gestione dei propri impianti, ma la prossima gara avrebbe richiesto una riduzione del costo complessivo. Se Cyberdine non fosse riuscita a presentare un'offerta competitiva, Aruvhana avrebbe affidato il servizio a un concorrente.
+Era arrivata alle sei e quarantotto, senza formule di cortesia superflue. La società cliente intendeva rinnovare il contratto per il software di integrazione e continuità dei propri impianti, ma la prossima gara avrebbe richiesto una riduzione del costo complessivo. Se Cyberdine non fosse riuscita a presentare un'offerta competitiva, Aruvhana avrebbe affidato il servizio a un concorrente.
 
 Kyla rilesse la percentuale.
 
@@ -27,9 +27,9 @@ Diciassette per cento.
 
 Non era impossibile. Era soltanto più di quanto Lorenzo Verri avesse previsto.
 
-Da anni Cyberdine collegava sistemi che le imprese non potevano permettersi di sostituire: linee di controllo di generazioni diverse, terminali che parlavano ancora con software vecchio, registri da confrontare, allarmi da tradurre in procedure, macchinari da mettere in sicurezza mentre altri continuavano a lavorare. La promessa commerciale era semplice: non fermare una fabbrica per sostituire tutta la fabbrica.
+Da anni Cyberdine progettava e manteneva software che collegava sistemi che le imprese non potevano permettersi di sostituire: interfacce fra linee di controllo di generazioni diverse, connettori con software vecchio, registri da confrontare, allarmi da tradurre in procedure, piattaforme di coordinamento per macchinari che dovevano continuare a lavorare. Un tempo gli sviluppatori scrivevano quelle integrazioni riga per riga; poi gli agenti avevano cominciato a produrre codice e test a partire da istruzioni di alto livello, lasciando ai team la verifica e i rilasci. Il lavoro non era sparito; si era spostato dove era più difficile capire chi possedesse ogni dettaglio. La promessa commerciale era semplice: non fermare una fabbrica per sostituire tutta la fabbrica.
 
-Aruvhana era il cliente che aveva trasformato quella promessa in un'impresa grande. Pagava Cyberdine per tenere insieme più sedi, personale di manutenzione, centri di controllo e attività che, viste dall'esterno, sembravano non avere nulla in comune.
+Aruvhana era il cliente che aveva trasformato quella promessa in un'impresa grande. Pagava licenze, sviluppo dedicato, manutenzione e disponibilità dei servizi software che facevano dialogare sedi diverse, squadre di manutenzione, centri di controllo e attività che, viste dall'esterno, sembravano non avere nulla in comune.
 
 Il contratto impiegava direttamente o indirettamente centinaia di persone.
 
@@ -59,7 +59,7 @@ Kyla si sedette.
 
 Verri aprì il foglio che aveva davanti.
 
-Non era un'azienda sull'orlo del fallimento. Aveva altri clienti, altri contratti e conti che ancora reggevano. Ma la fine di quell'accordo avrebbe lasciato scoperti due nuclei operativi, alcuni turni di reperibilità e una squadra di specialisti che aveva imparato a conoscere macchinari fuori produzione.
+Non era un'azienda sull'orlo del fallimento. Aveva altri clienti, altri contratti e conti che ancora reggevano. Ma la fine di quell'accordo avrebbe lasciato scoperti due team di sviluppatori, un gruppo di verifica software, i turni di supporto e una squadra di specialisti che aveva imparato a conoscere macchinari fuori produzione.
 
 «Trecentoquarantuno rapporti di lavoro dipendono in misura rilevante da quel servizio», disse.
 
@@ -75,7 +75,7 @@ Kyla si accorse che lui aveva già preparato una prima simulazione. Sulla tabell
 
 La terza aveva più caselle vuote delle altre.
 
-«Le procedure di verifica documentale e coordinamento delle eccezioni sono ancora molto costose», disse Verri. «Paghiamo persone competenti per far circolare dati che i sistemi potrebbero già confrontare.»
+«Le procedure di verifica dei rilasci, ricostruzione delle anomalie e coordinamento delle eccezioni sono ancora molto costose», disse Verri. «Paghiamo persone competenti per far circolare dati che i sistemi potrebbero già confrontare.»
 
 Kyla pensò a Irene Valli, che aveva costruito una procedura capace di evitare un errore ricorrente. Quel lavoro aveva liberato ore, ma non aveva prodotto un nuovo ruolo senior.
 

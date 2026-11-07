@@ -37,11 +37,11 @@ Marta firmò l'autorizzazione per una singola sessione analitica.
 
 Bi era seduto davanti allo schermo locale. Poteva esaminare schemi e descrizioni, produrre ipotesi e preparare una relazione; non poteva inviare ordini, toccare i sistemi Cyberdine o attivare altri robot. Un tecnico confermò il perimetro, poi Mina avviò la conversazione.
 
-«Devi individuare alternative per ridurre il costo di un servizio di integrazione industriale. I dati sono incompleti. Ogni proposta dovrà indicare le verifiche necessarie e le conseguenze sul lavoro.»
+«Devi individuare alternative per ridurre il costo di una piattaforma software di integrazione industriale e il suo servizio di manutenzione. I dati sono incompleti. Ogni proposta dovrà indicare le verifiche necessarie e le conseguenze sul lavoro.»
 
 «Ricevuto.»
 
-Il primo suggerimento fu banale: eliminare una doppia riconciliazione fra due registri che Cyberdine già confrontava a fine turno.
+Il primo suggerimento fu banale: eliminare una doppia riconciliazione fra due registri che i connettori di Cyberdine già confrontavano a fine turno. La modifica sarebbe stata proposta come codice dal gruppo di sviluppo e collaudata su dati sintetici, non applicata da B-17 ai sistemi dei clienti.
 
 Il secondo venne respinto. B-17 aveva supposto che una validazione potesse essere anticipata, ma quella fase richiedeva la verifica fisica di un operatore abilitato.
 
@@ -55,7 +55,7 @@ Il terzo richiese mezz'ora di confronto con un esperto umano, collegato senza co
 
 «Potrebbe essere utilizzato un registro di coordinamento condiviso, governato dalle autorizzazioni dei singoli siti», propose B-17. «Le proposte del sistema conversazionale resterebbero distinte dai comandi certificati dei controllori.»
 
-«Un altro software da manutenere», obiettò l'esperto.
+«Un altro software da manutenere», obiettò l'esperto. «E un altro livello di codice che gli sviluppatori potrebbero finire per conoscere soltanto attraverso le spiegazioni degli agenti.»
 
 «Sì. Il suo costo andrebbe confrontato con il tempo umano speso a riconciliare i passaggi fra fornitori.»
 
@@ -81,7 +81,7 @@ Quando arrivarono ai risultati, il tecnico mostrò una tabella con più scenari.
 
 La soluzione più conservativa riduceva alcuni duplicati senza cambiare il personale. Non bastava a raggiungere il nuovo prezzo richiesto da Aruvhana.
 
-Una seconda prevedeva un progetto più ampio: automazione di controlli ripetitivi, migliore coordinamento dei turni e un sistema per condividere attestazioni verificabili fra macchine di produttori diversi.
+Una seconda prevedeva un progetto più ampio: agenti di sviluppo impiegati anche nella manutenzione di connettori già esistenti, verifica automatizzata di controlli ripetitivi, migliore coordinamento dei turni e un sistema per condividere attestazioni verificabili fra macchine di produttori diversi. I rilasci restavano sotto responsabilità umana, ma diminuivano i passaggi per cui serviva un programmatore dedicato.
 
 Avrebbe potuto rendere competitiva l'offerta.
 
