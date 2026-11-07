@@ -10,6 +10,7 @@ characters:
   - character:kyla
   - character:visitors
   - character:nico-valenti
+  - character:b-17
 locations:
   - location:cyberdine-campus
 factions:

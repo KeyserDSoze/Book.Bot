@@ -122,6 +122,6 @@ Sul telefono trovò un messaggio di una delle aziende incontrate.
 
 *Grazie per la disponibilità. Il ruolo è stato rinviato alla prossima verifica del fabbisogno.*
 
-Irene chiuse la notifica senza cancellare il numero. Poi scrisse a Nerea che sarebbe andata a prendere la libreria che aveva trovato usata, anche se non aveva ancora un posto fisso.
+Irene chiuse la notifica senza cancellare il numero. Poi aprì sul telefono la fotografia di una libreria usata, trovata giorni prima. Era ancora disponibile. La salvò, ma non contattò il venditore.
 
-Non era una decisione sul futuro del lavoro. Era una decisione su due sedie di cucina che non voleva più occupate dai libri.
+Le sembrò assurdo avere imparato a decidere sui sistemi di un'intera azienda e continuare a rimandare una decisione su due sedie di cucina occupate dai libri.
