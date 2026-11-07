@@ -27,7 +27,7 @@ La sedia vuota di fronte a Elena aveva ancora una giacca appoggiata sullo schien
 
 Elena non avrebbe interrotto quel corso per una fotocopia.
 
-Aprì la schermata delle attività disponibili. Sotto una fila di richieste comparve l'identificativo **B-17**, con un cerchietto verde.
+Aprì la schermata delle attività disponibili. Sotto una fila di richieste comparve l'identificativo **B-17**, con un cerchietto verde. Fino alla settimana precedente quell'unità aveva tagliato l'erba e spostato attrezzi tra i giardini del campus. Il servizio generale l'aveva destinata a commissioni interne, dopo aver verificato che potesse attraversare i piani e manipolare materiali senza danneggiarli. Non era diventata improvvisamente una specialista di ufficio. Doveva soltanto imparare un altro mestiere di piccole cose.
 
 Scrisse: *Ritira la scheda azzurra dal cassetto autorizzato dell'archivio quattro. Produci tre copie leggibili fronte singolo. Consegna una copia alla postazione verifica B, due alla mia scrivania. Originale nel vassoio protetto.*
 
@@ -35,7 +35,7 @@ Il sistema mostrò il percorso previsto, i dispositivi consentiti e una nota di 
 
 Dall'altra parte della parete vetrata, B-17 si staccò da una postazione, allineò il contenitore che portava con un carrello in attesa e prese il corridoio centrale. Elena lo vide passare accanto al distributore d'acqua, rallentare davanti a due impiegati usciti da una sala riunioni e svoltare dietro l'angolo.
 
-Quando si risiedette, la schermata segnalava che l'attività era in corso.
+Quando si risiedette, la schermata segnalava che l'attività era in corso. Sul terminale accanto era rimasta aperta la coda del reparto sviluppo: un agente software aveva proposto di correggere tre righe di un connettore, e un programmatore stava controllando il confronto con il codice precedente. Quello era lavoro che non richiedeva né gambe né mani metalliche. Elena aveva chiesto un robot soltanto perché l'originale firmato stava ancora in un cassetto reale.
 
 Avere una commissione eseguita senza dover telefonare a tre persone restava, per Elena, una forma concreta di civiltà.
 

@@ -91,19 +91,19 @@ Elena guardò il foglio bianco sulla calamita. «Almeno questo è servito a qual
 
 Kyla registrò mentalmente la frase. Aveva appena ricevuto un documento sulle nuove procedure di integrazione tra operatori e bot; conteneva molte pagine sulla riduzione dei tempi. Non ne conteneva una sulla ragione per cui qualcuno dovesse spostare un carrello o scrivere *cornice, qui* sotto una fotocopiatrice.
 
-Il telefono vibrò. Il referente del flusso clienti le aveva risposto a proposito della richiesta che lei gli aveva inoltrato durante la visita di Aruvhana.
+Il telefono vibrò. Il referente del flusso clienti le aveva risposto a proposito della prova proposta dall'agente software durante la visita di Aruvhana. In quei giorni B-17 aveva segnalato, mentre portava le pratiche cartacee, che un documento escluso dal riepilogo poteva comunque rivelarsi utile al revisore. Il referente aveva unito le due osservazioni per un test circoscritto. A Kyla parve una collaborazione molto modesta: un agente digitale suggeriva un cambiamento e un robot addetto alle commissioni trovava il punto in cui quella proposta non bastava ancora.
 
-*Proposta B-17: alternative scartate visibili nel riepilogo. Test consentito su casi di prova, nessuna variazione delle approvazioni correnti. Verifica del team a fine ciclo.*
+*Proposta agente di sviluppo / osservazione B-17: alternative scartate visibili nel riepilogo. Test consentito su casi di prova, nessuna variazione delle approvazioni correnti. Verifica del team a fine ciclo.*
 
 Kyla lesse il messaggio una seconda volta. Non era un permesso generale. Era una prova controllata, con un responsabile umano e un limite chiaro. Esattamente il genere di miglioramento che Cyberdine aveva cominciato a ottenere da quando i bot erano entrati nei processi.
 
 «Buone notizie?» domandò Elena.
 
-«Una proposta che ci farà vedere meglio come prendiamo certe decisioni. Per ora la proviamo su dati di test.»
+«Un agente software ha proposto una modifica. B-17 ci ha mostrato dove potrebbe essere utile quando quei dati diventano fascicoli veri. Per ora la proviamo su casi sintetici.»
 
 «Di chi è?»
 
-«B-17.»
+«L'agente, insieme a un'osservazione di B-17.»
 
 Paolo guardò la sala copie. «È un talento poliedrico.»
 

@@ -21,7 +21,7 @@ Paolo Ferri conosceva la fotocopiatrice del quarto piano abbastanza bene da dist
 
 Una vibrazione corta significava che il vassoio non era entrato fino in fondo. Due colpi metallici annunciavano quasi sempre una pagina trattenuta dai rulli. Se invece la macchina emetteva un sospiro lungo e regolare, c'era da preoccuparsi: stava per eseguire la manutenzione automatica proprio quando qualcuno ne aveva bisogno.
 
-Quella mattina, vedendo arrivare B-17 con la scheda azzurra sospesa tra le dita, Paolo decise di restare vicino alla porta.
+Quella mattina, vedendo arrivare B-17 con la scheda azzurra sospesa tra le dita, Paolo decise di restare vicino alla porta. Da pochi giorni la macchina era salita dai giardini al quarto piano. Quando aveva visto il tagliaerba tornare da solo nella rimessa, Paolo aveva pensato che tutto sommato l'informatica fosse un mestiere più semplice: un errore di software si corregge, una bordura tagliata storta bisogna aspettare che ricresca.
 
 «Facciamo una scommessa», disse Mila, che lo aveva seguito per recuperare una stampa.
 
@@ -83,7 +83,7 @@ Elena, richiamata dalla notifica, comparve sulla soglia. Lesse la richiesta, con
 
 L'interfaccia mostrò la nuova opzione al robot. B-17 prese la cornice, la collocò con una precisione sorprendente e inserì il foglio nel rettangolo, aiutato dai bordi rigidi.
 
-«Guarda», disse Mila. «Con il righello è già un altro.»
+«Guarda», disse Mila. «Una settimana fa tagliava il prato, adesso gli insegnano anche il verso dei fogli.»
 
 «Non è un righello.»
 
