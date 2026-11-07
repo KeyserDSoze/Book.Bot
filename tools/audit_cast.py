@@ -12,7 +12,7 @@ CAST = ROOT / "guidelines" / "cast-rename-map.json"
 
 def exact_token(text: str, token: str) -> re.Match[str] | None:
     """Match names, including Unicode, without matching pieces of longer words."""
-    return re.search(r"(?<![\\w])" + re.escape(token) + r"(?![\\w])", text)
+    return re.search(r"(?<!\w)" + re.escape(token) + r"(?!\w)", text)
 
 
 def main() -> None:
@@ -46,7 +46,7 @@ def main() -> None:
         for legacy in sorted(forbidden, key=len, reverse=True):
             found = exact_token(source, legacy)
             if found:
-                line = source.count("\\n", 0, found.start()) + 1
+                line = source.count("\n", 0, found.start())
                 failures.append(f"{relative}:{line}: legacy name or reference {legacy!r}")
                 if len(failures) >= 40:
                     break
