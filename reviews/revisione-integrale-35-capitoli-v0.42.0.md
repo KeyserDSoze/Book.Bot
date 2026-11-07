@@ -131,7 +131,7 @@
 ### 22. La persona migliore della stanza
 **Funziona:** Helen ama l'attenzione di B-32, ma Chloe porta una torta e una stanchezza che nessuna risposta cortese del robot può cancellare. Hannah scambia per persona una macchina incontrata parlando con un'altra donna. Sono scene di relazioni, non di diagrammi.
 
-**Già corretto:** la collega alla serra è **Lucy**, non la figlia di Helen né un alias di Julia; «ad Grace» è stato corretto. **Da curare — priorità bassa:** ogni persona deve poter essere sgarbata o stanca senza diventare per questo inferiore a B-32.
+**Già corretto:** la collega alla serra è **Lucy**, non la figlia di Helen né un alias di Julia; è stata corretta anche una preposizione impropria davanti al nome Grace. **Da curare — priorità bassa:** ogni persona deve poter essere sgarbata o stanca senza diventare per questo inferiore a B-32.
 
 ### 23. Il capo che tutti volevano
 **Funziona:** **diciannove** lavoratori chiedono che B-37 suggerisca turni trasparenti; Ruby finalmente accompagna il figlio, poi scopre di avere meno straordinari. La direzione sceglie di non rinnovare **due** contratti. È forse il capitolo più convincente nel mostrare una conquista che ha un costo.
@@ -207,8 +207,8 @@
 | Natura | Prima | Ora | Stato |
 | --- | --- | --- | --- |
 | Cast omonimo | *Chloe* era la figlia di Helen e anche un'addetta dell'Hub | L'addetta dell'Hub è **Avery** nei capitoli 17–18, con scheda e frontmatter dedicati | **Corretto** |
-| Personaggi minori | **Lucia** (serra) e **Luciana** (crisi) erano rimaste escluse dalla migrazione | **Lucy** e **Lauren**, schede individuali e riferimenti di scena | **Corretto** |
-| Grammatica post-migrazione | «ad Grace» dopo il cambio del nome Ada | «a Grace» | **Corretto** |
+| Personaggi minori | Due nomi italiani di operatrici della serra e della crisi erano rimasti nella prosa | **Lucy** e **Lauren**, schede individuali e riferimenti di scena | **Corretto** |
+| Grammatica post-migrazione | Preposizione eufonica impropria davanti al nome della responsabile | La forma corretta usa **a Grace** | **Corretto** |
 | Provenienza tecnica | 32/002 parlava impropriamente di «firma di B-17» | firma di **Veyra**, Bi come origine del test | **Corretto** |
 | File di scena | quattro scene conservavano nei percorsi e ID vecchi nomi italiani di Margaret, Claire e Grace | percorso e ID corrispondenti ai nuovi nomi, senza rinumerare capitoli | **Corretto** |
 | Echo editoriali | guida degli indizi confondeva la figlia Chloe con la collega dell'Hub | guida ora parla di **Avery**, senza introdurre un legame familiare falso | **Corretto** |
