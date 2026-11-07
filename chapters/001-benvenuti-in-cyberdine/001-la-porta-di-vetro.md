@@ -19,82 +19,72 @@ factions:
 
 «Benvenuti in Cyberdine.»
 
-Kyla lasciò che le porte di vetro si richiudessero alle spalle degli ospiti prima di fare un passo di lato.
+Kyla aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
 
-Era un dettaglio che aveva imparato durante i primi mesi nel reparto Marketing: quando mostri qualcosa di davvero notevole, non metterti davanti.
+La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
-L'atrio occupava tre piani di luce. Un giardino sospeso scendeva dal soffitto fino a una vasca circolare; l'acqua correva su una lastra di pietra così sottile che, a distanza, pareva appesa nell'aria. Oltre il vetro interno, due figure metalliche attraversavano il pavimento con piccoli contenitori tra le mani. Una terza si fermò davanti a un pannello, inclinò appena il busto e ripartì.
+«Dove sono le vostre macchine?», chiese Sahir Venn.
 
-La delegazione di Aruvhana aveva percorso quasi tutta la sala senza accorgersi dei robot.
+«Le state già vedendo. Solo che la maggior parte non ha ruote.»
 
-Vicino al banco d'accoglienza, Nico Valenti, del gruppo di sviluppo, stava aiutando un addetto con una porta di servizio. Sul terminale la verifica risultava completata, ma il varco restava chiuso. Nico non si precipitava sulla tastiera; ascoltò l'uomo spiegare quando aveva visto accendersi la spia, controllò il lettore e segnò qualcosa sul proprio taccuino.
+Sahir si aggiustò il badge. Leïa Orren, al suo fianco, guardava qualcosa fuori dal vetro.
 
-Kyla lo salutò da lontano. Lui rispose alzando due dita, senza perdere il filo. Era uno degli sviluppatori migliori nel capire dove un sistema smetteva di essere utile a chi lo usava. A volte, nelle riunioni, dimenticava di guardare negli occhi la persona a cui stava parlando. Kyla aveva imparato a riconoscere entrambe le cose.
+Un robot camminava dietro un tagliaerba elettrico lungo la striscia verde che separava il vialetto dal parcheggio. Si fermò davanti a una piastrella sporgente, arretrò la macchina e la fece passare da un altro lato. La bordura rimase storta per una decina di centimetri. Un giardiniere indicò il punto con la mano; il robot tornò indietro.
 
-Il telefono vibrò nella tasca della giacca. Un'amica le aveva scritto: *Ho preso due biglietti per stasera. Stavolta non puoi fare tardi*. Kyla non ricordava nemmeno il titolo del film; ricordava di aver annullato le ultime due uscite, una per una presentazione da correggere e l'altra per una telefonata che avrebbe potuto aspettare.
+Leïa sorrise. «È questa la grande automazione?»
 
-Rispose con un pollice alzato. Si promise che quella sera avrebbe lasciato il telefono nella borsa, in modalità silenziosa. Era una promessa piccola e le dava più apprensione della visita di Aruvhana. Gli ospiti, almeno, avevano ricevuto un programma con un'ora di fine.
+«Quella è una delle piccole», rispose Kyla. «Unità B-17. Sta imparando le manutenzioni del giardino. I giardinieri hanno chiesto che i robot iniziassero da qui, dove un errore si vede subito e non ferma il lavoro di un cliente.»
 
-Al di là del vetro, un robot stava tagliando l'erba lungo il bordo del giardino. Procedeva dietro una piccola macchina elettrica da manutenzione, frenando ogni volta che una ruota incontrava la pietra del vialetto. Non era la dimostrazione prevista; un giardiniere gli indicò una striscia rimasta più alta e quello tornò indietro di mezzo metro.
+Sahir cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, quindi?»
 
-Sul fianco, appena visibile sotto le tracce di polvere, c'era il codice B-17. Kyla aveva visto quell'unità anche la settimana prima, mentre raccoglieva contenitori vuoti e trasportava attrezzi dalla rimessa. I robot si erano fatti conoscere lì, tra prati e carrelli, prima che gli impiegati imparassero a riconoscerli nei corridoi.
+«No. Arrivano da Lanter, in Cina. Cyberdine è una software house. Noi scriviamo ciò che permette ai sistemi dei nostri clienti di lavorare insieme: quelli nuovi, quelli che nessuno vuole più toccare e quelli che funzionano troppo bene per permettersi di sostituirli.»
 
-Kyla tornò agli ospiti.
+All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Nico Valenti, con una custodia di attrezzi e una felpa chiusa fino al collo.
 
-«Non vedo linee di produzione», disse Sahir Venn.
+Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Nico ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
-Era alto, indossava un completo senza cravatta e teneva il tesserino da visitatore tra due dita, come se volesse leggerne anche il retro.
+«Questo è un vostro programmatore?», chiese Sahir.
 
-«Non le vedrete», rispose lei. «Cyberdine sviluppa software. La cosa che vendiamo è ciò che fa funzionare insieme i sistemi dei nostri clienti, soprattutto quando non sono stati progettati per parlarsi. Il nostro stabilimento sono i laboratori, il codice e le persone che lo mantengono.»
+«Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»
 
-Leïa Orren, accanto a lui, aveva già individuato il primo robot. Lo seguì con lo sguardo mentre evitava un gruppo di persone, rallentava e riprendeva la propria traiettoria.
+Nico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. Poi tornò a parlare con l'addetto. Non sapeva che Kyla lo stesse indicando come un esempio; forse avrebbe protestato se lo avesse saputo.
 
-«Da quanto sono qui?»
+Il telefono vibrò nella tasca della giacca.
 
-«Le prime unità sono arrivate dalla Cina ventisei giorni fa. Le avete incrociate entrando. Non hanno un aspetto particolarmente teatrale, vero?»
+*Stasera cinema. Ti ricordi?*, aveva scritto l'amica che le aveva comprato due biglietti dopo tre inviti rimandati.
 
-Leïa sorrise. «Mi aspettavo qualcosa di più rumoroso.»
+*Mi ricordo*, rispose. Non era del tutto vero: non ricordava il titolo del film. Ricordava soltanto di aver promesso che stavolta non avrebbe lavorato dopo le sette. Lasciò il telefono in tasca.
 
-«Anche noi. Poi abbiamo scoperto che la trasformazione più grande non avrebbe fatto rumore.»
+«Da quanto tempo usate i robot?», chiese Leïa.
 
-Kyla si avviò lungo la passerella. I visitatori le si disposero accanto senza bisogno di essere invitati. Era una buona partenza: camminavano già come un gruppo, non come una delegazione da convincere.
+«Ventisei giorni nel campus. Gli agenti AI, invece, lavorano con noi da molto più tempo.»
 
-Sulla parete di fronte a loro scorrevano parole e numeri. Non era il solito video istituzionale. I dati cambiavano di secondo in secondo, e i piccoli cerchi verdi si muovevano sulla pianta dell'edificio per indicare la posizione delle unità operative.
+Kyla li accompagnò davanti a una parete su cui scorrevano le attività del reparto sviluppo. Non mostrava soltanto statistiche: una richiesta scritta in linguaggio naturale, il codice che un agente proponeva di modificare, i test generati e il nome della persona chiamata a rivedere la proposta.
 
-«All'inizio avevamo agenti software», disse Kyla. «Leggevano i ticket, proponevano correzioni, preparavano i test. Un programmatore apriva il risultato, controllava il codice e decideva se integrarlo. Poi abbiamo cominciato a collegare quegli strumenti ai robot. Non perché ogni problema richieda un corpo, ma perché nel mondo dei nostri clienti ci sono ancora pulsanti, documenti firmati e macchine che non espongono nessuna interfaccia moderna.»
+«Un tempo lo sviluppatore prendeva un ticket e scriveva il connettore riga per riga. Oggi può chiedere all'agente di predisporre una modifica. Ma deve ancora capire che cosa accadrà quando il codice incontrerà il programma del cliente.»
 
-«Non significa che capiscano sempre quello che gli viene chiesto», osservò Sahir.
+Sahir guardò un riquadro verde.
 
-«No. E soprattutto non significa che abbiano sempre ragione.»
+«Questo significa che l'agente aveva ragione?»
 
-Kyla appoggiò il palmo alla parete. Comparve il disegno di una frase in linguaggio naturale collegata a una sequenza di operazioni. Alcuni passaggi si accendevano in azzurro, altri restavano grigi.
+«Che i test previsti sono passati. Non è la stessa cosa.»
 
-«Questa è stata la svolta. Non abbiamo collegato un modello direttamente ai motori. Gli abbiamo dato strumenti delimitati: vedere uno stato, consultare una procedura, proporre un piano, chiedere l'esecuzione di un'azione autorizzata. Il controllo dei movimenti, dei limiti di sicurezza e degli accessi resta in sistemi separati, verificabili. Se un passaggio esce dal perimetro, si ferma.»
+Kyla preferiva quella risposta a qualsiasi promessa d'infallibilità. Era una frase che i tecnici avevano ripetuto abbastanza volte perché anche il Marketing imparasse a usarla senza alterarne il senso.
 
-«Quindi la macchina parla e qualcun altro le impedisce di fare sciocchezze», disse Leïa.
+«E i robot?», domandò Leïa. «Perché dare braccia a un sistema che può scrivere software?»
 
-«Detta così, è un'ottima definizione anche di parecchie riunioni.»
+«Perché il mondo non è soltanto software.»
 
-Risero. Perfino Sahir, che fino a quel momento aveva conservato un'espressione di cortese diffidenza.
+Kyla indicò, oltre la vetrata, il tagliaerba fermo davanti a una panchina. B-17 attendeva che un dipendente recuperasse la propria borsa prima di continuare.
 
-Kyla non approfittò della battuta. Sapeva quando lasciare che un concetto trovasse posto da solo.
+«Un agente può proporre un collegamento perfetto. Poi, nel sito del cliente, trovi un terminale che conferma l'operazione con due spie invece che con un messaggio digitale. O una firma che esiste soltanto sulla carta. Per quelle cose servono ancora mani, occhi e qualcuno che possa fermarsi se il passaggio non è sicuro.»
 
-Al di là della parete, un uomo con i capelli bianchi osservava due robot accostarsi a un armadio di controllo. Non portava un tablet, non toccava nulla. Li vide completare una verifica, sollevò il pollice e tornò verso una collega che lo aspettava con due tazze di caffè.
+«Quindi una volta imparato a tagliare il prato lo mandate a programmare?»
 
-«Prima i modelli scrivevano», continuò Kyla. «Adesso, attraverso un corpo e una serie di strumenti controllati, possono collaborare anche con il mondo fisico. Un vecchio sistema può restare com'è. Non dobbiamo convincerlo a diventare nuovo. Possiamo insegnare a un bot a usare quello che già esiste.»
+Kyla rise. «Per il momento sarei contenta che non tagliasse anche i fiori. Lo sviluppo è dietro quella porta, invece. E non ha ancora smesso di aver bisogno di persone.»
 
-Leïa si fermò davanti al vetro.
+Fuori, B-17 terminò la striscia d'erba. Il giardiniere controllò il bordo e gli diede un cenno. Non ci furono applausi.
 
-«E a chi resta il comando?»
+Kyla aprì la porta del laboratorio.
 
-Era la domanda che Kyla aspettava. Non perché fosse prevista nella presentazione, ma perché costringeva a mostrare ciò che riteneva più importante.
-
-«Alle persone. Sempre nelle decisioni che contano. Il modello prepara. Il robot esegue ciò che è autorizzato. Un responsabile umano approva quando serve assumersi una responsabilità. Non abbiamo automatizzato il giudizio.»
-
-Un gruppo di dipendenti attraversò l'atrio parlando a voce alta di una gita prevista per il fine settimana. Nessuno sembrava affrettarsi.
-
-Kyla indicò la porta successiva.
-
-«Venite. Voglio farvi vedere che cosa produce una software house quando il mondo intorno non ha nessuna intenzione di aggiornarsi.»
-
-Oltre il vetro li aspettava una fila di macchine vecchie di vent'anni.
+«Volevo mostrarvi una cosa che vendiamo da vent'anni e che ancora oggi molti clienti non possono sostituire.»

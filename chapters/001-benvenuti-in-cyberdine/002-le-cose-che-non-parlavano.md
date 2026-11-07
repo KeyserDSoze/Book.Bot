@@ -17,92 +17,80 @@ factions:
   - faction:aruvhana
 ---
 
-La porta si aprì su un odore di metallo tiepido e plastica antica. Da un lato c'erano terminali di prova collegati a simulatori di impianti dei clienti; dall'altro, dietro una vetrata, sviluppatori davanti a schermi pieni di codice, diff e risultati di test. Cyberdine non costruiva quelle macchine: scriveva il software che doveva farle lavorare insieme senza interrompere quello che già funzionava.
+Il laboratorio dei sistemi vecchi aveva un difetto che Kyla non riusciva a far sistemare: odorava di plastica calda anche quando tutte le apparecchiature erano spente.
 
-Lì dentro non c'erano pareti trasparenti, né piante sospese. C'erano armadi grigi, tastiere con tasti lucidi per l'uso e display che avevano conosciuto generazioni di ingegneri. Un ronzio lieve arrivava dal soffitto.
+Leïa entrò e si fermò davanti a un terminale beige. Sotto lo schermo c'era un lettore che accettava tessere magnetiche di un formato fuori commercio.
 
-Sahir passò una mano sul bordo di una console. «Questa la riconosco.»
+«Questo lo usavamo nella sede di mio padre», disse.
 
-«Non siete i soli», disse Kyla. «Qualcuno ci ha chiesto perché non l'abbiamo sostituita.»
+«Probabilmente il vostro era più nuovo», rispose Kyla. «Questo è arrivato con il suo manuale originale. Mancano soltanto tre pagine, quelle che spiegano la procedura d'errore.»
 
-«E perché?»
+Sahir si chinò sul pannello. «E voi vendete software per tenerlo in vita?»
 
-«Perché funzionava.»
+«Per permettergli di parlare con il resto. Non siamo antiquari.»
 
-Davanti a un pannello con otto spie colorate, un robot alzò il braccio. La mano, composta da dita sottili rivestite di materiale opaco, ruotò un selettore di pochi gradi. Attese la variazione di due luci. Poi fotografò una piccola schermata, confrontò il risultato con una lista sul proprio terminale e premette un pulsante fisico.
+Dietro il vetro un programmatore di Cyberdine aveva aperte due finestre. A sinistra una richiesta del cliente: *riconciliare i risultati del registro locale senza ripetere le operazioni già confermate*. A destra una proposta di codice prodotta da un agente, accompagnata dal confronto con la versione precedente.
 
-Non era veloce. Lo faceva con la precisione paziente di chi non ha alcun motivo di anticipare il passaggio seguente.
+«Il nostro lavoro è sempre stato scrivere interfacce», spiegò Kyla. «Chi sviluppa un sistema nuovo di solito non vuole conoscere il passato di tutti gli altri. Noi facciamo in modo che una macchina costruita vent'anni fa e un servizio appena installato non si scambino promesse che non possono mantenere.»
 
-«Il nostro lavoro è sempre stato questo», spiegò Kyla. «Prendere sistemi diversi e scrivere ciò che permette loro di parlarsi. Per una delle ultime integrazioni abbiamo impiegato dodici sviluppatori per otto mesi. Poi gli agenti software hanno cominciato a prepararci patch, prove di regressione e confronti tra versioni. I programmatori sono rimasti a decidere l'architettura e a verificare i risultati. Oggi, quando manca un'interfaccia digitale, un robot può perfino usare fisicamente il vecchio terminale.»
+«E quanto vi costava?»
 
-Leïa guardò il pannello. «E oggi?»
+«Alcune commesse richiedevano mesi e squadre intere. Gli agenti di sviluppo hanno cambiato quel lavoro. Oggi preparano adattatori, test, documentazione tecnica. Questo non significa che la versione pronta sia automaticamente quella giusta.»
 
-«Oggi non siamo costretti a far parlare digitalmente tutto con tutto. Dove ha senso, continuiamo a integrare i sistemi. Dove non ha senso, il robot osserva le spie, usa una tastiera, esegue una procedura visiva. L'automazione può restare meccanica. È il bot a fare da ponte.»
+Dall'altra parte del vetro il programmatore fermò il cursore su una riga evidenziata. Indicò a una collega il punto sullo schermo; lei scrollò fino a una funzione precedente, poi scosse la testa. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
 
-«Un essere umano potrebbe fare esattamente quelle operazioni.»
+«Perché non accettano la proposta?», chiese Leïa.
 
-«Le ha fatte per anni. Era proprio il problema.»
+«Hanno trovato un caso che il test non comprende. La macchina sa fare ciò che le chiediamo. Qualche volta dobbiamo ricordarci che cosa non le abbiamo chiesto.»
 
-Kyla si avvicinò alla console e mostrò il registro di un'attività appena completata. In basso c'erano l'identificativo del bot, l'ora, l'esito della verifica e una casella riservata al responsabile.
+La porta si aprì per lasciar passare un tecnico con un vassoio protetto. Portava una tastiera di ricambio e una tessera di prova. Prima di avvicinarsi al banco chiese che la macchina fosse messa nello stato consentito. Nessuno aveva fretta di saltare quel passaggio.
 
-«Pensate a una persona brillante che passa un pomeriggio a ricopiare valori da una schermata a un'altra. Il lunedì successivo deve ricominciare. A fine mese ha ancora le stesse schermate davanti. Non le stiamo togliendo il lavoro più interessante. Glielo stiamo restituendo.»
+Sahir indicò una spia arancione.
 
-Sahir esaminò la casella vuota.
+«Perché qui c'è ancora un pulsante fisico? Se siete bravi a scrivere connettori, perché non leggete direttamente il segnale?»
 
-«Quella parte chi la compila?»
+«Perché il costruttore non ha mai previsto una interfaccia per quel segnale. E perché sostituire il controllo costerebbe più del servizio che il cliente ci chiede. Possiamo installare sensori, realizzare un adattatore, oppure usare una procedura verificata che legge il pannello e agisce sui comandi consentiti. Dipende dal rischio, dalle autorizzazioni e da chi deve rispondere di quell'azione.»
 
-«Chi risponde della decisione. Il bot può controllare che i numeri coincidano. Non può stabilire, al posto nostro, che cosa siamo disposti ad accettare.»
+Un robot si avvicinò al banco con un contenitore piatto. Non era B-17. Appoggiò il contenitore sulla striscia segnata, attese la conferma di un operatore e tornò verso la porta.
 
-Sul pannello una piccola icona cambiò colore. Un dipendente seduto a una postazione rialzata lesse la notifica, verificò due campi e diede l'avallo. Il registro registrò il suo nome.
+«Per questo avete comprato corpi», disse Leïa.
 
-Accanto alla riga completata ne rimase una in attesa. Il titolare dell'avallo era fuori sede; nessun sostituto risultava ancora designato.
+«Per una parte del lavoro. Un agente software non può inserire una vecchia tessera in un lettore. E, se le nostre simulazioni sbagliano, qualcuno deve andare a guardare ciò che il terminale ha fatto davvero.»
 
-«Quella non la fate avanzare?», chiese Leïa.
+Kyla li portò al monitor di una dimostrazione. Tre pratiche di censimento dei clienti erano ferme in attesa di un controllo. L'agente aveva segnalato campi incoerenti, suggerito correzioni e preparato una modifica ai controlli futuri. Sotto comparivano i test riusciti e quelli esclusi perché non c'erano dati sufficienti.
 
-«Non finché non arriva una delega registrata», disse Kyla. «Una persona libera non è necessariamente una persona autorizzata.»
+«Quattro giorni per individuare i controlli che arrivavano troppo tardi», spiegò. «Prima ce ne servivano molti di più. La squadra ha accettato due suggerimenti e ne ha respinto uno.»
 
-Leïa annuì. La riga restò gialla anche quando il robot si allontanò.
+«Perché respingerlo, se risparmiava più tempo?»
 
-«C'è ancora qualcuno davanti a uno schermo», notò Leïa.
+Kyla chiamò la cronologia. Comparve una nota dell'addetta alla qualità: *il caso elimina un passaggio che serve per una classe di documenti ancora validi*. La proposta era rimasta in prova.
 
-«Certo. Ma non è la stessa persona di prima. Prima inseguiva venti valori. Ora riceve una proposta completa, con le eccezioni in evidenza. La verifica richiede meno tempo e molta più attenzione. Sembra un paradosso, ma abbiamo aumentato il valore del momento in cui interviene un essere umano.»
+«Perché quel documento non aveva letto il nostro piano commerciale», rispose Kyla. «Continuava a essere valido anche se il software lo giudicava scomodo.»
 
-Un secondo robot passò loro accanto trasportando una cassetta di guanti, forbici da potatura e sacchetti per i residui del giardino. Aveva ancora un poco d'erba secca incastrata in una giuntura del ginocchio. Sul petto c'era scritto B-17.
+Leïa rise. Sahir non rise; stava leggendo le motivazioni, una per una.
 
-Kyla gli lasciò il passaggio.
+«Quanti sviluppatori scrivono ancora tutto il codice?», chiese.
 
-«Lui, per ora, lavora alla manutenzione del campus», disse. «I robot non entrano tutti nei sistemi dei clienti. Guardate invece qui: questo è un nostro agente software, senza braccia e senza gambe. Si occupa del censimento dei nuovi clienti.»
+«Non saprei dare una percentuale unica. Dipende dalla commessa. Qualcuno lavora sulle architetture e decide le prove, qualcuno entra nelle librerie più vecchie quando l'agente non basta. Soprattutto, vorrei che nessuno smettesse di saperci entrare.»
 
-Sahir sollevò gli occhi.
+Non era una frase prevista dalla presentazione. Le sfuggì mentre osservava la collega dietro il vetro che aveva appena trovato la funzione dimenticata.
 
-«Un flusso che avete automatizzato da zero?»
+Leïa indicò un riquadro di approvazione vuoto.
 
-«Al contrario. Esisteva già. Raccoglievamo dati da fonti diverse, controllavamo le anagrafiche, segnalavamo duplicati, aspettavamo una conferma. Il sistema era affidabile, ma il percorso era pieno di piccoli ritorni all'indietro. Un dato mancante veniva scoperto alla fine, quando tutti avevano già perso tempo.»
+«Questa operazione non parte?»
 
-Sul monitor della postazione di verifica comparve un elenco di pratiche elaborato dall'agente. Una colonna era dedicata alle incongruenze, un'altra alle proposte di correzione. Una finestra mostrava anche i test eseguiti e chi avrebbe dovuto esaminare il risultato prima del rilascio. Nessun robot toccò la tastiera; una sviluppatrice aprì la proposta e scorse le modifiche.
+«Manca la firma della persona delegata. Non la sostituisce una frase del modello, e non la sostituisce il fatto che il test sia verde.»
 
-«Quattro giorni», disse Kyla.
+Kyla aspettò che leggessero il campo. Per una volta i visitatori ebbero pazienza con una schermata che non si aggiornava.
 
-«Quattro giorni per che cosa?»
+Uscendo dal laboratorio incrociarono B-17. Veniva dal giardino con un contenitore di guanti e una forbice da potatura nel vano protetto. Sul ginocchio metallico aveva una macchia verde.
 
-«Per trovare una sequenza migliore. I bot hanno analizzato il flusso, eseguito prove su casi autorizzati e proposto di anticipare le verifiche che provocavano più rilavorazioni. I colleghi hanno esaminato la proposta, cambiato due soglie, controllato gli effetti e approvato il nuovo ordine. Una cosa che avevamo cercato di fare per mesi, schiacciati dall'operatività.»
+«Lui non sa niente di quelle librerie?», domandò Sahir.
 
-«E avete tenuto gli sviluppatori?», chiese Sahir, indicando la donna che stava leggendo il confronto fra due versioni del codice.
+«Oggi ha soprattutto dei cespugli da finire», rispose Kyla.
 
-Kyla si voltò del tutto verso di lui.
+B-17 attraversò il corridoio senza voltarsi. Dietro di lui una porta si chiuse con il piccolo rumore di una serratura in funzione.
 
-«Ci mancherebbe. Ora progettano i confini del sistema, gli strumenti, i test, le nuove possibilità. Un ottimo sviluppatore non dovrebbe passare la vita ad aggiustare lo stesso collegamento.»
+Nico, davanti al vecchio varco che stavano ancora riparando, aveva ottenuto finalmente una apertura corretta. Non celebrò. Chiese all'addetto di ripetere l'operazione, questa volta senza il suo intervento.
 
-Leïa indicò la finestra del test. «E l'agente sa perché ha cambiato il processo?»
-
-«Il sistema conserva le motivazioni operative e gli esiti dei test. Se mi chiedete se il modello possa darvi una spiegazione in linguaggio naturale, sì. Se mi chiedete se le sue spiegazioni siano sufficienti da sole, no. Per questo c'è una persona che firma.»
-
-La sviluppatrice terminò di leggere il riepilogo, lasciò una richiesta di chiarimento sulla seconda modifica e mantenne il rilascio in attesa. Il responsabile, che aveva ascoltato solo l'ultima domanda, rivolse a Kyla un saluto da lontano.
-
-«La parte più sorprendente», disse lei mentre li accompagnava fuori, «è che in questa stanza non è cambiata quasi nessuna macchina.»
-
-«È cambiato chi se ne occupa», osservò Sahir.
-
-Kyla annuì.
-
-«E soprattutto come occupa il proprio tempo.»
+Kyla lo osservò per un istante prima di seguire gli ospiti.
