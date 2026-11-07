@@ -18,122 +18,100 @@ factions:
   - faction:cyberdine
 ---
 
-Il rapporto che cambiò tutto non conteneva la parola *risparmio*.
+Il rapporto non era intitolato *Riduzione del personale*.
 
-Elena Riva lo aprì sul tablet mentre aspettava una riunione di verifica. Il titolo era meno attraente di un manuale di stampanti: **Riorganizzazione del coordinamento delle eccezioni dopo la cessazione della posizione Lodi**.
+Elena Riva lo aprì in sala riunioni, aspettando che si collegasse l'ultimo responsabile. Si chiamava *Riorganizzazione del coordinamento delle eccezioni e della revisione delle integrazioni*. La prima pagina elencava i benefici ottenuti con gli agenti di sviluppo e i robot autorizzati: meno rilavorazioni, test più rapidi, documenti preparati in tempo, interventi notturni diminuiti.
 
-Un mese prima quel titolo avrebbe significato una sola cosa: aprire la selezione per un sostituto.
+La seconda conteneva due caselle.
 
-Il documento invece cominciava da una domanda: *Quali attività richiedono davvero una posizione dedicata?*
+**Ripristinare la posizione senior di Adriana Lodi.**
 
-Elena scorse la tabella. Adriana aveva coordinato centinaia di casi negli anni, ma il tempo dei suoi ultimi mesi si era diviso in modo diverso da quello che tutti immaginavano. Una parte consistente era spesa nel raccogliere documenti, verificare che i reparti avessero risposto, confrontare versioni, convocare chi doveva prendere una decisione, preparare un quadro comprensibile delle alternative.
+**Distribuire le responsabilità fra i coordinatori esistenti e affidare la preparazione dei casi agli strumenti automatici.**
 
-Erano attività complesse. Non necessariamente attività che richiedevano a ogni passaggio un giudizio umano.
+Elena conosceva già il risultato delle prove. Aveva chiesto che si tenesse aperta una possibilità di confronto, e ora se ne pentiva un poco: sarebbe stato più facile contestare una scelta opaca che una scelta preparata con tanta cura.
 
-Lo sapeva bene Elena, che fino a poco prima aveva considerato le macchine utili soprattutto per riprendere informazioni da vecchi archivi. Bi, negli ultimi cicli, aveva dimostrato di saper mettere insieme documenti, domande e risposte di uffici diversi. Non autorizzava una deroga. Non stabiliva se fosse giusto correre un rischio. Indicava le opzioni e chi avrebbe dovuto decidere.
+Entrarono Kyla, Adriana e due responsabili di prodotto. Uno portava una stampa dei risultati di test, l'altro il computer aperto sulla matrice delle autorizzazioni.
 
-Il risultato era sufficientemente utile perché qualcuno avesse fatto i conti.
+«Prima di vedere i numeri», disse Adriana, «vorrei sapere chi si occuperà dei casi che nessuno ha pensato di provare.»
 
-La porta si aprì. Entrarono Kyla, Adriana e due responsabili già titolari di approvazioni nei rispettivi flussi. Irene non era stata invitata: il confronto riguardava una scelta organizzativa ancora da comunicare, non la valutazione della sua prestazione.
+Elena sorrise. Era il modo in cui Adriana iniziava quasi tutte le riunioni importanti.
 
-Adriana posò un quaderno pieno di annotazioni sulla parte libera del tavolo.
+«La matrice prevede un presidio umano per le anomalie fuori soglia», rispose un responsabile.
 
-«Prima di cominciare», disse, «vorrei capire chi si occuperà degli errori che non abbiamo ancora immaginato.»
+«Chi è il presidio?»
 
-Elena apprezzò la domanda. Era il genere di domanda che Adriana faceva sempre prima di dare un assenso.
+L'uomo mostrò due nomi e un turno di reperibilità.
 
-Un responsabile aprì la schermata del processo.
+«E quando il programma non segnala che siamo fuori soglia?»
 
-«Per le eccezioni ordinarie il sistema costruisce il dossier, lo smista alla persona competente e segue le scadenze. Per i casi che attraversano più reparti interviene un comitato ristretto. Le decisioni critiche restano firmate da noi.»
+Nessuno rispose subito.
 
-«E quando nessuno riconosce il problema come proprio?»
+Elena proiettò un confronto fra vecchia e nuova organizzazione. In passato il team di Adriana raccoglieva manualmente documenti, ricostruiva versioni, chiedeva verifiche al reparto software, coordinava i collaudi e infine preparava la decisione. Adesso gli agenti producevano patch, casi di prova e sintesi; Bi e altri robot potevano verificare determinati terminali e recuperare originali; le persone restavano titolari delle autorizzazioni e dei rilasci.
 
-«Allora arriva a te», disse Elena, indicando il proprio ruolo sulla matrice.
+Il tempo risparmiato era reale. Elena lo aveva visto nelle sere finalmente libere, nei richiami fuori turno più rari, nelle pratiche che non aspettavano una firma per giorni.
 
-Adriana la guardò.
+Il problema si presentò nella terza schermata.
 
-«Oggi, forse. E tra sei mesi?»
+Un connettore storico aveva cambiato nome tre volte. L'agente aveva proposto una correzione plausibile e tutti i test standard erano passati. Una nota della revisione umana mostrava però un caso fuori dal perimetro: un cliente utilizzava ancora il comportamento precedente per distinguere un annullamento da una doppia conferma.
 
-«L'assegnazione deve essere scritta nelle responsabilità del processo. Non può dipendere dal fatto che io sia seduta qui.»
+«Chi ha trovato il caso?», chiese Adriana.
 
-Il tablet vibrò. Era arrivata la sintesi di tre casi di prova elaborati con Bi. Una schermata supplementare mostrava un cambiamento al connettore per gli archivi storici: l'agente di sviluppo aveva proposto il codice, Bi aveva ricostruito la risposta del terminale di prova e un programmatore aveva approvato il risultato. Su dodici modifiche analoghe dell'ultimo mese, quasi tutte erano state chiuse da persone che non avevano scritto direttamente una riga di codice. Avevano letto test, confronti e rapporti, ma raramente aperto la vecchia libreria che governava i protocolli. Elena lo sapeva e, fino a quel momento, aveva avuto poche ragioni per preoccuparsene. Elena la proiettò sullo schermo.
+«Irene», rispose Elena. «Ha aperto la vecchia libreria e chiesto la prova sul terminale reale. Bi ha preparato i dati in ambiente autorizzato. La correzione finale è passata per la normale revisione del team.»
 
-Il primo era stato risolto con un semplice confronto tra versioni. Il secondo richiedeva una scelta umana su due percorsi plausibili. Il terzo aveva una discrepanza tanto sottile che Elena, senza l'elenco delle alternative scartate, avrebbe potuto interpretarla male.
+«E se Irene fosse stata soltanto incaricata di leggere il riepilogo?»
 
-«Non mi interessa chiamarla intelligenza», disse. «Mi interessa che questa domanda arrivi al responsabile giusto prima che qualcuno metta una firma.»
+«Avremmo potuto non vedere l'eccezione», ammise il responsabile.
 
-Adriana sfogliò il proprio quaderno.
+Kyla si spostò sulla sedia. Aveva seguito il progetto perché la riorganizzazione avrebbe toccato le persone.
 
-«Irene quella domanda l'avrebbe fatta», osservò.
+«Il piano prevede formazione per i coordinatori», disse.
 
-«Lo sappiamo», rispose Kyla.
+Adriana prese il quaderno. «Formazione su che cosa? Chiedere all'agente un riepilogo migliore? O seguire il codice quando il riepilogo è incompleto?»
 
-Kyla non guardava la schermata come una persona innamorata delle cifre. Aveva seguito la preparazione della riunione perché ogni scelta di personale finiva per passare, prima o poi, anche dal suo ufficio.
+«Entrambe», rispose Elena.
 
-«La valutazione di Irene è molto positiva», aggiunse. «Non stiamo decidendo che non sia all'altezza.»
+«Quanto tempo gli diamo per la seconda?»
 
-Uno dei responsabili incrociò le mani.
+La domanda rimase sospesa. Il calendario dei corsi presentato dal reparto HR conteneva molte ore di uso degli strumenti e poche di manutenzione dei vecchi protocolli. Era una lacuna reale. Non significava che la proposta fosse da buttare, ma ne cambiava il costo.
 
-«Stiamo decidendo se serva ancora un ruolo unico per queste attività.»
+«Aggiungiamo un obbligo di revisione del sorgente sui casi critici», propose Elena. «E una prova periodica senza agente, in cui il responsabile deve ricostruire una anomalia con i log e le procedure.»
 
-Elena arrivò alla tabella finale. Due opzioni.
+Uno dei responsabili guardò la tabella. «Possiamo farlo. Non richiede una posizione senior dedicata, però.»
 
-**Opzione A:** ricreare la posizione di Adriana e affidarle la continuità trasversale, pur mantenendo le nuove automazioni.
+Era la frase decisiva.
 
-**Opzione B:** distribuire gli avalli e la responsabilità delle eccezioni ai titolari già presenti; assegnare a Bi e ai sistemi di supporto la preparazione dei dossier, il confronto tra alternative e il monitoraggio delle scadenze.
+Adriana non aveva chiesto che il proprio posto venisse preservato per sentimentalismo. Aveva passato anni a chiedere che si automatizzassero le operazioni inutili. Conosceva bene quanto costasse avere tre persone che ricontrollavano lo stesso campo perché due sistemi non si fidavano l'uno dell'altro.
 
-La seconda opzione aveva un costo strutturale inferiore e, secondo i test, tempi medi più brevi. Non era priva di rischi, ma questi risultavano identificati: monitoraggio umano, verifiche a campione, ritorno alla gestione manuale nei casi fuori soglia.
+«Non sto difendendo il lavoro fatto male», disse. «Sto chiedendo chi avrà il diritto di dire che il lavoro automatico non è stato capito abbastanza.»
 
-Elena si accorse di quanto fosse difficile contestarla.
+Elena aprì la tabella dei costi. Il ruolo senior avrebbe dato una persona responsabile della continuità trasversale, ma avrebbe mantenuto attività ormai distribuite. La seconda opzione riduceva i tempi medi e il costo, prevedeva firme di responsabili già in servizio e monitoraggio trimestrale.
 
-«Dobbiamo evitare che la preparazione dei casi diventi la loro decisione», disse. «Se tutti si fidano del riepilogo e nessuno apre gli allegati, l'approvazione umana diventa soltanto una firma.»
+Kyla guardò l'ultima pagina.
 
-«Vero», disse Kyla. «E va monitorato. Non basta avere un campo obbligatorio.»
+«Irene ha una valutazione molto positiva», disse. «Nessuno sta decidendo che non sia adatta.»
 
-Adriana indicò una riga nel documento.
+«Lo so», rispose Adriana. «È questo che rende la domanda più difficile.»
 
-«E le persone che dovevano imparare questo mestiere?», chiese Adriana. «Se una modifica viene proposta da un agente, verificata da Bi e firmata da un responsabile che guarda solo il test verde, chi impara a capire perché il programma funziona? E chi sarà capace di fare domande come queste quando qualcosa smetterà di funzionare?»
+La riunione proseguì con le verifiche, i costi e le condizioni. L'opzione B venne approvata. Avrebbe richiesto formazione aggiuntiva, esercizi di continuità e registri accessibili degli elementi che gli agenti avevano escluso dai test. I responsabili avrebbero firmato i rilasci, non Bi.
 
-Elena non aveva una risposta immediata.
+La posizione di Adriana non sarebbe stata ricreata.
 
-«Possiamo mantenere percorsi di formazione», propose uno dei responsabili.
+Elena aspettò che gli altri uscissero. Adriana stava ancora chiudendo il quaderno.
 
-Adriana non sorrise.
+«Era la scelta più razionale per il processo», disse Elena.
 
-«Una formazione non è la stessa cosa che avere una responsabilità.»
+«Sì.»
 
-Ci fu un silenzio vero. Non la pausa educata che precede il commento successivo.
+«E non toglie nulla alla competenza di Irene.»
 
-Kyla riprese la parola.
+«Non sulla carta.»
 
-«Non possiamo promettere opportunità che una struttura non ha più. Ma dobbiamo essere chiari con chi ha lavorato per prepararsi a coglierle.»
+Elena fissò la casella *posizione non ripristinata*. Aveva creduto che il progresso consistesse nel permettere ai migliori di occuparsi dei problemi difficili. Ora la persona più adatta a farlo avrebbe continuato a lavorare, ma senza la responsabilità che sperava di ottenere.
 
-Il nome di Irene rimase non pronunciato.
+«Quando glielo dite?», chiese Adriana.
 
-Il gruppo analizzò i rischi e approvò l'opzione B, condizionandola a un controllo trimestrale e a una revisione delle soglie. Non c'era un voto drammatico; c'erano mani che scorrevano sui tablet, una matrice di responsabilità aggiornata, una decisione registrata.
+«Kyla vuole parlarle oggi, prima della comunicazione generale.»
 
-La posizione senior non sarebbe stata aperta.
+Adriana annuì. Tornò a mettere il quaderno nella borsa, ma prima di chiuderlo vi infilò una nota scritta a mano: *Non basta che i test passino. Deve restare qualcuno che sappia scrivere il test mancante.*
 
-Alla fine Elena rimase per qualche minuto in sala con Adriana.
-
-«Era la scelta più sensata sul piano del processo», disse.
-
-«Lo so.»
-
-«E Irene è brava.»
-
-«Lo so anche questo.»
-
-Adriana chiuse il quaderno. Nella copertina interna erano attaccati biglietti da visita di persone che ormai non lavoravano più lì.
-
-«La cosa assurda», disse, «è che l'ho formata proprio perché non passasse il resto della carriera a preparare fascicoli.»
-
-Elena guardò lo schermo ancora acceso. Nell'ultima riga compariva la formula scelta dalla riunione: **posizione non ripristinata**.
-
-«Quando lo saprà Irene?», chiese Adriana.
-
-Elena riaprì il verbale. L'approvazione era stata inviata ai responsabili di processo. Irene non figurava nell'elenco.
-
-«Kyla deve parlarle», rispose.
-
-Adriana rimise il quaderno nella borsa. «Prima che le arrivi un appuntamento cancellato, spero.»
+Non la lasciò nella sala. Se la portò via come aveva sempre fatto con le cose che non sapeva ancora insegnare del tutto.

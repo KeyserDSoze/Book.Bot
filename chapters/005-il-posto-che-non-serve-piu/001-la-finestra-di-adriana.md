@@ -17,150 +17,136 @@ factions:
   - faction:cyberdine
 ---
 
-Irene Valli sapeva a memoria il rumore della finestra nell'ufficio di Adriana Lodi.
+La finestra dell'ufficio di Adriana Lodi faceva un rumore secco ogni volta che cambiava il vento. Irene Valli avrebbe saputo riconoscerlo anche dietro una parete.
 
-Quando c'era vento, l'anta vibrava contro il fermo. Non abbastanza da sembrare rotta. Abbastanza da costringere Adriana a interrompere le riunioni, alzarsi e dare un colpo secco alla maniglia con il palmo della mano.
+Era un difetto piccolo, che nessuna delle procedure di manutenzione aveva mai risolto. Adriana si alzava, girava due volte la maniglia e riprendeva la riunione dal punto in cui l'aveva lasciata.
 
-Quella mattina non vibrava. Irene se ne accorse non appena entrò, e la cosa le sembrò di cattivo auspicio.
+«Tra undici giorni non sarà più un problema mio», disse, chiudendo uno scatolone.
 
-«Ti ho lasciato le pratiche difficili», disse Adriana.
+Sul pavimento aveva posato una pianta con le foglie gialle, una fotografia di gruppo e un righello metallico. Il resto dell'ufficio era ancora pieno. Adriana stava preparando la pensione un oggetto alla volta, come se volesse lasciare al tempo la possibilità di abituarsi.
 
-La responsabile era inginocchiata davanti a uno scatolone di cartone. Aveva appoggiato sul pavimento tre oggetti: una pianta con le foglie puntinate di giallo, una fotografia capovolta e un vecchio righello di metallo. Da alcune settimane svuotava il proprio ufficio con una lentezza metodica, portando via ogni giorno qualcosa di così poco importante che nessuno poteva dirle che aveva fretta di andarsene.
+Irene si sedette con il portatile.
 
-Tra undici giorni sarebbe andata in pensione.
+«Ti ho lasciato il caso più interessante», disse Adriana.
 
-«Le altre me le hai già insegnate», rispose Irene.
+Sul monitor c'era una segnalazione arrivata dal software di integrazione di Cyberdine. Un cliente aveva aggiornato il formato di un registro, e gli agenti di sviluppo avevano già proposto un adattatore per leggere la nuova versione. Tutti i test automatici superavano la soglia. Un controllo manuale, però, aveva trovato una incongruenza: la stessa operazione appariva sotto due identificativi diversi.
 
-Adriana si rialzò con un piccolo sforzo e appoggiò le mani sui fianchi.
+«Non possiamo semplicemente unificarli», disse Irene.
 
-«Questa me la sono tenuta per vent'anni. Una giornata di pensione mi sembrerà di aver rubato qualcosa.»
+Adriana la guardò. «Perché?»
 
-Sulla scrivania, accanto alla pianta, c'erano sei pratiche di eccezione. Nessuna richiedeva un gesto spettacolare. Un avallo dato da un reparto non coincideva con la revisione registrata da un altro. In due casi il codice di un documento rimandava a una convenzione superata. Nel terzo un contratto rinviava a una procedura che nessuno aveva più utilizzato.
+«Perché nella versione precedente il secondo identificativo indicava un annullamento, non un duplicato. Dobbiamo capire se un vecchio impianto lo usa ancora.»
 
-Le cose che Irene faceva meglio non avevano mai un nome breve.
+«E se lo usa?»
 
-Prese il primo fascicolo e indicò la differenza fra le date.
+«La patch dell'agente è sbagliata per quel caso. Non perché sia scritta male. Perché chi ha formulato il requisito non ha ricordato la vecchia eccezione.»
 
-«Questo non lo chiudiamo con il criterio normale. Dobbiamo chiedere al gruppo di verifica se la modifica abbia avuto effetti anche sulle pratiche già approvate.»
+Adriana annuì. Non era una novità: per anni Irene aveva imparato a distinguere un errore di scrittura da un errore nell'idea che precedeva la scrittura.
 
-Adriana annuì.
+«Il team ti ha chiesto una revisione?»
 
-«E se ti rispondono che non hanno tempo?»
+«Sì. Mi ha mandato il riepilogo.»
 
-«Metto per iscritto il rischio che si assumono lasciando la domanda aperta. Poi convochiamo i responsabili.»
+«E tu?»
 
-«Li convochi tu.»
+Irene aprì il codice sorgente. La funzione che decideva quale identificativo conservare era stata scritta prima del suo ingresso in azienda. Aveva commenti in tre stili diversi; uno di essi citava un cliente che non compariva più negli elenchi.
 
-Irene sollevò gli occhi.
+«Ho chiesto il file vero.»
 
-«Io?»
+Adriana sorrise. «Bene.»
 
-«Stai conducendo queste riunioni da tre mesi. Non vedo perché dovrei farlo ancora io.»
+Non tutte le persone del reparto lo facevano ancora. Gli agenti preparavano versioni, test e spiegazioni che sembravano complete. Il lavoro quotidiano si era spostato dalla tastiera alle richieste scritte in linguaggio naturale e ai controlli delle risposte. Era un cambiamento che Irene trovava utile. Doveva però sforzarsi di non confondere la capacità di leggere un riepilogo con quella di capire il programma.
 
-Adriana si spostò verso la finestra e tirò la maniglia anche se non ce n'era bisogno. Irene sorrise.
+La finestra vibrò. Adriana le diede un colpo alla maniglia.
 
-«È un controllo preventivo?»
+«Hai cominciato il corso di nuoto?», chiese Irene.
 
-«È un saluto.»
+«Mercoledì prossimo. Principianti.»
 
-«Mi sono iscritta a un corso di nuoto», disse Adriana, quasi sottovoce.
+«Tu, principianti?»
 
-Irene distolse gli occhi dalla finestra. «Tu nuoti?»
+«Sono brava a fare domande ai sistemi vecchi. In acqua sono un sistema vecchio io.»
 
-«Non bene. Ho scritto principianti e mi hanno chiesto da quanti anni non entro in piscina. Ho risposto che preferivo non fare i conti.»
+Irene rise. Le piaceva l'idea di Adriana che imparava qualcosa senza doverlo spiegare a una collega. Sul proprio calendario, intanto, aveva un promemoria chiamato *Colloquio percorso senior*. Non era una convocazione. Lo aveva creato lei per preparare i risultati e i casi che avrebbe presentato quando si fosse aperta la posizione lasciata libera da Adriana.
 
-«E perché proprio nuoto?»
-
-Adriana strinse il coperchio dello scatolone. «Perché la mattina del mercoledì non voglio venire qui a chiedere se serve una mano. Mi conosco.»
-
-Irene rise. Le sarebbe piaciuto prendere in giro Adriana sulla cuffia e sugli occhialini, come si fa con qualcuno che si immagina ancora nella propria vita dopo una porta chiusa. Non lo fece. Le chiese soltanto di raccontarle la prima lezione.
-
-Il calendario di Irene conteneva da settimane un appuntamento senza partecipanti: *Colloquio percorso senior*. Non era ufficiale. Aveva creato lei quel promemoria per ricordarsi di aggiornare il portfolio interno, raccogliere i risultati delle riunioni condotte, preparare le domande da fare a chi avrebbe deciso la successione.
-
-Non aveva ricevuto alcuna promessa. Adriana glielo ricordava sempre.
-
-«Io non scelgo chi viene dopo», le diceva. «Posso soltanto dire chi ha imparato a fare il lavoro.»
-
-Irene lo sapeva. Si era trattenuta dal chiedere conferme anche quando un dirigente aveva usato, davanti a lei, l'espressione *passaggio naturale*. Un passaggio non è una nomina.
-
-Eppure, quando Adriana le aveva ceduto la conduzione delle riunioni, quando i colleghi avevano cominciato a chiamarla per risolvere le anomalie importanti, le era sembrato di intravedere una forma possibile della propria vita: non più inseguire decisioni altrui, ma assumersi la responsabilità di formularle.
-
-In fondo al corridoio si sentirono passi meccanici.
-
-Bi comparve sulla soglia con un contenitore di cartelle già ordinate. Nelle ultime settimane aveva ricevuto anche richieste dal reparto software: non più soltanto fascicoli, ma risultati di collaudi, differenze tra versioni e casi di regressione. La prima volta Irene l'aveva visto dietro la scrivania di un programmatore, fermo a guardare un terminale acceso. Ora trovava normale che una unità capace di prendere male un foglio potesse individuare un test mancante più in fretta di chi aveva scritto il programma.
-
-«Buongiorno, Adriana. Buongiorno, Irene.»
-
-«Buongiorno, Bi», disse Adriana. «Sei venuto a farmi il trasloco?»
-
-«Sono venuto a consegnare i riferimenti incrociati che avete richiesto ieri.»
-
-Posò il contenitore sul banco laterale, non sulla scrivania. Era una regola semplice che Adriana aveva imposto per evitare di confondere le pratiche lette con quelle ancora da verificare.
-
-Irene aprì la prima cartella. Il lavoro era pulito. Ogni eccezione aveva un indice, tre possibili percorsi, le rispettive dipendenze e un'indicazione del responsabile umano chiamato a scegliere. C'erano anche le alternative escluse, segnate come materiale informativo per il test e non come criterio già entrato in produzione.
-
-«Hai finito tutto?» chiese.
-
-«La raccolta dei riferimenti sì. Mancano gli avalli sulle tre eccezioni che hai segnato. Per il connettore in verifica ho anche preparato una proposta di test sui casi esclusi. È disponibile nell'ambiente di prova, non nel codice rilasciato.»
-
-«Lo so. Li prendiamo noi.»
-
-Bi aspettò un istante.
-
-«Vuoi che prepari l'ordine delle domande per la riunione?»
-
-Irene passò il pollice sulle linguette delle cartelline. Aveva bisogno di un'ora per prepararle, forse meno.
-
-«Sì», rispose. «Ma lascia a me la scelta di quali porre per prime. E voglio vedere i risultati dei test, non soltanto il commento che li riassume.»
-
-«Certamente.»
-
-Bi riprese il contenitore vuoto e tornò nel corridoio.
-
-Adriana lo seguì con lo sguardo.
-
-«Una volta ti avrei fatto passare la mattina a trovare quei riferimenti», disse.
-
-«Una volta avrei avuto meno tempo per chiedermi perché certi riferimenti esistono.»
-
-«È un miglioramento.»
-
-Irene guardò le tre domande che aveva già scritto sul margine del primo fascicolo. Lo era davvero. Da quando Bi e le altre unità erano diventati affidabili, aveva potuto dedicare più tempo a capire i problemi. Si sentiva più competente di sei mesi prima.
-
-«Il colloquio per la successione», cominciò, poi si fermò.
-
-Adriana aspettò.
-
-«Sai quando pubblicheranno la posizione?»
+«Hai saputo quando pubblicano la selezione?», chiese.
 
 «Non ancora.»
 
-«Pensavo dopo il tuo ultimo giorno.»
+«Hai chiesto?»
 
-«Anch'io.»
+«Sì. Mi hanno detto che stanno completando l'analisi del fabbisogno.»
 
-Adriana raccolse la fotografia dal pavimento. La girò: ritraeva un gruppo di colleghi davanti a una torta, molto prima che Irene entrasse in azienda.
+Irene odiava quella parola. *Fabbisogno* poteva voler dire tutto, anche che nessuno avesse più bisogno della persona che aveva formato con maggiore attenzione.
 
-«Non voglio illuderti», disse. «Ma ti ho visto lavorare. Quando faranno le valutazioni, farò in modo che questo venga detto.»
+Dal corridoio arrivarono passi meccanici. Bi si fermò sulla soglia con un contenitore di documenti e un piccolo terminale acceso sul fianco.
 
-Irene annuì. Era una risposta corretta e, nonostante tutto, le diede coraggio.
+«Buongiorno, Adriana. Buongiorno, Irene.»
 
-Mentre usciva, incrociò Nerea con la custodia azzurra delle racchette sotto il braccio. Il manico di una spuntava dalla cerniera mezza aperta.
+«Non vieni a portarmi via i libri, vero?», chiese Adriana.
 
-«Avete giocato sabato?» le chiese.
+«Ho i riferimenti richiesti per la revisione delle eccezioni. Il trasporto dei beni personali non è compreso nell'incarico.»
 
-Nerea sorrise.
+Irene si sorprese a sorridere. Anche la sua risposta era diventata più abile nel seguire una battuta.
 
-«Ho perso undici a sei. Bi ha giocato sul serio.»
+Bi lasciò il contenitore sul banco. La schermata mostrava l'indice dei registri storici e i casi sintetici generati nel laboratorio di sviluppo. Erano separati dai sistemi del cliente, come previsto dall'autorizzazione.
 
-«Almeno uno dei due ha mantenuto la promessa.»
+«C'è la vecchia anomalia del doppio identificativo?», domandò Irene.
 
-«Poi gli ho stretto la mano. E gli ho chiesto la rivincita.»
+«Sì. Ho individuato un caso di prova in cui i due codici si riferiscono a stati differenti. La verifica della patch richiede una persona autorizzata.»
 
-Nerea passò oltre, con un sorriso che Irene non riuscì a spiegarsi. Sembrava il ricordo di una cosa piccola che aveva contato molto.
+«Fammi vedere come hai costruito il caso.»
 
-Irene tornò alla propria scrivania. Aprì il calendario, trovò il promemoria sul percorso senior e vi aggiunse tre righe di risultati.
+La schermata mostrò il terminale reale, una sequenza di messaggi e la condizione che l'agente software aveva inizialmente eliminato dal confronto. Bi non aveva letto liberamente l'intera rete; aveva usato gli strumenti di prova che il responsabile gli aveva concesso. Irene lo sapeva. Il risultato, però, era migliore di quello che il suo gruppo aveva ottenuto nei primi due giorni.
 
-La finestra di Adriana rimaneva visibile dal corridoio.
+«Questa funzione», disse, indicando il codice, «era stata scritta per una ragione. Ora finalmente sappiamo quale.»
 
-Era un ufficio come gli altri: una scrivania, un armadio, una pianta da bagnare. Irene non ne desiderava i mobili né il panorama. Desiderava la possibilità di aprire quella porta, convocare una riunione difficile e sapere che la decisione finale portava il suo nome.
+«Posso preparare altre varianti del test», rispose Bi.
+
+«Preparale in prova. E allega le fonti. La decisione su quali includere nel rilascio resta al responsabile.»
+
+«Confermato.»
+
+Bi riprese il contenitore e lasciò l'ufficio.
+
+Adriana guardò la porta che si richiudeva.
+
+«Hai visto cosa è successo?», chiese.
+
+«Abbiamo trovato il caso che mancava.»
+
+«Prima sarebbero serviti due sviluppatori, una persona che conoscesse il terminale e tre riunioni. Adesso tu hai fatto la domanda e lui ha preparato gli elementi.»
+
+«Non mi sembra un male.»
+
+«Non lo è.»
+
+Adriana si sedette. Aveva il quaderno dei vecchi registri aperto sulle ginocchia.
+
+«Il punto è che tu sai ancora perché quel caso conta. Se un giorno nessuno lo sapesse più, quanti test verdi ti basterebbero per essere tranquilla?»
+
+Irene non rispose. Aveva appena ottenuto in pochi minuti il risultato per cui aveva inseguito persone per giorni. Una parte di lei era sinceramente grata. Un'altra guardava la scheda della futura selezione nel proprio calendario e si chiedeva che cosa avrebbe significato essere responsabile senior quando il software stesso cominciava a organizzare quasi tutte le eccezioni.
+
+Nerea passò nel corridoio con una custodia di racchette sotto il braccio.
+
+«Avete giocato?», le domandò Irene.
+
+«Sabato. Ho perso», rispose Nerea, sorridendo.
+
+«Bi è troppo forte?»
+
+«Questa volta ha giocato sul serio. Era quello che volevo.»
+
+Nerea continuò verso lo Spazio Comune. Irene la seguì con lo sguardo. Il robot che aveva aiutato il suo reparto con il codice era diventato, per qualcun altro, il compagno di una partita su cui si poteva discutere come fra amici.
+
+Tornò al portatile. Riaprì la funzione precedente e iniziò a scrivere una nota tecnica per i nuovi sviluppatori: *il secondo identificativo non è sempre un duplicato*. Non era il genere di frase che avrebbe ottenuto una promozione.
+
+Le sembrava importante scriverla comunque.
+
+La finestra tornò a vibrare. Adriana allungò il braccio per sistemarla, poi si fermò e lasciò che fosse Irene a girare la maniglia.
+
+«Presto saprai farlo anche senza di me», disse.
+
+Irene la chiuse con un colpo deciso. La finestra smise di tremare.
+
+Avrebbe voluto che tutte le conoscenze necessarie a quel lavoro fossero altrettanto semplici da trasferire.
