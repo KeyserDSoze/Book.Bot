@@ -5,10 +5,10 @@ number: 2
 title: Quello delle fotocopie
 canon: canon
 pov:
-  - character:elena-riva
-  - character:paolo-ferri
-  - character:mila-corsi
-  - character:kyla
+  - character:olivia-hayes
+  - character:paul-turner
+  - character:emma-walsh
+  - character:taylor
 ---
 
 # Scopo
@@ -21,10 +21,10 @@ Una pratica ha bisogno di copie fisiche e di una firma verificata prima di una r
 
 # Beat canonici
 
-1. **Il giro delle nove**. Elena assegna una commissione; B-17 percorre corridoi e incrocia la pausa caffè. Si scherza sulla goffaggine nel prendere i fogli.
-2. **Il lato bianco**. Paolo osserva la difficoltà meccanica con un originale sottile, le prime fotocopie sbagliate e la correzione tramite istruzioni e controlli.
-3. **Il corridoio lungo**. Mila vede il robot andare a recuperare ciò che manca, attraversare l'ufficio e diventare una presenza quotidiana. Un intoppo amministrativo richiede l'avallo umano.
-4. **Dove passa B-17**. Kyla rivede il bot fuori dalle dimostrazioni, valuta con un collega la proposta sulle alternative scartate (si autorizza soltanto un test circoscritto), osserva i piccoli accomodamenti spontanei dei colleghi.
+1. **Il giro delle nove**. Olivia assegna una commissione; B-17 percorre corridoi e incrocia la pausa caffè. Si scherza sulla goffaggine nel prendere i fogli.
+2. **Il lato bianco**. Paul osserva la difficoltà meccanica con un originale sottile, le prime fotocopie sbagliate e la correzione tramite istruzioni e controlli.
+3. **Il corridoio lungo**. Emma vede il robot andare a recuperare ciò che manca, attraversare l'ufficio e diventare una presenza quotidiana. Un intoppo amministrativo richiede l'avallo umano.
+4. **Dove passa B-17**. Taylor rivede il bot fuori dalle dimostrazioni, valuta con un collega la proposta sulle alternative scartate (si autorizza soltanto un test circoscritto), osserva i piccoli accomodamenti spontanei dei colleghi.
 
 # Limite di rivelazione
 
@@ -32,8 +32,8 @@ Nessun POV interno al robot, nessuna emozione o volontà dichiarata come fatto. 
 
 ## Revisione di continuità v0.32.0
 
-B-17 è stato riassegnato dal servizio di manutenzione del giardino alle commissioni d'ufficio. Sbaga fotocopie e apprende l'uso della cornice di Paolo. Il test sulle alternative scartate combina la proposta già presentata dall'agente software nel cap. 1 e una osservazione materiale di B-17 nel cap. 2. Il coding dei programmi non avviene in questa fase.
+B-17 è stato riassegnato dal servizio di manutenzione del giardino alle commissioni d'ufficio. Sbaga fotocopie e apprende l'uso della cornice di Paul. Il test sulle alternative scartate combina la proposta già presentata dall'agente software nel cap. 1 e una osservazione materiale di B-17 nel cap. 2. Il coding dei programmi non avviene in questa fase.
 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
-La scena 1 riparte direttamente dall'incarico fisico: Elena deve recuperare l'originale firmato che un file digitale non può sostituire. La goffaggine di B-17 è concreta e la cornice di Paolo risolve una presa. Nella scena 3 Mila trova una fonte storica esclusa dal software e chiede la firma di Elena. Nella scena 4 Kyla unisce **la proposta digitale già presente dal capitolo 1** e l'osservazione materiale emersa grazie al robot. Non presentare B-17 come autore della proposta originale, come programmatore autonomo o come coscienza già dimostrata.
+La scena 1 riparte direttamente dall'incarico fisico: Olivia deve recuperare l'originale firmato che un file digitale non può sostituire. La goffaggine di B-17 è concreta e la cornice di Paul risolve una presa. Nella scena 3 Emma trova una fonte storica esclusa dal software e chiede la firma di Olivia. Nella scena 4 Taylor unisce **la proposta digitale già presente dal capitolo 1** e l'osservazione materiale emersa grazie al robot. Non presentare B-17 come autore della proposta originale, come programmatore autonomo o come coscienza già dimostrata.

@@ -5,11 +5,11 @@ chapter: chapter:001-benvenuti-in-cyberdine
 number: 1
 title: La porta di vetro
 canon: canon
-pov: character:kyla
+pov: character:taylor
 characters:
-  - character:kyla
+  - character:taylor
   - character:visitors
-  - character:nico-valenti
+  - character:noah-carter
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -20,37 +20,37 @@ factions:
 
 «Benvenuti in Cyberdine.»
 
-Kyla aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
+Taylor aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
 
 La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
-«Dove sono le vostre macchine?», chiese Sahir Venn.
+«Dove sono le vostre macchine?», chiese Elias Hart.
 
 «Le state già vedendo. Solo che la maggior parte non ha ruote.»
 
-Sahir si aggiustò il badge. Leïa Orren, al suo fianco, guardava qualcosa fuori dal vetro.
+Elias si aggiustò il badge. Leah Stone, al suo fianco, guardava qualcosa fuori dal vetro.
 
 Un robot camminava dietro un tagliaerba elettrico lungo la striscia verde che separava il vialetto dal parcheggio. Si fermò davanti a una piastrella sporgente, arretrò la macchina e la fece passare da un altro lato. La bordura rimase storta per una decina di centimetri. Un giardiniere indicò il punto con la mano; il robot tornò indietro.
 
-Leïa sorrise. «È questa la grande automazione?»
+Leah sorrise. «È questa la grande automazione?»
 
-«Quella è una delle piccole», rispose Kyla. «Unità B-17. Sta imparando le manutenzioni del giardino. I giardinieri hanno chiesto che i robot iniziassero da qui, dove un errore si vede subito e non ferma il lavoro di un cliente.»
+«Quella è una delle piccole», rispose Taylor. «Unità B-17. Sta imparando le manutenzioni del giardino. I giardinieri hanno chiesto che i robot iniziassero da qui, dove un errore si vede subito e non ferma il lavoro di un cliente.»
 
-Sahir cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, quindi?»
+Elias cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, quindi?»
 
 «No. Arrivano da Lanter, in Cina. Cyberdine è una software house. Noi scriviamo ciò che permette ai sistemi dei nostri clienti di lavorare insieme: quelli nuovi, quelli che nessuno vuole più toccare e quelli che funzionano troppo bene per permettersi di sostituirli.»
 
-All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Nico Valenti, con una custodia di attrezzi e una felpa chiusa fino al collo.
+All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Noah Carter, con una custodia di attrezzi e una felpa chiusa fino al collo.
 
-Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Nico ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
+Taylor lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Noah ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
-L'addetto aveva in mano una cartellina da consegnare al piano superiore. Nico gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
+L'addetto aveva in mano una cartellina da consegnare al piano superiore. Noah gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
 
-«Questo è un vostro programmatore?», chiese Sahir.
+«Questo è un vostro programmatore?», chiese Elias.
 
 «Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»
 
-Nico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. Poi tornò a parlare con l'addetto. Non sapeva che Kyla lo stesse indicando come un esempio; forse avrebbe protestato se lo avesse saputo.
+Noah sollevò lo sguardo, li vide e rispose al saluto di Taylor con due dita. Poi tornò a parlare con l'addetto. Non sapeva che Taylor lo stesse indicando come un esempio; forse avrebbe protestato se lo avesse saputo.
 
 Il telefono vibrò nella tasca della giacca.
 
@@ -58,36 +58,36 @@ Il telefono vibrò nella tasca della giacca.
 
 *Mi ricordo*, rispose. Non era del tutto vero: non ricordava il titolo del film. Ricordava soltanto di aver promesso che stavolta non avrebbe lavorato dopo le sette. Lasciò il telefono in tasca.
 
-«Da quanto tempo usate i robot?», chiese Leïa.
+«Da quanto tempo usate i robot?», chiese Leah.
 
 «Ventisei giorni nel campus. Gli agenti AI, invece, lavorano con noi da molto più tempo.»
 
-Kyla li accompagnò davanti a una parete su cui scorrevano le attività del reparto sviluppo. Non mostrava soltanto statistiche: una richiesta scritta in linguaggio naturale, il codice che un agente proponeva di modificare, i test generati e il nome della persona chiamata a rivedere la proposta.
+Taylor li accompagnò davanti a una parete su cui scorrevano le attività del reparto sviluppo. Non mostrava soltanto statistiche: una richiesta scritta in linguaggio naturale, il codice che un agente proponeva di modificare, i test generati e il nome della persona chiamata a rivedere la proposta.
 
 «Un tempo lo sviluppatore prendeva un ticket e scriveva il connettore riga per riga. Oggi può chiedere all'agente di predisporre una modifica. Ma deve ancora capire che cosa accadrà quando il codice incontrerà il programma del cliente.»
 
-Sahir guardò un riquadro verde.
+Elias guardò un riquadro verde.
 
 «Questo significa che l'agente aveva ragione?»
 
 «Che i test previsti sono passati. Non è la stessa cosa.»
 
-Kyla preferiva quella risposta a qualsiasi promessa d'infallibilità. Era una frase che i tecnici avevano ripetuto abbastanza volte perché anche il Marketing imparasse a usarla senza alterarne il senso.
+Taylor preferiva quella risposta a qualsiasi promessa d'infallibilità. Era una frase che i tecnici avevano ripetuto abbastanza volte perché anche il Marketing imparasse a usarla senza alterarne il senso.
 
-«E i robot?», domandò Leïa. «Perché dare braccia a un sistema che può scrivere software?»
+«E i robot?», domandò Leah. «Perché dare braccia a un sistema che può scrivere software?»
 
 «Perché il mondo non è soltanto software.»
 
-Kyla indicò, oltre la vetrata, il tagliaerba fermo davanti a una panchina. B-17 attendeva che un dipendente recuperasse la propria borsa prima di continuare.
+Taylor indicò, oltre la vetrata, il tagliaerba fermo davanti a una panchina. B-17 attendeva che un dipendente recuperasse la propria borsa prima di continuare.
 
 «Un agente può proporre un collegamento perfetto. Poi, nel sito del cliente, trovi un terminale che conferma l'operazione con due spie invece che con un messaggio digitale. O una firma che esiste soltanto sulla carta. Per quelle cose servono ancora mani, occhi e qualcuno che possa fermarsi se il passaggio non è sicuro.»
 
 «Quindi una volta imparato a tagliare il prato lo mandate a programmare?»
 
-Kyla rise. «Per il momento sarei contenta che non tagliasse anche i fiori. Lo sviluppo è dietro quella porta, invece. E non ha ancora smesso di aver bisogno di persone.»
+Taylor rise. «Per il momento sarei contenta che non tagliasse anche i fiori. Lo sviluppo è dietro quella porta, invece. E non ha ancora smesso di aver bisogno di persone.»
 
 Fuori, B-17 terminò la striscia d'erba. Il giardiniere controllò il bordo e gli diede un cenno. Non ci furono applausi.
 
-Kyla aprì la porta del laboratorio.
+Taylor aprì la porta del laboratorio.
 
 «Volevo mostrarvi una cosa che vendiamo da vent'anni e che ancora oggi molti clienti non possono sostituire.»

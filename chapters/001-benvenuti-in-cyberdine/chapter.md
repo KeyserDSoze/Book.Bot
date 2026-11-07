@@ -4,20 +4,20 @@ id: chapter:001-benvenuti-in-cyberdine
 number: 1
 title: Benvenuti in Cyberdine
 canon: canon
-pov: character:kyla
+pov: character:taylor
 ---
 
 # Obiettivo narrativo
 
-Kyla riceve i rappresentanti del cliente Aruvhana nel campus della **software house Cyberdine**. Il lettore vede una azienda che scrive codice di integrazione e manutiene connettori per sistemi industriali eterogenei. Gli **agenti di sviluppo software esistono già** e preparano patch, test e riepiloghi, che i programmatori devono verificare. Gli umanoidi Lanter sono arrivati solo da ventisei giorni, per compiti fisici nel campus. B-17 **taglia l'erba e riordina attrezzi**; non è ancora un collaboratore del reparto sviluppo.
+Taylor riceve i rappresentanti del cliente Aruvhana nel campus della **software house Cyberdine**. Il lettore vede una azienda che scrive codice di integrazione e manutiene connettori per sistemi industriali eterogenei. Gli **agenti di sviluppo software esistono già** e preparano patch, test e riepiloghi, che i programmatori devono verificare. Gli umanoidi Lanter sono arrivati solo da ventisei giorni, per compiti fisici nel campus. B-17 **taglia l'erba e riordina attrezzi**; non è ancora un collaboratore del reparto sviluppo.
 
 # Pressione e punto di vista
 
-Kyla vuole concludere una visita credibile e tornare in tempo alla propria vita privata (cinema con una amica). Ammira l'automazione, ne vede vantaggi autentici e non è ancora diventata una critica dei sistemi aziendali. Sahir chiede prove su responsabilità e occupazione; Leïa osserva gli oggetti e le persone. Nico compare soltanto come un bravo sviluppatore alle prese con una porta che non si apre, non come anticipazione visibile di un segreto.
+Taylor vuole concludere una visita credibile e tornare in tempo alla propria vita privata (cinema con una amica). Ammira l'automazione, ne vede vantaggi autentici e non è ancora diventata una critica dei sistemi aziendali. Elias chiede prove su responsabilità e occupazione; Leah osserva gli oggetti e le persone. Noah compare soltanto come un bravo sviluppatore alle prese con una porta che non si apre, non come anticipazione visibile di un segreto.
 
 # Scansione delle scene
 
-1. **La porta di vetro.** Cyberdine è esplicitamente software house; B-17 è un addetto al giardino, Nico testa il varco fisico, i clienti incontrano agenti di sviluppo già in uso.
+1. **La porta di vetro.** Cyberdine è esplicitamente software house; B-17 è un addetto al giardino, Noah testa il varco fisico, i clienti incontrano agenti di sviluppo già in uso.
 2. **Le cose che non parlavano.** Terminali legacy, agenti AI che producono patch e test; una persona trova il caso che non era stato chiesto all'agente. B-17 passa con gli attrezzi del giardino, senza intervenire nel coding.
 3. **La staffetta.** Batterie fisiche, copertura operativa e limiti energetici; miglioramenti reali dell'orario e domanda sui percorsi professionali che si riducono.
 4. **La misura del tempo.** KPI veri per il programma più ampio, non attribuiti ai soli robot; proposta su alternative scartate formulata da un agente software, in attesa di prova e approvazione umana.
@@ -29,4 +29,4 @@ Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdin
 
 ## Raccordo della revisione sull'arco morale
 
-Nella scena 001 Nico lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Kyla e l'entusiasmo della visita.
+Nella scena 001 Noah lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Taylor e l'entusiasmo della visita.
