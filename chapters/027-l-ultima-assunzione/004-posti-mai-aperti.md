@@ -28,7 +28,15 @@ Nerea la aspettò nell'atrio.
 
 Irene sistemò il badge temporaneo sulla giacca.
 
-Al piano superiore riconobbe il tavolo dove Adriana le aveva insegnato a controllare le versioni dei registri. Ora era diventato un punto di dimostrazione. Un robot mostrava come raccogliere attestazioni di lavoro da apparecchi diversi senza duplicare le verifiche.
+Al piano superiore riconobbe il tavolo dove Adriana le aveva insegnato a controllare le versioni dei registri. Intorno, un gruppo di giovani sviluppatori mostrava un nuovo metodo di lavoro. Uno descriveva a un robot, in linguaggio naturale, l'errore che voleva evitare. Una finestra presentava una proposta di codice generata dall'agente, una seconda i test e un riepilogo. Il ragazzo non digitò nulla, tranne la richiesta di approfondire due condizioni. Poi mostrò agli ospiti come approvare una modifica dopo un controllo di qualità.
+
+Irene si fermò ad ascoltare. La dimostrazione era efficace, e per diversi casi perfino corretta. Quando un visitatore chiese quale funzione eseguisse materialmente la conversione fra le due versioni di protocollo, il giovane aprì un altro riepilogo automatico.
+
+«No, il file», disse l'uomo. «Vorrei vedere il codice da cui deriva.»
+
+Il giovane esitò, poi riuscì a trovarlo. Sullo schermo comparve una libreria con centinaia di righe e un riferimento a una funzione precedente, scritta anni prima. Non sapeva indicare subito perché il riferimento fosse ancora necessario.
+
+Irene non lo giudicò. Aveva fatto la stessa cosa molte volte, prima di restare senza Bi. Ma ricordò la voce di Adriana: «Chi saprà fare la domanda quando il sistema non funzionerà?» Ora era diventato un punto di dimostrazione. Un robot mostrava come raccogliere attestazioni di lavoro da apparecchi diversi senza duplicare le verifiche. Anche quella era una funzione scritta e mantenuta da software, non un pensiero che si trasmetteva da una macchina all'altra.
 
 Irene rimase a guardare.
 
@@ -44,7 +52,7 @@ Irene spiegò il proprio ruolo precedente.
 
 L'uomo ascoltò con attenzione. Le fece domande precise, alcune più interessanti di quelle che le erano state poste nei colloqui degli ultimi mesi.
 
-«Stiamo aprendo un posto per la verifica dei casi eccezionali», disse.
+«Stiamo aprendo un posto per la verifica dei casi eccezionali», disse. «Il codice ordinario lo generiamo ormai quasi tutto attraverso agenti. Ci servono persone che sappiano riconoscere le eccezioni, oltre a firmare i test.»
 
 «A tempo pieno?»
 

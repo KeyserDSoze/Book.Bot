@@ -21,7 +21,7 @@ Irene Valli arrivò alla riunione in anticipo, con il rapporto delle prove stamp
 
 Era stata invitata a presentare il risultato del pilota. Non a una riunione sul personale.
 
-Il sistema di interoperabilità aveva funzionato meglio delle prime stime. I passaggi fra vecchi terminali, controlli umani e nuove unità robotiche richiedevano meno trascrizioni, meno ricostruzioni a posteriori e meno telefonate di chiarimento. Gli arresti di sicurezza restavano separati. Due problemi erano emersi in prova ed erano stati corretti da persone prima di estendere l'impiego.
+Il sistema di interoperabilità aveva funzionato meglio delle prime stime. Cyberdine lo aveva costruito come prodotto software: nuove interfacce, connettori verificabili, test automatici, strumenti per rileggere il percorso di una decisione. Gli agenti avevano preparato una parte consistente del codice, i programmatori avevano deciso cosa accettare e avevano firmato i rilasci. Irene aveva voluto tenere fra le prove anche casi che gli agenti non sapevano riassumere da soli. I passaggi fra vecchi terminali, controlli umani e nuove unità robotiche richiedevano meno trascrizioni, meno ricostruzioni a posteriori e meno telefonate di chiarimento. Gli arresti di sicurezza restavano separati. Due problemi erano emersi in prova ed erano stati corretti da persone prima di estendere l'impiego.
 
 Aruvhana aveva accettato il rinnovo condizionato a ulteriori verifiche, ma su una base economica già approvata.
 
@@ -37,7 +37,7 @@ Kyla non rispose subito.
 
 Il direttore del personale distribuì un documento di tre pagine.
 
-Non aveva l'intestazione *licenziamenti*. Si chiamava *Riorganizzazione delle funzioni di presidio e preparazione eccezioni*.
+Non aveva l'intestazione *licenziamenti*. Si chiamava *Riorganizzazione delle funzioni di sviluppo, collaudo e presidio delle eccezioni*. La prima pagina parlava di meno adattatori scritti a mano, di meno turni per controllare ogni cambiamento e di un numero minore di persone incaricate di riprodurre test che gli agenti generavano già.
 
 Verri annunciò che il contratto con Aruvhana era stato rinnovato per tre anni, con passaggi di verifica e obblighi di continuità. Gran parte degli impieghi collegati al servizio sarebbe rimasta. I costi si sarebbero ridotti grazie a nuove soluzioni tecniche e alla riduzione del lavoro ripetitivo.
 
@@ -65,7 +65,7 @@ Kyla aprì la bocca, poi la richiuse.
 
 Irene indicò la riga.
 
-«La funzione che ho contribuito a rendere verificabile è quella che state eliminando.»
+«La funzione che ho contribuito a rendere verificabile è quella che state eliminando. Io non ho solo spostato documenti. Ho progettato i casi che impediscono al vostro codice di produrre risultati sbagliati.»
 
 «Hai un ruolo importante nella transizione.»
 
