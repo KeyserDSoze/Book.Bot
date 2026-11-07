@@ -1,6 +1,6 @@
 ---
 type: scene
-id: scene:009-la-copia:003-il-turno-di-irene
+id: scene:009-la-copia:003-il-turno-di-claire
 chapter: chapter:009-la-copia
 number: 3
 title: Il turno di Claire

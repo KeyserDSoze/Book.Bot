@@ -1,6 +1,6 @@
 ---
 type: scene
-id: scene:017-mille-piccoli-bi:002-il-turno-di-ada
+id: scene:017-mille-piccoli-bi:002-il-turno-di-grace
 chapter: chapter:017-mille-piccoli-bi
 number: 2
 title: Il turno di Grace

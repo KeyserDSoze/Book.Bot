@@ -1,6 +1,6 @@
 ---
 type: scene
-id: scene:005-il-posto-che-non-serve-piu:001-la-finestra-di-adriana
+id: scene:005-il-posto-che-non-serve-piu:001-la-finestra-di-margaret
 chapter: chapter:005-il-posto-che-non-serve-piu
 number: 1
 title: La finestra di Margaret

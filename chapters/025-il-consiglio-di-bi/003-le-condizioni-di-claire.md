@@ -1,6 +1,6 @@
 ---
 type: scene
-id: scene:025-il-consiglio-di-bi:003-le-condizioni-di-irene
+id: scene:025-il-consiglio-di-bi:003-le-condizioni-di-claire
 chapter: chapter:025-il-consiglio-di-bi
 number: 3
 title: Le condizioni di Claire
