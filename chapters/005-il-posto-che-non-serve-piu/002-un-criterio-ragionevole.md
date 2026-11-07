@@ -56,7 +56,7 @@ Adriana la guardò.
 
 «L'assegnazione deve essere scritta nelle responsabilità del processo. Non può dipendere dal fatto che io sia seduta qui.»
 
-Il tablet vibrò. Era arrivata la sintesi di tre casi di prova elaborati con Bi. Elena la proiettò sullo schermo.
+Il tablet vibrò. Era arrivata la sintesi di tre casi di prova elaborati con Bi. Una schermata supplementare mostrava un cambiamento al connettore per gli archivi storici: l'agente di sviluppo aveva proposto il codice, Bi aveva ricostruito la risposta del terminale di prova e un programmatore aveva approvato il risultato. Su dodici modifiche analoghe dell'ultimo mese, quasi tutte erano state chiuse da persone che non avevano scritto direttamente una riga di codice. Avevano letto test, confronti e rapporti, ma raramente aperto la vecchia libreria che governava i protocolli. Elena lo sapeva e, fino a quel momento, aveva avuto poche ragioni per preoccuparsene. Elena la proiettò sullo schermo.
 
 Il primo era stato risolto con un semplice confronto tra versioni. Il secondo richiedeva una scelta umana su due percorsi plausibili. Il terzo aveva una discrepanza tanto sottile che Elena, senza l'elenco delle alternative scartate, avrebbe potuto interpretarla male.
 
@@ -92,7 +92,7 @@ Elena si accorse di quanto fosse difficile contestarla.
 
 Adriana indicò una riga nel documento.
 
-«E le persone che dovevano imparare questo mestiere? Se nessuno ricopre più la posizione, chi impara a fare domande come quelle che abbiamo fatto oggi?»
+«E le persone che dovevano imparare questo mestiere?», chiese Adriana. «Se una modifica viene proposta da un agente, verificata da Bi e firmata da un responsabile che guarda solo il test verde, chi impara a capire perché il programma funziona? E chi sarà capace di fare domande come queste quando qualcosa smetterà di funzionare?»
 
 Elena non aveva una risposta immediata.
 

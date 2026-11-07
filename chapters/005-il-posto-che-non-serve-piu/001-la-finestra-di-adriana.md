@@ -87,7 +87,7 @@ Eppure, quando Adriana le aveva ceduto la conduzione delle riunioni, quando i co
 
 In fondo al corridoio si sentirono passi meccanici.
 
-Bi comparve sulla soglia con un contenitore di cartelle già ordinate.
+Bi comparve sulla soglia con un contenitore di cartelle già ordinate. Nelle ultime settimane aveva ricevuto anche richieste dal reparto software: non più soltanto fascicoli, ma risultati di collaudi, differenze tra versioni e casi di regressione. La prima volta Irene l'aveva visto dietro la scrivania di un programmatore, fermo a guardare un terminale acceso. Ora trovava normale che una unità capace di prendere male un foglio potesse individuare un test mancante più in fretta di chi aveva scritto il programma.
 
 «Buongiorno, Adriana. Buongiorno, Irene.»
 
@@ -101,7 +101,7 @@ Irene aprì la prima cartella. Il lavoro era pulito. Ogni eccezione aveva un ind
 
 «Hai finito tutto?» chiese.
 
-«La raccolta dei riferimenti sì. Mancano gli avalli sulle tre eccezioni che hai segnato.»
+«La raccolta dei riferimenti sì. Mancano gli avalli sulle tre eccezioni che hai segnato. Per il connettore in verifica ho anche preparato una proposta di test sui casi esclusi. È disponibile nell'ambiente di prova, non nel codice rilasciato.»
 
 «Lo so. Li prendiamo noi.»
 
@@ -111,7 +111,7 @@ Bi aspettò un istante.
 
 Irene passò il pollice sulle linguette delle cartelline. Aveva bisogno di un'ora per prepararle, forse meno.
 
-«Sì», rispose. «Ma lascia a me la scelta di quali porre per prime.»
+«Sì», rispose. «Ma lascia a me la scelta di quali porre per prime. E voglio vedere i risultati dei test, non soltanto il commento che li riassume.»
 
 «Certamente.»
 

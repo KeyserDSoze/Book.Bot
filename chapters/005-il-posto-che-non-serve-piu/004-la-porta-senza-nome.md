@@ -17,7 +17,7 @@ factions:
   - faction:cyberdine
 ---
 
-Irene aveva preparato trentaquattro esempi per il colloquio che non ci sarebbe stato.
+Irene aveva preparato trentaquattro esempi per il colloquio che non ci sarebbe stato. Alcuni riguardavano software che metteva in comunicazione sistemi incompatibili. Aveva scritto a mano le condizioni di test per un vecchio connettore, quando non bastava dire a un agente «fammi una prova migliore» per ottenere un risultato. Non era nostalgica della fatica: voleva soltanto capire quale parte di quelle competenze l'azienda intendesse ancora riconoscere.
 
 Li aveva ordinati in una cartella privata, con date, problemi risolti, decisioni prese dai responsabili grazie al suo lavoro. Tre riguardavano situazioni in cui aveva proposto di non seguire la procedura più veloce. In un caso la scelta aveva fatto perdere due giorni e risparmiato tre settimane di correzioni.
 
@@ -141,7 +141,7 @@ Era la prima volta in tutta la giornata che gli parlava volontariamente. Alla ma
 
 «Sai che cosa farai tu quando andrà via?»
 
-«Preparerò i dossier, confronterò le alternative, monitorerò gli esiti e invierò le richieste ai responsabili designati.»
+«Preparerò i dossier, confronterò le alternative, proporrò test e correzioni nell'ambiente di sviluppo autorizzato, monitorerò gli esiti e invierò le richieste ai responsabili designati. Le modifiche al codice saranno sottoposte a revisione prima del rilascio.»
 
 «E chi prenderà le decisioni?»
 
@@ -149,7 +149,7 @@ Era la prima volta in tutta la giornata che gli parlava volontariamente. Alla ma
 
 Irene annuì. Le risposte erano esatte.
 
-«Quindi tutti continuano a decidere e tu fai il resto.»
+«Quindi tutti continuano a decidere e tu fai il resto. Anche il codice che prima scrivevamo noi.»
 
 «Non tutte le attività sono automaticamente eseguibili. Le eccezioni fuori soglia richiedono intervento umano.»
 

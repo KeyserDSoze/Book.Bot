@@ -30,7 +30,7 @@ Paolo alzò gli occhi. «Ma va in pensione fra dieci giorni.»
 
 Mila lesse il messaggio interno. C'erano parole che conosceva: *riorganizzazione, responsabilità distribuite, supporto automatizzato*. Il documento non conteneva il nome di Irene. Nemmeno quello di Bi.
 
-«Non è scritto che la posizione passi al robot», disse.
+«Non è scritto che la posizione passi al robot», disse. «È scritto che la preparazione dei dossier e una parte delle verifiche software verranno svolte da agenti e robot autorizzati. La responsabilità dei rilasci resta ai tecnici.»
 
 Dario la guardò. «No. È scritto che i capi continuano a firmare. E chi preparerà tutte le decisioni prima della firma?»
 
@@ -50,7 +50,7 @@ Mila rimise il telefono in tasca. Un messaggio così aveva sempre il difetto di 
 
 «È un posto che Irene voleva», disse Paolo, a voce più bassa.
 
-«Un posto che voleva mezza azienda», rispose Dario. «Non un lavoro di passaggio. Una responsabilità vera. Oggi sparisce perché Bi fa le cose troppo bene.»
+«Un posto che voleva mezza azienda», rispose Dario. «Non un lavoro di passaggio. Una responsabilità vera. Oggi sparisce perché Bi fa le cose troppo bene. Io scrivevo collegamenti fra programmi. Adesso dico a un agente cosa voglio, Bi gli mostra cosa succede sul terminale e a me resta il pulsante per approvare. E quando chiedi chi conosce davvero il modulo, ti indicano un rapporto generato da una macchina.»
 
 Il distributore emise il lungo sospiro che annunciava un lavaggio automatico. Tutti fecero un passo indietro, ma nessuno cambiò argomento.
 
