@@ -46,7 +46,7 @@ Questa guida è la fonte editoriale per **nomi pubblici e relazioni** dopo la mi
 
 ## Personaggi secondari disambiguati
 
-**Avery** lavora alla baia quattro dell'Hub Levante, dove si è formata per le eccezioni di percorso: non è **Chloe Rivera**, figlia di Helen, che compare nel centro assistenziale. **Lucy** accompagna gli ospiti alla serra; **Lauren** collabora all'assistenza durante il fermo mondiale. Questi nomi sostituiscono rispettivamente un'Elisa omonima, Lucia e Luciana.
+**Avery** lavora alla baia quattro dell'Hub Levante, dove si è formata per le eccezioni di percorso: non è **Chloe Rivera**, figlia di Helen, che compare nel centro assistenziale. **Lucy** accompagna gli ospiti alla serra; **Lauren** collabora all'assistenza durante il fermo mondiale. Nella precedente versione l'operatrice dell'Hub condivideva il nome della figlia di Helen. Ora sono persone chiaramente distinte, e anche i due nomi delle operatrici del centro sono stati resi più internazionali.
 
 ## Visitatori, nomi minori e macchine
 
