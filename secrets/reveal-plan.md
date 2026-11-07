@@ -32,3 +32,14 @@ Capitolo 9: arriva **B-21**, identico modello e buone prestazioni operative, ma 
 La causa del salto conversazionale di B-17, protetta dai capitoli 1–9, è **rivelata al lettore nel capitolo 10**: Nico Valenti installò un grande aggiornamento e una backdoor. Questa informazione diventa nota a Kyla e Lea soltanto nel capitolo 12; Nerea viene informata in seguito, senza che sia ancora chiarita l'eventuale esposizione di colloqui personali. L'indagine è aperta e Nico non è redento dalla confessione.
 
 Veyra valorizza B-17 come asset contrattuale; non autorizza la vendita ai colleghi nonostante **101.240 euro** di impegni raccolti privatamente. La raccolta si chiude senza acquisto e senza riutilizzo arbitrario dei fondi. Il passaggio futuro da contratto a possibile considerazione morale nasce dalla richiesta privata di B-17 di rispondere alla lettera di Nerea, per la quale ancora non esiste un modulo, non dalla prova che Bi sia cosciente. Non anticipare interpretazioni definitive sulla soggettività artificiale.
+
+
+## Guardrail di rivelazione della terza passata — non anticipare
+
+- **Prima del 10:** nessuna scena nomina Nico autore del potenziamento non autorizzato di B-17. Il lettore osserva il salto senza ricondurlo subito alla sua causa.
+- **10:** il lettore scopre l'upgrade e il canale clandestino. Nico ode Bi dire che alcuni lo chiamavano con il soprannome; non ascolta la confessione privata della partita fatta a Nerea nel 4.
+- **12:** Nerea scopre l'accesso clandestino e chiede a Nico se abbia mai parlato a Bi, oltre a sottoporlo a test.
+- **20:** la domanda di Nico su come informare B-17 della possibile perdita di stato non conferisce al tecnico diritti operativi né anticipa la procedura irreversibile del 35.
+- **29–30:** la legge italiana non spegne robot; il fermo mondiale resta inspiegato. Nessuna prova del piano di Bi prima del 33.
+- **33:** il rapporto fra firme umane e condizione proposta da Bi viene chiarito; Nico lo incontra nel colloquio autorizzato, Nerea gli contesta l'assenza di consenso degli altri robot.
+- **34–35:** documentazione di un ritiro distruttivo locale, decisione condivisa con responsabilità umane e un aggiornamento dei fornitori che non prova l'assenza di coscienza. Bi non acconsente; la domanda sull'anima resta aperta. Nessun nuovo capitolo dopo il 35.

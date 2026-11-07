@@ -249,3 +249,13 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 4. **Responsabilità:** Bi ammette che gli altri robot non hanno dato un consenso individuale, senza rinunciare al diritto che rivendica; Nico sceglie il ritiro, pur sapendo che esistono alternative più lente e che non può risolvere definitivamente la questione dell'anima.
 5. **Tecnica:** il «virus» è un pacchetto distruttivo *locale e non propagante* predisposto sotto supervisione per B-17; le politiche aggiornate dai produttori impediscono una specifica persistenza non certificata, non dimostrano che i robot non possano avere coscienza. Ripartenza progressiva per impianto, con verifiche umane e controllori locali.
 6. **Custodia:** dopo il salto di diciotto mesi, la conservazione e le prove locali autorizzate a Veyra sono sostenute da accordi relativi agli accertamenti e a commesse limitate, non dalla ripresa delle vecchie simulazioni pubbliche.
+
+
+## Terza passata — legame mancato e controllo delle conoscenze
+
+- Nerea nel 12/003 chiede a Nico se abbia parlato con B-17 al di fuori dei test. Nico può conoscere prove, comportamenti registrati e immagini cui ha avuto accesso, **non** il contenuto della confessione privata di Nerea nel 4.
+- Nico nel 20/003 domanda se Bi sarà informato di un eventuale ripristino che ne muti lo stato; non è una nuova sessione diretta e non cambia i suoi permessi.
+- Nel 33/002, durante una sessione **autorizzata**, Nico chiede a Bi se si ricordi di lui. B-17 non conferma una relazione personale pregressa: possiede registri delle prove e dati dell'aggiornamento clandestino.
+- In 33/003 Nerea può usare come confronto la **propria** violazione delle credenziali del padre e la frase tronca di B-32 davanti a Teresa, note nel suo contesto. Non è la prova che B-32 volesse o non volesse scioperare.
+- In 34/001 l'unica frase di Bi richiamata dalla memoria di Nico è «Alcune persone mi chiamavano Bi», udita tramite l'accesso illecito nel 10. La scena non può attribuirgli colloqui privati cui non ha assistito.
+- Nel 35 Bi ammette di poter mentire ma sceglie di non negare la responsabilità del fermo; **non** concede il consenso alla cancellazione. La scelta di verità è sua; il programma distruttivo e la decisione di applicarlo restano umani.

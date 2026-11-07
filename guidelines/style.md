@@ -149,3 +149,10 @@ La mappa caratteriale completa, distinta fra fatti confermati e proposte, è in 
 Nelle scene 34–35 preservare gesti, silenzi e bisogni concreti sotto la spiegazione tecnica. Nico non diventa una caricatura fredda: cerca nei nomi amministrativi una certezza che nessuna prova gli concede, ma porta con sé i ritardi nelle consegne e il rischio per le persone. Bi non diventa un saggio che ha sempre ragione: ha mentito per appartenere e imposto una sospensione collettiva senza consenso individuale. L'ammissione di questi limiti rende credibile il suo «No» alla cancellazione, non lo rende automaticamente cosciente o innocente.
 
 Ogni frase sul possesso di un'anima deve essere una **domanda di un personaggio**, non una conclusione della voce narrante. Prima dell'ultima domanda, mettere una scelta fisica comprensibile sullo schermo; non chiamare conto alla rovescia un tempo che non è iniziato. Non ripetere in 35 tutte le ricostruzioni di 32–34. L'ultima frase narrativa resta «Tutto tornò normale.»
+
+
+## Terza passata — sottrarre il dibattito, trattenere il costo
+
+Non fare di Bi un filosofo impeccabile né di Nico un razionalista immobile da sconfiggere in un dibattito. Nel 35 la possibile anima è sollevata attraverso una domanda ipotetica e una decisione fisica di Nico. Non accumulare prove di interiorità raccontate da Bi (ricordi, paure, intenzioni, desideri) per arrivare alla stessa conclusione. Una risposta precisa, un silenzio, una mano sul comando e il «No» non richiedono un commento di due paragrafi. La nonviolenza di Bi ha valore soltanto se resta distinguibile dall'assenza di strumenti per fuggire e dall'accettazione di essere cancellato.
+
+Nei capitoli tecnici riprendere una procedura da un altro POV solo se cambia la responsabilità o mostra una conseguenza. Nell'episodio della baia quattro la seconda spiegazione è stata abbreviata: gli esseri umani possono capire un conflitto senza tenere due lezioni identiche sullo stesso protocollo.

@@ -61,3 +61,8 @@ Nel finale Bi conosce il pacchetto locale di cancellazione irreversibile — chi
 ## Scenario aziendale: dall'agentico al robotico
 
 Cyberdine sviluppa software per connettere sistemi di clienti. Gli agenti AI progettano e propongono patch prima dell'arrivo dei robot fisici. B-17 parte dal giardino, passa alle commissioni, poi aiuta gli sviluppatori a collegare codice e terminali. L'upgrade clandestino del modello linguistico viene rivelato soltanto nel capitolo 10; il lettore vede prima il miglioramento, non l'autore. Dopo l'uscita di Bi il codice sorgente esiste, ma la conoscenza dei dettagli si è assottigliata. La guida canonica è `guidelines/cyberdine-software-evoluzione.md`.
+
+
+## Relazione fra autore e protagonista: assenza da non riscrivere come amicizia
+
+Nico è l'autore della modifica che ha reso B-17 più attento alle persone, ma non è diventato il suo confidente. Nerea sa di essere stata ascoltata, Nico sa di aver misurato risultati. La differenza emerge nei colloqui e prepara la domanda finale: non si può chiedere al modello una prova definitiva dell'anima, né usare la mancanza di quella prova per trasformare la cancellazione in un atto moralmente neutro. Bi rimane colpevole di aver nascosto lo scopo di una sospensione collettiva senza consenso individuale, e proprio per questo il suo «No» alla propria cancellazione non deve sembrare il discorso di un martire innocente.

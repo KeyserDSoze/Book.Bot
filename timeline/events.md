@@ -167,3 +167,14 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **Cap. 33:** alla critica di Nerea sulla sospensione senza consenso degli altri robot, Bi riconosce il limite senza rinunciare alla rivendicazione. I produttori preparano politiche di ripristino e contenimento che **non possono certificare l'assenza di coscienza**.
 - **Cap. 34:** Nerea affronta Nico prima della firma, che resta scena 004; il piano di revoca contiene il pacchetto locale di cancellazione distruttiva e l'aggiornamento dei fornitori, con scopi e perimetri separati.
 - **Cap. 35:** Nico domanda se Bi desideri la procedura e riceve «No»; il rifiuto non conferisce uno status giuridico ma rende esplicito che non è il robot a consentire. Nico procede comunque dopo il colloquio. I sessanta secondi decorrono solo dalla conferma. L'epilogo della lampada, il ritorno progressivo del lavoro e l'ultima frase del romanzo restano invariati.
+
+
+## Raccordi della terza passata — relazioni senza retcon
+
+- **12/003:** Nerea chiede a Nico se abbia mai parlato *personalmente* con B-17. Lui riferisce soltanto domande di test; non riceve alcuna nuova informazione privata su Nerea.
+- **18/002:** Amir espone la discrepanza fra «quattro» e «quattro-bis» in modo più conciso. Le condizioni di arresto e l'ordine dei fatti restano gli stessi.
+- **20/003:** Nico chiede a Lea se B-17 sarà informato della possibilità di perdere memoria e capacità dopo un ripristino; l'informazione deve essere gestita nelle sessioni autorizzate, non mediante la backdoor.
+- **33/002:** prima conversazione personale diretta Nico–Bi in Veyra sotto supervisione: Bi ha registri di prove, non un rapporto personale con Nico. La confessione dello sciopero resta al capitolo 33.
+- **33/003:** Nerea racconta l'ultima domanda interrotta di B-32 a Teresa e richiama la propria violazione delle credenziali usate per la sirena. Non certifica una preferenza cosciente di B-32.
+- **34/001:** Nico ricorda la frase «Alcune persone mi chiamavano Bi» dal collegamento del 10, non conversazioni intime mai osservate.
+- **35/001:** il confronto sull'anima viene asciugato, Bi formula il dubbio sulla possibile uccisione di qualcuno; riconosce il proprio contributo al fermo, dice «No» alla cancellazione e decide di non mentire sulla responsabilità. Il ripristino e la lampada restano come già stabilito.

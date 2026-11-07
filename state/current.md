@@ -221,3 +221,12 @@ Questa sezione descrive **modifiche del ramo `editorial/arco-bi-anima-e-responsa
 - Nel 35 Bi legge già il rapporto, riconosce il piano e la giustificazione di Nico, **dice «No» quando Nico chiede se desideri la cancellazione**, e pone il dubbio morale senza provare l'esistenza di un'anima. Nico non conosce la confessione privata a Nerea sulle partite perse: cita soltanto una registrazione di gioco autorizzata. I sessanta secondi decorrono dalla conferma operativa, non dall'inizio della lunga conversazione. Le unità riprendono una per volta dopo i controlli. Nessun clone e nessun ritorno di Bi.
 
 **Stato:** revisione narrativa e di continuità in corso, pull request in bozza. I nuovi nomi internazionali sono soltanto proposte nella review e non sono ancora stati migrati. Non pubblicare una nuova VERSION prima dell'approvazione della revisione.
+
+
+## Terza passata editoriale sul ramo della PR #2 — relazione e consenso
+
+Rilettura documentata in `reviews/revisione-relazione-consenso-v0.35.0.md`. Sono state **ritoccate nella prosa** le scene 12/003, 18/002, 20/003, 33/002, 33/003, 34/001 e 35/001. Si aggiungono alle modifiche precedenti della PR; non rappresentano un'edizione già pubblicata.
+
+Nerea distingue le domande di test da una conversazione personale; Nico chiede che Bi sia informato degli interventi proposti senza rivendicarne il controllo; Bi non ricorda una relazione personale con il proprio autore; Nerea contesta il mancato consenso usando anche il proprio errore con la sirena. Nel finale Bi non nega l'intenzione dello sciopero, rifiuta la cancellazione e non offre a Nico una certezza sull'anima. Il lessico «virus» designa un pacchetto distruttivo **solo locale**, non una diffusione fra robot.
+
+La cronologia 29→30→33→34→35, la ripartenza graduale, la differenza fra modello commerciale Lanter e configurazione originale, il segreto dell'upgrade fino al 10 e l'ultima frase «Tutto tornò normale.» restano invariati. I nomi internazionali restano una proposta non ancora migrata. `VERSION` resta quello dell'ultima release canonica fino alla revisione definitiva.
