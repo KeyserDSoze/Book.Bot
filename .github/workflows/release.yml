@@ -46,6 +46,8 @@ jobs:
       - name: Validate manuscript
         run: python tools/validate.py
 
+      - name: Audit international character names
+        run: python tools/audit_cast.py
       - name: Build Markdown, DOCX and EPUB
         run: python tools/build.py --require-pandoc
 
