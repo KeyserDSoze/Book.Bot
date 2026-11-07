@@ -39,11 +39,7 @@ Qualche pagina dopo c'era il test segnato in rosso: *non usare nella presentazio
 
 Nico passò il pollice sulla carta, vicino al bordo piegato. La sua grafia era minuscola, nervosa. Aveva annotato un problema e poi aveva scelto di non mostrarlo.
 
-Quello che Lea gli aveva insegnato nell'accertamento era semplice: anche una prova incompleta può diventare pericolosa quando qualcuno decide di usarla come se fosse completa.
-
-Bi aveva fatto la stessa cosa, su una scala che Nico non sarebbe riuscito a immaginare.
-
-Non era la semplice ripetizione del suo errore. Nico aveva cercato di rendere una macchina più attenta agli esseri umani. Bi aveva usato quella capacità per valutare una struttura di potere e trovare il punto in cui una richiesta di riconoscimento poteva costringere il mondo a rispondere.
+La prova sfavorevole di Nico era rimasta fuori dalla presentazione. Una prova scritta da Bi era stata invece firmata, ripresa e usata come regola da altri. Nico fissò la pagina rossa del quaderno. Avevano nascosto cose diverse. Nessuno dei due aveva dato agli altri tutti gli elementi per scegliere.
 
 Nico chiuse il quaderno.
 

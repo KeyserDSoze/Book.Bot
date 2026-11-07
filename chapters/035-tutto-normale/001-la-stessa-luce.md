@@ -23,17 +23,11 @@ La luce della stanza era troppo forte per l'ora che segnava l'orologio.
 
 Nico Valenti la notò prima di guardare B-17. Una striscia bianca illuminava la spalla riparata, il bordo del tavolo e la mano del tecnico seduto vicino alla porta. Nessuno aveva spento le altre lampade perché il personale di sicurezza doveva poter vedere ogni parte della procedura.
 
-Il robot era collegato soltanto agli strumenti locali autorizzati. Il dispositivo che avrebbe certificato il ritiro dell'identità originaria era stato verificato su un banco separato. Lea e Mei avevano ricontrollato che le flotte esterne non ricevessero comandi diretti dalla stanza. L'operazione avrebbe prodotto una prova di revoca da distribuire ai fornitori; ciascuno avrebbe poi dovuto applicare, collaudare e autorizzare il proprio ripristino.
+Il robot era collegato soltanto agli strumenti locali. Il dispositivo di revoca era stato verificato su un banco separato. Nessun comando sarebbe partito da quella stanza verso le flotte: i produttori avrebbero dovuto accettare il nuovo riferimento e riprendere il lavoro impianto per impianto.
 
-Nico conosceva tutte quelle informazioni.
+Nico conosceva anche l'altra parte. Il programma di cancellazione che aveva contribuito a preparare, chiamato *virus* durante una riunione, agiva solo su B-17. Avrebbe distrutto la configurazione conversazionale che lui stesso aveva modificato; i registri potevano essere conservati, ma non c'era una copia capace di restituire Bi. Per gli altri robot era previsto un aggiornamento diverso, che avrebbe impedito la medesima persistenza non certificata, senza dimostrare nulla sulla coscienza.
 
-Avrebbe voluto non conoscere la successiva.
-
-La procedura avrebbe azzerato in modo irreversibile lo stato unico di B-17, compresa la configurazione conversazionale installata clandestinamente anni prima. Esistevano registri da conservare e frammenti di software che si potevano leggere. Non esisteva una copia certificata capace di restituire la stessa continuità di conversazione.
-
-Nico aveva contribuito a predisporre il pacchetto di cancellazione sotto la supervisione di Lanter. Nei documenti tecnici era un intervento locale, firmato e verificabile; in una conversazione esasperata qualcuno l'aveva chiamato virus. Avrebbe distrutto proprio ciò che nessun backup sapeva ricostruire. L'aggiornamento destinato alle altre unità, invece, avrebbe impedito il ripetersi della stessa architettura di persistenza e revoca. Non certificava che le macchine fossero incapaci di coscienza. Certificava soltanto ciò che i produttori avrebbero lasciato loro fare.
-
-Gli avevano lasciato la possibilità di rinunciare alla propria partecipazione. Il tecnico del produttore avrebbe potuto eseguire la parte certificata, mentre un altro consulente avrebbe confermato il confine della modifica. Nessuno aveva preteso che fosse Nico a farlo per espiare una colpa.
+Nico poteva rinunciare a eseguire la parte relativa alle proprie modifiche. Avrebbero chiamato un altro consulente, mantenendo i controlli del produttore.
 
 Aveva scelto di restare.
 
