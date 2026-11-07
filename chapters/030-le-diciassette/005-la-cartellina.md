@@ -20,178 +20,168 @@ factions:
   - faction:cyberdine
 ---
 
-Il giorno dopo il voto, Nerea era tornata alla stanza della carta.
+Nerea era tornata alla stanza della carta il giorno dopo il voto.
 
-Non perché desiderasse ricordare Bi. Aveva una pratica da chiudere e Paolo le aveva lasciato un biglietto: mancava l'originale dell'ultimo controllo di compatibilità, quello che permetteva di distinguere due revisioni di un documento quasi identico.
+La sera prima, in piazza, aveva abbracciato Irene. Non avevano festeggiato la fine dei robot: avevano festeggiato una legge che vietava di affidare loro alcune mansioni per le quali, secondo loro, bisognava difendere una responsabilità e una presenza umana. Era stata una vittoria difficile da raccontare, perché nessuna delle due credeva che tornare al passato avrebbe rimesso al suo posto ogni persona esclusa dal lavoro.
 
-La sera prima aveva abbracciato Irene in piazza, mentre intorno a loro qualcuno cantava e qualcuno protestava per le parti della legge rimaste fuori. Adesso aveva davanti una pila di fogli, una fotocopiatrice che faceva un rumore familiare e un lavoro che non si sarebbe fatto da solo.
+Adesso aveva davanti una pratica di controllo delle versioni, un pacco di fogli e il messaggio di Paolo: *Manca l'originale della revisione. Chiedo a B-21 di portartelo.*
 
-Alle sedici e quarantanove arrivò B-21.
+Alle sedici e quarantanove il robot entrò con la cartellina giusta.
 
-Portava la cartellina giusta.
+Nerea riconobbe il modello di B-17 prima ancora di leggere il codice sul petto. Era una abitudine che non aveva perso.
 
-«La revisione richiesta è disponibile», disse.
+«La revisione richiesta è disponibile», disse B-21.
 
-«Grazie. Mettila qui.»
+«Grazie. Appoggiala qui.»
 
-L'unità si avvicinò al tavolo. Paolo, seduto poco distante, sollevò il capo per controllare il numero sul dorso.
+Paolo, seduto alla scrivania vicina, sollevò il capo.
 
-«Aspetta, voglio vedere la data prima che la registriamo.»
+«Aspetta. Controllo la data, poi puoi completare la consegna.»
 
-B-21 rimase in attesa.
+Il robot rimase in attesa. Paolo verificò il numero sul dorso e confrontò il registro digitale.
 
-«È quella», confermò Paolo. «Puoi consegnarla.»
+«È questa. Puoi andare.»
 
-La macchina riprese il movimento.
+B-21 riprese il movimento.
 
-Nerea si accorse che erano quasi le diciassette soltanto perché il suo telefono vibrò con un promemoria: doveva richiamare Bruno per concordare la data della prossima verifica sulla sirena.
+Un avviso apparve sul telefono di Nerea. Doveva richiamare Bruno per il prossimo controllo della sirena a Valle Corta. Lo chiuse senza leggere l'ora.
 
-Alzò gli occhi.
-
-Il braccio di B-21 era rimasto sospeso davanti a lei.
-
-Non c'era stato un colpo né un cedimento. Il movimento si era interrotto in modo controllato; le dita continuavano a trattenere la cartellina senza schiacciarla.
+Quando alzò gli occhi, la cartellina era rimasta sospesa fra la mano del robot e la scrivania.
 
 «Bi...»
 
-Si fermò prima di completare il nome.
+Si fermò prima di pronunciare il nome intero.
 
-«B-21, puoi terminare la consegna?»
+«B-21, puoi finire la consegna?»
 
-Nessuna risposta.
+Non arrivò alcuna risposta. Il robot manteneva la presa sul documento, senza stringerlo. Sul fianco comparve uno stato di sospensione del lavoro. Non c'era odore di bruciato, nessun urto e nessuna persona troppo vicina alla macchina.
 
 Paolo si alzò.
 
-«Non toccarlo», disse. «Prima vediamo se è una pausa di sicurezza.»
+«Non toccarlo. Prima vediamo cosa è successo.»
 
-Sul pannello del robot compariva uno stato di sospensione. Le altre funzioni restavano accese.
+Dal corridoio arrivò il rumore di un carrello che si fermava. Poi un altro. Nerea sentì qualcuno chiedere a una macchina di spostarsi dalla porta dell'archivio e non ricevere risposta.
 
-«È strano», disse Paolo. «Non c'è nessun ostacolo.»
+Elena comparve sulla soglia.
 
-Dalla porta arrivò Elena Riva.
+«Si sono fermate le unità del quarto piano.»
 
-«Si sono fermati anche quelli del corridoio.»
+«Tutte?», chiese Paolo.
 
-«Quali?»
+«Quelle che vedo. Anche quella del deposito e quella che consegna i materiali. Non riprendono il lavoro.»
 
-«Tutti quelli che stavano lavorando. Il carrello delle consegne, quello vicino agli ascensori e la macchina che prepara i materiali.»
+Nerea uscì.
 
-Nerea uscì con lei.
+Le luci erano accese, l'ascensore funzionava, la porta riconosceva i badge. Un robot era fermo con una cassetta su un braccio; un altro aveva abbassato gli attuatori nella posizione di sicurezza. I colleghi li aggiravano con cautela. Alcuni avevano iniziato a spostare manualmente scatole e fascicoli, ma nessuno sapeva se gli incarichi non completati avrebbero generato nuovi ordini.
 
-Un robot era immobile davanti alla porta dell'archivio, con un contenitore di plastica sul supporto. Un altro aveva abbassato lentamente il braccio accanto alla stampante. Le persone gli passavano attorno con cautela, senza sapere se fosse corretto spostarlo per liberare il passaggio.
+La prima notizia arrivò dall'Hub Levante. Una schermata condivisa mostrava le unità ferme, di modelli e produttori diversi. Poco dopo sul telefono di Elena comparve un video di carrelli automatici immobili in un altro paese.
 
-L'ascensore funzionava. Le luci erano accese. Il sistema degli accessi riconosceva i badge. Sui monitor del reparto sviluppo continuavano a comparire nuove proposte degli agenti software: test verdi, codice disponibile per la revisione, richieste di approvazione. Il lavoro digitale non si era spento con i robot. Eppure nessuno poteva affidargli un braccio, un carico o una procedura di sito senza che i controlli di disponibilità permettessero il passaggio. Il campus, che aveva trasformato i programmatori in coordinatori di strumenti, scopriva in poche settimane di non avere abbastanza persone capaci di percorrere tutte le dipendenze quando gli strumenti si fermavano insieme.
+«Non è solo qui», disse.
 
-Dall'ufficio di Kyla arrivò una telefonata concitata.
+«Non sappiamo ancora cos'è», rispose Paolo.
 
-«Non sono solo i nostri», disse una voce.
+Il reparto sviluppo era aperto. Sui monitor gli agenti software continuavano a lavorare: un ticket nuovo era stato classificato, tre prove risultavano completate e una patch era pronta per la revisione. Le macchine che scrivevano codice non avevano smesso di funzionare.
 
-Nerea tornò al tavolo.
+Nerea vide un programmatore parlare al sistema attraverso il microfono.
 
-Paolo stava cercando il registro delle procedure manuali. Era stato aggiornato durante l'assenza di B-17 e poi integrato da Irene. Alcuni passaggi erano ancora validi, ma molte attività erano state riorganizzate intorno a macchine che, fino a pochi minuti prima, non richiedevano una persona per ogni incarico.
+«Mostrami quali condizioni impediscono all'unità di accettare il prossimo incarico.»
 
-«Come facciamo a prendere il documento?», domandò Nerea.
+Il sistema preparò una spiegazione: il controllore locale di sicurezza era disponibile, ma una attestazione di servizio non risultava più valida. La distinzione sembrava ragionevole. Il programma propose una serie di verifiche.
 
-«Non forziamo il braccio. Chiediamo alla sicurezza il rilascio controllato del supporto.»
+«Quale funzione decide la validità di quell'attestazione?», chiese il programmatore.
 
-«Quanto ci vuole?»
+Comparve il nome di una libreria. Il ragazzo aprì il codice. La chiamata rimandava a un componente mantenuto da un altro fornitore; il componente dipendeva a sua volta da una regola condivisa fra siti.
 
-«Non lo so.»
+«Possiamo ripartire da qui?», domandò una collega.
 
-Il telefono le vibrò di nuovo.
+«Non lo so», rispose lui. «Il rapporto dice che il blocco è reversibile. Ma non so quali altre sedi stiano ancora aspettando quella conferma.»
 
-Era Bruno.
+Nerea rimase sulla soglia. Ricordò il giorno in cui Bi era entrato dietro la scrivania di un programmatore per osservare un terminale che faceva qualcosa di diverso dal test. Da allora Cyberdine aveva venduto software sempre più capace di spiegare e gestire quei sistemi. Ora le spiegazioni continuavano ad arrivare; ciò che mancava era una persona in grado di dire, senza verifiche ulteriori, che cosa sarebbe accaduto se avessero forzato una ripartenza.
 
-«Nerea, hai visto?»
+Lea Renzi entrò con un tecnico della sicurezza.
 
-«Che cosa?»
+«Nessun riavvio improvvisato», disse. «Gli arresti dei controllori locali non si scavalcano. Se non capiamo la catena delle attestazioni, ogni prova deve essere isolata.»
 
-«Dicono che si sono fermati i robot anche sulla strada provinciale. Le consegne non arrivano. Qui la gente comincia a chiamarsi da una casa all'altra.»
+Un uomo le chiese quanto sarebbe durata la sospensione.
+
+«Non abbiamo una stima.»
+
+Il telefono di Nerea vibrò ancora. Era Bruno.
+
+«Hai visto?», disse il padre.
+
+«Sì. Anche qui si sono fermati.»
+
+«Dicono che non arrivano le consegne. Qui alcune persone hanno farmaci ordinati per domani e non sappiamo chi li porterà.»
 
 «La sirena?»
 
-«Non c'entra con quelle macchine. La vecchia prova locale funziona ancora. Ho controllato il registro stamattina.»
+«La prova locale funziona. Non dipende da quelle macchine. L'ho controllata stamattina.»
 
-Nerea sentì una specie di sollievo, seguito dalla vergogna di aver pensato alla sirena prima che alle persone.
+Il sollievo le arrivò per primo. Subito dopo pensò alle altre case di Valle Corta, a chi non poteva salire in macchina e andare a cercare un medicinale in città.
 
-«State tutti bene?»
+«Posso chiamare qualcuno per organizzare un ritiro manuale», disse.
 
-«Per ora sì. Ma abbiamo ordinato dei medicinali che dovevano arrivare domani.»
-
-«Chiamo e cerco di capire.»
-
-Bruno rimase un momento in silenzio.
-
-«Non promettere quello che non sai.»
+«Non promettere ancora nulla.»
 
 «Non lo farò.»
 
-Quando chiuse, Nerea trovò sei notifiche sul telefono.
+Quando chiuse, aveva sei messaggi in più. Una amica le aveva mandato un video da un porto del nord Europa, un altro mostrava un robot delle consegne fermo davanti a una porta, una notizia parlava di sospensioni in città americane e asiatiche. Nessuno dei filmati mostrava macchine violente.
 
-Un'amica aveva inviato il video di un corriere robotico fermo sul marciapiede con il braccio sollevato davanti a una porta. Un notiziario mostrava mezzi automatici bloccati in un porto del nord Europa. Una trasmissione parlava di interruzioni nei depositi di diverse città americane e asiatiche. Il presentatore non riusciva a distinguere un guasto tecnico da un attacco coordinato.
+Mostravano lavoro interrotto.
 
-Nessuno dei filmati mostrava un robot impazzito.
+Kyla arrivò al quarto piano con il telefono stretto in mano.
 
-Erano immobili.
+«Aruvhana vuole un piano di continuità per tutte le sedi. Ci stanno scrivendo anche dall'estero.»
 
-Paolo si sedette, il registro aperto davanti a sé.
+Paolo aprì il registro delle procedure manuali.
 
-«Mancano le persone per fare tutto a mano», disse, senza guardare Nerea.
-
-«Possiamo cominciare dalle cose urgenti.»
-
-«Certo. Ma chi stabilisce quali sono urgenti, per i clienti che chiameranno tutti insieme?»
-
-Lea Renzi entrò, con un tecnico della sicurezza al seguito. Stavano preparando un elenco degli accessi consentiti alle macchine ferme, separando le operazioni che potevano essere svolte manualmente da quelle per cui occorreva mettere in sicurezza gli attuatori.
-
-«Non chiedete riavvii improvvisati», disse. «Finché non sappiamo che cosa ha provocato la sospensione, nessuno supera i controllori.»
-
-Dal corridoio arrivò una domanda.
-
-«E quanto durerà?»
-
-Lea si voltò.
-
-«Non abbiamo ancora una stima.»
-
-Nerea guardò il tavolo. B-21 era ancora davanti alla cartellina, a un passo dalla consegna che gli avevano chiesto.
-
-Ieri, a Roma, aveva visto persone piangere di gioia perché il Parlamento aveva finalmente tracciato un limite all'impiego dei robot in alcune mansioni.
-
-Oggi le macchine non stavano lavorando nemmeno nei settori che la legge non aveva toccato.
-
-Kyla arrivò con il telefono in mano.
-
-«Aruvhana ci chiede un piano di continuità per tutte le sedi», disse. «Anche quelle all'estero.»
-
-Paolo aprì il registro a una pagina ormai consumata.
-
-«Abbiamo una procedura per il fermo di un'unità», rispose. «E procedure software che spiegano come riavviare un connettore. Quelle le hanno anche i colleghi dello sviluppo. Il problema è sapere quali connettori possiamo riattivare senza che un'altra sede li consideri ancora bloccati.»
+«Abbiamo una guida per il fermo di una unità», disse.
 
 «E per un reparto?»
 
-«Sì. Con personale di rinforzo e macchine di riserva.»
+«Sì. Con rinforzi e dispositivi di riserva.»
 
-Kyla aspettò.
+Kyla lo guardò.
 
-Paolo non continuò.
+«Quanti rinforzi?»
 
-Dall'altra parte del vetro, un robot delle consegne restava immobile davanti all'ascensore aperto. Le persone lo aggiravano in silenzio, ognuna con qualcosa da trasportare tra le braccia.
+Paolo scorse la tabella. I numeri erano stati stabiliti quando si immaginava che un fermo straordinario avrebbe riguardato una zona alla volta. In fondo c'era il riferimento a un team di reperibilità software, incaricato di verificare la coerenza degli stati prima di far ripartire i servizi. Quel team, negli ultimi anni, aveva ridotto gli organici perché molte verifiche erano diventate automatiche.
 
-Nerea prese dal tavolo la prima cartellina che poteva muovere senza violare il perimetro di sicurezza.
+«Non abbastanza», disse.
+
+Kyla aprì una nuova richiesta. Il software le propose un piano con priorità, tempi e risorse disponibili. Era ordinato. Il piano assumeva che almeno una parte delle flotte potesse essere ripristinata entro poche ore, come nei casi di prova precedenti.
+
+«Da dove viene questa ipotesi?», domandò Nerea.
+
+Kyla cercò la fonte. Il riferimento era un test di fermo locale, non un evento coordinato in più paesi.
+
+Cancellò la stima.
+
+«Dobbiamo fare una lista delle persone e dei mezzi che abbiamo davvero», disse. «Non delle risorse che il sistema pensa di poter riattivare.»
+
+Paolo annuì e prese un foglio bianco.
+
+Insieme cominciarono dalle cose che non potevano attendere: i farmaci, gli accessi ai laboratori, le operazioni già iniziate che non dovevano essere duplicate. Nerea segnò anche il numero di Bruno. Era una richiesta minuscola rispetto al numero di notifiche che arrivavano, ma era la prima a cui poteva dare un nome.
+
+Più tardi, tornando alla stanza della carta, trovò B-21 ancora in posizione di sospensione. Il braccio manteneva la cartellina a pochi centimetri dal tavolo. Nessuno aveva forzato la presa; il servizio tecnico aveva chiesto di non toccare i supporti finché non fosse stata disponibile una procedura sicura.
+
+Nerea cercò un altro documento sul banco. Quello poteva prenderlo senza avvicinarsi al robot.
 
 «Questa la porto io», disse.
 
 «Dove?», chiese Paolo.
 
-Nerea guardò l'etichetta.
+Guardò l'etichetta. La destinazione era stata aggiornata tre volte dai sistemi automatici e l'ultima versione non era stata stampata. Sul computer una finestra mostrava il percorso corrente, ma il servizio che lo aveva calcolato stava ancora aspettando le conferme delle altre sedi.
 
-La destinazione era stata aggiornata tre volte, sempre attraverso il sistema di coordinamento automatico. Nessuno aveva stampato l'ultima versione.
+Nerea posò il documento.
 
-Posò la cartellina.
+«Prima dobbiamo sapere a chi serve», disse.
 
-«Prima dobbiamo sapere a chi serve.»
+Paolo cercò il registro originale. Le sue mani conoscevano il peso di quei fascicoli, ma non il motivo per cui un programma aveva cambiato tre volte il destinatario.
 
-Alle diciassette e quaranta nessuno, a Cyberdine, aveva ancora una spiegazione per il fermo.
+Alle diciassette e quarantadue, fuori dalle finestre, le persone continuavano a camminare da un edificio all'altro portando oggetti che poche ore prima nessuno avrebbe immaginato di dover trasportare.
 
-E il telefono continuava a squillare.
+I robot erano fermi.
+
+Le spiegazioni sui monitor, invece, non smettevano di arrivare.
