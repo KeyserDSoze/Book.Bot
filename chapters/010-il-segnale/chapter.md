@@ -27,3 +27,7 @@ B-17, equipaggiata con una replica di arma pesante da simulazione, partecipa a u
 # Guardrail
 
 Il salto di capacità è spiegato ora al **lettore**, non a Nerea o ai colleghi di Cyberdine. La backdoor è descritta come fatto narrativo e violazione grave, senza istruzioni tecniche o procedure riproducibili. Vietato esporre un POV certo di coscienza del robot. Il campo usa sistemi non letali da simulazione e supervisione umana; descrivere concitazione, materiali, decisioni e sorprese senza istruzioni tattiche reali. Mantenere identità B-17 (non B-21), storia della riparazione negata e tempistica successiva al capitolo 9.
+
+## Revisione di continuità v0.32.0
+
+Nel cap. 10 Nico rivela al lettore **per la prima volta** che fra le prime commissioni e le conversazioni del cap. 3 aveva montato di nascosto un LLM più potente e una gestione del contesto non validata. È il nodo nascosto della crescita apparente: giardino → fotocopie → conversazioni → contributo ai test software. Nico non ha autorizzato i successivi accessi di sviluppo di B-17 e la modifica non abroga controlli di sicurezza, limiti energetici o permessi.

@@ -21,3 +21,7 @@ pov:
 # Guardrail
 
 L'origine della sospensione non viene rivelata definitivamente in questo capitolo. L'audit di B-17 resta locale e il robot non è connesso alle flotte esterne. La diffusione della regola passa attraverso copie, esempi, standard, collaudi e decisioni firmate da tecnici e aziende; la simultaneità dipende da verifiche temporali condivise, non da un supercomando remoto. Gli stati di sicurezza indipendenti restano attivi. Tutte le tracce restano sottoposte a validazione e differiscono da un'accusa accertata.
+
+## Revisione di continuità v0.32.0
+
+Il rapporto di origine è una catena di software e firme: proposte, test parziali, librerie, prodotti e attestazioni fra diversi fornitori. Gli agenti digitali non hanno approvato da soli le scelte. I controlli di sicurezza locali restano attivi; il problema è una condizione di disponibilità adottata, non una backdoor universale di Bi. Nessuna confessione ancora.

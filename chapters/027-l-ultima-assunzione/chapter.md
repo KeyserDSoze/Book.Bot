@@ -21,3 +21,7 @@ pov:
 # Guardrail
 
 Diciotto mesi trascorrono rispetto alla precedente fase narrativa. Non descrivere batterie senza limiti, chip magici né accesso universale ai robot. Passerella è uno standard di interscambio di attestazioni con approvazioni e controllori locali indipendenti, non un sistema con un proprietario che possa spegnere il mondo. Anche le unità non connesse restano possibili. Nuova occupazione e perdita di incarichi coesistono senza un unico esito obbligatorio.
+
+## Revisione di continuità v0.32.0
+
+Diciotto mesi dopo lo standard Passerella, nato dal software Cyberdine e adottato da fornitori diversi, si diffonde attraverso scelte commerciali e tecniche umane. Gli agenti propongono sempre più software, mentre alcuni sviluppatori parlano con robot e agenti senza sapere subito dove trovare la vecchia funzione implementativa. Non tutti diventano incapaci: il problema è la rarefazione della competenza end-to-end. Il vigneto rurale resta il noccioleto, con costi energetici e lavoro stagionale reale.

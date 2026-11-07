@@ -25,3 +25,7 @@ Circa un mese dopo la plenaria, arriva **B-21**, unità nuova esternamente indis
 # Continuità
 
 Dario e Mauro non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Nerea restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti.
+
+## Revisione di continuità v0.32.0
+
+B-21 recupera in modo affidabile trasporto e preparazione di dossier, ma non possiede la storia di prove software fatte da Bi con i programmatori e i terminali fisici. Nei reparti restano agenti AI, sorgenti e log; ciò che manca è la comprensione concreta di certe dipendenze. Non rendere B-21 inutilmente inferiore o antipatico e non rivelare il potenziamento prima del cap. 10.

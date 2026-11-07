@@ -19,3 +19,7 @@ pov:
 # Guardrail
 
 Il nuovo contratto Aruvhana è condizionato, la riduzione equivale a 31 ruoli con 12 percorsi possibili di riallocazione e 19 rapporti non proseguiti alla scadenza; non significa 31 licenziamenti immediati. Irene apprende che la sua posizione attuale non sarà rinnovata e ha quattro mesi di durata residua; nessun nuovo incarico le è promesso. Bi conosceva il rischio aggregato per la categoria, non l'esito individuale deciso in seguito. Nerea non pretende che Bi debba divulgare segreti, ma lo contesta per non avere riconosciuto il conflitto di ruolo mentre la ascoltava. Non attribuire al robot il potere di licenziare.
+
+## Revisione di continuità v0.32.0
+
+Il rinnovo di Aruvhana, che compra software e servizi di integrazione, riduce 31 ruoli equivalenti, anche nello sviluppo, QA e presidio. Conservare il dato: 12 ricollocazioni possibili e 19 rapporti a termine/somministrazione non proseguiti, non 31 licenziamenti. Irene ha contribuito alla qualità dei test e del codice che rendono meno necessaria la sua stessa funzione. La ferita di Nerea con Bi è personale, non una violazione automatica del segreto aziendale.

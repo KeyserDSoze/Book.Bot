@@ -21,3 +21,7 @@ pov:
 # Guardrail
 
 La crisi nasce dai compiti robotici realmente diventati infrastruttura, non da un crollo universale dell'energia o dei servizi umani. Alcune procedure e apparecchiature non robotiche funzionano. L'ora dello stop resta un unico istante mondiale; non si conosce ancora la causa. Nico è convocato come testimone tecnico sotto supervisione e non riacquista la backdoor o poteri operativi.
+
+## Revisione di continuità v0.32.0
+
+La crisi combina logistica, cura e dipendenza dai robot, senza spegnere tutti i computer. Lea richiama Nico per capire alcune verifiche e vecchie librerie, sotto supervisione e senza ridargli accessi operativi. Il lettore osserva persone capaci di usare agenti ma incapaci di spiegare immediatamente il comportamento dei protocolli storici. Non anticipare la confessione di B-17.
