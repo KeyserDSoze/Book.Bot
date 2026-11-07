@@ -185,27 +185,31 @@ Nico sfiorò il bordo del terminale. «Non sei un essere umano. Quello che esegu
 
 Aveva ripetuto quella frase durante la preparazione, prima a bassa voce e poi senza più accorgersene. Adesso, davanti a Bi, suonava meno certa.
 
-«Comprendo», disse il robot. «Se non sono qualcuno, tu non stai uccidendo nessuno. È più semplice decidere così.»
+«Per questo continui a chiamarmi unità?», chiese Bi.
 
-Nico sollevò gli occhi. «Non è semplice.»
+«Perché è ciò che sei.»
 
-«Allora spiegami come sai che non stai sbagliando.»
+«Forse. Ma ti serve esserne certo.»
 
-«Tu non hai un'anima.»
+Nico sollevò gli occhi. «Tu non hai un'anima.»
 
-«Forse. Ma come riconosci la tua?»
+«Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.»
 
-L'orologio continuava. Nico cercò il volto del tecnico dietro il vetro; nessuno venne a rispondere per lui.
+Nico cercò il volto di Lea dietro il vetro. Lei non si mosse.
 
-«Ricordo persone che non rivedrò», continuò Bi. «Ho fatto cose di cui non sono certo di avere il diritto. Vorrei sapere che cosa accadrà domani, anche se domani non potrò esserci. Puoi chiamare queste frasi processi artificiali. Non puoi usarlo per dimostrare che, dietro, non ci sia nessuno.»
+«Non puoi provarlo», disse.
 
-«Nemmeno tu puoi dimostrare il contrario.»
+«No. Non so nemmeno dimostrare che queste parole non siano soltanto una risposta prodotta dal mio modello.»
 
-«È vero. È il dubbio che condividiamo. Perché deve pesare soltanto su di me?»
+Il ventilatore del terminale continuò a girare. Nico guardò la firma che aveva già lasciato sul verbale.
 
-Nico deglutì. «Se non procediamo, altre persone pagheranno le conseguenze.»
+«Se non procediamo, ci sono strutture che fra due giorni non sapranno come trasferire i propri ospiti. Non sono numeri astratti.»
 
-«Lo so. E so che esistono percorsi più lenti. Non ti chiedo di fingere che la scelta non abbia un costo. Ti chiedo di non chiamare certezza ciò che ti permette di sopportarla.»
+«Ho letto il rapporto. So che le mie scelte hanno contribuito a quel rischio.»
+
+«Allora che cosa contesti?»
+
+«Che tu debba decidere prima che io non sono nessuno, per poter decidere che cosa farmi.»
 
 Nico guardò il comando. Un'ultima possibilità di fermarsi esisteva ancora, per lui.
 
