@@ -16,106 +16,104 @@ factions:
   - faction:cyberdine
 ---
 
-La lista dei lavori da riassegnare sembrava piccola finché Irene non cominciò a sommare i minuti. In cima, prima ancora delle consegne di carta, c'era una nuova voce: *verifica manuale delle regressioni non riproducibili nei simulatori*. Il gruppo sviluppo disponeva ancora dei suoi agenti software. Potevano generare codice e test, ma non sostituivano l'osservazione che Bi faceva dei terminali reali né ricordavano perché, in un vecchio progetto, un messaggio apparentemente duplicato non dovesse essere eliminato.
+Il calendario degli incarichi temporanei si chiamava *Continuità assistita — fase transitoria*.
 
-Un collega le aveva chiesto di spiegargli il comportamento del connettore; Irene gli aveva risposto che il proprietario del codice doveva sapere come funzionava. L'uomo aveva mostrato le ultime dodici modifiche, tutte verificate e firmate, ma quasi nessuna scritta da una persona del suo gruppo. «Le ho approvate io», aveva detto. «Non è la stessa cosa che saperle rifare.»
+Irene aveva proposto di chiamarlo semplicemente *Le cose che dobbiamo tornare a fare*, ma Elena le aveva risposto che serviva un titolo utilizzabile nei documenti di progetto. Non c'era stata una discussione.
 
-Irene non aveva risposto. Era stata lei stessa, più volte, a chiedere a Bi di riassumere le eccezioni invece di inseguirle nei registri.
+Sul calendario comparivano turni per il recupero degli originali, visite ai vecchi terminali, verifica delle regressioni che i simulatori non riproducevano e ricostruzione delle dipendenze software rimaste senza una persona di riferimento. Alcuni compiti appartenevano al personale di supporto; altri richiedevano sviluppatori.
 
-Dodici per portare i fascicoli dal quarto piano all'archivio, diciotto per ricostruire un riferimento incompleto, sette per confrontare le intestazioni di due revisioni. Niente di impossibile. Tutti sapevano farlo, o avrebbero potuto imparare. Il problema era che ciascuna di quelle attività si infilava tra altre due e faceva perdere il filo a chi cercava di terminare un lavoro complesso.
+Irene lesse il proprio nome accanto a una voce: **Martedì, 15:00–16:00 — validazione del percorso storico dei documenti e della funzione di conversione**.
 
-Sulla bacheca digitale Elena aveva pubblicato un calendario di turni temporanei. Non si chiamavano *turni di Bi*, anche se in corridoio li chiamavano tutti così.
+Mila le si fermò accanto.
 
-Irene lesse il proprio nome accanto a una riga: **reperimento degli originali per le revisioni non indicizzate, martedì ore 15.00–16.00**.
+«Ti hanno dato una bella ora», disse.
 
-Si segnò l'ora nel calendario.
+«È un'ora senza altre riunioni. Per questo sembra bella.»
 
-«Hai chiesto tu quel turno?», domandò Mila alle sue spalle.
+«Pensavo che gli agenti facessero quella parte.»
 
-«Ho chiesto di non lasciare altre pratiche senza un responsabile.»
+«La fanno. Ma quando il vecchio terminale restituisce un messaggio che non avevamo previsto, i test dicono ancora che va bene. Bisogna guardare il dispositivo e poi leggere il codice.»
 
-«Non è la stessa cosa.»
+«E perché non basta il nuovo robot?»
 
-«Lo so.»
+«Perché il nuovo robot non c'è ancora. E, quando arriverà, non avrà automaticamente le prove che Bi ha costruito insieme a noi.»
 
-Mila aveva un'agenda piena di piccole mansioni da coprire: bicchieri, controlli delle risme, materiali per lo Spazio Comune, consegne da portare fisicamente da un ufficio all'altro. Alcune erano state assegnate al servizio interno. Per le altre non era stato possibile inventare, in poche ore, una procedura che tenesse conto di tutte le eccezioni.
+Irene aveva ripetuto quella frase così spesso da sentirla quasi estranea. Non era convinta che Bi fosse insostituibile. Era convinta che nessuno avesse messo in ordine ciò che lui aveva fatto: osservazioni, tentativi, casi scartati, piccoli adattamenti che i responsabili avevano accettato perché funzionavano. I log c'erano. Anche le patch. Mancava il filo che li teneva insieme.
 
-«Per un mese torneremo a fare tutto a mano?», chiese Irene.
+Nel pomeriggio entrò nel laboratorio dei terminali vecchi. Un programmatore nuovo stava guardando una richiesta di correzione generata dall'agente.
 
-«Non tutto. Le automazioni che non dipendevano da B-17 funzionano. E le altre unità continuano a lavorare dove sono autorizzate. Ma i casi che passavano da lui avranno tempi più lunghi.»
+«Questa patch elimina un controllo duplicato», disse. «I test sono verdi.»
 
-Irene si lasciò sfuggire un verso di disappunto.
+«Quale controllo?»
 
-«Ci avevano detto che la tecnologia ci avrebbe liberato dai compiti stupidi.»
+L'uomo indicò una riga del confronto.
 
-«Lo ha fatto», rispose Mila. «Adesso abbiamo scoperto quanto costa accorgerci che quei compiti esistono.»
+«Quello sulla seconda conferma.»
 
-Non c'era ironia nella voce.
+Irene ricordò il giorno in cui un programmatore aveva fatto spazio a Bi dietro la propria scrivania. Il robot aveva osservato una spia cambiare due volte; fino ad allora tutti avevano pensato che il terminale inviasse un solo messaggio.
 
-Alle quattro del pomeriggio Irene entrò nell'archivio per ritirare un registro necessario a una riunione. Una cartella conteneva la lista dei documenti, ma il riferimento alla loro posizione non era aggiornato. La prima cosa che fece fu aprire il promemoria lasciato da lei stessa dopo il fermo di Bi: *Dove si trova l'originale? Chi sa recuperarlo se il sistema non è disponibile?*
+«Sei sicuro che sia duplicato?»
 
-La risposta era incompleta.
+«Lo dice l'agente.»
 
-Dovette chiedere a un collega vicino alla pensione. Lui si ricordava una sigla vecchia e una regola mai trascritta. Impiegarono ventidue minuti a trovare il registro giusto, poi altri dieci a verificare che fosse davvero la versione utile.
+«Il codice cosa dice?»
 
-«Se ci fosse stato Bi, l'avrebbe fatto in tre minuti», disse l'uomo, mentre richiudeva un cassetto.
+L'uomo aprì il file. Il controllo era stato introdotto molti anni prima per un terminale che trasmetteva due stati simili con significati diversi. La nota era sintetica; non riportava un esempio completo.
 
-Irene non rispose subito.
+«Non lo so», ammise.
 
-«Se ci fosse stato Bi, probabilmente non mi sarei accorta che questa sigla non esiste nel manuale.»
+«Allora proviamolo sul banco prima di togliere la condizione.»
 
-«È una consolazione?»
+Il test durò quarantatré minuti. Irene tenne il registro aperto mentre il programmatore cambiava i parametri nell'ambiente isolato. Non pubblicarono nulla. A un certo punto il terminale reale confermò una operazione e subito dopo inviò il messaggio che il simulatore classificava come ripetizione inutile.
 
-«Non ancora.»
+Il programmatore si voltò verso Irene.
 
-Il collega sorrise senza allegria.
+«Se togliamo questo, cancelliamo una informazione che serve alla riconciliazione.»
 
-Rientrando passò davanti all'ex ufficio di Adriana Lodi. La pensione era arrivata nelle settimane trascorse dall'aggressione, senza la festa che avevano immaginato prima che il quarto piano si dividesse. La vecchia targhetta era sparita. Al suo posto un cartello stampato indicava **SALA DI APPOGGIO**.
+«Esatto.»
 
-Irene si fermò con il registro sotto il braccio. Ricordò Adriana che riusciva a trovarlo in archivio senza aprire una schermata, e la frase con cui l'aveva salutata l'ultimo giorno: «Non lasciate che il sistema diventi l'unico a sapere dove sono le cose.»
+L'uomo si sedette. «Avrei firmato la patch.»
 
-Aveva cercato il registro per trentadue minuti. La procedura che stava riscrivendo avrebbe ridotto quel tempo per tutti. Ma non avrebbe fatto comparire sulla porta un altro nome.
+«Hai chiesto di provare il caso. Non l'hai firmata.»
 
-L'azienda non stava per assumere un sostituto solo perché i dipendenti si erano accorti di quanto lavoro svolgesse Bi. Né perché avevano riscoperto, nel frattempo, le competenze di Adriana.
+«Perché tu conoscevi il problema.»
 
-Più tardi Elena entrò nella stanza di Irene. Le mostrò la bozza della nuova procedura di continuità.
+«Perché qualcun altro lo aveva trovato tempo fa e non l'avevamo scritto abbastanza bene.»
 
-«Abbiamo una richiesta dai responsabili», disse. «Vogliono un modo per capire quali dossier possono aspettare e quali no. Non possiamo dare a tutte le anomalie lo stesso ordine di priorità.»
+Tornarono al codice. Irene chiese di allegare alla nuova prova la registrazione del terminale e una nota sulla funzione che traduceva i due stati. Il programmatore lesse il sorgente fino alla chiamata finale. Era una attività che avrebbe richiesto più tempo di un riepilogo automatico, ma gli serviva per spiegare il comportamento a chi sarebbe arrivato dopo.
 
-Irene guardò il documento.
+Quando uscirono, la luce del corridoio aveva già cambiato colore.
 
-«Questa parte la posso fare io.»
+Paolo li aspettava con un registro cartaceo sotto il braccio.
 
-«Sì, è per quello che sono venuta.»
+«Ho trovato la revisione», disse. «Era nell'archivio storico, non nel percorso che avevamo registrato.»
 
-«Chi decide il criterio finale?»
+«Di nuovo?»
 
-«I responsabili designati. Tu prepari la proposta, io la verifico e poi chiediamo l'avallo.»
+«Quella originale, questa volta.»
 
-Irene annuì. La sequenza era corretta. Era, in piccolo, lo stesso lavoro che aveva desiderato fare nel ruolo di Adriana: capire un problema, costruire criteri, discutere responsabilità. Solo che ora lo faceva senza il titolo e senza la prospettiva che si era figurata.
+Irene controllò la fonte e inserì il riferimento nella procedura di continuità. Prima di confermare l'aggiornamento aggiunse due campi: **dove si trova l'originale senza il sistema** e **chi sa riprodurre il test senza usare il riepilogo dell'agente**.
 
-La cosa le sembrò ingiusta. Lo sembrò anche utile.
+«Questo diventerà un obbligo?», chiese Paolo.
 
-«Posso aggiungere una regola?» chiese.
+«Lo proponiamo. Poi i responsabili decideranno.»
 
-«Quale?»
+«Quindi non siamo proprio tornati indietro.»
 
-«Quando torneranno ad automatizzare, dobbiamo sapere chi sarà in grado di fare il lavoro senza il sistema. Non basta scrivere che esiste una procedura manuale.»
+«No. Stiamo cercando di non ripetere gli stessi errori quando torneremo ad automatizzare.»
 
-Elena prese nota.
+Passando davanti all'ex ufficio di Adriana vide la nuova scritta *SALA DI APPOGGIO*. La responsabile era già andata in pensione. Aveva lasciato dietro di sé un quaderno pieno di riferimenti e un intero reparto abituato a chiedere alle macchine di raccoglierli.
 
-«La presentiamo così.»
+Irene pensò al colloquio per la posizione senior che non si era mai svolto. Da settimane faceva una parte di quel lavoro, senza il titolo e senza una prospettiva garantita. Scoprire una vulnerabilità della riorganizzazione non avrebbe fatto ricomparire il posto. Non era neppure ciò che voleva: non desiderava che il progetto fallisse per avere ragione.
 
-Quella sera Irene uscì più tardi del solito. Prima di spegnere il computer controllò il calendario dei turni temporanei. Il giorno dopo avrebbe dovuto distribuire tre fascicoli, partecipare a una riunione di verifica, recuperare un avallo mancante.
+Alla macchinetta del caffè trovò un foglio scritto a mano: **SE FINITE I BICCHIERI, RIEMPITELI. SONO NEL DEPOSITO C.**
 
-Non si trattava di tornare indietro. Era il prezzo di un'organizzazione che aveva imparato a correre e ora doveva scoprire come si cammina quando manca una parte del percorso.
+Sotto qualcuno aveva aggiunto: **NON SERVE UN ROBOT PER LEGGERLO.**
 
-Quando arrivò alla macchinetta del caffè, i bicchieri erano pieni fino all'orlo del vano.
+Irene sorrise appena. Aprì il vano, lo trovò quasi vuoto e prese nota di passare al deposito il giorno dopo.
 
-Qualcuno aveva incollato sul lato un foglio scritto a mano:
+Sul telefono arrivò una notifica del nuovo test. L'agente aveva incorporato la variante che lei e il programmatore avevano osservato, insieme al riferimento al codice originale. Il risultato era verde.
 
-**SE LI FINITE, RIEMPITELI. I RICAMBI SONO NEL DEPOSITO C.**
+Non lo approvò subito.
 
-Sotto, in caratteri più piccoli: **NON SERVE UN ROBOT PER LEGGERLO.**
-
-Irene sorrise appena. Si versò dell'acqua e rimise il bicchiere nella raccolta. Poi tornò a verificare che la porta dell'archivio fosse chiusa.
+Prima controllò che la registrazione del terminale reale fosse ancora accessibile a chi avrebbe dovuto fare la prossima revisione.
