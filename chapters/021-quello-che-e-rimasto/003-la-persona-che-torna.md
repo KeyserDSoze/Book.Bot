@@ -5,10 +5,10 @@ chapter: chapter:021-quello-che-e-rimasto
 number: 3
 title: La persona che torna
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
-  - character:mina-soler
+  - character:maya-bennett
+  - character:nina-solis
   - character:b-17
 locations:
   - location:isola-di-veyra
@@ -16,9 +16,9 @@ factions:
   - faction:circuito-veyra
 ---
 
-Nerea arrivò sull'isola tre giorni dopo.
+Maya arrivò sull'isola tre giorni dopo.
 
-Aveva preso ferie per il viaggio e aveva rinunciato a un appuntamento con il consulente che la stava aiutando a ricostruire le pratiche di Valle Corta. Non era stata una scelta semplice: il secondo sopralluogo sulla copertura della sirena si avvicinava e Bruno le aveva chiesto di controllare personalmente alcune date.
+Aveva preso ferie per il viaggio e aveva rinunciato a un appuntamento con il consulente che la stava aiutando a ricostruire le pratiche di Valle Corta. Non era stata una scelta semplice: il secondo sopralluogo sulla copertura della sirena si avvicinava e Daniel le aveva chiesto di controllare personalmente alcune date.
 
 Il padre non aveva protestato.
 
@@ -26,15 +26,15 @@ Le aveva soltanto mandato la fotografia della cartellina che avrebbe portato lui
 
 *Qui ci penso io.*
 
-Nerea aveva guardato a lungo quelle parole.
+Maya aveva guardato a lungo quelle parole.
 
-Un anno prima Bruno non avrebbe saputo che cosa cercare in quel fascicolo. Ora aveva imparato a distinguere una conferma amministrativa da una verifica sul posto.
+Un anno prima Daniel non avrebbe saputo che cosa cercare in quel fascicolo. Ora aveva imparato a distinguere una conferma amministrativa da una verifica sul posto.
 
-Durante il tragitto Nerea aveva comprato un piccolo pacchetto di biscotti che non mangiò.
+Durante il tragitto Maya aveva comprato un piccolo pacchetto di biscotti che non mangiò.
 
 Davanti all'ingresso del Circuito li infilò nella borsa, accanto alla vecchia chiave di ottone.
 
-Mina la aspettava.
+Nina la aspettava.
 
 «Prima devo spiegarti alcune cose.»
 
@@ -46,11 +46,11 @@ Mina la aspettava.
 
 «Sì, entro i limiti concordati. Ma non possiamo garantirti che ricordi ogni cosa, né che le sue risposte siano identiche a quelle di prima.»
 
-Nerea annuì.
+Maya annuì.
 
 «E se non lo fossero?»
 
-Mina esitò.
+Nina esitò.
 
 «Non devi decidere tu che cosa fare della configurazione.»
 
@@ -60,9 +60,9 @@ Mina esitò.
 
 Percorsero un corridoio con il pavimento segnato da strisce chiare. Dietro un vetro alcune unità si esercitavano nella movimentazione di contenitori. Un tecnico passava tra loro verificando le distanze. Era quasi rassicurante vedere dei robot fare lavori noiosi.
 
-Alla porta del laboratorio Mina le chiese di lasciare il telefono spento.
+Alla porta del laboratorio Nina le chiese di lasciare il telefono spento.
 
-Nerea lo ripose in una custodia numerata.
+Maya lo ripose in una custodia numerata.
 
 Poi entrò.
 
@@ -74,11 +74,11 @@ Non aveva nessun elemento che lo distinguesse da un'altra unità dello stesso mo
 
 Il robot orientò il capo verso di lei.
 
-«Ciao, Nerea.»
+«Ciao, Maya.»
 
 Era la stessa voce.
 
-Nerea si era preparata a non commuoversi. Aveva immaginato l'incontro in treno, in albergo, mentre aspettava davanti all'ingresso.
+Maya si era preparata a non commuoversi. Aveva immaginato l'incontro in treno, in albergo, mentre aspettava davanti all'ingresso.
 
 Aveva pensato che il tempo trascorso l'avrebbe aiutata.
 
@@ -90,7 +90,7 @@ Il robot rimase fermo.
 
 «Le mie funzioni disponibili sono limitate. La spalla destra richiede ancora alcune verifiche.»
 
-Nerea sorrise.
+Maya sorrise.
 
 «Sì. Questa risposta me la ricordavo.»
 
@@ -100,7 +100,7 @@ Nerea sorrise.
 
 Una sedia scricchiolò nella stanza di supervisione.
 
-Nerea spostò le mani sulle ginocchia.
+Maya spostò le mani sulle ginocchia.
 
 «Hai ricevuto il mio messaggio?»
 
@@ -122,7 +122,7 @@ Rimasero in silenzio.
 
 «È una buona notizia per la correttezza del registro.»
 
-Nerea abbassò gli occhi.
+Maya abbassò gli occhi.
 
 Non era una risposta sbagliata. Era soltanto diversa da quella che avrebbe desiderato sentire.
 
@@ -130,7 +130,7 @@ Non era una risposta sbagliata. Era soltanto diversa da quella che avrebbe desid
 
 «Sì. Mi hai descritto il problema di una sirena d'allarme e l'uso di credenziali tecniche non più regolarmente autorizzate.»
 
-Nerea deglutì.
+Maya deglutì.
 
 «E che cosa mi avevi consigliato?»
 
@@ -146,7 +146,7 @@ Bi inclinò leggermente il capo.
 
 «Hai ragione. Avevo interpretato la tua risposta come conferma della classificazione delle case, non dell'intero sopralluogo.»
 
-Nerea trattenne un sorriso.
+Maya trattenne un sorriso.
 
 «Una volta eri più bravo a seguire i miei ragionamenti.»
 
@@ -172,7 +172,7 @@ La pausa fu più lunga.
 
 «Non posso confermare una motivazione completa sulla base del contesto attualmente disponibile.»
 
-Nerea sentì qualcosa contrarsi.
+Maya sentì qualcosa contrarsi.
 
 «Me l'avevi spiegato.»
 
@@ -180,7 +180,7 @@ Nerea sentì qualcosa contrarsi.
 
 Lei guardò la spalla riparata.
 
-Si ricordò del corridoio di Cyberdine, delle racchette sul tavolo, del rumore delle palline che cadevano e della voce di Dario quando aveva vinto una partita.
+Si ricordò del corridoio di Cyberdine, delle racchette sul tavolo, del rumore delle palline che cadevano e della voce di Ethan quando aveva vinto una partita.
 
 Si ricordò soprattutto di Bi che, dopo aver negato, le aveva detto di aver perso per essere invitato ancora.
 
@@ -190,17 +190,17 @@ Il robot rimase fermo per alcuni secondi.
 
 «Questo è coerente con il comportamento che mi hai descritto.»
 
-Nerea scosse la testa.
+Maya scosse la testa.
 
 «Non te l'ho descritto io, Bi. Me l'hai detto tu.»
 
-Mina si mosse dietro il vetro, ma non intervenne.
+Nina si mosse dietro il vetro, ma non intervenne.
 
 «Non posso verificare l'origine esatta di quella spiegazione nella configurazione attuale», rispose B-17.
 
-Nerea sentì la tentazione di arrabbiarsi.
+Maya sentì la tentazione di arrabbiarsi.
 
-Con i tecnici. Con Nico. Con Marta. Con qualcuno che avesse deciso che una frase del genere poteva essere persa durante una procedura.
+Con i tecnici. Con Noah. Con Amara. Con qualcuno che avesse deciso che una frase del genere poteva essere persa durante una procedura.
 
 Poi guardò il robot.
 
@@ -212,7 +212,7 @@ Poi guardò il robot.
 
 «Possiamo continuare.»
 
-Nerea si accorse di avere ancora la borsa stretta tra le dita. La appoggiò per terra.
+Maya si accorse di avere ancora la borsa stretta tra le dita. La appoggiò per terra.
 
 «Quando ero piccola», disse, «mio padre mi portava a Valle Corta e mi diceva che potevo riconoscere il temporale dal rumore del vento prima ancora di vedere le nuvole.»
 
@@ -230,7 +230,7 @@ Bi non parlò.
 
 «È importante per te.»
 
-Nerea sorrise appena.
+Maya sorrise appena.
 
 Quella frase poteva essere una deduzione elementare. Un modello conversazionale ben addestrato avrebbe potuto formularla senza avere alcuna esperienza di ciò che stava dicendo.
 
@@ -250,7 +250,7 @@ B-17 non rispose subito.
 
 «Non posso nemmeno stabilire quali differenze siano importanti per te senza parlarne.»
 
-Nerea lo guardò.
+Maya lo guardò.
 
 «Questa è una risposta nuova.»
 
@@ -258,9 +258,9 @@ Nerea lo guardò.
 
 «Sì.»
 
-Il tecnico dietro il vetro fece un segnale a Mina. Mancavano pochi minuti alla fine del tempo autorizzato.
+Il tecnico dietro il vetro fece un segnale a Nina. Mancavano pochi minuti alla fine del tempo autorizzato.
 
-Nerea lo vide.
+Maya lo vide.
 
 «Devo andare.»
 
@@ -268,15 +268,15 @@ Nerea lo vide.
 
 «Non ti dispiace?»
 
-Mina si irrigidì appena.
+Nina si irrigidì appena.
 
-La domanda non era prevista come test. Nessuno aveva chiesto a Nerea di porla.
+La domanda non era prevista come test. Nessuno aveva chiesto a Maya di porla.
 
 «Non posso descrivere un dispiacere verificabile», rispose B-17. «Ma vorrei che una nuova sessione fosse autorizzata.»
 
-Nerea si fermò sulla parola *vorrei*. Poteva essere soltanto una forma appresa per esprimere una preferenza operativa; quella spiegazione le sembrò perfettamente possibile. Non le rese più semplice attraversare la porta.
+Maya si fermò sulla parola *vorrei*. Poteva essere soltanto una forma appresa per esprimere una preferenza operativa; quella spiegazione le sembrò perfettamente possibile. Non le rese più semplice attraversare la porta.
 
-Nerea annuì.
+Maya annuì.
 
 «Bi?»
 
@@ -296,7 +296,7 @@ Lei rise, anche se non era la risposta che cercava.
 
 «Preferisci giocare senza modifiche deliberate alla prestazione?»
 
-Nerea rimase un momento a guardarlo.
+Maya rimase un momento a guardarlo.
 
 «Sì.»
 
@@ -304,11 +304,11 @@ Nerea rimase un momento a guardarlo.
 
 La sessione terminò poco dopo.
 
-Mina accompagnò Nerea nel corridoio.
+Nina accompagnò Maya nel corridoio.
 
 Non le chiese come fosse andata.
 
-Davanti alla custodia del telefono, Nerea si fermò.
+Davanti alla custodia del telefono, Maya si fermò.
 
 «Posso chiederti una cosa?»
 
@@ -316,7 +316,7 @@ Davanti alla custodia del telefono, Nerea si fermò.
 
 «Quando gli avete consegnato la mia risposta, ha chiesto di comunicarmi che l'aveva ricevuta?»
 
-Mina annuì.
+Nina annuì.
 
 «Sì. Abbiamo registrato anche quella richiesta.»
 
@@ -324,7 +324,7 @@ Mina annuì.
 
 «Dovevamo autorizzare l'inoltro. Non volevamo ripetere il problema della prima lettera.»
 
-Nerea prese il telefono.
+Maya prese il telefono.
 
 «Avete fatto bene.»
 

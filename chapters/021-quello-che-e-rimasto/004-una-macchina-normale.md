@@ -5,10 +5,10 @@ chapter: chapter:021-quello-che-e-rimasto
 number: 4
 title: Una macchina normale
 canon: canon
-pov: character:paolo-ferri
+pov: character:paul-turner
 characters:
-  - character:paolo-ferri
-  - character:irene-valli
+  - character:paul-turner
+  - character:claire-foster
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -16,11 +16,11 @@ factions:
   - faction:cyberdine
 ---
 
-A Cyberdine, quello stesso pomeriggio, Paolo Ferri stava cercando un originale che avrebbe dovuto trovarsi nella terza cartella dell'archivio.
+A Cyberdine, quello stesso pomeriggio, Paul Turner stava cercando un originale che avrebbe dovuto trovarsi nella terza cartella dell'archivio.
 
 B-21 era accanto alla fotocopiatrice.
 
-«Verifica il registro delle consegne», gli disse Paolo.
+«Verifica il registro delle consegne», gli disse Paul.
 
 «Procedo.»
 
@@ -32,17 +32,17 @@ L'unità aprì la consultazione autorizzata, confrontò il numero di pratica e i
 
 «La richiesta iniziale non specificava la revisione.»
 
-Paolo sospirò.
+Paul sospirò.
 
 «Hai ragione.»
 
-Nella finestra a lato era rimasto aperto anche un ticket del reparto software. L'agente di sviluppo aveva proposto una correzione al controllo delle versioni e chiedeva una revisione umana. Paolo conosceva i terminali reali meglio dei programmatori nuovi; nessuno, però, gli aveva assegnato il compito di ricostruire il percorso del codice da cui proveniva l'errore. Da quando Bi non c'era più, alcune richieste restavano a metà fra il tecnico che vedeva il problema e lo sviluppatore che sapeva formulare soltanto l'istruzione per un agente.
+Nella finestra a lato era rimasto aperto anche un ticket del reparto software. L'agente di sviluppo aveva proposto una correzione al controllo delle versioni e chiedeva una revisione umana. Paul conosceva i terminali reali meglio dei programmatori nuovi; nessuno, però, gli aveva assegnato il compito di ricostruire il percorso del codice da cui proveniva l'errore. Da quando Bi non c'era più, alcune richieste restavano a metà fra il tecnico che vedeva il problema e lo sviluppatore che sapeva formulare soltanto l'istruzione per un agente.
 
 B-21 non sorrise, non fece battute e non gli domandò se avesse dormito bene.
 
 Recuperò la scheda corretta.
 
-Irene Valli entrò poco dopo, con una cartellina sotto il braccio.
+Claire Foster entrò poco dopo, con una cartellina sotto il braccio.
 
 «È quella che cercavi?»
 
@@ -50,11 +50,11 @@ Irene Valli entrò poco dopo, con una cartellina sotto il braccio.
 
 «Bene.»
 
-Irene controllò la provenienza prima di firmare.
+Claire controllò la provenienza prima di firmare.
 
-Era stata lei a riscrivere la procedura sugli originali, durante l'assenza della vecchia unità. Da allora Paolo aveva dovuto tornare indietro meno spesso per cercare una firma illeggibile, e perfino B-21 sapeva dove interrompere il lavoro invece di procedere con il documento sbagliato.
+Era stata lei a riscrivere la procedura sugli originali, durante l'assenza della vecchia unità. Da allora Paul aveva dovuto tornare indietro meno spesso per cercare una firma illeggibile, e perfino B-21 sapeva dove interrompere il lavoro invece di procedere con il documento sbagliato.
 
-«Sai che cosa hanno proposto stamattina?», chiese Paolo.
+«Sai che cosa hanno proposto stamattina?», chiese Paul.
 
 «Chi?»
 
@@ -64,7 +64,7 @@ Era stata lei a riscrivere la procedura sugli originali, durante l'assenza della
 
 «Gli stessi di adesso.»
 
-Irene ripose la penna.
+Claire ripose la penna.
 
 «Adesso ci sono io.»
 
@@ -72,13 +72,13 @@ Irene ripose la penna.
 
 «La sera chi firma le eccezioni?»
 
-Paolo non rispose.
+Paul non rispose.
 
 Lei prese il modulo.
 
 «Non è un problema di B-21. È un problema di chi dovrebbe decidere quando lui si ferma.»
 
-Paolo annuì.
+Paul annuì.
 
 Nel corridoio passò una collega che non conosceva la storia di B-17. Era stata assunta da poco e aveva imparato i nomi dei responsabili prima ancora di capire come fosse organizzato il campus.
 
@@ -94,11 +94,11 @@ B-21 si voltò.
 
 La collega prese i fascicoli e uscì.
 
-Paolo seguì con lo sguardo la porta che si richiudeva.
+Paul seguì con lo sguardo la porta che si richiudeva.
 
 «Una volta succedeva il contrario», disse.
 
-Irene stava già controllando il nuovo registro.
+Claire stava già controllando il nuovo registro.
 
 «Cosa?»
 
@@ -106,7 +106,7 @@ Irene stava già controllando il nuovo registro.
 
 «Adesso dobbiamo ricordarci che questo è un altro.»
 
-Paolo tornò alla fotocopiatrice.
+Paul tornò alla fotocopiatrice.
 
 B-21 riprese il lavoro.
 

@@ -5,10 +5,10 @@ chapter: chapter:022-la-persona-migliore-della-stanza
 number: 4
 title: Nessuno è stato sostituito
 canon: canon
-pov: character:irene-valli
+pov: character:claire-foster
 characters:
-  - character:irene-valli
-  - character:nerea-dalmasso
+  - character:claire-foster
+  - character:maya-bennett
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -16,13 +16,13 @@ factions:
   - faction:cyberdine
 ---
 
-La comunicazione arrivò a Irene alle diciotto e nove.
+La comunicazione arrivò a Claire alle diciotto e nove.
 
 *La selezione per il ruolo di coordinamento non proseguirà. Ringraziamo per l'interesse.*
 
 Era la terza candidatura per cui non aveva ricevuto nemmeno un colloquio. Quella volta aveva aspettato un mese; aveva anche sistemato la cartella con i trentaquattro esempi, togliendo le immagini che contenevano dati di Cyberdine e sostituendole con descrizioni anonime.
 
-Chiuse la posta e tornò alle pratiche. B-21 stava completando il riordino dei documenti richiesti per il turno successivo. Non serviva controllare ogni foglio: la procedura che Irene aveva contribuito a definire segnalava soltanto le incongruenze.
+Chiuse la posta e tornò alle pratiche. B-21 stava completando il riordino dei documenti richiesti per il turno successivo. Non serviva controllare ogni foglio: la procedura che Claire aveva contribuito a definire segnalava soltanto le incongruenze.
 
 «Posso preparare la scheda delle eccezioni per domani?», domandò la macchina.
 
@@ -30,23 +30,23 @@ Chiuse la posta e tornò alle pratiche. B-21 stava completando il riordino dei d
 
 «Ricevuto.»
 
-Nerea comparve sulla porta.
+Maya comparve sulla porta.
 
-Era rientrata da Veyra da due giorni. Irene le aveva scritto per sapere com'era andata, ma aveva ricevuto soltanto un messaggio breve: *Non saprei raccontartelo bene.*
+Era rientrata da Veyra da due giorni. Claire le aveva scritto per sapere com'era andata, ma aveva ricevuto soltanto un messaggio breve: *Non saprei raccontartelo bene.*
 
-«Vieni a mangiare qualcosa?», chiese Nerea.
+«Vieni a mangiare qualcosa?», chiese Maya.
 
 «Ho finito quasi tutto.»
 
 «Non ti ho chiesto quanto ti manca.»
 
-Irene chiuse il fascicolo.
+Claire chiuse il fascicolo.
 
-Nel piccolo bar vicino all'ingresso trovavano ancora un tavolino libero. Nerea ordinò due panini, uno dei quali Irene non avrebbe scelto, ma lo mangiò senza protestare.
+Nel piccolo bar vicino all'ingresso trovavano ancora un tavolino libero. Maya ordinò due panini, uno dei quali Claire non avrebbe scelto, ma lo mangiò senza protestare.
 
-«L'hai visto», disse Irene.
+«L'hai visto», disse Claire.
 
-Nerea annuì.
+Maya annuì.
 
 «È cambiato?»
 
@@ -60,17 +60,17 @@ Nerea annuì.
 
 «Ricordava il fatto. Non quello che mi aveva detto sul perché.»
 
-Irene ascoltò senza interrompere.
+Claire ascoltò senza interrompere.
 
-«Non so se sia giusto pretendere che una macchina si ricordi il significato che io ho dato a una conversazione», aggiunse Nerea.
+«Non so se sia giusto pretendere che una macchina si ricordi il significato che io ho dato a una conversazione», aggiunse Maya.
 
 «Non è l'unica domanda.»
 
 «Qual è l'altra?»
 
-Irene le mostrò la mail ricevuta, senza commenti.
+Claire le mostrò la mail ricevuta, senza commenti.
 
-Nerea lesse.
+Maya lesse.
 
 «Mi dispiace.»
 
@@ -80,7 +80,7 @@ Nerea lesse.
 
 «No. È quello che mi hanno detto al telefono.»
 
-Nerea le restituì il dispositivo.
+Maya le restituì il dispositivo.
 
 «E qui? Il turno serale?»
 
@@ -90,9 +90,9 @@ Nerea le restituì il dispositivo.
 
 «Appunto.»
 
-Irene masticò lentamente. Una parte di lei era contenta che i processi funzionassero meglio. Aveva passato anni a chiedere meno passaggi inutili, meno documenti duplicati e più attenzione alle eccezioni vere. Il problema era che, quando quelle richieste venivano accolte, il merito diventava una riduzione di ore anziché una ragione per affidarle un ruolo migliore.
+Claire masticò lentamente. Una parte di lei era contenta che i processi funzionassero meglio. Aveva passato anni a chiedere meno passaggi inutili, meno documenti duplicati e più attenzione alle eccezioni vere. Il problema era che, quando quelle richieste venivano accolte, il merito diventava una riduzione di ore anziché una ragione per affidarle un ruolo migliore.
 
-«Ho letto di una signora che preferisce parlare con un robot», disse Nerea.
+«Ho letto di una signora che preferisce parlare con un robot», disse Maya.
 
 «Non mi sorprende.»
 
@@ -104,18 +104,18 @@ Irene masticò lentamente. Una parte di lei era contenta che i processi funziona
 
 «Nemmeno io.»
 
-Irene guardò attraverso la vetrata. B-21 era passato nel corridoio con una piccola pila di fascicoli.
+Claire guardò attraverso la vetrata. B-21 era passato nel corridoio con una piccola pila di fascicoli.
 
-«La cosa che mi manda in bestia», disse, «è che quando facciamo funzionare bene queste macchine hanno ragione a usarle. Non posso chiedere a Paolo di rifare a mano un controllo che l'unità fa meglio.»
+«La cosa che mi manda in bestia», disse, «è che quando facciamo funzionare bene queste macchine hanno ragione a usarle. Non posso chiedere a Paul di rifare a mano un controllo che l'unità fa meglio.»
 
 «E che cosa puoi chiedere?»
 
 «Che qualcuno si ricordi chi ha reso possibile quel controllo, e che cosa succede quando non serve più.»
 
-Nerea cercò una risposta e non ne trovò una.
+Maya cercò una risposta e non ne trovò una.
 
 Quando tornarono al piano, B-21 aveva lasciato sul tavolo il registro delle eccezioni del giorno dopo. Erano due pagine.
 
 Prima dell'aggiornamento ne sarebbero servite sei.
 
-Irene le mise nella cartellina con la mail del rifiuto ancora aperta sul telefono.
+Claire le mise nella cartellina con la mail del rifiuto ancora aperta sul telefono.
