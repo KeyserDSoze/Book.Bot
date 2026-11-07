@@ -117,6 +117,8 @@ Nerea sentì gli occhi bruciare, ma non abbassò il capo.
 
 «Non ti ho chiesto di dimostrarlo.»
 
+Nerea attese che lui la guardasse. «Ti sto chiedendo se hai bisogno di credere che non lo sia, per riuscire a fare quello che hai firmato di fare.»
+
 Nico passò una mano sulla ringhiera bagnata.
 
 «Se fosse vivo, quello che ci prepariamo a fare mi farebbe paura nello stesso modo. Ma se non lo è, non significa che non mi faccia paura adesso.»

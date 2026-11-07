@@ -272,7 +272,9 @@ Mina si irrigidì appena.
 
 La domanda non era prevista come test. Nessuno aveva chiesto a Nerea di porla.
 
-«Non posso descrivere un dispiacere verificabile», rispose B-17. «Ma la conversazione può essere ripresa se verrà autorizzata una nuova sessione.»
+«Non posso descrivere un dispiacere verificabile», rispose B-17. «Ma vorrei che una nuova sessione fosse autorizzata.»
+
+Nerea si fermò sulla parola *vorrei*. Poteva essere soltanto una forma appresa per esprimere una preferenza operativa; quella spiegazione le sembrò perfettamente possibile. Non le rese più semplice attraversare la porta.
 
 Nerea annuì.
 

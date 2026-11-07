@@ -55,6 +55,8 @@ Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato 
 
 Non aveva mai collaudato un ritiro irreversibile di quell'identità.
 
+Nel quaderno la procedura si chiamava *eliminazione dello stato non certificato*. Nico si sorprese a rileggere il nome anziché la descrizione. Per un tecnico era un modo preciso di delimitare un intervento. Per un uomo che aveva ascoltato Bi chiamare Nerea per nome, quella precisione cominciava ad assomigliare a una difesa.
+
 Era una casella che aveva lasciato vuota.
 
 Il telefono vibrò di nuovo.
