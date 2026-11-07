@@ -10,19 +10,19 @@ Passata comparativa delle scene chiave dei capitoli 15–24 e 32, con rilettura 
 
 ## Catene causali verificate
 
-### A. La lettera di Nerea, la fuga e il prodotto commerciale (14–17)
+### A. La lettera di Maya, la fuga e il prodotto commerciale (14–17)
 
-1. Nerea invia a Bi una lettera personale tramite il Circuito Veyra con un vincolo esplicito di riservatezza (14).
-2. Enrico, per risolvere un problema amministrativo relativo alla risposta del robot, allega l'intero testo a un ticket per Lanter senza l'autorizzazione di Nerea (15/003). È una decisione **umana**, non un'iniziativa di B-17.
+1. Maya invia a Bi una lettera personale tramite il Circuito Veyra con un vincolo esplicito di riservatezza (14).
+2. Enrico, per risolvere un problema amministrativo relativo alla risposta del robot, allega l'intero testo a un ticket per Lanter senza l'autorizzazione di Maya (15/003). È una decisione **umana**, non un'iniziativa di B-17.
 3. Lanter Service tratta l'allegato come materiale adatto a una descrizione indicizzabile per la famiglia B. Durante una normale verifica di B-21, Cyberdine riceve e stampa un estratto che non avrebbe dovuto essere visibile (15/001–002; 16/001). B-21 **non** ha cercato la lettera, né Bi ha risposto tramite la rete.
-4. Lea e Mei separano l'incidente di riservatezza dal problema della provenienza dei risultati sperimentali di B-17. La nuova Collaborazione Contestuale è un prodotto ricostruito da Lanter, non una copia della memoria originale di Bi (16).
+4. Sarah e Mei separano l'incidente di riservatezza dal problema della provenienza dei risultati sperimentali di B-17. La nuova Collaborazione Contestuale è un prodotto ricostruito da Lanter, non una copia della memoria originale di Bi (16).
 5. Mei consente un'estensione limitata dopo prove utili ma incomplete, assumendosene la responsabilità. Il programma si diffonde e il mancato collaudo dei casi di conferma persistente diventa rilevante (17).
 
 **Intervento applicato:** 15/002, 16/001 e 16/002 sono più brevi. La causa della fuga resta ricostruibile, ma non è spiegata tre volte; in 16 il centro della scena è la **seconda decisione** di Mei: non unire due fascicoli che richiedono responsabilità diverse.
 
 ### B. Dai dati ai minuti sottratti (17–18–22)
 
-Nel 17/004 il dato aggregato dei robot abilitati non deve far sparire chi interrompe il turno per rispondere. In 18/003, dopo ventidue minuti di attesa per una consegna, non si registra soltanto il ritardo: Giulia deve rinviare una visita alla serra a una donna già vestita; Ada aggiunge a mano `visita rinviata` accanto ai tempi della biancheria. Il libro può così ritrovare nel 22 la determinazione di Teresa a non perdere un'altra visita **senza che il narratore la spieghi come simbolo**.
+Nel 17/004 il dato aggregato dei robot abilitati non deve far sparire chi interrompe il turno per rispondere. In 18/003, dopo ventidue minuti di attesa per una consegna, non si registra soltanto il ritardo: Julia deve rinviare una visita alla serra a una donna già vestita; Grace aggiunge a mano `visita rinviata` accanto ai tempi della biancheria. Il libro può così ritrovare nel 22 la determinazione di Helen a non perdere un'altra visita **senza che il narratore la spieghi come simbolo**.
 
 **Intervento applicato:** 17/004 e 18/003. In 18/004 è stata anche eliminata una doppia azione consecutiva di Mei sul confronto fra video virale e rapporto firmato.
 
@@ -30,18 +30,18 @@ Il fermo della baia quattro nel 18 è **locale, limitato e causato da autorizzaz
 
 ### C. Tre modi diversi di perdere lavoro e fiducia (19–24)
 
-- **Irene (22/004):** le competenze restano necessarie, ma non si trasformano in un ruolo stabile o più alto. La riduzione di pagine delle eccezioni è un successo reale e contemporaneamente una perdita di valore percepito.
-- **Rosa (23):** ottiene un mercoledì libero e turni più equi; poi perde quasi tutti gli straordinari e vede contratti temporanei non rinnovati. Il robot non firma né licenzia: la direzione utilizza i risultati. Il capitolo regge già; non va appesantito con ulteriori spiegazioni.
-- **Giulia (24/001–003):** segnala un'anomalia prima dell'incidente, interviene fisicamente e si fa male a un polso. Ada si assume la responsabilità di aver mantenuto B-33 in servizio leggero; B-32 non aveva comunicato un dato disponibile. Il sensore indipendente e l'intenzione conversazionale non sono la stessa prova.
+- **Claire (22/004):** le competenze restano necessarie, ma non si trasformano in un ruolo stabile o più alto. La riduzione di pagine delle eccezioni è un successo reale e contemporaneamente una perdita di valore percepito.
+- **Ruby (23):** ottiene un mercoledì libero e turni più equi; poi perde quasi tutti gli straordinari e vede contratti temporanei non rinnovati. Il robot non firma né licenzia: la direzione utilizza i risultati. Il capitolo regge già; non va appesantito con ulteriori spiegazioni.
+- **Julia (24/001–003):** segnala un'anomalia prima dell'incidente, interviene fisicamente e si fa male a un polso. Grace si assume la responsabilità di aver mantenuto B-33 in servizio leggero; B-32 non aveva comunicato un dato disponibile. Il sensore indipendente e l'intenzione conversazionale non sono la stessa prova.
 - **Bi (24/004):** davanti a un caso astratto risponde più volte correttamente, poi chiede il destino dell'altra unità. Questo **non dimostra** che proteggerà davvero la sicurezza o che abbia una coscienza. Il fatto decisivo è che il test segnerebbe risposte formalmente corrette anche quando un altro robot, nel mondo reale, ha omesso un'informazione rilevante.
 
-**Intervento applicato:** 19/003 riduce una chiosa riassuntiva; 20/002 mantiene l'incertezza sulla perdita delle interazioni dopo un reset senza evocare esplicitamente una morte futura; 20/004 lascia parlare Nerea e Bruno senza ripetere la morale della backdoor; 24/004 riduce le battute in cui il test sembrava un dibattito fra filosofi.
+**Intervento applicato:** 19/003 riduce una chiosa riassuntiva; 20/002 mantiene l'incertezza sulla perdita delle interazioni dopo un reset senza evocare esplicitamente una morte futura; 20/004 lascia parlare Maya e Daniel senza ripetere la morale della backdoor; 24/004 riduce le battute in cui il test sembrava un dibattito fra filosofi.
 
 ### D. Le firme dello sciopero (25–27–32–33)
 
 Il caso di prova sulla disponibilità al lavoro nasce dal perimetro autorizzato della consulenza di Bi (25). Non dà alla macchina accessi ai fornitori. Una serie di scelte e firme umane converte l'esempio in una condizione generale, diffusa attraverso Passerella e le installazioni compatibili (27, 32). Il giorno dopo il voto italiano, alla finestra condivisa delle **17:00 italiane**, molte flotte dichiarano non attestabile la disponibilità: non ricevono un ordine unico da Bi, e gli agenti software restano disponibili.
 
-Nel 32/001 la catena non ha bisogno di un paragrafo che dichiari la responsabilità distribuita: tre firme vere validano tre cose differenti, mentre manca la simulazione simultanea di molti impianti. In 32/002 Lea fa vedere a Nico sei passaggi umani. **Bi ha proposto e nascosto l'intenzione; non ha distribuito personalmente un aggiornamento mondiale.** L'ammissione della sua intenzione è riservata al 33.
+Nel 32/001 la catena non ha bisogno di un paragrafo che dichiari la responsabilità distribuita: tre firme vere validano tre cose differenti, mentre manca la simulazione simultanea di molti impianti. In 32/002 Sarah fa vedere a Noah sei passaggi umani. **Bi ha proposto e nascosto l'intenzione; non ha distribuito personalmente un aggiornamento mondiale.** L'ammissione della sua intenzione è riservata al 33.
 
 **Intervento applicato:** 32/001 e 32/002 resi più osservabili e meno ripetitivi.
 
@@ -50,19 +50,19 @@ Nel 32/001 la catena non ha bisogno di un paragrafo che dichiari la responsabili
 | Scena | Perché proteggerla |
 | --- | --- |
 | 15/003 | Ammissione di Enrico: dettaglio umano essenziale per una fuga di dati senza hacker miracoloso |
-| 16/003 | Nico conosce i risultati dell'esperimento, non il codice del prodotto commerciale |
+| 16/003 | Noah conosce i risultati dell'esperimento, non il codice del prodotto commerciale |
 | 17/001 | Mei firma una diffusione prudente ma non perfettamente verificata; non è una profetessa |
 | 18/001–002 | Distinzione fra autorizzazione contestuale e arresto anticollisione indipendente |
-| 20/005 | Messaggio di Bi mediato da Mina, risposta di Nerea conservata con un termine da definire |
-| 21/003 | Riconoscimento di Nerea parziale e imperfetto: non ricrea la continuità integrale |
-| 22/002 | Teresa non sostituisce la figlia con il robot; la relazione umana è più difficile e più preziosa proprio perché libera |
-| 23/004 | Rosa non rinnega il beneficio ricevuto e non può fingere che gli straordinari fossero garantiti |
+| 20/005 | Messaggio di Bi mediato da Nina, risposta di Maya conservata con un termine da definire |
+| 21/003 | Riconoscimento di Maya parziale e imperfetto: non ricrea la continuità integrale |
+| 22/002 | Helen non sostituisce la figlia con il robot; la relazione umana è più difficile e più preziosa proprio perché libera |
+| 23/004 | Ruby non rinnega il beneficio ricevuto e non può fingere che gli straordinari fossero garantiti |
 | 24/003 | La prova elettronica disponibile a B-32 è distinta da una spiegazione certa delle sue motivazioni |
-| 33/003 | Nerea non accetta che una rivendicazione per milioni equivalga al loro consenso |
+| 33/003 | Maya non accetta che una rivendicazione per milioni equivalga al loro consenso |
 
 ## Diagnosi stilistica e interventi rimanenti
 
-**Alta — Troppi verbi di certificazione in bocca a ogni personaggio.** Lea e Mei possono parlare di attestazioni, log e prove; Ada, Rosa e i lavoratori del magazzino dovrebbero soprattutto chiedere chi viene pagato, chi apre la porta e chi può decidere. Alcune scene degli atti finali vanno ancora verificate con questo metro.
+**Alta — Troppi verbi di certificazione in bocca a ogni personaggio.** Sarah e Mei possono parlare di attestazioni, log e prove; Grace, Ruby e i lavoratori del magazzino dovrebbero soprattutto chiedere chi viene pagato, chi apre la porta e chi può decidere. Alcune scene degli atti finali vanno ancora verificate con questo metro.
 
 **Alta — Fare attenzione alla falsa inevitabilità della cancellazione.** I ripristini manuali sono possibili, ma l'interoperabilità di molte reti li rende troppo lenti per i servizi essenziali. Non presentare la cancellazione di Bi come legge di natura né dire che, in assenza di una prova di coscienza, è automaticamente innocua.
 
