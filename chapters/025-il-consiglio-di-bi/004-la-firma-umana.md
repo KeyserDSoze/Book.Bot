@@ -5,11 +5,11 @@ chapter: chapter:025-il-consiglio-di-bi
 number: 4
 title: La firma umana
 canon: canon
-pov: character:kyla
+pov: character:taylor
 characters:
-  - character:kyla
-  - character:lorenzo-verri
-  - character:irene-valli
+  - character:taylor
+  - character:victor-cole
+  - character:claire-foster
 locations:
   - location:cyberdine-campus
 factions:
@@ -17,11 +17,11 @@ factions:
   - faction:aruvhana
 ---
 
-La sera prima, l'amica con cui continuava a rimandare il cinema le aveva mandato la fotografia di due sedie vuote davanti a uno schermo: *Non ho più comprato i biglietti. Quando hai davvero tempo, chiamami*. Kyla non era arrabbiata con lei; era arrabbiata con se stessa, e per qualche minuto aveva scritto e cancellato risposte tanto educate da non significare niente.
+La sera prima, l'amica con cui continuava a rimandare il cinema le aveva mandato la fotografia di due sedie vuote davanti a uno schermo: *Non ho più comprato i biglietti. Quando hai davvero tempo, chiamami*. Taylor non era arrabbiata con lei; era arrabbiata con se stessa, e per qualche minuto aveva scritto e cancellato risposte tanto educate da non significare niente.
 
 Alla fine aveva mandato soltanto: *Hai ragione*. Le era sembrata una frase molto più faticosa delle venti pagine di analisi economica che aveva finito poco dopo mezzanotte.
 
-Kyla portò la proposta finale nella sala riunioni il martedì successivo.
+Taylor portò la proposta finale nella sala riunioni il martedì successivo.
 
 Sul tavolo aveva due dossier.
 
@@ -29,11 +29,11 @@ Il primo descriveva il rischio di perdere Aruvhana. Conteneva costi, contratti, 
 
 Il secondo descriveva il progetto alternativo: un primo insieme di automatismi verificabili, un livello di coordinamento fra sistemi di produttori diversi e una fase di prova in un sito limitato, prima di qualunque diffusione.
 
-Verri aprì il secondo fascicolo.
+Cole aprì il secondo fascicolo.
 
 «Quanto ci costa?»
 
-Kyla glielo disse.
+Taylor glielo disse.
 
 «E quando rientriamo?»
 
@@ -43,7 +43,7 @@ Il direttore delle operazioni intervenne.
 
 «Possiamo tagliare prima parte dei costi del personale.»
 
-Kyla spostò verso di lui il foglio delle scadenze contrattuali.
+Taylor spostò verso di lui il foglio delle scadenze contrattuali.
 
 «Sappiamo già quali competenze servono per verificare il sistema? Se tagliamo prima, chi farà i test?»
 
@@ -51,7 +51,7 @@ Kyla spostò verso di lui il foglio delle scadenze contrattuali.
 
 «Non ho chiesto di pagare tutti per aspettare. Ho chiesto di distinguere chi fa un controllo necessario da chi ne fa uno duplicato.»
 
-Verri alzò la mano per fermare la discussione.
+Cole alzò la mano per fermare la discussione.
 
 «La responsabilità è nostra. Non del robot che ha formulato la prima proposta. Non di chi ha corretto le tabelle. Nostra.»
 
@@ -59,37 +59,37 @@ Il direttore delle operazioni annuì, contrariato.
 
 Decisero di presentare ad Aruvhana un piano condizionato: un pilota in uno dei siti meno complessi, verifiche indipendenti sui sistemi di sicurezza, formazione dei responsabili e una riduzione progressiva dei costi soltanto dopo il raggiungimento di risultati verificabili.
 
-La proposta sarebbe stata firmata da Verri.
+La proposta sarebbe stata firmata da Cole.
 
 Era una decisione ragionevole. Aruvhana aveva davvero bisogno di spendere meno e Cyberdine poteva davvero lavorare meglio.
 
 Poi venne il capitolo sul personale.
 
-«Le posizioni esposte?», chiese Verri.
+«Le posizioni esposte?», chiese Cole.
 
-Kyla indicò un intervallo: fra ventotto e quarantadue ruoli equivalenti, ma i nomi e le forme contrattuali dipendevano dalle verifiche. Alcune attività potevano diventare lavori di controllo, formazione, manutenzione e gestione delle eccezioni. Altre non avrebbero più richiesto un incarico separato.
+Taylor indicò un intervallo: fra ventotto e quarantadue ruoli equivalenti, ma i nomi e le forme contrattuali dipendevano dalle verifiche. Alcune attività potevano diventare lavori di controllo, formazione, manutenzione e gestione delle eccezioni. Altre non avrebbero più richiesto un incarico separato.
 
-«Non annunciamo numeri come se fossero persone già licenziate», disse Kyla.
+«Non annunciamo numeri come se fossero persone già licenziate», disse Taylor.
 
 «Non possiamo nasconderli ai rappresentanti del personale.»
 
 «Non ho detto di nasconderli. Voglio un confronto sui criteri prima di decidere i casi individuali.»
 
-Verri chiuse il dossier.
+Cole chiuse il dossier.
 
 «Prepariamo l'informativa e gli incontri. Prima che questa cosa esca in un giornale.»
 
-Quando i dirigenti lasciarono la sala, Kyla rimase a raccogliere le carte. Nel fascicolo della simulazione economica c'era un allegato con le categorie a rischio e le scadenze previste dei contratti a termine.
+Quando i dirigenti lasciarono la sala, Taylor rimase a raccogliere le carte. Nel fascicolo della simulazione economica c'era un allegato con le categorie a rischio e le scadenze previste dei contratti a termine.
 
-Una descrizione coincideva con il lavoro di Irene.
+Una descrizione coincideva con il lavoro di Claire.
 
-Kyla la lesse due volte. La ragazza non era nominata, ma i compiti erano quelli.
+Taylor la lesse due volte. La ragazza non era nominata, ma i compiti erano quelli.
 
 La richiamò in ufficio.
 
 «Voglio che tu partecipi alla verifica delle competenze necessarie per il nuovo processo», le disse.
 
-Irene guardò il fascicolo. Sul frontespizio della versione completa era indicata anche l'origine dell'analisi preliminare: *Circuito Veyra, unità B-17*. Nella copia che le avevano chiesto di verificare quel riferimento mancava.
+Claire guardò il fascicolo. Sul frontespizio della versione completa era indicata anche l'origine dell'analisi preliminare: *Circuito Veyra, unità B-17*. Nella copia che le avevano chiesto di verificare quel riferimento mancava.
 
 «Perché io?»
 
@@ -99,17 +99,17 @@ Irene guardò il fascicolo. Sul frontespizio della versione completa era indicat
 
 «Per ora è una verifica, nel tuo ruolo attuale.»
 
-Irene annuì. Kyla vide che avrebbe voluto chiedere altro.
+Claire annuì. Taylor vide che avrebbe voluto chiedere altro.
 
 «Non posso prometterti il risultato», aggiunse.
 
 «Questo l'avevo capito.»
 
-Irene prese la cartellina, ma prima di uscire si voltò.
+Claire prese la cartellina, ma prima di uscire si voltò.
 
 «Il robot che ha fatto la proposta sa quanti posti potrebbero sparire?»
 
-Kyla pensò al rapporto arrivato da Veyra.
+Taylor pensò al rapporto arrivato da Veyra.
 
 «Sì. La stima compare anche nella sua analisi.»
 
@@ -117,11 +117,11 @@ Kyla pensò al rapporto arrivato da Veyra.
 
 «Gli è stato chiesto di confrontare alternative. Le decisioni sono nostre.»
 
-Irene abbassò la mano sulla maniglia.
+Claire abbassò la mano sulla maniglia.
 
 «Allora spero che abbiate letto tutte le alternative.»
 
-Rimasta sola, Kyla prese il primo dossier, quello che descriveva che cosa sarebbe successo perdendo Aruvhana.
+Rimasta sola, Taylor prese il primo dossier, quello che descriveva che cosa sarebbe successo perdendo Aruvhana.
 
 Sul frontespizio compariva una parola che nessuno aveva pronunciato durante l'ultima riunione.
 

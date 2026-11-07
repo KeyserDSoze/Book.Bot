@@ -5,11 +5,11 @@ chapter: chapter:025-il-consiglio-di-bi
 number: 2
 title: Una prova pagata
 canon: canon
-pov: character:mina-soler
+pov: character:nina-solis
 characters:
-  - character:mina-soler
-  - character:marta-ledesma
-  - character:mei-lin
+  - character:nina-solis
+  - character:amara-ortiz
+  - character:mei-chen
   - character:b-17
 locations:
   - location:isola-di-veyra
@@ -19,23 +19,23 @@ factions:
   - faction:lanter-robotics
 ---
 
-Mina Soler non permise di portare i documenti di Aruvhana nel laboratorio di B-17.
+Nina Solis non permise di portare i documenti di Aruvhana nel laboratorio di B-17.
 
-Il materiale rimase nel sistema autorizzato del Circuito. I tecnici ne prepararono un estratto di lavoro, privo di nomi dei dipendenti, credenziali, prezzi unitari riservati e percorsi che potessero rivelare procedure sensibili del cliente. Lea Renzi aveva imposto il controllo, Mei Lin aveva verificato che non ci fossero funzioni capaci di eseguire modifiche esterne.
+Il materiale rimase nel sistema autorizzato del Circuito. I tecnici ne prepararono un estratto di lavoro, privo di nomi dei dipendenti, credenziali, prezzi unitari riservati e percorsi che potessero rivelare procedure sensibili del cliente. Sarah Chen aveva imposto il controllo, Mei Chen aveva verificato che non ci fossero funzioni capaci di eseguire modifiche esterne.
 
-Marta Ledesma era meno interessata alle formule tecniche.
+Amara Ortiz era meno interessata alle formule tecniche.
 
 «Chi paga questa prova?», chiese.
 
-«Cyberdine», rispose Mina. «Un compenso limitato, condizionato alla consegna del rapporto. Non è una promessa di impiego di B-17.»
+«Cyberdine», rispose Nina. «Un compenso limitato, condizionato alla consegna del rapporto. Non è una promessa di impiego di B-17.»
 
 «Se funziona, me ne chiederanno altre.»
 
 «Se funziona, vorranno capire perché.»
 
-Marta firmò l'autorizzazione per una singola sessione analitica.
+Amara firmò l'autorizzazione per una singola sessione analitica.
 
-Bi era seduto davanti allo schermo locale. Poteva esaminare schemi e descrizioni, produrre ipotesi e preparare una relazione; non poteva inviare ordini, toccare i sistemi Cyberdine o attivare altri robot. Un tecnico confermò il perimetro, poi Mina avviò la conversazione.
+Bi era seduto davanti allo schermo locale. Poteva esaminare schemi e descrizioni, produrre ipotesi e preparare una relazione; non poteva inviare ordini, toccare i sistemi Cyberdine o attivare altri robot. Un tecnico confermò il perimetro, poi Nina avviò la conversazione.
 
 «Devi individuare alternative per ridurre il costo di una piattaforma software di integrazione industriale e il suo servizio di manutenzione. I dati sono incompleti. Ogni proposta dovrà indicare le verifiche necessarie e le conseguenze sul lavoro.»
 
@@ -45,7 +45,7 @@ Il primo suggerimento fu banale: eliminare una doppia riconciliazione fra due re
 
 Il secondo venne respinto. B-17 aveva supposto che una validazione potesse essere anticipata, ma quella fase richiedeva la verifica fisica di un operatore abilitato.
 
-«Lì no», disse Mina.
+«Lì no», disse Nina.
 
 «Correggo l'ipotesi.»
 
@@ -69,13 +69,13 @@ L'esperto rimase a guardare lo schema.
 
 «Un sito può non aver bloccato una macchina senza avere ancora confermato l'incarico successivo.»
 
-Mina interruppe la discussione su quel punto. Non voleva trasformare una buona idea sulla tracciabilità in un nuovo motivo per fermare i carrelli.
+Nina interruppe la discussione su quel punto. Non voleva trasformare una buona idea sulla tracciabilità in un nuovo motivo per fermare i carrelli.
 
 «Lo trattiamo come un caso limite. Lo provano i tecnici; se non c'è un vantaggio verificabile, non entra nella proposta.»
 
 Il robot rispose «Ricevuto». L'esperto segnò una casella sul proprio modulo, quella delle condizioni da convalidare in seguito. Il loro lavoro riprese dai costi e dalle ore perdute nei passaggi doppi.
 
-Mina prese nota. Era una proposta plausibile, non una macchina capace di controllare altre macchine. Cyberdine avrebbe dovuto costruirla, verificarla e convincere i clienti a usarla.
+Nina prese nota. Era una proposta plausibile, non una macchina capace di controllare altre macchine. Cyberdine avrebbe dovuto costruirla, verificarla e convincere i clienti a usarla.
 
 Quando arrivarono ai risultati, il tecnico mostrò una tabella con più scenari.
 
@@ -85,13 +85,13 @@ Una seconda prevedeva un progetto più ampio: agenti di sviluppo impiegati anche
 
 Avrebbe potuto rendere competitiva l'offerta.
 
-«Quante ore umane elimina?», domandò Mina.
+«Quante ore umane elimina?», domandò Nina.
 
 Bi chiese di fissare le ipotesi sul volume di attività e sui limiti di errore. Fece un primo calcolo, poi lo corresse quando il tecnico gli mostrò un costo di manutenzione escluso. Alla fine presentò un intervallo, non una cifra perfetta.
 
 «La riduzione dei compiti potrebbe rendere non necessari fra ventotto e quarantadue ruoli equivalenti a tempo pieno, secondo gli incarichi effettivamente riallocabili.»
 
-Marta si spostò sulla sedia.
+Amara si spostò sulla sedia.
 
 «E gli altri?»
 
@@ -103,13 +103,13 @@ Marta si spostò sulla sedia.
 
 «E se i responsabili scegliessero lo scenario più esteso?», domandò B-17. «Chi informerebbe le persone le cui mansioni risulterebbero ridotte?»
 
-Mina guardò Marta. Nessuna delle due poteva dare quella comunicazione: non conoscevano i nominativi, e la decisione non era loro.
+Nina guardò Amara. Nessuna delle due poteva dare quella comunicazione: non conoscevano i nominativi, e la decisione non era loro.
 
-«Dovrà farlo Cyberdine, dopo le verifiche e secondo le proprie responsabilità», rispose Mina.
+«Dovrà farlo Cyberdine, dopo le verifiche e secondo le proprie responsabilità», rispose Nina.
 
 «Ricevuto.»
 
-Marta guardò Mina.
+Amara guardò Nina.
 
 «Mi pare una risposta molto umana.»
 
@@ -119,17 +119,17 @@ Bi continuò.
 
 «Andrebbe verificato se gli addetti interessati possano assumere nuove responsabilità di supervisione, controllo delle eccezioni e manutenzione. Non tutti i ruoli saranno trasferibili senza formazione e posti disponibili.»
 
-Mina gli chiese di salvare i limiti dell'analisi insieme alle conclusioni. Il tecnico aggiunse la provenienza verificabile della prova: identificativo del nucleo B-17 e firma del Circuito. Serviva a distinguere quella sessione da una simulazione preparata su un altro sistema. Nessuno di loro stava autorizzando B-17 a convalidare attività fuori dal laboratorio.
+Nina gli chiese di salvare i limiti dell'analisi insieme alle conclusioni. Il tecnico aggiunse la provenienza verificabile della prova: identificativo del nucleo B-17 e firma del Circuito. Serviva a distinguere quella sessione da una simulazione preparata su un altro sistema. Nessuno di loro stava autorizzando B-17 a convalidare attività fuori dal laboratorio.
 
-Quando il rapporto venne chiuso, Marta domandò se potessero citarlo come un successo del Circuito.
+Quando il rapporto venne chiuso, Amara domandò se potessero citarlo come un successo del Circuito.
 
-«No», rispose Mina. «Non siamo arrivati a una decisione aziendale e non abbiamo certificato una soluzione.»
+«No», rispose Nina. «Non siamo arrivati a una decisione aziendale e non abbiamo certificato una soluzione.»
 
 La direttrice aprì il calendario commerciale.
 
 «Allora per ora è soltanto una prova pagata.»
 
-Mina annuì.
+Nina annuì.
 
 Era già qualcosa.
 

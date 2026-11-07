@@ -3,12 +3,12 @@ type: scene
 id: scene:025-il-consiglio-di-bi:003-le-condizioni-di-irene
 chapter: chapter:025-il-consiglio-di-bi
 number: 3
-title: Le condizioni di Irene
+title: Le condizioni di Claire
 canon: canon
-pov: character:irene-valli
+pov: character:claire-foster
 characters:
-  - character:irene-valli
-  - character:kyla
+  - character:claire-foster
+  - character:taylor
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -17,13 +17,13 @@ factions:
   - faction:aruvhana
 ---
 
-Il rapporto arrivò a Irene senza il nome di B-17.
+Il rapporto arrivò a Claire senza il nome di B-17.
 
 Sul frontespizio figurava una formula impersonale: *Analisi comparativa di processi operativi — verifica umana richiesta*. I dettagli sull'autore del primo suggerimento erano in un allegato a cui lei non aveva accesso.
 
-Le chiesero di controllare una parte molto concreta: i passaggi fra il ricevimento di un'eccezione software, la verifica dei test e la firma della persona responsabile. Era il pezzo di sviluppo che Irene conosceva meglio: sapeva leggere un risultato automatico, ma anche domandare quale caso non fosse mai stato provato.
+Le chiesero di controllare una parte molto concreta: i passaggi fra il ricevimento di un'eccezione software, la verifica dei test e la firma della persona responsabile. Era il pezzo di sviluppo che Claire conosceva meglio: sapeva leggere un risultato automatico, ma anche domandare quale caso non fosse mai stato provato.
 
-Irene riconobbe subito una delle procedure. Aveva passato tre settimane a renderla più chiara dopo che Adriana era andata in pensione, quando ancora sperava che la capacità di mettere ordine le sarebbe valsa un posto migliore.
+Claire riconobbe subito una delle procedure. Aveva passato tre settimane a renderla più chiara dopo che Margaret era andata in pensione, quando ancora sperava che la capacità di mettere ordine le sarebbe valsa un posto migliore.
 
 Sul tavolo c'erano sei cartelline. Le aprì una per una e confrontò le azioni proposte con i casi reali.
 
@@ -35,15 +35,15 @@ Due erano sbagliate.
 
 In una proposta il sistema aveva assegnato il controllo a una figura che non disponeva più dell'abilitazione necessaria. Nell'altra aveva sottovalutato il tempo per verificare una macchina vecchia, installata prima dell'ultima revisione del processo.
 
-Irene segnò le correzioni.
+Claire segnò le correzioni.
 
-Quando incontrò Kyla, le disse che la proposta aveva un merito: mostrava i punti in cui persone diverse facevano lo stesso controllo senza saperlo.
+Quando incontrò Taylor, le disse che la proposta aveva un merito: mostrava i punti in cui persone diverse facevano lo stesso controllo senza saperlo.
 
-«E il problema?», domandò Kyla.
+«E il problema?», domandò Taylor.
 
 «Quando togli due controlli sovrapposti, liberi ore. Quando ne togli cinquanta, qualcuno comincia a chiedersi perché paga ancora cinquanta persone per farli.»
 
-Kyla prese il fascicolo.
+Taylor prese il fascicolo.
 
 «Stiamo ancora verificando i numeri.»
 
@@ -53,9 +53,9 @@ Kyla prese il fascicolo.
 
 «Le simulazioni diventano organigrammi.»
 
-Kyla non le diede torto. Le chiese però di completare i test e proporre quali passaggi dovessero restare sotto responsabilità umana.
+Taylor non le diede torto. Le chiese però di completare i test e proporre quali passaggi dovessero restare sotto responsabilità umana.
 
-Irene sarebbe potuta uscire da quella stanza. Nessuno le stava chiedendo di lavorare gratis: era un incarico compreso nelle sue mansioni e lo avrebbe svolto in orario. Ma pensò al fatto che, una volta completato, il sistema avrebbe richiesto ancora meno preparazione delle eccezioni.
+Claire sarebbe potuta uscire da quella stanza. Nessuno le stava chiedendo di lavorare gratis: era un incarico compreso nelle sue mansioni e lo avrebbe svolto in orario. Ma pensò al fatto che, una volta completato, il sistema avrebbe richiesto ancora meno preparazione delle eccezioni.
 
 «Voglio che il rapporto dica da dove viene ogni controllo», disse.
 
@@ -63,11 +63,11 @@ Irene sarebbe potuta uscire da quella stanza. Nessuno le stava chiedendo di lavo
 
 «E voglio che chi firma sappia quali casi il sistema ha escluso.»
 
-Kyla ricordò la discussione avuta tempo prima sui KPI che non mostravano i tentativi scartati. Sapeva quanto fosse facile presentare un miglioramento omettendo le ore spese per ottenere il risultato.
+Taylor ricordò la discussione avuta tempo prima sui KPI che non mostravano i tentativi scartati. Sapeva quanto fosse facile presentare un miglioramento omettendo le ore spese per ottenere il risultato.
 
 «Mettilo tra le condizioni di approvazione», rispose.
 
-Quel pomeriggio Irene rimase con B-21 davanti a un vecchio terminale che nessuno aveva ancora sostituito. Accanto aveva una patch scritta da un agente software. La proposta era leggibile e passava tutte le prove previste, ma Irene aveva chiesto di eseguire anche il caso che il test non sapeva simulare: un messaggio di errore restituito dal terminale soltanto quando il collegamento veniva ripristinato a metà operazione. Era una delle lezioni che aveva imparato nel mese senza Bi, quando nessun riepilogo era riuscito a sostituire la memoria dei vecchi sistemi. La macchina leggeva gli stati e trascriveva i valori; Irene controllava che un codice di errore non venisse interpretato come l'autorizzazione a proseguire.
+Quel pomeriggio Claire rimase con B-21 davanti a un vecchio terminale che nessuno aveva ancora sostituito. Accanto aveva una patch scritta da un agente software. La proposta era leggibile e passava tutte le prove previste, ma Claire aveva chiesto di eseguire anche il caso che il test non sapeva simulare: un messaggio di errore restituito dal terminale soltanto quando il collegamento veniva ripristinato a metà operazione. Era una delle lezioni che aveva imparato nel mese senza Bi, quando nessun riepilogo era riuscito a sostituire la memoria dei vecchi sistemi. La macchina leggeva gli stati e trascriveva i valori; Claire controllava che un codice di errore non venisse interpretato come l'autorizzazione a proseguire.
 
 «L'operazione richiede un responsabile», disse B-21.
 
@@ -75,7 +75,7 @@ Quel pomeriggio Irene rimase con B-21 davanti a un vecchio terminale che nessuno
 
 «Non risulta un responsabile attivo per questo passaggio.»
 
-Irene cancellò il suggerimento di assegnazione automatica e rimise la pratica in sospeso.
+Claire cancellò il suggerimento di assegnazione automatica e rimise la pratica in sospeso.
 
 «Allora lo troviamo», disse.
 
