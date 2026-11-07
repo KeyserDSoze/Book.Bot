@@ -17,166 +17,134 @@ factions:
   - faction:cyberdine
 ---
 
-La prima eccezione senza Bi arrivò alle undici e quattordici.
+La prima anomalia senza Bi arrivò alle undici e quattordici.
 
-Irene Valli riconobbe il numero della pratica, non il problema. Una revisione registrata in due sistemi diversi risultava approvata in entrambi, ma il documento che giustificava una delle approvazioni non si trovava più nel percorso indicato.
+Irene Valli aveva davanti un registro di aggiornamenti software. Il sistema diceva che la revisione del cliente era stata completata. Il documento che avrebbe dovuto provarlo non era nella posizione indicata. In un secondo archivio, quello storico, la stessa revisione appariva con un numero diverso.
 
-In una settimana normale Bi avrebbe preparato il confronto tra le versioni, individuato i riferimenti nei vecchi archivi e mostrato a Irene quali decisioni mancavano. Quella mattina il sistema si limitò a elencare tre documenti non disponibili.
+Aprì il ticket del reparto sviluppo.
 
-Non era abbastanza per convocare i responsabili. Non era abbastanza per capire se una delle due approvazioni fosse stata data sulla base di una versione sbagliata.
+*Connettore aggiornato. Test superati. Nessuna discrepanza critica.*
 
-Irene chiese al reparto sviluppo di seguire il problema dal lato software, prima ancora di aprire il manuale. Il registro mostrava che una vecchia libreria aveva ricostruito la destinazione del documento, ma il percorso scritto nell'attestazione non coincideva con quello del repository reale.
+Non era una risposta sbagliata. Era la risposta a una domanda che Irene non stava facendo.
 
-Il programmatore di turno aprì il ticket. Il riepilogo generato dall'agente diceva che la modifica più recente era corretta; tutti i test previsti risultavano verdi. Sullo schermo, però, il fascicolo non era dove il riepilogo sosteneva che fosse.
+Chiese all'agente una ricostruzione delle fonti.
 
-«Chi ha scritto la trasformazione dei percorsi?», chiese Irene.
+Ricevette una sintesi ordinata. Il modulo nuovo convertiva gli identificativi secondo la tabella in uso; quello vecchio conservava una mappatura precedente per compatibilità. Le due versioni sembravano riconciliabili.
 
-«L'ha proposta l'agente. Bi ha controllato il terminale di prova e abbiamo approvato il rilascio.»
+«Sembrano», disse Irene allo schermo.
 
-«Chi ha letto la funzione che trasforma il vecchio identificativo in quello nuovo?»
+Un programmatore del team integrazioni le rispose alla chiamata.
 
-Il programmatore fece scorrere la cronologia. C'erano firme, confronti e verifiche. «Abbiamo letto la modifica. Non so se qualcuno abbia ricostruito l'intera libreria da cui dipende.»
+«Hai visto il ticket?»
 
-Aprì il codice originale. Un passaggio chiamava una routine dal nome di un protocollo dismesso; la routine, a sua volta, rimandava a un modulo che nessuno del turno aveva più compilato da mesi. Irene guardò quei nomi come avrebbe guardato una mappa straniera: riconosceva i luoghi importanti, non le strade.
+«Sì. Il risultato è verde.»
 
-«Prima chi sapeva seguirla?»
+«Il documento vero non c'è.»
 
-«Paolo forse ricorda il terminale. Adriana conosceva il registro. Per il codice dovrei chiamare un collega del vecchio team. Adesso segue soltanto le architetture.»
+Il programmatore aprì la cronologia della patch. Era stata proposta dall'agente, controllata in revisione e verificata nei casi di prova che Bi aveva contribuito a costruire sul terminale fisico. La firma era valida; l'ambiente autorizzato aveva registrato tutto. Mancava il caso che si presentava ora: un documento registrato con un codice storico e consultato, dopo l'aggiornamento, da un modulo ancora più vecchio.
 
-«Non puoi chiedere a un agente?»
+«Possiamo chiedere all'agente di cercarlo», disse lui.
 
-«Gliel'ho chiesto. Mi restituisce la stessa spiegazione che avevamo già approvato.»
+«È quello che ho fatto.»
 
-Era la frase che la spaventò. La risposta non era necessariamente falsa. Era diventata però l'unica risposta che il gruppo sapeva ripetere.
+L'agente generò una nuova spiegazione, molto simile alla precedente.
 
-Irene aprì il manuale della procedura.
+Irene lo fissò. «Non ha trovato un'altra fonte. Ha formulato un'altra volta la stessa ipotesi.»
 
-Il manuale aveva quarantasette pagine e una nota in fondo che rinviava a un'appendice non più presente nel repository dei processi. La prima persona che avrebbe potuto dirle dove fosse era Adriana, che stava preparando gli ultimi giorni di lavoro prima della pensione.
+«Possiamo aumentare il contesto.»
 
-Irene si alzò, poi si sedette di nuovo.
+«Sì. Ma prima apriamo la funzione che decide dove cercare.»
 
-Non voleva chiamarla. Voleva dimostrare di saper fare da sola.
+Il programmatore le mostrò la libreria. C'erano chiamate fra moduli di generazioni diverse, e una routine conteneva un riferimento a una convenzione che il team non usava da anni.
 
-Dopo venti minuti aveva trovato due copie della stessa appendice, entrambe con l'etichetta *versione finale*. Una portava la data sbagliata. L'altra rinviava a una tabella che non esisteva nel percorso digitalizzato.
+«Chi l'ha scritta?», chiese Irene.
 
-Le tornò in mente una conversazione fatta con Mila davanti all'archivio: *Non fidarti del titolo, controlla l'originale*. Era un consiglio che sapeva dare agli altri con naturalezza. Scoprire di averne bisogno lei stessa le tolse l'ultimo pretesto per rimandare la telefonata ad Adriana.
+«Non so. La cronologia più recente riguarda l'adattatore, non questo modulo. Possiamo cercare i commit vecchi.»
 
-Sentì salire la rabbia.
+«Facciamolo.»
 
-Quando aveva iniziato a lavorare a Cyberdine, quei problemi richiedevano giornate intere. Poi erano arrivati i sistemi automatici e, a poco a poco, il tempo aveva cominciato a essere impiegato per le decisioni, non per i passaggi intermedi. Irene aveva imparato a ragionare sui casi complessi. Ora la parte intermedia tornava a occuparle tutto il giorno.
+Un'ora prima avrebbero chiesto a Bi di mettere insieme il registro, il terminale e la spiegazione dei vecchi codici. Irene non stava scoprendo che le persone non potevano più svolgere quel lavoro. Stava scoprendo quanto fosse costoso ricostruire ogni dipendenza quando nessuna persona aveva attraversato l'intero percorso negli ultimi mesi.
 
-Bastava un'unità ferma.
+Il collega trovò un commit antico, poi un commento che rimandava a un'appendice non più presente nel repository. Irene riconobbe il riferimento: era un registro cartaceo che Adriana Lodi le aveva mostrato durante la formazione.
 
-Le venne da pensare a quanto sarebbe stata felice se quella unità fosse stata meno brava. Una contraddizione minuscola, umiliante. La settimana prima avrebbe voluto che Bi non sapesse fare certe cose. Adesso ne sentiva la mancanza in ogni finestra aperta del computer.
+«Il quaderno di bordo», disse.
 
-Chiamò Adriana.
+«Quale?»
 
-La responsabile entrò dopo pochi minuti con una penna in mano e gli occhiali sul naso.
+«Non è un file. L'abbiamo tenuto in archivio quando abbiamo sostituito il sistema delle revisioni.»
 
-«Dimmi.»
+Il programmatore guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre due patch in attesa.
 
-Irene le mostrò le due appendici.
+«Posso seguirti in laboratorio dopo pranzo.»
 
-Adriana ne guardò appena i titoli.
+«No. Vado a prendere il registro e poi torniamo sul codice. Ho bisogno che tu sappia spiegarmi la funzione, non di un'altra sintesi.»
 
-«Sono entrambe sbagliate.»
+Chiuse la chiamata e aprì il manuale.
 
-«Come fai a saperlo?»
+Quarantasette pagine. Una nota rimandava alla vecchia appendice cartacea, senza indicare dove fosse conservata. Irene aveva scritto quella stessa osservazione nel mese di prova del nuovo archivio, poi si era fidata del fatto che Bi sapesse raggiungere gli originali.
 
-«Perché quando abbiamo cambiato il sistema abbiamo tenuto l'indice dei rientri nel registro di bordo. Nessuno lo cercava mai. Bi andava direttamente a prenderlo.»
+Si alzò per andare da Adriana.
 
-«E io come avrei dovuto saperlo?»
+La responsabile stava svuotando un cassetto, a pochi giorni dalla pensione. Quando Irene le mostrò i due identificativi, non guardò il riepilogo.
 
-Adriana posò la penna sulla scrivania.
+«Sono entrambi sbagliati», disse.
 
-«Avresti dovuto saperlo perché qualcuno te l'aveva spiegato. È qui che abbiamo sbagliato noi.»
+«Tutti e due?»
 
-Irene la guardò.
+«Sì. State chiedendo al sistema nuovo di decidere se un documento ha lo stesso significato di uno che il sistema vecchio chiamava in un altro modo.»
 
-«Noi chi?»
+«Come facciamo a saperlo?»
 
-«Io. Chi ha fatto il passaggio di consegne. Chi ha deciso che bastava mettere tutti i riferimenti in un sistema automatico senza chiedersi chi avrebbe saputo ricostruirli quando quel sistema non fosse stato disponibile.»
+Adriana indicò il riferimento di archivio.
 
-Adriana tirò fuori il telefono e cercò un numero che conosceva ancora a memoria, ma che non chiamava da mesi. Dal telefono rispose il custode dell'archivio storico, un uomo che Irene aveva incontrato una sola volta davanti alla macchinetta del caffè.
+«Andiamo a cercare la persona che aveva tenuto il registro. Prima di chiedere al programma di interpretarci il passato, dobbiamo sapere cosa c'è scritto.»
 
-«Il registro c'è», disse dopo una breve verifica. «Ma dovete venire a prenderlo. Non lo sposto senza firma.»
+Il custode dell'archivio rispose al telefono. Conservava ancora il quaderno, ma non avrebbe consegnato l'originale senza registrare l'accesso. Irene e Adriana lo raggiunsero al piano inferiore.
 
-Irene prese il blocco degli appunti.
+Il registro era più piccolo di quanto Irene ricordasse. Aveva una copertina rigida e pagine segnate a matita. A metà una riga collegava il vecchio numero al nuovo e spiegava il motivo della variazione: una classe di documenti non poteva essere riclassificata con la stessa regola degli altri, perché la prima approvazione conservava valore anche dopo l'annullamento di una richiesta successiva.
 
-«Vado io.»
+Irene fotografò la pagina nel modo consentito e tornò in laboratorio. Il programmatore aveva aperto il codice originale.
 
-«Vengo con te», rispose Adriana.
+«Ecco dov'era», disse lui, indicando una condizione scritta anni prima. «Questa funzione non traduce soltanto il codice. Decide quale approvazione rimane valida quando ce ne sono due.»
 
-«Non puoi farlo sempre.»
+«E il test dell'agente?»
 
-Adriana le rivolse uno sguardo che non aveva niente di paternalistico.
+«Prova la conversione. Non prova quel significato.»
 
-«Lo so.»
+Irene sentì insieme sollievo e irritazione. Non c'era stato un malfunzionamento spettacolare. Il programma aveva fatto ciò che il team aveva verificato. Nessuno aveva chiesto di controllare la ragione per cui una vecchia condizione era ancora nella libreria.
 
-Andarono insieme.
+Il programmatore preparò una prova di regressione specifica, poi lesse lui stesso la funzione prima di proporre la correzione. Irene controllò che la nuova prova riportasse la fonte originale e il percorso per recuperarla senza il sistema automatico.
 
-Il registro era più piccolo di quanto Irene si aspettasse. Un quaderno a copertina rigida, con una fascetta consumata e una pagina indice scritta a mano. Dentro c'erano vecchi numeri che non coincidevano più con quelli digitali e correzioni a matita fatte anni prima. L'informazione che cercavano stava in una riga a metà di una pagina: il riferimento collegava la revisione sbagliata a un'approvazione precedente e ne spiegava il motivo.
+Non autorizzarono il rilascio quel pomeriggio. Era necessario verificare un altro cliente che usava la stessa libreria.
 
-Era tutto lì.
+Elena entrò nella stanza poco prima delle cinque.
 
-Irene fotografò la pagina nel modo consentito dal processo, ne trascrisse i riferimenti, preparò una nota con il percorso di riconciliazione e la inviò ai due responsabili che dovevano decidere.
+«Avete risolto?»
 
-Il sistema mostrò **in attesa di avallo umano**.
+«Abbiamo capito cosa non sappiamo ancora», rispose Irene. «E abbiamo trovato il codice che fa la differenza.»
 
-Per la prima volta da quella mattina si sentì di nuovo nel proprio lavoro.
+Elena lesse la nota. Aveva un nuovo campo: **Fonte originale e persone in grado di ricostruire il comportamento in assenza dell'agente**.
 
-Elena arrivò alla riunione del pomeriggio con il tablet sotto il braccio.
+«Questa non era nella procedura», osservò.
 
-«L'hai risolta?» chiese.
+«Dovrebbe esserci.»
 
-«Ho ricostruito la storia del documento. La decisione ora è dei titolari delle approvazioni.»
+Elena non promise un nuovo ruolo senior. Approvò l'inserimento del campo nella proposta di revisione e chiese che venisse provato su almeno un'altra eccezione prima di renderlo obbligatorio.
 
-Elena lesse la nota con attenzione.
+Quando Irene tornò alla scrivania, l'agente aveva già predisposto un riepilogo del lavoro svolto. Era ben scritto, corretto in quasi tutti i punti. Non diceva che avevano passato l'intero pomeriggio a cercare una donna prossima alla pensione e un quaderno di carta.
 
-«Bene. Hai fatto proprio quello che serviva.»
+Irene aggiunse una frase alla fine: *La funzione era presente. La conoscenza necessaria a interpretarla non era più distribuita fra i team.*
 
-Irene sentì il vecchio riflesso di orgoglio. Era durato un secondo, poi si era trasformato in una domanda che non riusciva più a ignorare.
+Rilesse le parole, poi le cancellò. Suonavano come una diagnosi definitiva su persone che avevano soltanto avuto troppo poco tempo.
 
-«Quante persone saprebbero ricostruire quel passaggio senza Bi?»
+Scrisse invece: *Da ripetere con un team che non ha partecipato al ripristino, usando le fonti documentate oggi.*
 
-Elena guardò la pagina del registro.
+Era una verifica. Non una lezione.
 
-«Meno di quante dovrebbero.»
+Prima di uscire rimise il quaderno nel contenitore destinato all'archivio. Adriana era già tornata a casa. Le aveva lasciato un messaggio: *Non dimenticare di far leggere la funzione a qualcuno che non l'ha mai vista.*
 
-«E se Adriana fosse già in pensione?»
+Irene lo copiò nella propria lista del giorno dopo.
 
-«Avremmo perso più tempo. Oppure avremmo trovato l'archivio attraverso un'altra strada, con più rischi di errore.»
+Sul monitor apparvero altri tre ticket pronti per l'approvazione. Li lasciò in attesa fino alla mattina.
 
-«Quindi la riorganizzazione non funziona.»
-
-Elena scosse la testa.
-
-«Funziona quando le informazioni arrivano. Ma dobbiamo migliorare la continuità quando mancano.»
-
-Irene trattenne un sospiro.
-
-«Lo dici come se fosse un campo da aggiungere a un modulo.»
-
-Elena rimase seria.
-
-«Non lo è. E non sto dicendo che la decisione sul ruolo non avrà conseguenze.»
-
-Nessuna delle due pronunciò il nome di Adriana.
-
-Irene guardò la propria nota. In fondo aveva aggiunto un campo che non compariva nel modello automatico: **Dove è conservata l'informazione originale e chi sa trovarla in assenza del sistema**.
-
-Non era una soluzione completa. Era una domanda da porre la prossima volta.
-
-Elena la vide e annuì.
-
-«Teniamola.»
-
-Irene chiuse il fascicolo.
-
-Sapeva che, quando Bi sarebbe tornato, avrebbe potuto compilare quel campo in pochi istanti. Era possibile che fosse proprio la scelta migliore. Ma ormai Irene non riusciva più a confondere il tempo risparmiato con il sapere conservato.
-
-Uscì dalla sala con il registro sotto il braccio.
-
-Sul terminale arrivò una risposta dei responsabili: *Ricevuto. Verifichiamo.*
-
-Irene lasciò il telefono sul tavolo. Il registro cartaceo doveva tornare nell'archivio prima delle diciassette, e mancavano dieci minuti.
+Per una volta non era il sistema a dover aspettare una persona. Era una persona a decidere che il sistema poteva aspettare.
