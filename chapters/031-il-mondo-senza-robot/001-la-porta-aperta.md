@@ -11,6 +11,7 @@ characters:
   - character:grace-morgan
   - character:helen-rivera
   - character:b-32
+  - character:lauren
 locations:
   - location:centro-assistenza-grace
 factions: 
@@ -47,7 +48,7 @@ Julia mise il vassoio sul tavolino.
 
 Grace prese una penna rossa e scrisse il numero di una camera.
 
-«Prima l'acqua. I coperti dopo. Luciana farà il controllo con l'infermiera e io porto la biancheria.»
+«Prima l'acqua. I coperti dopo. Lauren farà il controllo con l'infermiera e io porto la biancheria.»
 
 «Non puoi continuare così.»
 

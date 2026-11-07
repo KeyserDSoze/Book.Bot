@@ -90,7 +90,7 @@ Sarah gli mostrò i registri di due impianti che avrebbero dovuto scambiarsi un 
 
 «Non quando il magazzino deve lavorare con un altro», rispose Sarah. «E ogni produttore ha tempi e responsabilità diversi. Prima di togliere una referenza condivisa, dobbiamo sapere chi continuerà a considerarla valida.»
 
-Noah tornò al foglio con la firma di B-17. Il problema non sembrava più soltanto una parola sbagliata in un documento.
+Noah tornò al rapporto firmato dal Circuito, con B-17 indicato come origine della prova. Il problema non sembrava più soltanto una parola sbagliata in un documento.
 
 «La soluzione ha funzionato per un anno e mezzo.»
 

@@ -44,6 +44,10 @@ Questa guida è la fonte editoriale per **nomi pubblici e relazioni** dopo la mi
 | **Yusuf Karim** | Stagionale esperto dell'azienda agricola |
 | **Daniel Bennett** | Padre di Maya, ex tecnico della sirena |
 
+## Personaggi secondari disambiguati
+
+**Avery** lavora alla baia quattro dell'Hub Levante, dove si è formata per le eccezioni di percorso: non è **Chloe Rivera**, figlia di Helen, che compare nel centro assistenziale. **Lucy** accompagna gli ospiti alla serra; **Lauren** collabora all'assistenza durante il fermo mondiale. Questi nomi sostituiscono rispettivamente un'Elisa omonima, Lucia e Luciana.
+
 ## Visitatori, nomi minori e macchine
 
 **Elias Hart** e **Leah Stone** sono i due interlocutori della delegazione Aruvhana. **Signora Harper** è una residente di Valle Corta; **Charlie** è il pomodoro piccolo a cui Helen dà un nome.

@@ -9,6 +9,7 @@ pov: character:sophie-grant
 characters:
   - character:sophie-grant
   - character:omar-haddad
+  - character:avery
 locations:
   - location:hub-levante
 factions:
@@ -52,15 +53,15 @@ Omar sollevò una spalla.
 
 Sophie annotò l'episodio. Sapeva che sarebbe comparso sul rapporto come *tempo aggiuntivo per verifica*, ma non come manovra sbagliata evitata.
 
-A metà turno incontrò Chloe, un'operatrice che aveva completato il corso per gestire le eccezioni di percorso. Il mese prima le avevano promesso che il nuovo sistema avrebbe creato bisogno di persone capaci di supervisionarlo. Adesso, con la maggior parte delle richieste risolte automaticamente, i turni straordinari di Chloe erano diminuiti.
+A metà turno incontrò Avery, un'operatrice che aveva completato il corso per gestire le eccezioni di percorso. Il mese prima le avevano promesso che il nuovo sistema avrebbe creato bisogno di persone capaci di supervisionarlo. Adesso, con la maggior parte delle richieste risolte automaticamente, i turni straordinari di Avery erano diminuiti.
 
-«Non sto dicendo che il sistema lavori male», disse Chloe, senza rabbia. «Sto dicendo che l'ho studiato per diventare necessaria, e quando finalmente lo so usare mi dicono che ne serviranno meno.»
+«Non sto dicendo che il sistema lavori male», disse Avery, senza rabbia. «Sto dicendo che l'ho studiato per diventare necessaria, e quando finalmente lo so usare mi dicono che ne serviranno meno.»
 
 Sophie guardò il quadro dei turni. Non aveva aperto lei il corso e non poteva promettere un avanzamento che il magazzino non aveva approvato.
 
 «Posso farti assegnare le verifiche difficili per un mese», disse. «Non è una promozione. Ma posso almeno farti lavorare su ciò che hai imparato.»
 
-Chloe ci pensò.
+Avery ci pensò.
 
 «Accetto. Però non scrivere sul rapporto che ho ricevuto una nuova opportunità.»
 

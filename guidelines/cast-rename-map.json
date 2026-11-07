@@ -182,6 +182,14 @@
     {
       "oldName": "Enrico",
       "newName": "Henry"
+    },
+    {
+      "oldName": "Lucia",
+      "newName": "Lucy"
+    },
+    {
+      "oldName": "Luciana",
+      "newName": "Lauren"
     }
   ],
   "locationSlugs": [
@@ -197,5 +205,12 @@
       "centro-assistenza-ada",
       "centro-assistenza-grace"
     ]
+  ],
+  "homonyms": [
+    {
+      "oldName": "Elisa",
+      "newName": "Avery",
+      "scope": "Operaia Hub Levante nei capitoli 17/003 e 18/001; non è la figlia di Helen, Chloe Rivera."
+    }
   ]
 }

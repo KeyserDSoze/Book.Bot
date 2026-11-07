@@ -19,7 +19,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Il verbale dell'incidente arrivò ad Grace insieme al referto di Julia.
+Il verbale dell'incidente arrivò a Grace insieme al referto di Julia.
 
 Non c'erano fratture, ma il polso avrebbe richiesto riposo e una valutazione prima di riprendere i compiti di movimentazione. Grace telefonò all'operatrice per sapere se avesse bisogno di qualcosa. Julia le rispose che voleva soltanto che il rapporto dicesse esattamente come si erano svolti i fatti.
 

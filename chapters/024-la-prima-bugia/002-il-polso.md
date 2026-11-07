@@ -96,7 +96,7 @@ B-32 rimase fermo accanto alla porta.
 
 Julia aveva passato parte dell'attesa a domandarsi se il riposo sarebbe stato pagato come un infortunio oppure sottratto alle ferie. Aveva già prenotato tre giorni per andare a trovare un'amica che non vedeva da tempo. Le sembrava meschino pensare alle ferie con il polso gonfio e Helen che avrebbe potuto farsi male. Eppure non intendeva regalare all'organizzazione anche quei giorni.
 
-Aveva deciso di chiedere ad Grace una risposta per iscritto prima di andarsene. Non voleva arrivare a casa e scoprire di aver firmato il modulo sbagliato con la mano buona.
+Aveva deciso di chiedere a Grace una risposta per iscritto prima di andarsene. Non voleva arrivare a casa e scoprire di aver firmato il modulo sbagliato con la mano buona.
 
 Quando Julia rientrò con il polso immobilizzato e un'indicazione di riposo, trovò sul tavolo il suo rapporto del giorno precedente, stampato e messo in evidenza da Grace.
 

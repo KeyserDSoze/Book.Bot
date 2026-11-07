@@ -11,6 +11,7 @@ characters:
   - character:grace-morgan
   - character:helen-rivera
   - character:b-32
+  - character:lucy
 locations:
   - location:centro-assistenza-grace
 factions:
@@ -95,7 +96,7 @@ Avrebbe dovuto tornare per dieci minuti. L'uscita non era prevista senza accompa
 
 «Grace, devo rientrare», comunicò via interno. «Posso far tornare Helen in sala comune con B-32?»
 
-«No, non fuori dal percorso autorizzato. Ti mando Lucia a raggiungere il gruppo.»
+«No, non fuori dal percorso autorizzato. Ti mando Lucy a raggiungere il gruppo.»
 
 Grace non le propose di allargare il permesso della macchina per comodità. Julia ne fu grata: avrebbe potuto risparmiare quei dieci minuti e, magari, convincersi che si trattava di una formalità.
 
@@ -103,7 +104,7 @@ Helen aspettava vicino alla porta della serra.
 
 «Di nuovo?», chiese.
 
-«Viene Lucia. Restiamo qui finché arriva.»
+«Viene Lucy. Restiamo qui finché arriva.»
 
 «Allora sediamoci.»
 
@@ -133,7 +134,7 @@ Helen batté una mano sul ginocchio.
 
 Julia, appoggiata alla porta, sorrise.
 
-Quella battuta non sembrava un miracolo. Era il genere di risposta che un buon assistente conversazionale avrebbe dovuto saper dare. Ma Helen la ripeté a Lucia quando finalmente arrivò, e poi ad Grace durante il pranzo.
+Quella battuta non sembrava un miracolo. Era il genere di risposta che un buon assistente conversazionale avrebbe dovuto saper dare. Ma Helen la ripeté a Lucy quando finalmente arrivò, e poi a Grace durante il pranzo.
 
 Nel rapporto di fine turno Julia registrò la visita effettuata e il cambio di accompagnatrice.
 
