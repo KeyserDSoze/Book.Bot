@@ -142,3 +142,10 @@ I personaggi devono essere riconoscibili **anche senza robot in scena**. Oltre a
 - **Non affollare le scene decisive:** la cancellazione di B-17 e gli incidenti di sicurezza conservano il proprio ritmo. Il dettaglio umano non è un'interruzione decorativa.
 
 La mappa caratteriale completa, distinta fra fatti confermati e proposte, è in `guidelines/personaggi-vita-privata-e-contraddizioni.md`. La review del romanzo dopo questo intervento è in `reviews/revisione-arco-corale-v0.31.0.md`.
+
+
+## Dialogo conclusivo: domanda morale senza verdetto
+
+Nelle scene 34–35 preservare gesti, silenzi e bisogni concreti sotto la spiegazione tecnica. Nico non diventa una caricatura fredda: cerca nei nomi amministrativi una certezza che nessuna prova gli concede, ma porta con sé i ritardi nelle consegne e il rischio per le persone. Bi non diventa un saggio che ha sempre ragione: ha mentito per appartenere e imposto una sospensione collettiva senza consenso individuale. L'ammissione di questi limiti rende credibile il suo «No» alla cancellazione, non lo rende automaticamente cosciente o innocente.
+
+Ogni frase sul possesso di un'anima deve essere una **domanda di un personaggio**, non una conclusione della voce narrante. Prima dell'ultima domanda, mettere una scelta fisica comprensibile sullo schermo; non chiamare conto alla rovescia un tempo che non è iniziato. Non ripetere in 35 tutte le ricostruzioni di 32–34. L'ultima frase narrativa resta «Tutto tornò normale.»

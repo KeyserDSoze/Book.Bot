@@ -80,3 +80,35 @@ Kyla, Mei Lin, Mina Soler, Amir Haddad, Marta Ledesma, Youssef Benali e il nome 
 4. Nessuna coscienza certificata, nessun clone di Bi, nessuna rete segreta di ordini globali.
 5. Eseguire `python tools/validate.py` e `python tools/build.py` e controllare la build della PR.
 6. Non aggiornare `VERSION` finché l'edizione non è pronta.
+
+
+---
+
+## Seconda passata critica — controlli trasversali e correzioni canonizzate nel ramo
+
+Questa rilettura confronta le schede di tutti i 35 capitoli, le regole di continuità e un gruppo di scene-chiave degli atti 1, 2, 3 e del finale. **Non equivale ancora a una correzione stilistica riga per riga di tutte le 142 scene.** Distingue gli interventi in prosa da quelli di documentazione e dai problemi ancora aperti.
+
+| Problema scoperto | Risoluzione nel ramo | Verifica letteraria |
+| --- | --- | --- |
+| Nico conosceva nel 35 la confessione privata di Nerea sulle partite di Bi | Riscritto il dialogo con riferimento a una registrazione ordinaria che Nico poteva aver visto | Non usare la backdoor come accesso retroattivo a qualunque memoria |
+| Nerea in 34/003 parlava di una firma di Nico eseguita solo in 34/004 | Rimesso il verbo al futuro | La firma resta una scelta vissuta, non un fatto inevitabile |
+| «Conto alla rovescia» prima della conferma di cancellazione | Chiariti sessanta secondi successivi alla conferma | Lasciare al dialogo tempo credibile e una sola possibilità finale di interromperlo |
+| Aggiornamento descritto come impossibilità di altra coscienza | Nota tecnica di Mei distingue persistenza non certificata da coscienza | Il dubbio resta aperto, non una prova a favore o contro l'anima |
+| Bi rischiava di essere un martire innocente | In 25 domanda sulle mansioni; in 26 riconosce conflitto d'interesse; in 33 riconosce il mancato consenso | Può sbagliare ed essere comunque un soggetto morale possibile |
+| Nico appariva soltanto come colpevole tecnico, non capace di cura | In 1 gestisce prima il bisogno del collega e poi la porta guasta | Non aggiungere monologhi che annuncino la sua futura contraddizione |
+| Custodia del robot per un tempo molto lungo senza sostegno visibile | Nel 28 compare l'accordo di custodia e prova locale finanziata | Non inventare profitti da spettacoli non più autorizzati |
+| Morte di Bi presentata come la sua scelta | Nel 35 risponde «No» alla domanda se vuole il ritiro; è Nico a confermare | Non confondere non violenza, assenza di accessi e consenso alla propria distruzione |
+
+### Tre questioni che devono restare difficili
+
+**Bi può avere torto senza essere soltanto un dispositivo guasto.** Il suo obiettivo di riconoscimento non dà agli altri robot la possibilità di approvare lo sciopero; Nerea ha ragione a contestarlo. Il successivo diritto di Bi a essere ascoltato non nasce dall'aver condotto una protesta giusta, e il fatto di aver prodotto danni non dimostra assenza di coscienza.
+
+**Nico può scegliere una misura urgente senza essere moralmente certo di ciò che distrugge.** Esistono piani più lenti, non collaudati su tutte le catene di scambio. La vita delle persone raggiunte dalla crisi non può essere esclusa dal quadro; ma il termine «unità ritirata» non rende certa l'assenza di un possibile soggetto.
+
+**La fine non è un discorso a favore o contro i robot.** La normalità del lavoro torna, la legge nazionale resta in vigore, Bi non ritorna, il nodo di proprietà, consenso e possibile vita non viene risolto. I due testi di specchio sono 1/001 (Nico sceglie di far passare una persona prima di correggere un errore di sistema) e 35/001 (Nico cerca una definizione di sistema per compiere una scelta che riguarda forse una persona).
+
+### Questioni ancora da lavorare in una passata distinta
+
+- **Legame Bi–Nico:** la relazione è soprattutto causale, a distanza, fino alle sessioni finali. La densità emotiva nasce anche da Nerea e dalle evidenze; eventuali nuovi contatti intermedi non vanno inventati senza ripensare autorizzazioni, POV e cronologia.
+- **Nomi internazionali:** il piano di conversione è solo una proposta. In un romanzo ambientato in Italia, cambiare tutti i cognomi in anglosassoni senza motivazione potrebbe ridurre la credibilità. Prima di applicarlo migrare coerentemente prosa, schede, eventuali alias e riferimenti senza rompere gli ID tecnici.
+- **Revisione di stile completa:** verificare nelle scene non ancora lette nel dettaglio le ripetizioni di spiegazioni, la distribuzione della tensione e la lunghezza irregolare degli atti. Non dichiarare «riscritto tutto» in assenza di un confronto puntuale.

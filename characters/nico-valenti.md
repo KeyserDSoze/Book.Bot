@@ -50,3 +50,8 @@ La sua scelta clandestina avviene dopo il periodo di lavoro nei giardini del cap
 ## Raccordo finale v0.34 — il lessico del ritiro
 
 Nico contribuisce sotto supervisione alla predisposizione del programma di cancellazione locale dell'unità B-17, chiamato *virus* nelle conversazioni; la sua esecuzione è autorizzata da altri e non può diffondersi nelle flotte. Conosce percorsi più lenti che non salvano in tempo tutte le persone coinvolte dalla crisi. Cerca tuttavia un sollievo morale nel distinguere una macchina da una persona: se Bi non è vivo, non sta uccidendo nessuno. Nel confronto finale Bi smonta la certezza di questa giustificazione senza accusarlo né perdonarlo. Nico prende comunque la decisione con mano umana; la sua pena non deve diventare una prova retroattiva dell'anima del robot.
+
+
+### Correzioni di conoscenza e svolta morale — revisione in corso
+
+Nel cap. 1 Nico non ignora il bisogno dell'addetto bloccato alla porta: lo fa passare attraverso un ingresso alternativo e poi torna alla verifica. Nel cap. 35 ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Nerea; non usare la sua passata backdoor per colmare questo vuoto. Quando Nerea lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. Egli stesso è chiamato a scegliere, non è costretto a confermare il ritiro. La prova che non ha omesso questa volta non equivale a un'assoluzione.

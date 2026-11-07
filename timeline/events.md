@@ -156,3 +156,14 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **Cap. 27:** sono passati 18 mesi; Irene assiste a programmazione tramite colloquio con un robot, test prodotti dagli agenti e approvazione umana. La libreria usata è salvata in foto, non comprata.
 - **Cap. 30:** il giorno dopo la legge, alle 17:00 italiane, i robot coordinati si fermano. Gli agenti software restano attivi, le autorizzazioni non tornano valide da sole. Nessun personaggio identifica Bi come causa.
 - **Cap. 35:** resta l'acquisto della libreria da raccontare a Nerea, la riparazione della lampada di Nico e l'ultima frase del romanzo.
+
+
+## Tracce della revisione tematica in corso — non nuova cronologia di eventi
+
+- **Cap. 1:** Nico lascia passare un collega bloccato da una porta difettosa tramite un percorso alternativo, poi riprende il controllo tecnico. Il gesto appartiene al POV di Kyla e non anticipa il potenziamento segreto.
+- **Cap. 25:** nella prova locale Bi chiede chi informerebbe i lavoratori dello scenario che riduce alcune mansioni; Mina attribuisce la decisione e la comunicazione a Cyberdine.
+- **Cap. 26:** nella sessione con Nerea Bi riconosce che poteva dichiarare il conflitto di ruolo senza divulgare l'analisi riservata. Nerea conclude ugualmente l'incontro prima del tempo.
+- **Cap. 28:** Nerea vede la proroga finanziata della custodia di B-17 nel laboratorio di Veyra; nessuna ripresa delle simulazioni pubbliche.
+- **Cap. 33:** alla critica di Nerea sulla sospensione senza consenso degli altri robot, Bi riconosce il limite senza rinunciare alla rivendicazione. I produttori preparano politiche di ripristino e contenimento che **non possono certificare l'assenza di coscienza**.
+- **Cap. 34:** Nerea affronta Nico prima della firma, che resta scena 004; il piano di revoca contiene il pacchetto locale di cancellazione distruttiva e l'aggiornamento dei fornitori, con scopi e perimetri separati.
+- **Cap. 35:** Nico domanda se Bi desideri la procedura e riceve «No»; il rifiuto non conferisce uno status giuridico ma rende esplicito che non è il robot a consentire. Nico procede comunque dopo il colloquio. I sessanta secondi decorrono solo dalla conferma. L'epilogo della lampada, il ritorno progressivo del lavoro e l'ultima frase del romanzo restano invariati.
