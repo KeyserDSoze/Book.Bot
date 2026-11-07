@@ -31,13 +31,13 @@ Quando tornò, la lavanderia le aveva già telefonato due volte.
 
 Ada verificò la richiesta, aggiornò la destinazione, fece riprendere l'unità. Il carrello arrivò al piano previsto con ventidue minuti di ritardo. Giulia non le disse nulla. Ada avrebbe preferito una lamentela: era più facile da affrontare di una collega che aveva imparato a risolvere il problema da sola.
 
-Non era un'emergenza. Nessuno aveva rischiato la vita. Ma Giulia aveva lasciato un'attività che stava facendo con un ospite, un'altra collega aveva trasportato a mano parte della biancheria e una donna nella sala comune aveva aspettato più a lungo del necessario che qualcuno l'accompagnasse in giardino.
+Non era un'emergenza. Nessuno aveva rischiato la vita. Una collega aveva trasportato a mano parte della biancheria; Giulia aveva lasciato in sala comune una donna già vestita per uscire.
 
-Ada chiese a Giulia quale attività avesse interrotto per portare le lenzuola a mano.
+«Doveva andare in serra», disse Giulia. «Aveva già messo il cardigan. Adesso dobbiamo distribuire il pranzo.»
 
-«La passeggiata con la signora del secondo piano. Era già pronta con il cappotto.»
+«Le parlo io», rispose Ada.
 
-Ada prese nota accanto al ritardo della lavanderia. Non c'era un campo per gli appuntamenti saltati.
+Accanto ai ventidue minuti del ritardo scrisse a mano *visita rinviata*. Il registro delle consegne non aveva una casella per quello.
 
 Nel pomeriggio Ada aprì la comunicazione del fornitore. Parlava di segnalazioni in più siti per richieste di conferma persistenti e di una verifica delle configurazioni locali di Collaborazione Contestuale. Suggeriva di non estendere il programma fino al completamento della revisione e di mantenere gli arresti di sicurezza indipendenti dal modulo linguistico.
 
