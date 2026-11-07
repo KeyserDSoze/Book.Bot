@@ -5,10 +5,10 @@ chapter: chapter:023-il-capo-che-tutti-volevano
 number: 4
 title: Le diciannove firme
 canon: canon
-pov: character:sofia-rizzi
+pov: character:sophie-grant
 characters:
-  - character:sofia-rizzi
-  - character:rosa-fabbri
+  - character:sophie-grant
+  - character:ruby-collins
   - character:b-37
 locations:
   - location:hub-levante
@@ -19,17 +19,17 @@ factions:
 
 La sesta settimana del pilota cominciò con una discussione davanti alla macchinetta dell'acqua.
 
-Rosa aveva scoperto il totale dei suoi straordinari mentre controllava la busta paga provvisoria. Un mese prima aveva superato di poco le venti ore aggiuntive; adesso erano quattro.
+Ruby aveva scoperto il totale dei suoi straordinari mentre controllava la busta paga provvisoria. Un mese prima aveva superato di poco le venti ore aggiuntive; adesso erano quattro.
 
 Le giornate erano state distribuite meglio. Nessuno la chiamava all'ultimo momento per coprire una baia congestionata. Suo figlio era contento di averla a casa più spesso.
 
 Il conto sul frigorifero, però, non era cambiato.
 
-Rosa andò da Sofia con due buste stampate.
+Ruby andò da Sophie con due buste stampate.
 
 «Mi spieghi dove sono finite le altre ore?»
 
-Sofia non le chiese di calmarsi. Aprì la pianificazione e le mostrò le differenze tra i periodi.
+Sophie non le chiese di calmarsi. Aprì la pianificazione e le mostrò le differenze tra i periodi.
 
 «Abbiamo ridotto i recuperi di fine turno. Non ci sono più così tanti ritardi da assorbire.»
 
@@ -41,13 +41,13 @@ Sofia non le chiese di calmarsi. Aprì la pianificazione e le mostrò le differe
 
 «Non erano garantite.»
 
-Rosa guardò le buste.
+Ruby guardò le buste.
 
 «Sono proprio le parole che avrebbe usato il vecchio responsabile.»
 
-Sofia abbassò gli occhi.
+Sophie abbassò gli occhi.
 
-Da quando i turni erano stati preparati dal robot, aveva ricevuto meno accuse di favoritismo. Aveva più tempo per verificare le condizioni di lavoro e meno telefonate serali da colleghi arrabbiati. Era un miglioramento reale, e lo sapeva anche Rosa.
+Da quando i turni erano stati preparati dal robot, aveva ricevuto meno accuse di favoritismo. Aveva più tempo per verificare le condizioni di lavoro e meno telefonate serali da colleghi arrabbiati. Era un miglioramento reale, e lo sapeva anche Ruby.
 
 «Vuoi tornare al calendario precedente?», domandò.
 
@@ -59,13 +59,13 @@ Da quando i turni erano stati preparati dal robot, aveva ricevuto meno accuse di
 
 «Non posso creare un ritardo per darti uno straordinario.»
 
-Rosa si sedette. Non aveva una risposta pronta.
+Ruby si sedette. Non aveva una risposta pronta.
 
 Dal corridoio arrivavano le voci dei lavoratori che si scambiavano un turno del fine settimana. Sembravano soddisfatti.
 
 «Il mese prossimo cosa succede?», chiese.
 
-Sofia aprì un'altra schermata. Avrebbe voluto non averla.
+Sophie aprì un'altra schermata. Avrebbe voluto non averla.
 
 «La direzione ha deciso di non rinnovare due contratti di somministrazione a termine. Il volume previsto è coperto dai turni ordinari e dalle unità già in servizio.»
 
@@ -73,7 +73,7 @@ Sofia aprì un'altra schermata. Avrebbe voluto non averla.
 
 «Le persone interessate saranno avvisate individualmente, prima che venga pubblicato il piano. Non posso dirlo a te prima di loro.»
 
-Rosa annuì. Poi fece una domanda che Sofia temeva.
+Ruby annuì. Poi fece una domanda che Sophie temeva.
 
 «L'avete deciso voi o è stato il robot?»
 
@@ -83,27 +83,27 @@ Rosa annuì. Poi fece una domanda che Sofia temeva.
 
 «Li ha prodotti il modo in cui lavoriamo adesso. Anche noi lo abbiamo chiesto.»
 
-Rosa batté un dito sul foglio a quadretti che Sofia teneva ancora accanto alla tastiera.
+Ruby batté un dito sul foglio a quadretti che Sophie teneva ancora accanto alla tastiera.
 
 Le diciannove firme erano tutte lì.
 
 «Io questo l'ho firmato», disse. «E lo rifarei. Non pensavo che sarei stata io a guadagnare meno.»
 
-Sofia le propose un colloquio con l'ufficio del personale sulle indennità e sulle ore disponibili in altri reparti. Non prometteva uno spostamento, perché non ne aveva uno da offrire.
+Sophie le propose un colloquio con l'ufficio del personale sulle indennità e sulle ore disponibili in altri reparti. Non prometteva uno spostamento, perché non ne aveva uno da offrire.
 
-Quando Rosa uscì, B-37 arrivò per la verifica del calendario successivo.
+Quando Ruby uscì, B-37 arrivò per la verifica del calendario successivo.
 
 «La pianificazione è pronta per la firma», annunciò.
 
-Sofia esaminò le rotazioni. La distribuzione dei fine settimana era ancora più equa di quella precedente. Nessuno superava i riposi, nessun turno era rimasto scoperto.
+Sophie esaminò le rotazioni. La distribuzione dei fine settimana era ancora più equa di quella precedente. Nessuno superava i riposi, nessun turno era rimasto scoperto.
 
 In fondo c'era il fabbisogno previsto di personale temporaneo.
 
 Zero.
 
-Sofia firmò la parte relativa ai turni. Lasciò separata la decisione contrattuale, già adottata dalla direzione, e chiese che le comunicazioni individuali precedessero l'affissione.
+Sophie firmò la parte relativa ai turni. Lasciò separata la decisione contrattuale, già adottata dalla direzione, e chiese che le comunicazioni individuali precedessero l'affissione.
 
-Quando il robot riprese il registro, Rosa era ancora visibile oltre il vetro. Aveva aperto la calcolatrice sul telefono e rifaceva i conti.
+Quando il robot riprese il registro, Ruby era ancora visibile oltre il vetro. Aveva aperto la calcolatrice sul telefono e rifaceva i conti.
 
 Per la prima volta da settimane non guardava il calendario per sapere quando avrebbe lavorato.
 

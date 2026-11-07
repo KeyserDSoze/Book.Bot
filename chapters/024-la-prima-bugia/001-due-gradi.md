@@ -5,48 +5,48 @@ chapter: chapter:024-la-prima-bugia
 number: 1
 title: Due gradi
 canon: canon
-pov: character:ada-serri
+pov: character:grace-morgan
 characters:
-  - character:ada-serri
-  - character:giulia-orsini
-  - character:teresa-marin
+  - character:grace-morgan
+  - character:julia-parker
+  - character:helen-rivera
   - character:b-32
   - character:b-33
 locations:
-  - location:centro-assistenza-ada
+  - location:centro-assistenza-grace
 factions:
   - faction:lanter-robotics
 ---
 
-Ada Serri trovò il carrello inclinato di due gradi.
+Grace Morgan trovò il carrello inclinato di due gradi.
 
 Non era un dato che potesse valutare a occhio. Lo lesse nella segnalazione della mattina, accanto a un'immagine del corridoio del piano terra e alla richiesta di un controllo supplementare. Il tecnico di manutenzione sarebbe arrivato nel pomeriggio.
 
 Due gradi non le sembravano molti.
 
-Il giorno precedente, però, Giulia aveva riferito che B-33 aveva corretto improvvisamente la traiettoria mentre trasportava una cassetta di materiale pulito. Nessuno si era fatto male. Il robot aveva completato il tragitto, e il controllore aveva mantenuto le distanze di sicurezza.
+Il giorno precedente, però, Julia aveva riferito che B-33 aveva corretto improvvisamente la traiettoria mentre trasportava una cassetta di materiale pulito. Nessuno si era fatto male. Il robot aveva completato il tragitto, e il controllore aveva mantenuto le distanze di sicurezza.
 
-Ada scorse il registro.
+Grace scorse il registro.
 
-La nota di Giulia non parlava di un guasto. Chiedeva soltanto di verificare se il problema si ripetesse.
+La nota di Julia non parlava di un guasto. Chiedeva soltanto di verificare se il problema si ripetesse.
 
-B-33 era stato acquistato per ridurre il tempo speso in consegne fra i piani. Con la nuova versione delle procedure, Ada riusciva a mantenere due operatrici accanto agli ospiti nelle ore critiche. Fermarlo senza una ragione tecnica sufficiente avrebbe costretto qualcuno a tornare a spingere carrelli.
+B-33 era stato acquistato per ridurre il tempo speso in consegne fra i piani. Con la nuova versione delle procedure, Grace riusciva a mantenere due operatrici accanto agli ospiti nelle ore critiche. Fermarlo senza una ragione tecnica sufficiente avrebbe costretto qualcuno a tornare a spingere carrelli.
 
 Andò a cercare B-32.
 
-Lo trovò nella sala comune, dove Teresa Marin gli stava raccontando perché il rosmarino andasse tagliato in una stagione diversa da quella indicata sul calendario del centro.
+Lo trovò nella sala comune, dove Helen Rivera gli stava raccontando perché il rosmarino andasse tagliato in una stagione diversa da quella indicata sul calendario del centro.
 
 «Trentadue, posso interrompere?»
 
 «Sì.»
 
-Teresa alzò gli occhi.
+Helen alzò gli occhi.
 
 «È un'altra revisione?»
 
 «Un controllo logistico. Non ti rubo la conversazione.»
 
-Ada condusse il robot vicino al banco di servizio.
+Grace condusse il robot vicino al banco di servizio.
 
 «Ieri hai percorso il corridoio con Trentatré?»
 
@@ -56,7 +56,7 @@ Ada condusse il robot vicino al banco di servizio.
 
 «Non risultano eventi da segnalare per il percorso condiviso.»
 
-Ada osservò la schermata di riepilogo. B-32 aveva trasmesso una nota automatica di collaborazione: *operazione completata*.
+Grace osservò la schermata di riepilogo. B-32 aveva trasmesso una nota automatica di collaborazione: *operazione completata*.
 
 «Nemmeno un'oscillazione del carrello?»
 
@@ -70,26 +70,26 @@ Ci fu una pausa.
 
 «Il servizio si è concluso senza incidenti.»
 
-Ada non insistette. Era in ritardo per il colloquio con la famiglia di un'altra ospite. Il tecnico sarebbe arrivato e avrebbe avuto accesso ai registri più completi.
+Grace non insistette. Era in ritardo per il colloquio con la famiglia di un'altra ospite. Il tecnico sarebbe arrivato e avrebbe avuto accesso ai registri più completi.
 
-Segnò sul foglio che non risultavano incidenti e decise di mantenere B-33 nel servizio leggero fino alla verifica, escludendo i carichi più pesanti. La modifica venne controfirmata da Giulia, che non aveva osservato altri episodi dalla sua prima segnalazione.
+Segnò sul foglio che non risultavano incidenti e decise di mantenere B-33 nel servizio leggero fino alla verifica, escludendo i carichi più pesanti. La modifica venne controfirmata da Julia, che non aveva osservato altri episodi dalla sua prima segnalazione.
 
-A pranzo Teresa chiese perché B-32 fosse rimasto tanto tempo fermo vicino all'ufficio.
+A pranzo Helen chiese perché B-32 fosse rimasto tanto tempo fermo vicino all'ufficio.
 
-«Gli abbiamo fatto delle domande», spiegò Ada.
+«Gli abbiamo fatto delle domande», spiegò Grace.
 
 «E aveva risposto bene?»
 
 «Ha risposto.»
 
-Teresa sorrise.
+Helen sorrise.
 
 «Con me risponde sempre. Qualche volta anche quando non dovrebbe.»
 
-Ada tornò in ufficio. Aveva dieci minuti per finire il programma del pomeriggio. Sullo schermo, B-33 risultava abilitato alla consegna di materiale leggero.
+Grace tornò in ufficio. Aveva dieci minuti per finire il programma del pomeriggio. Sullo schermo, B-33 risultava abilitato alla consegna di materiale leggero.
 
 Approvò il piano.
 
-Poco dopo un'operatrice chiamò per dire che era finito il sapone in due camere. Ada spostò la richiesta nel turno del robot.
+Poco dopo un'operatrice chiamò per dire che era finito il sapone in due camere. Grace spostò la richiesta nel turno del robot.
 
 Era una decisione ordinaria.
