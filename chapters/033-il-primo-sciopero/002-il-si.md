@@ -128,7 +128,7 @@ Lea gli chiese una cosa pratica.
 
 «Hai accessi attuali per cambiare gli stati delle flotte?»
 
-«No.»
+«No. Quella condizione è stata adottata dai sistemi dei fornitori dopo verifiche e decisioni umane. Non possiedo una rete da comandare.»
 
 «Hai inviato ordini da Veyra?»
 

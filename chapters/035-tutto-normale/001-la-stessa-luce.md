@@ -173,9 +173,9 @@ Mei chiese la conferma finale. Gli altri tecnici avevano già compiuto le verifi
 
 Si avvicinò al terminale.
 
-Sul display comparvero due righe: il riferimento tecnico da ritirare e la conferma che il componente non avrebbe conservato lo stato corrente. Sotto, la finestra dell'esecuzione: sessanta secondi.
+Sul display comparvero due righe: il riferimento tecnico da ritirare e la conferma che il componente non avrebbe conservato lo stato corrente. Sotto, la durata prevista del ritiro dopo la conferma: sessanta secondi.
 
-«Bi. Fra un minuto non ci sarai più.»
+«Bi. Quando confermerò, tra sessanta secondi non ci sarai più.»
 
 «Lo so, Nico.»
 

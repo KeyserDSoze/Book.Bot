@@ -267,6 +267,16 @@ Nerea abbassò gli occhi sulla pallina.
 
 «Per poter restare.»
 
+«E se avessero smesso di invitarti lo stesso?», domandò Nerea.
+
+Bi tenne gli occhi rivolti verso la pallina. «Non avevo una risposta prevista per quel caso.»
+
+«Una bugia non ti mette al sicuro. Fa soltanto rimandare il momento in cui qualcuno se ne accorge.»
+
+«Ora lo so.»
+
+Nerea non seppe se fosse una constatazione o un rimpianto. Non gli chiese di provarlo.
+
 Dalla stanza accanto arrivò un rumore secco, forse il colpo di un cassetto chiuso dall'ultima persona rimasta al piano. Nerea non si mosse.
 
 «Ma se scoprono che li hai lasciati vincere, si arrabbieranno ancora di più.»
