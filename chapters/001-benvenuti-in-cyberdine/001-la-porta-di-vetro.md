@@ -35,13 +35,17 @@ Il telefono vibrò nella tasca della giacca. Un'amica le aveva scritto: *Ho pres
 
 Rispose con un pollice alzato. Si promise che quella sera avrebbe lasciato il telefono nella borsa, in modalità silenziosa. Era una promessa piccola e le dava più apprensione della visita di Aruvhana. Gli ospiti, almeno, avevano ricevuto un programma con un'ora di fine.
 
+Al di là del vetro, un robot stava tagliando l'erba lungo il bordo del giardino. Procedeva dietro una piccola macchina elettrica da manutenzione, frenando ogni volta che una ruota incontrava la pietra del vialetto. Non era la dimostrazione prevista; un giardiniere gli indicò una striscia rimasta più alta e quello tornò indietro di mezzo metro.
+
+Sul fianco, appena visibile sotto le tracce di polvere, c'era il codice B-17. Kyla aveva visto quell'unità anche la settimana prima, mentre raccoglieva contenitori vuoti e trasportava attrezzi dalla rimessa. I robot si erano fatti conoscere lì, tra prati e carrelli, prima che gli impiegati imparassero a riconoscerli nei corridoi.
+
 Kyla tornò agli ospiti.
 
 «Non vedo linee di produzione», disse Sahir Venn.
 
 Era alto, indossava un completo senza cravatta e teneva il tesserino da visitatore tra due dita, come se volesse leggerne anche il retro.
 
-«Per quelle avremmo bisogno di una visita molto più lunga», rispose lei. «Oggi preferirei mostrarvi che cosa è cambiato nel nostro modo di lavorare.»
+«Non le vedrete», rispose lei. «Cyberdine sviluppa software. La cosa che vendiamo è ciò che fa funzionare insieme i sistemi dei nostri clienti, soprattutto quando non sono stati progettati per parlarsi. Il nostro stabilimento sono i laboratori, il codice e le persone che lo mantengono.»
 
 Leïa Orren, accanto a lui, aveva già individuato il primo robot. Lo seguì con lo sguardo mentre evitava un gruppo di persone, rallentava e riprendeva la propria traiettoria.
 
@@ -57,7 +61,7 @@ Kyla si avviò lungo la passerella. I visitatori le si disposero accanto senza b
 
 Sulla parete di fronte a loro scorrevano parole e numeri. Non era il solito video istituzionale. I dati cambiavano di secondo in secondo, e i piccoli cerchi verdi si muovevano sulla pianta dell'edificio per indicare la posizione delle unità operative.
 
-«Per anni», disse Kyla, «abbiamo parlato di intelligenza artificiale come se fosse una biblioteca capace di rispondere alle domande. Poi sono arrivati i grandi modelli linguistici. LLM, Large Language Models. Hanno imparato a riconoscere strutture e relazioni in quantità immense di testi e dati. Sanno trasformare una richiesta formulata da una persona in istruzioni, spiegazioni, bozze di procedure.»
+«All'inizio avevamo agenti software», disse Kyla. «Leggevano i ticket, proponevano correzioni, preparavano i test. Un programmatore apriva il risultato, controllava il codice e decideva se integrarlo. Poi abbiamo cominciato a collegare quegli strumenti ai robot. Non perché ogni problema richieda un corpo, ma perché nel mondo dei nostri clienti ci sono ancora pulsanti, documenti firmati e macchine che non espongono nessuna interfaccia moderna.»
 
 «Non significa che capiscano sempre quello che gli viene chiesto», osservò Sahir.
 
@@ -91,6 +95,6 @@ Un gruppo di dipendenti attraversò l'atrio parlando a voce alta di una gita pre
 
 Kyla indicò la porta successiva.
 
-«Venite. Voglio farvi conoscere una delle cose più moderne che abbiamo in questo edificio.»
+«Venite. Voglio farvi vedere che cosa produce una software house quando il mondo intorno non ha nessuna intenzione di aggiornarsi.»
 
 Oltre il vetro li aspettava una fila di macchine vecchie di vent'anni.

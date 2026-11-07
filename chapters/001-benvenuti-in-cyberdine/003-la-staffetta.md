@@ -68,13 +68,13 @@ Era la parte della visita che Kyla amava di più. Davanti ai numeri sapeva esser
 
 «Nel nostro primo sondaggio dopo l'introduzione dei bot», proseguì, «i colleghi non ci hanno chiesto di fare meno cose. Ci hanno chiesto di poter fare cose migliori. Alcuni seguono la qualità delle proposte; altri costruiscono nuovi processi o formano chi li usa. Persino chi era stato assunto per verificare campi in una tabella ora coordina più unità operative.»
 
-Sahir fece un mezzo sorriso. «Quindi adesso siete tutti manager.»
+Sahir fece un mezzo sorriso. «Quindi adesso siete tutti manager. Anche quelli che scrivevano codice?»
 
 «Più di quanto avremmo creduto possibile. Manager di robot. Manager di gruppi di robot. E, quando la struttura cresce, manager di persone che a loro volta coordinano quei gruppi.»
 
 «Un'azienda fatta soltanto di responsabili?»
 
-«Di persone che rispondono delle cose importanti. Non è lo stesso.»
+«Di persone che rispondono delle cose importanti. Chi ieri passava ore a scrivere adattatori fra due versioni di un programma oggi può descrivere una modifica a un agente, valutarne le prove e firmare il rilascio. Non significa che smettiamo di sapere programmare.» Kyla ci credeva. Quella mattina, nella sala di sviluppo, aveva visto persone con più tempo per progettare invece che correggere per la quarta volta lo stesso collegamento.
 
 Kyla ricordò la riunione in cui una collega del personale, prima incaricata di rincorrere documenti incompleti, aveva presentato un progetto formativo che aspettava da tre anni. Lo aveva fatto senza dover chiedere a qualcun altro di recuperare il suo lavoro rimasto indietro. La proposta era stata approvata prima della fine della settimana.
 

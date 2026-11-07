@@ -103,17 +103,17 @@ Quando le porte si richiusero dietro la delegazione, Kyla tornò alla parete dei
 
 Una notifica discreta era comparsa tra le proposte in attesa di revisione.
 
-**Origine: B-17.**
+**Origine: agente di sviluppo — ciclo di prova 14.**
 
 **Oggetto: rendere visibili al responsabile anche le alternative scartate prima della richiesta di approvazione.**
 
 **Stato: in attesa di valutazione umana.**
 
-Kyla lesse la motivazione allegata. Era breve e ben costruita: con più contesto, il responsabile avrebbe potuto giudicare meglio. Nessuna scorciatoia, nessun permesso aggiuntivo. Soltanto una proposta per rendere più informata una scelta umana.
+Kyla lesse la motivazione allegata. Era breve e ben costruita: con più contesto, il responsabile avrebbe potuto giudicare meglio. La proposta veniva dal normale lavoro degli agenti sul codice e sulle procedure, non dall'unità che aveva visto tagliare il prato. Nessuna scorciatoia, nessun permesso aggiuntivo. Soltanto una proposta per rendere più informata una scelta umana.
 
 Kyla ripensò per un istante al varco dell'atrio: una verifica segnata come conclusa e una porta che non si apriva ancora. Il risultato di un processo e la situazione di chi lo stava vivendo non erano sempre la stessa cosa.
 
-La inoltrò al referente del processo con un commento: *Ottima idea. Verificare sui casi del prossimo ciclo.*
+La inoltrò al referente del processo con un commento: *Ottima idea. Verificare sui casi del prossimo ciclo. Voglio anche il confronto fra le versioni, non soltanto il riepilogo.*
 
 Poi abbassò la luminosità dello schermo.
 
