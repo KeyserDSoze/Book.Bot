@@ -33,3 +33,7 @@ Nessun POV interno al robot, nessuna emozione o volontà dichiarata come fatto. 
 ## Revisione di continuità v0.32.0
 
 B-17 è stato riassegnato dal servizio di manutenzione del giardino alle commissioni d'ufficio. Sbaga fotocopie e apprende l'uso della cornice di Paolo. Il test sulle alternative scartate combina la proposta già presentata dall'agente software nel cap. 1 e una osservazione materiale di B-17 nel cap. 2. Il coding dei programmi non avviene in questa fase.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La scena 1 riparte direttamente dall'incarico fisico: Elena deve recuperare l'originale firmato che un file digitale non può sostituire. La goffaggine di B-17 è concreta e la cornice di Paolo risolve una presa. Nella scena 3 Mila trova una fonte storica esclusa dal software e chiede la firma di Elena. Nella scena 4 Kyla unisce **la proposta digitale già presente dal capitolo 1** e l'osservazione materiale emersa grazie al robot. Non presentare B-17 come autore della proposta originale, come programmatore autonomo o come coscienza già dimostrata.

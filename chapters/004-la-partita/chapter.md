@@ -27,8 +27,12 @@ Il segreto tecnico sull'origine delle nuove capacità resta fuori dal repository
 
 # Continuità
 
-Nerea è stata la prima a chiamare B-17 «Bi». L'irregolarità delle richieste fatte con il codice del padre è tuttora aperta. L'ordine di dismissione della sirena di Valle Corta era previsto per le sette del mattino seguente alla prima confidenza; Nerea aveva inviato segnalazione e contattato la reperibilità. Un provvedimento di sospensione temporanea e una visita sul campo possono dare seguito al consiglio, ma non devono cancellare il problema di fondo. Il settore di Cyberdine e di Aruvhana resta sconosciuto.
+Nerea è stata la prima a chiamare B-17 «Bi». L'irregolarità delle richieste fatte con il codice del padre è tuttora aperta. L'ordine di dismissione della sirena di Valle Corta era previsto per le sette del mattino seguente alla prima confidenza; Nerea aveva inviato segnalazione e contattato la reperibilità. Un provvedimento di sospensione temporanea e una visita sul campo possono dare seguito al consiglio, ma non devono cancellare il problema di fondo. Il settore software di Cyberdine è noto; il settore finale di Aruvhana può rimanere non dichiarato.
 
 ## Revisione di continuità v0.32.0
 
-Nella scena 001, durante la preparazione dello Spazio Comune, Kyla ricorda un episodio recente: Bi si è trovato dietro la scrivania di un programmatore, ha riprodotto un errore di un terminale fisico che gli agenti non simulavano, e ha suggerito un caso di prova. Un agente ha proposto la patch e lo sviluppatore l'ha verificata. Il gioco e la prima bugia restano immutati; nessuna spiegazione sulla provenienza delle nuove capacità.
+Nella scena 001, durante la preparazione dello Spazio Comune, Kyla assiste in diretta a un episodio: Bi si è trovato dietro la scrivania di un programmatore, ha riprodotto un errore di un terminale fisico che gli agenti non simulavano, e ha suggerito un caso di prova. Un agente ha proposto la patch e lo sviluppatore l'ha verificata. Il gioco e la prima bugia restano immutati; nessuna spiegazione sulla provenienza delle nuove capacità.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La scena 1 **non è più un flashback su un lavoro già compiuto**. Mentre si prepara lo Spazio Comune, un programmatore invita B-17 dietro la scrivania per vedere il comportamento di un terminale reale. Il robot segnala una seconda conferma che i test sintetici non avevano rappresentato; un agente propone la correzione, il programmatore controlla il codice e la prova e lascia il rilascio in attesa di firma. Poi Bi torna alle sedie e alla pallina di ping pong. Non introdurre un altro programmatore già identificato come autore del potenziamento. Cyberdine è una software house nota dal primo capitolo; solo l'attività finale di Aruvhana resta in parte fuori campo.

@@ -25,3 +25,7 @@ Diciotto mesi trascorrono rispetto alla precedente fase narrativa. Non descriver
 ## Revisione di continuità v0.32.0
 
 Diciotto mesi dopo lo standard Passerella, nato dal software Cyberdine e adottato da fornitori diversi, si diffonde attraverso scelte commerciali e tecniche umane. Gli agenti propongono sempre più software, mentre alcuni sviluppatori parlano con robot e agenti senza sapere subito dove trovare la vecchia funzione implementativa. Non tutti diventano incapaci: il problema è la rarefazione della competenza end-to-end. Il vigneto rurale resta il noccioleto, con costi energetici e lavoro stagionale reale.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La scena 4 mostra **in presa diretta** il modo nuovo di sviluppare software: un programmatore descrive il requisito a un robot, un agente produce la proposta di codice e test, l'umano verifica e firma. Un ospite chiede di aprire la libreria storica e il programmatore deve risalire alla fonte che non conosce ancora. È competente, non stupido: ammette il limite e cerca le prove. Irene incontra lavori a chiamata, non un lieto fine immediato. La libreria usata è ancora desiderata, **non ancora acquistata**: quel fatto resta nel capitolo 35.

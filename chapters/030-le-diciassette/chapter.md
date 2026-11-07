@@ -27,3 +27,7 @@ Lo stop avviene il **giorno dopo il voto** alle **17:00 ora italiana**, ossia ne
 ## Revisione di continuità v0.32.0
 
 Alle 17:00 italiane la vasta flotta robotica coordinata si ferma in sicurezza, non gli agenti software in quanto tali. A Cyberdine patch e test possono continuare a essere generati, ma i controlli di disponibilità non consentono movimenti fisici. Il campus vede il limite di un'organizzazione in cui programmatori e responsabili hanno perso visibilità delle dipendenze. Non svelare Bi né il meccanismo dello sciopero in questo capitolo.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La scena 5 rende esplicita la separazione: **alle 17:00 italiane B-21 e le flotte coordinate si fermano in sicurezza, mentre gli agenti software continuano a produrre patch, test e riepiloghi**. Non esiste una soluzione di riavvio dal sistema di sviluppo; per Lea la catena delle attestazioni va verificata con i fornitori e i controllori locali. Kyla non usa le stime di un test locale come previsione di un fermo globale. Nerea chiama Bruno e pensa alle medicine da consegnare a Valle Corta. Nessuno collega ancora la sospensione a Bi.

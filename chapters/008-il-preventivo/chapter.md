@@ -31,3 +31,7 @@ Le configurazioni e la causa del precedente salto di capacità non vanno rivelat
 ## Revisione di continuità v0.32.0
 
 Nella plenaria Verri presenta risultati e fragilità di una **software house**, non di una società dal settore nascosto. La perdita di Bi colpisce anche i programmi di sviluppo e QA collegati ai terminali reali. La mancata riparazione, la cessazione dei rapporti di Dario e Mauro e i vincoli di sicurezza restano invariati.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La scena 4 sostituisce l'idea del solo lavoro cartaceo con la perdita di **test di integrazione fra software e terminali reali**. Irene e un programmatore leggono il codice e provano una regressione che l'agente non aveva previsto. Il mese senza Bi costa molto, ma gli strumenti digitali non sono scomparsi. Adriana è in pensione dopo la sua uscita fra i capitoli 7–8. Nessun intervento cambia la scelta di Verri di non riparare B-17, la responsabilità di Dario/Mauro o il costo della sostituzione.

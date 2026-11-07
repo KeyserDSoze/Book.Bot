@@ -31,3 +31,7 @@ Dario e Mauro sono sospesi cautelativamente dall'accesso operativo dopo l'aggres
 ## Revisione di continuità v0.32.0
 
 Dopo l'assenza di Bi gli agenti continuano a generare patch e test verdi, ma alcune verifiche del comportamento dei terminali veri non sono più facilmente riproducibili. Irene e i colleghi cercano sorgenti, log, vecchie librerie e persone che le conoscevano. Il sapere non scompare fisicamente, e gli esseri umani non diventano incapaci: serviranno più tempo e più test.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+Nella scena 2 Irene e il programmatore devono riaprire una vecchia libreria software e recuperare un registro fisico per capire la differenza fra due identificativi. Il codice non è sparito, i commit e i log esistono. Un test verde non prova che il contesto storico sia stato compreso. Adriana trasmette ancora conoscenza; Irene chiede che la nuova prova sia ripetibile da un team che non ha partecipato al recupero. Il lettore deve sentire il costo reale del tempo e del sapere, non una paralisi universale.

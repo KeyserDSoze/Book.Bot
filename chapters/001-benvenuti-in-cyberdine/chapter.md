@@ -7,25 +7,21 @@ canon: canon
 pov: character:kyla
 ---
 
-# Scopo narrativo
+# Obiettivo narrativo
 
-Kyla accompagna una delegazione dell'azienda cliente Aruvhana in una visita guidata. La promessa aziendale è semplice e attraente: persone liberate dai compiti ripetitivi grazie a robot connessi a LLM, automazioni fisiche su sistemi legacy, copertura continua con cambi di batteria, qualità della vita e approvazione umana delle decisioni importanti.
+Kyla riceve i rappresentanti del cliente Aruvhana nel campus della **software house Cyberdine**. Il lettore vede una azienda che scrive codice di integrazione e manutiene connettori per sistemi industriali eterogenei. Gli **agenti di sviluppo software esistono già** e preparano patch, test e riepiloghi, che i programmatori devono verificare. Gli umanoidi Lanter sono arrivati solo da ventisei giorni, per compiti fisici nel campus. B-17 **taglia l'erba e riordina attrezzi**; non è ancora un collaboratore del reparto sviluppo.
 
-# Pressione
+# Pressione e punto di vista
 
-Kyla vuole convincere visitatori attenti e scettici senza usare presentazioni generiche. Deve far funzionare una dimostrazione reale, tradurre tecnologia in conseguenze umane ed evitare di entrare nei dettagli riservati delle attività industriali.
+Kyla vuole concludere una visita credibile e tornare in tempo alla propria vita privata (cinema con una amica). Ammira l'automazione, ne vede vantaggi autentici e non è ancora diventata una critica dei sistemi aziendali. Sahir chiede prove su responsabilità e occupazione; Leïa osserva gli oggetti e le persone. Nico compare soltanto come un bravo sviluppatore alle prese con una porta che non si apre, non come anticipazione visibile di un segreto.
 
-# Ordine scene
+# Scansione delle scene
 
-1. **La porta di vetro**. Accoglienza; nuovo paradigma LLM e forza robotica; prima domanda sul controllo.
-2. **Le cose che non parlavano**. Integrazioni legacy fisiche, censimento clienti svolto da un agente software, B-17 addetto ai materiali e giudizio umano.
-3. **La staffetta**. Due addetti alle batterie, turnazione continua, miglioramento delle vite e ruoli aziendali.
-4. **La misura del tempo**. Dashboard, confronto interno, conclusione positiva e una proposta ordinaria di un agente di sviluppo, distinta dal lavoro fisico di B-17.
+1. **La porta di vetro.** Cyberdine è esplicitamente software house; B-17 è un addetto al giardino, Nico testa il varco fisico, i clienti incontrano agenti di sviluppo già in uso.
+2. **Le cose che non parlavano.** Terminali legacy, agenti AI che producono patch e test; una persona trova il caso che non era stato chiesto all'agente. B-17 passa con gli attrezzi del giardino, senza intervenire nel coding.
+3. **La staffetta.** Batterie fisiche, copertura operativa e limiti energetici; miglioramenti reali dell'orario e domanda sui percorsi professionali che si riducono.
+4. **La misura del tempo.** KPI veri per il programma più ampio, non attribuiti ai soli robot; proposta su alternative scartate formulata da un agente software, in attesa di prova e approvazione umana.
 
-# Divieti di rivelazione
+# Guardrail
 
-Esplicitare il settore software di Cyberdine, ma non necessariamente quello industriale finale di Aruvhana. Non chiamare la condizione robotica schiavitù, servitù o sfruttamento. Non porre in bocca ai bot una rivendicazione di diritti. Non confermare interiorità.
-
-## Revisione di continuità v0.32.0
-
-**Nuova identità del primo atto.** Cyberdine è una software house che vende codice, connettori e continuità; Aruvhana ne è un grande cliente. Gli agenti software lavorano su patch e test già prima dei robot. Durante la visita B-17 taglia l'erba nel giardino e non propone codice. Il suggerimento sulle alternative scartate arriva dall'agente digitale di sviluppo. La visita resta ottimista e Kyla non sa dell'upgrade clandestino.
+Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdine è mostrato subito, il settore finale di Aruvhana può rimanere non detto. Il software aziendale è il prodotto e i robot sono strumenti acquistati, non fabbricati da Cyberdine. Gli agenti AI non pubblicano codice da soli. Gli indicatori delle 6.400 ore riguardano il trimestre di automazione complessiva; le unità robotiche sono presenti da 26 giorni. Non certificare coscienza robotica, non anticipare diritti o protesta.

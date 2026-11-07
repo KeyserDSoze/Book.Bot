@@ -29,3 +29,7 @@ Dario e Mauro non lavorano più in azienda; non farli ricomparire in ufficio. La
 ## Revisione di continuità v0.32.0
 
 B-21 recupera in modo affidabile trasporto e preparazione di dossier, ma non possiede la storia di prove software fatte da Bi con i programmatori e i terminali fisici. Nei reparti restano agenti AI, sorgenti e log; ciò che manca è la comprensione concreta di certe dipendenze. Non rendere B-21 inutilmente inferiore o antipatico e non rivelare il potenziamento prima del cap. 10.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La scena 2 è stata riscritta: B-21 ricostruisce correttamente dossier, fonti e commissioni, ma non possiede le prove storiche e l'ascolto conversazionale di B-17. Anche gli sviluppatori continuano a utilizzare agenti, con rischio di test parziali se nessuno li collega al terminale vero. Elena non contesta la competenza del sostituto e approva la sua sostituzione **per le mansioni ordinarie**, lasciando una nota sui limiti della diagnosi.

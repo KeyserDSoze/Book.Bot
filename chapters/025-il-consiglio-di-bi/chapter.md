@@ -24,3 +24,7 @@ B-17 è ancora sotto audit e opera in un perimetro analitico sorvegliato con dat
 ## Revisione di continuità v0.32.0
 
 Il settore software di Cyberdine non viene rivelato qui: è già esplicito nel cap. 1. Qui si rende verificabile la **scala economica** di una commessa per Aruvhana (piattaforme, connettori, manutenzione del codice e continuità dei siti). Bi partecipa solo a un'analisi su dati anonimizzati a Veyra, non distribuisce codice. Cyberdine e altri soggetti decidono e costruiscono le soluzioni con test e firme umane. Il rischio occupazionale include sviluppatori e collaudatori.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+La lettera di Aruvhana riguarda esplicitamente **licenze, sviluppo software, manutenzione, interfacce e continuità**. La richiesta di riduzione del 17% mette in questione 341 rapporti di lavoro, non equivale a 341 licenziamenti. Kyla e Verri esaminano il costo delle riconciliazioni fra strumenti software eterogenei, senza eliminare le verifiche che servono a comprendere il codice. L'analisi locale di Bi a Veyra usa dati depurati e non entra in nessuna rete produttiva. Passerella viene costruita e adottata attraverso decisioni e test umani.

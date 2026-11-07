@@ -31,3 +31,7 @@ Nessuna coscienza certificata e nessuna rivendicazione di diritti; il lettore ve
 ## Revisione di continuità v0.32.0
 
 La maggiore capacità di ascolto di B-17 sorprende dipendenti che lo ricordano giardiniere e addetto ai trasporti. La causa resta del tutto fuori dalla narrazione prima del cap. 10; non associare il salto a Nico né menzionare un modello sperimentale nelle scene. Nessuna prova della coscienza.
+
+## Aggiornamento della riscrittura narrativa v0.33.0
+
+Le scene 1 e 2 sono state riscritte per far avvertire il cambiamento conversazionale di B-17 attraverso Paolo, Mila, Elena e Nerea. Nessuno sa perché le risposte siano diventate più attenti. Elena registra un comportamento non richiesto e ne chiede verifica senza classificarlo come minaccia. La lunga prima confidenza di Nerea nella stanza della carta e la scena del soprannome rimangono centrali e sono preservate. Non dire chi ha cambiato il modello, non descriverne gli strumenti e non attribuire al robot un accesso non autorizzato.
