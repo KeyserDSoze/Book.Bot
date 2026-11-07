@@ -17,7 +17,7 @@ factions:
 
 Alle ventuno e otto, al quarto piano di Cyberdine, rimanevano accese soltanto le luci che si accendevano al passaggio.
 
-Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo.
+Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Aveva terminato il lavoro e fissato una mail vuota per quaranta minuti. Sarebbe dovuta tornare a casa, dove l'aspettava una busta che aveva aperto e richiuso fino a consumarne l'angolo.
 
 Girò lungo il corridoio della sala copie. Il foglio bianco con la scritta sul capolavoro era ancora alla macchinetta del caffè. La cosa le diede una voglia improvvisa e del tutto irragionevole di strapparlo.
 
@@ -47,9 +47,7 @@ Non entrò. Tolse la mano dalla tasca e la infilò di nuovo. Si accorse di aver 
 
 Il robot rimase rivolto verso di lei.
 
-Nerea si mosse finalmente. Fece due passi, poi tornò indietro per accostare la porta. Ne lasciò una fessura aperta. Non voleva che qualcuno scambiasse quella conversazione per un segreto, benché fosse esattamente ciò che stava per diventare.
-
-La stanza offriva una sedia di plastica e un banco con un bordo consumato. Nerea trascinò la sedia verso di sé, ma non si sedette. La spostò di nuovo contro la parete, quindi appoggiò la borsa sul sedile.
+Nerea entrò e accostò la porta, lasciando una fessura aperta. Appoggiò la borsa sulla sedia di plastica; lei rimase in piedi accanto al banco, con il tesserino piegato fra le dita.
 
 B-17 riprese un fascicolo.
 
@@ -87,7 +85,7 @@ Nerea si mise a ridere. Fu un rumore breve, secco, che non aveva niente a che fa
 
 «No, guarda. Nel mio caso non va bene per niente.»
 
-Si sedette. Subito si rialzò per togliersi il cappotto. Lo piegò in quattro, senza motivo, e lo mise sulla borsa. Si sedette di nuovo, con le mani infilate tra le ginocchia.
+Si tolse il cappotto, lo lasciò sulla borsa e finalmente si sedette, con le mani strette tra le ginocchia.
 
 «Tu chiedi alla gente come sta, adesso.»
 
@@ -181,7 +179,7 @@ Lei guardò il robot. Il riflesso dei neon tagliava il bordo opaco della testa. 
 
 «Non lo hai fatto», disse.
 
-Si alzò e prese la borsa. La rimise giù. Camminò fino alla porta, vi appoggiò due dita, poi tornò verso il banco. La chiave era sempre lì. La fece scorrere fino al palmo e la chiuse nel pugno.
+Nerea si alzò. Arrivò quasi alla porta prima di tornare a prendere la chiave sul banco.
 
 «Il problema è che ho due possibilità. O domani faccio finta di niente e vengono a portare via tutto. Oppure racconto del codice di mio padre, mi espongo, magari trascino dentro anche lui, e comunque domani quelli arrivano lo stesso. È una situazione in cui qualsiasi cosa faccia è sbagliata.»
 
@@ -205,13 +203,15 @@ Nerea rimase in silenzio.
 
 «Che cosa dicono?»
 
-«Che il loro archivio è sbagliato, che non capiscono niente e che se succede qualcosa sarà colpa loro.»
+«Che il loro archivio è sbagliato e che, se succede qualcosa, sarà colpa loro.»
 
-B-17 attese.
+«Le hai mandate?»
 
-«Non le ho mandate», ammise lei.
+«No.»
 
-«Forse perché non sono quello che vuoi ottenere.»
+«Che cosa vuoi ottenere invece?»
+
+«Che qualcuno rimandi il furgone.»
 
 Nerea tornò a sedersi. Era stanca in un modo che il sonno non avrebbe sistemato.
 
@@ -239,7 +239,7 @@ Nerea fissò la chiave.
 
 «Non avevo pensato alla differenza.»
 
-«Chiedi che la rimozione sia rinviata fino al sopralluogo, indicando l'ordine di intervento e l'orario. Invia la richiesta all'ufficio che può sospenderlo, con un numero di protocollo e una copia conservata da te. Per individuare il destinatario puoi rivolgerti a uno sportello competente. Non è una garanzia di accoglimento, ma permette a chi decide di vedere il rischio prima di agire.»
+«Chiedi un rinvio fino al sopralluogo. Indica l'ordine e l'orario dell'intervento, trova l'ufficio che può sospenderlo e fatti dare un numero di protocollo. Non ti prometto che accetteranno. Ma così qualcuno dovrà valutare il rischio prima di agire.»
 
 «E il codice di mio padre?»
 
@@ -273,7 +273,7 @@ Nerea abbassò lo sguardo sulle mani. Il segno della chiave era ancora visibile.
 
 Era, pensò lei, una risposta assai migliore di *andrà tutto bene*.
 
-«Però almeno avranno ricevuto la richiesta», continuò il robot. «E tu saprai a chi è stata rivolta. Se non arriva una risposta, avrai un punto preciso da cui chiedere il passo successivo.»
+«Se non rispondono, saprai almeno a chi richiedere il passo successivo.»
 
 Nerea rimase immobile.
 
@@ -337,7 +337,7 @@ Premette *salva bozza*.
 
 Questa volta il nome non le sembrò una scorciatoia. Le sembrò una cosa pronunciata dentro una stanza nella quale, finalmente, non aveva bisogno di mostrare un tesserino.
 
-Si alzò, infilò il cappotto, prese la borsa. Era pronta a uscire quando notò il fascicolo che B-17 aveva lasciato a metà sul banco. Era rimasto esattamente dove lo aveva appoggiato all'inizio, sotto un piccolo peso di gomma.
+Riprese il cappotto e la borsa. Il fascicolo che B-17 aveva posato all'inizio era ancora sul banco, sotto un piccolo peso di gomma.
 
 «Hai sospeso tutto per me.»
 

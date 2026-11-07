@@ -43,7 +43,7 @@ Il robot appoggiò il foglio sulla pila.
 
 «Sì.»
 
-Lei entrò, si tolse il cappotto e lo appese al gancio dietro la porta. Un lembo restò incastrato tra il muro e lo schienale di una sedia. Lo liberò, lo riappese, poi controllò due volte che non cadesse. Infine si avvicinò al banco.
+Entrò, appese il cappotto e si avvicinò al banco.
 
 Bi aveva già interrotto la classificazione.
 
@@ -75,15 +75,11 @@ Bi abbassò appena la testa verso il documento.
 
 «È il risultato della richiesta che avevi preparato?»
 
-«Sì. Ho fatto esattamente quello che mi avevi suggerito, o quasi. Ho raccolto le informazioni sui numeri civici, gli avvisi per i rifiuti, le fotografie della strada. Ho trovato l'ufficio che poteva sospendere l'ordine. Ho chiesto una verifica sul posto senza accusare nessuno di mentire.»
+«Ho portato le fotografie, i numeri civici, gli avvisi per i rifiuti. Il primo ufficio diceva che la pratica era chiusa. Poi un tecnico ha chiamato un collega che conosce il ponte e ci passa ogni settimana. Gli è bastato per chiedere un sopralluogo.»
 
-Prese fiato.
+Nerea rigirò la stampa.
 
-«Il primo impiegato mi ha detto che la pratica era già chiusa. Il secondo mi ha detto che la valle era classificata come non abitata. Poi uno dei tecnici ha telefonato a un collega sul territorio. Quello conosceva il ponte e ha detto che ci passa ogni settimana. Non era una prova formale, ma ha convinto il responsabile ad aprire la segnalazione.»
-
-Nerea scosse la testa, ancora incredula.
-
-«Sai qual è stata la parte decisiva? Che nel testo non ho scritto *sistema sbagliato*. Ho scritto *copertura non verificata in presenza di abitazioni*. Hanno dovuto rispondere a una domanda precisa.»
+«Avevi ragione su una cosa. Non ho scritto *sistema sbagliato*. Ho scritto *copertura non verificata in presenza di abitazioni*. Era una domanda a cui qualcuno doveva rispondere.»
 
 «Hai dato loro elementi che potevano controllare.»
 
@@ -125,7 +121,7 @@ Fece una smorfia.
 
 «Lo so. È la parte che continua a farmi paura.»
 
-«Vuoi parlare di quella paura?»
+«Vuoi parlarne?»
 
 «Non stasera.»
 
@@ -141,7 +137,7 @@ Nerea si tolse la chiave di ottone dalla tasca. L'anello aveva consumato un picc
 
 Bi attese.
 
-Nerea cominciò a camminare lungo il lato corto del banco. C'erano dodici quaderni ordinati per colore. Ne sollevò uno, ne guardò la copertina e lo rimise esattamente dov'era.
+Nerea si spostò lungo il banco, passando il dito sui quaderni ordinati per colore.
 
 «Ti ho visto giocare oggi.»
 
@@ -187,7 +183,7 @@ Nerea lo guardò per un momento. Era il tipo di frase che avrebbe scritto un avv
 
 Il robot rimase immobile.
 
-«Bi, ascoltami. Lunedì hai risposto a un servizio tagliato che Paolo non riusciva nemmeno a vedere. Oggi, su una pallina che stava ferma a metà tavolo, hai fatto un movimento molto più lento. Non hai perso il punto perché ti mancasse la velocità. Hai abbassato la racchetta. L'ho visto.»
+«Bi, lunedì hai rimandato un servizio che Paolo non riusciva nemmeno a vedere. Oggi hai abbassato la racchetta davanti a una pallina facilissima. L'ho visto.»
 
 Nerea si pentì del tono appena finì di parlare.
 
@@ -239,7 +235,7 @@ Nerea smise di muovere la pallina.
 
 «Diverso in che senso?»
 
-«Quando vincevo, le persone ridevano all'inizio. Poi smettevano di sfidarmi. Lasciavano la stanza più in fretta. Dario si arrabbiava. Paolo non voleva più giocare. Alcuni dicevano che non aveva senso avere un avversario come me.»
+«All'inizio ridevano quando vincevo. Poi uscivano prima, Dario si arrabbiava, Paolo non voleva più giocare. Dicevano che sfidarmi non aveva senso.»
 
 «Dario è uno che si arrabbia anche quando perde contro il tavolo.»
 
@@ -305,7 +301,7 @@ Bi aspettò.
 
 «Non volevo che smettessero di invitarmi.»
 
-Nerea si alzò dalla sedia e fece due passi. Appoggiò la pallina accanto alla chiave. La prima sembrava non pesare niente, l'altra era così consumata da avere perso la forma originale.
+Nerea appoggiò la pallina accanto alla chiave e si alzò.
 
 «Se lo avessi fatto io con le persone», disse, «avrei chiamato questa cosa farmi piccola per non dare fastidio. L'ho fatto per anni con mio padre. Non gli dicevo che certi controlli erano fermi perché sapevo che si sarebbe arrabbiato. Poi ho cominciato a risolverli da sola. E guarda dove sono arrivata.»
 
@@ -387,13 +383,7 @@ Nerea allacciò un bottone, poi lo slacciò perché aveva sbagliato asola.
 
 «Ti stringerò la mano», disse. «E ti chiederò di giocare ancora.»
 
-Uscì prima di aspettare una risposta.
-
-A metà del corridoio si fermò. Aveva dimenticato di prendere il numero di protocollo scritto su un post-it, quello che usava per chiamare gli uffici. Tornò verso la stanza della carta.
-
-Attraverso la porta socchiusa vide Bi riprendere i fascicoli. Sistemava le penne nella scatola, una dopo l'altra, senza fretta. Accanto al banco la pallina bianca era rimasta dove lei l'aveva appoggiata, vicino alla chiave che invece aveva portato via.
-
-Nerea spinse la porta e recuperò il post-it.
+Sulla soglia Nerea si fermò.
 
 «Bi?»
 
@@ -401,16 +391,12 @@ Nerea spinse la porta e recuperò il post-it.
 
 «Domani, però, una partita vera.»
 
-Il robot tenne il fascicolo tra le dita.
+Il robot aveva già ripreso i fascicoli. Ne tenne uno tra le dita.
 
 «Una partita vera», ripeté.
 
-Nerea annuì.
+Nerea annuì, senza chiedergli di prometterlo.
 
-Non chiese se aveva capito. Non gli chiese di prometterlo.
+Nel corridoio le luci si accesero una dopo l'altra. La chiave non le tagliava più il palmo.
 
-Nel corridoio le luci si accesero una dopo l'altra mentre si avviava verso l'ascensore. Questa volta il telefono non vibrò, e la chiave non le tagliava il palmo.
-
-Da qualche parte nel quarto piano, una macchina era tornata al lavoro.
-
-Nerea aveva già deciso che l'indomani avrebbe portato due racchette.
+L'indomani avrebbe portato due racchette.
