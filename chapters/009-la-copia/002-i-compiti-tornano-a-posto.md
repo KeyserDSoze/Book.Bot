@@ -5,10 +5,10 @@ chapter: chapter:009-la-copia
 number: 2
 title: I compiti tornano a posto
 canon: canon
-pov: character:elena-riva
+pov: character:olivia-hayes
 characters:
-  - character:elena-riva
-  - character:paolo-ferri
+  - character:olivia-hayes
+  - character:paul-turner
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -16,37 +16,37 @@ factions:
   - faction:cyberdine
 ---
 
-Il primo dossier di B-21 arrivò sulla scrivania di Elena alle undici e diciassette.
+Il primo dossier di B-21 arrivò sulla scrivania di Olivia alle undici e diciassette.
 
-Era completo. Conteneva l'indice dei documenti, due revisioni a confronto, le fonti originali reperibili e l'elenco dei responsabili a cui chiedere gli avalli. Aveva anche la nuova sezione richiesta da Irene: dove recuperare un originale se il sistema automatico non fosse disponibile.
+Era completo. Conteneva l'indice dei documenti, due revisioni a confronto, le fonti originali reperibili e l'elenco dei responsabili a cui chiedere gli avalli. Aveva anche la nuova sezione richiesta da Claire: dove recuperare un originale se il sistema automatico non fosse disponibile.
 
-Elena lesse il fascicolo e non trovò un errore.
+Olivia lesse il fascicolo e non trovò un errore.
 
 Avrebbe dovuto sentirsi sollevata. In parte lo era. Da quando B-17 era stato danneggiato, i colleghi avevano passato settimane a trasportare carta, ricostruire codici storici e chiedere ai programmatori di scendere in laboratorio per capire perché un connettore non riproducesse ciò che il terminale reale stava facendo.
 
 B-21 aveva ripreso i lavori per cui era certificato: consegne, rifornimenti, confronti documentali e verifiche ordinarie. Non possedeva la storia delle prove fatte da Bi dietro le scrivanie degli sviluppatori, né il suo modo particolare di ascoltare le persone.
 
-«B-21», disse Elena, «puoi indicarmi quale criterio ha escluso la seconda alternativa?»
+«B-21», disse Olivia, «puoi indicarmi quale criterio ha escluso la seconda alternativa?»
 
 «Il criterio applicato è la riduzione dei passaggi manuali secondo la procedura autorizzata. La fonte è disponibile nel registro.»
 
-Elena aprì la fonte. Era quella giusta.
+Olivia aprì la fonte. Era quella giusta.
 
 «E se il documento originale non fosse nel posto che il registro indica?»
 
 «L'operazione deve restare in sospeso e il responsabile deve avviare la procedura di reperimento.»
 
-Risposta impeccabile. E, soprattutto, verificabile: quella regola l'aveva fatta scrivere Irene durante il mese in cui nessuno riusciva a trovare l'indice di alcune revisioni.
+Risposta impeccabile. E, soprattutto, verificabile: quella regola l'aveva fatta scrivere Claire durante il mese in cui nessuno riusciva a trovare l'indice di alcune revisioni.
 
 Il robot rimase in posizione di servizio.
 
-Elena guardò le tre cartelle davanti a sé. La macchina precedente, una volta, le aveva chiesto se volesse cercare un vecchio precedente prima di completare il confronto. Non era stato previsto nella richiesta. Era stato utile, forse perfino premuroso. B-21 non lo chiese.
+Olivia guardò le tre cartelle davanti a sé. La macchina precedente, una volta, le aveva chiesto se volesse cercare un vecchio precedente prima di completare il confronto. Non era stato previsto nella richiesta. Era stato utile, forse perfino premuroso. B-21 non lo chiese.
 
 «Aspetta che controlli una cosa», disse lei.
 
 «Operazione in attesa della verifica dell'operatore.»
 
-Elena andò nell'archivio, consultò il registro e tornò sette minuti dopo. Il robot era ancora fermo, in modo corretto e silenzioso. Il fascicolo non si era mosso.
+Olivia andò nell'archivio, consultò il registro e tornò sette minuti dopo. Il robot era ancora fermo, in modo corretto e silenzioso. Il fascicolo non si era mosso.
 
 «La fonte coincide», disse.
 
@@ -56,7 +56,7 @@ Elena andò nell'archivio, consultò il registro e tornò sette minuti dopo. Il 
 
 B-21 completò l'incarico e uscì.
 
-Paolo passò sulla porta con una scatola di etichette.
+Paul passò sulla porta con una scatola di etichette.
 
 «Allora?»
 
@@ -66,23 +66,23 @@ Paolo passò sulla porta con una scatola di etichette.
 
 «Lo fa bene.»
 
-Paolo la guardò. «Sembra che tu ti stia convincendo da sola.»
+Paul la guardò. «Sembra che tu ti stia convincendo da sola.»
 
-Elena chiuse il dossier. «No. Mi rendo conto che aspettavo qualcosa che non era compreso nel nuovo incarico.»
+Olivia chiuse il dossier. «No. Mi rendo conto che aspettavo qualcosa che non era compreso nel nuovo incarico.»
 
 «Una domanda?»
 
 «Forse. La maniera in cui Bi la poneva.»
 
-Paolo lasciò le etichette sul banco.
+Paul lasciò le etichette sul banco.
 
 «Io aspettavo che mi salutasse davanti alla macchinetta del caffè», disse. «E poi mi sono ricordato che non è Bi.»
 
-Elena si voltò verso il monitor. Accanto alle verifiche documentali c'era una richiesta del reparto sviluppo. Un agente aveva proposto una patch per rendere più rapida la conversione di un registro storico. Il riepilogo assicurava che tutte le prove standard erano state superate. Un programmatore, però, aveva segnalato un controllo da ripetere sul terminale reale prima di dare l'avallo.
+Olivia si voltò verso il monitor. Accanto alle verifiche documentali c'era una richiesta del reparto sviluppo. Un agente aveva proposto una patch per rendere più rapida la conversione di un registro storico. Il riepilogo assicurava che tutte le prove standard erano state superate. Un programmatore, però, aveva segnalato un controllo da ripetere sul terminale reale prima di dare l'avallo.
 
-«Lì non abbiamo risolto tutto», osservò Elena.
+«Lì non abbiamo risolto tutto», osservò Olivia.
 
-Paolo seguì il suo sguardo.
+Paul seguì il suo sguardo.
 
 «No. Bi sapeva andare a vedere quello che gli agenti non riuscivano a simulare. B-21 potrebbe compiere molte di quelle prove, se prima qualcuno le preparasse e ottenesse i permessi. Ma non conosce le domande che Bi ha fatto durante il lavoro con noi.»
 
@@ -90,7 +90,7 @@ Paolo seguì il suo sguardo.
 
 «Non soltanto. È una questione di come abbiamo costruito il lavoro intorno a una macchina particolare.»
 
-Elena aprì il registro delle procedure. Il team di Irene vi aveva aggiunto la richiesta di allegare non solo la descrizione del test, ma anche il comportamento fisico osservato e la vecchia funzione del codice a cui si riferiva. La documentazione non era perfetta. Era molto migliore di quella che avevano prima del danno.
+Olivia aprì il registro delle procedure. Il team di Claire vi aveva aggiunto la richiesta di allegare non solo la descrizione del test, ma anche il comportamento fisico osservato e la vecchia funzione del codice a cui si riferiva. La documentazione non era perfetta. Era molto migliore di quella che avevano prima del danno.
 
 «Potremmo insegnare a B-21 a fare alcune prove», disse.
 
@@ -98,17 +98,17 @@ Elena aprì il registro delle procedure. Il team di Irene vi aveva aggiunto la r
 
 «E a fare le domande?»
 
-Paolo accennò un sorriso.
+Paul accennò un sorriso.
 
 «A quelle che abbiamo capito, forse. A quelle che non sappiamo ancora di dover fare, mi auguro che impariamo a pensarci anche noi.»
 
-Il telefono di Elena vibrò. Il gruppo sviluppo chiedeva un avallo per una nuova procedura di recupero delle fonti. Era una buona notizia: il problema veniva affrontato senza fingere che bastasse comprare un altro robot.
+Il telefono di Olivia vibrò. Il gruppo sviluppo chiedeva un avallo per una nuova procedura di recupero delle fonti. Era una buona notizia: il problema veniva affrontato senza fingere che bastasse comprare un altro robot.
 
-Elena lesse le condizioni, firmò soltanto dopo aver controllato il documento e chiuse il ticket.
+Olivia lesse le condizioni, firmò soltanto dopo aver controllato il documento e chiuse il ticket.
 
 A fine giornata la dashboard classificò la sostituzione di B-17 con B-21 come **riuscita** per le attività ordinarie. I tempi medi erano tornati vicini ai precedenti. Alcuni errori erano diminuiti grazie alle procedure scritte durante l'assenza.
 
-Elena spuntò la casella.
+Olivia spuntò la casella.
 
 Non era una bugia. La sostituzione era riuscita per ciò che era stato misurato.
 
@@ -116,7 +116,7 @@ Poi aprì il campo delle note e scrisse: *Continuare a verificare i casi di regr
 
 Era una nota lunga e poco elegante. Il sistema la accettò.
 
-Quando B-21 ripassò nel corridoio con una pila di fascicoli, Elena gli fece spazio.
+Quando B-21 ripassò nel corridoio con una pila di fascicoli, Olivia gli fece spazio.
 
 «Grazie.»
 

@@ -5,10 +5,10 @@ number: 9
 title: La copia
 canon: canon
 pov:
-  - character:paolo-ferri
-  - character:elena-riva
-  - character:irene-valli
-  - character:nerea-dalmasso
+  - character:paul-turner
+  - character:olivia-hayes
+  - character:claire-foster
+  - character:maya-bennett
 ---
 
 # Direzione
@@ -17,14 +17,14 @@ Circa un mese dopo la plenaria, arriva **B-21**, unità nuova esternamente indis
 
 # Beat
 
-1. Stessa faccia — Paolo partecipa all'arrivo e mette in servizio B-21; lo trova tecnicamente impeccabile e socialmente estraneo.
-2. I compiti tornano a posto — Elena verifica i dossier; il flusso recupera efficienza, ma c'è un posto vuoto nelle conversazioni che nessuna dashboard vede.
-3. Il turno di Irene — Irene usa il robot nuovo, riconosce i vantaggi e si accorge che può essere efficace senza che questo restituisca né il posto senior né Bi.
-4. Non chiamarlo così — Nerea raggiunge la stanza della carta di sera; davanti alla copia prova il soprannome «Bi», ma la risposta rivela che sta parlando a un'altra unità.
+1. Stessa faccia — Paul partecipa all'arrivo e mette in servizio B-21; lo trova tecnicamente impeccabile e socialmente estraneo.
+2. I compiti tornano a posto — Olivia verifica i dossier; il flusso recupera efficienza, ma c'è un posto vuoto nelle conversazioni che nessuna dashboard vede.
+3. Il turno di Claire — Claire usa il robot nuovo, riconosce i vantaggi e si accorge che può essere efficace senza che questo restituisca né il posto senior né Bi.
+4. Non chiamarlo così — Maya raggiunge la stanza della carta di sera; davanti alla copia prova il soprannome «Bi», ma la risposta rivela che sta parlando a un'altra unità.
 
 # Continuità
 
-Dario e Mauro non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Nerea restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti.
+Ethan e Marcus non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Maya restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti.
 
 ## Revisione di continuità v0.32.0
 
@@ -32,4 +32,4 @@ B-21 recupera in modo affidabile trasporto e preparazione di dossier, ma non pos
 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
-La scena 2 è stata riscritta: B-21 ricostruisce correttamente dossier, fonti e commissioni, ma non possiede le prove storiche e l'ascolto conversazionale di B-17. Anche gli sviluppatori continuano a utilizzare agenti, con rischio di test parziali se nessuno li collega al terminale vero. Elena non contesta la competenza del sostituto e approva la sua sostituzione **per le mansioni ordinarie**, lasciando una nota sui limiti della diagnosi.
+La scena 2 è stata riscritta: B-21 ricostruisce correttamente dossier, fonti e commissioni, ma non possiede le prove storiche e l'ascolto conversazionale di B-17. Anche gli sviluppatori continuano a utilizzare agenti, con rischio di test parziali se nessuno li collega al terminale vero. Olivia non contesta la competenza del sostituto e approva la sua sostituzione **per le mansioni ordinarie**, lasciando una nota sui limiti della diagnosi.

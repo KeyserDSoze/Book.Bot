@@ -5,16 +5,16 @@ chapter: chapter:010-il-segnale
 number: 3
 title: L'ultima bandiera
 canon: canon
-pov: character:mina-soler
+pov: character:nina-solis
 characters:
-  - character:mina-soler
+  - character:nina-solis
   - character:b-17
 locations:
   - location:isola-di-veyra
 factions: []
 ---
 
-Mina Soler aveva una regola: prima la sicurezza, poi i punti.
+Nina Solis aveva una regola: prima la sicurezza, poi i punti.
 
 Era scritta sul pannello accanto alla postazione, ma non era per questo che la applicava. Un robot danneggiato durante un'esercitazione significava settimane perse, rapporti da riscrivere e qualcuno che avrebbe tentato di chiamare *imprevisto* una scelta presa troppo in fretta.
 
@@ -26,13 +26,13 @@ Il conto alla rovescia proseguiva. La squadra rossa controllava il punto central
 
 «Chiudiamo la prova?», chiese la giovane tecnica accanto a lei.
 
-Mina si sistemò la cuffia sull'orecchio. «Perché?»
+Nina si sistemò la cuffia sull'orecchio. «Perché?»
 
 «È rimasto da solo. Quello con la spalla ricostruita.»
 
 Sul monitor B-17 era fermo dietro un tronco, con l'arma da simulazione stretta contro il corpo. L'attrezzatura era sproporzionata rispetto alle mani con cui il robot cercava di sostenerla. La placca nuova sulla spalla destra rifletteva la luce in modo diverso dal resto del rivestimento.
 
-«Non vedo un'emergenza», disse Mina. «Ma chiedo conferma.»
+«Non vedo un'emergenza», disse Nina. «Ma chiedo conferma.»
 
 Prese il microfono.
 
@@ -40,11 +40,11 @@ Prese il microfono.
 
 «Sì. Posso continuare.»
 
-La risposta non conteneva nulla di straordinario. Mina non attribuiva alle macchine il desiderio di vincere soltanto perché proseguivano un compito. Molte erano programmate per terminarlo appena possibile. Aveva visto unità restare ferme davanti a ostacoli banali per ore, perché la procedura non prevedeva una decisione diversa.
+La risposta non conteneva nulla di straordinario. Nina non attribuiva alle macchine il desiderio di vincere soltanto perché proseguivano un compito. Molte erano programmate per terminarlo appena possibile. Aveva visto unità restare ferme davanti a ostacoli banali per ore, perché la procedura non prevedeva una decisione diversa.
 
 B-17 guardava verso il basso, lungo una discesa coperta di foglie. Il vecchio camminamento di servizio era rimasto fuori dalla sequenza ordinaria della prova. Non era vietato. Semplicemente, nessuno lo aveva previsto come parte del percorso.
 
-«Quella zona è dentro il perimetro?», chiese Mina.
+«Quella zona è dentro il perimetro?», chiese Nina.
 
 La tecnica fece apparire la mappa.
 
@@ -52,13 +52,13 @@ La tecnica fece apparire la mappa.
 
 «Allora verifichiamo.»
 
-Mina fermò la progressione automatica della richiesta per il tempo necessario alla valutazione del percorso. Un piccolo drone di sicurezza, già in volo per il controllo dell'area, mostrò terra bagnata, un tronco caduto e una vecchia uscita di manutenzione. Nessun essere umano, nessuna struttura instabile, nessun ostacolo che le verifiche del campo giudicassero pericoloso.
+Nina fermò la progressione automatica della richiesta per il tempo necessario alla valutazione del percorso. Un piccolo drone di sicurezza, già in volo per il controllo dell'area, mostrò terra bagnata, un tronco caduto e una vecchia uscita di manutenzione. Nessun essere umano, nessuna struttura instabile, nessun ostacolo che le verifiche del campo giudicassero pericoloso.
 
 La tecnica annuì.
 
 «Percorso libero.»
 
-Mina prese il microfono.
+Nina prese il microfono.
 
 «Azzurro diciassette, il passaggio è stato controllato. Ti autorizzo a utilizzarlo, restando nei limiti del campo.»
 
@@ -66,7 +66,7 @@ Mina prese il microfono.
 
 B-17 si mosse.
 
-Non corse. Scese tra le radici con passi brevi, bilanciando il peso della grossa replica, a tratti appoggiando una mano a un albero. Il ginocchio sinistro perse per un istante la posizione prevista sul terreno viscido. Mina sentì il fiato fermarsi nella gola.
+Non corse. Scese tra le radici con passi brevi, bilanciando il peso della grossa replica, a tratti appoggiando una mano a un albero. Il ginocchio sinistro perse per un istante la posizione prevista sul terreno viscido. Nina sentì il fiato fermarsi nella gola.
 
 Il robot recuperò l'equilibrio.
 
@@ -76,7 +76,7 @@ Dall'altra parte del bosco si sentì una scarica di segnali d'addestramento. Il 
 
 «Non ha tempo», disse la tecnica.
 
-Mina non rispose.
+Nina non rispose.
 
 Lo vide emergere dal camminamento presso una vecchia struttura di cemento, con la parete verde di muschio e un portello che dava verso la radura centrale. Una fascia rossa comparve sul bordo dell'inquadratura. Il robot avversario ruotò, riconobbe l'ultima unità azzurra e sollevò il proprio equipaggiamento.
 
@@ -86,19 +86,19 @@ L'azzurro abbassò l'arma.
 
 «Che sta facendo?», chiese la tecnica.
 
-Per un istante Mina pensò che la spalla avesse ceduto. Il braccio destro sembrava seguire con ritardo quello sinistro. Un secondo segnale passò vicino alla macchina; sul pannello comparve ancora **MANCATO**.
+Per un istante Nina pensò che la spalla avesse ceduto. Il braccio destro sembrava seguire con ritardo quello sinistro. Un secondo segnale passò vicino alla macchina; sul pannello comparve ancora **MANCATO**.
 
 Il robot azzurro arretrò di mezzo passo.
 
 L'avversario lo seguì.
 
-Mina guardò l'orologio.
+Nina guardò l'orologio.
 
 **00:29.**
 
 Sul monitor B-17 sembrò esitante, quasi troppo lento per quella distanza. Le venne da pensare che stesse perdendo tempo. Poi notò che non aveva smesso di tenere d'occhio la colonnina centrale, rimasta dietro il portello verde.
 
-«Il punto», mormorò Mina.
+«Il punto», mormorò Nina.
 
 La tecnica si sporse. «Cosa?»
 
@@ -112,7 +112,7 @@ Una luce lampeggiò sul pannello di controllo.
 
 **PUNTO CENTRALE CONTESTATO — CONTROLLO AZZURRO IN 00:05.**
 
-Mina si alzò così bruscamente che la sedia urtò contro il tavolo.
+Nina si alzò così bruscamente che la sedia urtò contro il tavolo.
 
 «È arrivato!»
 
@@ -130,13 +130,13 @@ Un suono lungo riempì la sala.
 
 Per qualche secondo nessuno disse niente.
 
-Poi la giovane tecnica si portò le mani alla testa e scoppiò a ridere. Qualcuno dietro Mina batté le mani. Un altro fece partire sullo schermo il replay degli ultimi dieci secondi, ma Mina lo fermò.
+Poi la giovane tecnica si portò le mani alla testa e scoppiò a ridere. Qualcuno dietro Nina batté le mani. Un altro fece partire sullo schermo il replay degli ultimi dieci secondi, ma Nina lo fermò.
 
 «Prima lo stato delle unità.»
 
 Controllarono gli indicatori. Nessun allarme di sicurezza attivo, nessuna persona entrata nelle zone d'ingaggio, nessuna uscita dal perimetro. Le macchine escluse aspettavano il recupero, come previsto.
 
-Soltanto allora Mina prese il microfono.
+Soltanto allora Nina prese il microfono.
 
 «Azzurro diciassette, conferma lo stato.»
 
@@ -148,12 +148,12 @@ Ci fu una breve pausa.
 
 «La squadra azzurra ha vinto.»
 
-Mina guardò gli altri due robot azzurri, ancora immobili tra gli alberi.
+Nina guardò gli altri due robot azzurri, ancora immobili tra gli alberi.
 
 «Sì», disse. «La squadra azzurra.»
 
 Non sapeva se gli ultimi movimenti fossero stati una finta intenzionale o l'esito fortunato di valutazioni meccaniche. Avrebbe dovuto studiare le registrazioni. Sapeva però che B-17 era arrivato alla colonnina soltanto perché qualcuno aveva notato un percorso possibile e lei aveva deciso di verificarlo e autorizzarlo.
 
-Mina spense il microfono e aprì il rapporto degli interventi. Prima di lasciare la sala avrebbe firmato anche il percorso che aveva autorizzato.
+Nina spense il microfono e aprì il rapporto degli interventi. Prima di lasciare la sala avrebbe firmato anche il percorso che aveva autorizzato.
 
 ---
