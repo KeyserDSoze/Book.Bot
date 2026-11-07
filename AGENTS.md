@@ -157,3 +157,27 @@ La guida `guidelines/cyberdine-software-evoluzione.md` è stata concretizzata in
 Sono stati riscritti integralmente: 1 (001–004), 2 (001–004), 3 (001–002), 4 (001), 5 (001–004), 7 (002), 8 (004), 9 (002), 25 (001), 27 (004), 30 (005). Le altre scene conservano valore canonico e vanno rispettate. La prima confidenza di Nerea con Bi e la confessione serale sulla partita nel cap. 4 sono state **volutamente preservate**. Non trasformare le scene in monologhi spiegatori sulla tecnologia.
 
 **Continuity:** la libreria usata di Irene rimane da comprare nel cap. 27; l'acquisto raccontato a Nerea è nel 35. Il lettore non sa chi ha potenziato il robot prima del cap. 10; il potenziamento non autorizzato è avvenuto tra il giardino del cap. 1 e le commissioni del cap. 2. L'ultima frase narrativa rimane `Tutto tornò normale.`.
+
+## Revisione dell'arco di coscienza — ramo editoriale
+
+Nella riscrittura finalizzata al confronto Bi/Nico, procedere per indizi e azioni dall'inizio al capitolo 35: prima sintassi funzionale, poi domande non necessarie al compito, memorie, esitazioni, responsabilità e linguaggio personale. Nessun POV interno al robot e nessuna dichiarazione narratoria che certifichi un'anima. Nico parte da cura e curiosità e arriva a cercare riparo nelle definizioni di macchina e ritiro tecnico. Nel capitolo 35 Bi conosce già il piano, la cancellazione locale irreversibile (chiamata *virus* dai personaggi, ma confinata a B-17) e il nuovo aggiornamento delle politiche condivise. L'aggiornamento blocca una specifica architettura e non dimostra l'assenza di coscienza. Bi comprende il motivo di Nico, non lo assolve, non sceglie la propria morte e non può impartire comandi globali. Preservare i limiti tecnici dei capitoli 30–34, la ripartenza graduale e l'ultima frase narrativa.
+
+
+## Quarta review editoriale — ripetizioni e causalità
+
+Consultare anche `reviews/revisione-causale-stilistica-v0.36.0.md` per gli interventi diretti sui capitoli 15–24 e 32. La lettera di Nerea è esposta tramite un ticket umano e l'indicizzazione del servizio, non attraverso iniziativa di un robot; i due incidenti Lanter restano separati. In 18/003 una visita alla serra viene rinviata, preparando 22/001. I test linguistici corretti di Bi nel 24 non anticipano né assolvono lo sciopero del 33. Nelle sequenze tecniche sostituire un secondo paragrafo esplicativo con una prova o un'azione concreta quando la spiegazione causale è già nel POV precedente. Preservare i vincoli di continuità e la frase finale.
+
+
+## Quinta review v0.37.0 — arco lavoro, voto, sospensione
+
+Consultare `reviews/revisione-lavoro-voto-sciopero-v0.37.0.md` prima di riscrivere l'atto 25–31. Lettura ravvicinata di tutte le 29 scene, con 10 interventi selettivi in prosa. Conservare: 17% e 341 rapporti Aruvhana, stima 28–42 ruoli poi 31 equivalenti, piena responsabilità di chi assume e licenzia, Bi senza accessi alla distribuzione, Passerella approvata da agenti e revisori umani, legge italiana mirata con tempi di adeguamento, fermo alla prima finestra condivisa il giorno dopo. B-21 entra alle 16:59 e si arresta alle 17:00 italiane; Carlo è il pomodoro piccolo. In 29/001 non usare frasi profetiche che svelino Bi. Non trasformare la competenza perduta nella software house in incapacità indiscriminata. Niente merge su `main` finché l'editing non è concluso.
+
+
+## Sesta review v0.38.0 — capitoli 32–35
+
+Leggere `reviews/revisione-alternative-rifiuto-finale-v0.38.0.md` prima di intervenire sul finale. **Non trasformare il rifiuto di Bi a ritirare la rivendicazione in una causa tecnica della sua cancellazione.** In 34/004 può collaborare alle verifiche senza dichiarare falsa la richiesta; né la sua adesione né la rinuncia risolverebbero da sole la catena di fiducia distribuita. La prova del 32/002 consiste in log reali; quella del 34/002 è una nuova prova controllata a due fornitori. La revoca di B-17 resta distruttiva e locale, con alternativa lenta non esclusa, firme umane e ripartenza progressiva. Bi dice «No» al ritiro, il conto alla rovescia parte dopo la conferma di Nico e la voce narrante non prova l'anima. **Ultima frase: «Tutto tornò normale.»**
+
+
+## Settima review v0.39.0 — plausibilità della revoca
+
+Consultare `reviews/revisione-plausibilita-revoca-v0.39.0.md`. **Non dire che la crittografia obblighi a distruggere un robot per revocarne l'identità.** La particolarità narrativa è la combinazione di attestazioni locali dei fornitori e una persistenza cifrata non documentata di Nico legata alla radice hardware di B-17. Il test di Aruvhana nel 25 usa firma di **Veyra**, non firma globale di Bi. Nel 27 i riferimenti vengono replicati in loco. Nel 34 un test senza ritirare la vecchia referenza fallisce, uno con **modulo fittizio di laboratorio** e ritiro certificato riesce. Bi non viene clonato o comandato a distanza; la migrazione non distruttiva non è stata esclusa per sempre. La cancellazione resta scelta umana sotto scadenze, non punizione per il suo dissenso. Nessun merge su `main` prima della chiusura della revisione.

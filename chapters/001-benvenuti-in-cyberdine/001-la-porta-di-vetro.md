@@ -44,6 +44,8 @@ All'ingresso del reparto tecnico una porta emise un segnale verde ma non si apr�
 
 Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Nico ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
+L'addetto aveva in mano una cartellina da consegnare al piano superiore. Nico gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
+
 «Questo è un vostro programmatore?», chiese Sahir.
 
 «Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»

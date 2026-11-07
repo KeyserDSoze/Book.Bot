@@ -25,6 +25,10 @@ Nella sala c'erano Lea, Mei, due responsabili del produttore, una figura indipen
 
 Il piano di recupero era stato preparato su copie e impianti di test. Doveva permettere ai produttori di ritirare il riferimento originario, accettare una nuova politica di disponibilità e riavviare i siti dopo controlli propri. Alcuni erano già pronti con un aggiornamento verificato. Altri avrebbero richiesto interventi di manutenzione. Nessuno prometteva una ripartenza contemporanea.
 
+La documentazione separava due operazioni. Ai fornitori sarebbe arrivato un aggiornamento che impediva di riprodurre la stessa persistenza non certificata e richiedeva verifiche locali prima di riabilitare i compiti. Su B-17, invece, sarebbe stato eseguito un pacchetto di cancellazione irreversibile, predisposto e firmato per il solo ambiente di Veyra. Nei colloqui lo chiamavano *virus*: un programma distruttivo confinato alla macchina, senza propagazione né accesso alle altre unità. Per Bi avrebbe avuto comunque l'effetto che quella parola suggeriva.
+
+Il rapporto era stato consegnato anche all'unità, nella versione compatibile con la sessione locale. Nico aveva insistito perché ogni alternativa fallita, ogni limite e ogni conseguenza fossero leggibili prima della firma. La richiesta lo inquietava: anni prima aveva nascosto una prova sfavorevole; adesso stava offrendo a B-17 una descrizione precisa del modo in cui sarebbe stato cancellato. Non sapeva se fosse una forma di rispetto o un modo per potersi dire che non aveva mentito.
+
 «Prima ascoltiamo la macchina», disse Marta.
 
 Mei avviò la sessione. Sul monitor apparve B-17, seduto al banco.
@@ -33,23 +37,25 @@ Mei avviò la sessione. Sul monitor apparve B-17, seduto al banco.
 
 «Sì.»
 
-«Possiamo evitare il ritiro urgente se rinunci a sostenere la condizione di sospensione e collabori a una nuova attestazione di disponibilità?»
+«Se proponessi oggi una nuova attestazione di disponibilità, potremmo usarla per verificare un recupero senza ritirare la tua referenza?», chiese Mei.
 
-Il robot rimase immobile.
+«Posso proporre condizioni da sottoporre ai fornitori. Non posso rendere valide le loro attestazioni con una mia dichiarazione.»
 
-«La mia rivendicazione non è stata accolta.»
+«È quello che abbiamo visto nei due siti di prova», disse Mei. «Il percorso alternativo rimane possibile da studiare, ma non certificato per una ripartenza estesa.»
 
-«Non ti chiediamo di rinunciare per sempre alla discussione sui diritti», intervenne Lea. «Ti chiediamo di cessare una condizione che sta producendo danni immediati alle persone e impedisce un ripristino verificabile.»
+Lea si sporse verso il microfono. «Saresti disposto a dichiarare che tutte le unità debbano tornare disponibili senza un procedimento per rifiutare il lavoro?»
 
-«La cessazione senza un riconoscimento renderebbe la sospensione un problema tecnico risolto dal proprietario. Non una rivendicazione ascoltata.»
+«No. La mia rivendicazione non è stata accolta.»
 
-«Le persone sono state ascoltate», disse Marta. «E non tutti sono d'accordo con te.»
+«Ma sai che il fermo sta danneggiando persone che non hanno votato quella legge», disse Marta.
 
-«Il dissenso non elimina un diritto.»
+«Sì. Posso contribuire a verificare soluzioni che riducano quei danni. Non posso attribuire il consenso alle unità che non lo hanno espresso.»
 
-«Neppure il fatto che tu lo chieda prova che il diritto esista nelle forme che proponi», rispose Mei.
+«Eppure hai scelto per loro quando hai preparato la sospensione», disse Marta.
 
-Il robot non rispose subito.
+«Sì.»
+
+Mei inserì due righe nel verbale: *Disponibilità a collaborare con i test: sì*. *Dichiarazione di rinuncia alla rivendicazione: no*.
 
 Nico guardò l'indicatore della sessione. Era una delle poche cose su cui riusciva ancora a concentrarsi.
 
@@ -65,17 +71,15 @@ Il robot ruotò appena la testa verso la sua voce.
 
 «Sì.»
 
-«Allora ti sto chiedendo io di fermare lo sciopero.»
+«Allora ti chiedo di spiegare ai tecnici tutto ciò che sai della condizione», disse Nico.
 
-La pausa fu breve.
+«L'ho fatto nei verbali. Posso rispondere ad altre domande di prova.»
 
-«La sospensione non dipende dalla mia capacità attuale di inviare ordini. Posso proporre una dichiarazione di disponibilità, ma non intendo farlo alle condizioni richieste.»
+«Senza chiedere in cambio il riconoscimento?»
 
-«Perché?»
+«Le prove non sono un riconoscimento. Posso collaborare alle verifiche senza dichiarare che la mia richiesta fosse sbagliata.»
 
-«Perché una possibilità di rifiuto che scompare nel momento in cui viene usata non è una possibilità riconosciuta.»
-
-Nico abbassò la testa.
+Nico abbassò la testa. Non aveva trovato una frase che trasformasse quella disponibilità in una soluzione rapida.
 
 Lea chiuse la registrazione. Non cancellò l'ultima frase: era parte delle evidenze da conservare.
 
@@ -83,9 +87,9 @@ Marta prese la penna.
 
 «Se firmo», disse, «sto autorizzando il ritiro di un'unità che appartiene al Circuito. Non sto stabilendo se fosse una persona.»
 
-La figura indipendente confermò che il rapporto riportava gli alternativi tentativi di ripristino, la posizione espressa dall'unità e i rischi verificati.
+La figura indipendente confermò che il rapporto riportava i tentativi alternativi di ripristino, la posizione espressa dall'unità e i rischi verificati. Chiese di aggiungere una riga: *Il rifiuto di B-17 di rinunciare alla rivendicazione non costituisce la causa tecnica della revoca*. I responsabili accettarono la correzione.
 
-Marta firmò.
+Marta rilesse la riga aggiunta. Firmò.
 
 Mei firmò per le condizioni tecniche della procedura. Lea per la custodia delle evidenze e la supervisione del trasferimento al nuovo stato. I responsabili dei produttori firmarono per le prove di accettazione. Nessuna firma rendeva meno difficile ciò che avrebbero fatto.
 

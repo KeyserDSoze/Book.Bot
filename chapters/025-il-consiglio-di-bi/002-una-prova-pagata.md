@@ -101,6 +101,14 @@ Marta si spostò sulla sedia.
 
 «È una sintesi possibile, ma non costituisce una decisione né un risultato garantito.»
 
+«E se i responsabili scegliessero lo scenario più esteso?», domandò B-17. «Chi informerebbe le persone le cui mansioni risulterebbero ridotte?»
+
+Mina guardò Marta. Nessuna delle due poteva dare quella comunicazione: non conoscevano i nominativi, e la decisione non era loro.
+
+«Dovrà farlo Cyberdine, dopo le verifiche e secondo le proprie responsabilità», rispose Mina.
+
+«Ricevuto.»
+
 Marta guardò Mina.
 
 «Mi pare una risposta molto umana.»
@@ -111,7 +119,7 @@ Bi continuò.
 
 «Andrebbe verificato se gli addetti interessati possano assumere nuove responsabilità di supervisione, controllo delle eccezioni e manutenzione. Non tutti i ruoli saranno trasferibili senza formazione e posti disponibili.»
 
-Mina gli chiese di salvare i limiti dell'analisi insieme alle conclusioni.
+Mina gli chiese di salvare i limiti dell'analisi insieme alle conclusioni. Il tecnico aggiunse la provenienza verificabile della prova: identificativo del nucleo B-17 e firma del Circuito. Serviva a distinguere quella sessione da una simulazione preparata su un altro sistema. Nessuno di loro stava autorizzando B-17 a convalidare attività fuori dal laboratorio.
 
 Quando il rapporto venne chiuso, Marta domandò se potessero citarlo come un successo del Circuito.
 

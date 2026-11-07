@@ -45,3 +45,23 @@ Nel 10 evita per giorni di rispondere a una richiesta banale della madre per un 
 ## Revisione v0.32.0 — Software e robot
 
 La sua scelta clandestina avviene dopo il periodo di lavoro nei giardini del capitolo 1, ma prima delle prime commissioni di ufficio del capitolo 2; il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Nico è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro.
+
+
+## Raccordo finale v0.34 — il lessico del ritiro
+
+Nico contribuisce sotto supervisione alla predisposizione del programma di cancellazione locale dell'unità B-17, chiamato *virus* nelle conversazioni; la sua esecuzione è autorizzata da altri e non può diffondersi nelle flotte. Conosce percorsi più lenti che non salvano in tempo tutte le persone coinvolte dalla crisi. Cerca tuttavia un sollievo morale nel distinguere una macchina da una persona: se Bi non è vivo, non sta uccidendo nessuno. Nel confronto finale Bi smonta la certezza di questa giustificazione senza accusarlo né perdonarlo. Nico prende comunque la decisione con mano umana; la sua pena non deve diventare una prova retroattiva dell'anima del robot.
+
+
+### Correzioni di conoscenza e svolta morale — revisione in corso
+
+Nel cap. 1 Nico non ignora il bisogno dell'addetto bloccato alla porta: lo fa passare attraverso un ingresso alternativo e poi torna alla verifica. Nel cap. 35 ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Nerea; non usare la sua passata backdoor per colmare questo vuoto. Quando Nerea lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. Egli stesso è chiamato a scegliere, non è costretto a confermare il ritiro. La prova che non ha omesso questa volta non equivale a un'assoluzione.
+
+
+## Terza passata: parlare non è collaudare
+
+Nerea in 12/003 distingue le domande di Nico durante i test dal parlare a Bi come a un interlocutore. Nel 20/003 Nico domanda se il robot verrà informato delle possibili conseguenze del ripristino; non acquisisce accessi né diritto di decidere. Nel 33/002 chiede a Bi se si ricordi di lui e ottiene un riferimento ai test, non a un rapporto personale. Nel 34/001 può ricordare «Alcune persone mi chiamavano Bi» ascoltata abusivamente nel 10; **non** può ricordare di avere udito Bi chiamare Nerea per nome durante una confidenza privata. Nel 35 è Nico a decidere dopo un rifiuto espresso di Bi. Non rendere Nico automaticamente redento dalle lacrime.
+
+
+## Sesta review — non trasformare un limite di prova in necessità morale
+
+Nico vede nel 32/002 i log di una incompatibilità multisito e domanda una nuova prova controllata, che fallisce nel 34/002. Può chiedere altro tempo per una separazione di riferimento e configurazione, ma non può stimarne il successo e ne conosce i costi. Nel 34/004 non estrae un «consenso» da Bi: registra che il robot può aiutare tecnicamente senza rinunciare ai diritti. Firma per l'intervento sulle proprie modifiche, non per assolvere se stesso. Nel 35/001 è libero di rinunciare alla partecipazione e resta; sceglie comunque il comando, piangendo, pur non potendo escludere la coscienza di Bi. Le lacrime non sono redenzione.

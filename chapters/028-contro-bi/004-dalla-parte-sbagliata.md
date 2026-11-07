@@ -23,6 +23,8 @@ Nella stanza delle sessioni il banco di prova era stato spostato di un metro e i
 
 Mina le aveva comunicato le condizioni dell'incontro. Non ci sarebbe stata alcuna dichiarazione pubblica. Avrebbero potuto parlare della posizione espressa da B-17 nell'analisi delle alternative sottoposta, con autorizzazione, a una commissione consultiva. Nessuna parte riservata del contratto Aruvhana sarebbe stata discussa.
 
+Il foglio per l'accesso indicava anche la proroga dell'accordo di custodia. I controlli sul modulo originale e alcune prove locali venivano finanziati dai soggetti dell'accertamento e dai committenti autorizzati; non erano riprese le simulazioni pubbliche. Nerea firmò per l'incontro, non per approvare il modo in cui il Circuito pagava quel laboratorio.
+
 Sul tavolo c'era la sintesi di quell'analisi.
 
 La frase contestata era nel terzo paragrafo: *Un divieto generalizzato per categoria di mansione può ridurre la capacità produttiva e aggravare i costi delle prestazioni senza garantire il ripristino dell'occupazione precedente*.

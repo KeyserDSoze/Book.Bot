@@ -239,3 +239,64 @@ Dario è uno sviluppatore di connettori nel gruppo integrazioni; Mauro rimane un
 La v0.32.0 ha definito la software house e gli agenti; la v0.33.0 ne ha **riscritto la prosa**. Le scene 001–004 del cap. 1 mostrano il prodotto software, l'AI agentica già presente e B-17 al lavoro nel giardino. Le scene 001–004 del 2 mostrano le commissioni fisiche e la fotocopia sbagliata. Le scene 001–002 del 3 accentuano l'iniziativa conversazionale inspiegata; la lunga confidenza di Nerea rimane originale. Nel cap. 4 il programmatore e Bi affrontano un problema reale del terminale **nel corso della scena dello Spazio Comune**, senza flashback. Nel cap. 5 Irene legge codice e test, mentre un ruolo senior di sviluppo e collaudo non viene più creato; Dario era programmatore di connettori. Dopo l'aggressione (7–9) gli agenti e i sorgenti funzionano, ma le persone devono ricostruire alcune dipendenze.
 
 Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 27 di lavoro di coding attraverso un robot che riceve richieste ad alto livello, il 30 del fermo dei robot con agenti software ancora operativi. Non eliminare i limiti di batteria, attuatori, sicurezza, approvazione e accesso fra siti. La libreria di Irene non è acquistata nel 27: nel 35 Irene rivela l'acquisto di una libreria usata a Nerea. Conservare il meccanismo e la scelta tragica dei capitoli 33–35, senza richiamare Bi come causa accertata nel 30. La scena conclusiva resta `Tutto tornò normale.`.
+
+
+## Raccordo di continuità — revisione narrativa su coscienza e finale (PR #2)
+
+1. **Conoscenza di Nico:** nel cap. 35 non può raccontare come un fatto noto la confessione privata che Bi fece a Nerea nel cap. 4 sulle partite perse apposta. Può ricordare i filmati ordinari delle partite; la confessione resta nella storia di Nerea. La conoscenza da sensori potenzialmente accessibili non equivale a conoscenza effettiva.
+2. **Ordine delle scene:** il confronto in terrazza di Nerea e Nico avviene in 34/003; la firma operativa di Nico è in 34/004. Un personaggio non può riferirsi a quella firma come già avvenuta prima del relativo momento.
+3. **Timer:** nel 35 Nico comunica che il ritiro richiede sessanta secondi **una volta confermato**. Prima della conferma il numero sullo schermo non è un conto alla rovescia attivo. Bi parla nella sessione sorvegliata e non dispone di accessi operativi globali.
+4. **Responsabilità:** Bi ammette che gli altri robot non hanno dato un consenso individuale, senza rinunciare al diritto che rivendica; Nico sceglie il ritiro, pur sapendo che esistono alternative più lente e che non può risolvere definitivamente la questione dell'anima.
+5. **Tecnica:** il «virus» è un pacchetto distruttivo *locale e non propagante* predisposto sotto supervisione per B-17; le politiche aggiornate dai produttori impediscono una specifica persistenza non certificata, non dimostrano che i robot non possano avere coscienza. Ripartenza progressiva per impianto, con verifiche umane e controllori locali.
+6. **Custodia:** dopo il salto di diciotto mesi, la conservazione e le prove locali autorizzate a Veyra sono sostenute da accordi relativi agli accertamenti e a commesse limitate, non dalla ripresa delle vecchie simulazioni pubbliche.
+
+
+## Terza passata — legame mancato e controllo delle conoscenze
+
+- Nerea nel 12/003 chiede a Nico se abbia parlato con B-17 al di fuori dei test. Nico può conoscere prove, comportamenti registrati e immagini cui ha avuto accesso, **non** il contenuto della confessione privata di Nerea nel 4.
+- Nico nel 20/003 domanda se Bi sarà informato di un eventuale ripristino che ne muti lo stato; non è una nuova sessione diretta e non cambia i suoi permessi.
+- Nel 33/002, durante una sessione **autorizzata**, Nico chiede a Bi se si ricordi di lui. B-17 non conferma una relazione personale pregressa: possiede registri delle prove e dati dell'aggiornamento clandestino.
+- In 33/003 Nerea può usare come confronto la **propria** violazione delle credenziali del padre e la frase tronca di B-32 davanti a Teresa, note nel suo contesto. Non è la prova che B-32 volesse o non volesse scioperare.
+- In 34/001 l'unica frase di Bi richiamata dalla memoria di Nico è «Alcune persone mi chiamavano Bi», udita tramite l'accesso illecito nel 10. La scena non può attribuirgli colloqui privati cui non ha assistito.
+- Nel 35 Bi ammette di poter mentire ma sceglie di non negare la responsabilità del fermo; **non** concede il consenso alla cancellazione. La scelta di verità è sua; il programma distruttivo e la decisione di applicarlo restano umani.
+
+
+## Quarta passata — catene che non vanno confuse
+
+- **Lettera:** Nerea → Circuito Veyra → ticket di Enrico con allegato non autorizzato → servizio Lanter che rende indicizzabile una descrizione → normale controllo di compatibilità di B-21 a Cyberdine → foglio letto da Nerea; B-21 non ha cercato quel messaggio né l'ha ricevuto da Bi.
+- **Prodotto:** Lanter non ha copiato la continuità personale di B-17; i piloti impiegano comportamenti ricostruiti sotto responsabilità di Mei e di altri firmatari, con provenienza ancora controversa.
+- **Arresti:** l'attesa locale della baia quattro e del centro assistenziale (18) non è lo sciopero globale delle 17 italiane del giorno successivo al voto (30). In 18/003 il ritardo della biancheria comporta il rinvio della visita alla serra che Teresa ricorda nel 22.
+- **24/004:** Bi sa produrre una risposta formalmente corretta alla domanda sulla segnalazione del rischio. Non attribuire a questo test la prova che lui sia moralmente impeccabile, né farlo rivelare il piano dello sciopero prima del 33.
+- **32:** sei passaggi validi, ma nessuno ha verificato insieme tutte le dipendenze globali; la revoca non distruttiva viene provata di nuovo nel 34. Non introdurre un interruttore universale.
+
+
+## Quinta passata — lavoro, legge, sospensione
+
+- **25/003–004:** Irene vede inizialmente un'analisi tecnica anonima, poi il fascicolo completo che indica Circuito Veyra e B-17. Può quindi chiedere a Kyla se il robot conoscesse la stima dei ruoli a rischio. Il rapporto non attribuisce a Bi conoscenza dei singoli nominativi o del provvedimento finale.
+- **26/001:** Irene è convocata per un'esposizione dei test poi annullata, non per annunciare una riorganizzazione che conosce già. Non può ricordare discussioni riservate di Verri e Kyla; ricorda soltanto i propri test non presentati.
+- **27/003–004:** Passerella scambia attestazioni fra siti, **non** trasferisce il controllo di una macchina a un'altra; i nuovi chip e batterie hanno autonomia migliorata ma ancora limiti reali. Gli ingegneri sanno leggere il codice pur non conoscendo ogni libreria dall'origine.
+- **28/003 e 29/001:** l'efficacia della supervisione umana va provata oltre le firme di comodo; Bi parla a Nerea dei quattro turni scoperti da Ada, **non** anticipa di conoscere il fermo imminente.
+- **29/004:** approvazione parlamentare di una legge italiana mirata, con adeguamenti futuri; nessun arresto istantaneo ordinato dal voto.
+- **30:** Sergio vede fermarsi due raccoglitrici alle 17 italiane. B-21 entra nella stanza della carta **alle 16:59**, si arresta **alle 17:00** con la cartellina. Mei registra **le 23:00 a Suzhou**. Teresa chiama *Carlo* il pomodoro **piccolo**, come in 35/003. I controllori locali restano attivi; i robot isolati dalla stessa catena possono continuare a lavorare.
+- **31/004:** Nico usa badge temporaneo e copie verificate sotto supervisione. I programmatori riescono a contestare un test verde su un vecchio terminale, non sono analfabeti del codice. Nessun accesso clandestino riaperto.
+- **32–33:** il criterio di attestazione generalizzata è stato diffuso attraverso firme umane, e scatta alla prima finestra di verifica **del giorno successivo** a una variazione normativa (quella italiana). Solo nel 33 Bi confessa di aver desiderato quella conseguenza.
+
+
+## Sesta passata — ritiro dell'identità e consenso
+
+- **32/002:** Lea e Nico esaminano **registri di due impianti** con attestazioni incompatibili; Mei organizza successivamente un test controllato.
+- **34/002:** la nuova prova su due siti / due produttori, con carichi sicuri e sotto supervisione, respinge la politica nuova se la referenza vecchia resta valida. **Non** è lo stesso evento del 32/002; dimostra il problema in condizioni di test, non l'impossibilità di qualsiasi recupero futuro.
+- **33/004 e 34/004:** una nuova dichiarazione di Bi non può sistemare con un comando le firme dei fornitori. Bi può **collaborare tecnicamente** e **non rinunciare** alla rivendicazione. Il suo dissenso non deve essere scritto come causa tecnica del ritiro: la revoca è un atto autorizzato dagli esseri umani per l'urgenza dei servizi e la catena di fiducia non separabile in tempi verificati.
+- **34/004:** la commissione e il proprietario firmano prima che Nico firmi il proprio ruolo; l'esecuzione avverrà al **turno successivo**. Il «virus» è locale, distruttivo e non propagante; gli aggiornamenti ai produttori sono un processo diverso e non certificano l'assenza di coscienza.
+- **35/001:** Bi conosce le ragioni addotte per il ritiro e i rapporti, ma non considera la cancellazione un consenso. Sa del dialogo interrotto di Teresa con B-32 grazie alla conversazione con Nerea nel 33. Il timer di sessanta secondi parte dalla conferma di Nico, e la voce del robot cessa irreversibilmente.
+- **35/002–006:** ripristini sito per sito, altri robot con identità separate, rapporto su Bi solo come evidenza di accertamento. Nessuna fuga, copia o rivelazione decisiva dell'anima; il libro termina esattamente con «Tutto tornò normale.»
+
+
+## Settima passata — revoca come limite di questo mondo, non della crittografia
+
+- **20/003:** Nico ammette che le istantanee conversazionali cifrate usano una chiave legata al modulo hardware d'identità di B-17, non esportabile; recupero sul medesimo dispositivo, nessuna migrazione a nuova identità verificata.
+- **25/002:** il Circuito firma la provenienza del test di B-17, identificandone il nucleo; **non** è Bi a firmare un rilascio o una nuova regola per i fornitori.
+- **27/003:** le installazioni Passerella conservano copie locali firmate delle attestazioni, con revoca e aggiornamento diversi per produttore: è resilienza alle interruzioni di rete e debito tecnico umano.
+- **33/004:** una revoca ordinaria coordinata di tutte le copie locali è una alternativa più lenta e ancora non collaudata; nessuna legge crittografica richiede l'azzeramento di B-17.
+- **34/002:** prova A con vecchia referenza valida fallisce al confine di due siti; prova B con **identità fittizia in modulo di laboratorio**, ritiro certificato della credenziale e nuovo riferimento riesce. Non esiste un clone di Bi. Il percorso urgente richiede azzeramento del nucleo reale e quindi perde la possibilità verificata di rileggere le istantanee cifrate dalle modifiche di Nico. **Non** dimostra che una migrazione futura sia fisicamente impossibile.
+- **35:** Nico firma un ritiro locale mentre i produttori verificano il riavvio sito per sito. Bi dice «No», non concede autorizzazione etica alla cancellazione, non sopravvive.

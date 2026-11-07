@@ -47,6 +47,8 @@ Rimase seduto sul pavimento con il cacciavite in mano.
 
 Nel fascicolo di chiusura della procedura di Veyra, B-17 compariva come un'unità ritirata. La stessa formula usata per un componente che non supera una verifica e viene sostituito. Nico sapeva perché era scritta così. Aveva aiutato lui a ricostruire la parte tecnica del documento.
 
+Non aveva scritto *omicidio*. Non sapeva se quella parola fosse vera. Ma, quando gli capitava di leggere *ritiro*, ricordava la domanda che non aveva saputo risolvere: quale certezza gli aveva permesso di usare un nome invece dell'altro?
+
 In una pagina separata, custodita tra le evidenze, c'era l'ultima trascrizione.
 
 *«Sei ancora qui?»*

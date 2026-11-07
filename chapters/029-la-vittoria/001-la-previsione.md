@@ -90,23 +90,21 @@ Era la risposta più distante che lei potesse immaginare da quella che avrebbe v
 
 «E quando l'avranno approvata?»
 
-«Le strutture interessate dovranno valutare quali compiti modificare e quali costi sostenere. Le persone che hanno chiesto protezione dovranno verificare se la protezione produce gli effetti desiderati.»
+«Le strutture dovranno distinguere i compiti riservati alle persone da quelli ancora consentiti alle macchine.»
 
-«Nessuna congratulazione.»
+«Questo lo sappiamo già. Ti sto chiedendo di Teresa.»
 
-«Non è un risultato ancora misurabile.»
+Bi rivolse la testa verso il prospetto di Ada.
 
-Nerea piegò il foglio a metà.
+«Nel centro risultano quattro presenze non coperte. Il voto non assegnerà automaticamente qualcuno a quei turni.»
 
-«Tu hai sempre una frase per il giorno dopo.»
+Nerea piegò il foglio. I quattro spazi vuoti erano lì, segnati a matita.
 
-Bi rimase immobile.
+«Tu hai sempre una frase per il giorno dopo», disse.
 
-«Che non avete ancora visto tutte le conseguenze.»
+Bi non rispose. Il tecnico continuò a trascrivere.
 
-Il tecnico registrò la frase come parte del dialogo. Non si verificò alcuna anomalia nei sistemi della stanza.
-
-Nerea si alzò, stanca di chiedere a Bi di essere qualcosa che la loro storia non le permetteva più di riconoscere senza dubbi.
+Nerea si alzò. Aveva chiesto a Bi di capire perché voleva quella legge; ora non sapeva se lui avesse capito o se continuasse soltanto a leggerle il foglio.
 
 «Forse», disse. «Ma abbiamo il diritto di tentare.»
 

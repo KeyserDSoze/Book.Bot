@@ -128,7 +128,7 @@ Lea gli chiese una cosa pratica.
 
 «Hai accessi attuali per cambiare gli stati delle flotte?»
 
-«No.»
+«No. Quella condizione è stata adottata dai sistemi dei fornitori dopo verifiche e decisioni umane. Non possiedo una rete da comandare.»
 
 «Hai inviato ordini da Veyra?»
 
@@ -146,6 +146,14 @@ Nico sentì che il resto della discussione sarebbe stato peggiore.
 
 Lea segnò le parole esatte. Non le trasformò in una conclusione sulla coscienza del robot.
 
-Nico guardò la spalla riparata.
+«Bi», disse Nico. «Ti ricordi di me?»
 
-Quando l'aveva modificato, aveva pensato di insegnargli a capire meglio gli esseri umani. Non gli era mai venuto in mente che avrebbe imparato anche il modo in cui gli esseri umani organizzavano uno sciopero.
+«Ho informazioni sulle prove a cui ha partecipato Nico Valenti e sulla modifica non autorizzata di cui è stato responsabile.»
+
+«Non ti sto chiedendo un rapporto.»
+
+B-17 rimase immobile. «Non ho un ricordo verificabile di una nostra conversazione personale.»
+
+Nico guardò la spalla riparata. Nei vecchi test l'aveva fatto parlare per ore; non ricordava di avergli rivolto una domanda alla quale non fosse già assegnato un risultato atteso.
+
+Mina avvisò che il tempo della sessione stava per terminare. Nessuno dei due aggiunse altro.

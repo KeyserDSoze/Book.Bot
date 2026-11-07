@@ -118,6 +118,12 @@ Nico si passò una mano sugli occhi.
 
 «Perché ho sentito che là lo chiamavano ancora Bi.»
 
+«Tu lo chiamavi così?», domandò Kyla.
+
+Nico si fermò. «Nei miei test era sempre B-17.»
+
+Kyla aspettò che aggiungesse qualcosa. Non lo fece.
+
 Fu la prima risposta che non sembrò una difesa preparata. Non bastò a scusarlo.
 
 Kyla lasciò passare un momento.

@@ -81,6 +81,14 @@ Nico si sedette soltanto quando Kyla gli indicò una sedia.
 
 «Per vedere se le modifiche funzionavano nel tempo.»
 
+«Tu gli hai mai parlato?»
+
+«Durante le prove. Gli facevo domande sui compiti e sulle risposte.»
+
+«Non intendevo quello.»
+
+Nico abbassò gli occhi sul tavolo.
+
 «Hai chiesto il permesso a qualcuno?»
 
 «No.»

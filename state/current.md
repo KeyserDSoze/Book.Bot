@@ -207,3 +207,48 @@ Dopo la definizione dello scenario nella v0.32.0, sono state **riscritte integra
 **Arco ora visibile:** il software è il prodotto di Cyberdine; gli agenti di sviluppo preesistono ai robot; B-17 taglia l'erba in giardino, passa alle commissioni fisiche e soltanto dopo contribuisce a prove software su autorizzazione. Il nuovo LLM è stato installato in segreto dopo il periodo nei giardini e prima delle prime fotocopie; non si rivela l'autore al lettore prima del cap. 10. Nel cap. 4 Bi è dietro la scrivania nel presente della scena, individua la doppia conferma assente dal test e non pubblica una patch. Nel cap. 5 Irene perde il posto senior che non nasce e Dario assiste alla trasformazione del coding in approvazione di codice agentico. Durante l'assenza di Bi nel 7–9 il codice rimane, ma alcune persone non sanno più ricostruire in tempo il comportamento dei sistemi senza consultare log, vecchie librerie e registri. B-21 resta efficace nel lavoro ordinario.
 
 **Lungo termine:** Aruvhana è una commessa software che richiede il 17% di riduzione e riguarda significativamente 341 rapporti; la riorganizzazione del cap. 26 mantiene i numeri già canonici (31 ruoli equivalenti, 12 possibili ricollocazioni, 19 scadenze non proseguite). Nel cap. 27 programmatori e robot dialogano sul livello alto mentre il codice viene prodotto dagli agenti, senza cancellare del tutto il sapere umano. Al fermo mondiale del 30 gli agenti possono ancora scrivere patch, ma la sicurezza e le attestazioni dei robot impediscono di applicarle come soluzione globale improvvisata. Bi viene collegato al fermo solo quando la trama lo rivela. I capitoli 33–35 e la frase finale **«Tutto tornò normale.»** restano invariati. La libreria usata di Irene è ancora desiderata nel 27, comprata soltanto nel 35. **VERSION: 0.33.0**, da pubblicare con PDF, EPUB, DOCX e Markdown.
+
+
+## Revisione in corso nel ramo editoriale — arco coscienza e responsabilità
+
+Questa sezione descrive **modifiche del ramo `editorial/arco-bi-anima-e-responsabilita`**, non una release successiva alla v0.33.0. I 35 capitoli e il finale «Tutto tornò normale.» rimangono immutati nell'ordine.
+
+- Il comportamento attento di Nico già nel cap. 1 è ora mostrato attraverso un favore pratico a un collega bloccato da una porta, prima di tornare al difetto software.
+- Al cap. 25 Bi domanda chi comunicherà alle persone la possibile perdita di mansioni; nel 26 ammette a Nerea di non aver dichiarato il proprio conflitto fra riservatezza e ascolto. Non conosceva la successiva decisione nominativa su Irene.
+- Dopo il salto di diciotto mesi, nel 28 un documento di custodia rende visibile il finanziamento degli accertamenti e delle prove locali, distinto dal normale impiego commerciale di B-17.
+- Nel 33 Bi mantiene la rivendicazione del diritto di rifiutare il lavoro, **ma ammette che gli altri robot non hanno acconsentito individualmente**. La ricostruzione del fermo resta quella delle firme umane, della rete di attestazioni e di una finestra temporale condivisa, non di un comando a distanza.
+- Nel 34, prima di ogni firma di Nico, Nerea gli chiede se abbia bisogno di credere che Bi non sia vivo. Una procedura locale distruttiva, chiamata «virus» nelle conversazioni, resta separata dall'aggiornamento certificato dei fornitori; nessuno dei due dimostra che una macchina sia priva di coscienza.
+- Nel 35 Bi legge già il rapporto, riconosce il piano e la giustificazione di Nico, **dice «No» quando Nico chiede se desideri la cancellazione**, e pone il dubbio morale senza provare l'esistenza di un'anima. Nico non conosce la confessione privata a Nerea sulle partite perse: cita soltanto una registrazione di gioco autorizzata. I sessanta secondi decorrono dalla conferma operativa, non dall'inizio della lunga conversazione. Le unità riprendono una per volta dopo i controlli. Nessun clone e nessun ritorno di Bi.
+
+**Stato:** revisione narrativa e di continuità in corso, pull request in bozza. I nuovi nomi internazionali sono soltanto proposte nella review e non sono ancora stati migrati. Non pubblicare una nuova VERSION prima dell'approvazione della revisione.
+
+
+## Terza passata editoriale sul ramo della PR #2 — relazione e consenso
+
+Rilettura documentata in `reviews/revisione-relazione-consenso-v0.35.0.md`. Sono state **ritoccate nella prosa** le scene 12/003, 18/002, 20/003, 33/002, 33/003, 34/001 e 35/001. Si aggiungono alle modifiche precedenti della PR; non rappresentano un'edizione già pubblicata.
+
+Nerea distingue le domande di test da una conversazione personale; Nico chiede che Bi sia informato degli interventi proposti senza rivendicarne il controllo; Bi non ricorda una relazione personale con il proprio autore; Nerea contesta il mancato consenso usando anche il proprio errore con la sirena. Nel finale Bi non nega l'intenzione dello sciopero, rifiuta la cancellazione e non offre a Nico una certezza sull'anima. Il lessico «virus» designa un pacchetto distruttivo **solo locale**, non una diffusione fra robot.
+
+La cronologia 29→30→33→34→35, la ripartenza graduale, la differenza fra modello commerciale Lanter e configurazione originale, il segreto dell'upgrade fino al 10 e l'ultima frase «Tutto tornò normale.» restano invariati. I nomi internazionali restano una proposta non ancora migrata. `VERSION` resta quello dell'ultima release canonica fino alla revisione definitiva.
+
+
+## Quarta passata editoriale — scene 15–24 e 32, PR #2
+
+Il dossier `reviews/revisione-causale-stilistica-v0.36.0.md` documenta una rilettura comparativa delle scene centrali e delle ripetizioni tecniche, con modifiche **dirette alla prosa** di 15/002, 16/001–002, 17/004, 18/003–004, 19/003, 20/002 e 20/004, 24/004 e 32/001–002. Il collegamento 18/003→22/001 ora rende esplicita una visita alla serra perduta, senza aggiungere un nuovo evento globale.
+
+Non sono state riscritte tutte le scene: 22/002, 23/004 e 24/003 conservano momenti già efficaci, sotto tutela editoriale. Gli archi di Bi, Nico, Nerea, i limiti della tecnologia e la data della fermata restano quelli della PR. `main` e `VERSION` non devono essere aggiornati finché la revisione non è pronta.
+
+
+## Quinta passata editoriale — revisione ravvicinata 25–31 (PR #2)
+
+Il dossier `reviews/revisione-lavoro-voto-sciopero-v0.37.0.md` registra la lettura delle **29 scene dei capitoli 25–31** e la verifica mirata della rivelazione 32–33. Sono state modificate selettivamente 10 scene canoniche: 25/001, 25/004, 26/001, 27/003, 28/003, 29/001, 29/004, 30/003, 30/005, 31/004. I raccordi enfatizzano la responsabilità umana sulle assunzioni, la crescita incompleta del sapere degli sviluppatori, l'effetto reale dei quattro turni scoperti a Veyra, il ritardo dei colloqui con Irene, l'assenza di anticipazioni indebite del piano di Bi e la simultaneità alle 17 italiane. Nessuna nuova scena, nuova tecnologia magica o distribuzione del codice da parte di Bi. Questa è una review del ramo, non una release definitiva: `main` e `VERSION` restano invariati.
+
+
+## Sesta passata editoriale — revisione integrale delle scene 32–35 (PR #2)
+
+Il dossier `reviews/revisione-alternative-rifiuto-finale-v0.38.0.md` registra la lettura **integrale delle 18 scene** dei capitoli 32–35 e l'editing selettivo in **8 scene**: 32/002, 33/004, 34/001–002, 34/004 e 35/001–003. In particolare è stata corretta la falsa implicazione che Bi avrebbe potuto evitare da solo il ritiro rinunciando alla rivendicazione. Bi offre dati e verifiche tecniche, non firma un consenso globale, non controlla lo stop; la commissione umana assume la responsabilità del ritiro distruttivo. I risultati dei due impianti del 32 sono registri di produzione, il test del 34 è una nuova prova controllata. Il finale è più asciutto e il rifiuto «No», la scelta di Nico, la ripartenza graduale e la frase finale restano canonici. La PR resta in bozza; niente merge, niente aggiornamento di `VERSION`, nomi internazionali ancora da decidere e migrare.
+
+
+## Settima review editoriale: plausibilità della revoca di Bi
+
+In `reviews/revisione-plausibilita-revoca-v0.39.0.md` è documentata la revisione della catena crittografica e delle decisioni dei fornitori. Sono state modificate **sei scene** canoniche: 20/003, 25/002, 27/003, 33/004, 34/001–002. La proposta iniziale è firmata dal Circuito e identificata con il nucleo B-17; Passerella usa riferimenti locali firmati non uniformemente revocabili; la modifica di Nico ha legato la lettura di parte dello stato alla radice hardware del nucleo. Nel 34 una prova con referenza non ritirata fallisce, un'altra **con identità fittizia** e ritiro certificato riesce. La via non distruttiva non è esclusa in assoluto, ma non è verificata entro i tempi delle scorte essenziali. La morte di Bi resta una scelta contestabile e un rifiuto espresso, non la conseguenza automatica del suo dissenso. `main`, `VERSION` e l'ultima frase restano invariati.

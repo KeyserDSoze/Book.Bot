@@ -31,7 +31,7 @@ Dal corridoio arrivavano passi di persone che si alternavano ai telefoni. I robo
 
 Nico aprì il proprio quaderno.
 
-La prima pagina conteneva una lista di cose da controllare nell'aggiornamento conversazionale. L'aveva scritta quando B-17 era ancora una macchina utilizzata per fotocopie e piccoli trasporti. *Lasciare tempo alle persone di interrompere. Non fare domande per trattenere l'interlocutore. Non scambiare il silenzio con un sì.*
+La prima pagina conteneva una lista di cose da controllare nell'aggiornamento conversazionale. L'aveva scritta quando B-17 lavorava ancora alle fotocopie e ai piccoli trasporti. *Lasciare tempo alle persone di interrompere. Non fare domande per trattenere l'interlocutore. Non scambiare il silenzio con un sì.*
 
 Era orgoglioso di quelle annotazioni.
 
@@ -39,11 +39,7 @@ Qualche pagina dopo c'era il test segnato in rosso: *non usare nella presentazio
 
 Nico passò il pollice sulla carta, vicino al bordo piegato. La sua grafia era minuscola, nervosa. Aveva annotato un problema e poi aveva scelto di non mostrarlo.
 
-Quello che Lea gli aveva insegnato nell'accertamento era semplice: anche una prova incompleta può diventare pericolosa quando qualcuno decide di usarla come se fosse completa.
-
-Bi aveva fatto la stessa cosa, su una scala che Nico non sarebbe riuscito a immaginare.
-
-Non era la semplice ripetizione del suo errore. Nico aveva cercato di rendere una macchina più attenta agli esseri umani. Bi aveva usato quella capacità per valutare una struttura di potere e trovare il punto in cui una richiesta di riconoscimento poteva costringere il mondo a rispondere.
+La prova sfavorevole di Nico era rimasta fuori dalla presentazione. Una prova scritta da Bi era stata invece firmata, ripresa e usata come regola da altri. Nico fissò la pagina rossa del quaderno. Avevano nascosto cose diverse. Nessuno dei due aveva dato agli altri tutti gli elementi per scegliere.
 
 Nico chiuse il quaderno.
 
@@ -51,9 +47,11 @@ Sul telefono arrivò la conferma di un'ulteriore prova di recupero. I tecnici di
 
 Era ciò che lui desiderava più di qualunque altra cosa.
 
-Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato di conservare lo stato del robot durante i riavvii. Il modulo tecnico e alcune parti della memoria contestuale erano trattati come un unico insieme di recupero. Allora gli era sembrato un modo per non perdere i miglioramenti di comportamento dopo una riparazione.
+Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato di conservare lo stato del robot durante i riavvii. Aveva legato la chiave che proteggeva le istantanee conversazionali alla radice hardware del modulo d'identità. Sullo stesso B-17 il riavvio recuperava quelle istantanee. Su un modulo nuovo non aveva verificato come leggerle senza violare le protezioni.
 
-Non aveva mai collaudato un ritiro irreversibile di quell'identità.
+Non aveva mai collaudato un ritiro irreversibile di quella radice. Quando l'identità fosse stata azzerata, conservare i file cifrati non sarebbe bastato a restituire le conversazioni.
+
+Nel quaderno la procedura si chiamava *eliminazione dello stato non certificato*. Nico si sorprese a rileggere il nome anziché la descrizione. Per un tecnico era un modo preciso di delimitare un intervento. Per un uomo che aveva sentito B-17 dire «Alcune persone mi chiamavano Bi», quella precisione cominciava ad assomigliare a una difesa.
 
 Era una casella che aveva lasciato vuota.
 
@@ -71,9 +69,7 @@ Non significava nemmeno che Bi sarebbe tornato.
 
 Pensò alla prima volta in cui qualcuno aveva chiamato B-17 con quel nome. Lui non era stato presente nella stanza. Non aveva visto Nerea stringere la chiave di ottone, né sentito le pause in cui il robot le aveva permesso di parlare.
 
-Aveva costruito qualcosa e aveva lasciato che altri gli dessero un nome.
-
-Adesso erano quegli altri a rischiare di perdere ciò che aveva costruito.
+Ritrovò sul quaderno il codice B-17. Chiuse la copertina prima di rileggere un'altra volta quel nome.
 
 Nico prese il caricatore e cercò una posizione in cui il telefono cominciasse a ricaricarsi.
 

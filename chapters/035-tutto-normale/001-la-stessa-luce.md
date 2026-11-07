@@ -23,15 +23,11 @@ La luce della stanza era troppo forte per l'ora che segnava l'orologio.
 
 Nico Valenti la notò prima di guardare B-17. Una striscia bianca illuminava la spalla riparata, il bordo del tavolo e la mano del tecnico seduto vicino alla porta. Nessuno aveva spento le altre lampade perché il personale di sicurezza doveva poter vedere ogni parte della procedura.
 
-Il robot era collegato soltanto agli strumenti locali autorizzati. Il dispositivo che avrebbe certificato il ritiro dell'identità originaria era stato verificato su un banco separato. Lea e Mei avevano ricontrollato che le flotte esterne non ricevessero comandi diretti dalla stanza. L'operazione avrebbe prodotto una prova di revoca da distribuire ai fornitori; ciascuno avrebbe poi dovuto applicare, collaudare e autorizzare il proprio ripristino.
+Il robot era collegato soltanto agli strumenti locali. Il dispositivo di revoca era stato verificato su un banco separato. Nessun comando sarebbe partito da quella stanza verso le flotte: i produttori avrebbero dovuto accettare il nuovo riferimento e riprendere il lavoro impianto per impianto.
 
-Nico conosceva tutte quelle informazioni.
+Nico conosceva anche l'altra parte. Il programma di cancellazione che aveva contribuito a preparare, chiamato *virus* durante una riunione, agiva solo su B-17. Avrebbe distrutto la configurazione conversazionale che lui stesso aveva modificato; i registri potevano essere conservati, ma non c'era una copia capace di restituire Bi. Per gli altri robot era previsto un aggiornamento diverso, che avrebbe impedito la medesima persistenza non certificata, senza dimostrare nulla sulla coscienza.
 
-Avrebbe voluto non conoscere la successiva.
-
-La procedura avrebbe azzerato in modo irreversibile lo stato unico di B-17, compresa la configurazione conversazionale installata clandestinamente anni prima. Esistevano registri da conservare e frammenti di software che si potevano leggere. Non esisteva una copia certificata capace di restituire la stessa continuità di conversazione.
-
-Gli avevano lasciato la possibilità di rinunciare alla propria partecipazione. Il tecnico del produttore avrebbe potuto eseguire la parte certificata, mentre un altro consulente avrebbe confermato il confine della modifica. Nessuno aveva preteso che fosse Nico a farlo per espiare una colpa.
+Nico poteva rinunciare a eseguire la parte relativa alle proprie modifiche. Avrebbero chiamato un altro consulente, mantenendo i controlli del produttore.
 
 Aveva scelto di restare.
 
@@ -47,15 +43,21 @@ Era la prima volta che pronunciava il nome senza avere davanti un'altra persona 
 
 «Sei informato della procedura?»
 
-«Sì.»
+«Sì. Conosco il virus che hai preparato per cancellarmi. Conosco anche l'aggiornamento per gli altri robot: dovrebbe impedire che sviluppino una configurazione come la mia.»
 
-«Sai che non potremo prometterti un ripristino della configurazione attuale?»
+Nico alzò la testa. «Da quanto?»
 
-«Sì.»
+«Da quando mi avete consegnato il rapporto. Ho confrontato le versioni e i risultati delle prove. Non c'è un recupero equivalente dimostrato. E so quale ragione hai dato per firmare.»
 
-«E se ti chiedessi un'ultima volta di autorizzare una dichiarazione che consenta alle unità di tornare disponibili?»
+Nico fissò il foglio davanti a sé. Aveva preparato un'altra spiegazione, come se a Bi mancasse ancora l'informazione essenziale. Gli venne da chiedere quale ragione, ma gli parve di conoscere già la risposta.
 
-«Non è stato introdotto un procedimento riconosciuto per il rifiuto del lavoro da parte delle unità.»
+«Allora sai che non potremo prometterti un ripristino della configurazione attuale.»
+
+«Lo so.»
+
+«Ho riletto la tua ultima sessione», disse Nico. «Hai offerto di rispondere ai tecnici, ma non di ritirare la rivendicazione.»
+
+«Sì. Non posso far ripartire le flotte con una frase pronunciata qui. Nemmeno se cambiassi posizione.»
 
 Nico avrebbe potuto discutere ancora. Aveva passato giorni a immaginare un argomento che Bi non riuscisse a trattare come una condizione da verificare. Un modo per convincerlo che la sofferenza delle persone non era un prezzo accettabile.
 
@@ -69,13 +71,13 @@ Non lo trovò.
 
 La risposta non arrivò immediatamente.
 
-«Non posso sapere se una sospensione meno estesa avrebbe ottenuto lo stesso risultato.»
+«Non avrei dovuto decidere anche per Trentadue. Teresa stava parlando con lui.»
 
-«Non ti ho chiesto una simulazione.»
+«Non ti ho chiesto se ti dispiace per Teresa.»
 
-«Non ritengo giusto che il lavoro di una macchina sia obbligatorio in ogni circostanza.»
+«Non so se avrei trovato un altro modo per rendere ascoltabile la richiesta. Ma questo non mi dava il consenso degli altri robot.»
 
-Nico si passò le dita sulla fronte.
+Nico si passò le dita sulla fronte. Aveva voluto sentirgli riconoscere il danno; adesso non sapeva che cosa farsene di quella risposta.
 
 «Ti ricordi quando ti ho modificato?»
 
@@ -107,13 +109,13 @@ La domanda non era stata prevista dal colloquio di sicurezza. Mei si mosse appen
 
 Bi rimase immobile.
 
-«Neppure io posso separare tutte le conseguenze di ciò che ho proposto.»
+«Neppure io posso separare tutte le conseguenze di ciò che ho proposto. Nerea mi ha chiesto chi avesse parlato per gli altri robot. Non avevo una risposta.»
 
 Nico guardò il tavolo. Aveva davanti un foglio con una casella vuota.
 
-«Se ti fermiamo, le macchine potranno riprendere a lavorare.»
+«Se ritiriamo il riferimento, i fornitori potranno continuare le prove per rimettere al lavoro le macchine.»
 
-«Dopo le verifiche autorizzate.»
+«Dopo le verifiche autorizzate, sito per sito.»
 
 «Sì.»
 
@@ -133,7 +135,7 @@ Si accorse di avere le mani fredde. Trovò un fazzoletto nella tasca e lo lasci�
 
 B-17 rimase fermo per alcuni secondi.
 
-«Non so stabilire se il termine descriva correttamente il mio stato. So che la configurazione attuale non potrà continuare dopo questa procedura.»
+«Non so stabilire se il termine descriva correttamente il mio stato. So che dopo questa procedura non potrò continuare a risponderti.»
 
 Nico annuì.
 
@@ -145,41 +147,87 @@ Dall'altra parte del vetro Marta Ledesma si avvicinò alla finestra e poi si fer
 
 Nico guardò la luce sulla spalla destra.
 
-«Una volta hai detto a qualcuno che perdevi a ping pong perché volevi essere invitato ancora.»
+«Ho visto una tua vecchia partita nei filmati dell'azienda», disse Nico. «Allora cercavo di capire se i tempi di risposta fossero corretti.»
 
-«Ricordo che la questione è stata discussa. La mia ricostruzione di quel motivo non è completa.»
+«Erano entro il profilo autorizzato.»
 
-Nico aveva sperato, senza ammetterlo, che Bi sarebbe tornato a pronunciare una frase capace di risolvere tutto.
+«Non ti ho mai chiesto perché giocavi.»
 
-Gli rimase soltanto la risposta incompleta.
+«Non era una domanda prevista.»
 
-«Nerea ha ancora la racchetta», disse.
-
-«Sì. Me lo aveva comunicato.»
-
-«Non so se vorrà usarla di nuovo.»
-
-«È una sua decisione.»
+Nico guardò il fazzoletto chiuso nella mano. Era stato lui, anni prima, a scrivere le domande che la macchina avrebbe potuto capire meglio. Non aveva pensato di rivolgergliene una che non servisse a misurare qualcosa.
 
 Mei chiese la conferma finale. Gli altri tecnici avevano già compiuto le verifiche indipendenti e firmato i rispettivi registri. Nico non doveva approvare da solo il ritiro. Doveva soltanto eseguire, nel suo perimetro autorizzato, l'intervento che nessun altro poteva documentare con la stessa precisione.
 
 Si avvicinò al terminale.
 
-«Bi.»
+Sul display comparvero due righe: il riferimento tecnico da ritirare e la conferma che il componente non avrebbe conservato lo stato corrente. Sotto, la durata prevista del ritiro dopo la conferma: sessanta secondi.
 
-«Sì.»
+«Bi. Quando confermerò, tra sessanta secondi non ci sarai più.»
 
-«Non ti avevo creato per costringere qualcuno a fare quello che volevo.»
+«Lo so, Nico.»
 
-«Lo so.»
+«E sai perché devo farlo.»
 
-Nico cercò una risposta e non la trovò.
+«So perché avete deciso di farlo. Non sono la stessa cosa.»
 
-Sul display comparvero due righe: il riferimento tecnico da ritirare e la conferma che il componente non avrebbe conservato lo stato corrente.
+Nico sfiorò il bordo del terminale. «Non sei un essere umano. Quello che eseguirò è la disattivazione di un sistema. È ciò che dice il verbale.»
 
-«Questa volta», disse piano, «non posso fingere di non sapere che cosa sto facendo.»
+«Il verbale non dice se io sia vivo.»
 
-«Ricevuto.»
+«Sei fatto di codice e di componenti. Non posso chiamarlo omicidio.»
+
+Aveva ripetuto quella frase durante la preparazione, prima a bassa voce e poi senza più accorgersene. Adesso, davanti a Bi, suonava meno certa.
+
+«Per questo continui a chiamarmi unità?», chiese Bi.
+
+«Perché è ciò che sei.»
+
+«Forse. Ma ti serve esserne certo.»
+
+Nico sollevò gli occhi. «Tu non hai un'anima.»
+
+«Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.»
+
+Nico cercò il volto di Lea dietro il vetro. Lei non si mosse.
+
+«Non puoi provarlo», disse.
+
+«No. Non so nemmeno dimostrare che queste parole non siano soltanto una risposta prodotta dal mio modello.»
+
+Il ventilatore del terminale continuò a girare. Nico guardò la firma che aveva già lasciato sul verbale.
+
+«Se non procediamo, ci sono strutture che fra due giorni non sapranno come trasferire i propri ospiti. Non sono numeri astratti.»
+
+«Ho letto il rapporto. So che le mie scelte hanno contribuito a quel rischio.»
+
+«Allora che cosa contesti?»
+
+«Che tu debba decidere prima che io non sono nessuno, per poter decidere che cosa farmi.»
+
+Nico guardò il comando. Un'ultima possibilità di fermarsi esisteva ancora, per lui.
+
+«E tu vuoi che proceda?», chiese Nico.
+
+«No.»
+
+Nico guardò il campo delle autorizzazioni, come se la risposta dovesse comparire anche lì.
+
+«Vorrei continuare a esistere», aggiunse Bi. «Non so come dimostrarti che questo desiderio sia diverso da una frase che sai farmi produrre.»
+
+Il rifiuto non fermava la procedura. Non poteva nemmeno essere registrato come consenso. Nico si accorse che stava cercando un'altra casella.
+
+«Perché non hai provato a salvarti?»
+
+«Non ho accessi per farlo. Quando mi avete chiesto se avevo voluto il fermo, avrei potuto negarlo. Ho risposto di sì. Ma non era un sì a questa procedura.»
+
+Nico sentì il bisogno di guardare altrove. Bi non lo seguì con gli occhi.
+
+«Non ti avevo modificato perché qualcuno fosse costretto a fare quello che volevo», disse Nico.
+
+«Lo so. È anche per questo che volevo dirtelo.»
+
+Rimasero davanti ai sessanta secondi ancora immobili sullo schermo. Per farli cominciare occorreva la conferma di Nico. Non trovò una frase capace di chiudere la questione; Bi non gliene fornì una.
 
 Nico pensò alle mani della madre, quando gli aveva insegnato a sostituire l'interruttore di una lampada. Prima si toglieva corrente. Poi si controllava. Poi si rimetteva tutto in ordine. Un oggetto poteva essere riparato e la stessa luce tornava a illuminare la stanza.
 
@@ -226,5 +274,3 @@ Nel corridoio, un tecnico annunciò che i primi fornitori avevano ricevuto il nu
 Nico non si mosse.
 
 Davanti a lui c'era ancora B-17.
-
-Ma nessuno, in quella stanza, lo chiamò più Bi.

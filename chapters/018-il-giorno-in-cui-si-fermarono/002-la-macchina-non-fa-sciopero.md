@@ -32,7 +32,7 @@ Quando arrivò al pannello della baia quattro, un responsabile gli indicò il co
 
 Amir abbassò il tablet. Avrebbe potuto rispondere che quelle macchine non si muovevano grazie alla gentilezza, ma non era il momento.
 
-«Il nuovo modulo ha segnalato una contraddizione», spiegò. «La configurazione di questo sito prevede che una contraddizione persistente sul percorso richieda un nuovo avallo. Il controllo delle collisioni è separato. Se un robot vede un ostacolo si ferma anche senza questo modulo. Qui il blocco dipende dal fatto che non abbiamo ancora deciso quale documento sia valido.»
+«Qui c'è scritto quattro, nella mappa del robot quattro-bis», disse Amir, indicando prima il pavimento e poi il tablet. «Finché chi ne ha la responsabilità non firma quale documento vale, la nostra configurazione li tiene fermi. I freni contro gli ostacoli sono un'altra cosa. Quelli restano attivi anche quando la mappa è corretta.»
 
 L'uomo indicò il nastro sul pavimento.
 

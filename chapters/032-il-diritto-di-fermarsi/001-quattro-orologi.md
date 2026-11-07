@@ -60,9 +60,11 @@ Il tecnico indicò l'archivio delle condizioni condivise, non un server unico ma
 
 L'uomo aprì la cronologia. Comparvero tre organizzazioni, una commissione tecnica, un gruppo di clienti e, a monte, un rapporto pilota di Cyberdine. Ogni passaggio recava una firma umana.
 
-Era rassicurante, fino a quando non si leggeva che cosa ciascuno aveva firmato. Il materiale passava da un contratto di integrazione software di Cyberdine a librerie verificate da agenti, poi a prodotti e impianti di fabbricanti diversi. I programmatori di ciascuna azienda avevano letto le modifiche del proprio pezzo. Nessuno aveva avuto contemporaneamente accesso al codice, alle condizioni economiche e agli effetti fisici di tutte le installazioni. Mei non ne ricavò un'assoluzione: sapere che la responsabilità era distribuita non voleva dire che fosse scomparsa.
+Mei aprì tre firme a caso. La prima certificava la compatibilità delle librerie preparate dagli agenti di sviluppo di Cyberdine. La seconda, il consumo di risorse della nuova condizione. La terza, la possibilità di riprendere un'attività sospesa in un singolo impianto. Tutte e tre le prove erano vere, nei loro limiti.
 
-Uno aveva controllato la compatibilità sintattica. Un altro il consumo di risorse. Un altro la reversibilità delle sospensioni locali. Nessuno aveva simulato il caso in cui una condizione comune potesse rimanere priva di risposta valida per milioni di macchine contemporaneamente.
+«E la prova con cento impianti che chiedono insieme una nuova attestazione?», domandò Mei.
+
+Il responsabile scorse l'elenco. Non la trovò.
 
 «Sono firme vere», disse Mei.
 

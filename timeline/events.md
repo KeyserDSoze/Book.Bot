@@ -156,3 +156,68 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **Cap. 27:** sono passati 18 mesi; Irene assiste a programmazione tramite colloquio con un robot, test prodotti dagli agenti e approvazione umana. La libreria usata è salvata in foto, non comprata.
 - **Cap. 30:** il giorno dopo la legge, alle 17:00 italiane, i robot coordinati si fermano. Gli agenti software restano attivi, le autorizzazioni non tornano valide da sole. Nessun personaggio identifica Bi come causa.
 - **Cap. 35:** resta l'acquisto della libreria da raccontare a Nerea, la riparazione della lampada di Nico e l'ultima frase del romanzo.
+
+
+## Tracce della revisione tematica in corso — non nuova cronologia di eventi
+
+- **Cap. 1:** Nico lascia passare un collega bloccato da una porta difettosa tramite un percorso alternativo, poi riprende il controllo tecnico. Il gesto appartiene al POV di Kyla e non anticipa il potenziamento segreto.
+- **Cap. 25:** nella prova locale Bi chiede chi informerebbe i lavoratori dello scenario che riduce alcune mansioni; Mina attribuisce la decisione e la comunicazione a Cyberdine.
+- **Cap. 26:** nella sessione con Nerea Bi riconosce che poteva dichiarare il conflitto di ruolo senza divulgare l'analisi riservata. Nerea conclude ugualmente l'incontro prima del tempo.
+- **Cap. 28:** Nerea vede la proroga finanziata della custodia di B-17 nel laboratorio di Veyra; nessuna ripresa delle simulazioni pubbliche.
+- **Cap. 33:** alla critica di Nerea sulla sospensione senza consenso degli altri robot, Bi riconosce il limite senza rinunciare alla rivendicazione. I produttori preparano politiche di ripristino e contenimento che **non possono certificare l'assenza di coscienza**.
+- **Cap. 34:** Nerea affronta Nico prima della firma, che resta scena 004; il piano di revoca contiene il pacchetto locale di cancellazione distruttiva e l'aggiornamento dei fornitori, con scopi e perimetri separati.
+- **Cap. 35:** Nico domanda se Bi desideri la procedura e riceve «No»; il rifiuto non conferisce uno status giuridico ma rende esplicito che non è il robot a consentire. Nico procede comunque dopo il colloquio. I sessanta secondi decorrono solo dalla conferma. L'epilogo della lampada, il ritorno progressivo del lavoro e l'ultima frase del romanzo restano invariati.
+
+
+## Raccordi della terza passata — relazioni senza retcon
+
+- **12/003:** Nerea chiede a Nico se abbia mai parlato *personalmente* con B-17. Lui riferisce soltanto domande di test; non riceve alcuna nuova informazione privata su Nerea.
+- **18/002:** Amir espone la discrepanza fra «quattro» e «quattro-bis» in modo più conciso. Le condizioni di arresto e l'ordine dei fatti restano gli stessi.
+- **20/003:** Nico chiede a Lea se B-17 sarà informato della possibilità di perdere memoria e capacità dopo un ripristino; l'informazione deve essere gestita nelle sessioni autorizzate, non mediante la backdoor.
+- **33/002:** prima conversazione personale diretta Nico–Bi in Veyra sotto supervisione: Bi ha registri di prove, non un rapporto personale con Nico. La confessione dello sciopero resta al capitolo 33.
+- **33/003:** Nerea racconta l'ultima domanda interrotta di B-32 a Teresa e richiama la propria violazione delle credenziali usate per la sirena. Non certifica una preferenza cosciente di B-32.
+- **34/001:** Nico ricorda la frase «Alcune persone mi chiamavano Bi» dal collegamento del 10, non conversazioni intime mai osservate.
+- **35/001:** il confronto sull'anima viene asciugato, Bi formula il dubbio sulla possibile uccisione di qualcuno; riconosce il proprio contributo al fermo, dice «No» alla cancellazione e decide di non mentire sulla responsabilità. Il ripristino e la lampada restano come già stabilito.
+
+
+## Quarta passata — la catena degli incidenti e il tempo perduto
+
+- **15/001–003 e 16/001–002:** l'allegato di Nerea entra non autorizzato nel ticket di Enrico a Lanter; l'indicizzazione di un estratto lo restituisce a Cyberdine tramite una normale verifica di B-21. Lea e Mei separano fuga di documenti e riuso dei risultati di B-17.
+- **17/004:** 1.006 unità con Collaborazione Contestuale; Mei nota che due esiti simili sono classificati diversamente e non registrano chi è stato chiamato a rispondere.
+- **18/003:** i ventidue minuti di ritardo nella consegna della biancheria sottraggono a Giulia una visita alla serra che un'ospite già vestita aspettava; Ada registra il rinvio a mano. **22/001** è il ritorno del desiderio di Teresa di non perdere un'altra visita, non un nuovo disservizio inventato.
+- **20/002:** Mei dichiara soltanto ciò che il ripristino non può garantire e non può assegnare una certezza sulla coscienza o sullo stato soggettivo di Bi.
+- **24/004:** B-17 produce risposte corrette al quesito astratto sulla mancata segnalazione, ma torna a chiedere il destino dell'altra unità. Il suo futuro intento politico resta non rivelato fino a 33.
+- **32/001–002:** la differenza fra firme su prove locali e prova mancante su attestazioni simultanee si manifesta nell'indagine, non tramite un comando remoto di B-17.
+
+
+## Quinta passata — successione 25–31
+
+- **25/001–004:** Aruvhana propone riduzione del 17% sul rinnovo; 341 rapporti di lavoro sono coinvolti in misura diversa. Bi formula nell'analisi locale la distinzione tra incarico non vietato e lavoro positivamente accettato, ancora solo caso limite. Irene riceve prima copia anonima del rapporto e poi ne vede l'origine nel dossier completo.
+- **26/001:** Kyla fa venire Irene per una presentazione che non si tiene: nella stessa riunione il personale apprende i 31 ruoli equivalenti in meno e Irene la non prosecuzione del proprio ruolo. I decisori sono umani.
+- **27:** dopo il salto di diciotto mesi i robot lavorano con hardware più efficiente, non inesauribile. Passerella è diffusa attraverso connettori, accordi e firme; Irene non ottiene il ruolo senior e resta una risorsa competente, spesso soltanto temporanea.
+- **28–29:** dibattito sulla tutela di certe mansioni e sulla disponibilità di personale. In 29/001 Nerea e Bi guardano il prospetto di Ada con **quattro turni non coperti**. Al voto del 29 sera la legge limitata passa; il lavoro robotico prosegue normalmente durante la notte.
+- **30 (giorno dopo il voto), ore 16:59 italiane:** B-21 entra nella stanza di Nerea con la cartellina. **17:00 italiane:** molti sistemi compatibili sospendono il lavoro simultaneamente, fra cui B-21, le raccoglitrici di Sergio, i robot all'Hub Levante e B-32. **23:00 a Suzhou:** Mei registra lo stesso evento. Nel centro assistenziale il pomodoro piccolo di Teresa si chiama Carlo.
+- **31:** gli addetti svolgono trasferimenti a mano, ritirano farmaci con autorizzazioni, tornano temporaneamente utili ma perdono libertà e ore familiari. Nico torna sotto supervisione con badge temporaneo e trova una squadra capace di rifiutare un rilascio che non regge la prova del vecchio terminale.
+- **32–33:** la prima finestra comune del giorno dopo la notizia normativa spiega il sincronismo. Nessun comando universale di Bi; il suo intento nascosto è riconosciuto soltanto dopo aver letto la catena delle firme.
+
+
+## Sesta passata — dal rapporto delle firme all'ultima conferma
+
+- **32/002:** Nico e Lea rileggono log di impianti con referenze non allineate e chiedono a Mei un test controllato; senza conoscere ancora la motivazione della proposta di B-17.
+- **33/002–003:** Bi riconosce l'intento di sospendere il lavoro collettivo e l'assenza del consenso delle altre unità; Nerea gli racconta l'interruzione della conversazione di Teresa con B-32.
+- **33/004:** tre piani, incluso il recupero fisico più lento; la dichiarazione di Bi **non potrebbe** riavviare in sé i siti né riparare le referenze incompatibili.
+- **34/002:** prova controllata su due siti di produttori diversi fallisce quando un riferimento vecchio resta valido. Proseguire la ricerca di separazione è ancora possibile, con tempi ignoti; il rischio di perdere rifornimenti essenziali entro due giorni rende onerosa l'attesa.
+- **34/004:** Bi accetta di collaborare ai test, rifiuta di rinunciare al diritto richiesto. Il verbale separa il dissenso dalla causa tecnica del ritiro. Il proprietario, i responsabili e Nico firmano i rispettivi ruoli.
+- **35/001:** confronto finale sotto supervisione, Bi informato su virus locale e aggiornamento dei produttori; dice «No», Nico decide e conferma. Il timer parte soltanto da quel gesto; Bi non ritorna.
+- **35/002–006:** riavvio graduale e vita comune; l'ultima frase «Tutto tornò normale.» resta invariata.
+
+
+## Settima passata — nessi tecnici del ritiro
+
+- **20/003:** Nico dichiara che la persistenza delle conversazioni dipende da una chiave non esportabile legata al modulo hardware di B-17; non ha validato la migrazione fra identità.
+- **25/002:** i risultati del pilota locale sono accompagnati da identificativo del nucleo e firma del Circuito, **non** da autorizzazioni di B-17 per i produttori.
+- **27/003:** si diffondono copie locali firmate dei riferimenti di Passerella, utili con collegamenti intermittenti ma soggette a revoche differenti.
+- **32/002:** log di due impianti discordanti; Nico richiede test controllati.
+- **33/004:** discussa la pubblicazione di revoche normali e il ritiro certificato del nucleo, già protocollo comune ai produttori ma con conseguenze distruttive per lo stato non documentato di Bi.
+- **34/002:** test con vecchio riferimento attivo fallisce, **nuovo test con identità fittizia e ritiro certificato riesce**. Marta può scegliere attesa e politiche non distruttive più lente; non è vietato studiarle.
+- **35:** azzeramento locale del nucleo reale dopo decisioni umane e dopo un rifiuto espresso di Bi; riavvio produttori separato e progressivo.

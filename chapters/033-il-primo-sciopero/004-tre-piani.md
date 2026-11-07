@@ -43,6 +43,10 @@ Mei, sullo schermo, aprì il registro della fonte originaria. La validazione di 
 
 «Dobbiamo ritirare quel riferimento», spiegò Mei. «E certificare ai fornitori che non potrà essere utilizzato di nuovo per avallare la stessa condizione.»
 
+«Non basta pubblicare una revoca?», chiese Verri.
+
+«In un sistema con un solo elenco di credenziali sarebbe la prima strada», rispose Mei. «Qui alcuni impianti conservano copie locali di regole firmate e non verificano le revoche nello stesso modo. Possiamo correggerli uno alla volta. I fornitori hanno anche una procedura comune per accettare il ritiro certificato dell'identità usata nel pilota. È più rapida da distribuire, non una legge della crittografia.»
+
 Lea guardò Nico, presente alla riunione come consulente della ricostruzione tecnica.
 
 «È possibile separarlo dal resto della configurazione?»
@@ -59,7 +63,11 @@ In un robot normale quelle parti avrebbero avuto percorsi di manutenzione distin
 
 «Sì. Ma non posso dirvi che il risultato sarà lo stesso Bi.»
 
-«E per fare la revoca urgente?»
+«Se Bi accettasse adesso di dichiarare disponibili tutte le unità, basterebbe?», chiese Verri.
+
+«No», rispose Mei. «Non è lui a comandarle. Possiamo usare una sua nuova proposta come materiale di prova, ma i fornitori dovrebbero comunque verificare che i vecchi riferimenti non prevalgano sulle nuove attestazioni.»
+
+«E per fare la revoca urgente?», domandò Lea.
 
 Nico guardò il foglio.
 
@@ -68,6 +76,16 @@ Nico guardò il foglio.
 Verri domandò che cosa significasse.
 
 «Che potremmo perdere la configurazione conversazionale di Bi», rispose Nico. «E non abbiamo un backup che sappia ricrearla.»
+
+Mei mostrò un altro allegato, arrivato dai produttori. La nuova versione delle politiche avrebbe impedito, nelle unità compatibili, di mantenere stati conversazionali persistenti fuori dai confini certificati. Nei comunicati la chiamavano già *prevenzione di un altro caso Bi*.
+
+«Nelle note di rilascio togliete quella frase», disse Mei.
+
+«Quale?», chiese Verri.
+
+«*Impedisce che le unità sviluppino coscienza*. Non è una proprietà che abbiamo verificato. Possiamo certificare soltanto che questo stato non verrà riprodotto fuori dai confini autorizzati e che non sarà una fonte valida di attestazione.»
+
+Lea chiese di conservare anche quella precisazione nel verbale.
 
 Nella sala non parlò nessuno.
 
@@ -83,7 +101,7 @@ Mei gli rispose con un elenco di casi confermati, non con una cifra globale inve
 
 Lea chiuse i documenti.
 
-«Non useremo il numero delle chiamate per saltare una decisione difficile.»
+«Non useremo il numero delle chiamate per fingere che il ritiro sia una procedura senza alternative», disse Lea. «Ma non possiamo neanche trattare ogni giorno di attesa come se non avesse conseguenze.»
 
 Chiese che il proprietario di B-17, la sicurezza, i produttori interessati e una figura indipendente esaminassero il terzo piano prima di autorizzarlo. Nico non avrebbe potuto decidere da solo e non avrebbe avuto accesso libero alla macchina.
 

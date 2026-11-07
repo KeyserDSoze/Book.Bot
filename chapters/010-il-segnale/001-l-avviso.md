@@ -87,4 +87,6 @@ Nico non guardava più niente della stanza.
 
 Stava guardando un bosco dall'altra parte del mondo attraverso gli occhi di Bi.
 
+Quando aveva modificato il software aveva pensato di rendere una macchina meno brusca. Si era chiesto se la prova sarebbe riuscita, se gli avrebbero scoperto la modifica, se avrebbe perso il lavoro. Non si era mai chiesto a chi avrebbe dovuto rispondere, un giorno, se quella macchina avesse cominciato a fare domande a lui.
+
 ---

@@ -77,7 +77,7 @@ Sul telefono di Nerea comparve un messaggio di Mina dal Circuito Veyra. Era una 
 
 Nerea spense lo schermo.
 
-Pensò alla frase di Bi sulle conseguenze non ancora viste. Immaginò aziende costrette a riorganizzare i turni, costi che sarebbero aumentati e persone che avrebbero protestato per servizi diventati più lenti. Non era ingenua. Sapeva che il voto non avrebbe cancellato tutto.
+Pensò alle quattro presenze scoperte nel prospetto di Ada. Immaginò aziende costrette a riorganizzare i turni, costi che sarebbero aumentati e persone che avrebbero protestato per servizi diventati più lenti. Non era ingenua. Sapeva che il voto non avrebbe cancellato tutto.
 
 Dall'altra parte della piazza qualcuno aveva portato una torta improvvisata, con una scritta fatta di glassa irregolare.
 
@@ -107,8 +107,6 @@ Si misero in fila e per cinque minuti parlarono soltanto di che cosa avrebbero o
 
 Le persone continuarono a cantare fino a tardi.
 
-In quel momento, nei magazzini italiani e stranieri, i robot completarono gli incarichi notturni come sempre. Le raccoglitrici agricole furono messe in carica per la mattina. Le unità delle strutture assistenziali spostarono gli ultimi carrelli della giornata. I responsabili prepararono i turni del giorno successivo.
+In quel momento, nei magazzini italiani e stranieri, i robot completarono gli incarichi notturni come sempre. Le raccoglitrici agricole furono messe in carica per la mattina. Le unità delle strutture assistenziali spostarono gli ultimi carrelli della giornata.
 
-La legge aveva appena cambiato quali lavori le macchine avrebbero potuto svolgere in futuro.
-
-Non aveva chiesto a tutte le macchine di fermarsi.
+I responsabili prepararono i turni del giorno successivo.

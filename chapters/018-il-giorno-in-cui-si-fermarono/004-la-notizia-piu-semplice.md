@@ -54,9 +54,7 @@ Lui non parve soddisfatto.
 
 Nel pomeriggio Mei ricevette un rapporto dall'Hub Levante. Un fermo di quarantasette minuti aveva ritardato una partenza, ma nello stesso turno un'altra unità si era arrestata davanti a un carrello instabile. I due eventi erano stati registrati correttamente come cause differenti.
 
-Mei stampò la pagina e la tenne accanto al filmato virale.
-
-Mei avvicinò il video al rapporto e fermò entrambi sullo stesso orario. Su una schermata c'era scritto *rifiuto*. Sull'altra: *attesa per autorizzazione del responsabile della baia*. Il secondo documento portava una firma e un'ora di ripresa. Il filmato si fermava venti secondi prima.
+Mei affiancò il rapporto al filmato virale e li fermò sullo stesso orario. Su una schermata c'era scritto *rifiuto*. Sull'altra: *attesa per autorizzazione del responsabile della baia*. Il secondo documento portava una firma e un'ora di ripresa. Il filmato si fermava venti secondi prima.
 
 Arrivò infine un messaggio del gruppo legale. Un giornalista stava chiedendo se il nuovo modulo fosse collegato a una macchina diventata famosa in una simulazione su un'isola del Pacifico.
 

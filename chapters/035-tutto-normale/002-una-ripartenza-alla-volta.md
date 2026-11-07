@@ -52,6 +52,4 @@ Rosa strinse la cinghia della borsa. «Gli devo ancora una pizza, a mio figlio. 
 
 Sofia lo sapeva. Per un momento desiderò poterle offrire entrambe le cose, la paga e la serata. Le diede soltanto l'orario effettivo delle ore disponibili e le lasciò scegliere se fermarsi per il turno autorizzato del giorno dopo. Rosa lo fotografò e uscì senza ringraziare. Non doveva farlo.
 
-Sofia firmò una ripartenza alla volta.
-
-Non era il momento spettacolare che la televisione aveva aspettato. Non c'era una piazza mondiale in cui tutti i robot si accendevano insieme. C'erano verifiche, carichi spostati e persone che aggiornavano gli orari.
+Sofia tornò alla scrivania. Sul registro la aspettava la firma per il carrello successivo.

@@ -28,7 +28,7 @@ Mei scorse i risultati del trimestre. In diversi siti le richieste ripetute eran
 
 C'erano anche segnalazioni meno facili da mettere su una slide. Un robot in una mensa aveva chiesto una conferma superflua per un vassoio destinato a una sala diversa. Due unità di un impianto avevano atteso istruzioni umane per una discrepanza fra un documento e la disposizione reale di un carico. Un responsabile aveva classificato l'episodio come prudenza utile. Un altro, in condizioni quasi identiche, come tempo improduttivo.
 
-Mei non sapeva se avessero entrambi ragione. Sapeva soltanto che la definizione di *utile* dipendeva sempre di più dal lavoro di persone che non partecipavano allo sviluppo del prodotto.
+Mei affiancò i due rapporti. Alla voce *esito* uno riportava «prudenza utile», l'altro «tempo improduttivo». Nessuno conteneva il nome della persona che, durante il turno, aveva dovuto interrompere il proprio lavoro per rispondere al robot.
 
 Arrivò un'altra mail di Cyberdine. Lea Renzi chiedeva aggiornamenti sull'origine dei casi usati per il nuovo modulo. Mei aveva risposto più volte, distinguendo ciò che era stato ricostruito a partire da osservazioni da ciò che il gruppo tecnico poteva dimostrare di aver progettato autonomamente. La questione non era chiusa; il team legale sosteneva che alcuni materiali del recupero fossero utilizzabili per assistenza, non necessariamente per formare un nuovo prodotto.
 

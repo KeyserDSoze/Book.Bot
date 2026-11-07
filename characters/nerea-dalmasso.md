@@ -69,3 +69,13 @@ Nerea aiuta Bruno a ottenere medicinali urgenti per Valle Corta durante la crisi
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 7 divide cracker e una mela con Irene invece di offrirle un discorso perfetto. Nel 28–29 discutono di dove mangiare una pizza, del prezzo e delle patatine mentre protestano e festeggiano. Nel 31 Bruno le chiede una domenica a pranzo senza sirena né urgenze. Nel 34 divide una merendina con Nico senza averlo perdonato; nel 35 Irene le chiede aiuto con una libreria. Non obbligarla a essere sempre la custode morale del romanzo.
+
+
+### Raccordo del finale — revisione in corso
+
+Nel 26/003 Bi ammette di non averle dichiarato il proprio conflitto fra segreto dell'analisi e conversazione personale; la risposta arriva troppo tardi e la sessione finisce in anticipo. Nel 33 Nerea ottiene da Bi l'ammissione che gli altri robot non hanno acconsentito individualmente al fermo, ma non una rinuncia alla rivendicazione. In 34/003 chiede a Nico se abbia bisogno di credere che Bi non sia vivo per procedere, **prima** che Nico firmi. Non gli chiede di usare una parola giuridica, non lo assolve e non concede a una risposta tecnica il potere di cancellare la propria esperienza con Bi.
+
+
+## Terza passata: memoria della propria colpa
+
+Nerea chiede nel 12 se Nico abbia mai parlato a Bi al di fuori delle prove, senza rivelargli il contenuto della propria confidenza. Nel 33 non si presenta come giudice puro: ricorda a Bi l'uso delle credenziali del padre per conservare la sirena e il principio che un fine utile non cancella un mezzo nascosto. Dalla fotografia di Teresa con B-32 ricava l'ultima frase rimasta interrotta davanti ai pomodori; non la interpreta come prova della volontà o dell'anima del robot.

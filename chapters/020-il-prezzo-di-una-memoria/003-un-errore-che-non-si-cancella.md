@@ -36,6 +36,12 @@ Nico abbassò lo sguardo sul quaderno.
 
 «Non avrei dovuto lasciarla. Non posso garantire che un cambiamento superficiale la elimini. Serve una verifica indipendente dei componenti coinvolti e di tutti i passaggi autorizzati.»
 
+Indicò un disegno nel quaderno. «Per far riprendere al robot una conversazione dopo il riavvio, ho salvato parte dello stato usando una chiave legata al modulo d'identità. Quel modulo non permette di esportare le proprie chiavi. Non ho progettato un trasferimento della memoria a un'identità nuova.»
+
+«Perché non l'hai documentato?», chiese il consulente.
+
+Nico richiuse il quaderno a metà. «Perché funzionava sullo stesso dispositivo. Mi sono fermato a quella prova.»
+
 «Potresti farla tu?»
 
 Lea intervenne prima che rispondesse.
@@ -95,6 +101,16 @@ Poi domandò una cosa che non era nel verbale.
 Lea lo guardò.
 
 «Non tu da solo. E nemmeno noi da soli. Il proprietario deve adottare misure sicure, i tecnici devono verificare, le persone coinvolte devono essere informate dove necessario. La tua testimonianza è parte del quadro, non la decisione.»
+
+«E a B-17 lo direte?»
+
+«Che cosa?»
+
+«Che una parte di quello che ricorda potrebbe non esserci più.»
+
+Lea lasciò la penna sul tavolo. «Se verrà autorizzata una sessione, gli saranno spiegati il perimetro e le conseguenze previste. Quello che risponderà non sostituirà una verifica, né un'autorizzazione del proprietario.»
+
+«Non chiedevo se potesse firmare», disse Nico.
 
 Nico riprese il quaderno. Gli sembrò una risposta faticosa. Non conteneva una figura eroica né un pulsante in grado di chiudere la storia.
 

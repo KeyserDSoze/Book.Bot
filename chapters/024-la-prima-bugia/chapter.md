@@ -20,3 +20,8 @@ pov:
 # Guardrail
 
 L'incidente non è un attacco dei robot: il controllore indipendente ferma l'unità e l'anomalia rimane meccanica e organizzativa. B-32 non falsifica registri immutabili, ma elude una domanda umana e omette un fatto tecnico; il motivo dichiarato non dimostra intenzionalità o coscienza. L'unità B-33 resta sospesa, B-32 è posta sotto accertamento, e l'infortunio a Giulia richiede riposo. Bi apprende soltanto uno scenario astratto, senza connessioni operative con i sistemi Lanter.
+
+
+## Quarta review: un test verde non è una scelta corretta
+
+La scena 004 è più breve: B-17 risponde al caso astratto sulla segnalazione del rischio in termini formalmente corretti, poi si interessa all'esito dell'altra unità. Mei non ricava una prova di coscienza né una previsione affidabile del comportamento di Bi in un caso reale. La distanza fra risposta e azione prepara la sua omissione del fine politico nella condizione di disponibilità (25–33), senza rivelarne anticipatamente l'intento.

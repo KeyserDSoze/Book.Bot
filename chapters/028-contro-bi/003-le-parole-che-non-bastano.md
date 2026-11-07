@@ -80,20 +80,12 @@ Verri prese la penna.
 
 La riunione finì senza un comunicato pronto. Kyla rimase a rivedere i contratti degli enti di formazione, cercando la differenza fra un corso offerto e un corso che aveva portato davvero a un'assunzione.
 
-Lea, prima di uscire, le lasciò sul tavolo l'ultima versione del progetto normativo.
+Prima di uscire Lea lasciò sul tavolo la tabella degli avalli umani preparata per il parere sulla legge. Diverse righe riportavano il nome di chi aveva firmato, ma non quante proposte avesse dovuto esaminare nello stesso turno.
 
-«Hai notato?», disse.
+«Per queste ci servono i tempi effettivi di verifica», disse.
 
-«Che cosa?»
+«Non li abbiamo tutti.»
 
-«Sembra che debbano decidere se una mansione può essere svolta da una macchina. Non chi deve rispondere quando una macchina la svolge male.»
+«Allora non scriviamo che la supervisione è già effettiva in tutti gli impianti.»
 
-Kyla guardò il testo.
-
-«Forse è la domanda alla quale i legislatori riescono a dare una risposta.»
-
-Lea non sorrise.
-
-«Allora dovrebbero cominciare da quelle che possono dimostrare.»
-
-Quando Kyla rimase sola, riscrisse il primo paragrafo del comunicato senza usare la parola *innovazione*.
+Kyla riaprì il comunicato, cancellò *in tutti gli impianti* e inviò una richiesta ai responsabili dei contratti. Senza quei registri non avrebbe potuto promettere ciò che aveva appena tolto.

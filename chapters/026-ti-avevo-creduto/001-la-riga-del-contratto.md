@@ -31,6 +31,10 @@ Irene aprì il proprio fascicolo.
 
 «Non occorre presentare i test», le disse Kyla a bassa voce. «Li abbiamo validati ieri.»
 
+«Mi avete invitata per presentarli.»
+
+«Lo so.» Kyla tenne gli occhi sul fascicolo.
+
 «Allora perché sono qui?»
 
 Kyla non rispose subito.
@@ -57,7 +61,7 @@ Alzò la mano.
 
 «Allora stiamo leggendo le nostre mansioni in una tabella prima di sapere se abbiamo ancora un contratto.»
 
-Kyla aprì la bocca, poi la richiuse.
+Kyla aprì la bocca, poi la richiuse. Irene guardò le tre correzioni segnate in rosso sul rapporto: le avevano chiesto di prepararle per una presentazione che non si sarebbe più tenuta.
 
 «Non tutti i casi sono identici», intervenne Verri.
 

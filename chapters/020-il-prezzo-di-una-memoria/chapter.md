@@ -23,3 +23,18 @@ pov:
 # Guardrail
 
 Non confondere sospensione cautelativa con smantellamento, reset definitivo o morte del robot. Nerea non ha autorità tecnica per imporre una scelta sulla macchina altrui. Proprietà, privacy, sicurezza e possibilità di preservare dati restano temi distinti. La lettera di risposta deve arrivare legittimamente e con mediazione dichiarata, non attraverso la backdoor. La sirena di Valle Corta e il caso Nico restano aperti.
+
+
+## Review della responsabilità (terza passata)
+
+In 003 Nico domanda se B-17 sarà informato della possibilità che il ripristino cancelli una parte della sua configurazione e dei suoi ricordi. Lea risponde nel quadro delle sessioni autorizzate: l'ascolto non sostituisce collaudi, consenso giuridico o decisione tecnica. Nico non ha accesso diretto alla macchina.
+
+
+## Quarta review: documentare ciò che non si sa
+
+In 002 Mei conserva l'avvertenza verificabile sulla possibile perdita delle interazioni di B-17, mentre lascia deselezionata la casella `nessun impatto su soggetti viventi`, non certificabile dai test. Non anticipare un verdetto sull'anima o sulla morte; neppure il futuro programma di cancellazione del 35 è già deciso in questo capitolo. In 004 Nerea e Bruno non hanno bisogno di una chiosa del narratore che assimili la sirena alla backdoor di Nico.
+
+
+## Settima review — persistenza legata all'identità
+
+In 003 Nico mostra un diagramma nel quaderno: parte dello stato conversazionale è stata conservata con una chiave legata al modulo hardware d'identità non esportabile. Il ripristino sullo **stesso** robot era stato provato, la migrazione verso una **nuova identità** no. Non descrivere la perdita di continuità come inevitabilità metafisica né anticipare un esito di ritiro già deciso nel 20.

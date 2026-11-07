@@ -24,3 +24,23 @@ L'incapacità di certificare il salvataggio di Bi deriva dalla modifica non docu
 ## Revisione di continuità v0.32.0
 
 Lea, Mei e Nico ricostruiscono una catena di piattaforme, librerie, attestazioni e controlli che non si può correggere ovunque da un unico terminale. La rarità del sapere end-to-end fra sviluppatori ha un costo reale, ma non trasforma gli esseri umani in incapaci. La soluzione provata senza cancellare Bi non ripristina in tempo i siti interdipendenti. La decisione irreversibile resta una responsabilità documentata, non un pulsante magico.
+
+
+## Raccordo del finale: firmare senza sentenza
+
+Nel dialogo 003 Nerea chiede se Nico abbia bisogno di credere Bi non vivo, **prima** che Nico firmi in 004. La procedura separa la revoca locale irreversibile (detta «virus» nei colloqui) dagli aggiornamenti dei produttori e conserva le alternative non certificate. Bi riceve la documentazione sotto supervisione e non ha un accesso nascosto al piano. Nessuna scelta è presentata come necessaria per ragioni metafisiche.
+
+
+## Correzione dei limiti di conoscenza (terza passata)
+
+In 001 Nico ricorda la frase che B-17 ha realmente pronunciato al Circuito e che lui ha sentito con l'accesso clandestino nel 10: «Alcune persone mi chiamavano Bi». Non gli viene attribuita l'osservazione di conversazioni private di Nerea avvenute senza la sua presenza. Il linguaggio narrativo non certifica che il robot sia una persona.
+
+
+## Sesta review — decisione tecnica e posizione di Bi
+
+Nel 001 le omissioni di Nico e di Bi sono accostate attraverso i rispettivi documenti, non una sentenza del narratore che li dichiari identici. I log del 32 sono verificati nel 002 con una **nuova prova** su due fornitori che fallisce senza pericolo; la continuazione della ricerca rimane possibile, con tempi ignoti e servizi assistenziali in crisi. Nel 004 Bi offre di rispondere alle prove tecniche, ma non rinuncia alla richiesta politica; il verbale registra entrambi i fatti e precisa che **il suo dissenso non è la causa tecnica della revoca**. Marta e gli altri responsabili firmano, Nico partecipa alla parte clandestina sotto supervisione. La firma precede la procedura del 35.
+
+
+## Settima review — due esiti di laboratorio, un danno irreversibile
+
+In 002 una prova con riferimento vecchio ancora valido **fallisce** al passaggio multisito; una seconda con **identità fittizia di laboratorio** e ritiro certificato della vecchia credenziale **riesce**. Non sono prove di coscienza né simulazioni di Bi. Il sistema fittizio dei fornitori prevede certificazione del ritiro del nucleo come via urgente già collaudata, ma l'isolamento di B-17 e la riscrittura delle politiche sono percorsi ancora possibili con tempi non dimostrati. Nico aveva legato la cifratura delle istantanee conversazionali alla medesima radice hardware d'identità: la sua cancellazione azzera la via di lettura senza un trasferimento convalidato. La decisione resta umana.

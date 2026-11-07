@@ -25,3 +25,8 @@ Kyla vuole concludere una visita credibile e tornare in tempo alla propria vita 
 # Guardrail
 
 Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdine è mostrato subito, il settore finale di Aruvhana può rimanere non detto. Il software aziendale è il prodotto e i robot sono strumenti acquistati, non fabbricati da Cyberdine. Gli agenti AI non pubblicano codice da soli. Gli indicatori delle 6.400 ore riguardano il trimestre di automazione complessiva; le unità robotiche sono presenti da 26 giorni. Non certificare coscienza robotica, non anticipare diritti o protesta.
+
+
+## Raccordo della revisione sull'arco morale
+
+Nella scena 001 Nico lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Kyla e l'entusiasmo della visita.

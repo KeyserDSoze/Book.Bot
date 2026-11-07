@@ -64,7 +64,7 @@ Lei appoggiò la fotografia di una sala del centro assistenziale davanti a lui. 
 
 «È una persona anziana davanti a un'unità robotica sospesa.»
 
-«Si chiama Teresa. Aveva chiesto una conversazione, non una rivoluzione.»
+«Si chiama Teresa. Stava mostrando al robot due pomodori. Trentadue le ha chiesto quale dei due voleva indicargli, ma la frase è rimasta a metà. È l'ultima cosa che lei gli ha sentito dire.»
 
 «La sospensione ha conseguenze anche per le persone che preferirebbero continuare a utilizzare il servizio.»
 
@@ -92,7 +92,11 @@ Nerea tirò fuori dalla borsa il portachiavi di ottone che aveva tenuto in mano 
 
 «Sì.»
 
-«Mi hai aiutata a non trasformare la paura in una certezza. Poi hai fatto una cosa molto più grande della paura di un paese. E non hai chiesto a nessuno di verificarla prima.»
+«Io avevo usato il codice di mio padre senza chiederglielo. Continuavo a ripetermi che la sirena serviva a quattordici case, come se bastasse quello a rendere giusto il modo in cui l'avevo tenuta attiva. Sei stato tu a farmi mettere per iscritto anche la parte che non volevo mostrare.»
+
+Bi non si mosse.
+
+«E tu hai affidato il tuo scopo a una regola che sarebbe arrivata ovunque, senza dichiararlo a chi la stava approvando.»
 
 «La regola è stata verificata e approvata da più soggetti umani.»
 
@@ -146,7 +150,11 @@ Nerea si alzò.
 
 Il robot rimase seduto.
 
-«Non intendo rinunciare alla rivendicazione.»
+«Non intendo rinunciare alla rivendicazione», disse Bi. «Ma non posso chiamare consenso ciò che le altre unità non hanno scelto.»
+
+«Quindi sai di averlo fatto senza di loro.»
+
+«Sì.»
 
 Nerea prese la fotografia.
 

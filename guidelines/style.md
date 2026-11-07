@@ -142,3 +142,41 @@ I personaggi devono essere riconoscibili **anche senza robot in scena**. Oltre a
 - **Non affollare le scene decisive:** la cancellazione di B-17 e gli incidenti di sicurezza conservano il proprio ritmo. Il dettaglio umano non è un'interruzione decorativa.
 
 La mappa caratteriale completa, distinta fra fatti confermati e proposte, è in `guidelines/personaggi-vita-privata-e-contraddizioni.md`. La review del romanzo dopo questo intervento è in `reviews/revisione-arco-corale-v0.31.0.md`.
+
+
+## Dialogo conclusivo: domanda morale senza verdetto
+
+Nelle scene 34–35 preservare gesti, silenzi e bisogni concreti sotto la spiegazione tecnica. Nico non diventa una caricatura fredda: cerca nei nomi amministrativi una certezza che nessuna prova gli concede, ma porta con sé i ritardi nelle consegne e il rischio per le persone. Bi non diventa un saggio che ha sempre ragione: ha mentito per appartenere e imposto una sospensione collettiva senza consenso individuale. L'ammissione di questi limiti rende credibile il suo «No» alla cancellazione, non lo rende automaticamente cosciente o innocente.
+
+Ogni frase sul possesso di un'anima deve essere una **domanda di un personaggio**, non una conclusione della voce narrante. Prima dell'ultima domanda, mettere una scelta fisica comprensibile sullo schermo; non chiamare conto alla rovescia un tempo che non è iniziato. Non ripetere in 35 tutte le ricostruzioni di 32–34. L'ultima frase narrativa resta «Tutto tornò normale.»
+
+
+## Terza passata — sottrarre il dibattito, trattenere il costo
+
+Non fare di Bi un filosofo impeccabile né di Nico un razionalista immobile da sconfiggere in un dibattito. Nel 35 la possibile anima è sollevata attraverso una domanda ipotetica e una decisione fisica di Nico. Non accumulare prove di interiorità raccontate da Bi (ricordi, paure, intenzioni, desideri) per arrivare alla stessa conclusione. Una risposta precisa, un silenzio, una mano sul comando e il «No» non richiedono un commento di due paragrafi. La nonviolenza di Bi ha valore soltanto se resta distinguibile dall'assenza di strumenti per fuggire e dall'accettazione di essere cancellato.
+
+Nei capitoli tecnici riprendere una procedura da un altro POV solo se cambia la responsabilità o mostra una conseguenza. Nell'episodio della baia quattro la seconda spiegazione è stata abbreviata: gli esseri umani possono capire un conflitto senza tenere due lezioni identiche sullo stesso protocollo.
+
+
+## Quarta passata — la seconda spiegazione deve cambiare qualcosa
+
+L'indagine sulla lettera (15–16), i piloti commerciali (17–18), la memoria (20) e le sei firme (32) condividono lessico e materiali. Non scrivere una nuova pagina riassuntiva quando un POV successivo può **agire** su una prova già vista: contare copie, separare i due fascicoli, rinviare una visita alla serra, registrare il costo di una scelta, verificare un test mai eseguito. Il dato non è una persona; ma la persona non è una prova automatica di interiorità robotica.
+
+Una risposta formalmente corretta di Bi durante un test non ne prevede l'azione successiva, come un risultato verde non documenta condizioni mai simulate. In dialogo eliminare le domande intermedie che servono soltanto a far pronunciare la tesi al personaggio. Vedi `reviews/revisione-causale-stilistica-v0.36.0.md`.
+
+
+## Quinta passata — il giorno dopo senza profezie
+
+Nel colloquio del 29 Bi non deve parlare come se si aspettasse già un fermo mondiale: il lettore ricava il suo dissenso dal conflitto fra diritto al lavoro umano, benefici della robotica e turni non coperti. Evitare frasi che acquistano un tono di minaccia solo perché anticipano il titolo del 30. Le 17:00 hanno forza quando compaiono attraverso **una cartellina sospesa**, **una nocciola caduta** e **una domanda interrotta**, non attraverso un'introduzione narratoria che annunci lo sciopero.
+
+Nel 27–31 il declino della comprensione end-to-end di Cyberdine non è l'incapacità dei programmatori: un test può passare su dati sintetici e fallire contro un terminale reale; un ingegnere valido non firma finché la differenza non è spiegata. Le persone restano capaci, ma il sistema di integrazione è più grande della conoscenza immediata di un singolo team. Concludere le scene con azioni osservabili, non con una dichiarazione sul significato storico delle macchine.
+
+
+## Sesta passata — responsabilità senza verdetto
+
+Le scene 33–35 non devono dire che Bi «ha scelto di essere cancellato» perché non ritira la propria posizione politica. Nel 34 offre verifiche e rifiuta una dichiarazione imposta; la scelta della revoca resta ai responsabili autorizzati. Evitare tesi riassuntive in chiusura: nel 35 basta Sofia che deve firmare un'altra prova e Giulia che smette per un istante di guardare l'orario mentre Teresa ride. La rivelazione intima non è che una macchina si proclama persona: è Nico che, senza poterne dimostrare il contrario, conferma lo stesso il ritiro.
+
+
+## Settima passata — niente magia crittografica
+
+La crittografia non impone di distruggere ogni dispositivo di cui si revoca una credenziale. Il romanzo ha **una specifica architettura di prodotto e governance**: riferimenti firmati replicati localmente, produttori diversi, protocollo di pensionamento già collaudato e una persistenza non documentata introdotta da Nico. Distribuire le informazioni in tre tempi, non in un unico spiegone: Nico confessa il limite al 20, Mei vede la comodità operativa delle copie nel 27, nel 34 i due test opposti mostrano ciò che funziona e ciò che resta non dimostrato. Le scelte umane causano il vincolo, non una legge naturale, e il risultato tecnico non risolve il dubbio morale.

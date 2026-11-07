@@ -31,9 +31,13 @@ Quando tornò, la lavanderia le aveva già telefonato due volte.
 
 Ada verificò la richiesta, aggiornò la destinazione, fece riprendere l'unità. Il carrello arrivò al piano previsto con ventidue minuti di ritardo. Giulia non le disse nulla. Ada avrebbe preferito una lamentela: era più facile da affrontare di una collega che aveva imparato a risolvere il problema da sola.
 
-Non era un'emergenza. Nessuno aveva rischiato la vita. Ma Giulia aveva lasciato un'attività che stava facendo con un ospite, un'altra collega aveva trasportato a mano parte della biancheria e una donna nella sala comune aveva aspettato più a lungo del necessario che qualcuno l'accompagnasse in giardino.
+Non era un'emergenza. Nessuno aveva rischiato la vita. Una collega aveva trasportato a mano parte della biancheria; Giulia aveva lasciato in sala comune una donna già vestita per uscire.
 
-I minuti risparmiati dai robot non restavano su un conto da cui si potesse prelevare a piacere. Quando mancavano, ricadevano sulle persone.
+«Doveva andare in serra», disse Giulia. «Aveva già messo il cardigan. Adesso dobbiamo distribuire il pranzo.»
+
+«Le parlo io», rispose Ada.
+
+Accanto ai ventidue minuti del ritardo scrisse a mano *visita rinviata*. Il registro delle consegne non aveva una casella per quello.
 
 Nel pomeriggio Ada aprì la comunicazione del fornitore. Parlava di segnalazioni in più siti per richieste di conferma persistenti e di una verifica delle configurazioni locali di Collaborazione Contestuale. Suggeriva di non estendere il programma fino al completamento della revisione e di mantenere gli arresti di sicurezza indipendenti dal modulo linguistico.
 
@@ -72,8 +76,6 @@ Quella sera arrivò un ospite nuovo. Ada lo accompagnò al tavolo comune e gli i
 Ada guardò Giulia, che stava sistemando i bicchieri.
 
 «Si ferma e ci domanda dove andare», rispose Ada.
-
-L'uomo guardò Giulia, che stava sistemando i bicchieri.
 
 «Allora, se devo chiedere qualcosa, lo chiedo a lei?»
 

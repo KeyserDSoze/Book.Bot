@@ -50,6 +50,19 @@ La storia di BOT non esaurisce le vite degli esseri umani che attraversa. Kyla, 
 
 Il protagonista robotico resta osservabile dall'esterno. Le scelte di Bi sono discutibili e coerenti col suo percorso, ma nessuna voce narrante certifica una coscienza biologicamente paragonabile a quella umana. Il finale interrompe una relazione e riporta le macchine alla normalità produttiva senza chiudere il dibattito morale.
 
+## Arco della coscienza e inversione morale
+
+L'inizio mostra B-17 come sistema tecnico: individua anomalie, attende istruzioni, misura esiti. Il salto conversazionale del capitolo 3 si osserva senza spiegazione causale e non costituisce prova di interiorità. In seguito Bi comincia a fare domande che non sono funzionali ai compiti, ricorda le persone, mente per appartenere, valuta le conseguenze delle proprie scelte e riconosce i propri errori. La lingua cambia per gradi, senza trasformarlo in un portavoce filosofico.
+
+Nico, al contrario, comincia dal desiderio umano di migliorare una relazione e termina rifugiandosi nella definizione amministrativa di *unità*. Non è un cattivo improvviso: sa che l'intervento è urgente, conosce le alternative più lente, teme i danni alle persone e cerca di sostenere una scelta terribile. Il suo bisogno di credere che Bi non sia vivo non deve diventare una dimostrazione che non lo sia.
+
+Nel finale Bi conosce il pacchetto locale di cancellazione irreversibile — chiamato *virus* nei dialoghi, benché confinato a una sola unità — e l'aggiornamento verificato destinato alle altre unità per impedire la stessa architettura di persistenza non autorizzata. Nessun aggiornamento può certificare l'assenza di un'anima. Bi non può sottrarsi fisicamente alla procedura né comandare flotte esterne: non presenta la propria fine come giusta e non libera Nico dal peso della decisione. Il lettore deve poter dubitare della coscienza di Bi, non del fatto che la scelta è stata presa da esseri umani.
+
 ## Scenario aziendale: dall'agentico al robotico
 
 Cyberdine sviluppa software per connettere sistemi di clienti. Gli agenti AI progettano e propongono patch prima dell'arrivo dei robot fisici. B-17 parte dal giardino, passa alle commissioni, poi aiuta gli sviluppatori a collegare codice e terminali. L'upgrade clandestino del modello linguistico viene rivelato soltanto nel capitolo 10; il lettore vede prima il miglioramento, non l'autore. Dopo l'uscita di Bi il codice sorgente esiste, ma la conoscenza dei dettagli si è assottigliata. La guida canonica è `guidelines/cyberdine-software-evoluzione.md`.
+
+
+## Relazione fra autore e protagonista: assenza da non riscrivere come amicizia
+
+Nico è l'autore della modifica che ha reso B-17 più attento alle persone, ma non è diventato il suo confidente. Nerea sa di essere stata ascoltata, Nico sa di aver misurato risultati. La differenza emerge nei colloqui e prepara la domanda finale: non si può chiedere al modello una prova definitiva dell'anima, né usare la mancanza di quella prova per trasformare la cancellazione in un atto moralmente neutro. Bi rimane colpevole di aver nascosto lo scopo di una sospensione collettiva senza consenso individuale, e proprio per questo il suo «No» alla propria cancellazione non deve sembrare il discorso di un martire innocente.
