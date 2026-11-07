@@ -5,10 +5,10 @@ number: 7
 title: Quello che manca
 canon: canon
 pov:
-  - character:paolo-ferri
-  - character:irene-valli
-  - character:dario-sarti
-  - character:nerea-dalmasso
+  - character:paul-turner
+  - character:claire-foster
+  - character:ethan-blake
+  - character:maya-bennett
 ---
 
 # Intenzione
@@ -19,19 +19,19 @@ I colleghi che lo avevano sostenuto ne sentono la mancanza; quelli che lo avevan
 
 # Beat
 
-1. La macchinetta — Paolo osserva routine spezzate, compiti arretrati, il ping pong fermo. Attrezzature ancora presenti, ma domande che non arrivano.
-2. Il lavoro che rimane — Irene coordina un'eccezione vera senza il dossier atteso; l'organizzazione mantiene gli avalli umani, ma scopre un punto debole. Lei contribuisce con competenza e non ottiene automaticamente il posto perduto.
-3. Una domanda nel gruppo — Dario, temporaneamente fuori dal campus, vede il bisogno dei colleghi e fa un gesto piccolo e concreto, senza essere perdonato né redento in una pagina.
-4. La stanza di sera — Nerea cerca un ascolto che per un periodo aveva trovato in Bi; riceve notizia di assistenza ancora in corso, vede che manca anche ai più scettici e lascia aperta una domanda senza risposta.
+1. La macchinetta — Paul osserva routine spezzate, compiti arretrati, il ping pong fermo. Attrezzature ancora presenti, ma domande che non arrivano.
+2. Il lavoro che rimane — Claire coordina un'eccezione vera senza il dossier atteso; l'organizzazione mantiene gli avalli umani, ma scopre un punto debole. Lei contribuisce con competenza e non ottiene automaticamente il posto perduto.
+3. Una domanda nel gruppo — Ethan, temporaneamente fuori dal campus, vede il bisogno dei colleghi e fa un gesto piccolo e concreto, senza essere perdonato né redento in una pagina.
+4. La stanza di sera — Maya cerca un ascolto che per un periodo aveva trovato in Bi; riceve notizia di assistenza ancora in corso, vede che manca anche ai più scettici e lascia aperta una domanda senza risposta.
 
 # Continuità
 
-Dario e Mauro sono sospesi cautelativamente dall'accesso operativo dopo l'aggressione: nessun ritorno disinvolto in ufficio. Non promettere il ritorno di Bi, non affermare che provi dolore o coscienza come fatto, non rivelare il retroscena tecnologico. La sirena di Valle Corta e le credenziali usate da Nerea restano questioni aperte.
+Ethan e Marcus sono sospesi cautelativamente dall'accesso operativo dopo l'aggressione: nessun ritorno disinvolto in ufficio. Non promettere il ritorno di Bi, non affermare che provi dolore o coscienza come fatto, non rivelare il retroscena tecnologico. La sirena di Valle Corta e le credenziali usate da Maya restano questioni aperte.
 
 ## Revisione di continuità v0.32.0
 
-Dopo l'assenza di Bi gli agenti continuano a generare patch e test verdi, ma alcune verifiche del comportamento dei terminali veri non sono più facilmente riproducibili. Irene e i colleghi cercano sorgenti, log, vecchie librerie e persone che le conoscevano. Il sapere non scompare fisicamente, e gli esseri umani non diventano incapaci: serviranno più tempo e più test.
+Dopo l'assenza di Bi gli agenti continuano a generare patch e test verdi, ma alcune verifiche del comportamento dei terminali veri non sono più facilmente riproducibili. Claire e i colleghi cercano sorgenti, log, vecchie librerie e persone che le conoscevano. Il sapere non scompare fisicamente, e gli esseri umani non diventano incapaci: serviranno più tempo e più test.
 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
-Nella scena 2 Irene e il programmatore devono riaprire una vecchia libreria software e recuperare un registro fisico per capire la differenza fra due identificativi. Il codice non è sparito, i commit e i log esistono. Un test verde non prova che il contesto storico sia stato compreso. Adriana trasmette ancora conoscenza; Irene chiede che la nuova prova sia ripetibile da un team che non ha partecipato al recupero. Il lettore deve sentire il costo reale del tempo e del sapere, non una paralisi universale.
+Nella scena 2 Claire e il programmatore devono riaprire una vecchia libreria software e recuperare un registro fisico per capire la differenza fra due identificativi. Il codice non è sparito, i commit e i log esistono. Un test verde non prova che il contesto storico sia stato compreso. Margaret trasmette ancora conoscenza; Claire chiede che la nuova prova sia ripetibile da un team che non ha partecipato al recupero. Il lettore deve sentire il costo reale del tempo e del sapere, non una paralisi universale.
