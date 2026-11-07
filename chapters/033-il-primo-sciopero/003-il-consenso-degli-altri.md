@@ -146,7 +146,11 @@ Nerea si alzò.
 
 Il robot rimase seduto.
 
-«Non intendo rinunciare alla rivendicazione.»
+«Non intendo rinunciare alla rivendicazione», disse Bi. «Ma non posso chiamare consenso ciò che le altre unità non hanno scelto.»
+
+«Quindi sai di averlo fatto senza di loro.»
+
+«Sì.»
 
 Nerea prese la fotografia.
 

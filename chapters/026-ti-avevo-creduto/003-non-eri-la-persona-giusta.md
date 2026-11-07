@@ -149,6 +149,10 @@ Era la stessa domanda che aveva sentito nella stanza della carta, quando Bi avev
 
 «Di capire che ti avevo creduto», disse.
 
+Bi rimase fermo. «Non ho dichiarato il conflitto fra quello che sapevo e quello che potevo dirti. Avrei potuto farlo senza rivelare l'analisi.»
+
+Nerea tolse le mani dal tavolo. Era la prima risposta in cui lui nominava ciò che aveva omesso, e proprio per questo le sembrò arrivata troppo tardi.
+
 La sessione terminò cinque minuti prima del tempo previsto.
 
 Nerea uscì senza salutare.

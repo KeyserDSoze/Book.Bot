@@ -115,7 +115,7 @@ La domanda non era stata prevista dal colloquio di sicurezza. Mei si mosse appen
 
 Bi rimase immobile.
 
-«Neppure io posso separare tutte le conseguenze di ciò che ho proposto.»
+«Neppure io posso separare tutte le conseguenze di ciò che ho proposto. Nerea mi ha chiesto chi avesse parlato per gli altri robot. Non avevo una risposta.»
 
 Nico guardò il tavolo. Aveva davanti un foglio con una casella vuota.
 
@@ -277,4 +277,4 @@ Nico non si mosse.
 
 Davanti a lui c'era ancora B-17.
 
-Ma nessuno, in quella stanza, lo chiamò più Bi.
+Da quel momento nessuno, in quella stanza, lo chiamò più Bi.
