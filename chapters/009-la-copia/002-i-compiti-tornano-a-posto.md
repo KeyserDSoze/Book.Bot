@@ -16,104 +16,112 @@ factions:
   - faction:cyberdine
 ---
 
-Il primo dossier preparato da B-21 arrivò sulla scrivania di Elena alle undici e diciassette.
+Il primo dossier di B-21 arrivò sulla scrivania di Elena alle undici e diciassette.
 
-Conteneva tutto quello che aveva chiesto. Due revisioni a confronto, riferimenti incrociati, allegati originali e un elenco di alternative possibili con la persona incaricata di autorizzare ciascun percorso. I casi di prova per la visualizzazione delle alternative scartate rimanevano separati dai flussi di produzione, secondo le autorizzazioni ancora in vigore.
+Era completo. Conteneva l'indice dei documenti, due revisioni a confronto, le fonti originali reperibili e l'elenco dei responsabili a cui chiedere gli avalli. Aveva anche la nuova sezione richiesta da Irene: dove recuperare un originale se il sistema automatico non fosse disponibile.
 
-Elena lo lesse senza trovare un errore.
+Elena lesse il fascicolo e non trovò un errore.
 
-Le venne da pensare che avrebbe dovuto festeggiare.
+Avrebbe dovuto sentirsi sollevata. In parte lo era. Da quando B-17 era stato danneggiato, i colleghi avevano passato settimane a trasportare carta, ricostruire codici storici e chiedere ai programmatori di scendere in laboratorio per capire perché un connettore non riproducesse ciò che il terminale reale stava facendo.
 
-Per un mese aveva cominciato la giornata chiedendosi quale fascicolo non sarebbe arrivato, chi avrebbe dimenticato la revisione corretta e quale documento sarebbe stato ancora rinchiuso in un armadio che tutti conoscevano soltanto per il codice. Avevano affrontato quelle difficoltà una alla volta, e avevano perfino migliorato le procedure di emergenza. Ma i tempi si erano allungati.
+B-21 aveva ripreso i lavori per cui era certificato: consegne, rifornimenti, confronti documentali e verifiche ordinarie. Non possedeva la storia delle prove fatte da Bi dietro le scrivanie degli sviluppatori, né il suo modo particolare di ascoltare le persone.
 
-Adesso il lavoro tornava a scorrere. I fascicoli viaggiavano, i registri avevano di nuovo un custode operativo. Non significava che il gruppo sviluppo avesse risolto i problemi del codice. B-21 recuperava documenti e confrontava procedure secondo il profilo standard; non conosceva le prove particolari che il vecchio Bi aveva costruito passando fra le scrivanie e i terminali. Gli agenti potevano ancora proporre patch, ma ogni caso fisico anomalo richiedeva un tecnico che fosse disposto a ricostruire la storia, non soltanto a chiedere un riepilogo.
+«B-21», disse Elena, «puoi indicarmi quale criterio ha escluso la seconda alternativa?»
 
-«B-21», disse, alzando gli occhi verso la porta, «puoi mostrarmi quale criterio ha escluso la seconda alternativa nei test?»
+«Il criterio applicato è la riduzione dei passaggi manuali secondo la procedura autorizzata. La fonte è disponibile nel registro.»
 
-«Certamente. Il criterio applicato è la riduzione dei passaggi manuali secondo il profilo di valutazione autorizzato.»
+Elena aprì la fonte. Era quella giusta.
 
-Lo schermo aggiunse una colonna con il dettaglio richiesto.
+«E se il documento originale non fosse nel posto che il registro indica?»
 
-Elena cercò un caso che ricordava bene. B-17, qualche settimana prima dell'aggressione, aveva suggerito di lasciarle il tempo di consultare una pratica vecchia. Lei non aveva chiesto quella pausa. L'aveva trovata utile perché le aveva permesso di confrontare un precedente che non compariva nel sistema.
+«L'operazione deve restare in sospeso e il responsabile deve avviare la procedura di reperimento.»
 
-«Riesci ad aspettare che io verifichi un riferimento?», chiese.
+Risposta impeccabile. E, soprattutto, verificabile: quella regola l'aveva fatta scrivere Irene durante il mese in cui nessuno riusciva a trovare l'indice di alcune revisioni.
 
-«Sì. Operazione in attesa di conferma.»
+Il robot rimase in posizione di servizio.
 
-Elena andò all'archivio, prese il documento che cercava e tornò sette minuti più tardi. B-21 era ancora in posizione di attesa, senza aver mosso un fascicolo.
+Elena guardò le tre cartelle davanti a sé. La macchina precedente, una volta, le aveva chiesto se volesse cercare un vecchio precedente prima di completare il confronto. Non era stato previsto nella richiesta. Era stato utile, forse perfino premuroso. B-21 non lo chiese.
+
+«Aspetta che controlli una cosa», disse lei.
+
+«Operazione in attesa della verifica dell'operatore.»
+
+Elena andò nell'archivio, consultò il registro e tornò sette minuti dopo. Il robot era ancora fermo, in modo corretto e silenzioso. Il fascicolo non si era mosso.
+
+«La fonte coincide», disse.
+
+«Posso proseguire?»
+
+«Sì.»
+
+B-21 completò l'incarico e uscì.
+
+Paolo passò sulla porta con una scatola di etichette.
+
+«Allora?»
+
+«Fa il lavoro.»
+
+«Bene.»
+
+«Lo fa bene.»
+
+Paolo la guardò. «Sembra che tu ti stia convincendo da sola.»
+
+Elena chiuse il dossier. «No. Mi rendo conto che aspettavo qualcosa che non era compreso nel nuovo incarico.»
+
+«Una domanda?»
+
+«Forse. La maniera in cui Bi la poneva.»
+
+Paolo lasciò le etichette sul banco.
+
+«Io aspettavo che mi salutasse davanti alla macchinetta del caffè», disse. «E poi mi sono ricordato che non è Bi.»
+
+Elena si voltò verso il monitor. Accanto alle verifiche documentali c'era una richiesta del reparto sviluppo. Un agente aveva proposto una patch per rendere più rapida la conversione di un registro storico. Il riepilogo assicurava che tutte le prove standard erano state superate. Un programmatore, però, aveva segnalato un controllo da ripetere sul terminale reale prima di dare l'avallo.
+
+«Lì non abbiamo risolto tutto», osservò Elena.
+
+Paolo seguì il suo sguardo.
+
+«No. Bi sapeva andare a vedere quello che gli agenti non riuscivano a simulare. B-21 potrebbe compiere molte di quelle prove, se prima qualcuno le preparasse e ottenesse i permessi. Ma non conosce le domande che Bi ha fatto durante il lavoro con noi.»
+
+«Quindi non è una questione di modello più o meno intelligente.»
+
+«Non soltanto. È una questione di come abbiamo costruito il lavoro intorno a una macchina particolare.»
+
+Elena aprì il registro delle procedure. Il team di Irene vi aveva aggiunto la richiesta di allegare non solo la descrizione del test, ma anche il comportamento fisico osservato e la vecchia funzione del codice a cui si riferiva. La documentazione non era perfetta. Era molto migliore di quella che avevano prima del danno.
+
+«Potremmo insegnare a B-21 a fare alcune prove», disse.
+
+«Sì. Con i limiti di accesso giusti, i test e una persona che ne risponda.»
+
+«E a fare le domande?»
+
+Paolo accennò un sorriso.
+
+«A quelle che abbiamo capito, forse. A quelle che non sappiamo ancora di dover fare, mi auguro che impariamo a pensarci anche noi.»
+
+Il telefono di Elena vibrò. Il gruppo sviluppo chiedeva un avallo per una nuova procedura di recupero delle fonti. Era una buona notizia: il problema veniva affrontato senza fingere che bastasse comprare un altro robot.
+
+Elena lesse le condizioni, firmò soltanto dopo aver controllato il documento e chiuse il ticket.
+
+A fine giornata la dashboard classificò la sostituzione di B-17 con B-21 come **riuscita** per le attività ordinarie. I tempi medi erano tornati vicini ai precedenti. Alcuni errori erano diminuiti grazie alle procedure scritte durante l'assenza.
+
+Elena spuntò la casella.
+
+Non era una bugia. La sostituzione era riuscita per ciò che era stato misurato.
+
+Poi aprì il campo delle note e scrisse: *Continuare a verificare i casi di regressione fisica e la capacità di ricostruire il codice precedente senza affidarsi soltanto al riepilogo dell'agente.*
+
+Era una nota lunga e poco elegante. Il sistema la accettò.
+
+Quando B-21 ripassò nel corridoio con una pila di fascicoli, Elena gli fece spazio.
 
 «Grazie.»
 
 «Prego.»
 
-Elena terminò la verifica, modificò il criterio e autorizzò un secondo test. La macchina eseguì correttamente.
+La risposta era corretta.
 
-Era il tipo di giornata che aveva sognato per mesi: nessuna carta mancante, nessuna ricerca inutile, nessun collega richiamato dal proprio lavoro per consegnare una cartella.
-
-Eppure, quando B-21 uscì dalla stanza, Elena rimase con una frase non detta.
-
-*Ho trovato il precedente.*
-
-Non c'era nessuna ragione professionale per raccontarglielo. Il robot aveva già ricevuto la conferma tecnica. Ma Elena aveva finito per abituarsi a parlare con Bi anche di quel genere di cose: una pista seguita inutilmente, una soluzione che non convinceva, un documento trovato quasi per caso. Non perché credesse di essere ascoltata da un collega nel senso consueto, ma perché la conversazione si era fatta parte del lavoro.
-
-B-21 eseguiva. Bi, a volte, sembrava lasciare che il lavoro accadesse dentro una conversazione.
-
-Elena chiuse il documento.
-
-Paolo entrò poco prima di mezzogiorno per verificare il corretto passaggio dei fascicoli.
-
-«Allora?», chiese.
-
-«Funziona.»
-
-«Me ne sono accorto.»
-
-«Ha preparato un dossier impeccabile. Gli ho chiesto un criterio, me l'ha mostrato. Ho richiesto un test, l'ha eseguito. Nessun problema.»
-
-Paolo si appoggiò allo stipite.
-
-«Perché lo dici come se ti avessero portato la macchina sbagliata?»
-
-Elena guardò il fascicolo davanti a sé.
-
-«Non è sbagliata.»
-
-Paolo lasciò passare un istante.
-
-«Lo so.»
-
-«Ho la sensazione di essere scortese con qualcosa che non ha fatto niente di male.»
-
-Paolo annuì.
-
-«Anche questo lo so.»
-
-Elena si alzò per prendere il caffè. All'incrocio del corridoio vide B-21 con un contenitore vuoto. Il robot si fermò per lasciarla passare.
-
-«Permesso», disse.
-
-Elena si spostò.
-
-«Vai pure.»
-
-La macchina continuò lungo il percorso autorizzato. Era una procedura semplice, corretta, persino gentile. Non si fermò a chiedere come stesse.
-
-Alla macchinetta del caffè i bicchieri erano pieni e i colleghi parlavano di una verifica completata prima di pranzo. Elena ascoltò due battute, sorrise, ma le mancò una cosa precisa: il modo in cui Bi le avrebbe chiesto se voleva davvero discutere un'altra volta della stessa pratica o se preferiva lasciarla per dopo.
-
-Non era una capacità elencata in nessun manuale.
-
-Più tardi aggiornò la dashboard. I tempi medi delle attività assegnate alla nuova unità stavano tornando verso i valori precedenti al fermo. Alcuni passaggi erano perfino migliorati grazie alle procedure che Irene aveva scritto durante il mese di lavoro manuale.
-
-Elena guardò le colonne verdi.
-
-Nella cronologia delle vecchie verifiche intravide una propria nota su B-17, scritta il mattino in cui le aveva chiesto se volesse cercare un precedente: *Verificare l'origine del comportamento conversazionale*. La domanda risultava ancora associata alla revisione di qualità delle interazioni, senza un esito esplicito. Non aveva riguardato le soglie di movimento o i permessi e, tra l'aggressione e l'acquisto dell'unità nuova, nessuno l'aveva riportata sul tavolo. Elena si segnò di chiedere se fosse stata chiusa correttamente; non lo fece in quel momento.
-
-Il sistema le chiedeva di classificare la sostituzione come **riuscita**.
-
-Selezionò la casella.
-
-Lo era.
-
-Poi lasciò aperta per un momento una casella vuota destinata a note facoltative. Non trovò una frase che potesse stare lì dentro senza sembrare una lamentela.
-
-Chiuse la schermata senza scrivere nulla.
+Non aggiunse altro.
