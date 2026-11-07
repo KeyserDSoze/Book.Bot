@@ -19,128 +19,80 @@ factions:
   - faction:cyberdine
 ---
 
-Kyla incontrò Paolo davanti alla macchinetta del caffè il giorno seguente.
+Il foglio completamente bianco era appeso alla macchina del caffè con una calamita.
 
-La riconobbe dal suono, prima ancora di vederla. Stava distribuendo acqua calda con una sicurezza sproporzionata alla qualità di ciò che produceva.
+Sotto, in stampatello, qualcuno aveva scritto: **PRIMO CAPOLAVORO DI B-17**.
 
-«State facendo una riunione senza convocazione?» domandò.
+Kyla lo trovò il mattino successivo. Era arrivata al quarto piano per raccogliere testimonianze sui benefici delle nuove automazioni. Aveva con sé un piccolo elenco di domande e la convinzione che almeno metà delle risposte si sarebbe potuta prevedere senza intervistare nessuno.
 
-Mila, appoggiata al muro, alzò il bicchiere. «Formazione sul campo.»
+Paolo le indicò la fotocopia.
 
-«Su cosa?»
+«Ecco la vera intelligenza artificiale. Sa far parlare le persone con un foglio vuoto.»
 
-«Fotocopie.»
+Mila, accanto a lui, mangiava un biscotto. «Ha fatto anche il resto del lavoro, ma non raccontare la parte noiosa.»
 
-Paolo indicò un foglio appeso con una calamita alla fiancata della macchinetta. Era bianco, senza una riga stampata. Sotto qualcuno aveva scritto: **PRIMO CAPOLAVORO DI B-17**.
+Kyla si fece spiegare la storia: il lato sbagliato, il foglio tagliato, la cornice dimenticata nel cassetto, la scheda finalmente leggibile. Ogni volta che Paolo arrivava al proprio intervento, Mila cambiava un dettaglio per dargli fastidio.
 
-Kyla si fermò a guardarlo.
+Nico Valenti comparve in fondo al corridoio con una custodia di attrezzi. Si fermò soltanto un momento. Guardò il foglio bianco, la scritta di Paolo e l'etichetta appena applicata al cassetto della sala copie.
 
-«Cos'è successo?»
+«L'accessorio era lì già prima?», chiese.
 
-La spiegazione richiese tre persone, molte interruzioni e due versioni incompatibili del numero di tentativi. B-17 aveva preso male una scheda dall'archivio, aveva copiato il lato sbagliato, poi aveva stampato un margine tagliato. Paolo aveva recuperato una vecchia cornice per tenere fermo l'originale. Elena aveva autorizzato il procedimento. Alla fine le copie erano state prodotte e consegnate, e una verifica documentale complicata era stata chiusa in tempo.
+«Da anni», rispose Paolo.
 
-Nico Valenti si fermò davanti al foglio appeso, con una custodia di attrezzi sotto il braccio. Era passato per una prova su una postazione vicina e adesso osservava la pagina completamente bianca.
+Nico annuì. «Allora non era un problema nuovo.»
 
-«Non era un problema di testo», disse.
+«Era un problema vecchio che avevamo smesso di vedere.»
 
-«Era un problema di lato», rispose Paolo. «E di qualcuno che si ricordasse dov'era la cornice.»
+Nico sorrise appena e proseguì verso gli uffici di sviluppo. Kyla non vi lesse nulla di particolare. Era il genere di conversazione che faceva volentieri quando incontrava un tecnico: domande minime su problemi concreti, poi di nuovo al proprio lavoro.
 
-Nico si chinò per leggere la nuova scritta sul cassetto della fotocopiatrice. «Quella non la registrano nei test», osservò.
+Elena li raggiunse con il tablet. «Per favore, la prossima volta mostrate ai clienti anche la pagina firmata correttamente. Altrimenti penseranno che passiamo il giorno a produrre fogli bianchi.»
 
-«Eppure ha risolto il problema», disse Elena.
+«Quello che conta è che tu abbia potuto finire la verifica», rispose Kyla.
 
-Nico annuì. Lasciò passare una collega con un contenitore e riprese il corridoio senza fare una foto al foglio bianco.
+«Quello che conta è che la pagina vecchia stava in un posto che nessuno del nuovo sistema aveva indicizzato», intervenne Mila.
 
-Paolo approfittò della pausa per annotare la soluzione su **Lanter Service**, il portale di assistenza del costruttore dei robot. La scheda della famiglia B chiedeva una descrizione breve, utile a chi avrebbe usato lo stesso accessorio su un'altra unità. Scrisse *cornice magnetica; lato stampato verso il vetro*. Non allegò il documento firmato di Elena: per spiegare un problema di presa non serviva mostrare cosa ci fosse scritto sulla carta.
+Raccontò del registro recuperato da B-17. La pagina non aveva il codice che il programma si aspettava, ma spiegava perché due registri moderni sembravano in conflitto. Il robot l'aveva trasportata, Mila aveva confrontato le versioni, Elena aveva firmato. Nessuno aveva modificato il codice di produzione.
 
-«Quindi l'operazione è riuscita», disse Kyla.
+Kyla aprì il ticket sul proprio tablet. Era quello che l'agente digitale aveva proposto durante la visita di Aruvhana: rendere visibili al revisore anche le alternative escluse. Un responsabile aveva autorizzato una prova limitata. La nuova nota di Mila descriveva esattamente il tipo di caso che voleva introdurre nella verifica.
 
-«Perfettamente», rispose Elena entrando nella nicchia con il telefono in mano. «E per una volta non ho passato la mattina davanti alla fotocopiatrice.»
+«Per una volta non dobbiamo inventare un esempio», disse Kyla.
 
-Paolo picchiettò il foglio bianco.
+«E non dimenticare da dove viene», rispose Mila. «La proposta è dell'agente. La pagina vera l'ha trovata il robot perché io sapevo cosa chiedergli di andare a prendere.»
 
-«Questa però è un'opera unica.»
+«Lo segno.»
 
-«Se lo fotografi per la bacheca dei risultati», disse Kyla, «devi mettere accanto anche il fatto che la pratica è uscita in orario.»
+Kyla aggiunse alla scheda: *Caso proveniente dall'archivio quattro, generalizzato senza dati del cliente. Test in ambiente isolato. La scelta della fonte rimane del revisore umano.*
 
-«Non rovinarci la leggenda con gli indicatori.»
+Il tablet confermò l'invio. Nessuna modifica fu pubblicata; nessun algoritmo ricevette un permesso nuovo. La differenza era una domanda in più posta al gruppo che avrebbe dovuto scrivere e verificare la correzione.
 
-Kyla sorrise. Le battute raccontavano più cose del tono con cui venivano pronunciate. Nessuno sembrava irritato dall'aver dovuto aspettare una macchina. Paolo si era preso il tempo di risolvere un problema minuto, invece di essere richiamato d'urgenza per un'interruzione grave. Elena era uscita per il caffè, cosa che mesi prima faceva soltanto dopo mezzogiorno.
+B-17 comparve con una risma di carta sotto il braccio. Sulla giuntura del ginocchio c'era ancora una traccia di polvere del giardino. La scatola era troppo grande perché potesse vedere direttamente il pavimento davanti ai piedi; il robot procedeva seguendo il percorso autorizzato, rallentando ogni volta che un collega gli tagliava la strada.
 
-B-17 comparve in fondo al corridoio.
+«Ecco l'artista», annunciò Paolo.
 
-Stava trasportando una risma di carta formato A4, chiusa da due fascette. Aveva ricevuto un ordine di rifornimento dalla postazione di stampa. Davanti alla porta della sala copie rallentò, attese che ne uscisse un collega e riprese a muoversi.
+«Il suo nome è B-17», precisò Elena.
 
-«Ecco il nostro artista», disse Mila.
+«È un artista con un numero», rispose Mila.
 
-Paolo sollevò il bicchiere. «Oggi due lati, mi raccomando.»
+Il robot posò la risma sul banco, controllò la consegna e attese che l'addetto alla sala copie confermasse. Nessuno gli chiese di intervenire nel codice. Nessuno in quella stanza lo considerava parte del reparto sviluppo.
 
-La macchina continuò il percorso.
+Kyla notò, però, che il foglio bianco aveva richiamato più persone di qualunque grafico della sua presentazione. Paolo aveva risolto un problema di presa meccanica con un accessorio dimenticato. Mila aveva trovato una eccezione nei dati grazie a un registro che non compariva negli indici attuali. Elena aveva difeso il controllo dell'originale quando sarebbe stato facile affidarsi al riepilogo.
 
-«Vi siete accorti che gli parlate?», chiese Kyla.
+Tutti avevano impiegato meno tempo. Nessuno aveva rinunciato alla parte del lavoro che soltanto lui o lei sapeva fare.
 
-«Parlo anche alla fotocopiatrice quando si inceppa», rispose Paolo.
+Kyla non provò a trasformare la scena in uno slogan.
 
-«E alla macchinetta del caffè», aggiunse Mila. «Solo che lei risponde sempre di no.»
+«La prossima delegazione la porto qui», disse.
 
-Elena guardò il foglio bianco sulla calamita. «Almeno questo è servito a qualcosa.»
+Paolo la guardò. «Davanti al capolavoro?»
 
-«Che cosa?»
+«Davanti alla cornice. E davanti al ticket di Mila, quando avremo finito di provarlo.»
 
-«Adesso tutti sanno dov'è la cornice. Per anni è stata nascosta in un cassetto e ogni volta ricominciavamo da capo.»
+«Allora avremo tempo di fare una fotocopia presentabile», intervenne Elena.
 
-Kyla registrò mentalmente la frase. Aveva appena ricevuto un documento sulle nuove procedure di integrazione tra operatori e bot; conteneva molte pagine sulla riduzione dei tempi. Non ne conteneva una sulla ragione per cui qualcuno dovesse spostare un carrello o scrivere *cornice, qui* sotto una fotocopiatrice.
+Kyla rimise il tablet in borsa. Sul proprio telefono l'amica del cinema le aveva inviato la fotografia di un biglietto strappato a metà, per scherzo. Kyla sorrise: la sera prima era arrivata puntuale.
 
-Il telefono vibrò. Il referente del flusso clienti le aveva risposto a proposito della prova proposta dall'agente software durante la visita di Aruvhana. In quei giorni B-17 aveva segnalato, mentre portava le pratiche cartacee, che un documento escluso dal riepilogo poteva comunque rivelarsi utile al revisore. Il referente aveva unito le due osservazioni per un test circoscritto. A Kyla parve una collaborazione molto modesta: un agente digitale suggeriva un cambiamento e un robot addetto alle commissioni trovava il punto in cui quella proposta non bastava ancora.
+Uscendo dal piano vide B-17 fermarsi davanti al carrello del corridoio. Mila lo aveva spostato abbastanza da lasciargli passare il contenitore. Il robot proseguì senza ritardare.
 
-*Proposta agente di sviluppo / osservazione B-17: alternative scartate visibili nel riepilogo. Test consentito su casi di prova, nessuna variazione delle approvazioni correnti. Verifica del team a fine ciclo.*
+Dal punto di vista del sistema, quella fu soltanto un'altra consegna completata.
 
-Kyla lesse il messaggio una seconda volta. Non era un permesso generale. Era una prova controllata, con un responsabile umano e un limite chiaro. Esattamente il genere di miglioramento che Cyberdine aveva cominciato a ottenere da quando i bot erano entrati nei processi.
-
-«Buone notizie?» domandò Elena.
-
-«Un agente software ha proposto una modifica. B-17 ci ha mostrato dove potrebbe essere utile quando quei dati diventano fascicoli veri. Per ora la proviamo su casi sintetici.»
-
-«Di chi è?»
-
-«L'agente, insieme a un'osservazione di B-17.»
-
-Paolo guardò la sala copie. «È un talento poliedrico.»
-
-«Basta che non progetti il caffè», disse Mila.
-
-La macchinetta emise il proprio lungo sospiro e iniziò a sciacquare gli ugelli. Paolo ritirò in fretta il bicchiere prima che l'acqua sporca gli finisse dentro.
-
-Stavolta risero tutti.
-
-Kyla si avviò verso il proprio ufficio, ma si fermò quando Elena la chiamò.
-
-«A proposito della visita di Aruvhana. Gli avevi mostrato il pannello con le ore restituite, vero?»
-
-«Sì.»
-
-«La prossima volta portali qui.»
-
-«Davanti alla macchinetta?»
-
-«Davanti alla fotocopiatrice. È meno impressionante, ma capiscono subito.»
-
-Kyla guardò oltre il vetro. B-17 aveva posato la risma sul banco e stava separando con cautela la prima fascetta. Sul coperchio nero della macchina un'etichetta nuova indicava il lato da appoggiare sul vetro. Paolo l'aveva aggiunta durante la pausa.
-
-«Forse hai ragione», disse Kyla.
-
-Mentre tornava indietro, vide Mila chinarsi sul carrello parcheggiato accanto alla curva. Una delle ruote era girata verso il centro del corridoio. La sistemò con la punta della scarpa, poi proseguì senza guardare se qualcuno se ne fosse accorto.
-
-Pochi istanti dopo B-17 uscì dalla sala copie.
-
-Seguì la curva senza fermarsi.
-
-Dalla nicchia del caffè arrivò la voce di Paolo.
-
-«Chi ha visto il nostro campione? Mi serve una stampa.»
-
-«È già passato», rispose Mila, senza staccare gli occhi dal telefono. «Sta tornando dall'altra parte.»
-
-Kyla continuò a camminare.
-
-Dietro di lei, nel corridoio, i passi metallici si allontanavano tra quelli degli altri.
+Kyla non la registrò nella dashboard.

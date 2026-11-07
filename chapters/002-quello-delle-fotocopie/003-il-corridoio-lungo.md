@@ -19,106 +19,104 @@ factions:
   - faction:cyberdine
 ---
 
-Mila Corsi era arrivata alla conclusione che il nuovo collega più famoso del quarto piano fosse quello che non partecipava alle riunioni.
+Il problema delle tre fotocopie era che arrivarono in orario.
 
-La mattina prima, alla macchinetta, avevano discusso per venti minuti di una modifica ai turni. Quel giorno Paolo aveva monopolizzato la conversazione raccontando del foglio azzurro. L'argomento tornava sempre lì: un bot aveva fatto qualcosa di perfettamente normale, qualcosa che nessuno avrebbe notato se a compierla fosse stato un impiegato.
+Mila Corsi se ne rese conto quando aprì il fascicolo sulla propria scrivania. La copia era leggibile, il codice del cliente coincideva, la firma era stata verificata. Mancava soltanto una corrispondenza con il vecchio sistema delle revisioni.
 
-Mila stessa lo aveva preso in giro. Le piacevano le battute che tenevano lontano il tono solenne delle presentazioni aziendali.
+Se le copie fossero arrivate in ritardo, avrebbe chiesto di rinviare il confronto e nessuno avrebbe discusso. Invece erano lì, e bisognava capire quale dei due registri avesse ragione.
 
-Ora era alla postazione verifica B, davanti a una pratica che non riusciva a proseguire.
+Sul monitor un agente software aveva preparato una sintesi: *possibile duplicazione di identificativo; correzione suggerita secondo la versione attuale*. Due alternative, entrambe documentate. Nessuna citava il registro cartaceo che si usava prima della migrazione.
 
-Il sistema segnava **documento ricevuto**. La copia era arrivata senza ritardo. Mancava però un numero di riferimento che avrebbe permesso di confrontarla con la scheda elettronica. L'originale era firmato e valido, ma la casella in basso risultava compilata secondo una convenzione precedente.
+«Un'altra volta», disse Mila, «il passato non ha letto il piano di aggiornamento.»
 
-Mila controllò il fascicolo digitale. Stessa anagrafica, stessa data, stessi campi principali. Un solo numero sembrava appartenere a un registro diverso.
+Paolo passò davanti alla porta con il proprio bicchiere d'acqua.
 
-Il software suggeriva due strade. La prima consisteva nel chiedere il nuovo originale, con tempi impossibili per la riunione di mezzogiorno. La seconda richiedeva un confronto con il registro cartaceo delle revisioni, conservato nell'archivio quattro, e un'assunzione di responsabilità esplicita da parte del coordinatore.
+«Hai finito?»
 
-«Meraviglioso», mormorò Mila. «Abbiamo automatizzato tutto tranne il passato.» Da Cyberdine uscivano interfacce software per macchinari costosi; eppure un foglio con una firma poteva fermare la progettazione di un connettore per un pomeriggio intero.
+«Ho cominciato. C'è un numero che nel vecchio registro aveva un altro significato.»
 
-Il telefono vibrò. Elena chiedeva se le copie fossero leggibili.
+«Ah. Uno di quelli che ci sono costati la settimana di Ferragosto.»
 
-*Sì. E sono persino belle. Ho un problema di riferimento. Verifico il registro.*
+«Dove tengo quel registro?»
 
-Mila aprì la funzione di supporto. Il servizio di manutenzione del giardino non compariva più fra le attività ordinarie di B-17. Il robot era stato riassegnato alle commissioni interne, con un'autorizzazione in più e un preventivo minuscolo per il reparto; nessuno vi aveva visto una decisione sul futuro dell'azienda. Mila gli assegnò un incarico aggiuntivo: prelevare dall'archivio autorizzato la pagina del registro relativa alla convenzione precedente, portarla alla verifica B e riportarla nel contenitore chiuso a fine consultazione. Il sistema mostrò il percorso, la durata prevista, il controllo richiesto sull'accesso.
+«Archivio quattro. In fondo, dentro la custodia trasparente. Se non lo trovi chiama chi era qui prima della migrazione.»
 
-Confermò la richiesta.
+Mila aprì il pannello delle commissioni. B-17 aveva terminato la consegna delle copie; era in attesa di una nuova attività del servizio interno. Gli assegnò il recupero della pagina, indicando il cassetto e l'obbligo di restituirla dopo il confronto.
 
-Attraverso il vetro vide B-17 fermarsi nella corsia centrale. Il robot aveva appena lasciato sulla scrivania di Elena le due copie richieste; ora il segnale di nuova attività comparve sul suo display laterale. Restituì il contenitore vuoto al carrello, girò di novanta gradi e prese il corridoio opposto.
+Il robot si mise in movimento.
 
-Mila rimase a guardarlo.
+Dalla finestra della postazione Mila lo vide attraversare il corridoio, passare vicino alla sala dove i programmatori lavoravano sui connettori e fermarsi davanti a una chiazza d'acqua segnalata da un cono. Prese il percorso laterale. Un uomo con un carrello cercò di passargli davanti; B-17 rallentò e lasciò che il carrello proseguisse.
 
-Di solito un incarico digitale cambiava stato dentro uno schermo. Uno fisico faceva muovere qualcuno. Il nuovo sistema univa entrambe le cose con una naturalezza che, finché non la vedevi nella tua giornata, era difficile raccontare.
+Mauro Lanza trasportava una pila di tazze verso la raccolta. Si spostò appena.
 
-B-17 attraversò l'area aperta vicino alle sale riunioni. Si fermò davanti al pavimento bagnato, segnalato da due coni gialli. Invece di tagliare il percorso, prese il passaggio laterale. Svoltò oltre i telefoni di servizio, costeggiò la biblioteca tecnica e raggiunse l'archivio dal lato opposto.
+«Adesso dobbiamo fare la fila anche per consegnare un bicchiere», disse, con un sorriso meno convinto di quello di Paolo.
 
-Mauro Lanza, del servizio di movimentazione, stava portando una pila di tazze al punto di raccolta. Fece un passo indietro per lasciare il passaggio al robot, senza interrompere la conversazione con un collega.
+«Ti dà fastidio il traffico?», gli chiese Mila.
 
-«Ormai devo aspettare anche io il verde», scherzò.
+«Mi dà fastidio che ieri mi abbiano tolto due giri di consegne e poi mi abbiano detto che avevo guadagnato tempo.»
 
-Mila gli rivolse un cenno. Pochi giorni prima Mauro le aveva chiesto se i turni delle consegne interne sarebbero cambiati, ora che gran parte dei trasporti ordinari veniva assegnata ai robot. Lei gli aveva promesso che avrebbe controllato la pianificazione; non aveva ancora ricevuto una risposta.
+Mila non trovò una battuta pronta. Avrebbe potuto ricordargli il minor numero di chiamate fuori turno. Mauro aveva ragione su una cosa più limitata: i giri erano davvero spariti. Erano una parte dei suoi incarichi, e con essi alcuni compensi aggiuntivi.
 
-Mila pensò a tutte le volte in cui aveva chiesto a qualcuno di andare a cercare una carta. La richiesta era breve; il tragitto mai. Bisognava lasciare una verifica a metà, trovare l'armadio giusto, ricordare quale chiave funzionasse, tornare e poi riprendere il filo. Il tragitto rubava dieci minuti, l'interruzione spesso mezz'ora.
+«Chiedo a chi prepara la pianificazione», disse.
 
-Irene Valli, che stava uscendo dalla stanza di Adriana Lodi con due fascicoli sotto il braccio, si fermò vedendo Mila davanti al terminale.
+«L'hai già detto.»
 
-«State cercando la vecchia numerazione?», domandò.
+«Lo so.»
 
-«Sì. Ci manca la corrispondenza con il registro.»
+Mauro continuò il proprio percorso.
 
-«Allora controllate la pagina originale. Adriana dice sempre di non fidarsi di un indice soltanto perché qualcuno ci ha scritto *versione finale*.»
+B-17 tornò dall'archivio con una custodia trasparente. Davanti alla curva un carrello abbandonato occupava lo spazio necessario. Il robot si fermò. Sul monitor di Mila comparve *ostacolo imprevisto; attesa rimozione*.
 
-Mila annuì. Irene si allontanò, ancora intenta a cercare una firma fra le cartelle. Non le aveva risolto il problema; le aveva ricordato che il problema era la fonte, non il formato.
+«Quel carrello è lì da martedì», disse Paolo, comparendo di nuovo sulla soglia.
 
-B-17 rientrò dall'archivio con una custodia trasparente.
+«E tu perché non l'hai spostato?»
 
-Poco prima della curva trovò la corsia occupata da un carrello carico di scatole. Il robot rallentò. Calcolò un passaggio a destra, non lo considerò sufficientemente largo, si arrestò.
+«Avevo una relazione molto seria da mantenere con lui.»
 
-Mila poteva vedere sul monitor la causa: **ingombro imprevisto, attesa rimozione ostacolo**.
+Mila uscì, lo spinse contro la parete e tornò oltre la striscia di sicurezza. Il robot riprese a muoversi.
 
-«Si è fermato di nuovo», disse Paolo comparendo alle sue spalle.
+«Almeno non ha provato a passare lo stesso», osservò Paolo.
 
-«È il carrello.»
+«È un robot con buon senso», disse Mila.
 
-«Lo so. Ci inciampo da martedì.»
+«È un robot con un sensore e una distanza minima. Sono due cose diverse.»
 
-«E non l'hai spostato?»
+B-17 appoggiò il registro sul banco. Mila lo aprì alla pagina indicata e confrontò le cifre.
 
-«Ci stavo affezionando.»
+Trovò il numero. Era stato assegnato a un cliente diverso durante una migrazione, poi recuperato con una convenzione temporanea che nessuno aveva più digitalizzato correttamente. Il nuovo programma non aveva inventato una corrispondenza falsa; aveva semplicemente scelto quella che vedeva.
 
-Mila uscì dalla postazione. Il carrello apparteneva a un reparto vicino e le ruote erano sbloccate. Lo spinse sotto la parete, fuori dalla corsia.
+Mila fotografò la pagina secondo la procedura e aprì una richiesta di approvazione a Elena.
 
-B-17 attese che lei fosse oltre la striscia di sicurezza, poi riprese a camminare.
+«B-17, mostrami quali documenti hai scartato quando hai identificato la pagina.»
 
-«Prego», disse Mila.
+Il robot presentò il registro dei passaggi. Fra i risultati c'era una nota del vecchio indice, esclusa perché non aveva lo stesso codice della revisione attuale.
 
-Paolo sorrise. «Stai ringraziando il traffico?»
+«Quella», disse Mila, indicando lo schermo, «era proprio la ragione per cui cercavo il registro.»
 
-«Sto risparmiando tempo al traffico. C'è una differenza.»
+Il robot non rispose con una teoria. Mostrò la provenienza e lo stato dell'elemento escluso. Mila ne aggiunse il riferimento alla richiesta di controllo. Il programma non era ancora autorizzato a modificare i criteri del censimento; lei non voleva che li cambiasse.
 
-Il robot depositò la custodia sul piano della verifica B. Mila la aprì, allineò la pagina del registro con la copia e controllò le due numerazioni. La corrispondenza era chiara: l'identificativo sul modulo seguiva il sistema vecchio, quello digitale il nuovo.
+Elena chiamò poco dopo.
 
-Il software propose un aggiornamento del riferimento.
+«Hai trovato l'originale?»
 
-Mila non approvò.
+«Sì. E una ragione per cui il riepilogo dell'agente dovrebbe mostrare anche certe fonti escluse.»
 
-Rilesse la data di revisione, consultò l'elenco delle eccezioni ammesse, poi chiamò Elena. Voleva che la scelta fosse presa da chi portava la responsabilità della pratica. Le spiegò il problema in meno di un minuto.
+«Allora tienila per la prova sui casi sintetici. Per questa pratica voglio una firma esplicita.»
 
-«È una conversione documentata», disse Elena dall'altro capo. «Ma aggiungi la pagina del registro e mandami la richiesta di avallo. Non correggiamo mai un riferimento senza conservarne la traccia.»
+Mila preparò la richiesta, allegò la fotografia e attese. L'avallo arrivò con il nome di Elena.
 
-Mila allegò la fotografia verificata della pagina, la ragione della conversione e l'elenco dei campi invariati. Inoltrò la pratica. L'approvazione umana arrivò poco dopo, firmata e registrata.
+B-17 riprese il registro, lo rimise nella custodia e tornò all'archivio.
 
-B-17, rimasto in posizione di servizio, ricevette l'esito. Richiuse la custodia del registro e ripartì per riporla nell'archivio.
+«Andata e ritorno», disse Paolo. «La tua pratica è risolta.»
 
-«Andata e ritorno», disse Paolo. «Il mio medico approverebbe.»
+«È risolta perché qualcuno ricordava dove fosse il registro», rispose Mila. «Se Paolo non me l'avesse detto, il robot avrebbe cercato un'altra cosa.»
 
-«Il tuo medico ti dice di fare le scale.»
+«E se il robot non ci fosse stato, ci saresti andata tu», ribatté Paolo.
 
-«Questa parte della storia non è rilevante.»
+«Sì.»
 
-Mila tornò alla propria scrivania. La pratica era pronta, i tre fascicoli sarebbero stati confrontati in tempo. Nessuno aveva saltato una verifica. Nessuno aveva dovuto abbandonare il proprio lavoro per inseguire una pagina.
+Entrambe le frasi erano vere. Mila guardò il ticket per il reparto sviluppo ancora aperto sul monitor e vi aggiunse una nota: *Includere nei casi di prova un documento storico escluso dall'indice attuale, pur pertinente per la decisione.*
 
-Alzò gli occhi quando udì di nuovo i passi metallici nel corridoio. B-17 stava attraversando la zona delle riunioni con il contenitore vuoto.
+Poi alzò gli occhi. B-17 passava oltre il vetro, con la custodia ormai vuota.
 
-Mila mise una mano sulla spalliera del carrello, controllò che non sporgesse e lo spinse ancora di qualche centimetro verso la parete.
-
-Poi riprese il suo lavoro.
+Mila spinse di altri due centimetri il carrello contro la parete. Non le sarebbe servito spiegare al robot come evitare l'ostacolo, ma avrebbe risparmiato qualche secondo a tutte le persone del piano.
