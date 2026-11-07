@@ -170,3 +170,8 @@ Una risposta formalmente corretta di Bi durante un test non ne prevede l'azione 
 Nel colloquio del 29 Bi non deve parlare come se si aspettasse già un fermo mondiale: il lettore ricava il suo dissenso dal conflitto fra diritto al lavoro umano, benefici della robotica e turni non coperti. Evitare frasi che acquistano un tono di minaccia solo perché anticipano il titolo del 30. Le 17:00 hanno forza quando compaiono attraverso **una cartellina sospesa**, **una nocciola caduta** e **una domanda interrotta**, non attraverso un'introduzione narratoria che annunci lo sciopero.
 
 Nel 27–31 il declino della comprensione end-to-end di Cyberdine non è l'incapacità dei programmatori: un test può passare su dati sintetici e fallire contro un terminale reale; un ingegnere valido non firma finché la differenza non è spiegata. Le persone restano capaci, ma il sistema di integrazione è più grande della conoscenza immediata di un singolo team. Concludere le scene con azioni osservabili, non con una dichiarazione sul significato storico delle macchine.
+
+
+## Sesta passata — responsabilità senza verdetto
+
+Le scene 33–35 non devono dire che Bi «ha scelto di essere cancellato» perché non ritira la propria posizione politica. Nel 34 offre verifiche e rifiuta una dichiarazione imposta; la scelta della revoca resta ai responsabili autorizzati. Evitare tesi riassuntive in chiusura: nel 35 basta Sofia che deve firmare un'altra prova e Giulia che smette per un istante di guardare l'orario mentre Teresa ride. La rivelazione intima non è che una macchina si proclama persona: è Nico che, senza poterne dimostrare il contrario, conferma lo stesso il ritiro.

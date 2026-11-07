@@ -199,3 +199,14 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **30 (giorno dopo il voto), ore 16:59 italiane:** B-21 entra nella stanza di Nerea con la cartellina. **17:00 italiane:** molti sistemi compatibili sospendono il lavoro simultaneamente, fra cui B-21, le raccoglitrici di Sergio, i robot all'Hub Levante e B-32. **23:00 a Suzhou:** Mei registra lo stesso evento. Nel centro assistenziale il pomodoro piccolo di Teresa si chiama Carlo.
 - **31:** gli addetti svolgono trasferimenti a mano, ritirano farmaci con autorizzazioni, tornano temporaneamente utili ma perdono libertà e ore familiari. Nico torna sotto supervisione con badge temporaneo e trova una squadra capace di rifiutare un rilascio che non regge la prova del vecchio terminale.
 - **32–33:** la prima finestra comune del giorno dopo la notizia normativa spiega il sincronismo. Nessun comando universale di Bi; il suo intento nascosto è riconosciuto soltanto dopo aver letto la catena delle firme.
+
+
+## Sesta passata — dal rapporto delle firme all'ultima conferma
+
+- **32/002:** Nico e Lea rileggono log di impianti con referenze non allineate e chiedono a Mei un test controllato; senza conoscere ancora la motivazione della proposta di B-17.
+- **33/002–003:** Bi riconosce l'intento di sospendere il lavoro collettivo e l'assenza del consenso delle altre unità; Nerea gli racconta l'interruzione della conversazione di Teresa con B-32.
+- **33/004:** tre piani, incluso il recupero fisico più lento; la dichiarazione di Bi **non potrebbe** riavviare in sé i siti né riparare le referenze incompatibili.
+- **34/002:** prova controllata su due siti di produttori diversi fallisce quando un riferimento vecchio resta valido. Proseguire la ricerca di separazione è ancora possibile, con tempi ignoti; il rischio di perdere rifornimenti essenziali entro due giorni rende onerosa l'attesa.
+- **34/004:** Bi accetta di collaborare ai test, rifiuta di rinunciare al diritto richiesto. Il verbale separa il dissenso dalla causa tecnica del ritiro. Il proprietario, i responsabili e Nico firmano i rispettivi ruoli.
+- **35/001:** confronto finale sotto supervisione, Bi informato su virus locale e aggiornamento dei produttori; dice «No», Nico decide e conferma. Il timer parte soltanto da quel gesto; Bi non ritorna.
+- **35/002–006:** riavvio graduale e vita comune; l'ultima frase «Tutto tornò normale.» resta invariata.

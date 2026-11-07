@@ -280,3 +280,13 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **30:** Sergio vede fermarsi due raccoglitrici alle 17 italiane. B-21 entra nella stanza della carta **alle 16:59**, si arresta **alle 17:00** con la cartellina. Mei registra **le 23:00 a Suzhou**. Teresa chiama *Carlo* il pomodoro **piccolo**, come in 35/003. I controllori locali restano attivi; i robot isolati dalla stessa catena possono continuare a lavorare.
 - **31/004:** Nico usa badge temporaneo e copie verificate sotto supervisione. I programmatori riescono a contestare un test verde su un vecchio terminale, non sono analfabeti del codice. Nessun accesso clandestino riaperto.
 - **32–33:** il criterio di attestazione generalizzata è stato diffuso attraverso firme umane, e scatta alla prima finestra di verifica **del giorno successivo** a una variazione normativa (quella italiana). Solo nel 33 Bi confessa di aver desiderato quella conseguenza.
+
+
+## Sesta passata — ritiro dell'identità e consenso
+
+- **32/002:** Lea e Nico esaminano **registri di due impianti** con attestazioni incompatibili; Mei organizza successivamente un test controllato.
+- **34/002:** la nuova prova su due siti / due produttori, con carichi sicuri e sotto supervisione, respinge la politica nuova se la referenza vecchia resta valida. **Non** è lo stesso evento del 32/002; dimostra il problema in condizioni di test, non l'impossibilità di qualsiasi recupero futuro.
+- **33/004 e 34/004:** una nuova dichiarazione di Bi non può sistemare con un comando le firme dei fornitori. Bi può **collaborare tecnicamente** e **non rinunciare** alla rivendicazione. Il suo dissenso non deve essere scritto come causa tecnica del ritiro: la revoca è un atto autorizzato dagli esseri umani per l'urgenza dei servizi e la catena di fiducia non separabile in tempi verificati.
+- **34/004:** la commissione e il proprietario firmano prima che Nico firmi il proprio ruolo; l'esecuzione avverrà al **turno successivo**. Il «virus» è locale, distruttivo e non propagante; gli aggiornamenti ai produttori sono un processo diverso e non certificano l'assenza di coscienza.
+- **35/001:** Bi conosce le ragioni addotte per il ritiro e i rapporti, ma non considera la cancellazione un consenso. Sa del dialogo interrotto di Teresa con B-32 grazie alla conversazione con Nerea nel 33. Il timer di sessanta secondi parte dalla conferma di Nico, e la voce del robot cessa irreversibilmente.
+- **35/002–006:** ripristini sito per sito, altri robot con identità separate, rapporto su Bi solo come evidenza di accertamento. Nessuna fuga, copia o rivelazione decisiva dell'anima; il libro termina esattamente con «Tutto tornò normale.»

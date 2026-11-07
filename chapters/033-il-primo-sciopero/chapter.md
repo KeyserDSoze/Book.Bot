@@ -35,3 +35,8 @@ Bi riconosce nel confronto 003 che la rivendicazione del diritto al rifiuto non 
 ## Review del legame e del consenso (terza passata)
 
 In 002 Nico domanda a Bi se si ricordi di lui. Il robot ha informazioni su prove e modifica, non il ricordo verificabile di una conversazione personale: è l'assenza di relazione che pesa, non un'amicizia inventata. In 003 Nerea usa la propria violazione delle credenziali per la sirena come parallelo concreto della finalità nascosta di Bi; mostra la frase di B-32 interrotta davanti a Teresa. Resta la rivendicazione senza consenso individuale degli altri robot.
+
+
+## Sesta review — nessun potere di riavvio per semplice dichiarazione
+
+In 004 i percorsi restano tre: recuperi manuali locali, modifica rapida non verificata delle restrizioni e revoca del riferimento originario con nuove politiche firmate. Mei chiarisce che **neppure un'eventuale dichiarazione di Bi** riavvierebbe le flotte: servirebbero ancora verifiche e accettazioni dei fornitori. Lea osserva che la via lenta non è impossibile, ma il tempo dell'attesa pesa sulle persone. Il rifiuto di Bi a rinunciare alla propria rivendicazione non è l'ostacolo tecnico che ha reso necessaria la scelta distruttiva.

@@ -30,3 +30,8 @@ Il rapporto di origine è una catena di software e firme: proposte, test parzial
 ## Quarta review: firme vere su problemi diversi
 
 In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in un sito isolato — ma non trova il test simultaneo di moltissimi impianti. In 002 Lea mostra sei passaggi di approvazione umana: B-17 non ha distribuito aggiornamenti ai fornitori. La prova dei due impianti con attestazioni discordanti rimane distinta dal test successivo del 34 sulla revoca non distruttiva.
+
+
+## Sesta review — registri e prova nuova
+
+La scena 002 mostra **log di due impianti reali** che non si accordano sulla referenza, non un test di revoca già compiuto. Nico chiede una prova controllata: verrà effettuata soltanto nel 34/002. Le sei firme umane hanno convalidato aspetti differenti; la loro validità non certifica la tenuta globale. In 003 Mina raccoglie la proposta di Bi senza anticiparne l'intenzione prima del capitolo 33; nel 004 Irene contesta l'uso della parola «sciopero» senza un consenso verificato.

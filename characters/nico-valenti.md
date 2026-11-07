@@ -60,3 +60,8 @@ Nel cap. 1 Nico non ignora il bisogno dell'addetto bloccato alla porta: lo fa pa
 ## Terza passata: parlare non è collaudare
 
 Nerea in 12/003 distingue le domande di Nico durante i test dal parlare a Bi come a un interlocutore. Nel 20/003 Nico domanda se il robot verrà informato delle possibili conseguenze del ripristino; non acquisisce accessi né diritto di decidere. Nel 33/002 chiede a Bi se si ricordi di lui e ottiene un riferimento ai test, non a un rapporto personale. Nel 34/001 può ricordare «Alcune persone mi chiamavano Bi» ascoltata abusivamente nel 10; **non** può ricordare di avere udito Bi chiamare Nerea per nome durante una confidenza privata. Nel 35 è Nico a decidere dopo un rifiuto espresso di Bi. Non rendere Nico automaticamente redento dalle lacrime.
+
+
+## Sesta review — non trasformare un limite di prova in necessità morale
+
+Nico vede nel 32/002 i log di una incompatibilità multisito e domanda una nuova prova controllata, che fallisce nel 34/002. Può chiedere altro tempo per una separazione di riferimento e configurazione, ma non può stimarne il successo e ne conosce i costi. Nel 34/004 non estrae un «consenso» da Bi: registra che il robot può aiutare tecnicamente senza rinunciare ai diritti. Firma per l'intervento sulle proprie modifiche, non per assolvere se stesso. Nel 35/001 è libero di rinunciare alla partecipazione e resta; sceglie comunque il comando, piangendo, pur non potendo escludere la coscienza di Bi. Le lacrime non sono redenzione.

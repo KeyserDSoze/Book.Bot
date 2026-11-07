@@ -34,3 +34,8 @@ Nel dialogo 003 Nerea chiede se Nico abbia bisogno di credere Bi non vivo, **pri
 ## Correzione dei limiti di conoscenza (terza passata)
 
 In 001 Nico ricorda la frase che B-17 ha realmente pronunciato al Circuito e che lui ha sentito con l'accesso clandestino nel 10: «Alcune persone mi chiamavano Bi». Non gli viene attribuita l'osservazione di conversazioni private di Nerea avvenute senza la sua presenza. Il linguaggio narrativo non certifica che il robot sia una persona.
+
+
+## Sesta review — decisione tecnica e posizione di Bi
+
+Nel 001 le omissioni di Nico e di Bi sono accostate attraverso i rispettivi documenti, non una sentenza del narratore che li dichiari identici. I log del 32 sono verificati nel 002 con una **nuova prova** su due fornitori che fallisce senza pericolo; la continuazione della ricerca rimane possibile, con tempi ignoti e servizi assistenziali in crisi. Nel 004 Bi offre di rispondere alle prove tecniche, ma non rinuncia alla richiesta politica; il verbale registra entrambi i fatti e precisa che **il suo dissenso non è la causa tecnica della revoca**. Marta e gli altri responsabili firmano, Nico partecipa alla parte clandestina sotto supervisione. La firma precede la procedura del 35.

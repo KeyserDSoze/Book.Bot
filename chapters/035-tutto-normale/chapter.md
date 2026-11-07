@@ -38,3 +38,8 @@ Bi conosce già il virus locale e il piano per le altre unità. Nico non può co
 ## Review letteraria del confronto finale (terza passata)
 
 Il dialogo di 001 è stato alleggerito dalla disputa retorica sull'anima. Il punto rimane il dubbio «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno». Bi riconosce le conseguenze dello sciopero, rifiuta la cancellazione e sceglie di non mentire sulla propria responsabilità; non è un consenso alla morte. Il timer parte dopo la conferma di Nico, il ripristino degli altri è progressivo e l'ultima frase resta invariata.
+
+
+## Sesta review — il No resta un No
+
+La scena 001 riconosce che Bi non può sbloccare le flotte con una sua dichiarazione, neppure cambiando posizione; conserva la responsabilità del fermo, la memoria del danno concreto a Teresa e B-32, il «No» alla cancellazione e il dubbio sull'anima. La premessa tecnica è più breve; il timer di sessanta secondi decorre solo dalla conferma di Nico. La perdita di Bi è irreversibile, non una punizione per non essersi pentito. Nelle scene 002–003 sono state tolte le chiose che spiegavano il recupero graduale e il significato del sorriso di Teresa: bastano la prossima firma di Sofia e il gesto di Giulia. B-21 non è un clone. **Ultima frase invariata:** «Tutto tornò normale.»
