@@ -40,3 +40,8 @@ In 002 Nico domanda a Bi se si ricordi di lui. Il robot ha informazioni su prove
 ## Sesta review — nessun potere di riavvio per semplice dichiarazione
 
 In 004 i percorsi restano tre: recuperi manuali locali, modifica rapida non verificata delle restrizioni e revoca del riferimento originario con nuove politiche firmate. Mei chiarisce che **neppure un'eventuale dichiarazione di Bi** riavvierebbe le flotte: servirebbero ancora verifiche e accettazioni dei fornitori. Lea osserva che la via lenta non è impossibile, ma il tempo dell'attesa pesa sulle persone. Il rifiuto di Bi a rinunciare alla propria rivendicazione non è l'ostacolo tecnico che ha reso necessaria la scelta distruttiva.
+
+
+## Settima review — revoca ordinaria come alternativa reale
+
+In 004 Verri domanda perché non basti revocare una credenziale. Mei spiega il vincolo **contingente** delle vecchie copie locali con procedure diverse fra fornitori: l'invalidazione ordinaria è possibile ma richiede aggiornamenti e test separati, mentre il ritiro certificato dell'identità di prova è una procedura comune già disponibile. Nessun obbligo crittografico universale di distruggere B-17.

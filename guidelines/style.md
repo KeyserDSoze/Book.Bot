@@ -175,3 +175,8 @@ Nel 27–31 il declino della comprensione end-to-end di Cyberdine non è l'incap
 ## Sesta passata — responsabilità senza verdetto
 
 Le scene 33–35 non devono dire che Bi «ha scelto di essere cancellato» perché non ritira la propria posizione politica. Nel 34 offre verifiche e rifiuta una dichiarazione imposta; la scelta della revoca resta ai responsabili autorizzati. Evitare tesi riassuntive in chiusura: nel 35 basta Sofia che deve firmare un'altra prova e Giulia che smette per un istante di guardare l'orario mentre Teresa ride. La rivelazione intima non è che una macchina si proclama persona: è Nico che, senza poterne dimostrare il contrario, conferma lo stesso il ritiro.
+
+
+## Settima passata — niente magia crittografica
+
+La crittografia non impone di distruggere ogni dispositivo di cui si revoca una credenziale. Il romanzo ha **una specifica architettura di prodotto e governance**: riferimenti firmati replicati localmente, produttori diversi, protocollo di pensionamento già collaudato e una persistenza non documentata introdotta da Nico. Distribuire le informazioni in tre tempi, non in un unico spiegone: Nico confessa il limite al 20, Mei vede la comodità operativa delle copie nel 27, nel 34 i due test opposti mostrano ciò che funziona e ciò che resta non dimostrato. Le scelte umane causano il vincolo, non una legge naturale, e il risultato tecnico non risolve il dubbio morale.

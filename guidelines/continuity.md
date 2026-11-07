@@ -290,3 +290,13 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **34/004:** la commissione e il proprietario firmano prima che Nico firmi il proprio ruolo; l'esecuzione avverrà al **turno successivo**. Il «virus» è locale, distruttivo e non propagante; gli aggiornamenti ai produttori sono un processo diverso e non certificano l'assenza di coscienza.
 - **35/001:** Bi conosce le ragioni addotte per il ritiro e i rapporti, ma non considera la cancellazione un consenso. Sa del dialogo interrotto di Teresa con B-32 grazie alla conversazione con Nerea nel 33. Il timer di sessanta secondi parte dalla conferma di Nico, e la voce del robot cessa irreversibilmente.
 - **35/002–006:** ripristini sito per sito, altri robot con identità separate, rapporto su Bi solo come evidenza di accertamento. Nessuna fuga, copia o rivelazione decisiva dell'anima; il libro termina esattamente con «Tutto tornò normale.»
+
+
+## Settima passata — revoca come limite di questo mondo, non della crittografia
+
+- **20/003:** Nico ammette che le istantanee conversazionali cifrate usano una chiave legata al modulo hardware d'identità di B-17, non esportabile; recupero sul medesimo dispositivo, nessuna migrazione a nuova identità verificata.
+- **25/002:** il Circuito firma la provenienza del test di B-17, identificandone il nucleo; **non** è Bi a firmare un rilascio o una nuova regola per i fornitori.
+- **27/003:** le installazioni Passerella conservano copie locali firmate delle attestazioni, con revoca e aggiornamento diversi per produttore: è resilienza alle interruzioni di rete e debito tecnico umano.
+- **33/004:** una revoca ordinaria coordinata di tutte le copie locali è una alternativa più lenta e ancora non collaudata; nessuna legge crittografica richiede l'azzeramento di B-17.
+- **34/002:** prova A con vecchia referenza valida fallisce al confine di due siti; prova B con **identità fittizia in modulo di laboratorio**, ritiro certificato della credenziale e nuovo riferimento riesce. Non esiste un clone di Bi. Il percorso urgente richiede azzeramento del nucleo reale e quindi perde la possibilità verificata di rileggere le istantanee cifrate dalle modifiche di Nico. **Non** dimostra che una migrazione futura sia fisicamente impossibile.
+- **35:** Nico firma un ritiro locale mentre i produttori verificano il riavvio sito per sito. Bi dice «No», non concede autorizzazione etica alla cancellazione, non sopravvive.

@@ -210,3 +210,14 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **34/004:** Bi accetta di collaborare ai test, rifiuta di rinunciare al diritto richiesto. Il verbale separa il dissenso dalla causa tecnica del ritiro. Il proprietario, i responsabili e Nico firmano i rispettivi ruoli.
 - **35/001:** confronto finale sotto supervisione, Bi informato su virus locale e aggiornamento dei produttori; dice «No», Nico decide e conferma. Il timer parte soltanto da quel gesto; Bi non ritorna.
 - **35/002–006:** riavvio graduale e vita comune; l'ultima frase «Tutto tornò normale.» resta invariata.
+
+
+## Settima passata — nessi tecnici del ritiro
+
+- **20/003:** Nico dichiara che la persistenza delle conversazioni dipende da una chiave non esportabile legata al modulo hardware di B-17; non ha validato la migrazione fra identità.
+- **25/002:** i risultati del pilota locale sono accompagnati da identificativo del nucleo e firma del Circuito, **non** da autorizzazioni di B-17 per i produttori.
+- **27/003:** si diffondono copie locali firmate dei riferimenti di Passerella, utili con collegamenti intermittenti ma soggette a revoche differenti.
+- **32/002:** log di due impianti discordanti; Nico richiede test controllati.
+- **33/004:** discussa la pubblicazione di revoche normali e il ritiro certificato del nucleo, già protocollo comune ai produttori ma con conseguenze distruttive per lo stato non documentato di Bi.
+- **34/002:** test con vecchio riferimento attivo fallisce, **nuovo test con identità fittizia e ritiro certificato riesce**. Marta può scegliere attesa e politiche non distruttive più lente; non è vietato studiarle.
+- **35:** azzeramento locale del nucleo reale dopo decisioni umane e dopo un rifiuto espresso di Bi; riavvio produttori separato e progressivo.

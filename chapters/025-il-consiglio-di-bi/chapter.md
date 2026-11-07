@@ -38,3 +38,8 @@ Nella scena 002, davanti allo scenario aggregato di riduzione delle mansioni, B-
 ## Quinta review — cifra, provenienza e responsabilità
 
 Il 17% richiesto da Aruvhana resta il vincolo economico reale, con 341 rapporti di lavoro esposti in misura diversa. In 001 la chiosa generale è stata sostituita dal gesto di Kyla che mette la richiesta accanto all'elenco dei rapporti. In 004 il fascicolo completo consente a Irene di conoscere l'origine della consulenza di B-17; la copia tecnica iniziale in 003 restava anonima. La proposta del caso limite in 002 è ancora **solo un test**, senza accessi o distribuzione ai fornitori. Bi propone; dirigenti e tecnici scelgono.
+
+
+## Settima review — identità di prova non autorità di produzione
+
+In 002 l'estratto consegnato a Cyberdine mantiene l'origine della sessione attestata da identificativo del nucleo B-17 e **firma del Circuito**. Sono metadati per attribuire la prova. B-17 non sottoscrive autorizzazioni globali e non può imporre aggiornamenti a produttori. Il trasferimento successivo della prova al livello di criterio condiviso dipende da tecnici, contratti e approvazioni umane.

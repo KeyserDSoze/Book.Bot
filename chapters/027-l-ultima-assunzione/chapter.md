@@ -34,3 +34,8 @@ La scena 4 mostra **in presa diretta** il modo nuovo di sviluppare software: un 
 ## Quinta review — hardware e comprensione del codice
 
 In 003 il nuovo modulo di calcolo è più efficiente, non onnipotente: meno ventole e maggior autonomia, ma batterie e limitazioni reali. La descrizione ripetuta di Passerella è stata ridotta; Mei vede che le ultime tre modifiche di una libreria sono state riviste da esseri umani che non hanno seguito la prima versione. Il 004 preserva il programmatore capace di leggere codice senza fingere che ogni vecchia dipendenza sia ricostruibile in pochi secondi. Gli esseri umani restano responsabili dei rilasci.
+
+
+## Settima review — comodità delle copie locali
+
+In 003 Passerella conserva presso i siti riferimenti firmati per poter lavorare con connessioni intermittenti. I produttori non condividono una modalità uniforme di aggiornamento e revoca di quelle copie. È una scelta di resilienza locale con debito tecnico futuro, **non un modo per un robot di comandare gli altri**. Mei continua a richiedere collaudi multisito.

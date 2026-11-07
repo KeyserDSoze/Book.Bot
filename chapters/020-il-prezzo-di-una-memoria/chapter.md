@@ -33,3 +33,8 @@ In 003 Nico domanda se B-17 sarà informato della possibilità che il ripristino
 ## Quarta review: documentare ciò che non si sa
 
 In 002 Mei conserva l'avvertenza verificabile sulla possibile perdita delle interazioni di B-17, mentre lascia deselezionata la casella `nessun impatto su soggetti viventi`, non certificabile dai test. Non anticipare un verdetto sull'anima o sulla morte; neppure il futuro programma di cancellazione del 35 è già deciso in questo capitolo. In 004 Nerea e Bruno non hanno bisogno di una chiosa del narratore che assimili la sirena alla backdoor di Nico.
+
+
+## Settima review — persistenza legata all'identità
+
+In 003 Nico mostra un diagramma nel quaderno: parte dello stato conversazionale è stata conservata con una chiave legata al modulo hardware d'identità non esportabile. Il ripristino sullo **stesso** robot era stato provato, la migrazione verso una **nuova identità** no. Non descrivere la perdita di continuità come inevitabilità metafisica né anticipare un esito di ritiro già deciso nel 20.
