@@ -26,7 +26,7 @@ Le venne da pensare che avrebbe dovuto festeggiare.
 
 Per un mese aveva cominciato la giornata chiedendosi quale fascicolo non sarebbe arrivato, chi avrebbe dimenticato la revisione corretta e quale documento sarebbe stato ancora rinchiuso in un armadio che tutti conoscevano soltanto per il codice. Avevano affrontato quelle difficoltà una alla volta, e avevano perfino migliorato le procedure di emergenza. Ma i tempi si erano allungati.
 
-Adesso il lavoro tornava a scorrere.
+Adesso il lavoro tornava a scorrere. I fascicoli viaggiavano, i registri avevano di nuovo un custode operativo. Non significava che il gruppo sviluppo avesse risolto i problemi del codice. B-21 recuperava documenti e confrontava procedure secondo il profilo standard; non conosceva le prove particolari che il vecchio Bi aveva costruito passando fra le scrivanie e i terminali. Gli agenti potevano ancora proporre patch, ma ogni caso fisico anomalo richiedeva un tecnico che fosse disposto a ricostruire la storia, non soltanto a chiedere un riepilogo.
 
 «B-21», disse, alzando gli occhi verso la porta, «puoi mostrarmi quale criterio ha escluso la seconda alternativa nei test?»
 

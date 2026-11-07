@@ -50,6 +50,10 @@ Sullo schermo apparvero quattro indicatori. Il volume delle pratiche concluse er
 
 Kyla annotò la frase. Era precisa, e i colleghi avrebbero potuto riconoscere in essa la propria fatica.
 
+Il grafico successivo riguardava il lavoro che Cyberdine vendeva davvero: progettazione e manutenzione di software capace di integrare sistemi di clienti con generazioni diverse di macchine. Un tempo i team scrivevano adattatori e test uno per uno. Poi erano arrivati gli agenti di sviluppo. Gli ingegneri definivano requisiti, autorizzavano strumenti, esaminavano proposte e firmavano rilasci. B-17 aveva aggiunto qualcosa che nessun agente senza corpo poteva offrire: osservare una risposta del vecchio terminale, confrontarla col codice e tornare dal programmatore con un caso non previsto.
+
+Il risultato era stato buono. La slide sui difetti riaperti dopo il rilascio, però, era meno soddisfacente: alcuni bug erano tornati proprio quando mancava chi sapeva ricostruire il funzionamento dei vecchi moduli.
+
 Il grafico successivo misurava il tempo speso a verificare allegati, recuperare versioni precedenti e accertare che una firma corrispondesse alla revisione corretta. Kyla ricordava le discussioni necessarie per costruire quei dati: ciò che compariva sullo schermo era una sintesi, non tutto il lavoro che serviva a renderla attendibile.
 
 «Abbiamo risparmiato molto lavoro ripetitivo», proseguì Verri. «Questo ci ha dato margine per attività più qualificate. Alcuni di voi hanno potuto chiudere prima, tornare in famiglia, concentrarsi su problemi veri. Non intendo fingere che non sia un risultato.»

@@ -16,7 +16,11 @@ factions:
   - faction:cyberdine
 ---
 
-La lista dei lavori da riassegnare sembrava piccola finché Irene non cominciò a sommare i minuti.
+La lista dei lavori da riassegnare sembrava piccola finché Irene non cominciò a sommare i minuti. In cima, prima ancora delle consegne di carta, c'era una nuova voce: *verifica manuale delle regressioni non riproducibili nei simulatori*. Il gruppo sviluppo disponeva ancora dei suoi agenti software. Potevano generare codice e test, ma non sostituivano l'osservazione che Bi faceva dei terminali reali né ricordavano perché, in un vecchio progetto, un messaggio apparentemente duplicato non dovesse essere eliminato.
+
+Un collega le aveva chiesto di spiegargli il comportamento del connettore; Irene gli aveva risposto che il proprietario del codice doveva sapere come funzionava. L'uomo aveva mostrato le ultime dodici modifiche, tutte verificate e firmate, ma quasi nessuna scritta da una persona del suo gruppo. «Le ho approvate io», aveva detto. «Non è la stessa cosa che saperle rifare.»
+
+Irene non aveva risposto. Era stata lei stessa, più volte, a chiedere a Bi di riassumere le eccezioni invece di inseguirle nei registri.
 
 Dodici per portare i fascicoli dal quarto piano all'archivio, diciotto per ricostruire un riferimento incompleto, sette per confrontare le intestazioni di due revisioni. Niente di impossibile. Tutti sapevano farlo, o avrebbero potuto imparare. Il problema era che ciascuna di quelle attività si infilava tra altre due e faceva perdere il filo a chi cercava di terminare un lavoro complesso.
 

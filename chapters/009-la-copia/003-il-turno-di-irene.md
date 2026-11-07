@@ -21,7 +21,7 @@ Irene Valli si accorse che il lavoro era tornato normale perché nessuno le chie
 
 Era martedì. Un mese prima avrebbe dedicato quasi un'ora a ricostruire un riferimento, due ore a recuperare un avallo, un'altra mezz'ora a capire se un documento fosse stato archiviato sotto il codice originale o quello aggiornato. Ora il dossier arrivò al suo terminale già ordinato, con le alternative disponibili e l'indicazione di quali persone dovessero pronunciarsi.
 
-La prima cosa che fece fu controllare la fonte.
+La prima cosa che fece fu controllare la fonte. Da quando Bi era stato portato via, Irene chiedeva di vedere anche il codice sorgente associato alle eccezioni più vecchie. Non aveva tempo di leggerne tutto il percorso ogni mattina, ma non voleva più accettare come prova l'ennesima descrizione prodotta dallo stesso agente che aveva proposto la modifica. Il suo ruolo era cambiato senza che qualcuno le avesse cambiato il titolo: si occupava anche di capire dove finiva la conoscenza delle persone e cominciava la fiducia in una risposta sintetica.
 
 Scorse la nuova sezione che aveva contribuito ad aggiungere alla procedura: **reperibilità degli originali in assenza del sistema**. C'era il luogo del registro, la persona autorizzata a recuperarlo e una nota sul vecchio indice scritto a mano.
 
