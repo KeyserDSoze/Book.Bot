@@ -65,15 +65,15 @@ def main() -> None:
                 legacy_tokens = sorted(path_tokens & old_first_names)
                 if legacy_tokens:
                     failures.append(f"{relative}: old name in scene filename: {legacy_tokens}")
-                scene_id = re.search(r"^id: scene:[^:\\n]+:([^\\n]+)$", source, re.MULTILINE)
+                scene_id = re.search(r"^id: scene:[^:\n]+:([^\n]+)$", source, re.MULTILINE)
                 if scene_id and scene_id.group(1) != path.stem:
                     failures.append(f"{relative}: scene ID does not match filename: {scene_id.group(1)}")
             new_first_names = {entry["newName"].split()[0] for entry in people}
             new_first_names.update({"Avery", "Lucy", "Lauren"})
             consonant_names = sorted((name for name in new_first_names if name[0].lower() not in "aeiou"), key=len, reverse=True)
-            wrong_preposition = re.compile(r"\\bad\\s+(?:" + "|".join(map(re.escape, consonant_names)) + r")\\b")
+            wrong_preposition = re.compile(r"\bad\s+(?:" + "|".join(map(re.escape, consonant_names)) + r")\b")
             for found in wrong_preposition.finditer(source):
-                line = source.count("\\n", 0, found.start()) + 1
+                line = source.count("\n", 0, found.start()) + 1
                 failures.append(f"{relative}:{line}: unnatural Italian preposition {found.group(0)!r}")
                 if len(failures) >= 40:
                     break
