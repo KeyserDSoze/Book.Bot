@@ -11,7 +11,7 @@ Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la v
 
 **Capitolo 1**: desidera mostrare agli ospiti un'organizzazione in cui le persone hanno recuperato tempo e potere decisionale. Risponde allo scetticismo con dimostrazioni reali.
 
-**Capitolo 2**: torna al quarto piano e ascolta le battute sul bot che ha sbagliato alcune fotocopie; nota che la vera innovazione abita anche in un carrello spostato e in un'etichetta scritta da Paolo. Riceve conferma di un **test circoscritto** relativo alla proposta di B-17 sulle alternative scartate. La soddisfazione resta autentica: non si trasforma ancora in una voce critica verso Cyberdine.
+**Capitolo 2**: torna al quarto piano e ascolta le battute sul bot che ha sbagliato alcune fotocopie; nota che la vera innovazione abita anche in un carrello spostato e in un'etichetta scritta da Paolo. Riceve conferma di un **test circoscritto** che unisce una proposta dell'agente digitale di sviluppo e un'osservazione fisica di B-17 sulle alternative scartate. La soddisfazione resta autentica: non si trasforma ancora in una voce critica verso Cyberdine.
 
 **Tensione futura**: la sua visione umanista incontrerà richieste inizialmente non classificabili, ma non anticipare una conversione morale.
 
@@ -45,7 +45,7 @@ Kyla saluta Nico Valenti già nell'atrio del capitolo 1 mentre lui aiuta un adde
 
 ## Capitoli 25–30
 
-Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; Cyberdine rende esplicito il proprio ruolo come integratore di sistemi industriali di produttori diversi. Chiede che ogni stima di efficienza includa le competenze e le persone coinvolte. Nel capitolo 26, dopo il rinnovo condizionato del cliente, affronta con Irene la mancata prosecuzione della sua funzione. Nel 28 rifiuta comunicati sul progresso che ignorino posti non più creati o lavori sostituiti. Nel 29 distingue la legge italiana mirata dalle attività non vietate e dalle sedi estere; non promette continuità assoluta. Durante il fermo mondiale del 30 chiede un piano per i clienti internazionali, trovandosi davanti a procedure manuali pensate per guasti parziali.
+Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; Cyberdine rende concreta la dimensione economica di ciò che il lettore conosce già dal capitolo 1: è una software house che vende integrazione e continuità dei sistemi industriali. Chiede che ogni stima di efficienza includa le competenze e le persone coinvolte. Nel capitolo 26, dopo il rinnovo condizionato del cliente, affronta con Irene la mancata prosecuzione della sua funzione. Nel 28 rifiuta comunicati sul progresso che ignorino posti non più creati o lavori sostituiti. Nel 29 distingue la legge italiana mirata dalle attività non vietate e dalle sedi estere; non promette continuità assoluta. Durante il fermo mondiale del 30 chiede un piano per i clienti internazionali, trovandosi davanti a procedure manuali pensate per guasti parziali.
 
 
 ## Capitoli 31–35
@@ -55,3 +55,7 @@ Kyla continua a gestire presso Cyberdine gli effetti economici del fermo: piani 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 1 Kyla promette a un'amica di non rimandare più una serata al cinema; nel 25 scopre che l'amica ha smesso di acquistare biglietti per lei. Questo piccolo fallimento è distinto dalle comunicazioni aziendali, in cui Kyla sembra invece sempre capace di tenere insieme le persone. Non farle pronunciare soltanto giudizi equilibrati: può essere più abile con Aruvhana che con un'amica.
+
+## Revisione v0.32.0 — Software e robot
+
+Nella visita inaugurale Kyla accompagna Aruvhana dentro una software house: gli agenti AI lavorano sul codice, i robot fisici sul campus. B-17 taglia inizialmente il prato e non propone software nel primo capitolo. Kyla gioisce sinceramente della produttività, pur sottovalutando quanto l'azienda stia spostando le competenze dalla comprensione del codice alla verifica sintetica dei risultati.

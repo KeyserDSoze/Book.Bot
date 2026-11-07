@@ -11,7 +11,7 @@ Amministratore delegato di Cyberdine S.p.A. Attento ai conti, ai rischi operativ
 
 Nel capitolo 8 convoca una plenaria: andamento di Cyberdine, problemi legati al fermo di B-17, conclusione degli accertamenti sull'aggressione, cessazione dei rapporti di lavoro con Dario Sarti e Mauro Lanza secondo le procedure aziendali. Usa il codice ufficiale **B-17**, non il soprannome «Bi». Comunica la scelta **di non autorizzare la riparazione**, quasi costosa quanto un nuovo acquisto, e una fase di alcune settimane di lavoro manuale aggiuntivo, fino a un nuovo assetto. La nuova unità arriva un mese dopo.
 
-Non anticipare i dettagli del settore produttivo di Cyberdine e non rivelare la causa del salto di capacità di Bi.
+Cyberdine è dichiaratamente un'azienda di software già dal capitolo 1: non nascondere i dettagli del settore produttivo di Cyberdine e non rivelare la causa del salto di capacità di Bi.
 
 
 ## Capitolo 12
@@ -26,3 +26,7 @@ Verri mantiene una posizione economicamente pragmatica: il contratto Aruvhana, c
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Prima della plenaria del capitolo 8 Verri domanda a Kyla, più di una volta, se abbia una macchia di caffè sul colletto. La vanità buffa non lo rende privo di competenza, né allevia i costi delle sue decisioni. Nel 25–26 continua a dover difendere conti, rinnovi, formazione e tagli. Non fargli pronunciare sempre la migliore spiegazione della responsabilità manageriale; può cercare una formula rassicurante anche quando non esiste.
+
+## Revisione v0.32.0 — Software e robot
+
+Gestisce una software house, quindi margini, contratti, licenze, sviluppo, QA, continuità e assistenza. Il contratto Aruvhana da ridurre del 17% riguarda software e integrazione, non produzione di macchine. La crescita degli agenti riduce il bisogno di ruoli di sviluppo e collaudo senza cancellare la responsabilità dell'AD.

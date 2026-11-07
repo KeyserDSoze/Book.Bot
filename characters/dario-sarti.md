@@ -7,7 +7,7 @@ canon: canon
 
 # Dario Sarti
 
-Dipendente di Cyberdine, lavora nella pianificazione dei flussi interni senza che sia precisato il settore produttivo dell'azienda. Ama il ping pong fin da ragazzo e organizza partite durante la pausa. Considera la tavola un luogo di meritocrazia semplice, lontano dalle decisioni difficili del lavoro.
+Sviluppatore di connettori e flussi d'integrazione software a Cyberdine, azienda che realizza piattaforme e applicazioni per sistemi eterogenei. Conosce il coding tradizionale e si sente sempre meno necessario quando gli agenti scrivono patch e test a partire da richieste ad alto livello. Non perde subito il lavoro: teme di perdere una professionalità a cui attribuisce il proprio valore. Ama il ping pong fin da ragazzo e organizza partite durante la pausa. Considera la tavola un luogo di meritocrazia semplice, lontano dalle decisioni difficili del lavoro.
 
 Capitolo 4: inizialmente si aspetta di battere Bi; dopo diverse sconfitte contro il robot, perde sicurezza davanti ai colleghi. Nelle partite successive Bi perde e Dario esulta davanti a lui, lo chiama «stupida macchina» e gli attribuisce il desiderio di vincere. L'atto deve apparire meschino ma umano: non rendere Dario un cattivo monodimensionale o un rappresentante di tutta Cyberdine.
 
@@ -28,3 +28,7 @@ Dopo l'allontanamento cautelativo, gli accertamenti aziendali sull'aggressione a
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 6 Dario non riesce a separare la perdita di status dalla propria rabbia verso Bi e vorrebbe che Irene raccontasse la vicenda come prova di un'ingiustizia universale. Nell'aggressione compie gesti e scelte ripetute dopo che Bi chiede di fermarsi; la frustrazione lavorativa non lo assolve. Nel 7 è solo nell'appartamento e non sa neppure come rispondere alla chat di chi continua a lavorare. Non introdurre una redenzione facile e non trasformare ogni sua frase in un proclama ideologico.
+
+## Revisione v0.32.0 — Software e robot
+
+Le giornate passano dal codice scritto in prima persona a istruzioni impartite agli agenti e approvazioni di proposte: Dario è bravo nel mestiere di ieri e incerto su quello di domani. L'aggressione a Bi resta una scelta volontaria e condannabile. In assenza della macchina, nemmeno i test verdi rivelano le ragioni dei vecchi protocolli: il rimpianto non equivale ad assoluzione.

@@ -7,7 +7,7 @@ canon: canon
 
 # Adriana Lodi
 
-Responsabile senior delle eccezioni trasversali e della continuità di processo a Cyberdine, prossima alla pensione. Conosce le procedure, ma soprattutto i motivi per cui erano state scritte. Ha formato Irene e riconosce la sua capacità di gestire casi complessi, senza poterle promettere il posto.
+Responsabile senior delle eccezioni trasversali, della qualità delle integrazioni software e della continuità di processo a Cyberdine, prossima alla pensione. Conosce le procedure, ma soprattutto i motivi per cui erano state scritte. Ha formato Irene e riconosce la sua capacità di gestire casi complessi, senza poterle promettere il posto.
 
 Il ruolo comprende raccolta di informazioni, confronto di alternative, allineamento fra reparti e decisioni umane formalmente responsabili. Dopo il pensionamento l'azienda decide di non sostituire il ruolo con una nuova assunzione, ripartendo le approvazioni tra manager già in carica. La decisione non equivale a mettere Bi al vertice di un organigramma.
 
@@ -24,3 +24,7 @@ Adriana completa la pensione **fra il capitolo 7 e il capitolo 8**, nelle settim
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 5, poco prima della pensione, Adriana confessa a Irene di essersi iscritta a un corso di nuoto per principianti e di non voler tornare in ufficio ogni mercoledì a chiedere se serve aiuto. È una persona che vuole perdere l'identità professionale per qualche ora, non soltanto l'insegnante destinata a consegnare il lavoro alla successora.
+
+## Revisione v0.32.0 — Software e robot
+
+Il pensionamento coincide con la perdita di un ruolo formativo: chi si limiterà ad approvare diff e test senza capire le librerie potrà firmare errori che nessun agente ha immaginato di cercare. Adriana è un mentore di Irene su responsabilità, prove e conoscenza del vecchio codice, ma non è l'unica persona capace di programmare.

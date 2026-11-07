@@ -7,7 +7,7 @@ canon: canon
 
 # Irene Valli
 
-Lavoratrice con contratto a termine a Cyberdine, da diciotto mesi lavora sulle eccezioni di processo. Preparata, capace di individuare dipendenze tra reparti e di ottenere decisioni motivate. Ha affiancato Adriana Lodi nel coordinamento senior e spera di candidarsi alla posizione che si renderà disponibile con il pensionamento. Non le è stata promessa formalmente la promozione.
+Lavoratrice con contratto a termine a Cyberdine, da diciotto mesi lavora sulle eccezioni di processo e sulla qualità delle integrazioni software. Sa costruire casi di test, distinguere una regressione da un errore documentale e individuare dipendenze tra reparti e di ottenere decisioni motivate. Ha affiancato Adriana Lodi nel coordinamento senior e spera di candidarsi alla posizione che si renderà disponibile con il pensionamento. Non le è stata promessa formalmente la promozione.
 
 Per Irene non conta soltanto lo stipendio: vuole guidare riunioni difficili, assumersi la responsabilità del giudizio e formare altri colleghi. Nel capitolo 5 apprende che l'azienda non aprirà la posizione e riorganizzerà i compiti: Bi farà raccolta di elementi e preparazione delle alternative; ai manager umani andranno la responsabilità e le firme. Il suo contratto attuale non viene revocato.
 
@@ -54,3 +54,7 @@ Irene torna a Cyberdine per alcune giornate retribuite di verifica delle procedu
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 5 Irene conserva nel telefono una libreria che vorrebbe comprare per togliere i libri dalle sedie di cucina. Nel 26 la ritrova più cara proprio quando il contratto viene messo in discussione. Nel 35 ne compra finalmente una usata e chiede a Nerea di aiutarla a montarla. Non è un risarcimento al ruolo senior perduto: soltanto un gesto privato che riesce a compiere anche con un futuro professionale incerto.
+
+## Revisione v0.32.0 — Software e robot
+
+Il suo ruolo è vicino allo sviluppo e al collaudo software: legge versioni, controlla dipendenze e costruisce test per casi mai simulati. A differenza di molti colleghi, durante l'assenza di Bi decide di chiedere i sorgenti oltre ai riepiloghi agentici. Le assunzioni scomparse riguardano anche ruoli di QA e ingegneria software. Irene non riceve una promozione compensatoria.
