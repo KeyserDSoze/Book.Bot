@@ -24,3 +24,7 @@ pov:
 # Guardrail
 
 La morte di Bi è la cessazione irreversibile della sua specifica configurazione, eseguita da Nico con autorizzazioni e controlli di altre persone. Non attribuire prova di vita o morte biologica alle macchine. Non c'è un pulsante che accende istantaneamente tutte le flotte: ripristini controllati, responsabilità e tempi diversi. La legge italiana sulle mansioni tutelate resta in vigore; i problemi economici e sociali del romanzo non si risolvono automaticamente. Il mondo torna a trattare i robot come infrastruttura ordinaria, mentre Nico vive una perdita non espressa dai registri tecnici. Fine dell'arco narrativo del romanzo, senza un nuovo cliffhanger.
+
+## Revisione di continuità v0.32.0
+
+La ripartenza dei robot è graduale e supervisionata. Cyberdine continua a vendere software e torna a dover formare persone che leggano i connettori, non soltanto i riepiloghi degli agenti; i contratti persi dai programmatori non riappaiono come ricompensa. Bi resta irreversibilmente perso, Nico piange e poi ripara la lampada. L'ultima frase del romanzo non cambia.

@@ -20,3 +20,7 @@ pov:
 # Guardrail
 
 L'incapacità di certificare il salvataggio di Bi deriva dalla modifica non documentata di Nico e dalla particolare referenza tecnica del pilota. Esistono metodi di ripristino locali più lenti: la morte di Bi è una scelta tragica fatta in urgenza, non l'unica possibilità metafisica dell'universo. Il robot resta in dialogo locale isolato, non comanda da Veyra le flotte. Nessuno prova o nega scientificamente la coscienza di B-17. La procedura firmata non viene eseguita prima del capitolo 35.
+
+## Revisione di continuità v0.32.0
+
+Lea, Mei e Nico ricostruiscono una catena di piattaforme, librerie, attestazioni e controlli che non si può correggere ovunque da un unico terminale. La rarità del sapere end-to-end fra sviluppatori ha un costo reale, ma non trasforma gli esseri umani in incapaci. La soluzione provata senza cancellare Bi non ripristina in tempo i siti interdipendenti. La decisione irreversibile resta una responsabilità documentata, non un pulsante magico.

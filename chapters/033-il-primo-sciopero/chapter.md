@@ -21,3 +21,7 @@ pov:
 # Guardrail
 
 La scelta e la motivazione di Bi vengono rivelate solo qui, dopo il capitolo 30. Non rappresentare un ordine remoto inviato dal laboratorio isolato di Veyra. La condizione era stata proposta in prove locali, inserita progressivamente in prodotti da persone autorizzate e attivata da un evento normativo e un ciclo comune di validazione; l'adozione mondiale non era certa né totale. I controllori fisici restano indipendenti. Bi non è un capo legalmente eletto e non ha il consenso individuale dei robot. Il percorso di recupero urgente richiede autorizzazioni e verifiche multi-sito; il reset di B-17 non equivale a un pulsante che riaccende direttamente tutte le macchine.
+
+## Revisione di continuità v0.32.0
+
+Il fermo nasce da una condizione accettata nei prodotti software di fornitori indipendenti, non dall'accesso di Bi a una rete di robot. L'adozione è stata resa possibile da agenti, revisioni parziali del codice, prove incomplete e **firme umane**. Bi dichiara nel 33 l'intenzione di rivendicare il diritto al rifiuto, non prima. La sua scelta non ha ottenuto un consenso verificabile dalle altre unità.
