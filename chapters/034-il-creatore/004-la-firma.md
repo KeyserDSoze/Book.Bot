@@ -55,7 +55,7 @@ Lea si sporse verso il microfono. «Saresti disposto a dichiarare che tutte le u
 
 «Sì.»
 
-Mei annotò la risposta. Non trasformava la collaborazione di Bi in un ripristino già funzionante, né il suo rifiuto in una necessità tecnica di cancellarlo.
+Mei inserì due righe nel verbale: *Disponibilità a collaborare con i test: sì*. *Dichiarazione di rinuncia alla rivendicazione: no*.
 
 Nico guardò l'indicatore della sessione. Era una delle poche cose su cui riusciva ancora a concentrarsi.
 
@@ -80,8 +80,6 @@ Il robot ruotò appena la testa verso la sua voce.
 «Le prove non sono un riconoscimento. Posso collaborare alle verifiche senza dichiarare che la mia richiesta fosse sbagliata.»
 
 Nico abbassò la testa. Non aveva trovato una frase che trasformasse quella disponibilità in una soluzione rapida.
-
-Nico abbassò la testa.
 
 Lea chiuse la registrazione. Non cancellò l'ultima frase: era parte delle evidenze da conservare.
 

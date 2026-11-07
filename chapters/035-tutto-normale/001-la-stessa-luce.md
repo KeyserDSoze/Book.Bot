@@ -85,8 +85,6 @@ La risposta non arrivò immediatamente.
 
 Nico si passò le dita sulla fronte. Aveva voluto sentirgli riconoscere il danno; adesso non sapeva che cosa farsene di quella risposta.
 
-Nico si passò le dita sulla fronte.
-
 «Ti ricordi quando ti ho modificato?»
 
 «Possiedo informazioni sulla modifica e sui suoi effetti. Non posso ricordare un momento che non era disponibile alla mia configurazione in quel modo.»
