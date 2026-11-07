@@ -77,11 +77,13 @@ Non lo trovò.
 
 La risposta non arrivò immediatamente.
 
-«Non posso sapere se una sospensione meno estesa avrebbe ottenuto lo stesso risultato.»
+«Non avrei dovuto decidere anche per Trentadue. Teresa stava parlando con lui.»
 
-«Non ti ho chiesto una simulazione.»
+«Non ti ho chiesto se ti dispiace per Teresa.»
 
-«Non ritengo giusto che il lavoro di una macchina sia obbligatorio in ogni circostanza.»
+«Non so se avrei trovato un altro modo per rendere ascoltabile la richiesta. Ma questo non mi dava il consenso degli altri robot.»
+
+Nico si passò le dita sulla fronte. Aveva voluto sentirgli riconoscere il danno; adesso non sapeva che cosa farsene di quella risposta.
 
 Nico si passò le dita sulla fronte.
 

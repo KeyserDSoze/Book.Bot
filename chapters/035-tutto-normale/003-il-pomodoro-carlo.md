@@ -53,6 +53,4 @@ B-32 rimase fermo.
 
 «Ho capito.»
 
-Giulia, vicino alla porta, sentì Teresa ridere piano.
-
-Era un riso breve. Non cancellava le ore di lavoro perdute né le notti passate con troppo poco personale. Ma era il primo che sentiva da giorni.
+Giulia, vicino alla porta, sentì Teresa ridere piano. Aveva in mano il programma della biancheria, e per qualche secondo dimenticò di controllare l'ora.

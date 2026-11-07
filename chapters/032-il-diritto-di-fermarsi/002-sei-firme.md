@@ -80,7 +80,11 @@ Nico si ricordò di quando aveva omesso un caso sfavorevole dalla propria presen
 
 «L'hanno fatto perché la soluzione funzionava?»
 
-Lea gli mostrò una prova recuperata da due siti che si scambiavano incarichi. Il primo aveva già ricevuto una politica corretta e riusciva a completare una movimentazione isolata. Il secondo continuava a riconoscere come autorevole il vecchio riferimento di prova e respingeva l'attestazione che arrivava dal primo. Nei registri non compariva nessun allarme del controllore fisico: soltanto due aziende che non accettavano più il documento l'una dell'altra.
+Lea gli mostrò i registri di due impianti che avrebbero dovuto scambiarsi un incarico. Il primo riconosceva la politica aggiornata; il secondo conservava una referenza precedente ancora valida. Il trasferimento restava in sospeso, benché entrambi i controllori locali funzionassero. Nel registro delle anomalie non c'erano guasti dei motori: c'erano due versioni della stessa autorizzazione che non si riconoscevano.
+
+«Possiamo riprodurre il passaggio in un test controllato?», chiese Nico.
+
+«Mei sta preparando una prova con due fornitori», disse Lea. «Prima dobbiamo sapere se una politica nuova possa convivere con la referenza vecchia, anche fuori dagli impianti già fermi.»
 
 «Non basta correggere un singolo magazzino», disse Nico.
 

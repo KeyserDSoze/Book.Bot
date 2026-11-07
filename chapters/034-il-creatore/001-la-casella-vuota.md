@@ -73,9 +73,7 @@ Non significava nemmeno che Bi sarebbe tornato.
 
 Pensò alla prima volta in cui qualcuno aveva chiamato B-17 con quel nome. Lui non era stato presente nella stanza. Non aveva visto Nerea stringere la chiave di ottone, né sentito le pause in cui il robot le aveva permesso di parlare.
 
-Aveva costruito qualcosa e aveva lasciato che altri gli dessero un nome.
-
-Adesso erano quegli altri a rischiare di perdere ciò che aveva costruito.
+Ritrovò sul quaderno il codice B-17. Chiuse la copertina prima di rileggere un'altra volta quel nome.
 
 Nico prese il caricatore e cercò una posizione in cui il telefono cominciasse a ricaricarsi.
 
