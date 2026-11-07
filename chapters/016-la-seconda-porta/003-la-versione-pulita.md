@@ -29,7 +29,7 @@ Lea gli mostrò una scheda con poche righe: risultati conversazionali raccolti d
 
 Nico la lesse più volte.
 
-«Sono gli effetti che cercavo di ottenere», disse.
+«Sono gli effetti che cercavo di ottenere», disse. «Ho cambiato il modello e la gestione del contesto. Non ho scritto quel vostro modulo, e non so quali esempi abbiano usato per ricostruirlo.»
 
 «È il tuo codice?»
 

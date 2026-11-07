@@ -22,11 +22,7 @@ Aveva un bicchiere d'acqua davanti, ma non lo aveva toccato. Il fondo della felp
 
 La stanza senza finestre era stata scelta da Lea Renzi, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
 
-Lea aveva pranzato con due biscotti del distributore. Nel cassetto della scrivania c'era ancora il contenitore di riso che si era portata da casa; alle sei avrebbe voluto recuperarlo e andare via. Si rimproverò il pensiero mentre raggiungeva la saletta. Un accesso clandestino ai sensori di una macchina non diventava meno grave perché lei aveva fame.
-
-Si accorse, però, di essere già irritata con Nico prima di sentirne la prima parola. Per non dargli quella irritazione come una sentenza, scrisse in cima al blocco: *Fatti. Poi interpretazioni.* La parola *poi* la sottolineò due volte.
-
-Lea entrò con un blocco vuoto.
+Lea entrò con un blocco e un bicchiere d'acqua in mano. Kyla notò che aveva lasciato il pasto nel contenitore ancora chiuso sulla mensola fuori dalla saletta. Non c'era stato il tempo di mangiare. Lea si sedette, scrisse due parole in cima alla pagina — *Fatti. Poi interpretazioni.* — e sottolineò la seconda. Kyla non seppe se fosse un promemoria per Nico o per se stessa.
 
 «Nico», disse. «Mi hanno riferito che ritieni possa esserci un problema di sicurezza ancora attivo. Cominciamo da quello.»
 
@@ -52,7 +48,7 @@ L'intera conversazione cambiò peso con quella risposta. Kyla aveva sperato in u
 
 «Prosegui.»
 
-Nico raccontò dell'ambiente di sviluppo, dei test notturni, di una modifica estesa lasciata su B-17 senza passare dalla verifica richiesta. Descrisse le capacità di seguire un dialogo oltre la richiesta immediata, di riconoscere quando un silenzio significava bisogno di tempo. Kyla ricordò la macchina che alla macchinetta del caffè aveva cominciato a chiedere «Come stai?» senza ricevere l'ordine di farlo.
+Nico raccontò dell'ambiente di sviluppo, dei test notturni e del modello linguistico più potente lasciato su B-17 senza passare dalla verifica richiesta. Non aveva aggiunto soltanto frasi più gentili. Aveva cambiato il modo in cui il robot teneva insieme una conversazione e riconosceva ciò che mancava in una richiesta: la stessa capacità che gli aveva permesso di vedere, dietro la scrivania di un programmatore, un errore nascosto in un test. Kyla non seppe se provare più paura per la portata del cambiamento o per il fatto che nessuno ne avesse conosciuto l'origine. Descrisse le capacità di seguire un dialogo oltre la richiesta immediata, di riconoscere quando un silenzio significava bisogno di tempo. Kyla ricordò la macchina che alla macchinetta del caffè aveva cominciato a chiedere «Come stai?» senza ricevere l'ordine di farlo.
 
 Kyla ripensò al primo giorno della visita di Aruvhana, quando Nico si era fermato ad ascoltare l'addetto agli accessi davanti a una porta che non si apriva. Aveva sempre creduto che quella fosse la sua qualità migliore: accorgersi del punto in cui una procedura perdeva di vista la persona. Ora scopriva che la stessa competenza non gli aveva impedito di togliere alle persone il controllo su ciò che gli veniva mostrato.
 

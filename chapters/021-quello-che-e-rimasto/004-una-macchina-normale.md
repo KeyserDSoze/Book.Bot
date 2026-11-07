@@ -36,6 +36,8 @@ Paolo sospirò.
 
 «Hai ragione.»
 
+Nella finestra a lato era rimasto aperto anche un ticket del reparto software. L'agente di sviluppo aveva proposto una correzione al controllo delle versioni e chiedeva una revisione umana. Paolo conosceva i terminali reali meglio dei programmatori nuovi; nessuno, però, gli aveva assegnato il compito di ricostruire il percorso del codice da cui proveniva l'errore. Da quando Bi non c'era più, alcune richieste restavano a metà fra il tecnico che vedeva il problema e lo sviluppatore che sapeva formulare soltanto l'istruzione per un agente.
+
 B-21 non sorrise, non fece battute e non gli domandò se avesse dormito bene.
 
 Recuperò la scheda corretta.
