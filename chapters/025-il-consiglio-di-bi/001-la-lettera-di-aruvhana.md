@@ -103,8 +103,4 @@ Kyla riprese la lettera e tornò in ufficio. Il primo sviluppatore del turno era
 
 Kyla si fermò un istante a guardarlo. Sperò che Cyberdine riuscisse a difendere il tempo necessario a fare quella domanda, anche quando avrebbe dovuto vendere il servizio a un prezzo più basso.
 
-Sul foglio di Aruvhana il numero restava lo stesso.
-
-**17%.**
-
-Non c'era una persona a cui attribuirlo. Ce n'erano molte che avrebbero dovuto trovare il modo di viverci.
+Sul foglio di Aruvhana il numero restava lo stesso: **17%**. Kyla lo ripiegò e lo infilò nella cartellina del contratto, accanto all'elenco dei 341 rapporti di lavoro.

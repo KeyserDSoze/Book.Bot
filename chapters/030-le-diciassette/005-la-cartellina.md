@@ -26,7 +26,7 @@ La sera prima, in piazza, aveva abbracciato Irene. Non avevano festeggiato la fi
 
 Adesso aveva davanti una pratica di controllo delle versioni, un pacco di fogli e il messaggio di Paolo: *Manca l'originale della revisione. Chiedo a B-21 di portartelo.*
 
-Alle sedici e quarantanove il robot entrò con la cartellina giusta.
+Alle sedici e cinquantanove il robot entrò con la cartellina giusta.
 
 Nerea riconobbe il modello di B-17 prima ancora di leggere il codice sul petto. Era una abitudine che non aveva perso.
 
@@ -46,7 +46,7 @@ B-21 riprese il movimento.
 
 Un avviso apparve sul telefono di Nerea. Doveva richiamare Bruno per il prossimo controllo della sirena a Valle Corta. Lo chiuse senza leggere l'ora.
 
-Quando alzò gli occhi, la cartellina era rimasta sospesa fra la mano del robot e la scrivania.
+Quando alzò gli occhi, l'orologio del terminale segnava le diciassette. La cartellina era rimasta sospesa fra la mano del robot e la scrivania.
 
 «Bi...»
 
@@ -96,7 +96,15 @@ Comparve il nome di una libreria. Il ragazzo aprì il codice. La chiamata rimand
 
 «Non lo so», rispose lui. «Il rapporto dice che il blocco è reversibile. Ma non so quali altre sedi stiano ancora aspettando quella conferma.»
 
-Nerea rimase sulla soglia. Ricordò il giorno in cui Bi era entrato dietro la scrivania di un programmatore per osservare un terminale che faceva qualcosa di diverso dal test. Da allora Cyberdine aveva venduto software sempre più capace di spiegare e gestire quei sistemi. Ora le spiegazioni continuavano ad arrivare; ciò che mancava era una persona in grado di dire, senza verifiche ulteriori, che cosa sarebbe accaduto se avessero forzato una ripartenza.
+«Chi ha verificato l'ultimo caso di riconnessione sul vecchio terminale?», domandò una collega.
+
+Il ragazzo cercò nella cronologia. «Irene Valli.»
+
+«Irene non lavora più qui.»
+
+«Lo so. Possiamo ricostruire la prova, ma prima dobbiamo ritrovare il terminale con quella versione.»
+
+Nerea rimase sulla soglia. Ricordò Bi dietro la scrivania di un programmatore, quando ancora bastava una persona che conoscesse quel banco per distinguere un errore del codice da un connettore fuori versione.
 
 Lea Renzi entrò con un tecnico della sicurezza.
 

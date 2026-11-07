@@ -29,7 +29,7 @@ Non lo aveva ancora comunicato a Giulia. Stava scegliendo tra quello del suo sec
 
 Teresa sollevò il telefono. Sullo schermo c'era una piantina storta, tenuta in piedi da due bastoncini di legno.
 
-«Quello grande si chiamerà Carlo», disse. «L'altro ancora non lo so.»
+«Quello piccolo si chiamerà Carlo», disse. «L'altro ancora non lo so.»
 
 Il robot si fermò a una distanza appropriata, lasciando libero il passaggio.
 

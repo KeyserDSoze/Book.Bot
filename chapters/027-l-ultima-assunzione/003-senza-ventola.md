@@ -37,7 +37,7 @@ Mei controllò il rapporto. Il cambio del modulo energetico richiedeva ancora un
 
 Il problema più difficile non era sul banco. Era sullo schermo accanto, dove erano elencati gli aggiornamenti compatibili con un nuovo standard di coordinamento che i clienti avevano cominciato a chiamare *Passerella*.
 
-Era nato da un progetto di Cyberdine per Aruvhana. Era una piattaforma software di interoperabilità nata da connettori, librerie e procedure che i team dell'azienda avevano progettato per anni, poi in parte fatto scrivere e aggiornare agli agenti di sviluppo. Il successo commerciale non diceva quali programmatori sapessero ancora spiegarne ogni dipendenza. Non trasferiva il controllo di un robot a un altro. Permetteva a sistemi di produttori differenti di condividere attestazioni sullo stato dei lavori, sulle versioni delle procedure e sulle autorizzazioni umane, in modo che le attività successive sapessero a quali risultati potevano affidarsi.
+Passerella era nato dal progetto di Cyberdine per Aruvhana: connettori e procedure sviluppati negli anni, che gli agenti software contribuivano ormai a modificare sotto verifica umana. Permetteva a prodotti di marchi diversi di scambiarsi attestazioni sugli incarichi completati, sulle versioni delle procedure e sulle autorizzazioni ricevute. Non dava a un robot il comando di un altro. Mei aprì la cronologia di una libreria: le ultime tre modifiche avevano tutte un revisore umano, ma nessuno dei tre aveva seguito la prima versione.
 
 Ogni sito manteneva i propri controllori di sicurezza e le proprie responsabilità. Per adottarlo servivano configurazioni, audit e contratti.
 

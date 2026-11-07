@@ -89,7 +89,7 @@ La richiamò in ufficio.
 
 «Voglio che tu partecipi alla verifica delle competenze necessarie per il nuovo processo», le disse.
 
-Irene guardò il fascicolo.
+Irene guardò il fascicolo. Sul frontespizio della versione completa era indicata anche l'origine dell'analisi preliminare: *Circuito Veyra, unità B-17*. Nella copia che le avevano chiesto di verificare quel riferimento mancava.
 
 «Perché io?»
 
