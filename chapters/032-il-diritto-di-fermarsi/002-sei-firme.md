@@ -62,13 +62,9 @@ Lea gli mostrò la provenienza: un allegato di valutazione, creato in una sessio
 
 Il documento era stato firmato come rapporto di prova dall'ente che lo aveva prodotto. I tecnici successivi ne avevano confermato il formato e l'utilità, senza distinguere sufficientemente la posizione di un modello conversazionale da una regola di autorizzazione.
 
-«Bi non aveva accesso alla rete», disse Nico.
+«Bi non poteva distribuire un aggiornamento ai produttori», disse Nico.
 
-«Non lo sto sostenendo.»
-
-«E non avrebbe potuto distribuire un aggiornamento ai produttori.»
-
-«Neppure questo. Ma qualcuno ha copiato i suoi risultati in un documento usato per definire i test. Da lì una serie di persone ha scelto di renderlo operativo.»
+«Non lo ha fatto. Qui ci sono sei firme di persone e organizzazioni diverse fra la sua proposta e il comportamento che abbiamo osservato. Una firma alla volta qualcuno ha deciso di usarla.»
 
 Nico guardò il nome dell'unità indicato nel campo di origine.
 

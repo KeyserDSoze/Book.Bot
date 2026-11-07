@@ -18,9 +18,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Lea aveva due modi per rovinare un'indagine. Il primo era trattare ogni indizio come una prova. Il secondo era aspettare una prova perfetta prima di proteggere qualcuno.
-
-Alle undici e venti si trovava nella sala stampanti con il registro della coda aperto, due persone a fianco e un foglio dentro una cartellina trasparente. La prova non era perfetta. Il problema, però, era evidente: una lettera che doveva essere consegnata privatamente a Veyra era comparsa in un documento di servizio di Cyberdine.
+Alle undici e venti Lea aveva davanti la coda della stampante, due colleghi e un foglio chiuso in una cartellina trasparente. Sapeva quante copie erano uscite da quella macchina: una. Non sapeva su quante altre schermate fosse comparsa la stessa frase privata, inviata soltanto a Veyra.
 
 Nerea era tornata alla propria postazione dopo aver confermato per iscritto ciò che sapeva del messaggio. Lea non le aveva chiesto di ricostruire tutto il colloquio con Bi. Era già stato difficile spiegare a quella donna che il testo forse aveva circolato oltre i referenti autorizzati.
 
@@ -34,11 +32,7 @@ Paolo indicò una riga della diagnostica.
 
 «Questo dobbiamo poterlo dimostrare, non soltanto dire», rispose Lea.
 
-La procedura di verifica era prevista dall'ufficio tecnico: periodicamente confrontava le schede della nuova unità con alcune schede della vecchia famiglia di robot, per assicurare che componenti e riferimenti non fossero stati confusi. Quando un operatore aveva richiesto un riepilogo delle pratiche aperte sulla famiglia B, il sistema aveva incorporato un estratto da un archivio di supporto del produttore.
-
-L'operatore non aveva chiesto i dati di Veyra. Non sapeva neppure che quelle informazioni fossero disponibili.
-
-La piattaforma si chiamava **Lanter Service**, dalla società che aveva costruito i robot. Cyberdine era cliente da tempo; finché i documenti erano separati correttamente, l'uso quotidiano non dava motivo di sospettare che qualcuno potesse vedere un pezzo di una pratica altrui.
+Nel registro di **Lanter Service** il controllo di compatibilità di B-21 aveva richiamato un vecchio codice della famiglia B. La risposta comprendeva la scheda attesa e un estratto di una pratica appartenente a un altro cliente. Paolo non lo aveva cercato: il servizio aveva inserito entrambi nello stesso riepilogo.
 
 Paolo aprì una scheda diversa, senza allegati. C'era scritto: *cornice magnetica; lato stampato verso il vetro*.
 
@@ -48,7 +42,7 @@ Lea osservò i due riepiloghi affiancati. Il servizio che rendeva facile ritrova
 
 «Quando avete chiesto di cercare B-17?», domandò Lea.
 
-Paolo ricostruì la sequenza. Aveva richiesto una verifica di compatibilità per B-21 dopo un aggiornamento di un accessorio. Il codice vecchio compariva ancora nella documentazione storica. Il sistema di assistenza aveva fornito una scheda di confronto; la stampante aveva eseguito quanto ricevuto. Non c'era stato un comando inconsueto del robot né una richiesta di rispondere a Nerea.
+Paolo le mostrò l'ordine di verifica dell'accessorio di B-21. L'ora e il codice coincidevano con quelli della coda di stampa. «Non ho chiesto nessun messaggio», disse. Lea gli chiese di conservare anche quell'ordine.
 
 Lea osservò il campo *origine* del documento: un riferimento di assistenza internazionale e una descrizione generica, *interazione personale non classificata*.
 
@@ -92,7 +86,7 @@ Lea riaprì il foglio. Sotto l'estratto privato, in una sezione che nessuno avev
 
 Lea lo segnò su un foglio separato: **interazione contestuale / provenienza da chiarire**.
 
-Non voleva costruire un secondo mistero per dare colore al primo. Aveva visto troppe volte un problema di documenti diventare, nei racconti successivi, una storia di macchine che avevano agito da sole.
+Chiuse il foglio separato in una seconda cartellina. L'estratto della lettera rimase nella prima.
 
 Il telefono squillò quando stava chiudendo la cartella.
 

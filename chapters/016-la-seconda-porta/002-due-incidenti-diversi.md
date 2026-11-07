@@ -64,9 +64,7 @@ Lea vide Kyla chiudere una mano intorno alla penna.
 
 «Ho fermato l'approvazione della provenienza dei casi sotto la mia responsabilità», rispose Mei. «La decisione sul programma e sui clienti spetta anche ad altri responsabili. Farò mettere a verbale la vostra richiesta.»
 
-Lea pensò a ciò che Nico aveva confessato: un aggiornamento non verificato che gli aveva permesso di osservare il robot per mesi. Ora, in un altro paese, persone che non avevano mai parlato con Nico stavano già organizzando prove basate su effetti che lui aveva contribuito a introdurre.
-
-Lea sottolineò sul rapporto l'espressione *contesti d'uso diversi*. Era una delle formule con cui, dopo un incidente, si scopriva chi avrebbe dovuto accorgersi del problema prima.
+Lea sottolineò sul rapporto *contesti d'uso diversi*. Accanto scrisse: *Chi ha autorizzato il riuso?* Nessuno nella riunione aveva ancora fornito un nome.
 
 «Quanti clienti stanno usando il nuovo modulo?», chiese Lea.
 
@@ -78,7 +76,7 @@ Mei esitò soltanto un istante.
 
 «È ancora in calendario. Ho chiesto che la provenienza venga verificata prima.»
 
-Era una differenza sottile e pericolosa: una richiesta di blocco non era un blocco condiviso da tutta un'organizzazione.
+Lea annotò sotto la data: *Rilascio ancora in calendario.*
 
 Al termine della call, Verri chiuse il portatile troppo forte.
 

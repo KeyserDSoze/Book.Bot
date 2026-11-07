@@ -24,13 +24,9 @@ Dall'altra parte del vetro due tecnici provavano un braccio robotico con una pin
 
 Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberdine.
 
-Mei aprì due schermate affiancate. A sinistra, la pratica del Circuito Veyra: richiesta di recapito di una risposta, lettera allegata, accessi riservati. A destra, la scheda ricevuta dal servizio di Cyberdine durante una normale verifica di compatibilità. Nella descrizione della seconda compariva la prima riga della lettera.
+Mei mise fianco a fianco la pratica riservata di Veyra e la scheda consultata da Cyberdine. Il documento completo era rimasto nell'archivio del primo cliente. Ma il motore di ricerca aveva trasformato l'inizio della lettera in una descrizione tecnica, visibile nella seconda scheda.
 
-Fece scorrere di nuovo il registro del servizio. La piattaforma aveva conservato l'allegato completo nell'area del Circuito, ma aveva ricavato una descrizione testuale che il motore di ricerca poteva mostrare ad altri clienti della stessa famiglia di robot. La voce *interazione personale* era stata trattata come le altre categorie di manutenzione, senza una separazione equivalente.
-
-Mei guardò le due colonne. Le persone avevano chiesto di recapitare una risposta, non di condividere la domanda.
-
-Era stato utile per anni. Un manutentore poteva trovare in pochi secondi il caso di un accessorio già risolto altrove. Bastava non includere contenuti privati. Nessuno, fino al caso di Veyra, aveva verificato che la nuova categoria *interazione personale* lo impedisse davvero.
+Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Nerea appariva sotto un'etichetta verde: *contenuto indicizzabile*.
 
 Mei scorse l'elenco degli accessi. Un sistema autorizzato di Cyberdine aveva recuperato l'estratto durante una verifica di compatibilità di B-21. Non risultava che il robot avesse interrogato un'altra unità per iniziativa propria. Non risultava nemmeno che la lettera completa fosse stata restituita al cliente italiano.
 
@@ -75,8 +71,6 @@ Mei si appoggiò allo schienale. Era proprio quel genere di frase che, dopo una 
 Mei aprì il calendario. Il lancio controllato del modulo era previsto per alcune settimane dopo, con un gruppo ristretto di clienti e un insieme di casi dichiarati a basso rischio. Avevano previsto misure operative, supervisione umana e procedure di ritorno alla versione precedente.
 
 Non avevano previsto che un esempio derivasse da un robot modificato clandestinamente da un dipendente di un'altra azienda.
-
-Mei fissò la scheda.
 
 Mei aprì due segnalazioni. Il sistema suggerì di unirle: stesso numero di serie, stesso cliente di origine. Rifiutò. Nella prima scrisse di delimitare gli accessi ai documenti e preservare le evidenze; nella seconda bloccò, per la parte di sua competenza, l'approvazione della provenienza degli esempi del nuovo modulo. I due fascicoli ricevettero numeri diversi.
 
