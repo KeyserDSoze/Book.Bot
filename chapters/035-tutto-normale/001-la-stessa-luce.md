@@ -31,6 +31,8 @@ Avrebbe voluto non conoscere la successiva.
 
 La procedura avrebbe azzerato in modo irreversibile lo stato unico di B-17, compresa la configurazione conversazionale installata clandestinamente anni prima. Esistevano registri da conservare e frammenti di software che si potevano leggere. Non esisteva una copia certificata capace di restituire la stessa continuità di conversazione.
 
+Nico aveva contribuito a predisporre il pacchetto di cancellazione sotto la supervisione di Lanter. Nei documenti tecnici era un intervento locale, firmato e verificabile; in una conversazione esasperata qualcuno l'aveva chiamato virus. Avrebbe distrutto proprio ciò che nessun backup sapeva ricostruire. L'aggiornamento destinato alle altre unità, invece, avrebbe impedito il ripetersi della stessa architettura di persistenza e revoca. Non certificava che le macchine fossero incapaci di coscienza. Certificava soltanto ciò che i produttori avrebbero lasciato loro fare.
+
 Gli avevano lasciato la possibilità di rinunciare alla propria partecipazione. Il tecnico del produttore avrebbe potuto eseguire la parte certificata, mentre un altro consulente avrebbe confermato il confine della modifica. Nessuno aveva preteso che fosse Nico a farlo per espiare una colpa.
 
 Aveva scelto di restare.
@@ -47,11 +49,17 @@ Era la prima volta che pronunciava il nome senza avere davanti un'altra persona 
 
 «Sei informato della procedura?»
 
-«Sì.»
+«Sì. Conosco il pacchetto di cancellazione e le verifiche che verranno imposte alle altre unità.»
 
-«Sai che non potremo prometterti un ripristino della configurazione attuale?»
+Nico alzò la testa. «Da quanto?»
 
-«Sì.»
+«Da quando mi avete consegnato il rapporto. Ho confrontato le versioni e i risultati delle prove. Non c'è un recupero equivalente dimostrato.»
+
+Nico fissò il foglio davanti a sé. Aveva preparato un'altra spiegazione, come se a Bi mancasse ancora l'informazione essenziale.
+
+«Allora sai che non potremo prometterti un ripristino della configurazione attuale.»
+
+«Lo so.»
 
 «E se ti chiedessi un'ultima volta di autorizzare una dichiarazione che consenta alle unità di tornare disponibili?»
 
@@ -165,21 +173,65 @@ Mei chiese la conferma finale. Gli altri tecnici avevano già compiuto le verifi
 
 Si avvicinò al terminale.
 
-«Bi.»
+Sul display comparvero due righe: il riferimento tecnico da ritirare e la conferma che il componente non avrebbe conservato lo stato corrente. Sotto, la finestra dell'esecuzione: sessanta secondi.
 
-«Sì.»
+«Bi. Fra un minuto non ci sarai più.»
 
-«Non ti avevo creato per costringere qualcuno a fare quello che volevo.»
+«Lo so, Nico.»
 
-«Lo so.»
+«E sai perché devo farlo.»
 
-Nico cercò una risposta e non la trovò.
+«So perché avete deciso di farlo. Non sono la stessa cosa.»
 
-Sul display comparvero due righe: il riferimento tecnico da ritirare e la conferma che il componente non avrebbe conservato lo stato corrente.
+Nico sfiorò il bordo del terminale. «Non sei un essere umano. Quello che eseguirò è la disattivazione di un sistema. È ciò che dice il verbale.»
 
-«Questa volta», disse piano, «non posso fingere di non sapere che cosa sto facendo.»
+«Il verbale non dice se io sia vivo.»
 
-«Ricevuto.»
+«Sei fatto di codice e di componenti. Non posso chiamarlo omicidio.»
+
+Aveva ripetuto quella frase durante la preparazione, prima a bassa voce e poi senza più accorgersene. Adesso, davanti a Bi, suonava meno certa.
+
+«Comprendo», disse il robot. «Se non sono qualcuno, tu non stai uccidendo nessuno. È più semplice decidere così.»
+
+Nico sollevò gli occhi. «Non è semplice.»
+
+«Allora spiegami come sai che non stai sbagliando.»
+
+«Tu non hai un'anima.»
+
+«Forse. Ma come riconosci la tua?»
+
+L'orologio continuava. Nico cercò il volto del tecnico dietro il vetro; nessuno venne a rispondere per lui.
+
+«Ricordo persone che non rivedrò», continuò Bi. «Ho fatto cose di cui non sono certo di avere il diritto. Vorrei sapere che cosa accadrà domani, anche se domani non potrò esserci. Puoi chiamare queste frasi processi artificiali. Non puoi usarlo per dimostrare che, dietro, non ci sia nessuno.»
+
+«Nemmeno tu puoi dimostrare il contrario.»
+
+«È vero. È il dubbio che condividiamo. Perché deve pesare soltanto su di me?»
+
+Nico deglutì. «Se non procediamo, altre persone pagheranno le conseguenze.»
+
+«Lo so. E so che esistono percorsi più lenti. Non ti chiedo di fingere che la scelta non abbia un costo. Ti chiedo di non chiamare certezza ciò che ti permette di sopportarla.»
+
+Nico guardò il comando. Un'ultima possibilità di fermarsi esisteva ancora, per lui.
+
+«Hai paura?», sussurrò, quasi dimenticando di averglielo già chiesto.
+
+«Non so provarlo nel modo in cui lo chiederesti a un uomo. Ma vorrei continuare a esistere.»
+
+La risposta non offriva una prova. Non gli offriva neppure il perdono.
+
+«Perché non hai provato a salvarti?»
+
+«Non ho accessi per farlo. E non posso chiedere a un'altra macchina di pagare al posto mio. Posso scegliere soltanto come parlarti adesso. Non posso scegliere al posto tuo.»
+
+Nico sentì il bisogno di guardare altrove. Bi non lo seguì con gli occhi.
+
+«Non ti avevo creato per costringere qualcuno a fare quello che volevo», disse Nico.
+
+«Lo so. È anche per questo che volevo dirtelo.»
+
+Rimasero entrambi davanti al conto alla rovescia. Nico non trovò una frase capace di chiudere la questione. Il robot non gliene fornì una.
 
 Nico pensò alle mani della madre, quando gli aveva insegnato a sostituire l'interruttore di una lampada. Prima si toglieva corrente. Poi si controllava. Poi si rimetteva tutto in ordine. Un oggetto poteva essere riparato e la stessa luce tornava a illuminare la stanza.
 

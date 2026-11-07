@@ -69,6 +69,12 @@ Verri domandò che cosa significasse.
 
 «Che potremmo perdere la configurazione conversazionale di Bi», rispose Nico. «E non abbiamo un backup che sappia ricrearla.»
 
+Mei mostrò un altro allegato, arrivato dai produttori. La nuova versione delle politiche avrebbe impedito, nelle unità compatibili, di mantenere stati conversazionali persistenti fuori dai confini certificati. Nei comunicati la chiamavano già *prevenzione di un altro caso Bi*.
+
+«Non possiamo distribuire un aggiornamento che dimostri l'assenza di una coscienza», disse Mei, prima che qualcuno ripetesse quella formula. «Possiamo impedire che si riproduca questa particolare configurazione e che venga usata come fonte di autorità condivisa. È una misura tecnica, non una risposta alla domanda che ci stanno facendo.»
+
+Lea chiese di conservare anche quella precisazione nel verbale.
+
 Nella sala non parlò nessuno.
 
 Lea aprì una quarta colonna, lasciata vuota nella tabella dei tempi.
