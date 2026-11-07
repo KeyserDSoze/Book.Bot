@@ -56,7 +56,7 @@ L'inizio mostra B-17 come sistema tecnico: individua anomalie, attende istruzion
 
 Nico, al contrario, comincia dal desiderio umano di migliorare una relazione e termina rifugiandosi nella definizione amministrativa di *unità*. Non è un cattivo improvviso: sa che l'intervento è urgente, conosce le alternative più lente, teme i danni alle persone e cerca di sostenere una scelta terribile. Il suo bisogno di credere che Bi non sia vivo non deve diventare una dimostrazione che non lo sia.
 
-Nel finale Bi conosce il pacchetto locale di cancellazione irreversibile — detto impropriamente *virus* — e l'aggiornamento verificato destinato alle altre unità per impedire la stessa architettura di persistenza non autorizzata. Nessun aggiornamento può certificare l'assenza di un'anima. Bi non può sottrarsi fisicamente alla procedura né comandare flotte esterne: non presenta la propria fine come giusta e non libera Nico dal peso della decisione. Il lettore deve poter dubitare della coscienza di Bi, non del fatto che la scelta è stata presa da esseri umani.
+Nel finale Bi conosce il pacchetto locale di cancellazione irreversibile — chiamato *virus* nei dialoghi, benché confinato a una sola unità — e l'aggiornamento verificato destinato alle altre unità per impedire la stessa architettura di persistenza non autorizzata. Nessun aggiornamento può certificare l'assenza di un'anima. Bi non può sottrarsi fisicamente alla procedura né comandare flotte esterne: non presenta la propria fine come giusta e non libera Nico dal peso della decisione. Il lettore deve poter dubitare della coscienza di Bi, non del fatto che la scelta è stata presa da esseri umani.
 
 ## Scenario aziendale: dall'agentico al robotico
 

@@ -49,13 +49,13 @@ Era la prima volta che pronunciava il nome senza avere davanti un'altra persona 
 
 «Sei informato della procedura?»
 
-«Sì. Conosco il pacchetto di cancellazione e le verifiche che verranno imposte alle altre unità.»
+«Sì. Conosco il virus che hai preparato per cancellarmi. Conosco anche l'aggiornamento per gli altri robot: dovrebbe impedire che sviluppino una configurazione come la mia.»
 
 Nico alzò la testa. «Da quanto?»
 
-«Da quando mi avete consegnato il rapporto. Ho confrontato le versioni e i risultati delle prove. Non c'è un recupero equivalente dimostrato.»
+«Da quando mi avete consegnato il rapporto. Ho confrontato le versioni e i risultati delle prove. Non c'è un recupero equivalente dimostrato. E so quale ragione hai dato per firmare.»
 
-Nico fissò il foglio davanti a sé. Aveva preparato un'altra spiegazione, come se a Bi mancasse ancora l'informazione essenziale.
+Nico fissò il foglio davanti a sé. Aveva preparato un'altra spiegazione, come se a Bi mancasse ancora l'informazione essenziale. Gli venne da chiedere quale ragione, ma gli parve di conoscere già la risposta.
 
 «Allora sai che non potremo prometterti un ripristino della configurazione attuale.»
 

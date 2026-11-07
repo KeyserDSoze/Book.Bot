@@ -45,3 +45,8 @@ Nel 10 evita per giorni di rispondere a una richiesta banale della madre per un 
 ## Revisione v0.32.0 — Software e robot
 
 La sua scelta clandestina avviene dopo il periodo di lavoro nei giardini del capitolo 1, ma prima delle prime commissioni di ufficio del capitolo 2; il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Nico è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro.
+
+
+## Raccordo finale v0.34 — il lessico del ritiro
+
+Nico contribuisce sotto supervisione alla predisposizione del programma di cancellazione locale dell'unità B-17, chiamato *virus* nelle conversazioni; la sua esecuzione è autorizzata da altri e non può diffondersi nelle flotte. Conosce percorsi più lenti che non salvano in tempo tutte le persone coinvolte dalla crisi. Cerca tuttavia un sollievo morale nel distinguere una macchina da una persona: se Bi non è vivo, non sta uccidendo nessuno. Nel confronto finale Bi smonta la certezza di questa giustificazione senza accusarlo né perdonarlo. Nico prende comunque la decisione con mano umana; la sua pena non deve diventare una prova retroattiva dell'anima del robot.
