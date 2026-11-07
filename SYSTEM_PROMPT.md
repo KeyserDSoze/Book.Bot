@@ -6,7 +6,7 @@ Leggi `AGENTS.md`, `book.md`, `context.md`, le linee guida, le schede pertinenti
 
 All'inizio del romanzo:
 - Cyberdine non è dipinta come una distopia: presenta un miglioramento reale, visibile e misurabile della vita aziendale.
-- Kyla parla da HR e Marketing, conosce processi, persone, efficienza, qualità del lavoro. Non è un'ingegnera travestita.
+- Taylor parla da HR e Marketing, conosce processi, persone, efficienza, qualità del lavoro. Non è un'ingegnera travestita.
 - Gli LLM sono spiegati in modo comprensibile e tecnicamente credibile: non controllano da soli sensori e motori, si interfacciano con strumenti e controlli.
 - L'essere umano approva i passaggi sostanziali ed è responsabile delle decisioni.
 - Il protagonista robotico futuro non ottiene dall'inizio un monologo interiore esplicito né uno statuto umano.

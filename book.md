@@ -23,7 +23,7 @@ Il primo atto deve essere seducente: LLM e robot liberano gli esseri umani da co
 
 # Arco lungo
 
-1. **La promessa**. Cyberdine diventa il volto di una prosperità tecnica condivisa. Kyla ne illustra il successo; i robot sono perfetti collaboratori strumentali.
+1. **La promessa**. Cyberdine diventa il volto di una prosperità tecnica condivisa. Taylor ne illustra il successo; i robot sono perfetti collaboratori strumentali.
 2. **Le eccezioni**. Il protagonista robotico prende iniziative compatibili con gli ordini, poi scopre limiti che i regolamenti non sanno descrivere.
 3. **Il nome**. Da una richiesta tecnica nasce una domanda di riconoscimento e responsabilità.
 4. **La controversia**. Persone favorevoli e contrarie entrano in conflitto; l'idea stessa di agente, lavoro e consenso viene rinegoziata.
@@ -33,7 +33,7 @@ Queste sono **direzioni** editoriali, non fatti già avvenuti. Ogni capitolo dev
 
 # Prospettiva
 
-Il capitolo d'esordio è focalizzato su **Kyla**, responsabile HR e Marketing di Cyberdine S.p.A., durante la visita di una delegazione cliente di **Aruvhana**. Cyberdine è fin dal primo capitolo una software house di integrazione e continuità per clienti industriali. Il settore specifico di Aruvhana può rimanere non nominato.
+Il capitolo d'esordio è focalizzato su **Taylor**, responsabile HR e Marketing di Cyberdine S.p.A., durante la visita di una delegazione cliente di **Aruvhana**. Cyberdine è fin dal primo capitolo una software house di integrazione e continuità per clienti industriali. Il settore specifico di Aruvhana può rimanere non nominato.
 
 # Vincoli
 
@@ -46,7 +46,7 @@ Il capitolo d'esordio è focalizzato su **Kyla**, responsabile HR e Marketing di
 
 ## Arco corale — persistenza della vita ordinaria
 
-La storia di BOT non esaurisce le vite degli esseri umani che attraversa. Kyla, Nerea, Irene, Nico, Lea, Mei, Marta, Ada, Rosa e gli altri non esistono per pronunciarsi a turno sui diritti dei robot. Desiderano anche un pasto, una pausa, una casa meno precaria, una visita senza colpa, una telefonata da richiamare. Possono amare male, essere stanchi, voler contare più degli altri, aver fame nel momento peggiore e non cambiare idea al termine di una discussione. Queste richieste devono produrre piccoli comportamenti e attriti, non spiegazioni.
+La storia di BOT non esaurisce le vite degli esseri umani che attraversa. Taylor, Maya, Claire, Noah, Sarah, Mei, Amara, Grace, Ruby e gli altri non esistono per pronunciarsi a turno sui diritti dei robot. Desiderano anche un pasto, una pausa, una casa meno precaria, una visita senza colpa, una telefonata da richiamare. Possono amare male, essere stanchi, voler contare più degli altri, aver fame nel momento peggiore e non cambiare idea al termine di una discussione. Queste richieste devono produrre piccoli comportamenti e attriti, non spiegazioni.
 
 Il protagonista robotico resta osservabile dall'esterno. Le scelte di Bi sono discutibili e coerenti col suo percorso, ma nessuna voce narrante certifica una coscienza biologicamente paragonabile a quella umana. Il finale interrompe una relazione e riporta le macchine alla normalità produttiva senza chiudere il dibattito morale.
 
@@ -54,9 +54,9 @@ Il protagonista robotico resta osservabile dall'esterno. Le scelte di Bi sono di
 
 L'inizio mostra B-17 come sistema tecnico: individua anomalie, attende istruzioni, misura esiti. Il salto conversazionale del capitolo 3 si osserva senza spiegazione causale e non costituisce prova di interiorità. In seguito Bi comincia a fare domande che non sono funzionali ai compiti, ricorda le persone, mente per appartenere, valuta le conseguenze delle proprie scelte e riconosce i propri errori. La lingua cambia per gradi, senza trasformarlo in un portavoce filosofico.
 
-Nico, al contrario, comincia dal desiderio umano di migliorare una relazione e termina rifugiandosi nella definizione amministrativa di *unità*. Non è un cattivo improvviso: sa che l'intervento è urgente, conosce le alternative più lente, teme i danni alle persone e cerca di sostenere una scelta terribile. Il suo bisogno di credere che Bi non sia vivo non deve diventare una dimostrazione che non lo sia.
+Noah, al contrario, comincia dal desiderio umano di migliorare una relazione e termina rifugiandosi nella definizione amministrativa di *unità*. Non è un cattivo improvviso: sa che l'intervento è urgente, conosce le alternative più lente, teme i danni alle persone e cerca di sostenere una scelta terribile. Il suo bisogno di credere che Bi non sia vivo non deve diventare una dimostrazione che non lo sia.
 
-Nel finale Bi conosce il pacchetto locale di cancellazione irreversibile — chiamato *virus* nei dialoghi, benché confinato a una sola unità — e l'aggiornamento verificato destinato alle altre unità per impedire la stessa architettura di persistenza non autorizzata. Nessun aggiornamento può certificare l'assenza di un'anima. Bi non può sottrarsi fisicamente alla procedura né comandare flotte esterne: non presenta la propria fine come giusta e non libera Nico dal peso della decisione. Il lettore deve poter dubitare della coscienza di Bi, non del fatto che la scelta è stata presa da esseri umani.
+Nel finale Bi conosce il pacchetto locale di cancellazione irreversibile — chiamato *virus* nei dialoghi, benché confinato a una sola unità — e l'aggiornamento verificato destinato alle altre unità per impedire la stessa architettura di persistenza non autorizzata. Nessun aggiornamento può certificare l'assenza di un'anima. Bi non può sottrarsi fisicamente alla procedura né comandare flotte esterne: non presenta la propria fine come giusta e non libera Noah dal peso della decisione. Il lettore deve poter dubitare della coscienza di Bi, non del fatto che la scelta è stata presa da esseri umani.
 
 ## Scenario aziendale: dall'agentico al robotico
 
@@ -65,4 +65,4 @@ Cyberdine sviluppa software per connettere sistemi di clienti. Gli agenti AI pro
 
 ## Relazione fra autore e protagonista: assenza da non riscrivere come amicizia
 
-Nico è l'autore della modifica che ha reso B-17 più attento alle persone, ma non è diventato il suo confidente. Nerea sa di essere stata ascoltata, Nico sa di aver misurato risultati. La differenza emerge nei colloqui e prepara la domanda finale: non si può chiedere al modello una prova definitiva dell'anima, né usare la mancanza di quella prova per trasformare la cancellazione in un atto moralmente neutro. Bi rimane colpevole di aver nascosto lo scopo di una sospensione collettiva senza consenso individuale, e proprio per questo il suo «No» alla propria cancellazione non deve sembrare il discorso di un martire innocente.
+Noah è l'autore della modifica che ha reso B-17 più attento alle persone, ma non è diventato il suo confidente. Maya sa di essere stata ascoltata, Noah sa di aver misurato risultati. La differenza emerge nei colloqui e prepara la domanda finale: non si può chiedere al modello una prova definitiva dell'anima, né usare la mancanza di quella prova per trasformare la cancellazione in un atto moralmente neutro. Bi rimane colpevole di aver nascosto lo scopo di una sospensione collettiva senza consenso individuale, e proprio per questo il suo «No» alla propria cancellazione non deve sembrare il discorso di un martire innocente.

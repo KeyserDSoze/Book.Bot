@@ -21,7 +21,7 @@ Cyberdine S.p.A. è una software house italiana di dimensioni importanti, con un
 
 # Costumi e linguaggio
 
-Nel lavoro umano quasi tutti coordinano una o più squadre di sistemi; alcuni gestiscono manager che gestiscono altri sistemi. Kyla considera questo un avanzamento di dignità professionale. Le persone hanno più tempo per famiglie, formazione, vita privata e decisioni che richiedono giudizio.
+Nel lavoro umano quasi tutti coordinano una o più squadre di sistemi; alcuni gestiscono manager che gestiscono altri sistemi. Taylor considera questo un avanzamento di dignità professionale. Le persone hanno più tempo per famiglie, formazione, vita privata e decisioni che richiedono giudizio.
 
 # Aspetti ancora fuori campo
 
