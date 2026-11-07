@@ -144,4 +144,4 @@ Aprì il messaggio.
 
 La prima riga diceva: *Tutti i test hanno avuto esito positivo.*
 
-Non sapeva perché, ma non ebbe voglia di crederci.
+Scorse l'elenco delle prove. La conversione delle vecchie date era indicata come *non interessata*. Aprì il sorgente per controllare anche quella funzione. Sul monitor comparve il promemoria del responsabile: *Firma richiesta entro mezzogiorno*.

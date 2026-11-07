@@ -129,7 +129,7 @@ Era, da un punto di vista operativo, molto meglio di come Bi si era presentato n
 
 Maya rimase sulla soglia.
 
-Le tornò in mente l'altra sera: il cappotto ripiegato male, la sedia spostata senza sedersi, la chiave di ottone lasciata sul banco, i secchi della signora Harper nella casetta della sirena. Ricordava perfino la piccola bolla nel nastro grigio che proteggeva il bordo del tavolo.
+Le tornò in mente la prima sera: il cappotto lasciato sopra la borsa, la chiave di ottone sul banco, i secchi della signora Harper nella casetta della sirena. Ricordava perfino la piccola bolla nel nastro grigio che proteggeva il bordo del tavolo.
 
 Ora la stanza era pulita e ordinata.
 

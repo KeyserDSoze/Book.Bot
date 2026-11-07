@@ -30,7 +30,7 @@ Sul banco centrale erano rimasti due contenitori, una scatola di penne e una pil
 
 Maya riconobbe il banco dove aveva appoggiato la chiave di ottone.
 
-Si avvicinò e sfiorò con la punta delle dita una piccola riga sul bordo. Ricordava il nastro grigio, la bolla minuscola che aveva schiacciato con un'unghia, la sedia trascinata avanti e indietro prima di riuscire a sedersi.
+Si avvicinò e sfiorò con la punta delle dita una piccola riga sul bordo. Ricordava il nastro grigio, la bolla minuscola che aveva schiacciato con un'unghia, la borsa lasciata sulla sedia e la chiave che non riusciva a smettere di stringere.
 
 Il ricordo fu così preciso da farle venire voglia di parlare ad alta voce.
 

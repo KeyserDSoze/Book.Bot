@@ -42,45 +42,31 @@ Claire aveva ripetuto quella frase così spesso da sentirla quasi estranea. Non 
 
 Nel pomeriggio entrò nel laboratorio dei terminali vecchi. Un programmatore nuovo stava guardando una richiesta di correzione generata dall'agente.
 
-«Questa patch elimina un controllo duplicato», disse. «I test sono verdi.»
+«Questa patch rende più semplice la conversione delle date», disse. «I test sono verdi.»
 
-«Quale controllo?»
+Claire lesse il confronto. L'agente proponeva di eliminare un piccolo contatore perché ogni operazione, secondo la sua sintesi, aveva già un orario univoco.
 
-L'uomo indicò una riga del confronto.
+«Anche questo terminale manda un orario univoco?»
 
-«Quello sulla seconda conferma.»
+«Sì. C'è nel registro.»
 
-Claire ricordò il giorno in cui un programmatore aveva fatto spazio a Bi dietro la propria scrivania. Il robot aveva osservato una spia cambiare due volte; fino ad allora tutti avevano pensato che il terminale inviasse un solo messaggio.
+«Con il fuso?»
 
-«Sei sicuro che sia duplicato?»
+Il programmatore ingrandì il messaggio grezzo. Conteneva giorno, ora e minuti. Nessuna informazione sulla zona oraria.
 
-«Lo dice l'agente.»
+Claire prese dal raccoglitore il verbale di un vecchio collaudo. «Prova il passaggio all'ora solare. Per un'ora, due istanti diversi possono avere lo stesso orario scritto così.»
 
-«Il codice cosa dice?»
+Il ragazzo caricò la registrazione di un turno d'ottobre nel banco isolato, senza accedere al sistema del cliente. Due operazioni diverse arrivarono entrambe con l'ora **02:17**. Il contatore che l'agente voleva eliminare era l'unico dato capace di distinguerle.
 
-L'uomo aprì il file. Il controllo era stato introdotto molti anni prima per un terminale che trasmetteva due stati simili con significati diversi. La nota era sintetica; non riportava un esempio completo.
+«Se togliamo questo campo, il connettore ne scarta una», disse il ragazzo.
 
-«Non lo so», ammise.
+«In ottobre forse non lo nota nessuno. Finché manca un carico.»
 
-«Allora proviamolo sul banco prima di togliere la condizione.»
+Il programmatore chiuse la proposta e chiese all'agente di generare un test con i due eventi. Poi aprì il codice della libreria per capire dove il contatore venisse conservato, senza affidarsi al riepilogo appena smentito.
 
-Il test durò quarantatré minuti. Claire tenne il registro aperto mentre il programmatore cambiava i parametri nell'ambiente isolato. Non pubblicarono nulla. A un certo punto il terminale reale confermò una operazione e subito dopo inviò il messaggio che il simulatore classificava come ripetizione inutile.
+«Avrei potuto firmarla», disse.
 
-Il programmatore si voltò verso Claire.
-
-«Se togliamo questo, cancelliamo una informazione che serve alla riconciliazione.»
-
-«Esatto.»
-
-L'uomo si sedette. «Avrei firmato la patch.»
-
-«Hai chiesto di provare il caso. Non l'hai firmata.»
-
-«Perché tu conoscevi il problema.»
-
-«Perché qualcun altro lo aveva trovato tempo fa e non l'avevamo scritto abbastanza bene.»
-
-Tornarono al codice. Claire chiese di allegare alla nuova prova la registrazione del terminale e una nota sulla funzione che traduceva i due stati. Il programmatore lesse il sorgente fino alla chiamata finale. Era una attività che avrebbe richiesto più tempo di un riepilogo automatico, ma gli serviva per spiegare il comportamento a chi sarebbe arrivato dopo.
+«Ma non l'hai firmata», rispose Claire. «E adesso sappiamo quale prova manca.»
 
 Quando uscirono, la luce del corridoio aveva già cambiato colore.
 
