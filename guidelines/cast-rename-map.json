@@ -1,0 +1,197 @@
+{
+  "policy": "Cast globalmente leggibile e multiculturale. Identità tecniche B-17, B-21, B-32, B-33, B-37 e nome Bi immutati. Ambientazione e toponimi non modificati.",
+  "people": [
+    {
+      "oldName": "Ada Serri",
+      "newName": "Grace Morgan",
+      "oldSlug": "ada-serri",
+      "newSlug": "grace-morgan"
+    },
+    {
+      "oldName": "Adriana Lodi",
+      "newName": "Margaret Ellis",
+      "oldSlug": "adriana-lodi",
+      "newSlug": "margaret-ellis"
+    },
+    {
+      "oldName": "Amir Haddad",
+      "newName": "Omar Haddad",
+      "oldSlug": "amir-haddad",
+      "newSlug": "omar-haddad"
+    },
+    {
+      "oldName": "Bruno Dalmasso",
+      "newName": "Daniel Bennett",
+      "oldSlug": "bruno-dalmasso",
+      "newSlug": "daniel-bennett"
+    },
+    {
+      "oldName": "Dario Sarti",
+      "newName": "Ethan Blake",
+      "oldSlug": "dario-sarti",
+      "newSlug": "ethan-blake"
+    },
+    {
+      "oldName": "Elena Riva",
+      "newName": "Olivia Hayes",
+      "oldSlug": "elena-riva",
+      "newSlug": "olivia-hayes"
+    },
+    {
+      "oldName": "Elisa Marin",
+      "newName": "Chloe Rivera",
+      "oldSlug": "elisa-marin",
+      "newSlug": "chloe-rivera"
+    },
+    {
+      "oldName": "Giulia Orsini",
+      "newName": "Julia Parker",
+      "oldSlug": "giulia-orsini",
+      "newSlug": "julia-parker"
+    },
+    {
+      "oldName": "Irene Valli",
+      "newName": "Claire Foster",
+      "oldSlug": "irene-valli",
+      "newSlug": "claire-foster"
+    },
+    {
+      "oldName": "Kyla",
+      "newName": "Taylor",
+      "oldSlug": "kyla",
+      "newSlug": "taylor"
+    },
+    {
+      "oldName": "Lea Renzi",
+      "newName": "Sarah Chen",
+      "oldSlug": "lea-renzi",
+      "newSlug": "sarah-chen"
+    },
+    {
+      "oldName": "Livia Sanna",
+      "newName": "Hannah Brooks",
+      "oldSlug": "livia-sanna",
+      "newSlug": "hannah-brooks"
+    },
+    {
+      "oldName": "Lorenzo Verri",
+      "newName": "Victor Cole",
+      "oldSlug": "lorenzo-verri",
+      "newSlug": "victor-cole"
+    },
+    {
+      "oldName": "Marta Ledesma",
+      "newName": "Amara Ortiz",
+      "oldSlug": "marta-ledesma",
+      "newSlug": "amara-ortiz"
+    },
+    {
+      "oldName": "Mauro Lanza",
+      "newName": "Marcus Reed",
+      "oldSlug": "mauro-lanza",
+      "newSlug": "marcus-reed"
+    },
+    {
+      "oldName": "Mei Lin",
+      "newName": "Mei Chen",
+      "oldSlug": "mei-lin",
+      "newSlug": "mei-chen"
+    },
+    {
+      "oldName": "Mila Corsi",
+      "newName": "Emma Walsh",
+      "oldSlug": "mila-corsi",
+      "newSlug": "emma-walsh"
+    },
+    {
+      "oldName": "Mina Soler",
+      "newName": "Nina Solis",
+      "oldSlug": "mina-soler",
+      "newSlug": "nina-solis"
+    },
+    {
+      "oldName": "Nerea Dalmasso",
+      "newName": "Maya Bennett",
+      "oldSlug": "nerea-dalmasso",
+      "newSlug": "maya-bennett"
+    },
+    {
+      "oldName": "Nico Valenti",
+      "newName": "Noah Carter",
+      "oldSlug": "nico-valenti",
+      "newSlug": "noah-carter"
+    },
+    {
+      "oldName": "Paolo Ferri",
+      "newName": "Paul Turner",
+      "oldSlug": "paolo-ferri",
+      "newSlug": "paul-turner"
+    },
+    {
+      "oldName": "Rosa Fabbri",
+      "newName": "Ruby Collins",
+      "oldSlug": "rosa-fabbri",
+      "newSlug": "ruby-collins"
+    },
+    {
+      "oldName": "Sergio Lolli",
+      "newName": "Samuel Price",
+      "oldSlug": "sergio-lolli",
+      "newSlug": "samuel-price"
+    },
+    {
+      "oldName": "Sofia Rizzi",
+      "newName": "Sophie Grant",
+      "oldSlug": "sofia-rizzi",
+      "newSlug": "sophie-grant"
+    },
+    {
+      "oldName": "Teresa Marin",
+      "newName": "Helen Rivera",
+      "oldSlug": "teresa-marin",
+      "newSlug": "helen-rivera"
+    },
+    {
+      "oldName": "Youssef Benali",
+      "newName": "Yusuf Karim",
+      "oldSlug": "youssef-benali",
+      "newSlug": "yusuf-karim"
+    },
+    {
+      "oldName": "Sahir Venn",
+      "newName": "Elias Hart",
+      "oldSlug": "sahir-venn",
+      "newSlug": "elias-hart"
+    },
+    {
+      "oldName": "Leïa Orren",
+      "newName": "Leah Stone",
+      "oldSlug": "leïa-orren",
+      "newSlug": "leah-stone"
+    }
+  ],
+  "secondary": [
+    {
+      "oldName": "Terenzi",
+      "newName": "Harper"
+    },
+    {
+      "oldName": "Carlo",
+      "newName": "Charlie"
+    }
+  ],
+  "locationSlugs": [
+    [
+      "appartamento-dario",
+      "appartamento-ethan"
+    ],
+    [
+      "appartamento-nico",
+      "appartamento-noah"
+    ],
+    [
+      "centro-assistenza-ada",
+      "centro-assistenza-grace"
+    ]
+  ]
+}
