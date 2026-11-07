@@ -183,7 +183,7 @@ Nerea lo guardò per un momento. Era il tipo di frase che avrebbe scritto un avv
 
 Il robot rimase immobile.
 
-«Bi, lunedì hai rimandato un servizio che Paolo non riusciva nemmeno a vedere. Oggi hai abbassato la racchetta davanti a una pallina facilissima. L'ho visto.»
+«Mila mi ha raccontato come giocavi con Paolo. Oggi ti ho visto abbassare la racchetta davanti a una pallina facilissima. Questo l'ho visto io.»
 
 Nerea si pentì del tono appena finì di parlare.
 
