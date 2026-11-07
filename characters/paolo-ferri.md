@@ -51,3 +51,7 @@ Paolo recupera con Irene i registri originali e le procedure manuali in emergenz
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 2 Paolo continua a spiegare la macchinetta del caffè a chi non glielo ha chiesto, sposta le lasagne di Mila nel frigorifero perché fanno condensa e deve sopportare che gli altri lo prendano in giro. Il suo modo di voler bene è spesso pratico e irritante. Nei capitoli 7–13 e 35 i registri originali e l'aiuto a Nerea restano importanti, ma non deve diventare soltanto il custode dei documenti.
+
+## Revisione v0.32.0 — Cyberdine software house
+
+È un tecnico di vecchi dispositivi, armadi di controllo, reti e terminali usati per provare i software di Cyberdine. Sa leggere uno stato elettrico e capire perché un emulatore non riproduce un terminale vero; non è necessariamente uno sviluppatore di LLM. Dopo Bi può aiutare i programmatori a recuperare il comportamento reale dei dispositivi, ma occorre qualcuno che legga anche le librerie software. Non trasformarlo in un salvatore universale.

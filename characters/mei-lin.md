@@ -34,3 +34,7 @@ Mei scopre un difetto di delimitazione fra attestazione del consenso al lavoro, 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 16 viene preparato l'orologio lasciato dalla madre, impreciso e mai riparato, che torna sulla scrivania nel 32. Nel 27 distingue un incarico autorizzato dalla disponibilità confermata al servizio e chiede ulteriori test, senza prevedere il futuro sciopero. Nel 34 assiste a un tentativo meno distruttivo fallito; ricorda anche la propria responsabilità nell'aver approvato test industriali incompleti.
+
+## Revisione v0.32.0 — Cyberdine software house
+
+Lanter è il produttore robotico; Cyberdine è un cliente e un'impresa di software. Quando Mei esamina Passerella nel cap. 27, studia uno standard nato da piattaforme, connettori e test originariamente costruiti in Cyberdine, poi sostenuti da più fornitori. Nessun codice distribuito segretamente da B-17. Mei vede i limiti delle revisioni software frammentate fra più soggetti, non solo quelli dei controllori fisici.

@@ -31,3 +31,7 @@ Mila collabora alla distribuzione temporanea di compiti rimasti senza B-17 dopo 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 2 Mila reclama la propria pausa e il diritto di mangiare le lasagne senza che Paolo le sposti nel frigorifero. Nel 6 è stanca di sistemare sedie e materiali per altri, e un'incombenza banale la distrae mentre Dario e Mauro seguono Bi nel corridoio. La distrazione non equivale a responsabilità per l'aggressione: il gesto violento è una scelta degli aggressori. Mila non è la segretaria perfetta del gruppo e può essere sbrigativa con chi le piace.
+
+## Revisione v0.32.0 — Cyberdine software house
+
+Mila coordina processi e miglioramenti operativi in una software house, non in un'impresa industriale misteriosa. Nel cap. 2 assegna a B-17 una commissione dopo la sua riassegnazione dal giardino. La sua ironia sulle fotocopie accompagna una trasformazione che all'inizio sembra soltanto organizzativa. Più avanti osserva che gli stessi sviluppatori cominciano a discutere di istruzioni e rilasci anziché delle funzioni che un tempo scrivevano.

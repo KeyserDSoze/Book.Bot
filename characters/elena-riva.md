@@ -26,3 +26,7 @@ Elena nota il primo comportamento premuroso non richiesto di Bi durante una veri
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 2 Elena ha problemi veri con la carta e conserva il piacere semplice di non richiamare una collega che sta seguendo un corso; la scena della macchinetta del caffè aggiunge un piccolo litigio fra Mila e Paolo su una vaschetta di lasagne. Elena può essere esigente con gli originali e meno ordinata con le proprie pause. Non farne un'app che fornisce informazioni: ha il diritto di essere infastidita dalle persone anche quando le aiuta.
+
+## Revisione v0.32.0 — Cyberdine software house
+
+Il censimento dei clienti è un processo gestito dal software di Cyberdine con agenti di sviluppo e registri fisici legacy. Elena vede bene le eccezioni e coordina la qualità documentale; una osservazione di B-17 aggiunge un caso fisico a un test proposto in origine da un agente software, non il contrario. Dopo l'assenza di Bi deve distinguere test verdi da documenti davvero ritrovabili.

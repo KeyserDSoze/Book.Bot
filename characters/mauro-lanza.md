@@ -26,3 +26,7 @@ Mauro compare già nel corridoio lungo, mentre lascia spazio al passaggio di B-1
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 6 Mauro avrebbe potuto separarsi da Dario per ritirare un pacco da restituire — scarpe arrivate della misura sbagliata — ma sceglie di restare nel corridoio, irritato e solidale con l'amico. Il gesto quotidiano non è la causa della violenza, che rimane una sua decisione. Ha meno ore aggiuntive e non riesce a farsi riconoscere le competenze, ma non è un semplice seguace passivo. La sua stanchezza non è un'assoluzione.
+
+## Revisione v0.32.0 — Cyberdine software house
+
+Mauro lavora nelle commissioni e nella movimentazione del campus; **non è uno sviluppatore software**. La perdita di ore derivante dai robot fisici convive con la frustrazione diversa di Dario, che vede svalutarsi la propria competenza di coding. I due malcontenti si sommano senza diventare la stessa causa o una scusa per la violenza.
