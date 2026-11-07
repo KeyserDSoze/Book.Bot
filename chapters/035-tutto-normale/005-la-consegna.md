@@ -83,7 +83,7 @@ Irene aveva ricevuto una proposta di tre mesi per verificare alcuni processi di 
 
 «Hanno aperto altri ruoli?», chiese Nerea.
 
-«Sì. Più manutenzione e controllo. E anche qualcuno per insegnare alle persone a lavorare senza robot, nei casi previsti.»
+«Sì. Più manutenzione, sicurezza del software, verifiche del codice e controllo. E anche qualcuno per insegnare alle persone a lavorare senza robot, nei casi previsti. Stanno cercando sviluppatori che sappiano ancora ricostruire gli adattatori vecchi. Non è il mestiere che promettevano nelle brochure.»
 
 «Potresti farlo tu.»
 

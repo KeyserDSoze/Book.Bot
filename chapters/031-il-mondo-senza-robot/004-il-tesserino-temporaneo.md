@@ -32,7 +32,7 @@ Nico rimase in piedi vicino alla lampada smontata. Aveva finalmente comprato tut
 
 «Vengo.»
 
-Alla reception lo accompagnò un addetto della sicurezza. Nico ricevette un tesserino temporaneo e attraversò il campus che conosceva quasi a memoria. Nei corridoi c'erano più persone che robot; alcune portavano scatole impilate fino al mento. B-21 era fermo vicino a una porta con una cartellina stretta fra le dita.
+Alla reception lo accompagnò un addetto della sicurezza. Dietro il vetro del piano sviluppo vide due programmatori discutere davanti a un riepilogo generato da un agente. Uno ripeteva «il test passa»; l'altro chiedeva di aprire il codice della vecchia libreria che decideva se un'attestazione poteva essere considerata valida. La prima risposta era arrivata in pochi secondi. Per la seconda stavano ancora cercando chi l'avesse scritta. Nico ricordò la prima volta in cui avevano fatto spazio a B-17 dietro una scrivania, convinti di avere trovato soltanto un collaboratore in più. Nico ricevette un tesserino temporaneo e attraversò il campus che conosceva quasi a memoria. Nei corridoi c'erano più persone che robot; alcune portavano scatole impilate fino al mento. B-21 era fermo vicino a una porta con una cartellina stretta fra le dita.
 
 Nico si fermò davanti a lui.
 

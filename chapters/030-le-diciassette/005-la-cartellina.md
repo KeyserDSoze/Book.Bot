@@ -80,7 +80,7 @@ Nerea uscì con lei.
 
 Un robot era immobile davanti alla porta dell'archivio, con un contenitore di plastica sul supporto. Un altro aveva abbassato lentamente il braccio accanto alla stampante. Le persone gli passavano attorno con cautela, senza sapere se fosse corretto spostarlo per liberare il passaggio.
 
-L'ascensore funzionava. Le luci erano accese. Il sistema degli accessi riconosceva i badge.
+L'ascensore funzionava. Le luci erano accese. Il sistema degli accessi riconosceva i badge. Sui monitor del reparto sviluppo continuavano a comparire nuove proposte degli agenti software: test verdi, codice disponibile per la revisione, richieste di approvazione. Il lavoro digitale non si era spento con i robot. Eppure nessuno poteva affidargli un braccio, un carico o una procedura di sito senza che i controlli di disponibilità permettessero il passaggio. Il campus, che aveva trasformato i programmatori in coordinatori di strumenti, scopriva in poche settimane di non avere abbastanza persone capaci di percorrere tutte le dipendenze quando gli strumenti si fermavano insieme.
 
 Dall'ufficio di Kyla arrivò una telefonata concitata.
 
@@ -166,7 +166,7 @@ Kyla arrivò con il telefono in mano.
 
 Paolo aprì il registro a una pagina ormai consumata.
 
-«Abbiamo una procedura per il fermo di un'unità», rispose.
+«Abbiamo una procedura per il fermo di un'unità», rispose. «E procedure software che spiegano come riavviare un connettore. Quelle le hanno anche i colleghi dello sviluppo. Il problema è sapere quali connettori possiamo riattivare senza che un'altra sede li consideri ancora bloccati.»
 
 «E per un reparto?»
 
