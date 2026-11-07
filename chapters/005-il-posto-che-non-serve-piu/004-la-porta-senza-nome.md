@@ -17,204 +17,154 @@ factions:
   - faction:cyberdine
 ---
 
-Irene aveva preparato trentaquattro esempi per il colloquio che non ci sarebbe stato. Alcuni riguardavano software che metteva in comunicazione sistemi incompatibili. Aveva scritto a mano le condizioni di test per un vecchio connettore, quando non bastava dire a un agente «fammi una prova migliore» per ottenere un risultato. Non era nostalgica della fatica: voleva soltanto capire quale parte di quelle competenze l'azienda intendesse ancora riconoscere.
+Irene aveva preparato trentaquattro esempi per il colloquio che non ci sarebbe stato.
 
-Li aveva ordinati in una cartella privata, con date, problemi risolti, decisioni prese dai responsabili grazie al suo lavoro. Tre riguardavano situazioni in cui aveva proposto di non seguire la procedura più veloce. In un caso la scelta aveva fatto perdere due giorni e risparmiato tre settimane di correzioni.
+Li teneva in una cartella privata del computer, con le parti riservate ai clienti oscurate e le date dei progetti. Tre riguardavano casi in cui la soluzione proposta dall'agente di sviluppo era impeccabile nei test e sbagliata nel mondo reale. In uno aveva chiesto di non pubblicare una patch nonostante l'urgenza del cliente. Avevano perso due giorni e risparmiato tre settimane di correzioni.
 
-Sul telefono aveva aperta da due settimane la fotografia di una libreria di legno chiaro. Il mobile non era particolarmente bello. Era largo quanto l'unico muro libero del suo appartamento e avrebbe finalmente tolto i libri dalle due sedie della cucina. Irene aveva inserito l'indirizzo per la consegna tre volte, poi aveva chiuso la pagina prima di pagare.
+Non le sembravano trionfi dell'essere umano contro la macchina. Le sembrava il proprio mestiere.
 
-Con il contratto a termine, anche una spesa così sciocca diventava un calcolo. Si vergognava di averlo pensato. Aveva fatto un corso di gestione del rischio, e intanto non riusciva a scegliere dove mettere dei romanzi.
+Sul telefono aveva aperta da settimane la fotografia di una libreria di legno chiaro. Da mesi Irene spostava romanzi dalle due sedie della cucina per trovare un posto dove mangiare. Aveva inserito l'indirizzo per la consegna tre volte, poi aveva chiuso la pagina prima di pagare. Con un contratto a termine anche un mobile da montare sembrava una decisione irreversibile.
 
-Nessuno glieli aveva chiesti.
+Kyla le aveva parlato quella mattina in una saletta del reparto personale.
 
-Kyla le aveva spiegato la decisione al mattino, in una saletta senza finestre, lontano dal passaggio dei colleghi. Non era stata sbrigativa. Aveva aperto il piano delle responsabilità, mostrato come sarebbero stati redistribuiti gli avalli e ascoltato Irene fino alla fine.
+«La posizione senior di Adriana non verrà aperta.»
 
-«Non è un giudizio negativo su di te», aveva detto.
+Irene non aveva avuto bisogno di chiedere perché. Aveva letto il progetto, esaminato i risultati, contribuito alle prove. Era più difficile contestare una decisione quando avevi aiutato a dimostrarne i vantaggi.
 
-Irene le aveva creduto. Era la cosa peggiore.
+«Il tuo contratto prosegue alle condizioni previste», aveva precisato Kyla. «Non stiamo formulando un giudizio negativo sul tuo lavoro.»
 
-Se qualcuno avesse contestato il suo lavoro, avrebbe potuto portare gli esempi, chiedere una seconda valutazione, migliorare. Invece la valutazione era buona. Era la posizione a non esistere più.
+«Lo so.»
 
-«E il mio contratto?» aveva chiesto.
+«E vorremmo che tu continuassi a occuparsi dei casi fuori soglia.»
 
-«Prosegue alle condizioni previste. La tua attività attuale resta necessaria. Parleremo dei percorsi possibili, ma non ti prometto oggi una posizione che non è stata autorizzata.»
+«Con quale responsabilità?»
 
-Anche questo era corretto.
+Kyla aveva mostrato la matrice nuova. Gli agenti avrebbero preparato codice e test; i robot autorizzati avrebbero recuperato documenti e osservato alcuni terminali; i responsabili già in servizio avrebbero firmato i rilasci. Irene avrebbe preparato i casi difficili.
 
-Irene aveva passato tutto il resto della mattina a comportarsi correttamente. Aveva risposto a due mail, controllato una pratica, corretto la data sbagliata in un calendario condiviso. Per quasi un'ora aveva avuto il terrore di piangere davanti a un collega; quando era rimasta sola non era riuscita a farlo.
+«C'è una persona incaricata di insegnare ai nuovi sviluppatori come si ricostruisce una vecchia libreria?», aveva domandato.
 
-Ora, nel pomeriggio, entrò nell'ufficio di Adriana.
+«Abbiamo un piano di formazione.»
 
-La pianta non c'era più. Nemmeno la fotografia davanti alla torta. Sul pavimento restava una striscia più chiara dove per anni era stato appoggiato il cestino.
+Irene lo aveva letto. Quasi tutti i corsi spiegavano come scrivere istruzioni migliori per gli agenti. Pochi mostravano come risalire a una funzione dimenticata o distinguere un test incompleto da un difetto del programma.
 
-Adriana stava liberando un cassetto.
+«Non voglio tornare a scrivere tutto a mano», aveva detto. «Voglio che sappiamo ancora farlo quando il riepilogo non basta.»
 
-«Ti hanno parlato», disse.
+Kyla aveva preso nota. Non le aveva offerto un ruolo nuovo.
 
-Non era una domanda.
+Adesso Irene entrò nell'ufficio di Adriana. La pianta era sparita. Sul pavimento restava una striscia più chiara dove c'era stato il cestino.
 
-Irene annuì.
-
-«Mi hanno detto che hanno scelto un altro modo per fare il lavoro.»
+«Ti hanno parlato», disse Adriana.
 
 «Sì.»
 
-«È una definizione molto elegante di non assumere qualcuno.»
-
-Adriana appoggiò sul banco una vecchia chiave della scrivania.
-
 «Mi dispiace.»
 
-Irene la guardò. Adriana le aveva insegnato più di quanto qualsiasi corso avrebbe potuto insegnarle. Aveva passato settimane a spiegarle perché una decisione formalmente corretta potesse essere sbagliata se nessuno aveva visto la parte di realtà rimasta fuori dal documento.
+Irene si sedette. Non era pronta a ricevere una consolazione; nemmeno una rimostranza contro la direzione.
 
-«Tu eri d'accordo?»
+«Ti ricordi quando mi hai insegnato a leggere il codice dei vecchi connettori?», chiese.
 
-«Ho chiesto che fossero chiari i responsabili delle eccezioni e il modo di controllare le proposte automatiche. Ho detto che in questi anni hai dimostrato di saper guidare i casi difficili.»
+«Certamente.»
 
-«Ma?»
+«Hai detto che, se non sapevo ricostruire il caso che nessuno aveva previsto, non sarei stata in grado di firmare nulla. Adesso nessuno cerca una persona per quel lavoro. Cercano persone che coordinino le risposte degli agenti.»
 
-«Ma la struttura la decidono altri.»
+«Non sono sempre lavori incompatibili.»
 
-Irene sentì un fastidio improvviso per quella frase. *Altri.* Gli stessi altri che le avevano dato responsabilità sempre maggiori, detto di prepararsi, chiesto di condurre riunioni quando Adriana non c'era. Nessuno aveva mentito. Nessuno aveva promesso. Il risultato era comunque lì.
+«Lo so. Il problema è che il posto dove avrei potuto imparare a esercitare quella responsabilità è sparito.»
 
-La finestra tremò contro il fermo.
+Adriana chiuse il cassetto con una mano. Aveva passato la carriera a eliminare doppie verifiche e procedure inutili; non poteva fingere che i risultati non fossero buoni.
 
-Adriana si avvicinò e diede il solito colpo alla maniglia.
+«Abbiamo migliorato i tempi», disse.
 
-Irene rise. Una risata breve, che le uscì insieme a qualcosa di molto vicino al pianto.
+«Li ho migliorati anch'io. È la cosa che mi fa più rabbia.»
 
-«Questo Bi non lo sa fare.»
+Un rumore secco venne dalla finestra. Adriana si alzò, afferrò la maniglia e la girò nel modo che Irene conosceva a memoria.
 
-«Potrebbe imparare», rispose Adriana.
+«Questo Bi non lo sa ancora fare», disse Irene.
+
+«Potrebbe imparare.»
+
+Irene rise, poi sentì gli occhi pizzicare.
 
 «È proprio quello che temo.»
 
-Adriana si sedette sul bordo della scrivania.
+Bi comparve sulla soglia con un carrello di documenti.
 
-«Vuoi sapere una cosa ingiusta?»
+«Adriana, puoi confermare quali cartelle possono essere trasferite nell'archivio centrale?»
 
-«Dimmi.»
-
-«Quando sei arrivata, pensavo che avremmo avuto bisogno di qualcuno per vent'anni a fare questo lavoro. Poi abbiamo migliorato tutto. I casi arrivano già ordinati, le persone giuste vengono convocate senza passare tre giorni al telefono, le alternative sono visibili. È un bene. Ho passato la vita a cercare questo risultato.»
-
-«E io ho passato gli ultimi mesi a imparare a gestirlo.»
-
-«Lo so.»
-
-Irene tirò fuori dalla cartellina il prospetto che aveva preparato per la riunione del giorno dopo. In fondo c'era una firma da ottenere. La persona indicata dalla nuova matrice era Elena, non Adriana.
-
-«Sai cosa mi fa impazzire? Non è che Bi lavori male. Se lavorasse male, potrei dire che stanno facendo una sciocchezza. Invece è bravo. Ha trovato un problema nella procedura che io non avevo visto e ci ha fatto risparmiare giorni. Io ho potuto concentrarmi sul caso difficile. Mi è persino piaciuto.»
-
-Adriana la guardò senza interromperla.
-
-«Tutti dicono che adesso gli umani si occupano di cose più importanti. E io ci credo. Solo che il posto dove avrei potuto decidere quelle cose importanti è sparito.»
-
-Un suono di ruote arrivò dal corridoio.
-
-Bi comparve davanti alla porta con il carrello dei documenti. Aveva una piccola lista sulla parte esterna del contenitore: tre voci già barrate, una ancora aperta.
-
-«Adriana, puoi confermare che queste cartelle vadano nell'archivio centrale dopo il controllo finale?»
-
-Adriana prese il tablet sul tavolo.
-
-«Le prime due sì. La terza la deve vedere Elena.»
-
-«Confermato.»
-
-Bi spostò due cartelle nel contenitore sigillato e lasciò la terza sul banco. Il gesto fu rapido, accurato, senza esitazioni. Irene osservò la sua mano separare due fogli che pochi giorni prima avrebbe avuto difficoltà persino a sollevare.
-
-«C'è altro?» chiese Bi.
-
-«No», rispose Adriana. «Grazie.»
-
-Il robot si voltò verso il corridoio.
+Adriana approvò due trasferimenti e lasciò il terzo in attesa della firma di Elena. Il robot prese i documenti e si preparò a uscire.
 
 «Bi», lo chiamò Irene.
 
-Si fermò.
+«Sì, Irene.»
 
-Era la prima volta in tutta la giornata che gli parlava volontariamente. Alla macchinetta del caffè aveva evitato di guardarlo. Sentiva ancora Dario dire che gli avevano rubato il posto, e una parte di lei aveva desiderato che fosse vero. Sarebbe stato più facile avere qualcuno da accusare.
+«Sai che cosa faceva Adriana?»
 
-«Sai che cosa faceva Adriana?» gli chiese.
+«Coordinava le eccezioni tra reparti, verificava fonti e procedure e assumeva le responsabilità attribuite alla propria posizione.»
 
-«Coordinava le eccezioni trasversali, verificava i percorsi di risoluzione e assumeva le responsabilità assegnate alla sua posizione.»
+«E cosa farai tu quando andrà in pensione?»
 
-«Sai che cosa farai tu quando andrà via?»
+«Posso preparare dossier, confronti tra versioni e casi di prova negli ambienti autorizzati. Le proposte di codice devono essere esaminate dagli sviluppatori e i rilasci approvati dai responsabili umani.»
 
-«Preparerò i dossier, confronterò le alternative, proporrò test e correzioni nell'ambiente di sviluppo autorizzato, monitorerò gli esiti e invierò le richieste ai responsabili designati. Le modifiche al codice saranno sottoposte a revisione prima del rilascio.»
+«Quindi loro firmano e tu fai una parte del lavoro che prima ci permetteva di imparare.»
 
-«E chi prenderà le decisioni?»
+«La revisione umana comprende la verifica delle prove, delle fonti e delle conseguenze previste.»
 
-«I responsabili umani indicati dalla matrice.»
+«È una definizione corretta», disse Irene. «Ma chi saprà fare quella verifica se passeremo le giornate soltanto ad approvare riassunti?»
 
-Irene annuì. Le risposte erano esatte.
+Il robot attese.
 
-«Quindi tutti continuano a decidere e tu fai il resto. Anche il codice che prima scrivevamo noi.»
+«I responsabili dovrebbero mantenere le competenze per controllare anche i casi esclusi dai test.»
 
-«Non tutte le attività sono automaticamente eseguibili. Le eccezioni fuori soglia richiedono intervento umano.»
+«Dovrebbero», ripeté Irene. «E chi le insegnerà?»
 
-«Sì, lo so.»
+Non arrivò una risposta pronta.
 
-Bi attese.
+Adriana rimase ferma vicino alla finestra. Irene avrebbe preferito che il silenzio fosse di una persona con cui arrabbiarsi. Invece era quello di una macchina di cui aveva avuto bisogno tante volte e che non aveva deciso nulla sulla sua posizione.
 
-Irene avrebbe voluto chiedergli se capiva che cosa fosse appena successo, ma la domanda le sembrò già sbagliata prima di pronunciarla. Non voleva discutere di quanto fosse intelligente. Voleva che qualcuno vedesse la forma della perdita.
+«Io volevo il suo posto», disse.
 
-«Io volevo quel posto», disse.
+«Non conoscevo la decisione sulla struttura prima che fosse comunicata», rispose Bi.
 
-Il robot rimase fermo.
+«Non cambia niente.»
 
-«Non l'ho saputo fino a oggi», rispose.
-
-Irene sentì salire una rabbia improvvisa.
-
-«Che cosa cambia se lo sapevi?»
-
-«Non cambia la decisione sull'organizzazione.»
+«Non modifica la decisione presa dai responsabili.»
 
 «Esatto.»
 
-La parola rimbalzò contro la parete quasi vuota. Adriana non intervenne.
+Irene si guardò le mani. Le era venuta voglia di spiegargli perché quella frase le faceva male, ma non voleva affidargli ancora un pezzo di sé soltanto per ottenere una risposta ben formulata.
 
-Bi aspettò ancora.
+«Vuoi che prepari il prospetto per la riunione di domani?», chiese Bi.
 
-«Ti serve che prepari il prospetto per la riunione di domani?» chiese infine.
+Sul portatile di Irene era aperto il confronto fra una vecchia libreria e la nuova patch. Era già pronta a ricostruire il percorso del codice e a scrivere la propria nota.
 
-Irene abbassò gli occhi sulla cartellina che aveva in mano. Aveva lavorato tutto il pomeriggio a quel prospetto, forse per dimostrare a se stessa che serviva ancora a qualcosa.
-
-«No», disse. «Questo lo faccio io.»
+«No. Questo lo faccio io.»
 
 «Va bene.»
 
-Il robot riprese a camminare. Nessuno gli augurò buona giornata. Nessuno lo insultò.
+Bi lasciò la stanza.
 
-Adriana si rimise davanti al cassetto aperto. Sul fondo restavano alcuni elastici, un cacciavite piccolo e una scatola di fermagli.
-
-«Potresti candidarti altrove», disse.
+Adriana tornò a sedersi. «Potresti candidarti altrove.»
 
 «Lo so.»
 
-«E potresti restare qui e trovare un altro percorso.»
+«O chiedere di seguire la formazione sui sistemi che nessuno vuole più aprire.»
 
 «Lo so anche questo.»
 
 «Non devi decidere oggi.»
 
-Irene guardò il proprio promemoria ancora aperto sul telefono: *Colloquio percorso senior*. Sotto aveva scritto tre domande. La prima era: *Che cosa vi aspettate da chi prenderà il posto di Adriana?*
+Irene aprì sul telefono il promemoria *Colloquio percorso senior*. La prima domanda era: *Quale sarà la responsabilità di chi prenderà il posto di Adriana?*
 
-La cancellò.
+La cancellò. Non cancellò il promemoria intero.
 
-Non eliminò il promemoria intero. Era ancora il lavoro che desiderava fare, anche se la posizione aveva smesso di avere un nome.
-
-Prima di uscire rimase un momento sulla soglia. Adriana cercò la vecchia targhetta accanto alla porta e la sollevò appena, per controllare se le viti fossero arrugginite.
+Quando si alzò, Adriana stava controllando la targhetta sulla porta.
 
 «La tolgono venerdì», disse. «L'ufficio diventa una sala di appoggio.»
 
-Irene guardò il rettangolo di plastica trasparente che conteneva il nome di Adriana Lodi.
+Irene guardò il nome sotto la plastica trasparente. Non desiderava la stanza, la finestra o il mobile. Voleva che una decisione difficile potesse portare il suo nome, non soltanto il timbro di un controllo già preparato da altri.
 
-Non ce ne sarebbe stato un altro sotto.
+Nel corridoio c'era una nuova richiesta del reparto sviluppo: una patch prodotta dall'agente aspettava la revisione di una persona autorizzata. Irene aprì la cronologia e cercò la funzione che quella modifica avrebbe sostituito.
 
-Nel corridoio Bi passò spingendo il carrello delle pratiche verso l'archivio. Un collega gli fece spazio senza dire niente, poi tornò a guardare lo schermo.
+La lesse dall'inizio alla fine.
 
-Dall'ufficio Adriana chiamò: «Irene, se venerdì non riesco a svitare la targhetta, sai dove tengo il cacciavite?»
-
-«Nel secondo cassetto», rispose Irene senza voltarsi. Aveva passato mesi a imparare dove Adriana teneva le cose.
+Poi chiese quali test fossero stati esclusi.
