@@ -263,7 +263,7 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 
 ## Quarta passata — catene che non vanno confuse
 
-- **Lettera:** Maya → Circuito Veyra → ticket di Enrico con allegato non autorizzato → servizio Lanter che rende indicizzabile una descrizione → normale controllo di compatibilità di B-21 a Cyberdine → foglio letto da Maya; B-21 non ha cercato quel messaggio né l'ha ricevuto da Bi.
+- **Lettera:** Maya → Circuito Veyra → ticket di Henry con allegato non autorizzato → servizio Lanter che rende indicizzabile una descrizione → normale controllo di compatibilità di B-21 a Cyberdine → foglio letto da Maya; B-21 non ha cercato quel messaggio né l'ha ricevuto da Bi.
 - **Prodotto:** Lanter non ha copiato la continuità personale di B-17; i piloti impiegano comportamenti ricostruiti sotto responsabilità di Mei e di altri firmatari, con provenienza ancora controversa.
 - **Arresti:** l'attesa locale della baia quattro e del centro assistenziale (18) non è lo sciopero globale delle 17 italiane del giorno successivo al voto (30). In 18/003 il ritardo della biancheria comporta il rinvio della visita alla serra che Helen ricorda nel 22.
 - **24/004:** Bi sa produrre una risposta formalmente corretta alla domanda sulla segnalazione del rischio. Non attribuire a questo test la prova che lui sia moralmente impeccabile, né farlo rivelare il piano dello sciopero prima del 33.

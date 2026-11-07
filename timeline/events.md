@@ -182,7 +182,7 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 
 ## Quarta passata — la catena degli incidenti e il tempo perduto
 
-- **15/001–003 e 16/001–002:** l'allegato di Maya entra non autorizzato nel ticket di Enrico a Lanter; l'indicizzazione di un estratto lo restituisce a Cyberdine tramite una normale verifica di B-21. Sarah e Mei separano fuga di documenti e riuso dei risultati di B-17.
+- **15/001–003 e 16/001–002:** l'allegato di Maya entra non autorizzato nel ticket di Henry a Lanter; l'indicizzazione di un estratto lo restituisce a Cyberdine tramite una normale verifica di B-21. Sarah e Mei separano fuga di documenti e riuso dei risultati di B-17.
 - **17/004:** 1.006 unità con Collaborazione Contestuale; Mei nota che due esiti simili sono classificati diversamente e non registrano chi è stato chiamato a rispondere.
 - **18/003:** i ventidue minuti di ritardo nella consegna della biancheria sottraggono a Julia una visita alla serra che un'ospite già vestita aspettava; Grace registra il rinvio a mano. **22/001** è il ritorno del desiderio di Helen di non perdere un'altra visita, non un nuovo disservizio inventato.
 - **20/002:** Mei dichiara soltanto ciò che il ripristino non può garantire e non può assegnare una certezza sulla coscienza o sullo stato soggettivo di Bi.

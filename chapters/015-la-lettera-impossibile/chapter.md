@@ -23,4 +23,4 @@ B-21 è competente e non possiede la memoria o il software di B-17. Il testo non
 
 ## Quarta review: la prova senza tripla spiegazione
 
-La scena 002 ora parte dalla copia stampata e dalla domanda su chi altro abbia potuto vedere l'estratto. Il confronto con Lanter Service è più breve e la procedura di Paul è mostrata tramite il suo ordine. La fuga nasce dal ticket di assistenza allegato da Enrico e dall'indicizzazione impropria del produttore, **non da un comando di B-21 o dalla backdoor di Noah**. La prima riga resta la sola parte della lettera mostrata a Cyberdine.
+La scena 002 ora parte dalla copia stampata e dalla domanda su chi altro abbia potuto vedere l'estratto. Il confronto con Lanter Service è più breve e la procedura di Paul è mostrata tramite il suo ordine. La fuga nasce dal ticket di assistenza allegato da Henry e dall'indicizzazione impropria del produttore, **non da un comando di B-21 o dalla backdoor di Noah**. La prima riga resta la sola parte della lettera mostrata a Cyberdine.

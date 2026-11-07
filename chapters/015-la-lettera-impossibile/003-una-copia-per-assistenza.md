@@ -17,7 +17,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-La persona che aveva mandato la lettera al produttore si chiamava Enrico ed era il più bravo dell'ufficio amministrativo a risolvere problemi che non avevano una casella.
+La persona che aveva mandato la lettera al produttore si chiamava Henry ed era il più bravo dell'ufficio amministrativo a risolvere problemi che non avevano una casella.
 
 Nina lo trovò davanti alla finestra del magazzino, con il tablet aperto e un pacco destinato alla mensa in mano.
 
@@ -37,11 +37,11 @@ Lui guardò il tablet, poi il pacco. Per un momento sembrò chiedersi se potesse
 
 «Hai chiesto a Maya se potevi farla leggere a un'altra azienda?»
 
-Enrico abbassò lo sguardo.
+Henry abbassò lo sguardo.
 
 «No.»
 
-Nina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il problema dell'invio e, come allegato, la lettera in formato leggibile. Una piccola casella, selezionata per impostazione predefinita, autorizzava l'uso dei materiali del ticket nella diagnostica della famiglia di prodotti. Non era una liberatoria valida per Maya; Enrico aveva semplicemente seguito il percorso più rapido per spiegare al supporto che cosa non funzionasse.
+Nina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il problema dell'invio e, come allegato, la lettera in formato leggibile. Una piccola casella, selezionata per impostazione predefinita, autorizzava l'uso dei materiali del ticket nella diagnostica della famiglia di prodotti. Non era una liberatoria valida per Maya; Henry aveva semplicemente seguito il percorso più rapido per spiegare al supporto che cosa non funzionasse.
 
 «Dobbiamo correggerlo subito», disse Nina.
 
@@ -49,7 +49,7 @@ Nina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il
 
 «Non prima di conservarne le tracce e sapere chi l'ha ricevuto. Non risolveresti il problema facendo sparire la prova.»
 
-Enrico aprì la bocca, poi la richiuse. Il pacco destinato alla mensa rimase fra loro come un oggetto di troppo.
+Henry aprì la bocca, poi la richiuse. Il pacco destinato alla mensa rimase fra loro come un oggetto di troppo.
 
 Nina chiamò Amara. La direttrice venne in amministrazione portandosi ancora dietro la giacca del campo.
 

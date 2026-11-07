@@ -13,7 +13,7 @@ Passata comparativa delle scene chiave dei capitoli 15–24 e 32, con rilettura 
 ### A. La lettera di Maya, la fuga e il prodotto commerciale (14–17)
 
 1. Maya invia a Bi una lettera personale tramite il Circuito Veyra con un vincolo esplicito di riservatezza (14).
-2. Enrico, per risolvere un problema amministrativo relativo alla risposta del robot, allega l'intero testo a un ticket per Lanter senza l'autorizzazione di Maya (15/003). È una decisione **umana**, non un'iniziativa di B-17.
+2. Henry, per risolvere un problema amministrativo relativo alla risposta del robot, allega l'intero testo a un ticket per Lanter senza l'autorizzazione di Maya (15/003). È una decisione **umana**, non un'iniziativa di B-17.
 3. Lanter Service tratta l'allegato come materiale adatto a una descrizione indicizzabile per la famiglia B. Durante una normale verifica di B-21, Cyberdine riceve e stampa un estratto che non avrebbe dovuto essere visibile (15/001–002; 16/001). B-21 **non** ha cercato la lettera, né Bi ha risposto tramite la rete.
 4. Sarah e Mei separano l'incidente di riservatezza dal problema della provenienza dei risultati sperimentali di B-17. La nuova Collaborazione Contestuale è un prodotto ricostruito da Lanter, non una copia della memoria originale di Bi (16).
 5. Mei consente un'estensione limitata dopo prove utili ma incomplete, assumendosene la responsabilità. Il programma si diffonde e il mancato collaudo dei casi di conferma persistente diventa rilevante (17).
@@ -49,7 +49,7 @@ Nel 32/001 la catena non ha bisogno di un paragrafo che dichiari la responsabili
 
 | Scena | Perché proteggerla |
 | --- | --- |
-| 15/003 | Ammissione di Enrico: dettaglio umano essenziale per una fuga di dati senza hacker miracoloso |
+| 15/003 | Ammissione di Henry: dettaglio umano essenziale per una fuga di dati senza hacker miracoloso |
 | 16/003 | Noah conosce i risultati dell'esperimento, non il codice del prodotto commerciale |
 | 17/001 | Mei firma una diffusione prudente ma non perfettamente verificata; non è una profetessa |
 | 18/001–002 | Distinzione fra autorizzazione contestuale e arresto anticollisione indipendente |
