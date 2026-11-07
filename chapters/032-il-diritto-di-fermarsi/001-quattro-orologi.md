@@ -5,16 +5,16 @@ chapter: chapter:032-il-diritto-di-fermarsi
 number: 1
 title: Quattro orologi
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions: 
   - faction:lanter-robotics
 ---
 
-Mei Lin aveva davanti quattro orologi.
+Mei Chen aveva davanti quattro orologi.
 
 Tre erano sul monitor: Roma, São Paulo e Suzhou. Il quarto era quello di sua madre, appoggiato da anni sul bordo della scrivania; perdeva due minuti alla settimana e Mei non aveva mai trovato il tempo di ripararlo.
 

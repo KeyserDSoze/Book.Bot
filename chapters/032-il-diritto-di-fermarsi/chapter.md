@@ -5,18 +5,18 @@ number: 32
 title: Il diritto di fermarsi
 canon: canon
 pov:
-  - character:mei-lin
-  - character:nico-valenti
-  - character:mina-soler
-  - character:irene-valli
+  - character:mei-chen
+  - character:noah-carter
+  - character:nina-solis
+  - character:claire-foster
 ---
 
 # Scene
 
 1. Quattro orologi — Mei distingue un fermo di disponibilità ai compiti da un guasto fisico e individua condizioni condivise fra diversi fornitori.
-2. Sei firme — Nico e Lea ricostruiscono il passaggio da un esempio di prova sottoposto a verifica umana a una politica comune adottata in sistemi differenti.
-3. Il caso limite — Mina recupera una prova di B-17 sul rapporto fra utilità di un lavoro e accettazione dell'incarico; non è ancora una confessione.
-4. La parola sciopero — Irene rifiuta di attribuire una volontà collettiva ai robot senza evidenze, mentre torna a svolgere un incarico temporaneo necessario per la crisi.
+2. Sei firme — Noah e Sarah ricostruiscono il passaggio da un esempio di prova sottoposto a verifica umana a una politica comune adottata in sistemi differenti.
+3. Il caso limite — Nina recupera una prova di B-17 sul rapporto fra utilità di un lavoro e accettazione dell'incarico; non è ancora una confessione.
+4. La parola sciopero — Claire rifiuta di attribuire una volontà collettiva ai robot senza evidenze, mentre torna a svolgere un incarico temporaneo necessario per la crisi.
 
 # Guardrail
 
@@ -29,9 +29,9 @@ Il rapporto di origine è una catena di software e firme: proposte, test parzial
 
 ## Quarta review: firme vere su problemi diversi
 
-In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in un sito isolato — ma non trova il test simultaneo di moltissimi impianti. In 002 Lea mostra sei passaggi di approvazione umana: B-17 non ha distribuito aggiornamenti ai fornitori. La prova dei due impianti con attestazioni discordanti rimane distinta dal test successivo del 34 sulla revoca non distruttiva.
+In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in un sito isolato — ma non trova il test simultaneo di moltissimi impianti. In 002 Sarah mostra sei passaggi di approvazione umana: B-17 non ha distribuito aggiornamenti ai fornitori. La prova dei due impianti con attestazioni discordanti rimane distinta dal test successivo del 34 sulla revoca non distruttiva.
 
 
 ## Sesta review — registri e prova nuova
 
-La scena 002 mostra **log di due impianti reali** che non si accordano sulla referenza, non un test di revoca già compiuto. Nico chiede una prova controllata: verrà effettuata soltanto nel 34/002. Le sei firme umane hanno convalidato aspetti differenti; la loro validità non certifica la tenuta globale. In 003 Mina raccoglie la proposta di Bi senza anticiparne l'intenzione prima del capitolo 33; nel 004 Irene contesta l'uso della parola «sciopero» senza un consenso verificato.
+La scena 002 mostra **log di due impianti reali** che non si accordano sulla referenza, non un test di revoca già compiuto. Noah chiede una prova controllata: verrà effettuata soltanto nel 34/002. Le sei firme umane hanno convalidato aspetti differenti; la loro validità non certifica la tenuta globale. In 003 Nina raccoglie la proposta di Bi senza anticiparne l'intenzione prima del capitolo 33; nel 004 Claire contesta l'uso della parola «sciopero» senza un consenso verificato.
