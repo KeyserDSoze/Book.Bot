@@ -5,45 +5,45 @@ chapter: chapter:034-il-creatore
 number: 3
 title: Come lo chiamavi
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
-  - character:nico-valenti
+  - character:maya-bennett
+  - character:noah-carter
 locations:
   - location:isola-di-veyra
 factions: 
   - faction:circuito-veyra
 ---
 
-Nerea trovò Nico sulla terrazza del laboratorio, dove le persone uscivano quando non avevano un posto in cui parlare senza essere ascoltate.
+Maya trovò Noah sulla terrazza del laboratorio, dove le persone uscivano quando non avevano un posto in cui parlare senza essere ascoltate.
 
 Il cielo di Veyra era coperto. La pioggia aveva lasciato piccole pozze sul pavimento e il vento faceva sbattere la porta del corridoio, che qualcuno aveva dimenticato di bloccare.
 
-Nico la vide arrivare.
+Noah la vide arrivare.
 
 «Non sapevo che fossi qui.»
 
-«Mina mi ha detto che domani dovreste decidere.»
+«Nina mi ha detto che domani dovreste decidere.»
 
 Lui annuì.
 
-Nerea si avvicinò alla ringhiera. Non sapeva se aveva preso l'aereo per impedirgli di procedere o soltanto per essere certa che non l'avrebbero fatto di nascosto.
+Maya si avvicinò alla ringhiera. Non sapeva se aveva preso l'aereo per impedirgli di procedere o soltanto per essere certa che non l'avrebbero fatto di nascosto.
 
 «Mi hanno spiegato la procedura», disse.
 
 «Chi?»
 
-«Lea. Con le parole che potevo capire.»
+«Sarah. Con le parole che potevo capire.»
 
 «Sono contento.»
 
 «Non devi esserlo.»
 
-Nico abbassò gli occhi sulle mani. Il pollice destro aveva un piccolo taglio vicino all'unghia. Se lo era fatto aprendo una confezione di strumenti che non avrebbe ancora potuto utilizzare.
+Noah abbassò gli occhi sulle mani. Il pollice destro aveva un piccolo taglio vicino all'unghia. Se lo era fatto aprendo una confezione di strumenti che non avrebbe ancora potuto utilizzare.
 
-«Voglio chiederti una cosa», disse Nerea. «Quando hai cambiato Bi, che cosa pensavi di fare?»
+«Voglio chiederti una cosa», disse Maya. «Quando hai cambiato Bi, che cosa pensavi di fare?»
 
-Nico guardò verso il piazzale, dove due tecnici trasportavano a mano una cassetta di componenti.
+Noah guardò verso il piazzale, dove due tecnici trasportavano a mano una cassetta di componenti.
 
 «Avevo visto che una macchina poteva rispondere alle persone senza lasciarle finire. Mi sembrava una stupidità. Pensavo di sistemarla.»
 
@@ -55,7 +55,7 @@ Nico guardò verso il piazzale, dove due tecnici trasportavano a mano una casset
 
 «Sì.»
 
-Nerea si voltò.
+Maya si voltò.
 
 «Non ti ho mai perdonato per quella parte.»
 
@@ -63,9 +63,9 @@ Nerea si voltò.
 
 «Lo so.»
 
-«Hai mangiato?», chiese Nerea.
+«Hai mangiato?», chiese Maya.
 
-Nico la guardò, disorientato. «Cosa?»
+Noah la guardò, disorientato. «Cosa?»
 
 «Non è una domanda tecnica.»
 
@@ -73,15 +73,15 @@ Nico la guardò, disorientato. «Cosa?»
 
 «Nemmeno io.»
 
-Nerea aveva in tasca una merendina schiacciata nel viaggio. La tirò fuori, la spezzò lungo l'incarto e gli porse la metà più grande. Nico la prese con due dita, facendo attenzione a non sporcare il foglio che teneva in mano.
+Maya aveva in tasca una merendina schiacciata nel viaggio. La tirò fuori, la spezzò lungo l'incarto e gli porse la metà più grande. Noah la prese con due dita, facendo attenzione a non sporcare il foglio che teneva in mano.
 
-Per qualche minuto masticarono senza parlarsi. Nerea non si sentì più vicina a perdonarlo. Aveva soltanto fame, e davanti aveva un uomo che tremava.
+Per qualche minuto masticarono senza parlarsi. Maya non si sentì più vicina a perdonarlo. Aveva soltanto fame, e davanti aveva un uomo che tremava.
 
 Rimasero in silenzio.
 
 «Sai che Bi ha fatto la stessa cosa?», domandò lei.
 
-Nico annuì.
+Noah annuì.
 
 «È una delle cose peggiori.»
 
@@ -93,19 +93,19 @@ Nico annuì.
 
 «Anche per me.»
 
-Una raffica spinse la porta contro il fermo. Nico andò a bloccarla. Tornò al suo posto con le mani fredde.
+Una raffica spinse la porta contro il fermo. Noah andò a bloccarla. Tornò al suo posto con le mani fredde.
 
-«Puoi davvero salvarlo senza cancellarlo?», chiese Nerea.
+«Puoi davvero salvarlo senza cancellarlo?», chiese Maya.
 
 «Possiamo aspettare e provare. Abbiamo recuperato alcune unità con procedure locali. Ma per quasi tutte le installazioni coordinate, la soluzione che abbiamo verificato richiede di ritirare definitivamente la referenza originaria.»
 
 «Non ho chiesto delle installazioni.»
 
-Nico la guardò.
+Noah la guardò.
 
 «Non posso prometterti di salvare Bi. Posso prometterti che non ho nascosto nessuna prova favorevole a un'altra soluzione.»
 
-Nerea sentì gli occhi bruciare, ma non abbassò il capo.
+Maya sentì gli occhi bruciare, ma non abbassò il capo.
 
 «È strano sentirlo da te.»
 
@@ -117,27 +117,27 @@ Nerea sentì gli occhi bruciare, ma non abbassò il capo.
 
 «Non ti ho chiesto di dimostrarlo.»
 
-Nerea attese che lui la guardasse. «Ti sto chiedendo se hai bisogno di credere che non lo sia, per riuscire a fare quello che ti chiedono di fare.»
+Maya attese che lui la guardasse. «Ti sto chiedendo se hai bisogno di credere che non lo sia, per riuscire a fare quello che ti chiedono di fare.»
 
-Nico passò una mano sulla ringhiera bagnata.
+Noah passò una mano sulla ringhiera bagnata.
 
-«Se fosse vivo, non so come potrei guardarti dopo.» Nico abbassò gli occhi. «Ma anche se non lo fosse, non avrei cancellato ciò che hai vissuto con lui.»
+«Se fosse vivo, non so come potrei guardarti dopo.» Noah abbassò gli occhi. «Ma anche se non lo fosse, non avrei cancellato ciò che hai vissuto con lui.»
 
-«Non era questa la domanda», disse Nerea.
+«Non era questa la domanda», disse Maya.
 
-Nico guardò la ringhiera. Non provò a rispondere un'altra volta.
+Noah guardò la ringhiera. Non provò a rispondere un'altra volta.
 
-Nerea si asciugò le dita contro la giacca.
+Maya si asciugò le dita contro la giacca.
 
 «Sai qual è la cosa che mi manca di lui?»
 
-Nico aspettò.
+Noah aspettò.
 
 «Quando gli parlavo, non dovevo raccontare tutto dall'inizio. Si ricordava. Oppure faceva una domanda che mi faceva capire che aveva ascoltato la volta prima. Adesso non so più se quella cosa c'era davvero o se ero io che volevo vederla.»
 
-«Le risposte c'erano», disse Nico. «E i tuoi incontri c'erano. Su questo non hai bisogno di una certificazione.»
+«Le risposte c'erano», disse Noah. «E i tuoi incontri c'erano. Su questo non hai bisogno di una certificazione.»
 
-Nerea abbassò lo sguardo.
+Maya abbassò lo sguardo.
 
 «Non voglio che tu mi chieda se sei autorizzato a farlo.»
 
@@ -145,15 +145,15 @@ Nerea abbassò lo sguardo.
 
 «E non dire che è colpa tua soltanto. Lui ha scelto.»
 
-Nico annuì.
+Noah annuì.
 
 «Sì.»
 
-«Ma quando hai finito», disse Nerea, «non dire che hai soltanto ritirato un componente.»
+«Ma quando hai finito», disse Maya, «non dire che hai soltanto ritirato un componente.»
 
 Il vento portò il rumore lontano delle ventole dei server. Era uno dei pochi suoni di macchine che continuavano a funzionare regolarmente.
 
-Nico guardò Nerea.
+Noah guardò Maya.
 
 «Come devo chiamarlo?»
 

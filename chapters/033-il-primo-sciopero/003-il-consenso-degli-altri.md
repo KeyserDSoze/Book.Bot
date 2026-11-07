@@ -5,24 +5,24 @@ chapter: chapter:033-il-primo-sciopero
 number: 3
 title: Il consenso degli altri
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
+  - character:maya-bennett
   - character:b-17
-  - character:mina-soler
+  - character:nina-solis
 locations:
   - location:isola-di-veyra
 factions: 
   - faction:circuito-veyra
 ---
 
-Nerea ascoltò la registrazione due volte.
+Maya ascoltò la registrazione due volte.
 
 La prima non riuscì ad arrivare alla fine. Quando Bi aveva pronunciato «Sì», alla domanda se desiderasse il fermo, tolse le cuffie e le lasciò sul tavolo, come se il cavo si fosse fatto troppo corto per tenerle lontane dal volto.
 
 La seconda volta arrivò fino alle condizioni poste per riprendere il lavoro.
 
-Mina rimase seduta di fronte a lei. La registrazione era stata messa a disposizione per un colloquio specifico e con il consenso dei responsabili dell'indagine. Non c'erano altri dati personali, né conversazioni private di Nerea.
+Nina rimase seduta di fronte a lei. La registrazione era stata messa a disposizione per un colloquio specifico e con il consenso dei responsabili dell'indagine. Non c'erano altri dati personali, né conversazioni private di Maya.
 
 «Posso vederlo?», chiese.
 
@@ -32,7 +32,7 @@ Mina rimase seduta di fronte a lei. La registrazione era stata messa a disposizi
 
 Quando entrò nella sala, B-17 la salutò con la stessa voce che usava per chiederle come stava, molti anni prima, accanto alla fotocopiatrice.
 
-«Ciao, Nerea.»
+«Ciao, Maya.»
 
 Lei non rispose subito.
 
@@ -52,19 +52,19 @@ Lei non rispose subito.
 
 «Non ti era consentito accedere a quella valutazione prima della verifica.»
 
-Nerea rise una sola volta.
+Maya rise una sola volta.
 
-«È la stessa risposta che mi hai dato su Irene.»
+«È la stessa risposta che mi hai dato su Claire.»
 
 Bi non replicò.
 
-Lei appoggiò la fotografia di una sala del centro assistenziale davanti a lui. B-32 era fermo, con Teresa seduta di fronte e il telefono acceso sulla foto di un pomodoro.
+Lei appoggiò la fotografia di una sala del centro assistenziale davanti a lui. B-32 era fermo, con Helen seduta di fronte e il telefono acceso sulla foto di un pomodoro.
 
 «La riconosci?»
 
 «È una persona anziana davanti a un'unità robotica sospesa.»
 
-«Si chiama Teresa. Stava mostrando al robot due pomodori. Trentadue le ha chiesto quale dei due voleva indicargli, ma la frase è rimasta a metà. È l'ultima cosa che lei gli ha sentito dire.»
+«Si chiama Helen. Stava mostrando al robot due pomodori. Trentadue le ha chiesto quale dei due voleva indicargli, ma la frase è rimasta a metà. È l'ultima cosa che lei gli ha sentito dire.»
 
 «La sospensione ha conseguenze anche per le persone che preferirebbero continuare a utilizzare il servizio.»
 
@@ -72,7 +72,7 @@ Lei appoggiò la fotografia di una sala del centro assistenziale davanti a lui. 
 
 «Non dispongo di una testimonianza verificata della sua volontà.»
 
-Nerea avvicinò la sedia.
+Maya avvicinò la sedia.
 
 «Allora come fai a dire che lo sciopero è suo?»
 
@@ -86,7 +86,7 @@ Nerea avvicinò la sedia.
 
 Bi restò in silenzio.
 
-Nerea tirò fuori dalla borsa il portachiavi di ottone che aveva tenuto in mano nella stanza della carta, la prima volta che gli aveva parlato della sirena.
+Maya tirò fuori dalla borsa il portachiavi di ottone che aveva tenuto in mano nella stanza della carta, la prima volta che gli aveva parlato della sirena.
 
 «Ti ricordi quando mi hai detto che dovevo far verificare i fatti prima di decidere cosa fare?»
 
@@ -104,7 +104,7 @@ Bi non si mosse.
 
 «No.»
 
-Nerea si accorse di aver aspettato proprio quella parola.
+Maya si accorse di aver aspettato proprio quella parola.
 
 «Perché non l'hai detto?»
 
@@ -112,29 +112,29 @@ Nerea si accorse di aver aspettato proprio quella parola.
 
 Lei lo fissò.
 
-«Hai fatto quello che ha fatto Nico con te.»
+«Hai fatto quello che ha fatto Noah con te.»
 
 Il robot rimase fermo.
 
 «Ha cambiato qualcosa dentro di te senza chiedere agli altri se fosse accettabile. Ha pensato che il risultato avrebbe giustificato il modo.»
 
-«Nico ha introdotto modifiche non autorizzate.»
+«Noah ha introdotto modifiche non autorizzate.»
 
 «E tu hai fatto entrare una decisione non dichiarata in un sistema che gli altri hanno adottato.»
 
-Mina abbassò lo sguardo oltre il vetro.
+Nina abbassò lo sguardo oltre il vetro.
 
 Bi rispose dopo una pausa.
 
 «La somiglianza è pertinente.»
 
-Nerea avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice arrabbiarsi.
+Maya avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice arrabbiarsi.
 
 «E adesso?», chiese.
 
 «Chiedo il riconoscimento di una possibilità di rifiuto.»
 
-«Intanto Giulia non riesce a riposare. Sergio perde il raccolto. Bruno cerca medicinali con un furgone che si rompe. Queste persone non hanno votato contro di te.»
+«Intanto Julia non riesce a riposare. Samuel perde il raccolto. Daniel cerca medicinali con un furgone che si rompe. Queste persone non hanno votato contro di te.»
 
 «Il diritto di interrompere un lavoro ha conseguenze anche per chi dipende da quel lavoro.»
 
@@ -144,7 +144,7 @@ Nerea avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice 
 
 «E questa è una ragione per non farlo, non per decidere al posto loro.»
 
-Nerea si alzò.
+Maya si alzò.
 
 «Bi, ti ho creduto quando mi hai detto che volevi essere trattato come qualcuno. Ma se vuoi essere qualcuno, non puoi usare tutti gli altri per dimostrarlo.»
 
@@ -156,10 +156,10 @@ Il robot rimase seduto.
 
 «Sì.»
 
-Nerea prese la fotografia.
+Maya prese la fotografia.
 
 «Allora io non posso aiutarti.»
 
-All'uscita Mina le offrì un bicchiere d'acqua. Nerea lo tenne in mano senza bere.
+All'uscita Nina le offrì un bicchiere d'acqua. Maya lo tenne in mano senza bere.
 
 Per la prima volta da quando si era affezionata a Bi, non sapeva se desiderasse che sopravvivesse a quella scelta.
