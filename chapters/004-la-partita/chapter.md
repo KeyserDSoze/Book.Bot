@@ -28,3 +28,7 @@ Il segreto tecnico sull'origine delle nuove capacità resta fuori dal repository
 # Continuità
 
 Nerea è stata la prima a chiamare B-17 «Bi». L'irregolarità delle richieste fatte con il codice del padre è tuttora aperta. L'ordine di dismissione della sirena di Valle Corta era previsto per le sette del mattino seguente alla prima confidenza; Nerea aveva inviato segnalazione e contattato la reperibilità. Un provvedimento di sospensione temporanea e una visita sul campo possono dare seguito al consiglio, ma non devono cancellare il problema di fondo. Il settore di Cyberdine e di Aruvhana resta sconosciuto.
+
+## Revisione di continuità v0.32.0
+
+Nella scena 001, durante la preparazione dello Spazio Comune, Kyla ricorda un episodio recente: Bi si è trovato dietro la scrivania di un programmatore, ha riprodotto un errore di un terminale fisico che gli agenti non simulavano, e ha suggerito un caso di prova. Un agente ha proposto la patch e lo sviluppatore l'ha verificata. Il gioco e la prima bugia restano immutati; nessuna spiegazione sulla provenienza delle nuove capacità.

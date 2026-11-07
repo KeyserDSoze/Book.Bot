@@ -18,10 +18,14 @@ Kyla vuole convincere visitatori attenti e scettici senza usare presentazioni ge
 # Ordine scene
 
 1. **La porta di vetro**. Accoglienza; nuovo paradigma LLM e forza robotica; prima domanda sul controllo.
-2. **Le cose che non parlavano**. Integrazioni legacy fisiche, censimento clienti, bot B-17 e giudizio umano.
+2. **Le cose che non parlavano**. Integrazioni legacy fisiche, censimento clienti svolto da un agente software, B-17 addetto ai materiali e giudizio umano.
 3. **La staffetta**. Due addetti alle batterie, turnazione continua, miglioramento delle vite e ruoli aziendali.
-4. **La misura del tempo**. Dashboard, confronto interno, conclusione positiva e una proposta ordinaria di B-17 destinata a contare più avanti.
+4. **La misura del tempo**. Dashboard, confronto interno, conclusione positiva e una proposta ordinaria di un agente di sviluppo, distinta dal lavoro fisico di B-17.
 
 # Divieti di rivelazione
 
-Non esplicitare il settore di Cyberdine o Aruvhana. Non chiamare la condizione robotica schiavitù, servitù o sfruttamento. Non porre in bocca ai bot una rivendicazione di diritti. Non confermare interiorità.
+Esplicitare il settore software di Cyberdine, ma non necessariamente quello industriale finale di Aruvhana. Non chiamare la condizione robotica schiavitù, servitù o sfruttamento. Non porre in bocca ai bot una rivendicazione di diritti. Non confermare interiorità.
+
+## Revisione di continuità v0.32.0
+
+**Nuova identità del primo atto.** Cyberdine è una software house che vende codice, connettori e continuità; Aruvhana ne è un grande cliente. Gli agenti software lavorano su patch e test già prima dei robot. Durante la visita B-17 taglia l'erba nel giardino e non propone codice. Il suggerimento sulle alternative scartate arriva dall'agente digitale di sviluppo. La visita resta ottimista e Kyla non sa dell'upgrade clandestino.

@@ -27,3 +27,7 @@ Da un giorno all'altro B-17 appare più capace di sostenere conversazioni umane 
 La narrazione resta interamente in POV umano. L'origine del salto di capacità è fuori campo e va trattata come **mistero non ancora rivelato**: non introdurre in file pubblici identità, strumenti, log o motivazioni causali. La repository è pubblica. La fonte di verità dell'autore relativa alla causa va custodita separatamente e in privato.
 
 Nessuna coscienza certificata e nessuna rivendicazione di diritti; il lettore vede un cambiamento di condotta reale, non una spiegazione. B-17 non assume responsabilità umane e non presta consulenza giuridica professionale; suggerisce a Nerea di documentare fatti, sollecitare un responsabile e chiedere che la rimozione venga verificata prima di diventare irreversibile. Il successivo riscontro dovrà rendere importante questo consiglio.
+
+## Revisione di continuità v0.32.0
+
+La maggiore capacità di ascolto di B-17 sorprende dipendenti che lo ricordano giardiniere e addetto ai trasporti. La causa resta del tutto fuori dalla narrazione prima del cap. 10; non associare il salto a Nico né menzionare un modello sperimentale nelle scene. Nessuna prova della coscienza.

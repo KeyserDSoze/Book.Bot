@@ -19,7 +19,7 @@ La plenaria chiarisce che **Dario Sarti e Mauro Lanza**, già allontanati cautel
 
 # Beat
 
-1. I numeri sullo schermo — dal POV di Kyla, plenaria credibile, dati operativi senza rivelare i settori aziendali; Verri comunica cessazione rapporto Dario/Mauro e mancata riparazione di B-17.
+1. I numeri sullo schermo — dal POV di Kyla, plenaria credibile, dati operativi del lavoro software, agenti e test; Verri comunica cessazione rapporto Dario/Mauro e mancata riparazione di B-17.
 2. Quasi quanto uno nuovo — Paolo verifica preventivo, alternative e limiti tecnici, sostiene in modo credibile che la scelta può essere razionale, ma non può garantire l'identità del sostituto.
 3. Il numero — Nerea riflette sul nome ufficiale lo stesso giorno della plenaria, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
 4. Un mese di mani — nelle settimane successive Irene scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
@@ -27,3 +27,7 @@ La plenaria chiarisce che **Dario Sarti e Mauro Lanza**, già allontanati cautel
 # Continuità
 
 Le configurazioni e la causa del precedente salto di capacità non vanno rivelate. L'origine dei nuovi comportamenti resta segreta, non anticipare informazioni tecniche che la chiariscano. B-17 è ancora in custodia tecnica nel centro di assistenza dopo il danno; non viene riparato e non è pronto a rientrare. La dismissione delle parti non viene ancora rappresentata o dichiarata irreversibile.
+
+## Revisione di continuità v0.32.0
+
+Nella plenaria Verri presenta risultati e fragilità di una **software house**, non di una società dal settore nascosto. La perdita di Bi colpisce anche i programmi di sviluppo e QA collegati ai terminali reali. La mancata riparazione, la cessazione dei rapporti di Dario e Mauro e i vincoli di sicurezza restano invariati.

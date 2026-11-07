@@ -27,3 +27,7 @@ La tensione culmina in un'aggressione fisica a Bi in un corridoio di servizio da
 # Continuità
 
 La posizione senior di Adriana Lodi non verrà ricreata, ma Irene mantiene il suo contratto. Adriana non è ancora andata in pensione. La telemetria e le registrazioni aziendali rendono l'episodio verificabile; Dario e Mauro sono allontanati cautelativamente dal servizio in attesa di accertamenti. Il danno a Bi è grave, l'intervento di assistenza non ha esito anticipato. Nessun dettaglio sulla causa riservata delle nuove capacità.
+
+## Revisione di continuità v0.32.0
+
+L'aggressione conserva la propria gravità e l'unica responsabilità degli aggressori. Dario è uno sviluppatore di connettori che si sente ridotto a revisore dei risultati degli agenti; Mauro teme la perdita di turni fisici. I due malcontenti sono diversi, nessuno giustifica la violenza. Bi non acquisisce poteri di programmazione senza autorizzazione.

@@ -27,3 +27,7 @@ I colleghi che lo avevano sostenuto ne sentono la mancanza; quelli che lo avevan
 # Continuità
 
 Dario e Mauro sono sospesi cautelativamente dall'accesso operativo dopo l'aggressione: nessun ritorno disinvolto in ufficio. Non promettere il ritorno di Bi, non affermare che provi dolore o coscienza come fatto, non rivelare il retroscena tecnologico. La sirena di Valle Corta e le credenziali usate da Nerea restano questioni aperte.
+
+## Revisione di continuità v0.32.0
+
+Dopo l'assenza di Bi gli agenti continuano a generare patch e test verdi, ma alcune verifiche del comportamento dei terminali veri non sono più facilmente riproducibili. Irene e i colleghi cercano sorgenti, log, vecchie librerie e persone che le conoscevano. Il sapere non scompare fisicamente, e gli esseri umani non diventano incapaci: serviranno più tempo e più test.
