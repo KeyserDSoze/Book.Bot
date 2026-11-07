@@ -29,3 +29,8 @@ Lea, Mei e Nico ricostruiscono una catena di piattaforme, librerie, attestazioni
 ## Raccordo del finale: firmare senza sentenza
 
 Nel dialogo 003 Nerea chiede se Nico abbia bisogno di credere Bi non vivo, **prima** che Nico firmi in 004. La procedura separa la revoca locale irreversibile (detta «virus» nei colloqui) dagli aggiornamenti dei produttori e conserva le alternative non certificate. Bi riceve la documentazione sotto supervisione e non ha un accesso nascosto al piano. Nessuna scelta è presentata come necessaria per ragioni metafisiche.
+
+
+## Correzione dei limiti di conoscenza (terza passata)
+
+In 001 Nico ricorda la frase che B-17 ha realmente pronunciato al Circuito e che lui ha sentito con l'accesso clandestino nel 10: «Alcune persone mi chiamavano Bi». Non gli viene attribuita l'osservazione di conversazioni private di Nerea avvenute senza la sua presenza. Il linguaggio narrativo non certifica che il robot sia una persona.

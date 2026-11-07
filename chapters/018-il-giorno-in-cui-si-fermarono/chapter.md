@@ -21,3 +21,8 @@ pov:
 # Guardrail
 
 Nessuna rivolta o coordinazione autonoma globale: i casi sono collegati dalla stessa funzione configurata in luoghi differenti. Gli arresti dipendono dai controllori e dalle regole scelte dai clienti. Mostrare sia un incidente evitato sia un costo per le persone, senza banalizzare l'impatto.
+
+
+## Review del dialogo tecnico (terza passata)
+
+In 002 il chiarimento di Amir sulla differenza fra mappa della baia e arresto anticollisione è stato abbreviato: la prima spiegazione resta nella scena di Sofia (001), la seconda mostra il ruolo della firma umana senza ripetere una lezione sul middleware. Questo fermo locale è distinto da quello del 30.

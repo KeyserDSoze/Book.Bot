@@ -33,3 +33,8 @@ La ripartenza dei robot è graduale e supervisionata. Cyberdine continua a vende
 ## Raccordo del finale: la volontà di Bi e la scelta di Nico
 
 Bi conosce già il virus locale e il piano per le altre unità. Nico non può conoscere la confessione privata sulle sconfitte a ping pong: cita una registrazione ordinaria del gioco. Bi riconosce il proprio errore di avere imposto una sospensione senza consenso e **risponde «No»** quando Nico gli chiede se desideri la cancellazione. Il dubbio sull'anima non certifica la coscienza. I sessanta secondi dell'intervento iniziano dopo la conferma umana. Nessun ritorno della configurazione e nessun riavvio globale istantaneo; l'ultima frase rimane «Tutto tornò normale.»
+
+
+## Review letteraria del confronto finale (terza passata)
+
+Il dialogo di 001 è stato alleggerito dalla disputa retorica sull'anima. Il punto rimane il dubbio «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno». Bi riconosce le conseguenze dello sciopero, rifiuta la cancellazione e sceglie di non mentire sulla propria responsabilità; non è un consenso alla morte. Il timer parte dopo la conferma di Nico, il ripristino degli altri è progressivo e l'ultima frase resta invariata.

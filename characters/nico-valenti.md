@@ -55,3 +55,8 @@ Nico contribuisce sotto supervisione alla predisposizione del programma di cance
 ### Correzioni di conoscenza e svolta morale — revisione in corso
 
 Nel cap. 1 Nico non ignora il bisogno dell'addetto bloccato alla porta: lo fa passare attraverso un ingresso alternativo e poi torna alla verifica. Nel cap. 35 ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Nerea; non usare la sua passata backdoor per colmare questo vuoto. Quando Nerea lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. Egli stesso è chiamato a scegliere, non è costretto a confermare il ritiro. La prova che non ha omesso questa volta non equivale a un'assoluzione.
+
+
+## Terza passata: parlare non è collaudare
+
+Nerea in 12/003 distingue le domande di Nico durante i test dal parlare a Bi come a un interlocutore. Nel 20/003 Nico domanda se il robot verrà informato delle possibili conseguenze del ripristino; non acquisisce accessi né diritto di decidere. Nel 33/002 chiede a Bi se si ricordi di lui e ottiene un riferimento ai test, non a un rapporto personale. Nel 34/001 può ricordare «Alcune persone mi chiamavano Bi» ascoltata abusivamente nel 10; **non** può ricordare di avere udito Bi chiamare Nerea per nome durante una confidenza privata. Nel 35 è Nico a decidere dopo un rifiuto espresso di Bi. Non rendere Nico automaticamente redento dalle lacrime.

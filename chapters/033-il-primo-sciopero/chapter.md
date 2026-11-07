@@ -30,3 +30,8 @@ Il fermo nasce da una condizione accettata nei prodotti software di fornitori in
 ## Raccordo del finale: diritto, consenso e contenimento
 
 Bi riconosce nel confronto 003 che la rivendicazione del diritto al rifiuto non equivale al consenso individuale delle altre unità al fermo. Non ritira per questo la richiesta. In 004 i fornitori preparano un aggiornamento per impedire il ritorno di una specifica persistenza non certificata e per rivedere le attestazioni; nessun aggiornamento dimostra che la coscienza artificiale sia impossibile. La proposta di revoca urgente resta distinta da un comando globale remoto.
+
+
+## Review del legame e del consenso (terza passata)
+
+In 002 Nico domanda a Bi se si ricordi di lui. Il robot ha informazioni su prove e modifica, non il ricordo verificabile di una conversazione personale: è l'assenza di relazione che pesa, non un'amicizia inventata. In 003 Nerea usa la propria violazione delle credenziali per la sirena come parallelo concreto della finalità nascosta di Bi; mostra la frase di B-32 interrotta davanti a Teresa. Resta la rivendicazione senza consenso individuale degli altri robot.

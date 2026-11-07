@@ -24,3 +24,8 @@ La confessione non diventa una celebrazione di Nico né una descrizione tecnica 
 ## Precisione temporale e consenso — v0.17.0
 
 Nerea riceve prima l'informativa su possibili accessi non autorizzati, poi sceglie di incontrare Nico **il mattino successivo** con Lea e Kyla presenti. La società proprietaria dichiara limitazioni provvisorie al programma di B-17 durante le verifiche, ma non certifica l'assenza di esposizione.
+
+
+## Review relazione Nico–Bi (terza passata)
+
+In 003 Nerea chiede se Nico abbia mai parlato davvero con Bi, non semplicemente interrogato il sistema durante prove. Nico non sa rispondere sul piano personale. La domanda nasce dalla violazione della propria confidenza; nessuna conoscenza di quella confidenza viene attribuita a Nico.
