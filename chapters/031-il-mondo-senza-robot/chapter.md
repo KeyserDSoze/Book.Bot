@@ -25,3 +25,8 @@ La crisi nasce dai compiti robotici realmente diventati infrastruttura, non da u
 ## Revisione di continuità v0.32.0
 
 La crisi combina logistica, cura e dipendenza dai robot, senza spegnere tutti i computer. Lea richiama Nico per capire alcune verifiche e vecchie librerie, sotto supervisione e senza ridargli accessi operativi. Il lettore osserva persone capaci di usare agenti ma incapaci di spiegare immediatamente il comportamento dei protocolli storici. Non anticipare la confessione di B-17.
+
+
+## Quinta review — competenze che restano ma non bastano da sole
+
+In 004 è stato reso più leggibile il ritorno di Nico in Cyberdine come consulente con badge temporaneo: due programmatori osservano una discrepanza reale su un terminale vecchio, respingendo il rilascio malgrado i test automatici verdi. Non sono incapaci: l'esito prova che la vecchia dipendenza richiede attenzione, tempo e accessi autorizzati. Le scene di Ada, Rosa e Bruno restano fondate su scorte, salario, figli, farmaci e responsabilità locali, non su una generica fine della civiltà.

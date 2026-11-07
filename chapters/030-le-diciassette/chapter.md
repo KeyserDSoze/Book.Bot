@@ -31,3 +31,8 @@ Alle 17:00 italiane la vasta flotta robotica coordinata si ferma in sicurezza, n
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La scena 5 rende esplicita la separazione: **alle 17:00 italiane B-21 e le flotte coordinate si fermano in sicurezza, mentre gli agenti software continuano a produrre patch, test e riepiloghi**. Non esiste una soluzione di riavvio dal sistema di sviluppo; per Lea la catena delle attestazioni va verificata con i fornitori e i controllori locali. Kyla non usa le stime di un test locale come previsione di un fermo globale. Nerea chiama Bruno e pensa alle medicine da consegnare a Valle Corta. Nessuno collega ancora la sospensione a Bi.
+
+
+## Quinta review — simultaneità verificabile e continuità di Teresa
+
+In 003 **Carlo è il pomodoro piccolo**, coerente con 35/003; la frase di B-32 si interrompe prima che Teresa possa concludere il racconto. In 005 B-21 entra alle **16:59**, così lo stop alle **17:00** avviene durante la normale consegna della cartellina. Nello sviluppo Cyberdine gli agenti continuano a generare codice, ma una persona competente deve ricostruire anche il caso di riconnessione associato a Irene, che ora lavora altrove. In 004 a Suzhou sono le 23:00 dello stesso istante, non una seconda ondata. Restano attivi sistemi isolati e controllori locali di sicurezza.

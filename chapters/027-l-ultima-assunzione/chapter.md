@@ -29,3 +29,8 @@ Diciotto mesi dopo lo standard Passerella, nato dal software Cyberdine e adottat
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La scena 4 mostra **in presa diretta** il modo nuovo di sviluppare software: un programmatore descrive il requisito a un robot, un agente produce la proposta di codice e test, l'umano verifica e firma. Un ospite chiede di aprire la libreria storica e il programmatore deve risalire alla fonte che non conosce ancora. È competente, non stupido: ammette il limite e cerca le prove. Irene incontra lavori a chiamata, non un lieto fine immediato. La libreria usata è ancora desiderata, **non ancora acquistata**: quel fatto resta nel capitolo 35.
+
+
+## Quinta review — hardware e comprensione del codice
+
+In 003 il nuovo modulo di calcolo è più efficiente, non onnipotente: meno ventole e maggior autonomia, ma batterie e limitazioni reali. La descrizione ripetuta di Passerella è stata ridotta; Mei vede che le ultime tre modifiche di una libreria sono state riviste da esseri umani che non hanno seguito la prima versione. Il 004 preserva il programmatore capace di leggere codice senza fingere che ogni vecchia dipendenza sia ricostruibile in pochi secondi. Gli esseri umani restano responsabili dei rilasci.

@@ -188,3 +188,14 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **20/002:** Mei dichiara soltanto ciò che il ripristino non può garantire e non può assegnare una certezza sulla coscienza o sullo stato soggettivo di Bi.
 - **24/004:** B-17 produce risposte corrette al quesito astratto sulla mancata segnalazione, ma torna a chiedere il destino dell'altra unità. Il suo futuro intento politico resta non rivelato fino a 33.
 - **32/001–002:** la differenza fra firme su prove locali e prova mancante su attestazioni simultanee si manifesta nell'indagine, non tramite un comando remoto di B-17.
+
+
+## Quinta passata — successione 25–31
+
+- **25/001–004:** Aruvhana propone riduzione del 17% sul rinnovo; 341 rapporti di lavoro sono coinvolti in misura diversa. Bi formula nell'analisi locale la distinzione tra incarico non vietato e lavoro positivamente accettato, ancora solo caso limite. Irene riceve prima copia anonima del rapporto e poi ne vede l'origine nel dossier completo.
+- **26/001:** Kyla fa venire Irene per una presentazione che non si tiene: nella stessa riunione il personale apprende i 31 ruoli equivalenti in meno e Irene la non prosecuzione del proprio ruolo. I decisori sono umani.
+- **27:** dopo il salto di diciotto mesi i robot lavorano con hardware più efficiente, non inesauribile. Passerella è diffusa attraverso connettori, accordi e firme; Irene non ottiene il ruolo senior e resta una risorsa competente, spesso soltanto temporanea.
+- **28–29:** dibattito sulla tutela di certe mansioni e sulla disponibilità di personale. In 29/001 Nerea e Bi guardano il prospetto di Ada con **quattro turni non coperti**. Al voto del 29 sera la legge limitata passa; il lavoro robotico prosegue normalmente durante la notte.
+- **30 (giorno dopo il voto), ore 16:59 italiane:** B-21 entra nella stanza di Nerea con la cartellina. **17:00 italiane:** molti sistemi compatibili sospendono il lavoro simultaneamente, fra cui B-21, le raccoglitrici di Sergio, i robot all'Hub Levante e B-32. **23:00 a Suzhou:** Mei registra lo stesso evento. Nel centro assistenziale il pomodoro piccolo di Teresa si chiama Carlo.
+- **31:** gli addetti svolgono trasferimenti a mano, ritirano farmaci con autorizzazioni, tornano temporaneamente utili ma perdono libertà e ore familiari. Nico torna sotto supervisione con badge temporaneo e trova una squadra capace di rifiutare un rilascio che non regge la prova del vecchio terminale.
+- **32–33:** la prima finestra comune del giorno dopo la notizia normativa spiega il sincronismo. Nessun comando universale di Bi; il suo intento nascosto è riconosciuto soltanto dopo aver letto la catena delle firme.

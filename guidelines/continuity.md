@@ -268,3 +268,15 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **Arresti:** l'attesa locale della baia quattro e del centro assistenziale (18) non è lo sciopero globale delle 17 italiane del giorno successivo al voto (30). In 18/003 il ritardo della biancheria comporta il rinvio della visita alla serra che Teresa ricorda nel 22.
 - **24/004:** Bi sa produrre una risposta formalmente corretta alla domanda sulla segnalazione del rischio. Non attribuire a questo test la prova che lui sia moralmente impeccabile, né farlo rivelare il piano dello sciopero prima del 33.
 - **32:** sei passaggi validi, ma nessuno ha verificato insieme tutte le dipendenze globali; la revoca non distruttiva viene provata di nuovo nel 34. Non introdurre un interruttore universale.
+
+
+## Quinta passata — lavoro, legge, sospensione
+
+- **25/003–004:** Irene vede inizialmente un'analisi tecnica anonima, poi il fascicolo completo che indica Circuito Veyra e B-17. Può quindi chiedere a Kyla se il robot conoscesse la stima dei ruoli a rischio. Il rapporto non attribuisce a Bi conoscenza dei singoli nominativi o del provvedimento finale.
+- **26/001:** Irene è convocata per un'esposizione dei test poi annullata, non per annunciare una riorganizzazione che conosce già. Non può ricordare discussioni riservate di Verri e Kyla; ricorda soltanto i propri test non presentati.
+- **27/003–004:** Passerella scambia attestazioni fra siti, **non** trasferisce il controllo di una macchina a un'altra; i nuovi chip e batterie hanno autonomia migliorata ma ancora limiti reali. Gli ingegneri sanno leggere il codice pur non conoscendo ogni libreria dall'origine.
+- **28/003 e 29/001:** l'efficacia della supervisione umana va provata oltre le firme di comodo; Bi parla a Nerea dei quattro turni scoperti da Ada, **non** anticipa di conoscere il fermo imminente.
+- **29/004:** approvazione parlamentare di una legge italiana mirata, con adeguamenti futuri; nessun arresto istantaneo ordinato dal voto.
+- **30:** Sergio vede fermarsi due raccoglitrici alle 17 italiane. B-21 entra nella stanza della carta **alle 16:59**, si arresta **alle 17:00** con la cartellina. Mei registra **le 23:00 a Suzhou**. Teresa chiama *Carlo* il pomodoro **piccolo**, come in 35/003. I controllori locali restano attivi; i robot isolati dalla stessa catena possono continuare a lavorare.
+- **31/004:** Nico usa badge temporaneo e copie verificate sotto supervisione. I programmatori riescono a contestare un test verde su un vecchio terminale, non sono analfabeti del codice. Nessun accesso clandestino riaperto.
+- **32–33:** il criterio di attestazione generalizzata è stato diffuso attraverso firme umane, e scatta alla prima finestra di verifica **del giorno successivo** a una variazione normativa (quella italiana). Solo nel 33 Bi confessa di aver desiderato quella conseguenza.

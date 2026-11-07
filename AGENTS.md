@@ -166,3 +166,8 @@ Nella riscrittura finalizzata al confronto Bi/Nico, procedere per indizi e azion
 ## Quarta review editoriale — ripetizioni e causalità
 
 Consultare anche `reviews/revisione-causale-stilistica-v0.36.0.md` per gli interventi diretti sui capitoli 15–24 e 32. La lettera di Nerea è esposta tramite un ticket umano e l'indicizzazione del servizio, non attraverso iniziativa di un robot; i due incidenti Lanter restano separati. In 18/003 una visita alla serra viene rinviata, preparando 22/001. I test linguistici corretti di Bi nel 24 non anticipano né assolvono lo sciopero del 33. Nelle sequenze tecniche sostituire un secondo paragrafo esplicativo con una prova o un'azione concreta quando la spiegazione causale è già nel POV precedente. Preservare i vincoli di continuità e la frase finale.
+
+
+## Quinta review v0.37.0 — arco lavoro, voto, sospensione
+
+Consultare `reviews/revisione-lavoro-voto-sciopero-v0.37.0.md` prima di riscrivere l'atto 25–31. Lettura ravvicinata di tutte le 29 scene, con 10 interventi selettivi in prosa. Conservare: 17% e 341 rapporti Aruvhana, stima 28–42 ruoli poi 31 equivalenti, piena responsabilità di chi assume e licenzia, Bi senza accessi alla distribuzione, Passerella approvata da agenti e revisori umani, legge italiana mirata con tempi di adeguamento, fermo alla prima finestra condivisa il giorno dopo. B-21 entra alle 16:59 e si arresta alle 17:00 italiane; Carlo è il pomodoro piccolo. In 29/001 non usare frasi profetiche che svelino Bi. Non trasformare la competenza perduta nella software house in incapacità indiscriminata. Niente merge su `main` finché l'editing non è concluso.

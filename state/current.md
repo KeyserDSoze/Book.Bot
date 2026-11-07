@@ -237,3 +237,8 @@ La cronologia 29→30→33→34→35, la ripartenza graduale, la differenza fra 
 Il dossier `reviews/revisione-causale-stilistica-v0.36.0.md` documenta una rilettura comparativa delle scene centrali e delle ripetizioni tecniche, con modifiche **dirette alla prosa** di 15/002, 16/001–002, 17/004, 18/003–004, 19/003, 20/002 e 20/004, 24/004 e 32/001–002. Il collegamento 18/003→22/001 ora rende esplicita una visita alla serra perduta, senza aggiungere un nuovo evento globale.
 
 Non sono state riscritte tutte le scene: 22/002, 23/004 e 24/003 conservano momenti già efficaci, sotto tutela editoriale. Gli archi di Bi, Nico, Nerea, i limiti della tecnologia e la data della fermata restano quelli della PR. `main` e `VERSION` non devono essere aggiornati finché la revisione non è pronta.
+
+
+## Quinta passata editoriale — revisione ravvicinata 25–31 (PR #2)
+
+Il dossier `reviews/revisione-lavoro-voto-sciopero-v0.37.0.md` registra la lettura delle **29 scene dei capitoli 25–31** e la verifica mirata della rivelazione 32–33. Sono state modificate selettivamente 10 scene canoniche: 25/001, 25/004, 26/001, 27/003, 28/003, 29/001, 29/004, 30/003, 30/005, 31/004. I raccordi enfatizzano la responsabilità umana sulle assunzioni, la crescita incompleta del sapere degli sviluppatori, l'effetto reale dei quattro turni scoperti a Veyra, il ritardo dei colloqui con Irene, l'assenza di anticipazioni indebite del piano di Bi e la simultaneità alle 17 italiane. Nessuna nuova scena, nuova tecnologia magica o distribuzione del codice da parte di Bi. Questa è una review del ramo, non una release definitiva: `main` e `VERSION` restano invariati.

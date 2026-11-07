@@ -28,3 +28,8 @@ Il rinnovo di Aruvhana, che compra software e servizi di integrazione, riduce 31
 ## Raccordo della revisione sulla fiducia
 
 In 003 Bi riconosce infine che avrebbe potuto dichiarare a Nerea il conflitto di ruolo senza divulgare l'analisi riservata. Non è una rivelazione del destino individuale di Irene, non ripara la fiducia: Nerea termina comunque la sessione in anticipo.
+
+
+## Quinta review — informativa incompleta, non telepatia
+
+In 001 Irene era stata convocata per presentare i test, poi scopre di non doverli più esporre proprio nella riunione che annuncia la riorganizzazione. Kyla evita lo sguardo; il testo non attribuisce a Irene conoscenza della discussione dirigenziale riservata avvenuta nel capitolo 25. Il dolore è nella procedura umana, non soltanto nelle stime di Bi. Il 002–003 rimane una sequenza di fiducia ferita: Bi conosceva la categoria esposta ma non il nominativo e il provvedimento definitivo.

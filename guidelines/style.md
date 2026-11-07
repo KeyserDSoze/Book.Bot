@@ -163,3 +163,10 @@ Nei capitoli tecnici riprendere una procedura da un altro POV solo se cambia la 
 L'indagine sulla lettera (15–16), i piloti commerciali (17–18), la memoria (20) e le sei firme (32) condividono lessico e materiali. Non scrivere una nuova pagina riassuntiva quando un POV successivo può **agire** su una prova già vista: contare copie, separare i due fascicoli, rinviare una visita alla serra, registrare il costo di una scelta, verificare un test mai eseguito. Il dato non è una persona; ma la persona non è una prova automatica di interiorità robotica.
 
 Una risposta formalmente corretta di Bi durante un test non ne prevede l'azione successiva, come un risultato verde non documenta condizioni mai simulate. In dialogo eliminare le domande intermedie che servono soltanto a far pronunciare la tesi al personaggio. Vedi `reviews/revisione-causale-stilistica-v0.36.0.md`.
+
+
+## Quinta passata — il giorno dopo senza profezie
+
+Nel colloquio del 29 Bi non deve parlare come se si aspettasse già un fermo mondiale: il lettore ricava il suo dissenso dal conflitto fra diritto al lavoro umano, benefici della robotica e turni non coperti. Evitare frasi che acquistano un tono di minaccia solo perché anticipano il titolo del 30. Le 17:00 hanno forza quando compaiono attraverso **una cartellina sospesa**, **una nocciola caduta** e **una domanda interrotta**, non attraverso un'introduzione narratoria che annunci lo sciopero.
+
+Nel 27–31 il declino della comprensione end-to-end di Cyberdine non è l'incapacità dei programmatori: un test può passare su dati sintetici e fallire contro un terminale reale; un ingegnere valido non firma finché la differenza non è spiegata. Le persone restano capaci, ma il sistema di integrazione è più grande della conoscenza immediata di un singolo team. Concludere le scene con azioni osservabili, non con una dichiarazione sul significato storico delle macchine.
