@@ -33,7 +33,7 @@ Queste sono **direzioni** editoriali, non fatti già avvenuti. Ogni capitolo dev
 
 # Prospettiva
 
-Il capitolo d'esordio è focalizzato su **Kyla**, responsabile HR e Marketing di Cyberdine S.p.A., durante la visita di una delegazione cliente di **Aruvhana**. Tranne la loro relazione commerciale, non rivelare che cosa vendano o producano le due società.
+Il capitolo d'esordio è focalizzato su **Kyla**, responsabile HR e Marketing di Cyberdine S.p.A., durante la visita di una delegazione cliente di **Aruvhana**. Cyberdine è fin dal primo capitolo una software house di integrazione e continuità per clienti industriali. Il settore specifico di Aruvhana può rimanere non nominato.
 
 # Vincoli
 
@@ -49,3 +49,7 @@ Il capitolo d'esordio è focalizzato su **Kyla**, responsabile HR e Marketing di
 La storia di BOT non esaurisce le vite degli esseri umani che attraversa. Kyla, Nerea, Irene, Nico, Lea, Mei, Marta, Ada, Rosa e gli altri non esistono per pronunciarsi a turno sui diritti dei robot. Desiderano anche un pasto, una pausa, una casa meno precaria, una visita senza colpa, una telefonata da richiamare. Possono amare male, essere stanchi, voler contare più degli altri, aver fame nel momento peggiore e non cambiare idea al termine di una discussione. Queste richieste devono produrre piccoli comportamenti e attriti, non spiegazioni.
 
 Il protagonista robotico resta osservabile dall'esterno. Le scelte di Bi sono discutibili e coerenti col suo percorso, ma nessuna voce narrante certifica una coscienza biologicamente paragonabile a quella umana. Il finale interrompe una relazione e riporta le macchine alla normalità produttiva senza chiudere il dibattito morale.
+
+## Scenario aziendale: dall'agentico al robotico
+
+Cyberdine sviluppa software per connettere sistemi di clienti. Gli agenti AI progettano e propongono patch prima dell'arrivo dei robot fisici. B-17 parte dal giardino, passa alle commissioni, poi aiuta gli sviluppatori a collegare codice e terminali. L'upgrade clandestino del modello linguistico viene rivelato soltanto nel capitolo 10; il lettore vede prima il miglioramento, non l'autore. Dopo l'uscita di Bi il codice sorgente esiste, ma la conoscenza dei dettagli si è assottigliata. La guida canonica è `guidelines/cyberdine-software-evoluzione.md`.

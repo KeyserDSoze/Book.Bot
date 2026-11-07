@@ -10,4 +10,4 @@ Atrio vetrato, percorso visitatori, parete interattiva con indicatori, corridoi 
 
 La stazione di servizio ospita una riserva di batterie e due unità robotiche dedicate al cambio: una in esercizio, l'altra in ricarica/pronta a subentrare. I sensori mantengono le aree sicure.
 
-Il contesto non denuncia quale sia il settore produttivo.
+Il campus è quello di una software house: reparti sviluppo con repository, ambienti di test e sale per verificare terminali dei clienti; all'esterno un giardino e la rimessa di manutenzione dove B-17 lavora inizialmente con il tagliaerba. La presenza di vecchi pannelli risponde al bisogno di collaudare software su sistemi reali, non a una produzione industriale di Cyberdine.
