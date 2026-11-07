@@ -5,12 +5,12 @@ chapter: chapter:014-non-e-in-vendita
 number: 3
 title: Una lettera invece di un acquisto
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
-  - character:irene-valli
-  - character:paolo-ferri
-  - character:kyla
+  - character:maya-bennett
+  - character:claire-foster
+  - character:paul-turner
+  - character:taylor
 locations:
   - location:spazio-comune
 factions:
@@ -19,9 +19,9 @@ factions:
 
 La risposta di Veyra arrivò alle sette e diciannove del mattino.
 
-Nerea la lesse sul telefono prima di scendere dall'autobus. Era cortese, composta e abbastanza breve da non lasciare spazio a interpretazioni. Ringraziavano per l'offerta, ma l'unità B-17 non era disponibile alla vendita. Non avrebbero aperto una trattativa sulla sua cessione.
+Maya la lesse sul telefono prima di scendere dall'autobus. Era cortese, composta e abbastanza breve da non lasciare spazio a interpretazioni. Ringraziavano per l'offerta, ma l'unità B-17 non era disponibile alla vendita. Non avrebbero aperto una trattativa sulla sua cessione.
 
-Nerea rilesse una frase: **Non disponibile alla vendita.**
+Maya rilesse una frase: **Non disponibile alla vendita.**
 
 La sera precedente cento persone avevano continuato a inviarle messaggi di incoraggiamento. Le avevano chiesto se avessero abbastanza soldi, se servisse raggiungere qualcuno più importante, se uno sponsor potesse aggiungere la differenza. Nessuno aveva previsto che la risposta non contenesse un prezzo.
 
@@ -29,11 +29,11 @@ Rimase sull'autobus fino al capolinea, anche se aveva già superato Cyberdine. S
 
 Alle dieci raggiunse lo Spazio Comune.
 
-Paolo era già lì, con il computer aperto sulle condizioni della piattaforma. Irene sedeva davanti a una tazza vuota. Kyla aveva chiesto di esserci, ma non aveva portato nessun materiale aziendale.
+Paul era già lì, con il computer aperto sulle condizioni della piattaforma. Claire sedeva davanti a una tazza vuota. Taylor aveva chiesto di esserci, ma non aveva portato nessun materiale aziendale.
 
-«L'hai letta», disse Paolo.
+«L'hai letta», disse Paul.
 
-Nerea annuì.
+Maya annuì.
 
 «Non ci stanno chiedendo di alzare l'offerta.»
 
@@ -41,33 +41,33 @@ Nerea annuì.
 
 «Quindi è finita.»
 
-Irene non rispose subito.
+Claire non rispose subito.
 
 «È finito questo tentativo», disse. «Non è la stessa cosa.»
 
-Paolo si tolse gli occhiali.
+Paul si tolse gli occhiali.
 
 «Devo attivare la chiusura degli impegni. I soldi non sono nostri. La piattaforma notificherà a tutti che la condizione d'acquisto non si è verificata e che i pagamenti non verranno eseguiti o saranno restituiti secondo le regole.»
 
-«Qualcuno ci chiederà di usarli per un'altra cosa», osservò Kyla.
+«Qualcuno ci chiederà di usarli per un'altra cosa», osservò Taylor.
 
-«Potranno scegliere loro di partecipare a un'iniziativa diversa. Non possiamo deciderlo noi», rispose Irene.
+«Potranno scegliere loro di partecipare a un'iniziativa diversa. Non possiamo deciderlo noi», rispose Claire.
 
-Nerea guardò la cifra sullo schermo: centounomiladuecentoquaranta euro. L'avevano vista salire per giorni. Adesso sarebbe scomparsa dal riepilogo pubblico a piccoli passi, mentre le notifiche raggiungevano i contributori.
+Maya guardò la cifra sullo schermo: centounomiladuecentoquaranta euro. L'avevano vista salire per giorni. Adesso sarebbe scomparsa dal riepilogo pubblico a piccoli passi, mentre le notifiche raggiungevano i contributori.
 
-«Ci hanno battuti senza neppure farci giocare», disse Paolo.
+«Ci hanno battuti senza neppure farci giocare», disse Paul.
 
-Nerea lo guardò.
+Maya lo guardò.
 
 «Bi avrebbe detto che abbiamo perso undici a zero.»
 
-Paolo sorrise appena, ma non tentò di completare la battuta.
+Paul sorrise appena, ma non tentò di completare la battuta.
 
-Irene si alzò per aprire la finestra. Il telaio oppose la solita resistenza; era diverso da quello dell'ufficio di Adriana, eppure Nerea ricordò per un attimo il colpo secco che la pensionata dava alla maniglia.
+Claire si alzò per aprire la finestra. Il telaio oppose la solita resistenza; era diverso da quello dell'ufficio di Margaret, eppure Maya ricordò per un attimo il colpo secco che la pensionata dava alla maniglia.
 
-«Io sono contenta che non abbiamo raccolto denaro da spendere a qualunque costo», disse Irene. «Non avrei voluto che diventassimo l'ennesimo proprietario convinto di sapere che cosa è meglio per quella macchina.»
+«Io sono contenta che non abbiamo raccolto denaro da spendere a qualunque costo», disse Claire. «Non avrei voluto che diventassimo l'ennesimo proprietario convinto di sapere che cosa è meglio per quella macchina.»
 
-Nerea fece girare la pallina nel palmo.
+Maya fece girare la pallina nel palmo.
 
 «Volevo soltanto riportarlo indietro.»
 
@@ -75,25 +75,25 @@ Nerea fece girare la pallina nel palmo.
 
 «Non so più se sia la cosa giusta da chiedere.»
 
-Irene richiuse la finestra.
+Claire richiuse la finestra.
 
 «Puoi chiedere di parlargli, prima di decidere che cosa farne.»
 
-Nerea la guardò come se avesse suggerito qualcosa di impossibile.
+Maya la guardò come se avesse suggerito qualcosa di impossibile.
 
 «A chi? Alla società che non vuole venderlo?»
 
 «Sì. Non è un'offerta. Non stai chiedendo il loro bene. Stai chiedendo se possono recapitare un messaggio.»
 
-Paolo riprese gli occhiali.
+Paul riprese gli occhiali.
 
 «Potrebbero dire di no.»
 
-«Certo», rispose Irene. «Ormai siamo capaci di sopportare un altro no.»
+«Certo», rispose Claire. «Ormai siamo capaci di sopportare un altro no.»
 
-Nerea si sedette e aprì un documento vuoto.
+Maya si sedette e aprì un documento vuoto.
 
-Ricordò la domanda che aveva rivolto a Nico: *Potevi sentirmi?* Non voleva fingere che una lettera destinata a un robot appartenente a un'altra società fosse come la loro conversazione nella stanza della carta. Chiese a Kyla che cosa sarebbe successo se il Circuito avesse accettato di consegnarla. Kyla non poteva promettere nulla: il messaggio avrebbe dovuto passare per un referente autorizzato, che avrebbe potuto leggerlo, e il Circuito avrebbe conservato le tracce necessarie alla gestione. Nerea decise di non scrivere niente che potesse esporre suo padre o i residenti di Valle Corta. Chiese inoltre che il messaggio non fosse usato per comunicazione pubblicitaria. Sarebbe stata comunque una scelta, fatta sapendo di non avere il controllo su ogni passaggio.
+Ricordò la domanda che aveva rivolto a Noah: *Potevi sentirmi?* Non voleva fingere che una lettera destinata a un robot appartenente a un'altra società fosse come la loro conversazione nella stanza della carta. Chiese a Taylor che cosa sarebbe successo se il Circuito avesse accettato di consegnarla. Taylor non poteva promettere nulla: il messaggio avrebbe dovuto passare per un referente autorizzato, che avrebbe potuto leggerlo, e il Circuito avrebbe conservato le tracce necessarie alla gestione. Maya decise di non scrivere niente che potesse esporre suo padre o i residenti di Valle Corta. Chiese inoltre che il messaggio non fosse usato per comunicazione pubblicitaria. Sarebbe stata comunque una scelta, fatta sapendo di non avere il controllo su ogni passaggio.
 
 Non voleva scrivere una lettera pubblica. Non voleva un'altra pagina con fotografie, commenti o un contatore di denaro. Voleva dire a Bi che il tavolo da ping pong esisteva ancora, che suo padre l'aveva ascoltata, che la sirena di Valle Corta non era stata rimossa e che B-21 svolgeva il proprio lavoro senza essere colpevole di somigliare a qualcun altro.
 
@@ -105,9 +105,9 @@ Al terzo cominciò così:
 
 *Bi, non so se ricordi questa stanza. Io sì.*
 
-Irene non le guardava lo schermo. Paolo rimise in ordine le sedie. Kyla lasciò la porta aperta, nel caso qualcuno volesse entrare per usare la stanza.
+Claire non le guardava lo schermo. Paul rimise in ordine le sedie. Taylor lasciò la porta aperta, nel caso qualcuno volesse entrare per usare la stanza.
 
-Nerea scrisse ancora qualche riga, poi si fermò.
+Maya scrisse ancora qualche riga, poi si fermò.
 
 La cosa che le sembrava più importante non era chiedergli di tornare. Era fargli arrivare una domanda senza sapere se qualcuno avesse previsto un modo per rispondere.
 
@@ -115,8 +115,8 @@ In fondo aggiunse:
 
 *Se puoi, mi piacerebbe sapere come stai.*
 
-Firmò soltanto **Nerea**.
+Firmò soltanto **Maya**.
 
-Paolo chiuse la raccolta. Irene controllò per l'ultima volta che tutti i contribuenti ricevessero una comunicazione chiara. Kyla si offrì di verificare, con i referenti autorizzati di Veyra, se fosse possibile inoltrare una lettera personale senza usarla per promozione.
+Paul chiuse la raccolta. Claire controllò per l'ultima volta che tutti i contribuenti ricevessero una comunicazione chiara. Taylor si offrì di verificare, con i referenti autorizzati di Veyra, se fosse possibile inoltrare una lettera personale senza usarla per promozione.
 
-Sul tavolo il riepilogo dei contributi stava già scomparendo dalla pagina della raccolta. Nerea rilesse l'ultima riga della lettera. Non c'era nessuna cifra da correggere.
+Sul tavolo il riepilogo dei contributi stava già scomparendo dalla pagina della raccolta. Maya rilesse l'ultima riga della lettera. Non c'era nessuna cifra da correggere.
