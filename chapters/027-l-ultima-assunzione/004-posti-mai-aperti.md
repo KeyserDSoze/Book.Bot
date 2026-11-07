@@ -16,100 +16,112 @@ factions:
   - faction:cyberdine
 ---
 
-Irene tornò a Cyberdine da visitatrice.
+Irene Valli tornò a Cyberdine con un tesserino da visitatrice.
 
-Kyla l'aveva invitata a una giornata dedicata ai nuovi lavori di supervisione robotica. Non si trattava di un'offerta di assunzione: c'erano tecnici, agenzie di formazione e aziende interessate a incontrare persone con esperienza nei processi automatizzati.
+Nerea l'aspettava nell'atrio, accanto alla vasca che Kyla aveva usato come sfondo durante la prima visita di Aruvhana. Era passato abbastanza tempo perché alcuni colleghi non riconoscessero Irene senza il badge aziendale.
 
-Nerea la aspettò nell'atrio.
+«Se vuoi andarcene dopo il primo incontro, andiamo», disse Nerea.
 
-«Non devi andare se non ne hai voglia», disse.
+«Sono venuta per capire chi stanno assumendo.»
 
-«Ci sono venuta apposta.»
+Aveva lavorato, negli ultimi diciotto mesi. Incarichi brevi di collaudo, revisioni di registri, qualche corso su come ricostruire errori negli impianti vecchi. Non era rimasta inattiva. Non aveva trovato un ruolo stabile e non aveva smesso di cercarlo.
 
-Irene sistemò il badge temporaneo sulla giacca.
+Al quarto piano riconobbe il tavolo dove Adriana le aveva insegnato a controllare le versioni dei documenti. Ora era una postazione dimostrativa. Un robot stava accanto a un programmatore giovane, davanti a due schermi. Sul primo compariva un diagramma di servizi software; sul secondo, una sequenza di ticket.
 
-Al piano superiore riconobbe il tavolo dove Adriana le aveva insegnato a controllare le versioni dei registri. Intorno, un gruppo di giovani sviluppatori mostrava un nuovo metodo di lavoro. Uno descriveva a un robot, in linguaggio naturale, l'errore che voleva evitare. Una finestra presentava una proposta di codice generata dall'agente, una seconda i test e un riepilogo. Il ragazzo non digitò nulla, tranne la richiesta di approfondire due condizioni. Poi mostrò agli ospiti come approvare una modifica dopo un controllo di qualità.
+«Facciamo una prova», disse il programmatore al robot. «Il cliente aggiunge un nuovo formato di conferma per i trasferimenti. Vogliamo continuare a riconoscere quello vecchio, senza duplicare le operazioni, e dobbiamo conservare traccia delle approvazioni.»
 
-Irene si fermò ad ascoltare. La dimostrazione era efficace, e per diversi casi perfino corretta. Quando un visitatore chiese quale funzione eseguisse materialmente la conversione fra le due versioni di protocollo, il giovane aprì un altro riepilogo automatico.
+Il robot chiese quale parte del flusso dovesse essere considerata immutabile. Il giovane indicò i requisiti di sicurezza e le regole di conservazione. Non toccò la tastiera.
 
-«No, il file», disse l'uomo. «Vorrei vedere il codice da cui deriva.»
+L'agente di sviluppo preparò una proposta di architettura. Il robot mostrò il diagramma aggiornato e chiese se l'ingegnere volesse esplorare il caso di riconnessione del vecchio terminale.
 
-Il giovane esitò, poi riuscì a trovarlo. Sullo schermo comparve una libreria con centinaia di righe e un riferimento a una funzione precedente, scritta anni prima. Non sapeva indicare subito perché il riferimento fosse ancora necessario.
+«Sì. E mostrami anche le alternative che hai scartato.»
 
-Irene non lo giudicò. Aveva fatto la stessa cosa molte volte, prima di restare senza Bi. Ma ricordò la voce di Adriana: «Chi saprà fare la domanda quando il sistema non funzionerà?» Ora era diventato un punto di dimostrazione. Un robot mostrava come raccogliere attestazioni di lavoro da apparecchi diversi senza duplicare le verifiche. Anche quella era una funzione scritta e mantenuta da software, non un pensiero che si trasmetteva da una macchina all'altra.
+Irene si ritrovò a sorridere. Le richieste erano giuste. Molte le aveva contribuito a inserire nelle vecchie procedure di Cyberdine.
 
-Irene rimase a guardare.
+In pochi minuti sul monitor apparvero la patch proposta, un elenco di test e un confronto tra versioni. Il programmatore selezionò due casi aggiuntivi, respinse un suggerimento e fece verificare il risultato in ambiente di prova. Il robot non pubblicò il rilascio: lo stato rimase *in attesa di approvazione*.
 
-Il sistema era migliore di quello che aveva contribuito a costruire.
+Il pubblico applaudì.
 
-Poteva vedere la provenienza di un dato, la persona che aveva autorizzato una deroga e la lista dei casi che non erano stati automatizzati. Non era perfetto, ma era il lavoro di anni di persone come lei reso accessibile a chiunque possedesse la licenza e i permessi adatti.
+Una persona in prima fila alzò la mano.
 
-Un responsabile delle assunzioni si avvicinò.
+«E il codice sotto? Lo conoscete?»
 
-«Hai esperienza con questo tipo di procedure?»
+Il programmatore aprì il file mostrato dalla piattaforma. Era lungo alcune centinaia di righe. Scorse una funzione di riconciliazione e si fermò su un richiamo a una libreria scritta molti anni prima.
 
-Irene spiegò il proprio ruolo precedente.
+«Questa parte è nel modulo di compatibilità», spiegò. «Il nuovo adattatore la utilizza senza modificarla.»
 
-L'uomo ascoltò con attenzione. Le fece domande precise, alcune più interessanti di quelle che le erano state poste nei colloqui degli ultimi mesi.
+«Ma se il modulo sbaglia la seconda conferma?»
 
-«Stiamo aprendo un posto per la verifica dei casi eccezionali», disse. «Il codice ordinario lo generiamo ormai quasi tutto attraverso agenti. Ci servono persone che sappiano riconoscere le eccezioni, oltre a firmare i test.»
+Il ragazzo esitò. Non perché non sapesse leggere codice: Irene vide che riconosceva la struttura e i controlli. Semplicemente, il suo lavoro non gli aveva mai richiesto di seguire quel modulo fino alla prima versione.
 
-«A tempo pieno?»
+«Dovrei aprire la cronologia e controllare i casi di regressione», rispose.
 
-«Non ancora. Pensiamo a una consulenza a chiamata. Il carico dei casi normali è sceso molto.»
+«Quanto ci metteresti?»
 
-«Quindi vi serve qualcuno che risponda quando la macchina non basta.»
+«Dipende da ciò che trovo. Oggi non lo so.»
 
-«Esattamente.»
+Irene apprezzò quella risposta. Non era brillante come la dimostrazione, ma era più utile di una rassicurazione.
 
-«E chi segue i casi negli altri giorni?»
+Nerea le si avvicinò.
 
-«I responsabili già in organico.»
+«Ti fa arrabbiare?»
 
-Irene lo ringraziò e prese il biglietto da visita. Non lo buttò. Aveva bisogno di lavorare e non avrebbe fatto finta che un incarico occasionale fosse inutile.
+«Mi fa pensare. Loro fanno in dieci minuti una cosa che a noi portava via giorni. Eppure la domanda interessante è ancora la stessa: quale caso abbiamo dimenticato?»
 
-Più tardi incontrò Kyla.
+«Per questo ti hanno invitata.»
 
-«Come va?»
+«Mi hanno invitata a una giornata di orientamento. Non a un colloquio.»
+
+Il responsabile del personale le si avvicinò dopo la dimostrazione. Aveva letto il suo curriculum e le fece domande precise. Voleva sapere di quali protocolli avesse seguito la migrazione, quali prove avesse preparato senza strumenti agentici e come gestisse i rischi di un rilascio con dati incompleti.
+
+Irene rispose con esempi concreti. Alcune domande erano migliori di quelle che aveva ricevuto quando lavorava lì.
+
+«Stiamo aprendo un'attività di verifica delle eccezioni», disse l'uomo.
+
+«Un posto a tempo pieno?»
+
+«Per adesso una consulenza a chiamata. I casi ordinari vengono assorbiti dagli agenti, e quelli più complessi si distribuiscono fra le squadre.»
+
+«Quindi vi serve chi sappia controllare ciò che gli altri non vedono.»
+
+«Sì. Ma non abbiamo un volume costante sufficiente per un nuovo ruolo senior.»
+
+Irene prese il biglietto. Non lo buttò. Il lavoro occasionale era lavoro e le permetteva di pagare le bollette. Non avrebbe però finto che fosse la carriera a cui aveva dedicato anni.
+
+Più tardi incontrò Kyla davanti al pannello delle posizioni aperte. I nomi dei ruoli erano cambiati: supervisione di agenti, controllo delle attestazioni, sicurezza del software, manutenzione robotica, revisione delle eccezioni. Non comparivano più molte delle posizioni junior con cui Irene aveva visto cominciare i suoi colleghi.
+
+«Come va?», chiese Kyla.
 
 «Ho parlato con tre aziende.»
 
 «Bene.»
 
-«Una mi richiamerà. Le altre due stanno ancora decidendo se assumere qualcuno o acquistare un modulo nuovo.»
+«Una mi richiamerà. Le altre due stanno decidendo se assumere oppure acquistare un altro modulo software.»
 
-Kyla abbassò gli occhi.
+Kyla abbassò gli occhi sulla bacheca.
 
-«Qui abbiamo aperto posizioni diverse da quelle di prima.»
+«Abbiamo aperto nuove posizioni», disse.
 
 «Lo so. E alcune le avete coperte.»
 
 «Sì.»
 
-«Quante nella preparazione delle eccezioni?»
+«Quanti posti avete aperto per chi vuole imparare a leggere davvero il codice dei vecchi sistemi? Non per chi deve solo scrivere richieste migliori ai robot.»
 
-Kyla la guardò.
+Kyla pensò alla domanda.
 
-«Nessuna nuova.»
+«Meno di quanti avremmo dovuto», rispose.
 
-Irene fissò il pannello dei posti aperti. Manutenzione, sicurezza, supporto alle batterie, gestione di un catalogo di procedure. Nessuna posizione uguale a quella che aveva cercato quando Adriana era andata in pensione.
+Irene la guardò. Non era la risposta che si aspettava. Non serviva a trovare un impiego, ma almeno non trasformava una assenza in una conquista.
 
-Non era disoccupata da diciotto mesi. Aveva trovato incarichi temporanei, aiutato piccole imprese a sistemare registri e accettato giornate di formazione. Ma non aveva trovato il ruolo stabile per cui aveva preparato trentaquattro esempi.
+All'uscita incrociò un giovane neoassunto che mostrava agli amici la fotografia del proprio badge. Sorrideva come Irene aveva sorriso il giorno del suo primo contratto. Era felice e aveva tutte le ragioni per esserlo.
 
-«Sai qual è il numero che non compare sul vostro pannello?», chiese a Kyla.
+Gli fece spazio e scese nel parcheggio.
 
-«Quale?»
+Sul telefono trovò un messaggio di una delle aziende incontrate.
 
-«Le persone che non avete mai dovuto cercare.»
+*Grazie per la disponibilità. Il ruolo è stato rinviato alla prossima verifica del fabbisogno.*
 
-Kyla non rispose.
+Irene chiuse la notifica senza cancellare il numero. Poi scrisse a Nerea che sarebbe andata a prendere la libreria che aveva trovato usata, anche se non aveva ancora un posto fisso.
 
-All'uscita Irene vide un giovane assunto per la manutenzione dei sistemi. Sorrideva, mostrava agli amici sul telefono la foto del nuovo badge. Era felice, e aveva tutte le ragioni per esserlo.
-
-Irene lo lasciò passare e uscì nel parcheggio.
-
-Sul proprio telefono trovò un messaggio dell'azienda che l'aveva intervistata quella mattina.
-
-*Grazie per la disponibilità. La decisione sul nuovo ruolo è stata rinviata alla prossima revisione del fabbisogno.*
-
-Irene chiuse la notifica. Non cancellò il numero.
+Non era una decisione sul futuro del lavoro. Era una decisione su due sedie di cucina che non voleva più occupate dai libri.
