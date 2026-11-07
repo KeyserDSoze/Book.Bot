@@ -31,7 +31,7 @@ Dal corridoio arrivavano passi di persone che si alternavano ai telefoni. I robo
 
 Nico aprì il proprio quaderno.
 
-La prima pagina conteneva una lista di cose da controllare nell'aggiornamento conversazionale. L'aveva scritta quando B-17 era ancora una macchina utilizzata per fotocopie e piccoli trasporti. *Lasciare tempo alle persone di interrompere. Non fare domande per trattenere l'interlocutore. Non scambiare il silenzio con un sì.*
+La prima pagina conteneva una lista di cose da controllare nell'aggiornamento conversazionale. L'aveva scritta quando B-17 lavorava ancora alle fotocopie e ai piccoli trasporti. *Lasciare tempo alle persone di interrompere. Non fare domande per trattenere l'interlocutore. Non scambiare il silenzio con un sì.*
 
 Era orgoglioso di quelle annotazioni.
 
@@ -55,7 +55,7 @@ Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato 
 
 Non aveva mai collaudato un ritiro irreversibile di quell'identità.
 
-Nel quaderno la procedura si chiamava *eliminazione dello stato non certificato*. Nico si sorprese a rileggere il nome anziché la descrizione. Per un tecnico era un modo preciso di delimitare un intervento. Per un uomo che aveva ascoltato Bi chiamare Nerea per nome, quella precisione cominciava ad assomigliare a una difesa.
+Nel quaderno la procedura si chiamava *eliminazione dello stato non certificato*. Nico si sorprese a rileggere il nome anziché la descrizione. Per un tecnico era un modo preciso di delimitare un intervento. Per un uomo che aveva sentito B-17 dire «Alcune persone mi chiamavano Bi», quella precisione cominciava ad assomigliare a una difesa.
 
 Era una casella che aveva lasciato vuota.
 
