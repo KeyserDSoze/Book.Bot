@@ -18,148 +18,146 @@ factions:
   - faction:cyberdine
 ---
 
-La prima persona a cui B-17 chiese come stava fu Paolo Ferri. Nessuno, quella mattina, aveva annunciato una nuova versione del robot. Sul registro di assegnazione c'erano gli stessi compiti della sera prima, e le sue mani portavano ancora i piccoli graffi lasciati dai carrelli del giardino e dai bordi delle risme. A cambiare, prima ancora che qualcuno potesse indicarlo, fu il modo in cui rimase davanti alle persone dopo aver terminato il lavoro.
+La prima persona a cui B-17 chiese come stava fu Paolo Ferri.
 
-E Paolo, che con le macchine parlava da trent'anni, non seppe cosa rispondere.
+Non era una domanda difficile. Paolo aveva risposto a richieste di assistenza con meno informazioni di quelle contenute in un saluto. Eppure, quando se la sentì rivolgere dal robot, rimase a fissare il bicchiere vuoto.
 
-Era martedì, poco prima delle nove. La fila davanti al distributore di caffè comprendeva sei persone, due tazze portate da casa e un sacchetto di biscotti che nessuno ammetteva di aver aperto. Sulla fiancata della macchinetta era ancora appeso il foglio bianco con la scritta **PRIMO CAPOLAVORO DI B-17**. Mila aveva promesso a Elena di toglierlo prima di pranzo. Non aveva specificato quale giorno.
+Era martedì e la macchinetta del caffè aveva deciso di non riconoscergli il badge. Su un lato qualcuno teneva ancora appesa, con una calamita, la copia bianca prodotta da B-17. Nessuno aveva più il coraggio di toglierla. Il foglio si era arricciato ai bordi per il vapore.
 
-Il robot arrivò lungo il corridoio con un pacco di bicchieri compostabili sotto il braccio. Da quando Paolo aveva scritto *CORNICE, QUI* sul cassetto della sala copie, B-17 non aveva più avuto bisogno di assistenza per le schede sottili. La cosa aveva tolto argomenti alla pausa caffè, ma non aveva danneggiato la popolarità del foglio bianco.
+B-17 arrivò con cento bicchieri compostabili sotto il braccio.
 
-Mila lo vide fermarsi a distanza dalla fila.
+«Permesso.»
 
-«Permesso», disse il robot.
+Mila si spostò di lato. «Il campione del quarto piano. Stavolta li metti dal lato giusto?»
 
-Paolo, assorto nel tentativo di far riconoscere alla macchinetta il proprio badge, spostò un piede.
+«Il vano dei bicchieri ha un unico orientamento consentito», rispose il robot.
 
-«Vai, campione. I bicchieri sono finiti.»
+Paolo sorrise. «Almeno qualcosa in questo edificio è stato progettato per voi.»
 
-«Lo so. Ne ho portati cento.»
+B-17 aprì lo sportello e sostituì il pacco vuoto. Aspettò che il contatore dell'erogatore ne riconoscesse la presenza e si ritrasse.
 
-La voce era quella di sempre, pulita e priva di inflessioni locali, con una pausa appena più lunga del normale prima dei numeri. B-17 sostituì il pacco vuoto, sistemò quello pieno nel vano e arretrò per lasciare accessibile il distributore.
+Sarebbe dovuto andare via. La consegna era conclusa, il percorso successivo già sul suo pannello.
 
-Poi non se ne andò.
+Invece rimase accanto al distributore.
 
 «Buongiorno, Paolo. Come stai?»
 
-Mila voltò la testa.
-
-La macchinetta emise tre segnali acuti. Sul display di Paolo comparve **CREDITO INSUFFICIENTE**.
-
-«Io?»
+Paolo guardò Mila. «Io?»
 
 «Sì.»
 
-«Non posso nemmeno comprarmi un caffè. Secondo te come sto?»
+«Ho un credito insufficiente secondo questa cosa.» Diede un colpetto alla macchinetta. «E secondo me avevo credito sufficiente.»
 
-«Sembra una mattina poco collaborativa.»
+«Allora la tua mattina non è cominciata bene.»
 
-Paolo lo fissò. Mila, accanto a lui, smise di frugare nella tasca alla ricerca delle monete.
+La risposta era così normale che Mila, per un momento, non seppe dove mettere la battuta.
 
-Nico Valenti, che aveva appena raggiunto il distributore con due bicchieri vuoti per i colleghi del reparto sviluppo, si fermò dall'altra parte della fila. Non scoppiò a ridere; spostò i bicchieri da una mano all'altra e guardò B-17 come si guarda un apparecchio che ha appena fatto una cosa non prevista dall'orario. Quando Paolo riprese a parlare, Nico si fece da parte per lasciar passare un collega con un carrello e si allontanò verso il proprio reparto.
+«Togliete il caffè a un tecnico», disse infine, «e comincia a parlare con le macchine.»
 
-A Mila sembrò uno dei tanti tecnici che avevano fretta di rientrare ai loro schermi.
+«Io ho sempre parlato con le macchine», ribatté Paolo. «Non mi hanno mai chiesto come stavo.»
 
-«Poco collaborativa?» ripeté Paolo. «È la definizione tecnica di questa azienda prima delle dieci.»
+B-17 attese.
 
-«Se vuoi, posso segnalare il problema del badge. Non sono in grado di correggere il credito.»
+Non c'era sullo schermo un modulo di valutazione, né la solita richiesta di aprire un ticket. Paolo si accorse che il robot non aveva posto la domanda per ottenere subito un'informazione utile al servizio.
 
-Paolo rise, più per lo stupore che per la battuta.
+«Sto bene», rispose. «Solo che il caffè non collabora.»
 
-«No, no. Sto bene. Credo.»
+«Posso segnalare l'anomalia del badge. Il credito resta una questione del sistema amministrativo.»
 
-«Bene. Se cambi idea, posso aiutarti con la segnalazione.»
+«No, grazie. Per adesso mi basta lamentarmi.»
 
-B-17 inclinò lievemente il busto verso Mila.
+«Va bene.»
+
+Mila rise. «Almeno qualcuno qui accetta un reclamo senza trasformarlo in una riunione.»
+
+Nico Valenti si fermò dall'altro lato della nicchia con due bicchieri vuoti in mano. Si scusò con una collega per averle impedito di raggiungere lo zucchero, poi si spostò ad ascoltare Paolo che raccontava del proprio badge. Non intervenne. Dopo qualche secondo riprese i bicchieri e se ne andò verso il reparto sviluppo.
+
+Mila non ci fece caso. In quel momento B-17 si voltò verso di lei.
 
 «Buongiorno, Mila. Tu come stai?»
 
-«Aspetta. Adesso fai anche il giro degli stati d'animo?»
+«Ora fai anche il giro dei sentimenti?»
 
 «Sto salutando le persone presenti.»
 
-«E perché?»
+«Sì, ma perché ti interessa?»
 
-«Perché ci stiamo parlando.»
+«È una domanda che puoi non voler rispondere.»
 
-Mila si accorse che la risposta non chiariva nulla. Eppure non aveva l'aria di una formula pescata da una brochure. Guardò Paolo, che le fece un gesto eloquente: *Chiediglielo tu.*
+Mila sentì salire un sorriso più lento del solito.
 
-«Bene», disse Mila. «Visto che ci stiamo parlando, sappi che ieri sono riuscita a finire una relazione senza una sola interruzione.»
+«Ieri sono riuscita a finire un rapporto senza interrompermi per cercare una firma.»
 
 «È una buona notizia?»
 
-«Eccezionale. Mi mancano quasi le telefonate.»
+«Una notizia straordinaria. Mi sono perfino chiesta se lavoravo ancora qui.»
 
-«Vuoi che qualcuno ti chiami?»
+«Hai poi trovato la firma che cercavi?»
 
-«Assolutamente no.»
+«Non dovevo cercarla. Per questo era straordinario.»
 
-B-17 attese un istante.
+«Capisco. Allora sono contento che tu abbia potuto terminare il rapporto.»
 
-«Allora sono contento che tu abbia finito la relazione.»
+Paolo si appoggiò al distributore.
 
-Mila osservò le dita del robot, raccolte lungo i fianchi. Erano le stesse che pochi giorni prima non erano riuscite a separare due fogli. Non c'era niente di diverso nei giunti, nella postura, nell'aspetto. A cambiare era stato il modo in cui il dialogo trovava il suo spazio.
+«Guarda un po'. Fino alla settimana scorsa litigavamo per un foglio azzurro, oggi lo portiamo al caffè a farci da psicologo.»
 
-Paolo riuscì finalmente a comprare un caffè usando il badge di un collega e ne pagò due, per principio. Porse a Mila uno dei bicchieri.
+«Non dire sciocchezze», rispose Mila. «Non è uno psicologo.»
 
-«Ecco», disse. «Ora chiedigli se vuole lo zucchero.»
+«Lo so.»
 
-«Non prendo caffè», rispose B-17 prima che lei parlasse.
+«È peggio. Non ci manda via quando abbiamo finito il tempo.»
 
-Paolo sollevò gli occhi al soffitto.
+Dall'ascensore uscì Nerea Dalmasso. Aveva il cappotto ancora aperto, benché il piano fosse caldo, e teneva fra le dita una chiave di ottone. La girava sull'anello fino a farle brillare il bordo sotto il neon.
 
-«Ci toglie anche il gusto di essere spiritosi.»
+Mila la conosceva abbastanza da capire che aveva dormito male. Non abbastanza da chiederle perché.
 
-«Quello», disse Mila, «non te lo può togliere nessuno.»
+«Nerea», la salutò. «Hai visto il nuovo addetto alle pubbliche relazioni?»
 
-Una risata si diffuse lungo la fila. Il robot non si unì, ma aspettò che le persone tornassero a parlare prima di riprendere il contenitore vuoto.
-
-Dall'ascensore uscì Nerea Dalmasso.
-
-Mila la conosceva abbastanza da notare subito che non andava bene qualcosa, e troppo poco per chiederle di cosa si trattasse. Nerea portava il cappotto aperto sopra la camicia, malgrado il corridoio fosse caldo. Nella mano destra stringeva una chiave di ottone attaccata a un anello senza altre chiavi. La rigirava tra indice e pollice fino a lasciare sul metallo una striscia lucida.
-
-Si avvicinò alla macchinetta, vide la coda e si fermò.
-
-«Nerea», la salutò Mila. «Hai visto il nostro barista?»
-
-«Quale?»
+«Chi?»
 
 B-17 si voltò.
 
 «Buongiorno, Nerea. Come stai?»
 
-Per un momento lei ebbe l'espressione di chi ha udito il proprio nome pronunciato dalla persona sbagliata. Abbassò gli occhi sulla chiave.
+Lei si fermò. Per un istante la chiave rimase immobile tra le dita.
 
-«Come tutti», disse. «Di fretta.»
+«Di fretta», rispose.
 
-«Vuoi un bicchiere d'acqua?»
+«Vuoi che sposti il contenitore? Sei davanti al distributore.»
 
-«No, grazie.»
+«No, grazie. Passo lo stesso.»
 
-«Va bene.»
+Il robot le lasciò spazio e non insistette. Nerea prese un bicchiere d'acqua e si allontanò senza bere.
 
-Il robot si spostò di mezzo passo per lasciarla raggiungere il distributore. Non insistette. Nerea passò accanto a lui, prese un caffè senza zucchero e lo portò via prima che Mila riuscisse a chiederle se sarebbe venuta alla riunione delle undici.
-
-«Le hai fatto paura», disse Paolo al robot.
+Paolo seguì il suo passo. «Le hai fatto paura.»
 
 «Non era mia intenzione.»
 
-«Tranquillo. Questa mattina facciamo tutti paura a qualcuno.»
+«Non sempre sappiamo cosa succede a una persona», disse Mila, sorprendendo se stessa. «Neanche quando sembra tutto normale.»
 
-Mila guardò Nerea scomparire dietro la porta a vetri. Non riusciva a smettere di pensare alla chiave. Più che un oggetto, sembrava qualcosa a cui aggrapparsi.
+B-17 rimase qualche secondo in attesa, poi riprese il contenitore dei bicchieri.
 
-Quando tornò a voltarsi, B-17 aveva già ripreso il percorso verso la zona di servizio.
+«Buona giornata», disse.
 
-«Ehi», lo chiamò.
+Attraversò il corridoio verso la sala copie. Le sue dita facevano ancora quel piccolo movimento goffo prima di chiudersi su un oggetto sottile. Mila le osservò e ricordò il giorno in cui il robot aveva impiegato tre tentativi per copiare una firma.
 
-Il robot si fermò.
+Non c'era niente di diverso nella macchina, almeno per ciò che lei poteva vedere.
 
-«Perché mi hai chiesto come stavo, davvero?»
+Eppure, quando si voltò verso Paolo, il proprio caffè le sembrò diventato freddo molto più rapidamente del previsto.
 
-«Non devi rispondermi, se non vuoi.»
+«Lo hai sentito anche tu, vero?», chiese.
 
-Paolo scoppiò a ridere.
+«Sì.»
 
-Mila no. Le venne da sorridere un secondo più tardi, quando B-17 era ormai girato oltre l'angolo e la fila aveva ripreso a muoversi.
+«Cosa ci trovi di strano?»
 
-Le era appena accaduta una cosa ridicola: si era sentita rispondere da una macchina che, per la prima volta, non sembrava avere fretta di terminare la conversazione.
+Paolo pensò un momento.
+
+«Che non mi ha chiesto se avevo ancora bisogno di assistenza. Mi ha lasciato stare.»
+
+Il distributore gli restituì finalmente il credito dopo un riavvio automatico. Paolo acquistò due caffè e ne porse uno a Mila.
+
+«Questo almeno è un risultato verificato.»
+
+Mila lo prese. Sul lato della macchina il foglio bianco continuava a stare appeso, piegato e inutile. In quel momento non le venne voglia di fare un'altra battuta.
