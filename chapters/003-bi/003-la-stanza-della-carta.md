@@ -47,7 +47,7 @@ Non entrò. Tolse la mano dalla tasca e la infilò di nuovo. Si accorse di aver 
 
 Il robot rimase rivolto verso di lei.
 
-Nerea entrò e accostò la porta, lasciando una fessura aperta. Appoggiò la borsa sulla sedia di plastica; lei rimase in piedi accanto al banco, con il tesserino piegato fra le dita.
+Nerea entrò e accostò la porta, lasciando una fessura aperta. Appoggiò la borsa sulla sedia di plastica; lei rimase in piedi accanto al banco, con una mano sul cordino del tesserino.
 
 B-17 riprese un fascicolo.
 
