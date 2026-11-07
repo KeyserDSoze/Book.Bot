@@ -20,7 +20,7 @@ Alle undici e trentadue Elena Riva aveva già respinto tre proposte perfettament
 
 Erano i risultati del nuovo test che il reparto aveva autorizzato sui casi fittizi del censimento clienti. B-17 mostrava, accanto alla soluzione consigliata, anche quelle scartate e il motivo della scelta. In due casi il risultato era convincente. Nel terzo, l'alternativa esclusa era proprio quella che Elena avrebbe voluto approfondire.
 
-La macchina aveva fornito ragioni ordinate e ben formulate.
+La macchina aveva fornito ragioni ordinate e ben formulate. I confronti erano generati in ambiente di prova, non autorizzavano alcun rilascio software. Il reparto sviluppo aveva già agenti che svolgevano quel lavoro senza un corpo; la differenza di B-17 era poter raggiungere il registro cartaceo e osservare anche ciò che i terminali non sapevano descrivere.
 
 Elena le aveva lette senza convincersi.
 

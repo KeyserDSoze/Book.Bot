@@ -40,6 +40,30 @@ Bi spostò il tavolo sulla posizione proposta e attese. Una collega arrivò dall
 
 Bi sistemò i piedini a terra. Controllò che nessuno toccasse il passaggio, poi tornò a prendere le sedie.
 
+Il giorno prima Kyla aveva assistito a una scena che non era stata messa nel resoconto della visita di Aruvhana.
+
+Un programmatore del reparto integrazioni era fermo davanti a due finestre di codice. La modifica proposta dall'agente di sviluppo superava i test automatici, ma quando un vecchio terminale perdeva la connessione per pochi secondi la procedura duplicava una richiesta. Il bug era stato aperto e chiuso due volte. Ogni volta qualcuno aveva aggiunto un test che copriva il caso precedente, mai quello che lo faceva riapparire.
+
+B-17 era passato con un contenitore di materiale di consumo. Il programmatore gli aveva chiesto di aspettare un momento; il collega che di solito verificava il terminale fisico non era disponibile. Il robot aveva già l'abilitazione per leggere il pannello di prova. Non per modificare il repository.
+
+«Puoi ripetere la sequenza senza salvare nulla in produzione?», aveva chiesto il programmatore.
+
+«Posso eseguire il caso autorizzato e riportare gli stati osservati.»
+
+Il robot si era fermato dietro la scrivania, abbastanza vicino da vedere il confronto sullo schermo e abbastanza lontano da non ostacolare la sedia. Kyla aveva visto il programmatore spostare il monitor per fargli spazio, come avrebbe fatto con un collega in piedi.
+
+Alla terza ripetizione B-17 aveva segnalato una discrepanza banale: il test simulava il ritorno della connessione, ma non il secondo messaggio di conferma che il terminale emetteva quando recuperava il lavoro interrotto. Nel software il primo messaggio veniva considerato conclusivo. Il secondo avviava di nuovo una richiesta già registrata.
+
+«Quindi non dobbiamo cambiare il ritardo», aveva detto il programmatore, ingrandendo la traccia.
+
+«Il ritardo sembra una conseguenza. Posso proporre un caso di test che distingua la prima conferma dalla successiva, se autorizzato.»
+
+Il programmatore aveva aperto un ambiente isolato e approvato la generazione della prova. L'agente di sviluppo aveva preparato una possibile correzione. B-17 non aveva pubblicato una riga; il responsabile aveva letto il confronto, respinto una condizione troppo ampia e verificato la versione corretta sul terminale reale. Quella volta il bug non era ricomparso.
+
+«Non capisco come non l'abbiamo visto», aveva detto, soddisfatto e irritato insieme.
+
+Kyla si ricordava soprattutto il gesto con cui l'uomo aveva spostato il monitor verso il robot. Pochi giorni prima B-17 sistemava una bordura del prato. Ora un programmatore lo aveva invitato dietro la propria scrivania per trovare ciò che mancava in un test. Nessuno aveva deciso, in una riunione, che da quel momento il robot avrebbe cominciato a lavorare nello sviluppo.
+
 Il locale al quarto piano era stato per anni una sala riunioni di riserva. Nessuno ci teneva davvero delle riunioni, perché la parete per le presentazioni non funzionava e il condizionatore faceva un rumore che impediva di ascoltare chi parlava sottovoce. Avevano accumulato dentro sedie spaiate, espositori per fiere dismesse, un leggio e tre piante da interno sopravvissute per ostinazione.
 
 Mila aveva avuto un'idea semplice: invece di mettere ogni volta in piedi un'iniziativa nuova, lasciare aperta una stanza per chi aveva qualcosa da condividere.

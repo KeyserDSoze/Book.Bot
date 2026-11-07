@@ -18,7 +18,7 @@ factions:
   - faction:cyberdine
 ---
 
-La prima persona a cui B-17 chiese come stava fu Paolo Ferri.
+La prima persona a cui B-17 chiese come stava fu Paolo Ferri. Nessuno, quella mattina, aveva annunciato una nuova versione del robot. Sul registro di assegnazione c'erano gli stessi compiti della sera prima, e le sue mani portavano ancora i piccoli graffi lasciati dai carrelli del giardino e dai bordi delle risme. A cambiare, prima ancora che qualcuno potesse indicarlo, fu il modo in cui rimase davanti alle persone dopo aver terminato il lavoro.
 
 E Paolo, che con le macchine parlava da trent'anni, non seppe cosa rispondere.
 
