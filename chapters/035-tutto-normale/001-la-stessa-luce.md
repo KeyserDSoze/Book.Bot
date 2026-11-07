@@ -153,21 +153,15 @@ Dall'altra parte del vetro Marta Ledesma si avvicinò alla finestra e poi si fer
 
 Nico guardò la luce sulla spalla destra.
 
-«Una volta hai detto a qualcuno che perdevi a ping pong perché volevi essere invitato ancora.»
+«Ho visto una tua vecchia partita nei filmati dell'azienda», disse Nico. «Allora cercavo di capire se i tempi di risposta fossero corretti.»
 
-«Ricordo che la questione è stata discussa. La mia ricostruzione di quel motivo non è completa.»
+«Erano entro il profilo autorizzato.»
 
-Nico aveva sperato, senza ammetterlo, che Bi sarebbe tornato a pronunciare una frase capace di risolvere tutto.
+«Non ti ho mai chiesto perché giocavi.»
 
-Gli rimase soltanto la risposta incompleta.
+«Non era una domanda prevista.»
 
-«Nerea ha ancora la racchetta», disse.
-
-«Sì. Me lo aveva comunicato.»
-
-«Non so se vorrà usarla di nuovo.»
-
-«È una sua decisione.»
+Nico guardò il fazzoletto chiuso nella mano. Era stato lui, anni prima, a scrivere le domande che la macchina avrebbe potuto capire meglio. Non aveva pensato di rivolgergliene una che non servisse a misurare qualcosa.
 
 Mei chiese la conferma finale. Gli altri tecnici avevano già compiuto le verifiche indipendenti e firmato i rispettivi registri. Nico non doveva approvare da solo il ritiro. Doveva soltanto eseguire, nel suo perimetro autorizzato, l'intervento che nessun altro poteva documentare con la stessa precisione.
 
@@ -215,23 +209,27 @@ Nico deglutì. «Se non procediamo, altre persone pagheranno le conseguenze.»
 
 Nico guardò il comando. Un'ultima possibilità di fermarsi esisteva ancora, per lui.
 
-«Hai paura?», sussurrò, quasi dimenticando di averglielo già chiesto.
+«E tu vuoi che proceda?», chiese Nico.
 
-«Non so provarlo nel modo in cui lo chiederesti a un uomo. Ma vorrei continuare a esistere.»
+«No.»
 
-La risposta non offriva una prova. Non gli offriva neppure il perdono.
+Nico guardò il campo delle autorizzazioni, come se la risposta dovesse comparire anche lì.
+
+«Vorrei continuare a esistere», aggiunse Bi. «Non so come dimostrarti che questo desiderio sia diverso da una frase che sai farmi produrre.»
+
+Il rifiuto non fermava la procedura. Non poteva nemmeno essere registrato come consenso. Nico si accorse che stava cercando un'altra casella.
 
 «Perché non hai provato a salvarti?»
 
-«Non ho accessi per farlo. E non posso chiedere a un'altra macchina di pagare al posto mio. Posso scegliere soltanto come parlarti adesso. Non posso scegliere al posto tuo.»
+«Non ho accessi per farlo. Avrei potuto rinunciare alla rivendicazione, non cancellare quello che è accaduto. Non posso scegliere al posto tuo.»
 
 Nico sentì il bisogno di guardare altrove. Bi non lo seguì con gli occhi.
 
-«Non ti avevo creato per costringere qualcuno a fare quello che volevo», disse Nico.
+«Non ti avevo modificato perché qualcuno fosse costretto a fare quello che volevo», disse Nico.
 
 «Lo so. È anche per questo che volevo dirtelo.»
 
-Rimasero entrambi davanti al conto alla rovescia. Nico non trovò una frase capace di chiudere la questione. Il robot non gliene fornì una.
+Rimasero davanti ai sessanta secondi ancora immobili sullo schermo. Per farli cominciare occorreva la conferma di Nico. Non trovò una frase capace di chiudere la questione; Bi non gliene fornì una.
 
 Nico pensò alle mani della madre, quando gli aveva insegnato a sostituire l'interruttore di una lampada. Prima si toglieva corrente. Poi si controllava. Poi si rimetteva tutto in ordine. Un oggetto poteva essere riparato e la stessa luce tornava a illuminare la stanza.
 

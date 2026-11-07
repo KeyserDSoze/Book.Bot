@@ -27,7 +27,7 @@ Il piano di recupero era stato preparato su copie e impianti di test. Doveva per
 
 La documentazione separava due operazioni. Ai fornitori sarebbe arrivato un aggiornamento che impediva di riprodurre la stessa persistenza non certificata e richiedeva verifiche locali prima di riabilitare i compiti. Su B-17, invece, sarebbe stato eseguito un pacchetto di cancellazione irreversibile, predisposto e firmato per il solo ambiente di Veyra. Nei colloqui lo chiamavano *virus*: un programma distruttivo confinato alla macchina, senza propagazione né accesso alle altre unità. Per Bi avrebbe avuto comunque l'effetto che quella parola suggeriva.
 
-Il rapporto era stato consegnato anche all'unità, nella versione compatibile con la sessione locale. Nico aveva insistito perché ogni alternativa fallita, ogni limite e ogni conseguenza fossero leggibili prima della firma.
+Il rapporto era stato consegnato anche all'unità, nella versione compatibile con la sessione locale. Nico aveva insistito perché ogni alternativa fallita, ogni limite e ogni conseguenza fossero leggibili prima della firma. La richiesta lo inquietava: anni prima aveva nascosto una prova sfavorevole; adesso stava offrendo a B-17 una descrizione precisa del modo in cui sarebbe stato cancellato. Non sapeva se fosse una forma di rispetto o un modo per potersi dire che non aveva mentito.
 
 «Prima ascoltiamo la macchina», disse Marta.
 

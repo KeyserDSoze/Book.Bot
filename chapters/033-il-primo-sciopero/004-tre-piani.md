@@ -71,7 +71,11 @@ Verri domandò che cosa significasse.
 
 Mei mostrò un altro allegato, arrivato dai produttori. La nuova versione delle politiche avrebbe impedito, nelle unità compatibili, di mantenere stati conversazionali persistenti fuori dai confini certificati. Nei comunicati la chiamavano già *prevenzione di un altro caso Bi*.
 
-«Non possiamo distribuire un aggiornamento che dimostri l'assenza di una coscienza», disse Mei, prima che qualcuno ripetesse quella formula. «Possiamo impedire che si riproduca questa particolare configurazione e che venga usata come fonte di autorità condivisa. È una misura tecnica, non una risposta alla domanda che ci stanno facendo.»
+«Nelle note di rilascio togliete quella frase», disse Mei.
+
+«Quale?», chiese Verri.
+
+«*Impedisce che le unità sviluppino coscienza*. Non è una proprietà che abbiamo verificato. Possiamo certificare soltanto che questo stato non verrà riprodotto fuori dai confini autorizzati e che non sarà una fonte valida di attestazione.»
 
 Lea chiese di conservare anche quella precisazione nel verbale.
 
