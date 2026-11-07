@@ -5,18 +5,18 @@ number: 27
 title: L'ultima assunzione
 canon: canon
 pov:
-  - character:sergio-lolli
-  - character:youssef-benali
-  - character:mei-lin
-  - character:irene-valli
+  - character:samuel-price
+  - character:yusuf-karim
+  - character:mei-chen
+  - character:claire-foster
 ---
 
 # Scene
 
-1. Due persone — Sergio affitta raccoglitrici autonome per salvare la redditività del proprio noccioleto, rinunciando a molte giornate umane.
-2. Esperienza precedente — Youssef perde una parte delle stagioni di lavoro e valuta un corso di manutenzione senza garanzia occupazionale.
+1. Due persone — Samuel affitta raccoglitrici autonome per salvare la redditività del proprio noccioleto, rinunciando a molte giornate umane.
+2. Esperienza precedente — Yusuf perde una parte delle stagioni di lavoro e valuta un corso di manutenzione senza garanzia occupazionale.
 3. Senza ventola — i nuovi moduli di calcolo e le batterie migliorano in modo incrementale; Passerella, interfaccia di coordinamento nata dai progetti Cyberdine, comincia a essere adottata da più produttori.
-4. Posti mai aperti — Irene vede nuove competenze e nuovi assunti, ma anche occasioni che non vengono più offerte perché la domanda di lavoro ordinario è diminuita.
+4. Posti mai aperti — Claire vede nuove competenze e nuovi assunti, ma anche occasioni che non vengono più offerte perché la domanda di lavoro ordinario è diminuita.
 
 # Guardrail
 
@@ -28,7 +28,7 @@ Diciotto mesi dopo lo standard Passerella, nato dal software Cyberdine e adottat
 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
-La scena 4 mostra **in presa diretta** il modo nuovo di sviluppare software: un programmatore descrive il requisito a un robot, un agente produce la proposta di codice e test, l'umano verifica e firma. Un ospite chiede di aprire la libreria storica e il programmatore deve risalire alla fonte che non conosce ancora. È competente, non stupido: ammette il limite e cerca le prove. Irene incontra lavori a chiamata, non un lieto fine immediato. La libreria usata è ancora desiderata, **non ancora acquistata**: quel fatto resta nel capitolo 35.
+La scena 4 mostra **in presa diretta** il modo nuovo di sviluppare software: un programmatore descrive il requisito a un robot, un agente produce la proposta di codice e test, l'umano verifica e firma. Un ospite chiede di aprire la libreria storica e il programmatore deve risalire alla fonte che non conosce ancora. È competente, non stupido: ammette il limite e cerca le prove. Claire incontra lavori a chiamata, non un lieto fine immediato. La libreria usata è ancora desiderata, **non ancora acquistata**: quel fatto resta nel capitolo 35.
 
 
 ## Quinta review — hardware e comprensione del codice
