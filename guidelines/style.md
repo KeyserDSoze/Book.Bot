@@ -27,7 +27,7 @@ Il capitolo 1 è **ottimista senza ironia**: Kyla crede al progresso, i visitato
 
 Il capitolo 2 è **quotidiano, corale e appena ironico**. Un punto di vista umano per scena: Elena, Paolo, Mila, Kyla. I colleghi scherzano sulle fotocopie sbagliate, come farebbero con un aggeggio d'ufficio ostinato, ma B-17 continua a fare lavori utili. È una presenza che cresce attraverso gli occhi degli altri, non mediante pensieri attribuiti al bot. Evitare tanto la satira crudele quanto l'epifania sulla coscienza.
 
-Dialoghi con «caporali». Settori di Cyberdine e Aruvhana ancora non dichiarati. Il mistero nasce da dettagli materiali e dalle divergenze di interpretazione, non da minacce artificiose.
+Dialoghi con «caporali». Cyberdine è una software house già nel capitolo 1; il settore specifico di Aruvhana può restare fuori campo. Il mistero nasce da dettagli materiali e dalle divergenze di interpretazione, non da minacce artificiose.
 
 # Mostrare la rivoluzione senza dichiararla
 

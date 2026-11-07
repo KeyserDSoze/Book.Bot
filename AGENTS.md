@@ -143,3 +143,9 @@ Punto di ripresa reale: **dopo il capitolo 20, v0.25.0**. Le note storiche in `s
 ## Revisione corale — v0.31.0
 
 Prima di ritoccare un personaggio, leggere anche `guidelines/personaggi-vita-privata-e-contraddizioni.md` e `reviews/revisione-arco-corale-v0.31.0.md`. Conservare i desideri privati ormai mostrati (il nuoto di Adriana, la libreria di Irene, i piccoli accordi fra Nerea e Bruno, i problemi di Rosa col figlio, l'orologio di Mei e gli appuntamenti mancati di Kyla) senza usare ogni volta gli stessi simboli. Alcuni desideri non hanno un payoff obbligatorio. Attenzione: la mappa distingue proposte non canonizzate da dettagli effettivamente entrati nella prosa.
+
+## Regola prevalente della revisione v0.32.0
+
+Cyberdine è **una software house italiana dal primo capitolo**, non un produttore di robot e non un'azienda di settore occulto. Qualsiasi istruzione precedente che rinvii la rivelazione del suo settore al capitolo 25 è superata. Il settore finale di Aruvhana può restare fuori campo. Fonte tecnica: guidelines/cyberdine-software-evoluzione.md.
+
+Gli agenti software per il coding esistono prima dei robot: propongono patch e test, e i programmatori verificano. B-17 taglia l'erba nel primo capitolo, sale ai corridoi nel secondo, mostra un salto conversazionale inspiegato nel terzo e aiuta dietro la scrivania nel quarto. **Non attribuire al lettore la conoscenza del nuovo LLM e del suo autore prima del capitolo 10.** L'accesso alla rete e ai repository resta delimitato; nessun codice di produzione viene pubblicato autonomamente dal robot. Dopo l'uscita di Bi sorgenti e log rimangono, ma scarseggiano persone capaci di collegarli a comportamenti fisici e vecchie dipendenze. Non rendere tutti i programmatori incompetenti.
