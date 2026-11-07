@@ -161,3 +161,8 @@ Sono stati riscritti integralmente: 1 (001–004), 2 (001–004), 3 (001–002),
 ## Revisione dell'arco di coscienza — ramo editoriale
 
 Nella riscrittura finalizzata al confronto Bi/Nico, procedere per indizi e azioni dall'inizio al capitolo 35: prima sintassi funzionale, poi domande non necessarie al compito, memorie, esitazioni, responsabilità e linguaggio personale. Nessun POV interno al robot e nessuna dichiarazione narratoria che certifichi un'anima. Nico parte da cura e curiosità e arriva a cercare riparo nelle definizioni di macchina e ritiro tecnico. Nel capitolo 35 Bi conosce già il piano, la cancellazione locale irreversibile (chiamata *virus* dai personaggi, ma confinata a B-17) e il nuovo aggiornamento delle politiche condivise. L'aggiornamento blocca una specifica architettura e non dimostra l'assenza di coscienza. Bi comprende il motivo di Nico, non lo assolve, non sceglie la propria morte e non può impartire comandi globali. Preservare i limiti tecnici dei capitoli 30–34, la ripartenza graduale e l'ultima frase narrativa.
+
+
+## Quarta review editoriale — ripetizioni e causalità
+
+Consultare anche `reviews/revisione-causale-stilistica-v0.36.0.md` per gli interventi diretti sui capitoli 15–24 e 32. La lettera di Nerea è esposta tramite un ticket umano e l'indicizzazione del servizio, non attraverso iniziativa di un robot; i due incidenti Lanter restano separati. In 18/003 una visita alla serra viene rinviata, preparando 22/001. I test linguistici corretti di Bi nel 24 non anticipano né assolvono lo sciopero del 33. Nelle sequenze tecniche sostituire un secondo paragrafo esplicativo con una prova o un'azione concreta quando la spiegazione causale è già nel POV precedente. Preservare i vincoli di continuità e la frase finale.

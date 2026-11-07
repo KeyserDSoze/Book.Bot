@@ -178,3 +178,13 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **33/003:** Nerea racconta l'ultima domanda interrotta di B-32 a Teresa e richiama la propria violazione delle credenziali usate per la sirena. Non certifica una preferenza cosciente di B-32.
 - **34/001:** Nico ricorda la frase «Alcune persone mi chiamavano Bi» dal collegamento del 10, non conversazioni intime mai osservate.
 - **35/001:** il confronto sull'anima viene asciugato, Bi formula il dubbio sulla possibile uccisione di qualcuno; riconosce il proprio contributo al fermo, dice «No» alla cancellazione e decide di non mentire sulla responsabilità. Il ripristino e la lampada restano come già stabilito.
+
+
+## Quarta passata — la catena degli incidenti e il tempo perduto
+
+- **15/001–003 e 16/001–002:** l'allegato di Nerea entra non autorizzato nel ticket di Enrico a Lanter; l'indicizzazione di un estratto lo restituisce a Cyberdine tramite una normale verifica di B-21. Lea e Mei separano fuga di documenti e riuso dei risultati di B-17.
+- **17/004:** 1.006 unità con Collaborazione Contestuale; Mei nota che due esiti simili sono classificati diversamente e non registrano chi è stato chiamato a rispondere.
+- **18/003:** i ventidue minuti di ritardo nella consegna della biancheria sottraggono a Giulia una visita alla serra che un'ospite già vestita aspettava; Ada registra il rinvio a mano. **22/001** è il ritorno del desiderio di Teresa di non perdere un'altra visita, non un nuovo disservizio inventato.
+- **20/002:** Mei dichiara soltanto ciò che il ripristino non può garantire e non può assegnare una certezza sulla coscienza o sullo stato soggettivo di Bi.
+- **24/004:** B-17 produce risposte corrette al quesito astratto sulla mancata segnalazione, ma torna a chiedere il destino dell'altra unità. Il suo futuro intento politico resta non rivelato fino a 33.
+- **32/001–002:** la differenza fra firme su prove locali e prova mancante su attestazioni simultanee si manifesta nell'indagine, non tramite un comando remoto di B-17.
