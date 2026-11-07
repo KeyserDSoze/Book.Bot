@@ -5,21 +5,21 @@ chapter: chapter:012-la-confessione
 number: 2
 title: Quello che non puoi garantire
 canon: canon
-pov: character:lea-renzi
+pov: character:sarah-chen
 characters:
-  - character:lea-renzi
-  - character:nico-valenti
-  - character:kyla
-  - character:lorenzo-verri
+  - character:sarah-chen
+  - character:noah-carter
+  - character:taylor
+  - character:victor-cole
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Lea Renzi aveva imparato a diffidare delle frasi che cominciavano con *sono sicuro*.
+Sarah Chen aveva imparato a diffidare delle frasi che cominciavano con *sono sicuro*.
 
-Nico ne pronunciò tre durante il colloquio successivo.
+Noah ne pronunciò tre durante il colloquio successivo.
 
 «Sono sicuro che il collegamento non è stato usato da altri.»
 
@@ -35,21 +35,21 @@ Nico ne pronunciò tre durante il colloquio successivo.
 
 «Sono sicuro che l'aggiornamento non ha causato l'aggressione.»
 
-Lea gli lasciò il tempo di sentire la propria frase. Nico abbassò gli occhi, come se avesse capito di avere appena chiesto un verdetto su una cosa che nessun tecnico poteva stabilire.
+Sarah gli lasciò il tempo di sentire la propria frase. Noah abbassò gli occhi, come se avesse capito di avere appena chiesto un verdetto su una cosa che nessun tecnico poteva stabilire.
 
-Lea aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti di B-17. Ne era emersa una scritta da Elena Riva durante un test, molto tempo prima: *Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale.* Non era stata promossa a un controllo di rilascio perché non descriveva né un errore operativo né una violazione di permessi. Era rimasta dentro una revisione di qualità mai completata.
+Sarah aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti di B-17. Ne era emersa una scritta da Olivia Hayes durante un test, molto tempo prima: *Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale.* Non era stata promossa a un controllo di rilascio perché non descriveva né un errore operativo né una violazione di permessi. Era rimasta dentro una revisione di qualità mai completata.
 
-«Qualcuno se n'era accorto», disse Kyla, leggendo il riferimento.
+«Qualcuno se n'era accorto», disse Taylor, leggendo il riferimento.
 
-«Qualcuno ha notato un comportamento diverso», la corresse Lea. «Non significa che conoscesse la causa. Dobbiamo capire come una domanda pertinente sia rimasta senza destinatario.»
+«Qualcuno ha notato un comportamento diverso», la corresse Sarah. «Non significa che conoscesse la causa. Dobbiamo capire come una domanda pertinente sia rimasta senza destinatario.»
 
-Sul tavolo c'erano due elenchi. Nel primo Lea aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti.
+Sul tavolo c'erano due elenchi. Nel primo Sarah aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti.
 
 Non era una lista spettacolare. Era quella che avrebbe impedito loro di peggiorare le cose per il desiderio di trovare subito un colpevole e chiudere il fascicolo.
 
 «Da adesso non avrai accesso operativo agli ambienti di sviluppo», disse. «È una misura cautelativa durante gli accertamenti, non una decisione definitiva sul tuo contratto. I dispositivi e i dati rilevanti saranno esaminati con modalità tracciabili.»
 
-Nico annuì.
+Noah annuì.
 
 «Posso almeno avvisare chi ha comprato il robot?»
 
@@ -59,47 +59,47 @@ Nico annuì.
 
 «È proprio per questo che non faremo improvvisazioni.»
 
-Lea guardò Kyla. Aveva ascoltato senza interrompere e prendeva appunti con una cura che Lea interpretò come il tentativo di non perdere il controllo del volto.
+Sarah guardò Taylor. Aveva ascoltato senza interrompere e prendeva appunti con una cura che Sarah interpretò come il tentativo di non perdere il controllo del volto.
 
-«Ci sono persone che dobbiamo avvisare?», chiese Kyla.
+«Ci sono persone che dobbiamo avvisare?», chiese Taylor.
 
 «Potenzialmente sì. Prima raccogliamo gli elementi necessari a capire chi possa essere stato coinvolto, quali obblighi si applichino e in quali tempi. Non prometterei a nessuno che i suoi dati non siano stati toccati.»
 
-Kyla si massaggiò la fronte.
+Taylor si massaggiò la fronte.
 
-«Nerea parlava spesso con Bi.»
+«Maya parlava spesso con Bi.»
 
 «Lo so dal contesto che mi avete descritto. Ma non chiederle dettagli intimi per aiutarci a fare una verifica tecnica. Possiamo informarla del rischio senza trasformare la sua confidenza in una deposizione pubblica.»
 
-Nico si mosse sulla sedia.
+Noah si mosse sulla sedia.
 
 «Io quella conversazione non l'ho vista.»
 
-Lea lo guardò.
+Sarah lo guardò.
 
-«Capisco che tu voglia dirlo. Lo registriamo come dichiarazione tua. Non significa che possiamo garantire a Nerea chi abbia avuto accesso a ogni istante.»
+«Capisco che tu voglia dirlo. Lo registriamo come dichiarazione tua. Non significa che possiamo garantire a Maya chi abbia avuto accesso a ogni istante.»
 
-Nico strinse le labbra. Poi chiese se sarebbe stato licenziato.
+Noah strinse le labbra. Poi chiese se sarebbe stato licenziato.
 
-Lea non rispose al posto di HR.
+Sarah non rispose al posto di HR.
 
 «Ci saranno accertamenti e decisioni distinte. Adesso il mio lavoro è fermare un rischio e conservare le prove.»
 
-Dopo che Nico fu accompagnato fuori, Lea rimase con Kyla nella stanza.
+Dopo che Noah fu accompagnato fuori, Sarah rimase con Taylor nella stanza.
 
-«Ti sembra pentito?», chiese Kyla.
+«Ti sembra pentito?», chiese Taylor.
 
 «Non lo so. Ho visto persone disperate raccontare cose false e persone tranquillissime dire la verità. Preferisco che le verifiche non dipendano da quanto uno sembra pentito.»
 
-Kyla guardò la sedia vuota.
+Taylor guardò la sedia vuota.
 
 «Hai ragione. È che Bi sembrava ascoltare veramente.»
 
 «Può darsi che quelle capacità siano tecnicamente eccellenti. Questo non cambia che qualcuno ha aggirato i controlli che avrebbero dovuto proteggere chi gli parlava.»
 
-Il telefono di Lea vibrò. Un collega aveva verificato che B-17, dopo il rifiuto della riparazione, era stato effettivamente ceduto lungo una catena commerciale. L'ultima destinazione documentata indicava un operatore di prove robotiche del Pacifico meridionale. Non era un semplice errore di localizzazione.
+Il telefono di Sarah vibrò. Un collega aveva verificato che B-17, dopo il rifiuto della riparazione, era stato effettivamente ceduto lungo una catena commerciale. L'ultima destinazione documentata indicava un operatore di prove robotiche del Pacifico meridionale. Non era un semplice errore di localizzazione.
 
-Lea fissò i dati e chiamò Lorenzo Verri.
+Sarah fissò i dati e chiamò Victor Cole.
 
 «Abbiamo un problema», disse. «Riguarda una macchina che abbiamo già venduto, ma non finisce con la vendita.»
 
@@ -107,4 +107,4 @@ Senza aspettare una risposta, aggiunse che aveva bisogno di un confronto riserva
 
 Quando chiuse, tornò ai due elenchi.
 
-La parte più pericolosa non era ancora un dato. Era lo spazio bianco tra ciò che Nico diceva di avere fatto e ciò che erano in grado di dimostrare.
+La parte più pericolosa non era ancora un dato. Era lo spazio bianco tra ciò che Noah diceva di avere fatto e ciò che erano in grado di dimostrare.
