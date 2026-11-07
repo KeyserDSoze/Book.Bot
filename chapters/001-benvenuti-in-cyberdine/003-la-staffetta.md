@@ -16,86 +16,70 @@ factions:
   - faction:aruvhana
 ---
 
-Al terzo corridoio Leïa si fermò davanti a una porta gialla.
+Il primo odore della sala batterie ricordò a Kyla l'officina di suo nonno: metallo scaldato, gomma, polvere che qualcuno puliva con una cura non del tutto sufficiente.
 
-«Posso farvi una domanda che non riguarda il software?»
+«Questa parte non entra mai nel filmato», disse Leïa.
 
-«È la mia specialità», rispose Kyla.
+«Perché nessuno vuole vedere una batteria mentre si carica. Però è una delle ragioni per cui i filmati sono possibili.»
 
-«Quanto durano le batterie?»
+Un robot arrivò al banco con un modulo di energia quasi esaurito. Un secondo robot ne ricevette l'avviso, controllò la temperatura, verificò che le mani dell'unità fossero nella posizione prevista e sostituì il pacco. Nessuno dei due accelerò per fare bella figura davanti ai visitatori.
 
-Kyla cercò di non sorridere troppo in fretta. Era la domanda che aspettava da tutta la mattina.
+«Quanto può lavorare senza fermarsi?», chiese Sahir.
 
-«Abbastanza per finire un incarico. Non abbastanza per sostenere il nostro programma di lavoro.»
+«Dipende. Trasportare scatole, parlare con un modello grande e manovrare una porta non consumano la stessa energia. Non abbiamo risolto la fisica. Abbiamo organizzato meglio le soste.»
 
-Aprì la porta.
+Kyla indicò i nomi semplici scritti sopra le stazioni: UNO e DUE. Le unità incaricate della staffetta si alternavano fra manutenzione, carica e cambio moduli. Sul tabellone compariva anche l'intervallo entro cui un tecnico umano avrebbe dovuto intervenire se entrambi i banchi fossero risultati occupati.
 
-La sala era più piccola di quanto i visitatori immaginassero. Da un lato si allineavano moduli di energia in carica dietro protezioni trasparenti; dall'altro, due postazioni avevano l'aspetto di normali banchi di manutenzione. Sul pavimento correvano strisce di sicurezza che delimitavano la zona operativa.
+«E a notte fonda?», insistette Sahir.
 
-Un robot entrò portando un modulo scarico. Sul banco a destra, una seconda unità lo ricevette e lo inserì in una baia di ricarica. Quindi estrasse una batteria piena, lesse il codice sul fianco, controllò la temperatura e la collocò sul vassoio di trasferimento.
+«C'è un presidio per le eccezioni. Non possiamo chiedere a una persona di passare otto ore a fissare una batteria che si carica. Ma non possiamo neanche far finta che un robot sia una fonte d'energia perpetua.»
 
-La manovra durò pochi secondi.
+Dall'altra parte della vetrata due impiegati mangiavano su una terrazza, molto prima dell'ora in cui Kyla si era abituata a vedere i colleghi trovare cinque minuti per pranzo. Uno aveva un libro aperto; l'altro stava raccontando qualcosa agitando le mani.
 
-Sul piccolo display sopra la porta comparve una nuova riga: UNITÀ RIENTRATA IN SERVIZIO.
+«Quindi il vantaggio è lavorare ventiquattr'ore su ventiquattro», disse Leïa.
 
-«Non si fermano mai?», chiese Leïa.
+«Il vantaggio è poter distinguere il tempo in cui serve una persona da quello in cui una macchina esegue una procedura.»
 
-«L'attività no. Le singole unità sì, quando serve. È una distinzione importante.»
+Kyla si accorse che la propria frase era troppo vicina al linguaggio di una presentazione. Aprì una schermata con l'orario della squadra che seguiva i connettori di Aruvhana.
 
-Kyla indicò i due banchi. «Abbiamo due bot dedicati al cambio delle batterie. Li chiamiamo semplicemente Uno e Due. Mentre Uno è operativo, Due è in ricarica, in controllo o pronto a subentrare. Poi si scambiano il turno. Se Uno ha bisogno di un modulo nuovo, Due può effettuare anche il suo cambio, seguendo una procedura di sicurezza. Le batterie scariche passano alla stazione automatizzata. È una staffetta, non una fonte di energia infinita.»
+«Prima gli sviluppatori dovevano spesso restare fino a tardi per ricostruire le stesse differenze fra registri. Da quando gli agenti preparano i confronti e i test, molti rientrano a casa in orario. Uno di loro è andato a prendere sua figlia a scuola per tre settimane di fila. È successo. Non è un indicatore teorico.»
 
-Sahir seguì con attenzione la traiettoria di una batteria.
+«E se prima lavoravano in sei per fare quello che ora ne richiede due?», chiese Sahir.
 
-«E se entrambi hanno un problema?»
+Kyla mantenne aperta la schermata. C'erano due colonne relative a un gruppo riorganizzato, entrambe con nomi oscurati.
 
-«Il sistema arresta i cambi e chiama il presidio tecnico. Nessun obiettivo di produttività giustifica un movimento non sicuro.»
+«Alcuni sono passati ai problemi più difficili. Altri controllano il rilascio dei programmi che gli agenti propongono. Non tutte le attività si sono trasformate allo stesso modo. Quando qualcuno viene spostato, il passaggio ha un costo di formazione e di responsabilità che dobbiamo misurare.»
 
-«Avete un presidio anche di notte?»
+«Non mi sembra una risposta», disse Sahir.
 
-«Sì, per le eccezioni. Ma non abbiamo bisogno di tenere persone davanti a tutte le postazioni per aspettare che succeda qualcosa.»
+«È quella che abbiamo. Non voglio promettervi che nessuna professione cambierà.»
 
-Dal corridoio arrivò un suono di stoviglie. Oltre la finestra interna si vedeva una terrazza piena di tavolini. Due colleghi ridevano davanti a una scacchiera; una donna parlava al telefono passeggiando tra le piante, senza distogliere lo sguardo da nessun monitor.
+Leïa guardò la terrazza. «Ma oggi quelle persone sono contente?»
 
-«La copertura è ventiquattr'ore su ventiquattro», disse Kyla. «Lavorano di giorno, di notte, nei fine settimana. Non si stancano come noi e, con la manutenzione organizzata, ci permettono di distribuire il lavoro senza distribuire altrettanto il peso umano delle attese.»
+«Alcune moltissimo. Altre chiedono che cosa significhi fare carriera in un'azienda dove sono gli agenti a preparare la prima versione del lavoro.»
 
-Leïa guardò la terrazza.
+Kyla pensò a una riunione recente. Un programmatore giovane aveva chiesto di poter partecipare al collaudo di un vecchio modulo invece di limitarsi a validare i suggerimenti. Il responsabile aveva risposto che non c'era tempo per quel tipo di formazione durante la consegna. Kyla aveva segnato il problema per un confronto successivo, poi l'aveva dimenticato nella preparazione della visita.
 
-«Quindi avete ridotto gli orari?»
+Non lo raccontò agli ospiti. Si promise però di ritrovare l'appunto.
 
-«Per molti ruoli, sì. Per altri abbiamo ridotto i tempi morti, le urgenze artificiali, le chiamate per un dato che non si trova. Soprattutto abbiamo dato alle persone più scelta.»
+Sul tabellone la batteria in carica raggiunse la soglia prevista. L'unità UNO rientrò con un modulo scarico. DUE verificò che l'area fosse libera, lo prese e iniziò la procedura. Un tecnico comparve alla porta, controllò il registro e firmò la rotazione.
 
-Era la parte della visita che Kyla amava di più. Davanti ai numeri sapeva essere persuasiva; davanti a una persona che usciva dall'ufficio in tempo per recuperare sua figlia a scuola, non aveva bisogno di esserlo.
+«Tutto questo lo fate perché i robot non si stanchino?», chiese Leïa.
 
-«Nel nostro primo sondaggio dopo l'introduzione dei bot», proseguì, «i colleghi non ci hanno chiesto di fare meno cose. Ci hanno chiesto di poter fare cose migliori. Alcuni seguono la qualità delle proposte; altri costruiscono nuovi processi o formano chi li usa. Persino chi era stato assunto per verificare campi in una tabella ora coordina più unità operative.»
+«Perché i robot si fermano. E perché non vogliamo che ogni loro fermata diventi un turno di notte per qualcuno.»
 
-Sahir fece un mezzo sorriso. «Quindi adesso siete tutti manager. Anche quelli che scrivevano codice?»
+Sahir esaminò la firma del tecnico.
 
-«Più di quanto avremmo creduto possibile. Manager di robot. Manager di gruppi di robot. E, quando la struttura cresce, manager di persone che a loro volta coordinano quei gruppi.»
+«La persona è ancora necessaria.»
 
-«Un'azienda fatta soltanto di responsabili?»
+«Sì. E quando c'è un dubbio, dovrebbe avere abbastanza conoscenza per dire di no.»
 
-«Di persone che rispondono delle cose importanti. Chi ieri passava ore a scrivere adattatori fra due versioni di un programma oggi può descrivere una modifica a un agente, valutarne le prove e firmare il rilascio. Non significa che smettiamo di sapere programmare.» Kyla ci credeva. Quella mattina, nella sala di sviluppo, aveva visto persone con più tempo per progettare invece che correggere per la quarta volta lo stesso collegamento.
+Dal corridoio arrivò il ronzio di una macchina per la pulizia del pavimento. La porta si aprì per pochi secondi e l'aria di detergente sostituì quella delle batterie.
 
-Kyla ricordò la riunione in cui una collega del personale, prima incaricata di rincorrere documenti incompleti, aveva presentato un progetto formativo che aspettava da tre anni. Lo aveva fatto senza dover chiedere a qualcun altro di recuperare il suo lavoro rimasto indietro. La proposta era stata approvata prima della fine della settimana.
+Kyla guardò l'orologio. Aveva ancora venticinque minuti prima della conclusione prevista. Sul telefono c'era un messaggio dell'amica: *Per il film ho anche comprato i popcorn. Non è un invito a una riunione.*
 
-Leïa aveva ancora gli occhi sulla terrazza.
+Kyla sorrise.
 
-«E come fate a sapere che la qualità della vita sta davvero migliorando?»
+«Ultima tappa», annunciò. «Poi vi lascio fare le domande che non ho previsto.»
 
-«Non basta chiedere se la gente è contenta. Confrontiamo orari effettivi, richiami fuori turno, ferie rinviate, tempo dedicato alla formazione. Poi chiediamo ai colleghi se riconoscono quei miglioramenti nella propria vita. Quando i due racconti non coincidono, indaghiamo.»
-
-Uno dei bot addetti al cambio entrò nella zona centrale. L'altro si staccò dal banco, verificò la disponibilità del nuovo modulo e prese il suo posto. Sul display i nomi operativi si invertirono. Nessuna sirena. Nessun annuncio.
-
-«Eccoli», disse Kyla. «Il passaggio di turno.»
-
-Sahir osservò i due robot mentre uno scivolava verso la ricarica e l'altro riceveva il successivo incarico.
-
-«Non avete dovuto cambiare l'intero stabilimento per far funzionare questa cosa.»
-
-«No. Abbiamo dovuto cambiare il modo in cui pensiamo il lavoro.»
-
-Questa volta fu Leïa a sorridere.
-
-«Forse questa è l'innovazione più difficile da copiare.»
-
-Kyla chiuse la porta gialla dietro di loro.
+Il robot alla stazione di carica completò il cambio e tornò al lavoro. Il tecnico chiuse il registro soltanto dopo aver visto il risultato sul banco reale, non quando il software glielo suggerì.

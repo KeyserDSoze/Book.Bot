@@ -17,108 +17,86 @@ factions:
   - faction:aruvhana
 ---
 
-Quando tornarono nell'atrio, il sole aveva cambiato posizione. Una fascia di luce tagliava il pavimento dalla parete ovest fino alla vasca. I robot continuavano a muoversi tra le corsie, quasi invisibili nell'andirivieni delle persone.
+La parete delle prestazioni era nella sala d'ingresso, dove qualunque visitatore poteva fermarsi a fotografarla. Kyla non amava quella posizione. Il dipartimento Marketing adorava i numeri enormi; lei preferiva quelli che sopportavano una domanda scomoda.
 
-Kyla condusse gli ospiti davanti allo schermo più grande.
-
-Non era un filmato. Non c'era una musica capace di convincere al posto suo. Soltanto una dashboard aperta sulla giornata e un titolo in caratteri chiari: **CYBERDINE | IMPATTO OPERATIVO E UMANO**.
-
-Kyla selezionò il periodo trimestrale.
-
-Comparvero tre numeri.
+Scelse l'intervallo trimestrale.
 
 **6.400 ore umane restituite.**
 
 **31% di rilavorazioni in meno nei flussi monitorati.**
 
-**100% delle decisioni classificate come critiche con avallo umano.**
+**100% delle decisioni critiche con avallo umano.**
 
-Sahir lesse i valori due volte.
+Sahir lesse i numeri e si girò verso di lei.
 
-«I robot sono qui da ventisei giorni. Perché il grafico ne copre un trimestre?»
+«Avete i robot da ventisei giorni e i risparmi riguardano tre mesi.»
 
-«Perché include il programma di automazione nel suo insieme, anche i sistemi software che usavamo già», precisò Kyla. «Nel dettaglio distinguiamo quel contributo da quello misurato dopo l'arrivo dei robot. Non attribuirei a ventisei giorni di macchine il merito di anni di lavoro.»
+«Perché il programma è iniziato con gli agenti software», rispose Kyla. «I robot sono l'aggiunta più recente. Se attribuissimo tutto a loro, avreste ragione a non fidarvi.»
 
-Sahir annuì, ma rimase davanti ai numeri.
+Leïa si chinò verso la descrizione del primo indicatore. «Cosa vuol dire restituite? Non tutte le ore liberate diventano ferie.»
 
-«Mi piace il terzo», disse. «Mi preoccupa il primo.»
+«Infatti. Abbiamo controllato le attività che sono state riassegnate, i turni effettivamente ridotti, le ore di straordinario evitate, quelle usate per formazione. E abbiamo lasciato una categoria per ciò che non sappiamo ancora misurare.»
 
-«Perché?»
+«Quanto vale quella categoria?», chiese Sahir.
 
-«Le ore sono un indicatore facile da piegare alle storie che si vogliono raccontare. Un'ora risparmiata non è necessariamente un'ora restituita.»
+Kyla aprì la nota completa. Sahir ne fotografò la tabella. Lei preferì non chiedergli cosa ne avrebbe fatto.
 
-Kyla annuì. Non avrebbe potuto sperare in un'obiezione migliore. Lorenzo Verri, l'amministratore delegato, le aveva restituito una volta una bozza di presentazione con una sola frase scritta a margine: *Un beneficio che nessuno può verificare non è un risultato*. Da allora Kyla non nascondeva la definizione degli indicatori nelle note minuscole. Chiedeva sempre anche il registro dei tentativi scartati dai confronti: non per mostrarli agli ospiti uno per uno, ma per sapere che cosa quei numeri non raccontavano.
+«Un'ora non lavorata non è automaticamente un'ora regalata», disse. «Se la persona è costretta a rifare il lavoro perché l'agente ha prodotto una correzione sbagliata, non ce la possiamo assegnare come successo.»
 
-«Infatti distinguiamo le due cose. Non contiamo un minuto liberato finché non sappiamo che cosa è successo dopo. Se un controllo automatico risparmia due ore ma il dipendente ne trascorre tre a risolvere eccezioni, abbiamo peggiorato il processo. Il nostro indicatore usa i flussi effettivamente completati e viene confrontato con le attività ancora svolte dalle persone.»
+«E se il lavoro non viene più affidato a quella persona?»
 
-Leïa indicò una riga sotto il dato.
+Era una domanda diversa. Kyla ne riconobbe la forma prima di trovare le parole.
 
-«E le ore restituite dove vanno?»
+«Allora abbiamo migliorato il costo di un processo. Può essere un vantaggio per i clienti e per chi continua a lavorarci. Dobbiamo però parlarne anche come cambiamento della domanda di lavoro. I due conti non si cancellano l'un l'altro.»
 
-«Non tutte nello stesso posto. Alcune diventano orario più breve. Altre diventano formazione, progettazione, colloqui con i colleghi, revisioni dei sistemi. Una parte resta margine: tempo che non dobbiamo più difendere da un'emergenza inutile.»
+Un messaggio comparve sulla sua schermata di servizio. Il team sviluppo aveva completato la verifica di un piccolo miglioramento al censimento clienti. Kyla aveva visto il problema la settimana prima: un responsabile riceveva una proposta ben scritta, ma per sapere quali alternative fossero state scartate doveva aprire tre pagine diverse. Gli agenti proponevano sempre il percorso che sembrava più efficiente secondo i criteri scelti.
 
-«Come lo controllate?»
+«Posso mostrarvi una proposta vera», disse.
 
-«Con dati e conversazioni. Il reparto HR non ha bisogno di far finta che le persone siano numeri. Ma se vogliamo mantenere una promessa, dobbiamo poter verificare che la stiamo rispettando.»
-
-Kyla aprì una seconda scheda. Era il confronto interno prima e dopo il nuovo flusso di censimento dei clienti. La durata media del lavoro manuale su ogni pratica monitorata era scesa da diciotto a sei minuti. La quota di pratiche rimandate indietro per una verifica tardiva si era ridotta visibilmente.
-
-«È questo che intendevo con emancipazione», disse. «Per molto tempo abbiamo misurato il progresso chiedendo alle persone di adattarsi alle macchine. Ora abbiamo macchine che si adattano ai processi esistenti, e processi che finalmente possono essere ripensati dalle persone. La tecnologia non prende il posto della responsabilità. Le lascia spazio.»
-
-Sahir incrociò le braccia.
-
-«C'è una parola che non avete usato.»
-
-Kyla lo guardò senza perdere il sorriso.
-
-«Quale?»
-
-«Controllo. Nel senso di chi decide che cosa è importante, non soltanto di chi firma l'ultima casella.»
-
-Kyla scorse con un dito l'elenco delle approvazioni. Ogni voce importante mostrava un responsabile umano, le alternative esaminate e una motivazione. In alcuni casi la proposta dei bot era stata respinta. In altri, modificata.
-
-«È esattamente qui», rispose. «Non chiediamo ai robot di decidere al nostro posto che cosa abbia valore. Chiediamo loro di mostrarci le opzioni, segnalarci i rischi, liberarci dalla fatica dei passaggi ripetitivi. La direzione la scegliamo noi. E se sbagliamo, non possiamo nasconderci dietro un modello.»
-
-Leïa appoggiò il proprio tesserino sul tavolo basso davanti alla parete.
-
-«Da fuori vi immaginavo come un posto pieno di schermi.»
-
-«Lo siamo stati.»
-
-«E ora?»
-
-Kyla guardò attraverso le vetrate, verso la terrazza. La donna al telefono era rientrata. Due colleghi occupavano il tavolo della scacchiera, concentrati su una partita in cui nessun indicatore segnava la produttività.
-
-«Ora cerchiamo di essere un posto pieno di persone.»
-
-Per la prima volta Sahir lasciò cadere la postura dell'ospite in visita. Estrasse il telefono, annotò qualcosa e lo rimise in tasca.
-
-«Credo che ad Aruvhana dovremo rivedere parecchie domande», disse.
-
-«È un buon risultato per una mattina.»
-
-Kyla li accompagnò verso l'uscita. Leïa volle sapere come venivano registrate le eccezioni che nessun sistema aveva previsto; Sahir chiese se, al prossimo incontro, avrebbero potuto parlare con uno dei responsabili che firmavano gli avalli. Kyla si segnò entrambe le richieste. Erano domande migliori di quelle che avrebbe potuto suggerire la sua presentazione.
-
-Quando le porte si richiusero dietro la delegazione, Kyla tornò alla parete dei dati per annotare le richieste di approfondimento.
-
-Una notifica discreta era comparsa tra le proposte in attesa di revisione.
+Aprì il ticket in modalità dimostrativa, senza dati identificativi.
 
 **Origine: agente di sviluppo — ciclo di prova 14.**
 
-**Oggetto: rendere visibili al responsabile anche le alternative scartate prima della richiesta di approvazione.**
+**Proposta: rendere visibili al revisore le alternative escluse e i relativi criteri.**
 
-**Stato: in attesa di valutazione umana.**
+**Stato: in attesa di test su casi autorizzati.**
 
-Kyla lesse la motivazione allegata. Era breve e ben costruita: con più contesto, il responsabile avrebbe potuto giudicare meglio. La proposta veniva dal normale lavoro degli agenti sul codice e sulle procedure, non dall'unità che aveva visto tagliare il prato. Nessuna scorciatoia, nessun permesso aggiuntivo. Soltanto una proposta per rendere più informata una scelta umana.
+Sahir annuì. «Non vedo un robot.»
 
-Kyla ripensò per un istante al varco dell'atrio: una verifica segnata come conclusa e una porta che non si apriva ancora. Il risultato di un processo e la situazione di chi lo stava vivendo non erano sempre la stessa cosa.
+«Non c'è. L'agente lavora dentro un ambiente software. Quando serve provare qualcosa su un pannello fisico, usiamo tecnici e, in certe attività, robot autorizzati. Ma la maggioranza delle modifiche non ha bisogno di braccia.»
 
-La inoltrò al referente del processo con un commento: *Ottima idea. Verificare sui casi del prossimo ciclo. Voglio anche il confronto fra le versioni, non soltanto il riepilogo.*
+Leïa indicò la parte evidenziata.
 
-Poi abbassò la luminosità dello schermo.
+«Chi ha chiesto all'agente di mostrare le alternative?»
 
-Aveva ancora un incontro prima di pranzo, e per la prima volta dopo molti anni non era in ritardo.
+«Una responsabile del processo aveva segnalato che alcuni riepiloghi erano troppo poveri. L'agente ha proposto una soluzione. Il nostro gruppo deve verificare che sia leggibile e che non sposti silenziosamente la responsabilità di chi approva.»
 
-Dietro di lei la dashboard continuava a contare ore.
+«E chi approva la soluzione?»
 
-Fuori, nella terrazza assolata, qualcuno spostò una pedina e si mise a ridere.
+«La responsabile del prodotto e chi firma il rilascio. Per questo lo stato è ancora aperto.»
+
+Kyla inoltrò il ticket al referente, aggiungendo una domanda: *Nel test voglio vedere almeno un'alternativa esclusa che il revisore decide di recuperare. Altrimenti proveremo soltanto che il sistema sa spiegare se stesso.*
+
+Aveva scritto quella frase pensando al varco che Nico aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
+
+«Mi sembra che stiate facendo diventare tutti responsabili», disse Sahir.
+
+«A volte anche troppi», rispose Kyla. «Ma l'alternativa non può essere che nessuno risponda più di un errore perché l'ha scritto una macchina.»
+
+Il visitatore annuì, pur senza sembrare persuaso fino in fondo.
+
+Dalla terrazza arrivò una risata. Due colleghi avevano appena terminato una partita a scacchi. Qualcuno si fermò a guardare la mossa finale, poi tornò alla propria scrivania. Kyla era tentata di indicare la scena come prova che l'azienda funzionava meglio. Non lo fece. Non conosceva le loro giornate abbastanza da usarle come argomento.
+
+Quando la delegazione uscì, Sahir si fermò un'ultima volta.
+
+«Al prossimo incontro vorrei parlare con uno sviluppatore che non si occupi soltanto di approvare le modifiche. Uno che sappia spiegarmi il programma sotto il riepilogo.»
+
+«Lo troverò», disse Kyla.
+
+Non sapeva ancora chi chiamare. Era una richiesta ragionevole e la sua esitazione le diede fastidio.
+
+Le porte di vetro si richiusero. Kyla controllò l'ora, scoprì di avere finito in anticipo e pensò ai popcorn comprati dall'amica.
+
+Sul monitor il nuovo ticket era ancora in attesa di prove. Non avrebbe cambiato il mondo quel pomeriggio. Nessuno, guardandolo, avrebbe saputo dire quale effetto avrebbe avuto fra qualche mese.
+
+Kyla abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.
