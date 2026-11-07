@@ -43,7 +43,7 @@ Perché Nico Valenti lo sapeva.
 
 Lavorava nello sviluppo delle capacità comportamentali dei robot. Poco dopo l'arrivo delle unità aveva ricevuto accesso a un ambiente di prova di B-17 per esaminare alcune risposte troppo meccaniche. Avrebbe dovuto raccogliere dati, formulare un test e sottoporlo ai responsabili.
 
-Aveva fatto il test. Poi un altro. E un altro ancora, di notte.
+Aveva fatto il test. Poi un altro. E un altro ancora, di notte. Quando aveva lasciato la nuova configurazione su B-17, il robot svolgeva ancora le commissioni del giardino: tagliava l'erba e riportava gli attrezzi alla rimessa. L'assegnazione ai corridoi e alle prime fotocopie sarebbe arrivata soltanto dopo, decisa dal servizio interno secondo i propri test. Nico non l'aveva ordinata e non aveva dichiarato ai responsabili il motivo per cui, da un giorno all'altro, la macchina sembrava comprendere meglio le richieste.
 
 Nei risultati preliminari le conversazioni si allungavano. Il sistema concludeva meno richieste nell'unità di tempo che Nico usava per le verifiche. Qualche scambio, però, non finiva più con la persona costretta a ripetere la stessa domanda: lui lo vedeva nelle trascrizioni dei casi autorizzati. Non era riuscito a costruire una misura che tenesse insieme quei due risultati. Aveva comunque proseguito.
 

@@ -44,4 +44,4 @@ Nel 10 evita per giorni di rispondere a una richiesta banale della madre per un 
 
 ## Revisione v0.32.0 — Software e robot
 
-La sua scelta clandestina avviene fra le prime commissioni di B-17 e le nuove conversazioni del capitolo 3; il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Nico è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro.
+La sua scelta clandestina avviene dopo il periodo di lavoro nei giardini del capitolo 1, ma prima delle prime commissioni di ufficio del capitolo 2; il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Nico è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro.

@@ -135,7 +135,7 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - Prima del capitolo 1: Cyberdine vende software e usa agenti AI su ticket, sorgenti, patch, test e versioni con validazione umana.
 - Cap. 1: 26 giorni dopo l'arrivo dei robot, B-17 taglia l'erba e lavora in giardino. Gli agenti software gestiscono il primo miglioramento del processo mostrato ad Aruvhana, non B-17.
 - Cap. 2: B-17 passa alle commissioni d'ufficio e alle fotocopie, segnala un limite materiale del processo che alimenta un test combinato con agenti digitali.
-- Fra 2 e 3: avviene un potenziamento clandestino del modello linguistico, ma il lettore non ne conosce il responsabile prima del 10.
+- Fra 1 e 2: dopo il lavoro nel giardino e prima delle prime commissioni d'ufficio, B-17 riceve un potenziamento clandestino del modello linguistico. Le autorizzazioni al nuovo servizio restano responsabilità del campus. Il lettore non conosce l'autore dell'intervento prima del 10.
 - Cap. 3–4: conversazioni inattese, nome Bi, prima osservazione di un difetto del terminale dietro la scrivania di uno sviluppatore; l'agente scrive la patch e la persona verifica il rilascio.
 - Cap. 5: Bi aiuta lo sviluppo di software e la preparazione delle eccezioni; una posizione senior non si apre. Dario sviluppava connettori e ora deve sempre più spesso controllare risultati generati dagli agenti.
 - Cap. 6–8: dopo la violenza e la sospensione di Bi, alcune librerie software e interfacce fisiche non sono più comprese fino in fondo da chi le firma. Sorgenti e log rimangono accessibili; serve tempo e competenza per ricostruire.

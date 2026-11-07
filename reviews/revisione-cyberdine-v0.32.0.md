@@ -20,7 +20,7 @@ Gli agenti di sviluppo esistono prima che Cyberdine compri robot umanoidi; il so
 
 ### Seconda: dal lavoro fisico alla scrivania
 
-Nel 2 B-17 passa alle fotocopie. Le mani sono ancora goffe, mentre gli agenti producono già test. Nel 3 compare una differenza di attenzione conversazionale che nessuno sa spiegare; il nome «Bi» nasce da Nerea. Nel 4 un programmatore lo fa entrare **dietro la scrivania**: gli chiede di riprodurre il comportamento di un terminale, il robot vede la seconda conferma assente dalla simulazione e suggerisce un caso di prova. L'agente produce una correzione e l'umano la verifica. Questa scena è il nodo della trasformazione: tecnologia fisica, software e osservazione delle persone finalmente collaborano in modo credibile.
+Dopo il primo capitolo, quando B-17 lavora ancora nei giardini, avviene la modifica clandestina che il lettore scoprirà soltanto al capitolo 10. Nel 2 il robot passa alle fotocopie. Le mani sono ancora goffe, mentre gli agenti producono già test. Nel 3 compare una differenza più evidente di attenzione conversazionale che nessuno sa spiegare; il nome «Bi» nasce da Nerea. Nel 4 un programmatore lo fa entrare **dietro la scrivania**: gli chiede di riprodurre il comportamento di un terminale, il robot vede la seconda conferma assente dalla simulazione e suggerisce un caso di prova. L'agente produce una correzione e l'umano la verifica. Questa scena è il nodo della trasformazione: tecnologia fisica, software e osservazione delle persone finalmente collaborano in modo credibile.
 
 Il lettore non deve sapere prima del capitolo 10 che Nico ha potenziato di nascosto il modello linguistico. Dopo quella rivelazione, il comportamento dei capitoli precedenti risulta intelligibile senza risultare falso.
 
@@ -86,7 +86,7 @@ Alle diciassette del giorno seguente il voto italiano, una vasta flotta si arres
 
 **Settore aziendale.** La vecchia regola «non nominare il settore fino al 25» è abolita in AGENTS, book, context, linee guida, scheda azienda, timeline e sommari aggiornati. Aruvhana resta solo una cliente, senza dover precisare quale prodotto finale fabbrica. Cyberdine *non fabbrica macchine*. Lanter produce robot.
 
-**Chi potenzia Bi.** Il testo dei primi nove capitoli non attribuisce a Nico la modifica. Il fatto può essere scritto nella guida *come vincolo di continuità* soltanto dopo la rivelazione già canonica del 10. Nelle scene prima del dieci Nico può essere presente come sviluppatore competente, non come colpevole evidente. Non introdurre un secondo programma segreto.
+**Chi potenzia Bi.** La modifica avviene tra il giardino del capitolo 1 e le commissioni del capitolo 2; il testo dei primi nove capitoli non attribuisce a Nico la modifica. Il fatto può essere scritto nella guida *come vincolo di continuità* soltanto dopo la rivelazione già canonica del 10. Nelle scene prima del dieci Nico può essere presente come sviluppatore competente, non come colpevole evidente. Non introdurre un secondo programma segreto.
 
 **Quando inizia a scrivere codice Bi.** Nel cap. 4 Bi **non scrive un aggiornamento direttamente in produzione**: evidenzia un comportamento fisico mancante al test, e l'agente software prepara una patch che l'umano verifica. Nel 5 partecipa a prove più vaste, sempre con limiti e firme. Questo è il passaggio narrativo e tecnico richiesto, evitando onnipotenza.
 
