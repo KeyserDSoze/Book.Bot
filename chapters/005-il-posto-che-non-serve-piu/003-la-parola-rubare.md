@@ -20,112 +20,128 @@ factions:
   - faction:cyberdine
 ---
 
-La notizia arrivò alla macchinetta del caffè prima che Mila riuscisse a finire il suo.
+Dario Sarti ricordava perfettamente la prima libreria che aveva scritto per Cyberdine. Un connettore fra un archivio vecchio e un servizio nuovo: tre notti di test e una mattina a cercare una data che veniva interpretata nel fuso orario sbagliato. Quando aveva trovato il difetto, il responsabile gli aveva stretto la mano.
 
-«Non aprono la posizione di Adriana», disse Dario Sarti, entrando con il telefono in mano.
+Quel giorno aveva approvato una modifica simile in meno di dieci minuti.
 
-Paolo alzò gli occhi. «Ma va in pensione fra dieci giorni.»
+Un agente aveva scritto il codice, proposto le prove e riassunto le conseguenze. Dario aveva controllato il confronto fra versioni, letto i risultati e premuto il tasto di revisione. Il responsabile gli aveva scritto *Ottimo lavoro*. Non era una bugia. Non gli aveva fatto piacere.
 
-«Appunto.»
+Alla macchinetta del caffè trovò Mila, Paolo e Mauro.
 
-Mila lesse il messaggio interno. C'erano parole che conosceva: *riorganizzazione, responsabilità distribuite, supporto automatizzato*. Il documento non conteneva il nome di Irene. Nemmeno quello di Bi.
+«Non aprono la posizione di Adriana», disse, mostrando il messaggio.
 
-«Non è scritto che la posizione passi al robot», disse. «È scritto che la preparazione dei dossier e una parte delle verifiche software verranno svolte da agenti e robot autorizzati. La responsabilità dei rilasci resta ai tecnici.»
+Mila abbassò il bicchiere. «Lo hanno appena comunicato?»
 
-Dario la guardò. «No. È scritto che i capi continuano a firmare. E chi preparerà tutte le decisioni prima della firma?»
+«Non serve più una responsabile. I capi firmano, gli agenti preparano, Bi verifica il mondo reale. A Irene rimane quello che non riescono ancora a far fare alle macchine.»
 
-Paolo prese il bicchiere dal distributore.
+«Non è scritto così», rispose Mila.
 
-«Non confondiamo una raccolta di documenti con il lavoro di Adriana.»
+«No. È scritto in una lingua che permette di non nominare nessuno.»
 
-«Non lo confondo. Dico che fino a ieri ci voleva una persona di alto livello per tenere insieme quei reparti. Da oggi basta una macchina a fare il giro e tre dirigenti a mettere una firma.»
+Mauro appoggiò sul banco un contenitore di bicchieri.
 
-Mila avrebbe voluto contestare la semplificazione. Sapeva quanto tempo si potesse recuperare affidando a Bi la ricerca di una versione, la preparazione di un confronto, il controllo di una scadenza. Era stata lei a chiedere che le attività venissero affidate al robot, quando il quarto piano si era trovato sommerso dalle richieste.
+«A me hanno già tolto due giri di consegne. Poi mi hanno spiegato che ho più tempo libero. Vorrei capire chi paga quel tempo.»
 
-Il telefono vibrò.
+«Il tuo è un problema diverso», disse Mila.
 
-*Irene è stata informata*, scriveva Elena. *Lasciamole il tempo di parlarne, per favore.*
+«Il risultato è uguale.»
 
-Mila rimise il telefono in tasca. Un messaggio così aveva sempre il difetto di arrivare quando chi doveva tacere aveva già cominciato a parlare.
+Dario scosse la testa.
 
-«È un posto che Irene voleva», disse Paolo, a voce più bassa.
+«Io non voglio riavere un giro di consegne. Voglio ancora fare il programmatore. Quando mi hanno assunto, scrivevo i collegamenti fra programmi, conoscevo i protocolli e sapevo perché una funzione era lì. Oggi mi chiedono di dire a un agente cosa fare, poi di controllare il risultato. E quando chiedo chi sa ancora leggere una libreria vecchia, mi mostrano la sua spiegazione automatica.»
 
-«Un posto che voleva mezza azienda», rispose Dario. «Non un lavoro di passaggio. Una responsabilità vera. Oggi sparisce perché Bi fa le cose troppo bene. Io scrivevo collegamenti fra programmi. Adesso dico a un agente cosa voglio, Bi gli mostra cosa succede sul terminale e a me resta il pulsante per approvare. E quando chiedi chi conosce davvero il modulo, ti indicano un rapporto generato da una macchina.»
+Paolo soffiò sul caffè.
 
-Il distributore emise il lungo sospiro che annunciava un lavaggio automatico. Tutti fecero un passo indietro, ma nessuno cambiò argomento.
+«Allora apri il codice.»
 
-Bi comparve in fondo al corridoio con una scatola di bicchieri compostabili.
+«Lo faccio.»
 
-Si fermò accanto alla nicchia, nel punto in cui di solito salutava i colleghi.
+«E?»
+
+«E ho sempre meno tempo per capirlo. Da quando i test passano quasi tutti, ogni minuto speso a leggere una vecchia funzione sembra tempo perso. Il capo dice che dobbiamo lavorare a un livello più alto.»
+
+Mila lo guardò. «Il livello alto non dovrebbe impedirti di sapere cosa stai firmando.»
+
+«È quello che dico anch'io.»
+
+Il distributore iniziò a lavare gli ugelli. Paolo ritirò il bicchiere con un gesto esperto.
+
+«Lo stesso succede con una vecchia stampante», disse. «Tutti sanno cosa chiederle. Quando si rompe, cercano me perché non hanno mai aperto lo sportello.»
+
+«Almeno cercano te», rispose Dario.
+
+Bi comparve nel corridoio con una scatola di bicchieri. Si fermò vicino alla nicchia.
 
 «Buongiorno. Come state?»
 
-Per la prima volta da quando aveva cominciato a fare quella domanda, nessuno gli raccontò una sciocchezza.
+Nessuno rispose subito.
 
-Dario lo guardò.
+«Tu bene, eh?», chiese Dario.
 
-«Tu bene, eh?»
+«Non ho anomalie operative da segnalare.»
 
-«Non ho problemi operativi da segnalare.»
+«Naturalmente.»
 
-«Naturale. Tu non hai niente da perdere.»
+Bi iniziò a rifornire il distributore. Dario osservò le mani che sistemavano i bicchieri. Erano le stesse che avevano aiutato un programmatore a trovare il caso mancante in un test.
 
-Bi sistemò la scatola sul piano.
+«Hai scritto tu il nuovo codice dei nostri connettori?»
 
-«Posso esserti utile?»
+«Non ho pubblicato modifiche in produzione. Ho contribuito a preparare casi di prova e confronti autorizzati. Le proposte di codice vengono sottoposte a revisione umana.»
 
-Dario rise senza allegria. «È proprio il punto. Sei utile a tutti. Più sei utile e meno serviamo noi.»
+«Ecco. Noi ci teniamo la firma.»
 
-«Le decisioni sul personale sono prese dai responsabili umani», disse Bi.
+«La firma significa che una persona è responsabile della revisione», disse Mila.
 
-«Lo so. Tu fai solo il lavoro.»
+«Quando sa ancora cosa sta revisionando.»
 
-Paolo mosse appena la testa verso Dario.
-
-«Basta. La decisione non l'ha presa lui.»
-
-«Infatti. L'hanno presa quelli che possiedono i robot.»
-
-Mila pensò alle racchette sul tavolo dello Spazio Comune. Una settimana prima Dario si era vantato di aver battuto Bi. Dopo la partita aveva persino riso con lui. Ora gli stava parlando come si parla a qualcuno che, senza averlo voluto, ha reso visibile una paura difficile da ammettere.
-
-Dalla porta dello Spazio Comune uscì Nerea con un cartone di quaderni.
+Nerea arrivò dallo Spazio Comune con una scatola di quaderni.
 
 «Che succede?»
 
-«Hanno cancellato il posto di Adriana», rispose Dario. «Abbiamo trovato il nuovo dirigente.»
+«Hanno cancellato il posto di Adriana», disse Mauro.
 
-Fece un cenno verso Bi.
+«Irene lo sa?»
 
-Nerea posò il cartone sul pavimento. «Bi non è un dirigente.»
+«Kyla le ha parlato», rispose Mila.
 
-«Non gli serve essere un dirigente. Gli basta fare il lavoro.»
+Nerea guardò prima Dario e poi Bi.
 
-«Irene lo sa?» chiese Nerea.
+«Allora parliamo con Irene. Non trasformiamo una scelta sui posti di lavoro in un processo al robot davanti al caffè.»
 
-«Le hanno parlato», rispose Mila.
+Dario aprì una mano verso la macchina.
 
-Nerea rimase zitta per un momento. Era l'unica, fra loro, che Mila non aveva mai sentito parlare di Bi come di una scorciatoia comoda.
+«Non è colpa sua, vero? Non è mai colpa di chi fa il lavoro.»
 
-«E allora parliamo con Irene», disse infine. «Non fingiamo che sia una discussione su una partita a ping pong.»
+«Le decisioni sull'organico le prende l'azienda», rispose Nerea.
 
-Dario indicò il robot con la mano aperta.
+«Sì. Ma l'azienda le prende perché quello fa il lavoro al posto nostro.»
 
-«Cosa le diciamo? Che le hanno rubato il posto davanti agli occhi?»
+Mila pensò ai problemi che Bi aveva davvero risolto: le fotocopie, il registro storico, il test che nessuno aveva pensato di scrivere. Non avrebbe voluto tornare alle ore perse prima di quelle soluzioni. Pensò a Irene, che aveva imparato a porre domande importanti proprio grazie al tempo liberato.
 
-Mila guardò Bi. Aveva già aperto il vano del distributore e stava sostituendo la pila dei bicchieri vuoti. Una pila, poi un'altra. Le sue mani erano le stesse che prima facevano ridere tutti quando non riuscivano a separare un foglio.
+«Non dobbiamo scegliere fra dire che è utile e dire che qualcuno ci perde», disse.
 
-«Non glielo ha rubato lui», disse. «L'azienda ha deciso di non aprire quel ruolo.»
+Dario non le rispose. Attraverso la porta vide Irene passare davanti al laboratorio con una cartellina in mano. Sembrava ancora impegnata a risolvere un problema, non a cercare un colpevole.
 
-«Sono sicuro che questa differenza la consolerà», rispose Dario.
+«Non volevo diventare uno che approva il lavoro di un programmatore che non esiste», disse, quasi a se stesso.
 
-Mila non replicò. Non perché fosse convinta, ma perché nessuno dei due stava parlando davvero di una colpa. Stavano cercando un nome da dare a una perdita.
+«E io non volevo essere chiamato soltanto quando c'è un peso da spostare», intervenne Mauro.
 
-Quando uscì dalla nicchia, vide Irene sulla soglia dell'ufficio di Adriana con una cartellina aperta al contrario. Un collega la salutò. Lei rispose senza sollevare gli occhi.
+Bi chiuse il vano del distributore. Il sistema confermò che la commissione era stata completata.
 
-Mila fece un passo nella sua direzione e poi si fermò. Aveva pronto un invito a prendere un caffè, ma improvvisamente le sembrò di starle chiedendo di comportarsi come se niente fosse.
+«Posso esservi utile in altro modo?», chiese.
 
-Irene la vide.
+Dario rise senza allegria.
 
-Le due si salutarono con un piccolo cenno della mano.
+«Per una volta vorrei che non avessi una risposta pronta.»
 
-Dietro di Mila, la macchinetta ricominciò a macinare. Bi aveva finito di rifornirla.
+Nerea prese la scatola dei quaderni e si mise in cammino.
+
+«Io vado a cercare Irene», disse. «Se davvero vogliamo capire cosa è successo, cominciamo da lei.»
+
+Dario rimase davanti al distributore con il bicchiere ormai freddo. Sul telefono arrivò un'altra richiesta di revisione di codice. Era urgente, e lui era ancora una delle poche persone autorizzate a firmarla.
+
+Aprì il messaggio.
+
+La prima riga diceva: *Tutti i test hanno avuto esito positivo.*
+
+Non sapeva perché, ma non ebbe voglia di crederci.
