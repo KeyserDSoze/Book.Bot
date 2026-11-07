@@ -39,7 +39,7 @@ Il telefono vibrò. Elena chiedeva se le copie fossero leggibili.
 
 *Sì. E sono persino belle. Ho un problema di riferimento. Verifico il registro.*
 
-Mila aprì la funzione di supporto e assegnò a B-17 un incarico aggiuntivo: il servizio di manutenzione del giardino non compariva più tra le sue attività ordinarie. Il robot era stato riassegnato al lavoro di corridoio. La cosa aveva richiesto una autorizzazione in più e un preventivo minuscolo per il reparto; nessuno vi aveva visto una decisione sul futuro dell'azienda. Ora gli chiese di prelevare dall'archivio autorizzato la pagina del registro relativa alla convenzione precedente, portarla alla verifica B e riportarla nel contenitore chiuso a fine consultazione. Il sistema mostrò il percorso, la durata prevista, il controllo richiesto sull'accesso.
+Mila aprì la funzione di supporto. Il servizio di manutenzione del giardino non compariva più fra le attività ordinarie di B-17. Il robot era stato riassegnato alle commissioni interne, con un'autorizzazione in più e un preventivo minuscolo per il reparto; nessuno vi aveva visto una decisione sul futuro dell'azienda. Mila gli assegnò un incarico aggiuntivo: prelevare dall'archivio autorizzato la pagina del registro relativa alla convenzione precedente, portarla alla verifica B e riportarla nel contenitore chiuso a fine consultazione. Il sistema mostrò il percorso, la durata prevista, il controllo richiesto sull'accesso.
 
 Confermò la richiesta.
 
