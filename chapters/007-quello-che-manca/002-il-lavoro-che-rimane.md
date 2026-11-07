@@ -25,6 +25,30 @@ In una settimana normale Bi avrebbe preparato il confronto tra le versioni, indi
 
 Non era abbastanza per convocare i responsabili. Non era abbastanza per capire se una delle due approvazioni fosse stata data sulla base di una versione sbagliata.
 
+Irene chiese al reparto sviluppo di seguire il problema dal lato software, prima ancora di aprire il manuale. Il registro mostrava che una vecchia libreria aveva ricostruito la destinazione del documento, ma il percorso scritto nell'attestazione non coincideva con quello del repository reale.
+
+Il programmatore di turno aprì il ticket. Il riepilogo generato dall'agente diceva che la modifica più recente era corretta; tutti i test previsti risultavano verdi. Sullo schermo, però, il fascicolo non era dove il riepilogo sosteneva che fosse.
+
+«Chi ha scritto la trasformazione dei percorsi?», chiese Irene.
+
+«L'ha proposta l'agente. Bi ha controllato il terminale di prova e abbiamo approvato il rilascio.»
+
+«Chi ha letto la funzione che trasforma il vecchio identificativo in quello nuovo?»
+
+Il programmatore fece scorrere la cronologia. C'erano firme, confronti e verifiche. «Abbiamo letto la modifica. Non so se qualcuno abbia ricostruito l'intera libreria da cui dipende.»
+
+Aprì il codice originale. Un passaggio chiamava una routine dal nome di un protocollo dismesso; la routine, a sua volta, rimandava a un modulo che nessuno del turno aveva più compilato da mesi. Irene guardò quei nomi come avrebbe guardato una mappa straniera: riconosceva i luoghi importanti, non le strade.
+
+«Prima chi sapeva seguirla?»
+
+«Paolo forse ricorda il terminale. Adriana conosceva il registro. Per il codice dovrei chiamare un collega del vecchio team. Adesso segue soltanto le architetture.»
+
+«Non puoi chiedere a un agente?»
+
+«Gliel'ho chiesto. Mi restituisce la stessa spiegazione che avevamo già approvato.»
+
+Era la frase che la spaventò. La risposta non era necessariamente falsa. Era diventata però l'unica risposta che il gruppo sapeva ripetere.
+
 Irene aprì il manuale della procedura.
 
 Il manuale aveva quarantasette pagine e una nota in fondo che rinviava a un'appendice non più presente nel repository dei processi. La prima persona che avrebbe potuto dirle dove fosse era Adriana, che stava preparando gli ultimi giorni di lavoro prima della pensione.

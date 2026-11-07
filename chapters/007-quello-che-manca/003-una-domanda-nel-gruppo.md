@@ -50,7 +50,7 @@ Dario guardò la schermata.
 
 Conosceva quel registro. O meglio, conosceva la procedura che ne aveva sostituito la ricerca. Bastava aprire la conversazione di servizio con Bi, scrivere il riferimento della pratica e aspettare un riepilogo con gli allegati. Lo aveva fatto decine di volte. Più volte senza neppure controllare da dove arrivassero i documenti.
 
-Al lavoro era stato lui a proporre che anche i casi del proprio reparto passassero attraverso il nuovo flusso. Aveva detto che il sistema non aveva senso se gli esseri umani continuavano a perdere tempo a cercare faldoni.
+Al lavoro era stato lui a proporre che anche i casi del proprio reparto passassero attraverso il nuovo flusso. Aveva anche promosso l'uso degli agenti per generare automaticamente test e correzioni ai connettori, e di Bi per confrontarli con i vecchi terminali. Quando gli avevano chiesto se il gruppo conoscesse ancora tutte le dipendenze, aveva risposto che la documentazione era completa. Ora si chiedeva se conoscesse davvero ciò che aveva autorizzato. Aveva detto che il sistema non aveva senso se gli esseri umani continuavano a perdere tempo a cercare faldoni.
 
 Ricordò di averlo scritto in una mail con entusiasmo. Aveva ricevuto tre risposte di approvazione.
 

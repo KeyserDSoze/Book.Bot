@@ -38,7 +38,7 @@ Dario sorrise appena. Mauro rimise via il telefono. Avrebbe potuto salutare e pr
 
 «Mica hanno risposto alla domanda.»
 
-Dario sentiva in testa le parole di Irene: *Non potete decidere voi cosa significa per me.* Non aveva saputo cosa ribattere. Aveva creduto di aiutarla e si era ritrovato a sembrare uno che usava la sua delusione per vincere una discussione.
+Dario sentiva in testa le parole di Irene: *Non potete decidere voi cosa significa per me.* Poche ore prima aveva approvato un cambiamento a un connettore proposto dall'agente di sviluppo dopo un confronto con Bi. Il rapporto indicava tutti i test superati. Dario aveva aperto il confronto fra versioni e poi, stanco, era passato direttamente alle conclusioni. Non si era neanche chiesto da quanto tempo non leggeva una funzione dall'inizio alla fine. Quando il suo responsabile gli aveva detto «Ottimo lavoro», aveva provato fastidio per la prima volta. Non aveva saputo cosa ribattere. Aveva creduto di aiutarla e si era ritrovato a sembrare uno che usava la sua delusione per vincere una discussione.
 
 Più avanti Bi rallentò davanti a una porta automatica. La serratura impiegò qualche secondo a riconoscerne l'autorizzazione.
 

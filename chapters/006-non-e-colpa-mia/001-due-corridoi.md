@@ -84,7 +84,7 @@ Bi proseguì. Aveva ancora un lieve ritardo nel piegare il polso destro quando d
 
 Si vergognò di quella soddisfazione subito dopo.
 
-Dario Sarti arrivò dalla scala di servizio con Mauro Lanza. Mauro lavorava nella movimentazione dei materiali; Irene lo ricordava sempre di corsa da una parte all'altra del quarto piano, prima che i robot cominciassero a occuparsi delle commissioni tra reparti.
+Dario Sarti arrivò dalla scala di servizio con Mauro Lanza. Dario era uno sviluppatore del gruppo integrazioni: fino a qualche mese prima passava le mattine a ricostruire protocolli e correggere connettori. Adesso lavorava soprattutto con requisiti espressi in linguaggio naturale, revisioni sintetiche e approvazioni dei rilasci. Non era rimasto senza stipendio, ma alcune giornate cominciavano a somigliarsi così tanto che aveva smesso di raccontarle agli amici. Mauro lavorava nella movimentazione dei materiali; Irene lo ricordava sempre di corsa da una parte all'altra del quarto piano, prima che i robot cominciassero a occuparsi delle commissioni tra reparti.
 
 «Irene», disse Dario. «Ti cercavamo.»
 
