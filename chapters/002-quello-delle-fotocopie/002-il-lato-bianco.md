@@ -17,98 +17,90 @@ factions:
   - faction:cyberdine
 ---
 
-Paolo Ferri conosceva la fotocopiatrice del quarto piano abbastanza bene da distinguerne i guasti dal rumore.
+Paolo conosceva il rumore della fotocopiatrice del quarto piano da prima che Cyberdine cominciasse a vendere programmi capaci di capire documenti interi.
 
-Una vibrazione corta significava che il vassoio non era entrato fino in fondo. Due colpi metallici annunciavano quasi sempre una pagina trattenuta dai rulli. Se invece la macchina emetteva un sospiro lungo e regolare, c'era da preoccuparsi: stava per eseguire la manutenzione automatica proprio quando qualcuno ne aveva bisogno.
+Se i rulli davano due colpi secchi, il vassoio era inserito male. Se la macchina sospirava tre volte, stava per avviare la pulizia. Il guasto più fastidioso, però, non produceva suoni: un originale posato dal lato sbagliato poteva dare una copia impeccabilmente bianca.
 
-Quella mattina, vedendo arrivare B-17 con la scheda azzurra sospesa tra le dita, Paolo decise di restare vicino alla porta. Da pochi giorni la macchina era salita dai giardini al quarto piano. Quando aveva visto il tagliaerba tornare da solo nella rimessa, Paolo aveva pensato che tutto sommato l'informatica fosse un mestiere più semplice: un errore di software si corregge, una bordura tagliata storta bisogna aspettare che ricresca.
+«Facciamo una scommessa», propose Mila, entrando alle spalle di B-17.
 
-«Facciamo una scommessa», disse Mila, che lo aveva seguito per recuperare una stampa.
+«Sul foglio bianco?»
 
-«Sul fatto che si inceppi?»
+«Su quanto ci mette a chiamarti.»
 
-«Sul numero di tentativi prima che gli venga l'idea di chiamarti.»
+Paolo scosse la testa. «Se mi chiama, gli rispondo. Non lavoro per farlo fallire.»
 
-«Se mi chiama, pago io il caffè.»
+Il robot posò il contenitore, verificò il codice del documento e aprì il coperchio. Appoggiò la scheda azzurra sul vetro. La voce della procedura elencò i controlli previsti, nessuno dei quali richiedeva che una persona restasse nella stanza.
 
-B-17 entrò nella sala. La macchina delle copie occupava quasi tutta la parete; il suo coperchio nero era segnato da una striscia chiara, lasciata da anni di mani e cartelline. Accanto allo schermo sopravvivevano quattro pulsanti fisici, uno dei quali non aveva più l'etichetta.
+B-17 premette avvio.
 
-Il robot verificò il codice del documento con il lettore ottico, posò il contenitore sul banco e aprì il coperchio.
+La macchina inghiottì il primo foglio e lo restituì senza un segno.
 
-Per Paolo era la parte interessante. I modelli linguistici erano diventati bravissimi a spiegare che cosa andasse fatto. Ma lì c'erano guarnizioni consumate, carta elettrostatica e una cerniera che si fermava qualche grado prima del previsto. Nessun testo, per quanto ben scritto, trasformava un dito meccanico in un polpastrello umano.
+Mila lo sollevò. «Abbiamo trovato lo sviluppatore ideale. Non sporca una pagina.»
 
-B-17 collocò la scheda sul vetro, richiuse il coperchio e premette il pulsante di avvio.
+B-17 verificò la copia con il proprio sensore. Sullo schermo comparve **CONTENUTO NON RILEVATO**. Aprì il coperchio e guardò la scheda che aveva sistemato con tanta precisione.
 
-La fotocopiatrice si svegliò con un brontolio. Una pagina bianca uscì lentamente nel raccoglitore.
+«Il lato scritto», disse Paolo, tenendo le mani fuori dall'area di movimento. «Va verso il vetro.»
 
-Mila tese il collo. «Prima copia: minimalista.»
+«Non può semplicemente capirlo?», chiese Mila.
 
-Il robot prese il foglio, lo sollevò davanti al proprio sensore e lo rimise sul piano. Sul display di servizio comparve il confronto tra originale atteso e risultato acquisito. Una colonna segnava **contenuto non rilevato**.
+«Ha capito che la copia è sbagliata. È diverso dall'avere il polpastrello adatto a girare una carta lucida.»
 
-«Almeno controlla quello che fa», disse Paolo.
+Il robot invertì la scheda. La seconda copia mostrò la firma, ma mancavano due righe in fondo alla pagina. Il foglio aveva ruotato leggermente durante la chiusura del coperchio.
 
-B-17 aprì il coperchio. La scheda azzurra era appoggiata sul vetro con la firma rivolta verso l'alto.
+Un avviso di procedura lasciava due altri tentativi prima della sospensione. Paolo controllò il documento: non era stato graffiato, e la firma era ancora intatta.
 
-Paolo trattenne un fischio.
+«C'è una cornice magnetica», disse.
 
-«Ecco il grande segreto della carta», disse a mezza voce. «Ha due lati.»
+«Cosa?», chiese Mila.
 
-Mila scoppiò a ridere. «È l'unico in azienda che può riassumere un documento di quaranta pagine e stampare il retro di una sola.»
+«Quella che abbiamo comprato quando ci accorgemmo che il sistema di alimentazione prendeva due fogli insieme. L'abbiamo messa nel cassetto perché sembrava più scomoda del problema.»
 
-B-17 ruotò il foglio. La presa esitò sul bordo lucido e, quando lo abbassò, il documento rimase fuori squadra. Il robot richiuse il coperchio. Partì una seconda copia.
+La cercò tra un cavo elettrico, tre penne senza tappo e la custodia di un vecchio manuale. La cornice era una sottile struttura flessibile. Paolo la poggiò sul banco.
 
-La firma c'era, questa volta. Mancava una striscia sottile del testo in basso.
+«Serve l'autorizzazione di Elena per modificare il modo di tenere l'originale», aggiunse. «Non perché la cornice sia pericolosa. Perché il documento è suo e la verifica finale resta a lei.»
 
-Sul monitor comparve una nuova anomalia.
+Elena arrivò con il telefono in mano, già irritata per il ritardo. Si fermò vedendo la prima copia completamente bianca.
 
-«Questo è il punto in cui di solito qualcuno dà un pugno alla macchina», commentò Mila.
+«Non vi bastavano le tre copie richieste?»
 
-«Il nostro ragazzo non può. Siamo in zona a urti controllati.»
+«Questa», disse Mila, «è un'opera d'arte.»
 
-Paolo si accorse di aver detto *ragazzo* e non *unità*. Non ci attribuì importanza. Nel suo reparto avevano sempre dato nomi e caratteri alle macchine ostinate. Una stampante era stata chiamata la Contessa per sette anni, benché non avesse mai fatto niente di nobile.
+Paolo le spiegò il problema. Elena controllò il motivo del nuovo passaggio, approvò il tentativo con la cornice e rimase a verificare.
 
-B-17 riprovò a sollevare l'originale. Un angolo rimase aderente al vetro. La mano tornò indietro per ricalcolare la presa.
+B-17 prese l'accessorio. Lo posizionò sul vetro e vi infilò la scheda fino a quando i margini rimasero allineati. Il coperchio si chiuse con un rumore diverso, meno secco.
 
-Paolo guardò il display a parete. La procedura consentiva due ulteriori tentativi, poi sarebbe arrivata una richiesta di assistenza. Non c'era alcun pericolo; c'era soltanto un foglio che si comportava da foglio.
+La terza copia conteneva tutto.
 
-«Aspetta», disse, avvicinandosi al pannello operatore. «Questa macchina ha una cornice magnetica nel cassetto sotto. Nessuno la usa perché bisogna ricordarsi dove l'abbiamo messa.»
+Paolo confrontò le righe una per una. Elena controllò la firma. Solo dopo confermò l'esito. B-17 proseguì a produrre le altre copie e lasciò l'originale nel vassoio protetto.
 
-Aprì il vano inferiore e ne estrasse un rettangolo flessibile. Lo posò sul banco, fuori dall'area di movimento.
+«Da tagliaerba a impiegato modello», disse Mila.
 
-«Elena, puoi autorizzare l'impiego della cornice per questa copia? Serve solo a tenere fermo l'originale. La verifica finale resta tua.»
+«Modello no», rispose Paolo. «L'impiegato modello avrebbe trovato la cornice da solo.»
 
-Elena, richiamata dalla notifica, comparve sulla soglia. Lesse la richiesta, controllò la scheda e approvò il passaggio sul proprio terminale.
+Il robot lasciò il vassoio sul banco e attese che Elena confermasse la presa in carico.
 
-«Fatelo. E non rovinate la firma.»
+«Questo è il punto», disse lei, quasi a se stessa. «Se avessimo fatto tutto a mano, avremmo perso mezz'ora. Se gli avessimo fatto provare una quarta volta senza guardare, avremmo rischiato la scheda. Invece abbiamo trovato un modo di fare la cosa giusta.»
 
-L'interfaccia mostrò la nuova opzione al robot. B-17 prese la cornice, la collocò con una precisione sorprendente e inserì il foglio nel rettangolo, aiutato dai bordi rigidi.
+Nessuno rispose. Non erano in vena di una lezione di processo.
 
-«Guarda», disse Mila. «Una settimana fa tagliava il prato, adesso gli insegnano anche il verso dei fogli.»
+Mila teneva ancora la prima copia. Con una penna scrisse sul bordo: **PRIMO CAPOLAVORO DI B-17**.
 
-«Non è un righello.»
+«Non attaccarla in sala», disse Paolo.
 
-«Era una battuta, Paolo.»
+«Mai. La metto alla macchina del caffè.»
 
-Il terzo tentativo produsse una copia completa. Sullo schermo apparvero tre segni verdi: orientamento corretto, contenuto leggibile, margini presenti. B-17 avviò le copie richieste, una dopo l'altra, aspettando ogni volta il controllo visivo.
+B-17 prese il contenitore delle copie, ruotò per uscire e dovette fermarsi perché Elena era rimasta sulla porta. Lei si spostò; il robot passò.
 
-Paolo aveva visto decine di tecnici impegnati in giornate intere per problemi meno ostinati di quello. Eppure il passaggio decisivo, lì, era stato recuperare una cornice dimenticata in un cassetto.
+Paolo sentì una risata provenire dal corridoio.
 
-La macchina sputò l'ultimo foglio. B-17 raccolse le copie e dispose l'originale nel vassoio protetto.
+Guardò il cassetto dove aveva trovato la cornice. Era stata lì per anni, disponibile e dimenticata. Prese un'etichetta adesiva e scrisse **CORNICE QUI — PER ORIGINALI SOTTILI**.
 
-Mila guardò il primo foglio bianco ancora sul banco.
+Non era una miglioria al codice. Non era neppure una modifica alla macchina.
 
-«Quello lo conserviamo?»
+Eppure la volta successiva, pensò, avrebbero impiegato molto meno tempo.
 
-«Per cosa?»
+«Paolo?», lo chiamò Mila dalla nicchia. «B-17 ha fatto una copia che non serve a nessuno e adesso tutti vogliono vederla.»
 
-«Per il giorno in cui diventa amministratore delegato. Gli facciamo vedere com'era partito.»
+«Succede anche con le presentazioni aziendali», rispose.
 
-Paolo rise, ma abbassò la voce quando il robot gli passò accanto con i documenti in ordine. Aveva compiuto quattro passi prima che lui si accorgesse dell'assurdità di quel riflesso: non c'era nessuno che potesse essere disturbato da una risata.
-
-O, per essere precisi, nessuno a cui il regolamento della sala copie chiedesse di badare.
-
-B-17 oltrepassò la porta. Dal monitor arrivò l'avviso della consegna successiva.
-
-Paolo fece sparire la copia bianca nella raccolta carta. Poi prese un pennarello e scrisse sul bordo del cassetto della fotocopiatrice: **CORNICE, QUI.**
-
-Per una volta il suo intervento di manutenzione richiese meno di un minuto.
+Rimise la cornice nel cassetto, stavolta sul davanti.

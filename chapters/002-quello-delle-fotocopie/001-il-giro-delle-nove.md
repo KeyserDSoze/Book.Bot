@@ -17,116 +17,94 @@ factions:
   - faction:cyberdine
 ---
 
-«Chi ha preso il foglio azzurro?»
+La stampante iniziò a tossire alle nove e dodici, cinque minuti prima che Elena Riva scoprisse di aver bisogno di un foglio azzurro.
 
-Elena Riva lo domandò senza alzare la voce. Era sufficiente. Nel suo reparto esistevano due generi di emergenza: quelle per cui suonava un allarme e quelle in cui Elena cercava qualcosa.
+Il rumore veniva da una macchina del terzo piano; il foglio era nell'archivio quattro. Elena aveva imparato a non confondere mai la coincidenza con una relazione di causa. Il problema reale era una pratica in attesa di tre confronti, tutti possibili soltanto dopo aver visto l'originale firmato.
 
-Alle nove e diciassette del mattino la seconda categoria riguardava una scheda firmata a mano, stampata su una carta sottile e leggermente lucida, che l'ultimo aggiornamento dei sistemi non era riuscito a rendere inutile. L'originale doveva essere confrontato con tre fascicoli di verifica prima che una pratica potesse proseguire. I fascicoli erano sul tavolo. La scheda di confronto, invece, era rimasta nell'archivio quattro.
+«Posso mandare il file?», chiese una collega.
 
-La sedia vuota di fronte a Elena aveva ancora una giacca appoggiata sullo schienale. La proprietaria della giacca stava seguendo un corso che, fino al mese precedente, aveva sempre rimandato per mancanza di tempo.
+«Il file non è l'originale.»
 
-Elena non avrebbe interrotto quel corso per una fotocopia.
+«Ma il sistema dice che è verificato.»
 
-Aprì la schermata delle attività disponibili. Sotto una fila di richieste comparve l'identificativo **B-17**, con un cerchietto verde. Fino alla settimana precedente quell'unità aveva tagliato l'erba e spostato attrezzi tra i giardini del campus. Il servizio generale l'aveva destinata a commissioni interne, dopo aver verificato che potesse attraversare i piani e manipolare materiali senza danneggiarli. Il verbale parlava anche di richieste comprese al primo tentativo in situazioni che prima avevano bisogno di un operatore. Nessuno sapeva dire se dipendesse dall'esperienza accumulata, dalla qualità delle istruzioni o da una differenza non prevista nella versione in uso. Elena aveva letto quel dato senza soffermarsi: se la macchina era autorizzata, poteva iniziare con una fotocopia. Non era diventata improvvisamente una specialista di ufficio. Doveva soltanto imparare un altro mestiere di piccole cose.
+«Il sistema dice che qualcuno ha verificato il file. Io ho bisogno di controllare anche la firma sulla revisione che è entrata nel contratto.»
 
-Scrisse: *Ritira la scheda azzurra dal cassetto autorizzato dell'archivio quattro. Produci tre copie leggibili fronte singolo. Consegna una copia alla postazione verifica B, due alla mia scrivania. Originale nel vassoio protetto.*
+La collega guardò l'orologio. Aveva il corso di formazione alle nove e mezza; negli ultimi due anni lo aveva saltato sempre per qualcosa di urgente. Elena la vide esitare sulla porta.
 
-Il sistema mostrò il percorso previsto, i dispositivi consentiti e una nota di controllo: la riproduzione era ammessa, la convalida del documento no. Elena confermò.
+«Vai», le disse. «Ci penso io.»
 
-Dall'altra parte della parete vetrata, B-17 si staccò da una postazione, allineò il contenitore che portava con un carrello in attesa e prese il corridoio centrale. Elena lo vide passare accanto al distributore d'acqua, rallentare davanti a due impiegati usciti da una sala riunioni e svoltare dietro l'angolo.
+Aprì il pannello delle attività del campus. Il servizio interno aveva riassegnato B-17 dai giardini alle commissioni d'ufficio. Nel registro risultavano prove sui percorsi, sui carichi e sulla presa di oggetti fragili. Una nota parlava di «migliore interpretazione delle richieste verbali» e proponeva di ridurre le istruzioni ridondanti. Elena non conosceva l'autore della nota. Non le sembrò un motivo per affidargli il controllo di un contratto.
 
-Quando si risiedette, la schermata segnalava che l'attività era in corso. Sul terminale accanto era rimasta aperta la coda del reparto sviluppo: un agente software aveva proposto di correggere tre righe di un connettore, e un programmatore stava controllando il confronto con il codice precedente. Quello era lavoro che non richiedeva né gambe né mani metalliche. Elena aveva chiesto un robot soltanto perché l'originale firmato stava ancora in un cassetto reale.
+Gli affidò un compito più semplice.
 
-Avere una commissione eseguita senza dover telefonare a tre persone restava, per Elena, una forma concreta di civiltà.
+*Prendi dall'archivio quattro la scheda azzurra, fai tre fotocopie leggibili. Riporta l'originale al vassoio protetto. Non convalidare la pratica.*
 
-Si mise a controllare la pratica successiva.
+La schermata le chiese di confermare il percorso e le autorizzazioni d'accesso. Elena lesse la prima riga, controllò la seconda e approvò. La macchina era libera. Nessuno doveva abbandonare il proprio tavolo.
 
-Pochi minuti più tardi uscì per prendere un caffè. La macchinetta era in una nicchia tra l'ascensore e l'ingresso del reparto, un luogo in cui le persone si ritrovavano abbastanza spesso da scambiarsi notizie importanti fingendo di parlare soltanto di zucchero.
+Alla postazione vicina un agente di sviluppo aveva appena proposto una piccola modifica al programma che metteva in comunicazione le anagrafiche dei clienti. Un programmatore stava leggendo la differenza fra la versione in uso e quella nuova. Nel messaggio di accompagnamento c'era scritto: *test passati, nessun impatto previsto*. Elena non poteva verificarlo da sola e non era suo compito. Pensò soltanto che, nel tempo necessario a far partire una commissione, lì accanto qualcuno aveva già chiesto a un sistema di scrivere codice.
 
-Paolo Ferri aspettava che il suo bicchiere si riempisse. Mila Corsi lo affiancava con un'espressione insofferente che Elena conosceva bene.
+Andò a prendere il caffè.
 
-«La macchina ti ha dato il decaffeinato?» chiese Elena.
+Paolo Ferri era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Mila Corsi teneva in mano il contenitore del pranzo.
 
-«Peggio», disse Mila. «Paolo mi ha spiegato di nuovo come funziona.»
+«Paolo ha deciso che il mio frigorifero deve essere ridondante», disse Mila. «Ha spostato le lasagne accanto al ghiaccio.»
 
-Paolo alzò un dito. «Non si può chiedere rispetto per le macchine e poi pretendere che il caffè esca da solo.»
+«Era il primo spazio libero», protestò Paolo.
 
-«Perché no? Qui è esattamente quello che facciamo.»
+«Nel nostro reparto abbiamo software capaci di trovare una dipendenza in tremila file. Paolo non trova un ripiano.»
 
-«Comunque qualcuno mi deve un pranzo», disse Mila.
+Elena rise. Attraverso la vetrata vide B-17 avanzare verso l'archivio con un contenitore vuoto.
 
-Paolo sollevò gli occhi dal bicchiere. «Io?»
+«Quello è il nuovo del quarto piano?», chiese Mila.
 
-«Mi hai spostato la vaschetta dal frigorifero. Le lasagne sono finite accanto al contenitore del ghiaccio.»
+«Nuovo per noi. La settimana scorsa tagliava l'erba vicino al parcheggio.»
 
-«Facevano condensa.»
+«Una carriera rapida.»
 
-«Erano lasagne, Paolo. Non un originale da proteggere.»
+«Una commissione», precisò Elena. «Non esageriamo.»
 
-Elena rise. Mila non riuscì a rimanere offesa più di un secondo, ma mise subito in chiaro che alle tredici avrebbe mangiato seduta, senza essere chiamata a spostare sedie o recuperare fogli. Nessuno promise di non disturbarla.
+B-17 rallentò davanti al cestino della carta che ostruiva parte del passaggio. Paolo era fermo esattamente sull'altro lato. Il robot misurò lo spazio, trovò il corridoio troppo stretto e attese.
 
-Un lieve rumore di passi meccanici raggiunse la nicchia. B-17 comparve dietro l'angolo. Portava un contenitore vuoto e procedeva verso l'archivio quattro, proprio al termine del corridoio. Nessuno gli fece caso finché non tentò di passare tra il cestino della raccolta carta e la schiena di Paolo.
+«Hai un collega che vuole passare», disse Elena.
 
-Il robot si fermò.
+Paolo si spostò con il caffè. «Prego, ingegnere.»
 
-Paolo rimase dov'era.
+«Non è un ingegnere», replicò Mila.
 
-B-17 spostò di pochi centimetri il peso sulle gambe, misurò di nuovo il varco e attese.
+«Neanche la macchinetta del caffè. Eppure qui ha una sua autorità.»
 
-Elena trattenne un sorriso. «Paolo, credo che tu stia bloccando una corsia.»
+Il robot passò. Dall'archivio arrivò il rumore secco della serratura che riconosceva un'autorizzazione valida. Il cassetto si aprì e B-17 vi infilò due dita.
 
-«Io? È lui che vuole passare nel mio ufficio.»
+Non riuscì a staccare il foglio.
 
-«Per la precisione», disse Mila, «è il tuo ufficio che ha voluto mettere il cestino nel suo corridoio.»
+Lo riprovò con una diversa pressione. Il bordo scivolò sulle dita opache, poi si riappoggiò alla carta sottostante.
 
-Paolo fece un passo a lato, con il bicchiere in mano. Il robot attraversò il varco senza sfiorarlo.
+Paolo si sporse. «Quella carta è la peggiore.»
 
-«Prego, direttore», lo salutò Paolo.
+«È quella che accetta il cliente», rispose Elena.
 
-«Direttore di che?», chiese Mila.
+«Non è una ragione tecnica.»
 
-«Non lo so. Ma cammina già come uno che ha una riunione.»
+«In un contratto può diventarlo.»
 
-B-17 raggiunse l'archivio. La serratura si illuminò quando presentò il codice autorizzato; il cassetto numero quattro si aprì abbastanza da lasciargli spazio per la mano.
+B-17 cambiò la presa, sollevò un angolo e tirò piano. La scheda si incurvò come una foglia bagnata. Per alcuni secondi il robot rimase fermo, tenendola a mezz'aria.
 
-Elena lo osservò da lontano. Aveva quasi dimenticato quanto fosse difficile prendere un solo foglio da una pila.
+Mila guardò la scena. «È buffo sapere che ha un modello linguistico e non sa tenere un foglio.»
 
-Il robot aprì le dita, le abbassò sul bordo della carta e si fermò. Richiuse la presa. Tirò.
+«Le mani non sono parole», disse Paolo. «E quello è un foglio difficilissimo.»
 
-Non uscì niente.
+Elena osservò il pannello. Il controllo segnava ancora *entro tolleranza*. Non intervenne. Voleva capire fino a che punto il nuovo incarico fosse davvero adatto all'unità.
 
-Riprovò con un'angolazione diversa. Il foglio si sollevò appena, scivolò contro il successivo e ricadde nel cassetto.
+Alla fine B-17 depose la scheda nel contenitore, chiuse il cassetto e si voltò. Passando accanto a Elena rallentò, come se avesse bisogno di lasciarle la strada.
 
-Mila seguì la scena con la tazzina a mezz'aria.
+«Originale recuperato», disse.
 
-«Abbiamo comprato un'intelligenza che sa riscrivere una procedura in tre lingue.»
+La voce era quella standard delle unità del campus, ma Elena si accorse che la risposta arrivava esattamente dove serviva. Non comunicava un successo complessivo; soltanto una fase compiuta.
 
-«Quattro», la corresse Paolo.
+«Bene. Ora vediamo se riesci a copiarlo.»
 
-«E non riesce a prendere un foglio.»
+Il robot riprese il cammino.
 
-B-17 alzò di nuovo la mano. Questa volta afferrò due angoli insieme. I fogli si separarono per qualche centimetro, poi tornarono ad aderire con un fruscio secco.
+Paolo bevve finalmente il caffè e fece una smorfia.
 
-Elena si avvicinò, ma non intervenne subito. Sul pannello dell'archivio compariva ancora **operazione entro tolleranza**. Il sistema stava provando un'altra modalità di presa.
-
-Un tempo sarebbe andata lei a fare tutto il giro. Dall'archivio alla fotocopiatrice, dalla fotocopiatrice alla verifica, dalla verifica di nuovo all'archivio perché mancava una data o una firma. Aveva calcolato quanta parte delle sue mattine se ne fosse andata così. Il risultato le aveva fatto più impressione di qualsiasi grafico mostrato dal Marketing.
-
-B-17 riuscì a staccare il primo foglio.
-
-Lo tenne sospeso tra due dita. Ruotò il polso per allinearlo al contenitore. La carta si incurvò sotto il proprio peso e un angolo gli sfuggì. Il foglio non cadde: rimase appeso di traverso, come un fazzoletto preso male.
-
-Alle spalle di Elena, Paolo soffocò una risata.
-
-«Mi somiglia il lunedì mattina.»
-
-«Tu il lunedì fai peggio», rispose Mila. «Il foglio almeno lo trovi.»
-
-Elena controllò che la scheda non si fosse piegata sulla firma. Era intatta.
-
-Sul terminale apparve una nuova notifica: **originale recuperato**.
-
-«Visto?» disse Elena, facendo spazio al robot. «Non è elegante, ma arriva.»
-
-B-17 si avviò verso la sala copie.
-
-Paolo bevve un sorso e fece una smorfia. «Il mio caffè, invece, continua a non arrivare a niente.»
+«Quella», disse, «è l'unica macchina del piano che non dovrebbe imparare niente.»
