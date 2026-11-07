@@ -5,16 +5,16 @@ chapter: chapter:016-la-seconda-porta
 number: 1
 title: La casella sbagliata
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions:
   - faction:lanter-robotics
 ---
 
-Mei Lin rimase davanti alla schermata di assistenza fino a quando il caffè le diventò freddo.
+Mei Chen rimase davanti alla schermata di assistenza fino a quando il caffè le diventò freddo.
 
 A Suzhou erano le otto e mezza del mattino. Sul bordo della scrivania c'era l'orologio che sua madre le aveva lasciato anni prima. Perdeva due minuti ogni settimana. Mei era capace di riconoscere uno scarto minimo in un sistema di attestazioni, ma per quell'orologio continuava a dire «lo faccio domenica» da mesi. La madre le aveva mandato il contatto di un riparatore e poi aveva smesso di domandare.
 
@@ -26,7 +26,7 @@ Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberd
 
 Mei mise fianco a fianco la pratica riservata di Veyra e la scheda consultata da Cyberdine. Il documento completo era rimasto nell'archivio del primo cliente. Ma il motore di ricerca aveva trasformato l'inizio della lettera in una descrizione tecnica, visibile nella seconda scheda.
 
-Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Nerea appariva sotto un'etichetta verde: *contenuto indicizzabile*.
+Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Maya appariva sotto un'etichetta verde: *contenuto indicizzabile*.
 
 Mei scorse l'elenco degli accessi. Un sistema autorizzato di Cyberdine aveva recuperato l'estratto durante una verifica di compatibilità di B-21. Non risultava che il robot avesse interrogato un'altra unità per iniziativa propria. Non risultava nemmeno che la lettera completa fosse stata restituita al cliente italiano.
 
