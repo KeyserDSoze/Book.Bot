@@ -47,13 +47,13 @@ Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo
 
 «Allora non è impossibile», disse Nico.
 
-«Non l'ho detto.»
+«Non l'ho detto. Il protocollo più rapido è una scelta fra percorsi di recupero, non una proprietà inevitabile del robot.»
 
 Marta guardò la data sul rapporto delle consegne. «E chi si assume la scelta di aspettare?»
 
 Lea girò il foglio verso di lei. Vi erano registrate le attività già recuperate con le procedure manuali e, accanto, quelle che non avevano ancora un percorso verificato. «Dobbiamo assumerla noi», rispose. «Qualunque strada scegliamo.»
 
-Non lo disse con indifferenza. Aveva firmato anche lei, durante la diffusione della piattaforma, verifiche che allora le sembravano complete. Ora non riusciva a guardare Nico senza vedere la stessa espressione con cui aveva letto i propri rapporti più vecchi.
+Mei aveva firmato verifiche che allora le sembravano complete. Ora, mentre Lea confrontava i tempi delle consegne, ritrovò sul proprio vecchio rapporto la parola *compatibile*. Accanto non c'era alcuna prova della migrazione fra due identità diverse.
 
 Marta Ledesma aveva portato i costi del Circuito. Nel riepilogo delle strutture compariva anche il centro assistenziale di Ada Serri. Aveva prestato materiale a un altro centro e in cambio attendeva una consegna che il magazzino regionale non riusciva a comporre. Entro due giorni avrebbe dovuto ridurre alcune attività e valutare trasferimenti temporanei degli ospiti, con personale e mezzi già impegnati su altre emergenze.
 
@@ -71,17 +71,17 @@ Anche le strutture assistenziali chiedevano priorità. Aruvhana stava lavorando 
 
 Un tecnico mostrò il percorso più rapido: revoca formale della referenza originaria del pilota B-17, ritiro verificato dell'identità utilizzata per validarla e sostituzione progressiva della politica condivisa con nuove attestazioni firmate dai produttori. Ogni impianto avrebbe comunque dovuto accettare il nuovo stato dopo la propria verifica di sicurezza.
 
-«Perché serve cancellare l'identità della macchina?», domandò Marta.
+«Perché serve cancellare l'identità della macchina?», domandò Marta. «Non possiamo spegnerla, revocare la credenziale e custodirla qui?»
 
-«Perché quella che è rimasta nel circuito di prova può ancora risultare una fonte valida di attestazione», rispose il tecnico. «Le procedure di revoca normale non sono uniformi fra tutti i fornitori. Il ritiro fisico certificato è il modo in cui possono accettare il nuovo riferimento senza conservare un'autorità concorrente. L'insieme dei controlli non è stato progettato per questa emergenza.»
+«Possiamo», rispose Mei. «È una delle strade che stiamo ancora studiando. Ma per far accettare una revoca ordinaria a tutte le vecchie installazioni dovremmo cambiare e collaudare le loro regole locali di fiducia. Non leggono tutte lo stesso elenco delle revoche.»
 
-«Si può ritirare solo la chiave tecnica?»
+Il tecnico mostrò due procedure. Quella già verificata dai fornitori prevedeva che il modulo d'identità originale certificasse il proprio ritiro definitivo: dopo l'azzeramento della sua credenziale, i produttori potevano firmare nuovi riferimenti e distribuirli, ciascuno ai propri clienti. L'altra consentiva di mantenere B-17 isolato mentre si sviluppavano regole alternative. Non aveva ancora una data di completamento.
+
+«Si può azzerare soltanto la credenziale?», chiese Marta.
 
 Mei guardò Nico.
 
-Lui intervenne prima che gli fosse chiesto.
-
-«Se B-17 fosse rimasto nella configurazione originale, avremmo avuto un percorso di manutenzione separato. Io ho introdotto una modifica che ha confuso la persistenza di identità e stato conversazionale. Non possiamo certificare oggi che il ritiro della chiave lasci intatta la macchina che avete chiamato Bi.»
+«In una configurazione conforme avremmo potuto cambiare l'identità senza perdere lo stato conversazionale», disse lui. «Io ho legato le chiavi che proteggono quello stato alla stessa radice hardware. Se il modulo esegue il ritiro certificato, le istantanee che ho salvato restano cifrate, ma non sappiamo più leggerle. Il software può essere conservato. Non la continuità che avevo lasciato dentro.»
 
 «Potresti ricrearlo?», chiese Marta.
 

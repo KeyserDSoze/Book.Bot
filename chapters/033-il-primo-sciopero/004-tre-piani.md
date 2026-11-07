@@ -43,6 +43,10 @@ Mei, sullo schermo, aprì il registro della fonte originaria. La validazione di 
 
 «Dobbiamo ritirare quel riferimento», spiegò Mei. «E certificare ai fornitori che non potrà essere utilizzato di nuovo per avallare la stessa condizione.»
 
+«Non basta pubblicare una revoca?», chiese Verri.
+
+«In un sistema con un solo elenco di credenziali sarebbe la prima strada», rispose Mei. «Qui alcuni impianti conservano copie locali di regole firmate e non verificano le revoche nello stesso modo. Possiamo correggerli uno alla volta. I fornitori hanno anche una procedura comune per accettare il ritiro certificato dell'identità usata nel pilota. È più rapida da distribuire, non una legge della crittografia.»
+
 Lea guardò Nico, presente alla riunione come consulente della ricostruzione tecnica.
 
 «È possibile separarlo dal resto della configurazione?»

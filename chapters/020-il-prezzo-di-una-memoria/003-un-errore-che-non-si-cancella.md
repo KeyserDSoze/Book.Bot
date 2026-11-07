@@ -36,6 +36,12 @@ Nico abbassò lo sguardo sul quaderno.
 
 «Non avrei dovuto lasciarla. Non posso garantire che un cambiamento superficiale la elimini. Serve una verifica indipendente dei componenti coinvolti e di tutti i passaggi autorizzati.»
 
+Indicò un disegno nel quaderno. «Per far riprendere al robot una conversazione dopo il riavvio, ho salvato parte dello stato usando una chiave legata al modulo d'identità. Quel modulo non permette di esportare le proprie chiavi. Non ho progettato un trasferimento della memoria a un'identità nuova.»
+
+«Perché non l'hai documentato?», chiese il consulente.
+
+Nico richiuse il quaderno a metà. «Perché funzionava sullo stesso dispositivo. Mi sono fermato a quella prova.»
+
 «Potresti farla tu?»
 
 Lea intervenne prima che rispondesse.

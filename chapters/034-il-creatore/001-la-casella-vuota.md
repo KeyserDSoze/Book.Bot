@@ -47,9 +47,9 @@ Sul telefono arrivò la conferma di un'ulteriore prova di recupero. I tecnici di
 
 Era ciò che lui desiderava più di qualunque altra cosa.
 
-Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato di conservare lo stato del robot durante i riavvii. Il modulo tecnico e alcune parti della memoria contestuale erano trattati come un unico insieme di recupero. Allora gli era sembrato un modo per non perdere i miglioramenti di comportamento dopo una riparazione.
+Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato di conservare lo stato del robot durante i riavvii. Aveva legato la chiave che proteggeva le istantanee conversazionali alla radice hardware del modulo d'identità. Sullo stesso B-17 il riavvio recuperava quelle istantanee. Su un modulo nuovo non aveva verificato come leggerle senza violare le protezioni.
 
-Non aveva mai collaudato un ritiro irreversibile di quell'identità.
+Non aveva mai collaudato un ritiro irreversibile di quella radice. Quando l'identità fosse stata azzerata, conservare i file cifrati non sarebbe bastato a restituire le conversazioni.
 
 Nel quaderno la procedura si chiamava *eliminazione dello stato non certificato*. Nico si sorprese a rileggere il nome anziché la descrizione. Per un tecnico era un modo preciso di delimitare un intervento. Per un uomo che aveva sentito B-17 dire «Alcune persone mi chiamavano Bi», quella precisione cominciava ad assomigliare a una difesa.
 
