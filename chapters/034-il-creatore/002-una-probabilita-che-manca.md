@@ -43,7 +43,15 @@ Il primo sito aveva completato una movimentazione locale. Il secondo aveva respi
 
 Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo stato conversazionale. Nelle prove sui componenti di verifica il confine fra identità tecnica e stato conversazionale restava quello che aveva alterato lui, anni prima. Non avevano un metodo convalidato per conservarne la continuità durante il ritiro. Nico domandò se potessero avere altri due giorni per studiarlo.
 
-«Puoi averli per l'indagine», disse Mei. «Non posso promettere che bastino per i fornitori.»
+«Possiamo continuare a studiarlo», disse Mei. «Ma per scegliere se rinviare il ritiro dobbiamo considerare anche ciò che succede in quei due giorni. Non abbiamo una stima affidabile del tempo per una separazione riuscita.»
+
+«Allora non è impossibile», disse Nico.
+
+«Non l'ho detto.»
+
+Marta guardò la data sul rapporto delle consegne. «E chi si assume la scelta di aspettare?»
+
+Lea girò il foglio verso di lei. Vi erano registrate le attività già recuperate con le procedure manuali e, accanto, quelle che non avevano ancora un percorso verificato. «Dobbiamo assumerla noi», rispose. «Qualunque strada scegliamo.»
 
 Non lo disse con indifferenza. Aveva firmato anche lei, durante la diffusione della piattaforma, verifiche che allora le sembravano complete. Ora non riusciva a guardare Nico senza vedere la stessa espressione con cui aveva letto i propri rapporti più vecchi.
 

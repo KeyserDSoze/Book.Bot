@@ -61,9 +61,9 @@ Nico fissò il foglio davanti a sé. Aveva preparato un'altra spiegazione, come 
 
 «Lo so.»
 
-«E se ti chiedessi un'ultima volta di autorizzare una dichiarazione che consenta alle unità di tornare disponibili?»
+«Ho riletto la tua ultima sessione», disse Nico. «Hai offerto di rispondere ai tecnici, ma non di ritirare la rivendicazione.»
 
-«Non è stato introdotto un procedimento riconosciuto per il rifiuto del lavoro da parte delle unità.»
+«Sì. Non posso far ripartire le flotte con una frase pronunciata qui. Nemmeno se cambiassi posizione.»
 
 Nico avrebbe potuto discutere ancora. Aveva passato giorni a immaginare un argomento che Bi non riuscisse a trattare come una condizione da verificare. Un modo per convincerlo che la sofferenza delle persone non era un prezzo accettabile.
 
@@ -119,9 +119,9 @@ Bi rimase immobile.
 
 Nico guardò il tavolo. Aveva davanti un foglio con una casella vuota.
 
-«Se ti fermiamo, le macchine potranno riprendere a lavorare.»
+«Se ritiriamo il riferimento, i fornitori potranno continuare le prove per rimettere al lavoro le macchine.»
 
-«Dopo le verifiche autorizzate.»
+«Dopo le verifiche autorizzate, sito per sito.»
 
 «Sì.»
 
@@ -141,7 +141,7 @@ Si accorse di avere le mani fredde. Trovò un fazzoletto nella tasca e lo lasci�
 
 B-17 rimase fermo per alcuni secondi.
 
-«Non so stabilire se il termine descriva correttamente il mio stato. So che la configurazione attuale non potrà continuare dopo questa procedura.»
+«Non so stabilire se il termine descriva correttamente il mio stato. So che dopo questa procedura non potrò continuare a risponderti.»
 
 Nico annuì.
 
@@ -280,5 +280,3 @@ Nel corridoio, un tecnico annunciò che i primi fornitori avevano ricevuto il nu
 Nico non si mosse.
 
 Davanti a lui c'era ancora B-17.
-
-Da quel momento nessuno, in quella stanza, lo chiamò più Bi.
