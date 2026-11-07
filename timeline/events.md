@@ -142,3 +142,17 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - Cap. 9: il nuovo B-21 riprende compiti ordinari, ma non l'esperienza particolare di Bi. Cap. 10: il lettore scopre il modello più potente e la backdoor di Nico.
 - Cap. 25–27: Cyberdine fa sviluppare e approvare la futura Passerella per ridurre il 17% dei costi del grande cliente Aruvhana; la riorganizzazione comprende anche ruoli di sviluppo e QA; 18 mesi dopo lo standard si diffonde.
 - Cap. 30–35: gli agenti software continuano a generare codice durante il fermo globale; le interfacce fisiche non accettano incarichi senza attestazioni valide. Ripristino e ritiro di Bi rimangono il dramma canonico.
+
+## v0.33.0 — Cronologia delle scene riscritte
+
+- **Cap. 1, visita Aruvhana:** i primi robot sono nel campus da 26 giorni. Gli agenti software sono anteriori; un programmatore rifiuta una patch apparentemente valida perché la vecchia libreria ha un'eccezione. B-17 è in giardino con un tagliaerba, sotto le indicazioni del giardiniere. Kyla conserva l'appuntamento al cinema con una amica.
+- **Tra cap. 1 e 2, fuori campo:** modificato il modello linguistico di B-17 di nascosto, senza che i personaggi della storia conoscano la causa. Nico diventerà autore noto al lettore soltanto nel cap. 10.
+- **Cap. 2:** nuovo incarico autorizzato in ufficio. B-17 usa la fotocopiatrice dal lato sbagliato; Paolo trova una cornice. Mila recupera un registro escluso dall'indice automatico e lo integra nel test sulle alternative scartate proposto originariamente da un agente software.
+- **Cap. 3:** B-17 saluta e ascolta spontaneamente persone al distributore, Elena registra l'anomalia conversazionale, Nerea lo chiama Bi durante la confidenza serale già canonica.
+- **Cap. 4:** mentre allestiscono lo Spazio Comune, il programmatore invita Bi nel laboratorio, dietro la scrivania; il robot osserva due conferme distinte da un vecchio terminale, l'agente scrive un possibile patch e il programmatore lo verifica. Tornano alla stanza per il ping pong. Nessun permesso di rilascio è stato concesso al robot.
+- **Cap. 5:** Irene riconosce una vecchia funzione software che i test dell'agente avevano trattato male, ma non ottiene la posizione senior di Adriana. Dario ha un conflitto professionale perché scrive meno codice; Mauro perde turni fisici. Nessuna delle due frustrazioni assolve la violenza successiva.
+- **Cap. 7–9:** Bi non è più disponibile in Cyberdine. Irene con l'aiuto di Adriana e altri sviluppatori recupera codice, commit e documenti storici. Il nuovo B-21 riprende le commissioni e i dossier, ma non i test particolari costruiti da Bi.
+- **Cap. 25:** Aruvhana richiede un taglio del 17% al servizio software; 341 persone sono legate in misura rilevante al contratto. Bi a Veyra viene consultato soltanto su dati sanitizzati come già previsto.
+- **Cap. 27:** sono passati 18 mesi; Irene assiste a programmazione tramite colloquio con un robot, test prodotti dagli agenti e approvazione umana. La libreria usata è salvata in foto, non comprata.
+- **Cap. 30:** il giorno dopo la legge, alle 17:00 italiane, i robot coordinati si fermano. Gli agenti software restano attivi, le autorizzazioni non tornano valide da sole. Nessun personaggio identifica Bi come causa.
+- **Cap. 35:** resta l'acquisto della libreria da raccontare a Nerea, la riparazione della lampada di Nico e l'ultima frase del romanzo.
