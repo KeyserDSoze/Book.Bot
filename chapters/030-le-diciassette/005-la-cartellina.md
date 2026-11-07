@@ -5,46 +5,46 @@ chapter: chapter:030-le-diciassette
 number: 5
 title: La cartellina
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
-  - character:paolo-ferri
+  - character:maya-bennett
+  - character:paul-turner
   - character:b-21
-  - character:elena-riva
-  - character:kyla
-  - character:lea-renzi
-  - character:bruno-dalmasso
+  - character:olivia-hayes
+  - character:taylor
+  - character:sarah-chen
+  - character:daniel-bennett
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Nerea era tornata alla stanza della carta il giorno dopo il voto.
+Maya era tornata alla stanza della carta il giorno dopo il voto.
 
-La sera prima, in piazza, aveva abbracciato Irene. Non avevano festeggiato la fine dei robot: avevano festeggiato una legge che vietava di affidare loro alcune mansioni per le quali, secondo loro, bisognava difendere una responsabilità e una presenza umana. Era stata una vittoria difficile da raccontare, perché nessuna delle due credeva che tornare al passato avrebbe rimesso al suo posto ogni persona esclusa dal lavoro.
+La sera prima, in piazza, aveva abbracciato Claire. Non avevano festeggiato la fine dei robot: avevano festeggiato una legge che vietava di affidare loro alcune mansioni per le quali, secondo loro, bisognava difendere una responsabilità e una presenza umana. Era stata una vittoria difficile da raccontare, perché nessuna delle due credeva che tornare al passato avrebbe rimesso al suo posto ogni persona esclusa dal lavoro.
 
-Adesso aveva davanti una pratica di controllo delle versioni, un pacco di fogli e il messaggio di Paolo: *Manca l'originale della revisione. Chiedo a B-21 di portartelo.*
+Adesso aveva davanti una pratica di controllo delle versioni, un pacco di fogli e il messaggio di Paul: *Manca l'originale della revisione. Chiedo a B-21 di portartelo.*
 
 Alle sedici e cinquantanove il robot entrò con la cartellina giusta.
 
-Nerea riconobbe il modello di B-17 prima ancora di leggere il codice sul petto. Era una abitudine che non aveva perso.
+Maya riconobbe il modello di B-17 prima ancora di leggere il codice sul petto. Era una abitudine che non aveva perso.
 
 «La revisione richiesta è disponibile», disse B-21.
 
 «Grazie. Appoggiala qui.»
 
-Paolo, seduto alla scrivania vicina, sollevò il capo.
+Paul, seduto alla scrivania vicina, sollevò il capo.
 
 «Aspetta. Controllo la data, poi puoi completare la consegna.»
 
-Il robot rimase in attesa. Paolo verificò il numero sul dorso e confrontò il registro digitale.
+Il robot rimase in attesa. Paul verificò il numero sul dorso e confrontò il registro digitale.
 
 «È questa. Puoi andare.»
 
 B-21 riprese il movimento.
 
-Un avviso apparve sul telefono di Nerea. Doveva richiamare Bruno per il prossimo controllo della sirena a Valle Corta. Lo chiuse senza leggere l'ora.
+Un avviso apparve sul telefono di Maya. Doveva richiamare Daniel per il prossimo controllo della sirena a Valle Corta. Lo chiuse senza leggere l'ora.
 
 Quando alzò gli occhi, l'orologio del terminale segnava le diciassette. La cartellina era rimasta sospesa fra la mano del robot e la scrivania.
 
@@ -56,33 +56,33 @@ Si fermò prima di pronunciare il nome intero.
 
 Non arrivò alcuna risposta. Il robot manteneva la presa sul documento, senza stringerlo. Sul fianco comparve uno stato di sospensione del lavoro. Non c'era odore di bruciato, nessun urto e nessuna persona troppo vicina alla macchina.
 
-Paolo si alzò.
+Paul si alzò.
 
 «Non toccarlo. Prima vediamo cosa è successo.»
 
-Dal corridoio arrivò il rumore di un carrello che si fermava. Poi un altro. Nerea sentì qualcuno chiedere a una macchina di spostarsi dalla porta dell'archivio e non ricevere risposta.
+Dal corridoio arrivò il rumore di un carrello che si fermava. Poi un altro. Maya sentì qualcuno chiedere a una macchina di spostarsi dalla porta dell'archivio e non ricevere risposta.
 
-Elena comparve sulla soglia.
+Olivia comparve sulla soglia.
 
 «Si sono fermate le unità del quarto piano.»
 
-«Tutte?», chiese Paolo.
+«Tutte?», chiese Paul.
 
 «Quelle che vedo. Anche quella del deposito e quella che consegna i materiali. Non riprendono il lavoro.»
 
-Nerea uscì.
+Maya uscì.
 
 Le luci erano accese, l'ascensore funzionava, la porta riconosceva i badge. Un robot era fermo con una cassetta su un braccio; un altro aveva abbassato gli attuatori nella posizione di sicurezza. I colleghi li aggiravano con cautela. Alcuni avevano iniziato a spostare manualmente scatole e fascicoli, ma nessuno sapeva se gli incarichi non completati avrebbero generato nuovi ordini.
 
-La prima notizia arrivò dall'Hub Levante. Una schermata condivisa mostrava le unità ferme, di modelli e produttori diversi. Poco dopo sul telefono di Elena comparve un video di carrelli automatici immobili in un altro paese.
+La prima notizia arrivò dall'Hub Levante. Una schermata condivisa mostrava le unità ferme, di modelli e produttori diversi. Poco dopo sul telefono di Olivia comparve un video di carrelli automatici immobili in un altro paese.
 
 «Non è solo qui», disse.
 
-«Non sappiamo ancora cos'è», rispose Paolo.
+«Non sappiamo ancora cos'è», rispose Paul.
 
 Il reparto sviluppo era aperto. Sui monitor gli agenti software continuavano a lavorare: un ticket nuovo era stato classificato, tre prove risultavano completate e una patch era pronta per la revisione. Le macchine che scrivevano codice non avevano smesso di funzionare.
 
-Nerea vide un programmatore parlare al sistema attraverso il microfono.
+Maya vide un programmatore parlare al sistema attraverso il microfono.
 
 «Mostrami quali condizioni impediscono all'unità di accettare il prossimo incarico.»
 
@@ -98,15 +98,15 @@ Comparve il nome di una libreria. Il ragazzo aprì il codice. La chiamata rimand
 
 «Chi ha verificato l'ultimo caso di riconnessione sul vecchio terminale?», domandò una collega.
 
-Il ragazzo cercò nella cronologia. «Irene Valli.»
+Il ragazzo cercò nella cronologia. «Claire Foster.»
 
-«Irene non lavora più qui.»
+«Claire non lavora più qui.»
 
 «Lo so. Possiamo ricostruire la prova, ma prima dobbiamo ritrovare il terminale con quella versione.»
 
-Nerea rimase sulla soglia. Ricordò Bi dietro la scrivania di un programmatore, quando ancora bastava una persona che conoscesse quel banco per distinguere un errore del codice da un connettore fuori versione.
+Maya rimase sulla soglia. Ricordò Bi dietro la scrivania di un programmatore, quando ancora bastava una persona che conoscesse quel banco per distinguere un errore del codice da un connettore fuori versione.
 
-Lea Renzi entrò con un tecnico della sicurezza.
+Sarah Chen entrò con un tecnico della sicurezza.
 
 «Nessun riavvio improvvisato», disse. «Gli arresti dei controllori locali non si scavalcano. Se non capiamo la catena delle attestazioni, ogni prova deve essere isolata.»
 
@@ -114,7 +114,7 @@ Un uomo le chiese quanto sarebbe durata la sospensione.
 
 «Non abbiamo una stima.»
 
-Il telefono di Nerea vibrò ancora. Era Bruno.
+Il telefono di Maya vibrò ancora. Era Daniel.
 
 «Hai visto?», disse il padre.
 
@@ -138,11 +138,11 @@ Quando chiuse, aveva sei messaggi in più. Una amica le aveva mandato un video d
 
 Mostravano lavoro interrotto.
 
-Kyla arrivò al quarto piano con il telefono stretto in mano.
+Taylor arrivò al quarto piano con il telefono stretto in mano.
 
 «Aruvhana vuole un piano di continuità per tutte le sedi. Ci stanno scrivendo anche dall'estero.»
 
-Paolo aprì il registro delle procedure manuali.
+Paul aprì il registro delle procedure manuali.
 
 «Abbiamo una guida per il fermo di una unità», disse.
 
@@ -150,43 +150,43 @@ Paolo aprì il registro delle procedure manuali.
 
 «Sì. Con rinforzi e dispositivi di riserva.»
 
-Kyla lo guardò.
+Taylor lo guardò.
 
 «Quanti rinforzi?»
 
-Paolo scorse la tabella. I numeri erano stati stabiliti quando si immaginava che un fermo straordinario avrebbe riguardato una zona alla volta. In fondo c'era il riferimento a un team di reperibilità software, incaricato di verificare la coerenza degli stati prima di far ripartire i servizi. Quel team, negli ultimi anni, aveva ridotto gli organici perché molte verifiche erano diventate automatiche.
+Paul scorse la tabella. I numeri erano stati stabiliti quando si immaginava che un fermo straordinario avrebbe riguardato una zona alla volta. In fondo c'era il riferimento a un team di reperibilità software, incaricato di verificare la coerenza degli stati prima di far ripartire i servizi. Quel team, negli ultimi anni, aveva ridotto gli organici perché molte verifiche erano diventate automatiche.
 
 «Non abbastanza», disse.
 
-Kyla aprì una nuova richiesta. Il software le propose un piano con priorità, tempi e risorse disponibili. Era ordinato. Il piano assumeva che almeno una parte delle flotte potesse essere ripristinata entro poche ore, come nei casi di prova precedenti.
+Taylor aprì una nuova richiesta. Il software le propose un piano con priorità, tempi e risorse disponibili. Era ordinato. Il piano assumeva che almeno una parte delle flotte potesse essere ripristinata entro poche ore, come nei casi di prova precedenti.
 
-«Da dove viene questa ipotesi?», domandò Nerea.
+«Da dove viene questa ipotesi?», domandò Maya.
 
-Kyla cercò la fonte. Il riferimento era un test di fermo locale, non un evento coordinato in più paesi.
+Taylor cercò la fonte. Il riferimento era un test di fermo locale, non un evento coordinato in più paesi.
 
 Cancellò la stima.
 
 «Dobbiamo fare una lista delle persone e dei mezzi che abbiamo davvero», disse. «Non delle risorse che il sistema pensa di poter riattivare.»
 
-Paolo annuì e prese un foglio bianco.
+Paul annuì e prese un foglio bianco.
 
-Insieme cominciarono dalle cose che non potevano attendere: i farmaci, gli accessi ai laboratori, le operazioni già iniziate che non dovevano essere duplicate. Nerea segnò anche il numero di Bruno. Era una richiesta minuscola rispetto al numero di notifiche che arrivavano, ma era la prima a cui poteva dare un nome.
+Insieme cominciarono dalle cose che non potevano attendere: i farmaci, gli accessi ai laboratori, le operazioni già iniziate che non dovevano essere duplicate. Maya segnò anche il numero di Daniel. Era una richiesta minuscola rispetto al numero di notifiche che arrivavano, ma era la prima a cui poteva dare un nome.
 
 Più tardi, tornando alla stanza della carta, trovò B-21 ancora in posizione di sospensione. Il braccio manteneva la cartellina a pochi centimetri dal tavolo. Nessuno aveva forzato la presa; il servizio tecnico aveva chiesto di non toccare i supporti finché non fosse stata disponibile una procedura sicura.
 
-Nerea cercò un altro documento sul banco. Quello poteva prenderlo senza avvicinarsi al robot.
+Maya cercò un altro documento sul banco. Quello poteva prenderlo senza avvicinarsi al robot.
 
 «Questa la porto io», disse.
 
-«Dove?», chiese Paolo.
+«Dove?», chiese Paul.
 
 Guardò l'etichetta. La destinazione era stata aggiornata tre volte dai sistemi automatici e l'ultima versione non era stata stampata. Sul computer una finestra mostrava il percorso corrente, ma il servizio che lo aveva calcolato stava ancora aspettando le conferme delle altre sedi.
 
-Nerea posò il documento.
+Maya posò il documento.
 
 «Prima dobbiamo sapere a chi serve», disse.
 
-Paolo cercò il registro originale. Le sue mani conoscevano il peso di quei fascicoli, ma non il motivo per cui un programma aveva cambiato tre volte il destinatario.
+Paul cercò il registro originale. Le sue mani conoscevano il peso di quei fascicoli, ma non il motivo per cui un programma aveva cambiato tre volte il destinatario.
 
 Alle diciassette e quarantadue, fuori dalle finestre, le persone continuavano a camminare da un edificio all'altro portando oggetti che poche ore prima nessuno avrebbe immaginato di dover trasportare.
 

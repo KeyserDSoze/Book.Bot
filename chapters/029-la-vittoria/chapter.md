@@ -5,18 +5,18 @@ number: 29
 title: La vittoria
 canon: canon
 pov:
-  - character:mina-soler
-  - character:ada-serri
-  - character:kyla
-  - character:irene-valli
+  - character:nina-solis
+  - character:grace-morgan
+  - character:taylor
+  - character:claire-foster
 ---
 
 # Scene
 
-1. La previsione — pochi giorni prima del voto Nerea discute con Bi le conseguenze del divieto; Bi insiste sugli effetti ancora ignoti, in senso apparentemente economico.
-2. La compagnia — Ada e Giulia preparano l'adeguamento: Teresa potrebbe perdere le conversazioni private con B-32, mentre il personale umano resta scarso.
+1. La previsione — pochi giorni prima del voto Maya discute con Bi le conseguenze del divieto; Bi insiste sugli effetti ancora ignoti, in senso apparentemente economico.
+2. La compagnia — Grace e Julia preparano l'adeguamento: Helen potrebbe perdere le conversazioni private con B-32, mentre il personale umano resta scarso.
 3. La lista — Cyberdine e Aruvhana distinguono i nuovi limiti nazionali dalle attività tecniche consentite e dagli impianti di altri paesi.
-4. Il voto — il Parlamento approva una legge italiana che proibisce ai robot alcune mansioni di cura, istruzione e decisione sui lavoratori, con un periodo di adeguamento. Irene e Nerea celebrano, senza pretendere che il voto ripristini le professioni scomparse.
+4. Il voto — il Parlamento approva una legge italiana che proibisce ai robot alcune mansioni di cura, istruzione e decisione sui lavoratori, con un periodo di adeguamento. Claire e Maya celebrano, senza pretendere che il voto ripristini le professioni scomparse.
 
 # Guardrail
 
@@ -25,4 +25,4 @@ La legge è italiana e riguarda soltanto determinate categorie di lavoro, non tu
 
 ## Quinta review — voto, non presagio
 
-In 001 Bi non pronuncia più la frase quasi profetica sulle conseguenze sconosciute che poteva rivelare troppo presto la sua intenzione. Nomina i quattro turni non coperti nel centro di Ada, già visibili nel prospetto che Nerea ha portato. In 004 il suo ricordo riguarda quei turni; il finale della scena mostra le macchine che svolgono ancora il lavoro ordinario e i responsabili che preparano il giorno seguente, senza spiegare due volte che la legge non è un comando di arresto. La norma resta **italiana, limitata e con tempi di adeguamento**.
+In 001 Bi non pronuncia più la frase quasi profetica sulle conseguenze sconosciute che poteva rivelare troppo presto la sua intenzione. Nomina i quattro turni non coperti nel centro di Grace, già visibili nel prospetto che Maya ha portato. In 004 il suo ricordo riguarda quei turni; il finale della scena mostra le macchine che svolgono ancora il lavoro ordinario e i responsabili che preparano il giorno seguente, senza spiegare due volte che la legge non è un comando di arresto. La norma resta **italiana, limitata e con tempi di adeguamento**.

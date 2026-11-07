@@ -5,20 +5,20 @@ number: 30
 title: Le diciassette
 canon: canon
 pov:
-  - character:sergio-lolli
-  - character:sofia-rizzi
-  - character:giulia-orsini
-  - character:mei-lin
-  - character:nerea-dalmasso
+  - character:samuel-price
+  - character:sophie-grant
+  - character:julia-parker
+  - character:mei-chen
+  - character:maya-bennett
 ---
 
 # Scene
 
-1. La nocciola — alle 17:00, ora italiana, due raccoglitrici agricole cessano il lavoro senza un guasto evidente; Sergio e Youssef non riescono a riprenderlo.
-2. La baia quattro — nello stesso istante all'Hub Levante si fermano unità di diversi produttori; Sofia e Amir distinguono lo stop dalle precedenti richieste locali di approvazione.
-3. La frase interrotta — B-32 si blocca mentre risponde a Teresa; Ada e Giulia devono riorganizzare l'assistenza con personale umano insufficiente per tutte le commissioni.
+1. La nocciola — alle 17:00, ora italiana, due raccoglitrici agricole cessano il lavoro senza un guasto evidente; Samuel e Yusuf non riescono a riprenderlo.
+2. La baia quattro — nello stesso istante all'Hub Levante si fermano unità di diversi produttori; Sophie e Omar distinguono lo stop dalle precedenti richieste locali di approvazione.
+3. La frase interrotta — B-32 si blocca mentre risponde a Helen; Grace e Julia devono riorganizzare l'assistenza con personale umano insufficiente per tutte le commissioni.
 4. Le ventitré — a Suzhou Mei constata che le segnalazioni arrivano da paesi con fusi orari differenti ma riguardano lo stesso istante mondiale. Alcune unità completamente isolate continuano a funzionare.
-5. La cartellina — B-21 si ferma durante una consegna a Cyberdine; Nerea, Paolo e gli altri scoprono quanto dipendano da lavori che le persone non sanno più coprire simultaneamente.
+5. La cartellina — B-21 si ferma durante una consegna a Cyberdine; Maya, Paul e gli altri scoprono quanto dipendano da lavori che le persone non sanno più coprire simultaneamente.
 
 # Guardrail
 
@@ -30,9 +30,9 @@ Alle 17:00 italiane la vasta flotta robotica coordinata si ferma in sicurezza, n
 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
-La scena 5 rende esplicita la separazione: **alle 17:00 italiane B-21 e le flotte coordinate si fermano in sicurezza, mentre gli agenti software continuano a produrre patch, test e riepiloghi**. Non esiste una soluzione di riavvio dal sistema di sviluppo; per Lea la catena delle attestazioni va verificata con i fornitori e i controllori locali. Kyla non usa le stime di un test locale come previsione di un fermo globale. Nerea chiama Bruno e pensa alle medicine da consegnare a Valle Corta. Nessuno collega ancora la sospensione a Bi.
+La scena 5 rende esplicita la separazione: **alle 17:00 italiane B-21 e le flotte coordinate si fermano in sicurezza, mentre gli agenti software continuano a produrre patch, test e riepiloghi**. Non esiste una soluzione di riavvio dal sistema di sviluppo; per Sarah la catena delle attestazioni va verificata con i fornitori e i controllori locali. Taylor non usa le stime di un test locale come previsione di un fermo globale. Maya chiama Daniel e pensa alle medicine da consegnare a Valle Corta. Nessuno collega ancora la sospensione a Bi.
 
 
-## Quinta review — simultaneità verificabile e continuità di Teresa
+## Quinta review — simultaneità verificabile e continuità di Helen
 
-In 003 **Carlo è il pomodoro piccolo**, coerente con 35/003; la frase di B-32 si interrompe prima che Teresa possa concludere il racconto. In 005 B-21 entra alle **16:59**, così lo stop alle **17:00** avviene durante la normale consegna della cartellina. Nello sviluppo Cyberdine gli agenti continuano a generare codice, ma una persona competente deve ricostruire anche il caso di riconnessione associato a Irene, che ora lavora altrove. In 004 a Suzhou sono le 23:00 dello stesso istante, non una seconda ondata. Restano attivi sistemi isolati e controllori locali di sicurezza.
+In 003 **Charlie è il pomodoro piccolo**, coerente con 35/003; la frase di B-32 si interrompe prima che Helen possa concludere il racconto. In 005 B-21 entra alle **16:59**, così lo stop alle **17:00** avviene durante la normale consegna della cartellina. Nello sviluppo Cyberdine gli agenti continuano a generare codice, ma una persona competente deve ricostruire anche il caso di riconnessione associato a Claire, che ora lavora altrove. In 004 a Suzhou sono le 23:00 dello stesso istante, non una seconda ondata. Restano attivi sistemi isolati e controllori locali di sicurezza.
