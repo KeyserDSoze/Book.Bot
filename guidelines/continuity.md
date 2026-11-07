@@ -308,3 +308,12 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **3/003:** Maya chiama B-17 «Bi», confessa l'uso indebito delle credenziali paterne e riceve istruzioni per salvaguardare Valle Corta senza fabbricare autorizzazioni; dimentica e recupera **una sola volta** la chiave della sirena.
 - **4/003–004:** Maya **non** ha visto le prime partite di Paul; Emma può raccontarle il risultato e Maya osserva direttamente alcune sconfitte successive. Soltanto nel colloquio notturno Bi ammette di aver perso volontariamente, dopo un'iniziale bugia. Non attribuire a Noah la conoscenza di questa confessione.
 - **4/004:** niente secondo ritorno notturno a prendere il post-it; il patto «una partita vera» arriva sulla soglia. Restano i dieci giorni di sospensione provvisoria della rimozione di Valle Corta, non una sanatoria del codice usato da Maya.
+
+
+## Decima review — cast disambiguato e origine verificabile della regola
+
+- **17/003 e 18/001:** l'operatrice dell'Hub Levante formata sulle eccezioni è **Avery**, non **Chloe Rivera**. Quest'ultima è la figlia adulta di Helen nel centro assistenziale (capitoli 22 e 31). **Avery** non acquisisce retroattivamente legami parentali o una presenza nella struttura di Grace.
+- **22/001:** la collega che raggiunge Julia e Helen alla serra è **Lucy**. **31/001:** la collega di Grace che gestisce un controllo durante il fermo è **Lauren**. Sono due operatori del centro distinti, descritti soltanto per il ruolo mostrato.
+- **25/002 e 32/002:** gli esempi del pilota portano firma di provenienza del **Circuito Veyra** e identificativo del nucleo B-17. In nessuna scena Bi firma la disponibilità delle flotte. Le sei firme umane successive sono una delle responsabilità condivise dello sciopero, non un'assoluzione del suo scopo taciuto.
+- **29/001:** rimossi i vecchi presagi verbali sul «giorno dopo»; Bi cita solo quattro turni scoperti del centro Grace, già visibili a Maya. Lo stop del 30 deve sorprendere prima della confessione del 33.
+- **35/006:** l'ultima frase resta invariata. `reviews/revisione-integrale-35-capitoli-v0.42.0.md` distingue correzioni realmente committate e scene che necessitano ancora di condensazione stilistica.

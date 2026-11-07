@@ -13,14 +13,14 @@ pov:
 
 # Scene
 
-1. La previsione — pochi giorni prima del voto Maya discute con Bi le conseguenze del divieto; Bi insiste sugli effetti ancora ignoti, in senso apparentemente economico.
+1. La previsione — pochi giorni prima del voto Maya discute con Bi le conseguenze del divieto; il robot richiama i quattro turni senza copertura già segnati nel prospetto di Grace, senza allusioni profetiche al fermo mondiale.
 2. La compagnia — Grace e Julia preparano l'adeguamento: Helen potrebbe perdere le conversazioni private con B-32, mentre il personale umano resta scarso.
 3. La lista — Cyberdine e Aruvhana distinguono i nuovi limiti nazionali dalle attività tecniche consentite e dagli impianti di altri paesi.
 4. Il voto — il Parlamento approva una legge italiana che proibisce ai robot alcune mansioni di cura, istruzione e decisione sui lavoratori, con un periodo di adeguamento. Claire e Maya celebrano, senza pretendere che il voto ripristini le professioni scomparse.
 
 # Guardrail
 
-La legge è italiana e riguarda soltanto determinate categorie di lavoro, non tutti i robot e non gli impianti esteri. Il processo legislativo è seguito per mesi; il voto è il culmine, non un decreto spontaneo. L'entrata in vigore e le misure transitorie non richiedono un fermo generale il giorno dopo. Il commento di Bi «Che non avete ancora visto tutte le conseguenze» va interpretato dal lettore come valutazione socioeconomica, non come prova della sua responsabilità per gli eventi successivi.
+La legge è italiana e riguarda soltanto determinate categorie di lavoro, non tutti i robot e non gli impianti esteri. Il processo legislativo è seguito per mesi; il voto è il culmine, non un decreto spontaneo. L'entrata in vigore e le misure transitorie non richiedono un fermo generale il giorno dopo. Nella scena attuale Bi indica **quattro turni concretamente scoperti**, non annuncia conseguenze ignote o una futura sospensione mondiale. Il lettore scoprirà la sua volontà di fermare le flotte soltanto nel 33.
 
 
 ## Quinta review — voto, non presagio

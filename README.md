@@ -10,7 +10,7 @@ Il libro è sviluppato in italiano come un progetto editoriale versionato. Il ma
 2. Aprire `state/current.md` prima di aggiungere una scena; verificare `timeline/`, `characters/`, `locations/`, `factions/`, `secrets/`.
 3. Aggiungere `chapters/NNN-titolo/chapter.md` e scene `NNN-titolo.md`, ciascuna con frontmatter YAML e `canon: canon` solo dopo revisione.
 4. Eseguire `python tools/validate.py` e `python tools/build.py`.
-5. Lavorare direttamente su `main`; ogni push esegue i controlli e la build. Aggiornare `VERSION` solo quando si vuole una nuova edizione pubblicata.
+5. Lavorare su un ramo editoriale e aprire una pull request per la revisione. Unire in `main` dopo approvazione; ogni push su `main` esegue la build di pubblicazione. Aggiornare `VERSION` solo quando si vuole una nuova edizione pubblicata.
 
 ## Esportazione
 

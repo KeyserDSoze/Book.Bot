@@ -186,3 +186,10 @@ Consultare `reviews/revisione-plausibilita-revoca-v0.39.0.md`. **Non dire che la
 ## Merge PR #2 e ottava review 
 
 La PR #2 è stata unita a `main` (commit `142818dbb57a800430dd261a511b511eaecf65da`). La seconda passata continua sul ramo `editorial/seconda-passata-capitoli-03-04`. Consultare `reviews/revisione-intimita-primi-incontri-v0.40.0.md` per la lettura dei capitoli 3–4: non introdurre doppie iterazioni dei medesimi gesti; Maya **non** ha visto le prime partite di Paul, e soltanto lei conosce la confessione notturna di Bi sul ping-pong. Niente nuova rivelazione tecnica prima del 10; niente merge di revisioni ulteriori senza richiesta; `VERSION` e ultima frase invariati.
+
+
+## Decima review integrale dei 35 capitoli (v0.42.0)
+
+Leggere `reviews/revisione-integrale-35-capitoli-v0.42.0.md` e `guidelines/cast-internazionale.md` prima di riprendere la seconda passata. La PR #2 è **già merged**; la PR #3 contiene il cast internazionale e va lasciata **draft** fino a nuova autorizzazione. Il nome HR/Marketing è attualmente **Taylor** (accettato dall'autore, non ripristinare automaticamente Kyla). **Chloe Rivera** è la figlia di Helen; **Avery** lavora all'Hub Levante e compare nel 17/003 e 18/001. **Lucy** accompagna Helen alla serra nel 22/001; **Lauren** collabora al centro nella crisi del 31/001. 
+
+Il documento di prova di Aruvhana nasce da B-17 ma è **firmato dal Circuito**, non da Bi; i sei successivi passaggi umani di 32/002 non sono firme di un robot. Il cap. 29 nomina turni scoperti, non anticipa lo sciopero. Prima di proporre un merge far passare `tools/validate.py`, `tools/audit_cast.py` e build; conservare 35 capitoli, 142 scene, `VERSION` e l'ultima frase «Tutto tornò normale.». Prossima pulizia stilistica consigliata: 15–16, poi 32–34.
