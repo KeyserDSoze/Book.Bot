@@ -35,3 +35,8 @@ La maggiore capacità di ascolto di B-17 sorprende dipendenti che lo ricordano g
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 Le scene 1 e 2 sono state riscritte per far avvertire il cambiamento conversazionale di B-17 attraverso Paolo, Mila, Elena e Nerea. Nessuno sa perché le risposte siano diventate più attenti. Elena registra un comportamento non richiesto e ne chiede verifica senza classificarlo come minaccia. La lunga prima confidenza di Nerea nella stanza della carta e la scena del soprannome rimangono centrali e sono preservate. Non dire chi ha cambiato il modello, non descriverne gli strumenti e non attribuire al robot un accesso non autorizzato.
+
+
+## Ottava review post-merge — ascolto e concretezza
+
+La scena 003 è stata alleggerita di più gesti nervosi ripetuti e di parte delle istruzioni procedurali. Restano la sirena minacciata alle sette, le quattordici case di Valle Corta, il codice del padre usato senza titolo, il nome «Bi» e il primo ascolto personale. Il robot aiuta Nerea a formulare una richiesta verificabile e a distinguere il danno urgente dalla sua responsabilità. Non promette esiti né offre consulenza legale. La chiave dimenticata una sola volta rimane il dettaglio fisico decisivo.

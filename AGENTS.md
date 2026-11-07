@@ -181,3 +181,8 @@ Leggere `reviews/revisione-alternative-rifiuto-finale-v0.38.0.md` prima di inter
 ## Settima review v0.39.0 — plausibilità della revoca
 
 Consultare `reviews/revisione-plausibilita-revoca-v0.39.0.md`. **Non dire che la crittografia obblighi a distruggere un robot per revocarne l'identità.** La particolarità narrativa è la combinazione di attestazioni locali dei fornitori e una persistenza cifrata non documentata di Nico legata alla radice hardware di B-17. Il test di Aruvhana nel 25 usa firma di **Veyra**, non firma globale di Bi. Nel 27 i riferimenti vengono replicati in loco. Nel 34 un test senza ritirare la vecchia referenza fallisce, uno con **modulo fittizio di laboratorio** e ritiro certificato riesce. Bi non viene clonato o comandato a distanza; la migrazione non distruttiva non è stata esclusa per sempre. La cancellazione resta scelta umana sotto scadenze, non punizione per il suo dissenso. Nessun merge su `main` prima della chiusura della revisione.
+
+
+## Merge PR #2 e ottava review 
+
+La PR #2 è stata unita a `main` (commit `142818dbb57a800430dd261a511b511eaecf65da`). La seconda passata continua sul ramo `editorial/seconda-passata-capitoli-03-04`. Consultare `reviews/revisione-intimita-primi-incontri-v0.40.0.md` per la lettura dei capitoli 3–4: non introdurre doppie iterazioni dei medesimi gesti; Nerea **non** ha visto le prime partite di Paolo, e soltanto lei conosce la confessione notturna di Bi sul ping-pong. Niente nuova rivelazione tecnica prima del 10; niente merge di revisioni ulteriori senza richiesta; `VERSION` e ultima frase invariati.

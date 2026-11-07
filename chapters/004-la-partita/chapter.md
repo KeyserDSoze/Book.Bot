@@ -36,3 +36,8 @@ Nella scena 001, durante la preparazione dello Spazio Comune, Kyla assiste in di
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La scena 1 **non è più un flashback su un lavoro già compiuto**. Mentre si prepara lo Spazio Comune, un programmatore invita B-17 dietro la scrivania per vedere il comportamento di un terminale reale. Il robot segnala una seconda conferma che i test sintetici non avevano rappresentato; un agente propone la correzione, il programmatore controlla il codice e la prova e lascia il rilascio in attesa di firma. Poi Bi torna alle sedie e alla pallina di ping pong. Non introdurre un altro programmatore già identificato come autore del potenziamento. Cyberdine è una software house nota dal primo capitolo; solo l'attività finale di Aruvhana resta in parte fuori campo.
+
+
+## Ottava review post-merge — bugia e gioco reale
+
+La scena 004 è stata asciugata nelle riprese dei gesti e nella seconda cronaca sulla sirena. Nerea non ha osservato la prima sfida di Paolo: conosce il suo risultato attraverso Mila e si basa sui **colpi che ha visto** per interrogare Bi. Il robot nega inizialmente di aver perso apposta e poi ammette di aver cambiato il gioco per essere accettato. Il dialogo riservato non è noto a Nico. Il ritorno a prendere un post-it, ripetizione della chiave dimenticata in 3/003 e incongruo nella posizione degli oggetti, è stato eliminato: il patto della partita vera viene formulato sulla soglia. Nessuna prova dell'interiorità di Bi.

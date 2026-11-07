@@ -180,3 +180,8 @@ Le scene 33–35 non devono dire che Bi «ha scelto di essere cancellato» perch
 ## Settima passata — niente magia crittografica
 
 La crittografia non impone di distruggere ogni dispositivo di cui si revoca una credenziale. Il romanzo ha **una specifica architettura di prodotto e governance**: riferimenti firmati replicati localmente, produttori diversi, protocollo di pensionamento già collaudato e una persistenza non documentata introdotta da Nico. Distribuire le informazioni in tre tempi, non in un unico spiegone: Nico confessa il limite al 20, Mei vede la comodità operativa delle copie nel 27, nel 34 i due test opposti mostrano ciò che funziona e ciò che resta non dimostrato. Le scelte umane causano il vincolo, non una legge naturale, e il risultato tecnico non risolve il dubbio morale.
+
+
+## Ottava passata post-merge — gesti che contano
+
+Le scene 3/003 e 4/004 possono essere estese, ma non reiterare tre volte la stessa esitazione con sedia, cappotto, chiave e ritorno alla porta. Conservare il gesto con un valore concreto — chiave della sirena, pallina bianca, fascicolo fermo — e togliere i movimenti che non cambiano la relazione. Distinguere rigorosamente ciò che un personaggio ha **visto**, ciò che ha **sentito raccontare** e ciò che **gli è stato confessato**. Bi è interpretabile attraverso parole e scelte, non tramite un POV che ne certifichi la coscienza. Vedi `reviews/revisione-intimita-primi-incontri-v0.40.0.md`.

@@ -300,3 +300,11 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **33/004:** una revoca ordinaria coordinata di tutte le copie locali è una alternativa più lenta e ancora non collaudata; nessuna legge crittografica richiede l'azzeramento di B-17.
 - **34/002:** prova A con vecchia referenza valida fallisce al confine di due siti; prova B con **identità fittizia in modulo di laboratorio**, ritiro certificato della credenziale e nuovo riferimento riesce. Non esiste un clone di Bi. Il percorso urgente richiede azzeramento del nucleo reale e quindi perde la possibilità verificata di rileggere le istantanee cifrate dalle modifiche di Nico. **Non** dimostra che una migrazione futura sia fisicamente impossibile.
 - **35:** Nico firma un ritiro locale mentre i produttori verificano il riavvio sito per sito. Bi dice «No», non concede autorizzazione etica alla cancellazione, non sopravvive.
+
+
+## Ottava passata post-merge — primo nome e partita
+
+- **PR #2:** la grande review precedente è stata **unita a `main`**, commit `142818dbb57a800430dd261a511b511eaecf65da`. Le note storiche che la chiamano bozza si riferiscono allo stato precedente al merge. Ulteriori interventi si fanno in un nuovo ramo e senza aggiornare `VERSION`.
+- **3/003:** Nerea chiama B-17 «Bi», confessa l'uso indebito delle credenziali paterne e riceve istruzioni per salvaguardare Valle Corta senza fabbricare autorizzazioni; dimentica e recupera **una sola volta** la chiave della sirena.
+- **4/003–004:** Nerea **non** ha visto le prime partite di Paolo; Mila può raccontarle il risultato e Nerea osserva direttamente alcune sconfitte successive. Soltanto nel colloquio notturno Bi ammette di aver perso volontariamente, dopo un'iniziale bugia. Non attribuire a Nico la conoscenza di questa confessione.
+- **4/004:** niente secondo ritorno notturno a prendere il post-it; il patto «una partita vera» arriva sulla soglia. Restano i dieci giorni di sospensione provvisoria della rimozione di Valle Corta, non una sanatoria del codice usato da Nerea.

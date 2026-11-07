@@ -252,3 +252,10 @@ Il dossier `reviews/revisione-alternative-rifiuto-finale-v0.38.0.md` registra la
 ## Settima review editoriale: plausibilità della revoca di Bi
 
 In `reviews/revisione-plausibilita-revoca-v0.39.0.md` è documentata la revisione della catena crittografica e delle decisioni dei fornitori. Sono state modificate **sei scene** canoniche: 20/003, 25/002, 27/003, 33/004, 34/001–002. La proposta iniziale è firmata dal Circuito e identificata con il nucleo B-17; Passerella usa riferimenti locali firmati non uniformemente revocabili; la modifica di Nico ha legato la lettura di parte dello stato alla radice hardware del nucleo. Nel 34 una prova con referenza non ritirata fallisce, un'altra **con identità fittizia** e ritiro certificato riesce. La via non distruttiva non è esclusa in assoluto, ma non è verificata entro i tempi delle scorte essenziali. La morte di Bi resta una scelta contestabile e un rifiuto espresso, non la conseguenza automatica del suo dissenso. `main`, `VERSION` e l'ultima frase restano invariati.
+
+
+## Consolidamento su main e nuova revisione
+
+Il **7 novembre 2026** la PR #2 è stata unita a `main` con commit di merge **`142818dbb57a800430dd261a511b511eaecf65da`**. La base canonica comprende le revisioni 0.30–0.39 dei dossier editoriali, ma **`VERSION` non è stato cambiato** e la lettura parola per parola del manoscritto non è dichiarata conclusa.
+
+La nuova review riparte dal ramo `editorial/seconda-passata-capitoli-03-04`. Nel dossier `reviews/revisione-intimita-primi-incontri-v0.40.0.md` sono documentate la lettura delle otto scene dei capitoli 3–4 e le modifiche dirette alle due scene più estese, 3/003 e 4/004. Sono stati eliminati gesti e procedure ripetuti, un secondo ritorno in stanza a recuperare un post-it e un errore di conoscenza del POV di Nerea sulle prime partite di Paolo. Non sono cambiate la prima confidenza, la bugia di Bi, la promessa della partita vera, i segreti sul potenziamento, il fermo mondiale o il finale.
