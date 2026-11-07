@@ -37,6 +37,10 @@ Mei aprì poi il verbale di una prova effettuata la notte precedente. Non era la
 
 Il primo sito aveva completato una movimentazione locale. Il secondo aveva respinto l'attestazione perché trovava ancora valida la vecchia fonte e non riusciva a risolvere quale delle due attestazioni avesse precedenza. Ripetere la prova con un altro fornitore aveva prodotto lo stesso conflitto. Non c'erano stati danni e nessuno aveva forzato il controllore: era bastato che un carico dovesse passare da una responsabilità all'altra.
 
+Mei mostrò poi l'altra prova, svolta con un modulo di laboratorio e un'identità fittizia, non con B-17. Dopo un ritiro certificato della credenziale di prova, entrambi i fornitori avevano accettato il nuovo riferimento e il passaggio fra i siti era riuscito. Le procedure locali di sicurezza erano state ricontrollate prima del movimento.
+
+«Questa strada funziona in laboratorio», disse Mei. «Non ci dice quanto impiegherà ogni impianto a ripartire, né che cosa perderemo ritirando l'identità reale di B-17.»
+
 «Quindi se lasciamo Bi sotto vetro e cambiamo soltanto i programmi dei clienti?», chiese il responsabile commerciale.
 
 «Non abbiamo dimostrato una ripartenza generale affidabile», rispose Mei. «Possiamo recuperare siti isolati uno per uno. Per quelli che si fidano ancora della referenza originaria dobbiamo prima ritirarla in modo riconosciuto. Non posso dichiarare sicuro ciò che il test ha appena respinto.»

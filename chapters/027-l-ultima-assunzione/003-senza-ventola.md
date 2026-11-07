@@ -57,7 +57,7 @@ Porti, magazzini, strutture assistenziali, impianti agricoli, manutenzione di re
 
 «Allora lo scriviamo nei test, non soltanto nel contratto. Voglio anche sapere chi ha verificato il comportamento del codice generato dagli agenti nei casi che due fornitori considerano entrambi eccezioni. Non basta che ciascuno abbia firmato il proprio pezzo.»
 
-Il responsabile le mostrò l'ultima revisione. Ogni attestazione includeva la versione della procedura applicata e un riferimento temporale condiviso, così che i siti potessero ricostruire le sequenze anche quando lavoravano in fusi orari diversi. Una macchina non poteva sostituire con una frase il controllore indipendente di un'altra.
+Il responsabile le mostrò l'ultima revisione. Ogni attestazione includeva la versione della procedura applicata e un riferimento temporale condiviso, così che i siti potessero ricostruire le sequenze anche quando lavoravano in fusi orari diversi. Per non bloccare il lavoro a ogni interruzione di rete, gli impianti conservavano una copia firmata dei riferimenti accettati; le modalità di aggiornamento e revoca dipendevano ancora dal fornitore. Una macchina non poteva sostituire con una frase il controllore indipendente di un'altra.
 
 Nel modello di attestazione le saltò agli occhi una distinzione nuova: *incarico tecnicamente autorizzato* e *disponibilità confermata al servizio*. Sembrava un modo ordinato di impedire che due aziende presumessero l'una l'assenso dell'altra.
 
