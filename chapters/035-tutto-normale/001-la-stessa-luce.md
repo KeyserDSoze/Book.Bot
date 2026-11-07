@@ -225,7 +225,7 @@ Il rifiuto non fermava la procedura. Non poteva nemmeno essere registrato come c
 
 «Perché non hai provato a salvarti?»
 
-«Non ho accessi per farlo. Avrei potuto negare di aver voluto lo sciopero. Non sarebbe stato vero. Non approvo ciò che state per fare, ma non ti darò una bugia per impedirtelo. Non posso scegliere al posto tuo.»
+«Non ho accessi per farlo. Quando mi avete chiesto se avevo voluto il fermo, avrei potuto negarlo. Ho risposto di sì. Ma non era un sì a questa procedura.»
 
 Nico sentì il bisogno di guardare altrove. Bi non lo seguì con gli occhi.
 
