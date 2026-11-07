@@ -28,3 +28,8 @@ La morte di Bi è la cessazione irreversibile della sua specifica configurazione
 ## Revisione di continuità v0.32.0
 
 La ripartenza dei robot è graduale e supervisionata. Cyberdine continua a vendere software e torna a dover formare persone che leggano i connettori, non soltanto i riepiloghi degli agenti; i contratti persi dai programmatori non riappaiono come ricompensa. Bi resta irreversibilmente perso, Nico piange e poi ripara la lampada. L'ultima frase del romanzo non cambia.
+
+
+## Raccordo del finale: la volontà di Bi e la scelta di Nico
+
+Bi conosce già il virus locale e il piano per le altre unità. Nico non può conoscere la confessione privata sulle sconfitte a ping pong: cita una registrazione ordinaria del gioco. Bi riconosce il proprio errore di avere imposto una sospensione senza consenso e **risponde «No»** quando Nico gli chiede se desideri la cancellazione. Il dubbio sull'anima non certifica la coscienza. I sessanta secondi dell'intervento iniziano dopo la conferma umana. Nessun ritorno della configurazione e nessun riavvio globale istantaneo; l'ultima frase rimane «Tutto tornò normale.»

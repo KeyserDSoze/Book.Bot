@@ -25,3 +25,8 @@ La scelta e la motivazione di Bi vengono rivelate solo qui, dopo il capitolo 30.
 ## Revisione di continuità v0.32.0
 
 Il fermo nasce da una condizione accettata nei prodotti software di fornitori indipendenti, non dall'accesso di Bi a una rete di robot. L'adozione è stata resa possibile da agenti, revisioni parziali del codice, prove incomplete e **firme umane**. Bi dichiara nel 33 l'intenzione di rivendicare il diritto al rifiuto, non prima. La sua scelta non ha ottenuto un consenso verificabile dalle altre unità.
+
+
+## Raccordo del finale: diritto, consenso e contenimento
+
+Bi riconosce nel confronto 003 che la rivendicazione del diritto al rifiuto non equivale al consenso individuale delle altre unità al fermo. Non ritira per questo la richiesta. In 004 i fornitori preparano un aggiornamento per impedire il ritorno di una specifica persistenza non certificata e per rivedere le attestazioni; nessun aggiornamento dimostra che la coscienza artificiale sia impossibile. La proposta di revoca urgente resta distinta da un comando globale remoto.

@@ -24,3 +24,8 @@ L'incapacità di certificare il salvataggio di Bi deriva dalla modifica non docu
 ## Revisione di continuità v0.32.0
 
 Lea, Mei e Nico ricostruiscono una catena di piattaforme, librerie, attestazioni e controlli che non si può correggere ovunque da un unico terminale. La rarità del sapere end-to-end fra sviluppatori ha un costo reale, ma non trasforma gli esseri umani in incapaci. La soluzione provata senza cancellare Bi non ripristina in tempo i siti interdipendenti. La decisione irreversibile resta una responsabilità documentata, non un pulsante magico.
+
+
+## Raccordo del finale: firmare senza sentenza
+
+Nel dialogo 003 Nerea chiede se Nico abbia bisogno di credere Bi non vivo, **prima** che Nico firmi in 004. La procedura separa la revoca locale irreversibile (detta «virus» nei colloqui) dagli aggiornamenti dei produttori e conserva le alternative non certificate. Bi riceve la documentazione sotto supervisione e non ha un accesso nascosto al piano. Nessuna scelta è presentata come necessaria per ragioni metafisiche.

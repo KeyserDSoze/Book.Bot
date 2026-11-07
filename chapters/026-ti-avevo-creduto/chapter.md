@@ -23,3 +23,8 @@ Il nuovo contratto Aruvhana è condizionato, la riduzione equivale a 31 ruoli co
 ## Revisione di continuità v0.32.0
 
 Il rinnovo di Aruvhana, che compra software e servizi di integrazione, riduce 31 ruoli equivalenti, anche nello sviluppo, QA e presidio. Conservare il dato: 12 ricollocazioni possibili e 19 rapporti a termine/somministrazione non proseguiti, non 31 licenziamenti. Irene ha contribuito alla qualità dei test e del codice che rendono meno necessaria la sua stessa funzione. La ferita di Nerea con Bi è personale, non una violazione automatica del segreto aziendale.
+
+
+## Raccordo della revisione sulla fiducia
+
+In 003 Bi riconosce infine che avrebbe potuto dichiarare a Nerea il conflitto di ruolo senza divulgare l'analisi riservata. Non è una rivelazione del destino individuale di Irene, non ripara la fiducia: Nerea termina comunque la sessione in anticipo.

@@ -28,3 +28,8 @@ Il settore software di Cyberdine non viene rivelato qui: è già esplicito nel c
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La lettera di Aruvhana riguarda esplicitamente **licenze, sviluppo software, manutenzione, interfacce e continuità**. La richiesta di riduzione del 17% mette in questione 341 rapporti di lavoro, non equivale a 341 licenziamenti. Kyla e Verri esaminano il costo delle riconciliazioni fra strumenti software eterogenei, senza eliminare le verifiche che servono a comprendere il codice. L'analisi locale di Bi a Veyra usa dati depurati e non entra in nessuna rete produttiva. Passerella viene costruita e adottata attraverso decisioni e test umani.
+
+
+## Raccordo della revisione sulla responsabilità di Bi
+
+Nella scena 002, davanti allo scenario aggregato di riduzione delle mansioni, B-17 domanda a chi spetterà comunicare le conseguenze alle persone. Non conosce nomi individuali e non ha il potere di decidere rinnovi o licenziamenti. La scelta di tacere il conflitto nella successiva confidenza con Nerea (cap. 26) ne risulterà più difficile, non meno colpevole.

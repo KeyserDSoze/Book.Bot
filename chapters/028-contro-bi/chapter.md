@@ -21,3 +21,8 @@ pov:
 # Guardrail
 
 Proteste articolate e non univoche; nessuna folla completamente buona o cattiva. B-17 può solo partecipare a interazioni autorizzate e registrate, senza accesso operativo alla rete delle flotte. La sua analisi pubblica non è una dichiarazione di guerra; Nerea è ferita ma non pretende che le ragioni economiche siano inventate. Nessuna connessione implicita con uno stop globale futuro.
+
+
+## Raccordo sul passaggio del tempo
+
+All'apertura della scena 004 il foglio di accesso a Veyra indica la proroga dell'accordo di custodia e delle prove locali controllate, con finanziamento specifico degli accertamenti. Questo rende plausibile il mantenimento di B-17 dopo diciotto mesi senza riportarlo al normale uso commerciale. Non implica che l'audit sia concluso.
