@@ -34,7 +34,7 @@ Ricevette una sintesi ordinata. Il modulo nuovo convertiva gli identificativi se
 
 «Sembrano», disse Irene allo schermo.
 
-Le rispose Malik Okafor, del team integrazioni. Irene ricordava di averlo visto fermare una patch durante la visita di Aruvhana; allora il problema era rimasto dietro un vetro. Oggi lo avevano entrambi sulla scrivania.
+Le rispose Malik Okafor, del team integrazioni. Nel riquadro della videochiamata aveva già spostato di lato il riepilogo e stava aprendo la cronologia della patch.
 
 «Hai visto il ticket?»
 
