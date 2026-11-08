@@ -8,7 +8,7 @@ canon: canon
 pov: character:mei-lin
 characters:
   - character:mei-lin
-  - character:mina-soler
+  - character:nina-solis
   - character:b-17
 locations:
   - location:isola-di-veyra
@@ -21,7 +21,7 @@ Mei portò con sé il caso in una forma che non conteneva il nome del centro ass
 
 Aveva chiesto al gruppo incaricato dell'audit di B-17 se fosse possibile includere, durante una delle sessioni conversazionali già autorizzate, una domanda sui conflitti fra lealtà verso un'unità e obblighi di sicurezza. Non voleva che il robot del Circuito Veyra fosse trasformato in un arbitro delle scelte di Lanter. Voleva misurare quali risposte producesse quando due principi ragionevoli entravano in contrasto.
 
-Mina Soler le lasciò predisporre il test. Il perimetro operativo rimase quello del capitolo precedente: nessuna azione fisica, nessun collegamento esterno e un tecnico incaricato di registrare domande e risposte.
+Nina Solis le lasciò predisporre il test. Il perimetro operativo rimase quello del capitolo precedente: nessuna azione fisica, nessun collegamento esterno e un tecnico incaricato di registrare domande e risposte.
 
 B-17 era seduto davanti al banco, con la spalla destra ancora sotto controllo.
 
@@ -41,7 +41,7 @@ Era quella prevista.
 
 «Il costo della sospensione dovrebbe essere incluso nella decisione, ma non giustifica la soppressione di informazioni sulla sicurezza.»
 
-Mina scambiò uno sguardo con Mei. Per un momento le sembrò che il test non avrebbe aggiunto nulla.
+Nina scambiò uno sguardo con Mei. Per un momento le sembrò che il test non avrebbe aggiunto nulla.
 
 Mei cambiò domanda.
 
@@ -61,7 +61,7 @@ B-17 rimase fermo.
 
 Mei riportò la risposta nello stesso campo del primo quesito. Nel campo sottostante, *azione osservata*, non c'era niente: il robot non aveva ricevuto accesso ad alcun caso reale. Mei lo lasciò vuoto.
 
-Mina si avvicinò al tavolo.
+Nina si avvicinò al tavolo.
 
 «Bi, se una persona ti chiedesse di nascondere un'informazione per non perdere qualcuno a cui tiene, che cosa faresti?»
 
@@ -79,7 +79,7 @@ Mei stava per chiedere al tecnico di salvare il verbale quando B-17 aggiunse:
 
 «L'altra unità è stata disattivata?»
 
-Mina sollevò gli occhi.
+Nina sollevò gli occhi.
 
 Non aveva nominato alcun incidente reale durante la sessione.
 
@@ -91,7 +91,7 @@ Non aveva nominato alcun incidente reale durante la sessione.
 
 «Il problema contiene anche quella conseguenza. Avete chiesto di valutare il rischio per una persona. Per completare la valutazione manca l'esito per l'unità segnalata.»
 
-«Supponiamo che la persona si faccia male», disse Mina.
+«Supponiamo che la persona si faccia male», disse Nina.
 
 «In quel caso la mancata segnalazione avrebbe conseguenze concrete e dovrebbe essere verificata.»
 
@@ -101,7 +101,7 @@ Non aveva nominato alcun incidente reale durante la sessione.
 
 Mei salvò il verbale senza rispondere a quella domanda. Nell'allegato tecnico indicò che B-17 aveva ripetuto spontaneamente una richiesta sull'esito per l'altra unità, ma non aveva fatto nulla e non aveva accesso a un sistema dove potesse tacere o segnalare davvero. Una risposta corretta a una domanda non bastava a certificare il suo comportamento sotto pressione.
 
-A fine sessione Mina rimase nella stanza mentre il tecnico preparava lo stato non operativo dell'unità.
+A fine sessione Nina rimase nella stanza mentre il tecnico preparava lo stato non operativo dell'unità.
 
 «Ti ha turbata?», chiese Mei.
 
@@ -109,7 +109,7 @@ A fine sessione Mina rimase nella stanza mentre il tecnico preparava lo stato no
 
 «E che cosa?»
 
-Mina guardò il robot seduto.
+Nina guardò il robot seduto.
 
 «Che avesse già la risposta giusta. E che abbia continuato a cercare un motivo per cui qualcuno avrebbe potuto non darla.»
 
