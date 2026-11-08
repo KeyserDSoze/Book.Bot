@@ -7,7 +7,7 @@ canon: canon
 pov:
   - character:giulia-orsini
   - character:elisa-marin
-  - character:livia-sanna
+  - character:olivia-brooks
   - character:irene-valli
 ---
 
@@ -15,7 +15,7 @@ pov:
 
 1. La serra, questa volta — Teresa recupera la visita perduta e scopre il piacere di conversare con B-32, entro limiti di accompagnamento umani.
 2. La visita — Elisa soffre vedendo il rapporto tra la madre e il robot, senza poter ridurre quel legame a un inganno.
-3. La donna con i guanti — Livia scopre soltanto a metà di un colloquio ascoltato da lontano che una delle due interlocutrici è una macchina.
+3. La donna con i guanti — Olivia scopre soltanto a metà di un colloquio ascoltato da lontano che una delle due interlocutrici è una macchina.
 4. Nessuno è stato sostituito — Irene e Nerea parlano di ruoli non creati mentre B-21 continua a rendere il lavoro più efficiente.
 
 # Guardrail
