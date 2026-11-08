@@ -27,3 +27,8 @@ Giulia sostiene materialmente il centro assistenziale durante il fermo, perde pa
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 24, dopo il danno al polso, Giulia si preoccupa di non farsi scalare da ferie già prenotate i giorni di riposo per l'infortunio. È una preoccupazione legittima e anche egoista, accanto al timore che Teresa si facesse male. Nel 31 vuole cinque minuti veri per ascoltare Teresa e, insieme, tornare a casa a dormire.
+
+
+## Decima review — il polso resta una conseguenza
+
+Giulia segnala un'anomalia, si infortuna e chiede che il verbale distingua il comportamento di B-32 dal difetto del carico e dalla decisione umana di mantenere B-33 in servizio. Nel 29 ha ripreso il lavoro con cautele; nel 31 non può essere impiegata senza limiti a trasportare pesi durante la crisi dei robot. Ada registra quel limite nelle assegnazioni. Nel 35 Giulia controlla il report indipendente degli eventi e assiste alla breve interazione di Teresa e B-32: il ritorno della macchina non implica un perdono tecnico o emotivo automatico.

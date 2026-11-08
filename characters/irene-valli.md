@@ -58,3 +58,8 @@ Nel 5 Irene conserva nel telefono una libreria che vorrebbe comprare per toglier
 ## Revisione v0.32.0 — Software e robot
 
 Il suo ruolo è vicino allo sviluppo e al collaudo software: legge versioni, controlla dipendenze e costruisce test per casi mai simulati. A differenza di molti colleghi, durante l'assenza di Bi decide di chiedere i sorgenti oltre ai riepiloghi agentici. Le assunzioni scomparse riguardano anche ruoli di QA e ingegneria software. Irene non riceve una promozione compensatoria.
+
+
+## Decima review — dalla lezione non pagata al contratto breve
+
+L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 25 una possibile riallocazione non finanziata. Irene la chiede esplicitamente nel 26 e scopre che non esiste un ruolo. Dopo il fermo ottiene tre mesi pagati anche per la formazione, senza titolo senior né prospettive stabili. La libreria comprata a casa rimane un gesto indipendente e non una compensazione narrativa per il lavoro perso.

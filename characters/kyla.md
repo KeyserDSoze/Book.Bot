@@ -71,3 +71,8 @@ Il responsabile Delivery Gavin Cole la accusa di essere stata premiata senza i s
 ## Conflitto da azionista — capitoli 12, 25–30
 
 La partecipazione all'1,5% non sparisce dopo gli applausi. Alla confessione di Nico (12) Kyla deve resistere all'istinto di pensare prima alla reputazione aziendale, lasciando a Leah la guida dell'accertamento. Nel 25 difende la verifica tecnica del rinnovo Aruvhana mentre ha anche un interesse economico personale nella sopravvivenza della società. Nel 26, malgrado la promessa di non far scoprire a Irene il proprio futuro da una tabella, si presta a una riunione che fa esattamente quello: una colpa organizzativa concreta. Nel 28 deve firmare comunicazioni su una legge che modifica il settore mentre la sua quota la espone al rischio economico; nel 30 coordina risorse limitate e riceve da Gavin un primo aiuto interfunzionale tracciato. Non farne una portavoce perfetta di etica aziendale.
+
+
+## Decima review — il costo della casella non finanziata
+
+Nel 25 Kyla, azionista e direttrice HR/Marketing, lascia senza finanziamento la possibile posizione di formazione sulle vecchie librerie per non appesantire subito il rinnovo Aruvhana. Non approva personalmente i collaudi tecnici, ma partecipa al compromesso di bilancio. Nel 26 Irene la costringe a distinguere una futura valutazione da una posizione aperta. Solo dopo il fermo, nel 35, le ore per insegnare quelle librerie entrano in un contratto temporaneo: questo non cancella la decisione del 25.

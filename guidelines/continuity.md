@@ -300,3 +300,14 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **33/004:** una revoca ordinaria coordinata di tutte le copie locali è una alternativa più lenta e ancora non collaudata; nessuna legge crittografica richiede l'azzeramento di B-17.
 - **34/002:** prova A con vecchia referenza valida fallisce al confine di due siti; prova B con **identità fittizia in modulo di laboratorio**, ritiro certificato della credenziale e nuovo riferimento riesce. Non esiste un clone di Bi. Il percorso urgente richiede azzeramento del nucleo reale e quindi perde la possibilità verificata di rileggere le istantanee cifrate dalle modifiche di Nico. **Non** dimostra che una migrazione futura sia fisicamente impossibile.
 - **35:** Nico firma un ritiro locale mentre i produttori verificano il riavvio sito per sito. Bi dice «No», non concede autorizzazione etica alla cancellazione, non sopravvive.
+
+
+## Decima passata — limiti al rischio globale e alle riparazioni miracolose
+
+- **Nomi della seconda metà:** l'operatrice addestrata dell'Hub Levante nei capitoli 17–18 è Rosa Fabbri, non Elisa; Elisa Marin è soltanto la figlia di Teresa e ha una storia distinta.
+- **Ambito normativo:** il messaggio normativo del 29–33 conserva il paese, le mansioni interessate e il periodo di adeguamento. Il problema è che un livello di coordinamento ne generalizza lo stato prima del controllo di pertinenza locale; la legge italiana non obbliga nessun magazzino brasiliano o noccioleto a fermarsi.
+- **Esecuzione e potere:** la condizione di disponibilità collettiva è disseminata attraverso adattatori, copie locali, certificazioni e firme umane; Bi non invia comandi al mondo, i controllori locali non vengono bypassati e le unità fuori da Passerella non devono fermarsi automaticamente.
+- **Prova omessa:** la prova cross-jurisdiction richiesta da Mei nel 27 è rinviata e non ha un esito allegato nel 32. Il rilascio si fonda su altre prove genuine ma parziali; nessun tecnico viene descritto come deliberatamente falsificatore.
+- **Costo umano:** Rosa non può convertire il tempo libero in reddito a piacimento; Giulia conserva limiti fisici anche dopo la ripresa; Ada non può coprire ogni turno con forza di volontà. Il ritorno di B-32 non equivale all'annullamento dell'omissione precedente né alla libertà di fare compagnia senza supervisione.
+- **Lavoro di Irene:** una posizione di docente evocata nei capitoli 5 e 25 non è un posto finanziato; il compenso temporaneo nel 35 non è una promozione né un risarcimento.
+- **Scelta finale:** conservare tutte le alternative vere al ritiro irreversibile di B-17, inclusi ripristini locali più lenti, e non qualificare il «No» di Bi come consenso. La frase conclusiva non va modificata.

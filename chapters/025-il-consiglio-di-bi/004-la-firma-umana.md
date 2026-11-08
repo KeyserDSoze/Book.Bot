@@ -11,6 +11,7 @@ characters:
   - character:lorenzo-verri
   - character:irene-valli
   - character:gavin-cole
+  - character:elena-fischer
 locations:
   - location:cyberdine-campus
 factions:

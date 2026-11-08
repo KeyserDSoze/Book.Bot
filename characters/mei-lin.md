@@ -38,3 +38,8 @@ Nel 16 viene preparato l'orologio lasciato dalla madre, impreciso e mai riparato
 ## Revisione v0.32.0 — Cyberdine software house
 
 Lanter è il produttore robotico; Cyberdine è un cliente e un'impresa di software. Quando Mei esamina Passerella nel cap. 27, studia uno standard nato da piattaforme, connettori e test originariamente costruiti in Cyberdine, poi sostenuti da più fornitori. Nessun codice distribuito segretamente da B-17. Mei vede i limiti delle revisioni software frammentate fra più soggetti, non solo quelli dei controllori fisici.
+
+
+## Decima review — prova non eseguita, non trascuratezza generica
+
+Nel 27 Mei chiede espressamente una prova su una notifica normativa autentica ma non pertinente al paese del sito, trasmessa tramite adattatore di altro marchio. L'estensione commerciale di Passerella passa anche per produttori che ne adottano i connettori, senza un centro di comando robotico. Nel 32 Mei ritrova la sua richiesta: risulta trasferita, ma non eseguita; il rilascio è stato firmato confidando nei filtri locali che entrano in gioco troppo tardi. Nel 33 dimostra che la comunicazione sulla legge italiana non è una proibizione globale ma un evento che il middleware interpreta in modo troppo generale. La sua responsabilità è precisa: aver preteso una prova senza avere il mandato per impedire ai fornitori di rilasciare il prodotto in assenza del risultato.
