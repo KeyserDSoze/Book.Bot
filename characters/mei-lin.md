@@ -55,3 +55,7 @@ Nel 27 Mei non si limita a nominare rischi astratti: chiede alla persona respons
 ## Tredicesima review — richiesta non eseguita e limite dell'escalation
 
 Nel 27/003 Mei conserva il ticket della prova transnazionale senza dichiararla eseguita, ma esita a chiedere il blocco di tutte le integrazioni che hanno superato test pertinenti: non ha un guasto riprodotto. Nel 32/001 ritrova anche il proprio parere originale *copertura da verificare* e riconosce che non aveva contestato con sufficiente forza il passaggio a *coperta dai controlli locali*. Non è l'autrice della regola globale e non aveva l'autorità di revocare licenze di altri fornitori, ma non è un'osservatrice moralmente estranea alla crescita della rete. La madre, già introdotta nel 16 attraverso l'orologio che perde due minuti, continua a proporre la riparazione; dopo il fermo Mei prova finalmente a telefonarle quando l'ufficio è vuoto. Evitare che l'orologio si trasformi in un talismano premonitore: è un oggetto familiare imperfetto.
+
+## Diciottesima review — continuità del rapporto con la madre
+
+Nel **16/001** l'orologio impreciso è un regalo della madre fatto anni prima, non un lascito: la madre è viva e continua a proporle un riparatore anche negli archi successivi. La scena non deve alludere accidentalmente a un lutto mai stabilito. Sempre nei capitoli 16–17 Mei distingue l'accertamento sulla provenienza degli esempi dall'approvazione condizionata del prodotto: non può dichiarare provata l'assenza di copia del codice originale quando non dispone dell'accesso comparativo necessario.
