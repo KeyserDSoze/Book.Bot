@@ -9,6 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:visitors
+  - character:malik-okafor
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -29,7 +30,7 @@ Sahir si chinò sul pannello. «E voi vendete software per tenerlo in vita?»
 
 «Per permettergli di parlare con il resto. Non siamo antiquari.»
 
-Dietro il vetro un programmatore di Cyberdine aveva aperte due finestre. A sinistra una richiesta del cliente: *riconciliare i risultati del registro locale senza ripetere le operazioni già confermate*. A destra una proposta di codice prodotta da un agente, accompagnata dal confronto con la versione precedente.
+Dietro il vetro Malik Okafor, sviluppatore del gruppo integrazioni, aveva aperte due finestre. A sinistra una richiesta del cliente: *riconciliare i risultati del registro locale senza ripetere le operazioni già confermate*. A destra una proposta di codice prodotta da un agente, accompagnata dal confronto con la versione precedente.
 
 «Il nostro lavoro è sempre stato scrivere interfacce», spiegò Kyla. «Chi sviluppa un sistema nuovo di solito non vuole conoscere il passato di tutti gli altri. Noi facciamo in modo che una macchina costruita vent'anni fa e un servizio appena installato non si scambino promesse che non possono mantenere.»
 
@@ -37,7 +38,7 @@ Dietro il vetro un programmatore di Cyberdine aveva aperte due finestre. A sinis
 
 «Alcune commesse richiedevano mesi e squadre intere. Gli agenti di sviluppo hanno cambiato quel lavoro. Oggi preparano adattatori, test, documentazione tecnica. Questo non significa che la versione pronta sia automaticamente quella giusta.»
 
-Dall'altra parte del vetro il programmatore fermò il cursore su una riga evidenziata. Indicò a una collega il punto sullo schermo; lei scrollò fino a una funzione precedente, poi scosse la testa. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
+Dall'altra parte del vetro Malik fermò il cursore su una riga evidenziata. Indicò a una collega il punto sullo schermo; lei scrollò fino a una funzione precedente, poi scosse la testa. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
 
 «Perché non accettano la proposta?», chiese Leïa.
 
