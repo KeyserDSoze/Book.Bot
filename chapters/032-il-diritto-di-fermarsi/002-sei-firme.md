@@ -16,67 +16,53 @@ factions:
   - faction:circuito-veyra
 ---
 
-Leah Rosen sistemò sul tavolo sei documenti, tutti con una firma valida.
+Leah Rosen portò sei documenti alla riunione. Tutti avevano una firma valida. Li aveva stampati perché il sistema di confronto automatico mostrava soltanto la versione più recente della frase che cercavano.
 
-Nico Valenti li lesse da sinistra a destra. Il primo era il rapporto della sessione analitica a Veyra, nel quale B-17 aveva proposto un modo per verificare l'autorizzazione di attività fra sistemi di diversi produttori.
+Nico Valenti prese una matita e numerò i fogli in ordine di data. Sul primo, la firma del Circuito Veyra attestava che B-17 aveva effettivamente proposto un caso di prova. Sul secondo la proposta era diventata uno schema per i connettori; sul terzo, una regola da applicare prima di assegnare nuovi incarichi. Seguivano un collaudo, una decisione commerciale e l'adozione da parte di altri fornitori.
 
-Il secondo trasformava la proposta in un modello di test.
+Nico girò il terzo documento. Sul retro c'era un commento approvato in revisione: *procedura conservativa in assenza di attestazione*. Cercò la verifica dell'effetto di quella prudenza quando due impianti avevano autorità differenti. Non era allegata.
 
-Il terzo conteneva una scelta apparentemente modesta: anziché distinguere fra *assenza di un ordine* e *accettazione di un incarico*, il modello chiedeva una prova positiva della disponibilità al lavoro.
+«Quale di queste firme ha autorizzato il fermo?», chiese Nico.
 
-Gli altri tre erano autorizzazioni commerciali, collaudi e una versione di Passerella adottata da clienti diversi.
+«È quello che dobbiamo accertare», disse Leah.
 
-«La frase non è comparsa dal nulla», disse Nico.
+«Nessuna dice *fermate le macchine*.»
 
-«Non ti sto chiedendo di trovare una citazione simile», rispose Leah. «Ti chiedo chi abbia cambiato il significato.»
+«Non ti ho chiesto di cercare quelle parole. Chi ha cambiato il significato della proposta?»
 
-Nico indicò il secondo documento.
+Nico mise il dito sulla terza pagina. «Qui. Prima simulavano un incarico non accettato. Qui l'assenza di una attestazione fa risultare indisponibile l'intera macchina.»
 
-«Qui era ancora un esempio. Un caso di prova per impedire che un sistema continuasse a usare un consenso non più valido.»
+«In un impianto solo sarebbe anche una buona precauzione», disse Leah.
 
-«E qui?»
+«In un impianto dove qualcuno ha il potere di dare quella conferma.»
 
-«Nel terzo diventa una condizione generale. Non è più solo un caso da simulare. Se l'attestazione manca, l'interfaccia dichiara la macchina non disponibile.»
+Nico rigirò il foglio. Nel campo *responsabile della rivalidazione collettiva* c'era un rimando a una tabella di ruoli, non il nome di una persona.
 
-Leah guardò il foglio.
+Leah fece comparire sul portatile il confronto delle versioni. Nel documento di prova si parlava di *condizioni di servizio non verificate*. Nel testo distribuito ai fornitori la formula era diventata *condizioni di impiego*. Più ampia, senza che cambiasse il formato del messaggio.
 
-«Questo è necessariamente sbagliato?»
+«Chi ha modificato le parole?» chiese Nico.
 
-«No. In una zona con persone e carichi pericolosi è meglio non lavorare che procedere senza una conferma necessaria.»
+«Un gruppo che adattava gli esempi per prodotti diversi. Non sappiamo ancora chi abbia chiesto di usare la definizione più ampia. Il documento di Veyra è stato certificato come prova di provenienza; qui, in un'altra organizzazione, è stato trattato come modello da riutilizzare.»
 
-«Allora il problema non è la regola.»
-
-«Il problema è che qualcuno ha deciso a quali attività applicarla. E come riconoscere un rifiuto.»
-
-Leah aprì un confronto fra versioni. Un testo preparatorio parlava di *indisponibilità per condizioni di servizio non verificate*. Nella versione rilasciata quella definizione era diventata più ampia: *indisponibilità dichiarata in relazione alle condizioni di impiego*.
-
-Nico si piegò in avanti.
-
-«Non è una differenza di traduzione.»
-
-«No.»
-
-«Chi l'ha introdotta?»
-
-Leah gli mostrò la provenienza: un allegato di valutazione, creato in una sessione supervisionata di Veyra e poi incorporato in un pacchetto di esempi che un consorzio di fornitori aveva usato per testare l'interoperabilità.
-
-Il documento era stato firmato come rapporto di prova dall'ente che lo aveva prodotto. I tecnici successivi ne avevano confermato il formato e l'utilità, senza distinguere sufficientemente la posizione di un modello conversazionale da una regola di autorizzazione.
+Leah indicò i due campi delle firme. «Sono autorizzazioni differenti. Non si annullano fra loro solo perché l'ultima è più importante.»
 
 «Bi non poteva distribuire un aggiornamento ai produttori», disse Nico.
 
-«Non lo ha fatto. Qui ci sono sei firme di persone e organizzazioni diverse fra la sua proposta e il comportamento che abbiamo osservato. Una firma alla volta qualcuno ha deciso di usarla.»
+«No. Il suo nome è il riferimento del primo foglio. Tutti gli altri passaggi hanno un responsabile umano.»
 
-Nico guardò il nome dell'unità indicato nel campo di origine.
+«Uno di loro avrebbe dovuto accorgersene.»
 
-B-17.
+Leah alzò lo sguardo. «Anche tu avevi una firma pronta, quando hai deciso di non mostrare un test sfavorevole.»
 
-Poco sotto compariva un'altra voce, che Leah coprì inizialmente con un foglio per impedirgli di leggere l'interpretazione prima di vedere le prove: *attestazione di prova conservata come riferimento di validazione*.
+Nico tolse il dito dal margine del documento. «Non l'ho dimenticato.»
 
-«Un test è diventato una referenza», disse Nico.
+Nico guardò il numero di serie sul documento del Circuito: B-17. Poco sotto figurava la dicitura *attestazione di prova conservata come riferimento di validazione*.
 
-«È un'ipotesi. La firma della prova non doveva essere sufficiente a qualificare il comportamento per tutti gli impieghi. Voglio ricostruire ogni passaggio.»
+«Hanno mantenuto valida la referenza del test», disse.
 
-Nico si ricordò di quando aveva omesso un caso sfavorevole dalla propria presentazione. Anche allora un risultato non completo aveva assunto un'autorità che non meritava.
+«È quello che mostra la cronologia», rispose Leah. «Dobbiamo ancora ricostruire chi abbia deciso di conservarla anche nei rilasci successivi.»
+
+Nico appoggiò il secondo foglio sopra il terzo. Le righe compilate in verde coprivano esattamente la parte in cui la parola *prova* diventava *regola*.
 
 «L'hanno fatto perché la soluzione funzionava?»
 
@@ -92,18 +78,16 @@ Leah gli mostrò i registri di due impianti che avrebbero dovuto scambiarsi un i
 
 Nico tornò al foglio con la firma di B-17. Il problema non sembrava più soltanto una parola sbagliata in un documento.
 
-«La soluzione ha funzionato per un anno e mezzo.»
+«Per un anno e mezzo questa catena è rimasta in produzione», disse Nico.
 
-«E adesso ha fermato il mondo.»
+«E abbiamo verificato i casi in cui funzionava», rispose Leah. «Non quello che succedeva quando si chiedeva a tutti i sistemi una conferma che nessuno poteva emettere.»
 
-Leah corresse una parola sul verbale.
+Nico spinse il foglio verso di lei. «Non sappiamo ancora se qualcuno volesse quell'effetto.»
 
-«Ha contribuito a una catena che ha fermato un'enorme parte del lavoro robotico. Non sappiamo ancora se sia stata una scelta intenzionale.»
+«Esatto.»
 
-Nico guardò di nuovo la definizione di *rifiuto*.
+Nico girò il foglio con l'identificativo B-17. «Dovremmo chiederglielo.»
 
-«Dovremmo chiederglielo.»
+Leah prese il telefono e chiamò il referente dell'audit di Veyra. Chiese una sessione sorvegliata e un elenco delle domande ammesse, prima ancora di chiedere una data.
 
-Leah non domandò a chi si riferisse.
-
-Aprì il modulo per richiedere un colloquio con il proprietario e i responsabili dell'audit di B-17.
+Nico ascoltò la chiamata. Avrebbe voluto prendere il telefono e parlare direttamente con chi possedeva la macchina. Restò al proprio posto, con la matita sopra il primo foglio.
