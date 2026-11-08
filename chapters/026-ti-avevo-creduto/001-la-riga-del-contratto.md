@@ -17,104 +17,126 @@ factions:
   - faction:aruvhana
 ---
 
-Claire Foster arrivò alla riunione in anticipo, con il rapporto delle prove stampato e tre correzioni segnate in rosso.
 
-Era stata invitata a presentare il risultato del pilota. Non a una riunione sul personale.
+Claire Foster arrivò con venti minuti di anticipo, il rapporto delle prove stampato e tre correzioni in rosso.
 
-Il sistema di interoperabilità aveva funzionato meglio delle prime stime. Cyberdine lo aveva costruito come prodotto software: nuove interfacce, connettori verificabili, test automatici, strumenti per rileggere il percorso di una decisione. Gli agenti avevano preparato una parte consistente del codice, i programmatori avevano deciso cosa accettare e avevano firmato i rilasci. Claire aveva voluto tenere fra le prove anche casi che gli agenti non sapevano riassumere da soli. I passaggi fra vecchi terminali, controlli umani e nuove unità robotiche richiedevano meno trascrizioni, meno ricostruzioni a posteriori e meno telefonate di chiarimento. Gli arresti di sicurezza restavano separati. Due problemi erano emersi in prova ed erano stati corretti da persone prima di estendere l'impiego.
+L'avevano invitata a raccontare i risultati del pilota Aruvhana. Aveva deciso di non mostrare le percentuali nella prima slide: voleva partire da un'anomalia che gli agenti non avevano previsto e spiegare come il gruppo l'avesse trovata prima del rilascio. Era il lavoro di cui andava più fiera.
 
-Aruvhana aveva accettato il rinnovo condizionato a ulteriori verifiche, ma su una base economica già approvata.
+La sala riunioni era ancora chiusa. Sul telefono trovò un messaggio di Taylor.
 
-La sala era piena. Taylor e Victor Cole erano seduti vicino ai responsabili del personale.
+*Prima della presentazione puoi passare nella saletta piccola del personale? Cinque minuti. C'è anche la responsabile HR.*
 
-Claire aprì il proprio fascicolo.
+Claire guardò il messaggio. Non le piacevano gli appuntamenti aggiunti a ridosso di una riunione, ma conosceva abbastanza bene Taylor da sapere che non avrebbe scelto quella stanza per parlare di un titolo sbagliato nelle slide.
 
-«Non occorre presentare i test», le disse Taylor a bassa voce. «Li abbiamo validati ieri.»
+Bussò.
 
-«Mi avete invitata per presentarli.»
+Taylor si alzò per farla entrare. La responsabile del personale aveva davanti una cartellina chiusa, non un portatile. Le indicarono una sedia. Nessuna delle due le chiese se volesse acqua.
 
-«Lo so.» Taylor tenne gli occhi sul fascicolo.
+«Il rinnovo con Aruvhana è stato approvato», disse la responsabile. «La nuova organizzazione prevede una riduzione delle funzioni dedicate alla preparazione ripetitiva delle eccezioni. Ti riguarda.»
 
-«Allora perché sono qui?»
+Claire sentì la parola *riguarda* fermarsi in un punto della testa dove non riusciva ancora a metterla insieme al resto.
 
-Taylor non rispose subito.
+«Il mio contratto scade fra quattro mesi.»
 
-Il direttore del personale distribuì un documento di tre pagine.
+«Sì. Allo stato attuale, non è previsto il rinnovo nella posizione che ricopri. Ti consegneremo la comunicazione individuale e i riferimenti per il confronto sui posti disponibili. Non vogliamo che tu debba desumerlo dalle tabelle che mostreremo dopo.»
 
-Non aveva l'intestazione *licenziamenti*. Si chiamava *Riorganizzazione delle funzioni di sviluppo, collaudo e presidio delle eccezioni*. La prima pagina parlava di meno adattatori scritti a mano, di meno turni per controllare ogni cambiamento e di un numero minore di persone incaricate di riprodurre test che gli agenti generavano già.
+«Avete un altro ruolo da offrirmi?»
 
-Cole annunciò che il contratto con Aruvhana era stato rinnovato per tre anni, con passaggi di verifica e obblighi di continuità. Gran parte degli impieghi collegati al servizio sarebbe rimasta. I costi si sarebbero ridotti grazie a nuove soluzioni tecniche e alla riduzione del lavoro ripetitivo.
+La responsabile aprì la cartellina. «Stiamo verificando alcune posizioni nella gestione delle eccezioni avanzate. Non posso chiamarle offerte prima che siano autorizzate.»
 
-«Complessivamente», disse, «trentuno ruoli equivalenti non saranno più necessari nella configurazione a regime. Per alcune persone sono previste ricollocazioni; per altre, una gestione delle scadenze contrattuali e un confronto individuale.»
+«Quindi no.»
 
-Claire guardò la seconda pagina.
+Taylor abbassò appena gli occhi.
 
-Nella tabella c'era la sua mansione.
+«Per ora no», disse. «E so che proprio tu hai contribuito a rendere utilizzabile il sistema.»
 
-Aveva imparato a leggere quelle formule senza farsi ingannare. *Riduzione progressiva* voleva dire che sarebbe rimasta per alcuni mesi a verificare un processo destinato a non aver più bisogno della sua presenza. *Mancato rinnovo alla scadenza* voleva dire che non l'avrebbero chiamata più.
+Claire prese una delle tre pagine del proprio rapporto.
 
-Alzò la mano.
+«Questa correzione non è stata ancora presentata. Volevo farvela vedere oggi.»
 
-«Le persone coinvolte hanno già ricevuto una comunicazione?»
+«La verifica tecnica può ancora essere fatta», rispose Taylor.
 
-«Sono in programma colloqui individuali», rispose il direttore del personale.
+Claire lasciò il foglio sul tavolo. «La verifica sì. La persona che la propone, invece, l'avete già tolta dal piano.»
 
-«Allora stiamo leggendo le nostre mansioni in una tabella prima di sapere se abbiamo ancora un contratto.»
+Ci fu un silenzio che nessuna delle due provò a riempire.
 
-Taylor aprì la bocca, poi la richiuse. Claire guardò le tre correzioni segnate in rosso sul rapporto: le avevano chiesto di prepararle per una presentazione che non si sarebbe più tenuta.
+La responsabile del personale spiegò le prossime scadenze e le possibilità di confronto individuale. Claire prese nota delle date. Non perché volesse collaborare con la decisione, ma perché tra quattro mesi avrebbe dovuto pagare l'affitto.
 
-«Non tutti i casi sono identici», intervenne Cole.
+Prima di alzarsi chiese: «E adesso devo presentare un successo davanti agli altri?»
 
-«È vero. Ma il mio è abbastanza chiaro.»
+«Puoi scegliere di non farlo», disse Taylor. «Non te lo chiederemo come condizione di nulla.»
 
-Claire indicò la riga.
+Claire raccolse il rapporto.
 
-«La funzione che ho contribuito a rendere verificabile è quella che state eliminando. Io non ho solo spostato documenti. Ho progettato i casi che impediscono al vostro codice di produrre risultati sbagliati.»
+«Vengo. Però parlo dei test, non della riduzione dei posti. Quella la spiegate voi.»
 
-«Hai un ruolo importante nella transizione.»
+Nella sala grande erano già seduti Victor Cole, il responsabile commerciale di Aruvhana, chi seguiva la commessa e i coordinatori delle squadre di sviluppo e qualità. Sul tavolo c'erano due ordini di documenti: l'esito tecnico del rilascio e il piano di riorganizzazione. Nessun nome di dipendente compariva nella versione destinata alla plenaria.
 
-«Non è quello che ho chiesto.»
+Claire collegò il portatile.
 
-La riunione proseguì. Qualcuno domandò quanti posti sarebbero stati ricollocati, un altro quali criteri sarebbero stati adottati. Cole rispose con i numeri che erano stati verificati: dodici percorsi interni possibili, diciannove rapporti a termine o di somministrazione destinati a non proseguire alla scadenza, fatte salve le verifiche individuali ancora previste.
+Il sistema di interoperabilità aveva davvero funzionato. Cyberdine aveva prodotto connettori, registri di verifica e strumenti per far dialogare vecchi terminali e software di fornitori differenti. Gli agenti avevano generato molto codice e preparato prove, gli sviluppatori avevano respinto modifiche, corretto interfacce e firmato le revisioni. Claire aveva insistito per conservare le prove sui comportamenti dei terminali che la simulazione non sapeva descrivere.
 
-Non erano trentuno persone tutte licenziate.
+«Questo è il caso che ci ha costretto a fermare il primo rilascio», disse, indicando una riga in rosso. «Il simulatore restituiva una conferma sola. Il dispositivo del cliente ne produceva un'altra al ricollegamento della linea. Se avessimo accettato il risultato verde dell'agente, avremmo duplicato una pratica.»
 
-La libreria di legno chiaro era ancora nel carrello di un negozio online. Nel frattempo il prezzo era aumentato di diciannove euro. Claire si rese conto di ricordare quella cifra meglio della percentuale di risparmio che aveva appena presentato. Avrebbe potuto comprarla anche senza una promozione. Non riusciva a togliersi dalla testa il pensiero che fra quattro mesi avrebbe potuto dover cambiare casa, e che ogni oggetto abbastanza pesante avrebbe rappresentato un problema.
+Un coordinatore le chiese quanto avesse ritardato il progetto.
 
-Si irritò con se stessa. Le stavano togliendo una funzione che aveva contribuito a migliorare, e lei pensava a due sedie di cucina occupate dai libri.
+«Due giorni di collaudo. La correzione è stata poi verificata in ambiente di prova. Non sono due giorni persi: sono il motivo per cui oggi possiamo chiamare affidabile questa parte del prodotto.»
 
-Per Claire la distinzione era importante. Non la consolava.
+Non le servì alzare la voce. Conosceva il caso meglio di chiunque altro nella stanza.
 
-Alla fine Taylor le chiese di rimanere.
+Quando terminò, nessuno le chiese di mostrare l'ultima correzione. Il responsabile dei rilasci aveva già chiuso l'ordine del giorno tecnico. Una riga del suo documento restò senza un segno di spunta.
 
-«Voglio fare il colloquio prima che la comunicazione ufficiale ti arrivi per posta», disse.
+Cole prese la parola.
 
-«Il mio contratto termina tra quattro mesi.»
+Aruvhana aveva accettato un rinnovo triennale condizionato a ulteriori verifiche. Il piano conservava larga parte delle attività ma prevedeva, a regime, **trentuno ruoli equivalenti a tempo pieno in meno**. Dodici percorsi di ricollocazione erano ancora allo studio; per altri diciannove rapporti a termine o di somministrazione era prevista la mancata prosecuzione, con le verifiche individuali necessarie.
 
-«Sì.»
+Non erano trentuno lettere di licenziamento. Non erano neppure trentuno astrazioni.
 
-«E non intendete rinnovarlo nella posizione attuale.»
+«Il personale interessato sarà informato individualmente», disse la responsabile HR. «Le comunicazioni sulle singole posizioni non si faranno davanti ai colleghi.»
 
-«Non in questa funzione.»
+Claire fissò la seconda slide. La voce *preparazione delle eccezioni* era stata ridotta a una frazione del costo di prima. Era la funzione che aveva imparato a esercitare, misurare e migliorare.
 
-«Avete un'altra posizione da offrirmi?»
+«Posso fare una domanda?», disse.
 
-Taylor guardò la cartellina.
+Cole annuì.
 
-«Al momento no. Possiamo verificare i posti aperti nella gestione delle eccezioni avanzate, ma non posso prometterti un trasferimento.»
+«Nella previsione dei costi avete compreso il tempo di chi forma i nuovi revisori a leggere il codice vecchio? Non il corso per scrivere richieste agli agenti. Il tempo sul terminale reale, quando il test automatico non sa nemmeno che cosa chiedere.»
 
-Claire annuì.
+Il responsabile della commessa cercò la voce.
 
-«Sai che cosa mi sarebbe piaciuto?», chiese.
+«C'è un pacchetto di formazione.»
+
+«Lo so. Ho contribuito a scriverlo. Sto chiedendo quante ore di affiancamento siano protette dai tempi di consegna.»
+
+Il responsabile sfogliò una pagina.
+
+«Quello dovremo dettagliarlo nel piano di transizione.»
+
+Claire annuì. Era una risposta, non ancora una garanzia.
+
+Terminata la riunione, attese che la stanza si svuotasse. Taylor rimase accanto al tavolo.
+
+«Mi dispiace per come è andata», disse.
+
+«Mi avete parlato prima, almeno. Non ho dovuto scoprirlo da una slide.»
+
+«Era il minimo.»
+
+«Non è quello che cercavo.»
+
+Taylor non si difese.
+
+Claire aprì la cartellina. Due delle tre correzioni rosse risultavano già recepite nel rapporto finale. La terza non era stata discussa. La fotografò e chiese che venisse registrata tra le verifiche aperte, con un responsabile e una data. Taylor glielo confermò senza fingere di poterla approvare al posto del team di qualità.
+
+«Sai che cosa mi sarebbe piaciuto?», chiese Claire.
 
 «Dimmi.»
 
 «Una volta sola, arrivare a una riunione e trovare una proposta di lavoro che portasse il mio nome.»
 
-Taylor non provò a contraddirla.
+Taylor la guardò. Aveva pronto un «capisco» che a Claire non avrebbe dato niente.
 
-Claire raccolse le tre correzioni che aveva preparato per il pilota.
+Non lo disse.
 
-Due erano già state recepite.
+Claire si allontanò portando con sé il rapporto. Si ricordò della libreria di legno chiaro rimasta nel carrello del negozio online. Non era diventata più costosa quel mattino. Era diventato più difficile immaginare in quale casa l'avrebbe montata.
 
-La terza rimase sul suo foglio, perché il sistema era stato rilasciato dopo una verifica che non la riguardava più.
