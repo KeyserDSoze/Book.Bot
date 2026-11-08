@@ -104,3 +104,7 @@ Nel 26/004 Nerea, dopo aver chiesto come stia Irene, torna a interpretare Bi inv
 ## Diciottesima review — il costo imposto alle persone vicine
 
 Nel **13/004** Nerea si rende conto che ha mandato a Irene più prospetti quasi alle undici di sera, aspettando una verifica indispensabile per l'offerta di Bi. Non ha voluto approfittare dell'amica, ma la propria urgenza ha occupato il tempo di Irene. Nel **14/003** accetta che Irene chiuda il lavoro volontario e che un eventuale nuovo progetto richieda un accordo sulle ore. Il rapporto non si incrina all'improvviso nel capitolo 26: la difficoltà di Nerea ad ascoltare le necessità dell'amica quando teme per Bi è già visibile, senza farne una persona cattiva o inconsapevole per definizione.
+
+## Diciannovesima review — una visita non è una prova di identità
+
+Nel **19/004** Nerea non vuole che Paolo cambi argomento passando dall'esposizione della sua lettera a un articolo sulla diffusione dei robot; l'irritazione nasce dalla domanda ancora aperta su chi possa averla letta, non da una colpa indistinta attribuita a Nico. Nel **21/001** Marta e Mina concordano che il suo incontro con B-17 deve essere volontario e con termini chiari su persone presenti e dati registrati: la sua testimonianza non certifica la continuità tecnica dell'unità. La lacuna di memoria durante il ping pong, osservata nel 21/003, non è risolta artificialmente.
