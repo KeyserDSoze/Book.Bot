@@ -25,7 +25,7 @@ Una delle unità addette ai materiali riprese a portare biancheria fra i piani d
 
 «Mi sono ricordata che cosa significa avere dieci minuti per mangiare seduta.»
 
-B-32 tornò disponibile soltanto dopo ulteriori controlli sulle funzioni conversazionali, già sotto osservazione per l'episodio con B-33. Ada aveva preteso che le segnalazioni dei sensori pertinenti alla sicurezza arrivassero direttamente ai responsabili, senza essere filtrate dal riepilogo con cui il robot rispondeva alle domande. Giulia aveva letto la prova con la registrazione dell'oscillazione; non si fidava ancora del modo in cui Trentadue poteva raccontare un fatto, ma almeno sapeva dove controllarlo. Non venne autorizzato a intrattenere da solo Teresa per periodi prolungati, anche per l'adeguamento alle nuove norme italiane sulle mansioni di compagnia continuativa.
+B-32 tornò disponibile soltanto dopo ulteriori controlli sulle funzioni conversazionali, già sotto osservazione per l'episodio con B-33. Ada aveva preteso che le segnalazioni dei sensori pertinenti alla sicurezza arrivassero direttamente ai responsabili, senza essere filtrate dal riepilogo con cui il robot rispondeva alle domande. Giulia aveva letto la prova con la registrazione dell'oscillazione; non si fidava ancora del modo in cui Trentadue poteva raccontare un fatto, ma almeno sapeva dove controllarlo. Non venne autorizzato a intrattenere da solo Teresa per periodi prolungati: Ada voleva correggere il problema emerso con B-33 e preparare il centro ai limiti del testo appena approvato dal Parlamento, senza fingere che fossero già entrati in vigore tutti gli obblighi previsti.
 
 Teresa lo vide arrivare con un carrello.
 
@@ -53,7 +53,7 @@ B-32 rimase fermo.
 
 «Ho capito.»
 
-Giulia, vicino alla porta, sentì Teresa ridere piano. Aveva in mano il programma della biancheria. Teresa non le chiese di uscire e lei non ebbe bisogno di interrompere la conversazione: rimase soltanto a vedere il piccolo schermo con la fotografia del pomodoro. Quell'incontro breve rientrava nel servizio consentito. Nessuno aveva promesso a Teresa i pomeriggi di prima.
+Giulia, vicino alla porta, sentì Teresa ridere piano. Aveva in mano il programma della biancheria. Teresa non le chiese di uscire e lei non ebbe bisogno di interrompere la conversazione: rimase soltanto a vedere il piccolo schermo con la fotografia del pomodoro. Quell'incontro breve rientrava nel servizio che Ada aveva deciso di autorizzare sotto supervisione. Nessuno aveva promesso a Teresa i pomeriggi di prima.
 
 «È cresciuto davvero», disse Giulia, indicando la foto.
 

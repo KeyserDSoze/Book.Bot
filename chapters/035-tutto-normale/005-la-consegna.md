@@ -91,6 +91,14 @@ Irene le raccontò anche che Gavin, di cui si era lamentata per anni, aveva fina
 
 «Adesso ha un budget», disse Irene. «Dopo che hanno perso le consegne per giorni. Mi hanno chiesto di preparare una lezione; nel contratto di tre mesi c'è scritto quante ore devo dedicarci.»
 
+«Chi ci viene?»
+
+«Malik vuole mandarci i nuovi sviluppatori. Gli ho chiesto di partecipare anche lui: gli esercizi sono sui problemi che dovrà approvare quando non sarò qui.»
+
+«Ha detto di sì?»
+
+«Ha chiesto di mettere le ore nel suo piano di lavoro. Mi sembra un buon inizio.»
+
 Nerea si ricordò di quando Irene aveva fatto prove su terminali vecchi durante la pausa pranzo. Non le chiese se fosse contenta. Era un incarico pagato, non la posizione che l'azienda aveva scelto di non creare.
 
 «Potresti farlo tu.»
@@ -109,7 +117,7 @@ Nerea guardò la cartellina.
 
 Irene prese il proprio badge temporaneo.
 
-«La legge è ancora valida», aggiunse. «Nonostante tutto.»
+«Il testo votato non è stato ritirato», aggiunse Irene. «Ci sono ancora la promulgazione, la pubblicazione, i termini per adeguarsi. Nonostante tutto, nessuno ha cancellato quello che il Parlamento ha approvato.»
 
 «E i robot non hanno ottenuto i diritti che Bi voleva.»
 
