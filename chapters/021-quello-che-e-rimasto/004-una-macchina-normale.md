@@ -74,11 +74,19 @@ Irene ripose la penna.
 
 Paolo non rispose.
 
-Lei prese il modulo.
+Irene prese il modulo. Il campo *approvatore del turno serale* riportava soltanto il nome del reparto. Nessun referente, nessun sostituto.
 
-«Non è un problema di B-21. È un problema di chi dovrebbe decidere quando lui si ferma.»
+«Posso preparare i casi», disse Irene, «ma non posso firmare in anticipo per una persona che non è stata nominata.»
 
-Paolo annuì.
+«Se li blocchiamo, toccherà a me riportare i fascicoli a mano.»
+
+Irene lo guardò. «Questo sì che puoi metterlo nel ticket. Quante ore, e di chi.»
+
+Aprì la richiesta di estensione, aggiunse *non approvata per il turno serale* e allegò il dettaglio degli incarichi che sarebbero tornati manuali. Non cancellò le operazioni già autorizzate di B-21.
+
+«Non è un problema di B-21», disse. «Ma il tempo che perdi tu non autorizza me a inventare un firmatario.»
+
+Paolo rimase un momento a fissare il modulo. Poi segnò il proprio turno nella stima delle ore e la inoltrò al responsabile delle operazioni.
 
 Nel corridoio passò una collega che non conosceva la storia di B-17. Era stata assunta da poco e aveva imparato i nomi dei responsabili prima ancora di capire come fosse organizzato il campus.
 
