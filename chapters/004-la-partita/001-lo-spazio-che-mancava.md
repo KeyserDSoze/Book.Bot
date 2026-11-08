@@ -42,7 +42,7 @@ Leah Rosen aveva approvato la scelta. «Non raccogliamo dati che non ci servono 
 
 Ora il pavimento era pieno di scatole. Paolo era alla ricerca di un cacciavite, Mila litigava con uno scaffale e due colleghi cercavano di decidere se ordinare i libri per argomento oppure per dimensione.
 
-Il telefono di Mila vibrò sopra una scatola. Lo guardò e fece una smorfia. «Mia sorella da Zagabria. Le avevo promesso che l'avrei chiamata prima di pranzo.»
+Il telefono di Mila vibrò sopra una scatola. Lo guardò e fece una smorfia. «Mia sorella da Zagabria. Le avevo promesso che l'avrei chiamata prima di pranzo.» Lo disse a un volume che raggiunse perfino la persona intenta a sistemare i libri nell'altra stanza.
 
 «Chiamala», disse Kyla, prendendo il lato dello scaffale che Mila stava sorreggendo. La mensola scese di qualche centimetro. Kyla la rimise in equilibrio contro il muro.
 

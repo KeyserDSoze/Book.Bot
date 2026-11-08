@@ -28,6 +28,8 @@ Scelse l'intervallo trimestrale.
 
 **100% delle decisioni critiche con avallo umano.**
 
+La nota in caratteri piccoli definiva *avallo* come presenza di una firma registrata, non come verifica del tempo che quella persona aveva passato a capire la decisione. Kyla conosceva la differenza, ma il dato sul pannello non la spiegava.
+
 Sahir lesse i numeri e si girò verso di lei.
 
 «Avete i robot da ventisei giorni e i risparmi riguardano tre mesi.»
@@ -88,7 +90,7 @@ Aveva scritto quella frase pensando al varco che Nico aveva riparato poco prima.
 
 «Mi sembra che stiate facendo diventare tutti responsabili», disse Sahir.
 
-«A volte anche troppi», rispose Kyla. «Ma l'alternativa non può essere che nessuno risponda più di un errore perché l'ha scritto una macchina.»
+«A volte abbiamo troppe caselle da spuntare», rispose Kyla. «Sahir, se su quel test esce una riga sbagliata, non mi basta sapere che qualcuno l'ha firmato. Devo sapere chi richiamare e quale prova rifare.»
 
 Il visitatore annuì, pur senza sembrare persuaso fino in fondo.
 
@@ -104,6 +106,4 @@ Non sapeva ancora chi chiamare. Era una richiesta ragionevole e la sua esitazion
 
 Le porte di vetro si richiusero. Kyla controllò l'ora, scoprì di avere finito in anticipo e pensò ai popcorn comprati dall'amica.
 
-Sul monitor il nuovo ticket era ancora in attesa di prove. Non avrebbe cambiato il mondo quel pomeriggio. Nessuno, guardandolo, avrebbe saputo dire quale effetto avrebbe avuto fra qualche mese.
-
-Kyla abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.
+Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla lasciò un promemoria per chiedere a Malik come sarebbe andata con il terminale reale. Poi abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.

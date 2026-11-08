@@ -38,11 +38,11 @@ Dietro il vetro Malik Okafor, sviluppatore del gruppo integrazioni, aveva aperte
 
 «Alcune commesse richiedevano mesi e squadre intere. Gli agenti di sviluppo hanno cambiato quel lavoro. Oggi preparano adattatori, test, documentazione tecnica. Questo non significa che la versione pronta sia automaticamente quella giusta.»
 
-Dall'altra parte del vetro Malik fermò il cursore su una riga evidenziata. Indicò a una collega il punto sullo schermo; lei scrollò fino a una funzione precedente, poi scosse la testa. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
+Dall'altra parte del vetro Malik fermò il cursore su una riga evidenziata. Sul monitor arrivò un messaggio del responsabile Delivery: *Ci serve il via libera entro le dodici. Se slitta, avvisatemi adesso.* Malik lo lesse senza rispondere. Indicò a una collega il punto sullo schermo; lei scorse fino a una funzione precedente, poi scosse la testa. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
 
 «Perché non accettano la proposta?», chiese Leïa.
 
-«Hanno trovato un caso che il test non comprende. La macchina sa fare ciò che le chiediamo. Qualche volta dobbiamo ricordarci che cosa non le abbiamo chiesto.»
+«Hanno trovato un caso che manca nella prova», rispose Kyla. «La consegna è a mezzogiorno. Se il cliente non può aspettare, voglio che lo dicano prima, non dopo il rilascio.»
 
 La porta si aprì per lasciar passare un tecnico con un vassoio protetto. Portava una tastiera di ricambio e una tessera di prova. Prima di avvicinarsi al banco chiese che la macchina fosse messa nello stato consentito. Nessuno aveva fretta di saltare quel passaggio.
 

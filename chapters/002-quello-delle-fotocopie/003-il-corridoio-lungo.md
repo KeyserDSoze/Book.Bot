@@ -57,7 +57,7 @@ Mauro Lanza trasportava una pila di tazze verso la raccolta. Si spostò appena.
 
 Mila non trovò una battuta pronta. Avrebbe potuto ricordargli il minor numero di chiamate fuori turno. Mauro aveva ragione su una cosa più limitata: i giri erano davvero spariti. Erano una parte dei suoi incarichi, e con essi alcuni compensi aggiuntivi.
 
-«Chiedo a chi prepara la pianificazione», disse.
+«Chiedo a chi prepara la pianificazione», disse Mila. Provò ad abbassare la voce, ma Mauro la sentì perfettamente anche mentre si allontanava.
 
 «L'hai già detto.»
 

@@ -42,7 +42,7 @@ Paolo si fermò. Gli si era formato sul viso il fastidio di chi sa che una frase
 
 «Non nel senso che ha ricevuto un comando», aggiunse. «Mi ha chiesto, ho risposto una sciocchezza, e non ha immediatamente riportato la conversazione a un modulo da compilare.»
 
-«Nessun modulo», confermò Mila. «Un miracolo aziendale.»
+«Nessun modulo», confermò Mila, abbastanza forte da far ridere anche i due colleghi che non stavano partecipando. «Un miracolo aziendale.»
 
 Kyla sorrise. In quel momento B-17 uscì dall'ascensore di servizio con due contenitori impilati. Procedeva verso la sala copie, alla stessa velocità di sempre. Rallentò davanti ai tre.
 

@@ -45,9 +45,11 @@ Alla postazione vicina un agente di sviluppo aveva appena proposto una piccola m
 
 Andò a prendere il caffè.
 
-Paolo Ferri era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Mila Novak teneva in mano il contenitore del pranzo.
+Paolo Ferri era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Aveva il telefono a faccia in giù e un promemoria impostato per la fine della pausa; gli piaceva sapere quanto duravano le cose. Mila Novak teneva in mano il contenitore del pranzo.
 
-«Paolo ha deciso che il mio frigorifero deve essere ridondante», disse Mila. «Ha spostato le lasagne accanto al ghiaccio.»
+«Paolo ha deciso che il mio frigorifero deve essere ridondante», disse Mila. La voce arrivò fino al fondo del corridoio. «Ha spostato le lasagne accanto al ghiaccio.»
+
+Un collega sporse la testa dalla porta, convinto che stessero litigando. Elena gli fece un cenno: era soltanto la pausa di Mila.
 
 «Era il primo spazio libero», protestò Paolo.
 

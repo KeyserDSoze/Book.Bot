@@ -35,7 +35,7 @@ Irene non aveva avuto bisogno di chiedere perché. Aveva letto il progetto, esam
 
 «Lo so.»
 
-«E vorremmo che tu continuassi a occuparsi dei casi fuori soglia.»
+«E vorremmo che tu continuassi a occuparti dei casi fuori soglia.»
 
 «Con quale responsabilità?»
 

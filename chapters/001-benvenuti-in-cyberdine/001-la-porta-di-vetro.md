@@ -54,7 +54,13 @@ L'addetto aveva in mano una cartellina da consegnare al piano superiore. Nico gl
 
 «Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»
 
-Nico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. Poi tornò a parlare con l'addetto. Non sapeva che Kyla lo stesse indicando come un esempio; forse avrebbe protestato se lo avesse saputo.
+Nico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
+
+«Non ti scusare con me», gli disse Nico. «Al massimo con la porta. È lei che non fa quello che promette.»
+
+L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Nico si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
+
+Kyla sapeva che Nico era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
 
 Il telefono vibrò nella tasca della giacca.
 

@@ -28,7 +28,7 @@ B-17 arrivò con cento bicchieri compostabili sotto il braccio.
 
 «Permesso.»
 
-Mila si spostò di lato. «Il campione del quarto piano. Stavolta li metti dal lato giusto?»
+Mila si spostò di lato. «Il campione del quarto piano. Stavolta li metti dal lato giusto?» La domanda uscì così forte che una persona in fondo alla fila si voltò. Mila le sorrise e abbassò il polso in un gesto di scusa, senza abbassare davvero la voce.
 
 «Il vano dei bicchieri ha un unico orientamento consentito», rispose il robot.
 

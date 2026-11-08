@@ -43,7 +43,13 @@ Nico annuì. «Allora non era un problema nuovo.»
 
 «Era un problema vecchio che avevamo smesso di vedere.»
 
-Nico sorrise appena e proseguì verso gli uffici di sviluppo. Kyla non vi lesse nulla di particolare. Era il genere di conversazione che faceva volentieri quando incontrava un tecnico: domande minime su problemi concreti, poi di nuovo al proprio lavoro.
+Nico rise. «Paolo, ci metti un'etichetta anche sulla mia scrivania? Ho tre cavi identici e solo uno funziona.»
+
+«Se vuoi ti faccio un corso.»
+
+«Ne ho già abbastanza, grazie.»
+
+Salutò anche Mila e proseguì verso gli uffici di sviluppo. Kyla non vi lesse nulla di particolare. Nico faceva spesso domande banali perché lasciava agli altri il piacere di aver risolto qualcosa, anziché arrivare per dimostrare di sapere già tutto.
 
 Elena li raggiunse con il tablet. «Per favore, la prossima volta mostrate ai clienti anche la pagina firmata correttamente. Altrimenti penseranno che passiamo il giorno a produrre fogli bianchi.»
 

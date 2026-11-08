@@ -79,9 +79,11 @@ Paolo confrontò le righe una per una. Elena controllò la firma. Solo dopo conf
 
 Il robot lasciò il vassoio sul banco e attese che Elena confermasse la presa in carico.
 
-«Questo è il punto», disse lei, quasi a se stessa. «Se avessimo fatto tutto a mano, avremmo perso mezz'ora. Se gli avessimo fatto provare una quarta volta senza guardare, avremmo rischiato la scheda. Invece abbiamo trovato un modo di fare la cosa giusta.»
+Elena mise la scheda nella cartellina prima che qualcuno potesse appoggiarci sopra la prima copia bianca.
 
-Nessuno rispose. Non erano in vena di una lezione di processo.
+«Per favore», disse, «la prossima volta chiamatemi prima del terzo tentativo. È l'unico originale firmato che abbiamo.»
+
+Paolo fece un cenno. Mila aveva già preso il foglio inutilizzabile.
 
 Mila teneva ancora la prima copia. Con una penna scrisse sul bordo: **PRIMO CAPOLAVORO DI B-17**.
 

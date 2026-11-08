@@ -38,11 +38,9 @@ Dall'altra parte della vetrata due impiegati mangiavano su una terrazza, molto p
 
 «Quindi il vantaggio è lavorare ventiquattr'ore su ventiquattro», disse Leïa.
 
-«Il vantaggio è poter distinguere il tempo in cui serve una persona da quello in cui una macchina esegue una procedura.»
+«Non sempre», disse Kyla. «Per esempio, adesso non abbiamo un tecnico di notte che aspetta la fine della ricarica. Lo chiamiamo se la seconda stazione è occupata o c'è un'anomalia.»
 
-Kyla si accorse che la propria frase era troppo vicina al linguaggio di una presentazione. Aprì una schermata con l'orario della squadra che seguiva i connettori di Aruvhana.
-
-«Prima gli sviluppatori dovevano spesso restare fino a tardi per ricostruire le stesse differenze fra registri. Da quando gli agenti preparano i confronti e i test, molti rientrano a casa in orario. Uno di loro è andato a prendere sua figlia a scuola per tre settimane di fila. È successo. Non è un indicatore teorico.»
+Si accorse che stava evitando la domanda più difficile e aprì una schermata con l'orario delle persone che seguivano i connettori di Aruvhana. «Prima gli sviluppatori dovevano spesso restare fino a tardi per ricostruire le stesse differenze fra registri. Da quando gli agenti preparano i confronti e i test, molti rientrano a casa in orario. Uno di loro è andato a prendere sua figlia a scuola per tre settimane di fila. È successo. Non è un indicatore teorico.»
 
 «E se prima lavoravano in sei per fare quello che ora ne richiede due?», chiese Sahir.
 

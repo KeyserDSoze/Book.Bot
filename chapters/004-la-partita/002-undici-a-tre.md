@@ -19,7 +19,7 @@ factions:
 
 «Undici a tre.»
 
-Paolo Ferri guardò la pallina ferma contro la rete, poi il tabellone improvvisato che Mila aveva aperto sul telefono.
+Paolo Ferri guardò la pallina ferma contro la rete, poi il tabellone improvvisato che Mila aveva aperto sul telefono. Sul proprio schermo aveva impostato un limite di venti minuti per il gioco. Aveva già ignorato due avvisi. Si disse che avrebbe finito la partita e basta, poi guardò di nuovo il timer.
 
 «Aspetta. Come sarebbe undici a tre?»
 
