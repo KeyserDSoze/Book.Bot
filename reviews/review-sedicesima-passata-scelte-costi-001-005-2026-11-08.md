@@ -2,7 +2,7 @@
 
 **Data:** 8 novembre 2026  
 **Base:** `main` aggiornato, ramo di lavoro `editorial/sedicesima-passata-costi-e-scelte-001-005`  
-**Ambito verificato:** scene 1/003–004, 2/004, 5/002, con lettura di raccordo di 1–3, 5, 7/002, linee guida aziendali, schede di Kyla, Gavin e Irene e cronologia. La passata **non** certifica una rilettura riga per riga di tutte le 142/143 scene riportate nei documenti storici.
+**Ambito verificato:** scene 1/003–004, 2/004, 5/002, con lettura di raccordo di 1–3, 5, 7/002, linee guida aziendali, schede di Kyla, Gavin e Irene e cronologia. La passata **non** certifica una rilettura riga per riga di tutte le scene del romanzo.
 
 ## Diagnosi
 
@@ -10,7 +10,7 @@
 
 **2. Kyla era troppo spesso l'adulta che conosce sempre la risposta.** La sua competenza rimane un vantaggio reale. Diventa un personaggio più credibile quando, nel capitolo 5, preferisce soddisfare una richiesta verificabile del cliente e rimanda un corso di cui nessuno le chiederà subito conto. La responsabilità del seguito ricade sul suo nome, ma le ore non vengono finanziate per magia.
 
-**3. Le scene di avvio avevano alcune conclusioni interpretative.** La dichiarazione secondo cui nessuno avesse rinunciato alla parte del lavoro che sapeva fare era troppo assoluta e già in tensione con la carriera di Irene. Al suo posto, nella scena 2/004, emerge una trattativa su quarantacinque/quaranta minuti di preparazione, privacy del documento e carico di lavoro. Il testo ora parla di **quaranta minuti**, senza quantificazioni inventate nei documenti contabili.
+**3. Le scene di avvio avevano alcune conclusioni interpretative.** La dichiarazione secondo cui nessuno avesse rinunciato alla parte del lavoro che sapeva fare era troppo assoluta e già in tensione con la carriera di Irene. Al suo posto, nella scena 2/004, emerge una trattativa su **quaranta minuti** di preparazione, privacy del documento e carico di lavoro. Non si presentano come ore già approvate.
 
 **4. Due regole di continuità contraddicevano la prosa corrente.** Una regola chiedeva ancora di nascondere il mestiere di Cyberdine; la timeline attribuiva a B-17 nel capitolo 1 una proposta dell'agente software. Corrette entrambe: Cyberdine vende già integrazione software e B-17 resta in giardino finché non passa alle commissioni.
 
