@@ -5,27 +5,27 @@ chapter: chapter:009-la-copia
 number: 1
 title: Stessa faccia
 canon: canon
-pov: character:paolo-ferri
+pov: character:paul-turner
 characters:
-  - character:paolo-ferri
+  - character:paul-turner
   - character:kyla
   - character:b-21
-  - character:nico-valenti
+  - character:noah-carter
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Un mese dopo la plenaria, Paolo Ferri vide arrivare Bi dentro una scatola.
+Un mese dopo la plenaria, Paul Turner vide arrivare Bi dentro una scatola.
 
 Fu il primo pensiero che gli attraversò la testa, e gli dispiacque averlo avuto.
 
 La cassa era alta quasi due metri, con i supporti di sicurezza ancora fissati ai lati. Il furgone l'aveva lasciata nel magazzino tecnico alle otto e dieci. Sulla distinta di consegna comparivano un codice di modello identico a quello di B-17 e un numero di serie diverso.
 
-Paolo controllò il documento due volte. La pratica era corretta. La distinta rimandava anche alle schede di compatibilità Lanter della famiglia B, lo stesso archivio di supporto a cui aveva affidato la nota sulla cornice magnetica. Stesso modello, altro numero di serie; le istruzioni utili potevano tornare, le autorizzazioni locali no.
+Paul controllò il documento due volte. La pratica era corretta. La distinta rimandava anche alle schede di compatibilità Lanter della famiglia B, lo stesso archivio di supporto a cui aveva affidato la nota sulla cornice magnetica. Stesso modello, altro numero di serie; le istruzioni utili potevano tornare, le autorizzazioni locali no.
 
-Dietro il vetro del reparto sviluppo, Nico Valenti aveva interrotto una conversazione per guardare la cassa. Non si avvicinò. Prima che il tecnico della consegna iniziasse a togliere i fermi, Nico sparì dietro una porta interna. Paolo pensò che probabilmente avesse un test in corso e non potesse abbandonarlo.
+Dietro il vetro del reparto sviluppo, Noah Carter aveva interrotto una conversazione per guardare la cassa. Non si avvicinò. Prima che il tecnico della consegna iniziasse a togliere i fermi, Noah sparì dietro una porta interna. Paul pensò che probabilmente avesse un test in corso e non potesse abbandonarlo.
 
 «Vuoi che la apriamo?», gli chiese il tecnico incaricato della consegna.
 
@@ -35,7 +35,7 @@ Quando il pannello anteriore venne rimosso, apparve una figura umana in posizion
 
 Era identica.
 
-Non simile, non della stessa famiglia di prodotti. Identica a quella che Paolo aveva visto per settimane passare davanti alla macchinetta del caffè, recuperare cartelle, tentare di separare due fogli e, infine, raccogliere una pallina sotto il tavolo da ping pong.
+Non simile, non della stessa famiglia di prodotti. Identica a quella che Paul aveva visto per settimane passare davanti alla macchinetta del caffè, recuperare cartelle, tentare di separare due fogli e, infine, raccogliere una pallina sotto il tavolo da ping pong.
 
 Stesso colore opaco delle superfici. Stessa forma dei giunti. Stessa piccola linea sulla base del polso destro.
 
@@ -43,13 +43,13 @@ Soltanto la targhetta laterale riportava **B-21**.
 
 «È il modello più vicino a quello che avevate», spiegò il tecnico. «La configurazione di base è certificata per il vostro ambiente.»
 
-Paolo si chinò per osservare l'attacco della spalla.
+Paul si chinò per osservare l'attacco della spalla.
 
 «È la stessa revisione meccanica?»
 
 «Sì. Abbiamo verificato compatibilità e profilo di sicurezza. Il resto della configurazione operativa è quello previsto dal contratto.»
 
-Paolo annuì. Aveva chiesto un rapporto sui test e lo aveva ricevuto. Il nuovo robot non avrebbe dovuto comportarsi come una persona per essere utile. Doveva riconoscere ostacoli, muoversi in sicurezza, rispettare le autorizzazioni, portare oggetti e interagire con i sistemi senza andare oltre i permessi ricevuti.
+Paul annuì. Aveva chiesto un rapporto sui test e lo aveva ricevuto. Il nuovo robot non avrebbe dovuto comportarsi come una persona per essere utile. Doveva riconoscere ostacoli, muoversi in sicurezza, rispettare le autorizzazioni, portare oggetti e interagire con i sistemi senza andare oltre i permessi ricevuti.
 
 Il tecnico liberò i fermi.
 
@@ -59,29 +59,29 @@ Le luci dell'unità si accesero in sequenza. Il robot spostò il peso sulle gamb
 
 «Unità B-21 pronta per la verifica delle funzioni operative.»
 
-La voce era talmente vicina a quella di Bi che Paolo sentì la gola stringersi.
+La voce era talmente vicina a quella di Bi che Paul sentì la gola stringersi.
 
 «Buongiorno», disse.
 
 «Buongiorno. Indicare la richiesta.»
 
-Paolo rimase in silenzio un istante.
+Paul rimase in silenzio un istante.
 
 Era una risposta perfettamente appropriata. Nessuno aveva chiesto al robot di intrattenere una conversazione.
 
 «Facciamo il giro di prova», disse.
 
-La verifica prese più di un'ora. B-21 avanzò tra coni di sicurezza, attraversò una porta automatica, riconobbe i limiti del carico e recuperò una scatola da uno scaffale basso. Paolo gli fece spostare due fascicoli, uno spesso e uno sottile, per controllare che la presa fosse stabile.
+La verifica prese più di un'ora. B-21 avanzò tra coni di sicurezza, attraversò una porta automatica, riconobbe i limiti del carico e recuperò una scatola da uno scaffale basso. Paul gli fece spostare due fascicoli, uno spesso e uno sottile, per controllare che la presa fosse stabile.
 
 Il nuovo robot li separò senza difficoltà.
 
-Paolo guardò le sue dita.
+Paul guardò le sue dita.
 
 «Bravo.»
 
 «Operazione completata», rispose B-21.
 
-Paolo aspettò una battuta che non arrivò. Non avrebbe dovuto aspettarsela. Per il test, anzi, quella era la risposta migliore.
+Paul aspettò una battuta che non arrivò. Non avrebbe dovuto aspettarsela. Per il test, anzi, quella era la risposta migliore.
 
 Prese il tablet e segnò la voce: **manipolazione documentale conforme**.
 
@@ -89,7 +89,7 @@ Kyla arrivò mentre stavano verificando il percorso tra il magazzino e la sala c
 
 «Sembra lui», disse.
 
-Paolo non le chiese chi.
+Paul non le chiese chi.
 
 «Lo so.»
 
@@ -105,7 +105,7 @@ Kyla si sistemò la cartellina contro il petto.
 
 Il robot tornò verso il carrello, in attesa del comando successivo.
 
-«Hai visto?», sussurrò Paolo.
+«Hai visto?», sussurrò Paul.
 
 «Cosa?»
 
@@ -113,7 +113,7 @@ Il robot tornò verso il carrello, in attesa del comando successivo.
 
 Kyla lo guardò con un'espressione che diceva di aver capito comunque.
 
-Più tardi eseguirono un primo test sulla fotocopiatrice. Paolo aprì il cassetto, prese la cornice magnetica e la posò sul banco. Era la stessa che aveva costruito per B-17 quando il robot non riusciva a gestire il foglio azzurro.
+Più tardi eseguirono un primo test sulla fotocopiatrice. Paul aprì il cassetto, prese la cornice magnetica e la posò sul banco. Era la stessa che aveva costruito per B-17 quando il robot non riusciva a gestire il foglio azzurro.
 
 «B-21, duplica questo documento di prova seguendo la procedura autorizzata.»
 
@@ -121,21 +121,21 @@ Più tardi eseguirono un primo test sulla fotocopiatrice. Paolo aprì il cassett
 
 Il robot aprì il coperchio, collocò il foglio nella cornice e lo allineò con calma. La copia uscì completa e dal verso giusto. Nessun errore, nessuna pausa insolita.
 
-«Perfetto», disse Paolo.
+«Perfetto», disse Paul.
 
 «La verifica è stata completata. La copia è conforme all'originale di prova.»
 
-Paolo prese il foglio. Non sapeva se essere contento o deluso. Nel registro dei test scrisse **conforme**, con una pressione tale da quasi incidere la pagina.
+Paul prese il foglio. Non sapeva se essere contento o deluso. Nel registro dei test scrisse **conforme**, con una pressione tale da quasi incidere la pagina.
 
 La mattina era andata bene. La nuova unità sapeva fare il lavoro.
 
-Quando arrivò la pausa, Paolo tornò alla macchinetta del caffè. Aprì il vano e trovò i bicchieri pieni. B-21 aveva completato il primo rifornimento assegnato dal calendario.
+Quando arrivò la pausa, Paul tornò alla macchinetta del caffè. Aprì il vano e trovò i bicchieri pieni. B-21 aveva completato il primo rifornimento assegnato dal calendario.
 
 Sul bordo del distributore c'era ancora il foglio scritto a mano un mese prima: **SE LI FINITE, RIEMPITELI. I RICAMBI SONO NEL DEPOSITO C.**
 
 Qualcuno aveva aggiunto sotto: **ORA CI PENSA B-21.**
 
-Paolo guardò le due righe. La seconda era vera.
+Paul guardò le due righe. La seconda era vera.
 
 Controllò il telefono: il limite che si era imposto per le applicazioni non di lavoro era ancora intatto. Ne fu soddisfatto per un secondo; subito dopo si accorse che aveva aperto il controllo tre volte quella mattina. Spense lo schermo, irritato più con se stesso che con B-21.
 
