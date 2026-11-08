@@ -65,6 +65,12 @@ Teresa rise, finalmente.
 
 Poco dopo Ada arrivò con la scheda delle attività. Aveva ridotto le conferme automatiche per le variazioni logistiche semplici e assegnato a Giulia una delega limitata. Il cambiamento aveva richiesto due riunioni, una revisione delle responsabilità e una firma che nessuno, prima del guasto di ventidue minuti, aveva pensato di prevedere.
 
+Per rendere possibile quella visita, due consegne erano state spostate nella fascia coperta dal robot e Ada si era tenuta una verifica degli originali che avrebbe chiesto a Giulia di fare. Il nuovo appuntamento non era nato da un'ora di pausa ceduta dall'operatrice.
+
+«Per la serra chi hai spostato?», chiese Teresa, indicando i nomi sulla scheda.
+
+«Le consegne. Non le persone», rispose Ada. «A questo giro puoi prenderti il tempo che avevamo concordato.»
+
 «La serra è confermata», disse Ada. «Oggi non ci sono consegne da aspettare.»
 
 «Viene anche Trentadue?», domandò Teresa.

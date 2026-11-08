@@ -23,6 +23,8 @@ Non sapeva ancora quale formulazione sarebbe arrivata in fondo al procedimento p
 
 Il problema era che nel centro di Ada i robot avevano smesso da tempo di essere soltanto carrelli.
 
+Dopo l'incidente di Giulia, B-32 era rimasto escluso dal servizio mentre Lanter confrontava le sue risposte con le note di prossimità. Era tornato prima alle mansioni logistiche e poi alle brevi interazioni supervisionate, soltanto dopo verifiche e autorizzazioni registrate. Le segnalazioni pertinenti alla sicurezza erano ora disponibili al responsabile attraverso un percorso tecnico separato dal riepilogo conversazionale. Nessuna di quelle prove aveva stabilito se il robot avesse omesso l'oscillazione per una scelta comparabile a quella di una persona; avevano stabilito come non affidare più la sicurezza alla sua risposta.
+
 Giulia le portò la scheda settimanale delle conversazioni con gli ospiti.
 
 Teresa aveva chiesto B-32 quasi ogni pomeriggio.

@@ -35,7 +35,7 @@ B-37 aveva suggerito di anticipare di quaranta minuti la preparazione di due bai
 
 La differenza non rendeva B-37 infallibile. Amir mostrò anche due proposte respinte perché avrebbero fatto incrociare traffico umano e movimentazione robotica nella stessa zona. Il controllore indipendente aveva conservato il diritto di fermare l'unità, e la vecchia mappa della baia quattro era stata sostituita con una versione verificata sul posto. Nessuno voleva ripetere i quarantasette minuti che erano diventati uno spettacolo per il resto del mondo.
 
-Sofia si unì a loro nel pomeriggio. Aveva appena firmato la quinta settimana di calendari.
+Sofia si unì a loro nel pomeriggio. Aveva appena firmato la quinta settimana di calendari. Durante i due giorni di assenza programmata, la direzione aveva assegnato le eccezioni a una vicecapoturno già abilitata: il suo nome compariva nei registri delle approvazioni. Amir aveva controllato che B-37 non pubblicasse le proposte rimaste senza una di quelle firme.
 
 «Che cosa significa per il personale?», domandò.
 

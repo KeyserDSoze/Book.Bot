@@ -119,7 +119,17 @@ Elisa annuì.
 
 «Non l'ho pensato.»
 
-Giulia uscì.
+«E queste storie che gli racconta? Restano da qualche parte?»
+
+Giulia guardò Teresa prima di rispondere. «Posso mostrarti l'informativa sul servizio. Per i dettagli dei dati conservati devo chiedere a chi segue il sistema, non voglio darti una risposta a memoria.»
+
+«Chiedilo anche a me», intervenne Teresa. «Sono le mie storie.»
+
+Elisa annuì, sorpresa dal fatto che la madre avesse capito quella domanda prima di lei.
+
+«Vi porto il documento», disse Giulia. «Poi deciderete che cosa volete chiedere.»
+
+Uscì senza interrompere la visita.
 
 Teresa prese la mano della figlia.
 
@@ -179,7 +189,11 @@ Elisa guardò la torta. «E tu hai fatto finta di credermi.»
 
 «Elisa, non sto facendo una classifica. È più facile, questo sì. Quando non puoi venire, lui è già qui.»
 
-Elisa lasciò andare la mano della madre per aprire la scatola della torta. Aveva comprato due forchettine di plastica e dimenticato i piatti. Teresa ne prese una e l'affondò direttamente nella glassa.
+Elisa lasciò andare la mano della madre per aprire la scatola della torta. «Non voglio impedirti di parlargli», disse. «Vorrei solo non scoprire da un robot le cose che non mi racconti più.»
+
+«Allora non chiamarmi soltanto quando hai il tempo di organizzarmi la giornata», disse Teresa. «Chiamami anche per raccontarmi la tua.»
+
+Elisa aveva comprato due forchettine di plastica e dimenticato i piatti. Teresa ne prese una e l'affondò direttamente nella glassa.
 
 «Almeno dammi il tempo di tagliarla», disse Elisa.
 

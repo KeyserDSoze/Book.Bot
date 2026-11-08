@@ -17,3 +17,7 @@ Nel capitolo 22 Elisa arriva tardi con una torta, prova gelosia per B-32 e chied
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 31/001 Elisa arriva davvero al centro assistenziale con due amici e una cassa d'acqua durante il fermo. Ada non permette ai volontari di svolgere compiti riservati agli operatori; Elisa resta con la madre, timorosa che Teresa interpreti la visita come un gesto dovuto alla crisi delle macchine. Non diventa personale gratuito né sostituisce l'attenzione professionale di Giulia.
+
+## Ventesima review — gelosia, privacy e autonomia della madre
+
+Nel **22/002** Elisa resta gelosa del tempo che B-32 può dedicare a Teresa, ma chiede anche chi conservi o legga le storie private che sua madre gli racconta. Giulia le offre un'informativa senza trasferirle automaticamente i contenuti della madre; Teresa pretende di partecipare alla decisione. Elisa non cerca di vietare il rapporto con la macchina: teme che il proprio ruolo di figlia diventi soltanto amministrativo e che non conosca più ciò che Teresa desidera raccontarle. Il successivo aiuto volontario durante il fermo mondiale resta affetto, non obbligo di lavorare gratuitamente per il centro.

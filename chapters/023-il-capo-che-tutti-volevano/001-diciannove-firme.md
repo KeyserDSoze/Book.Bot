@@ -80,4 +80,10 @@ La mattina seguente qualcuno scrisse una sola parola.
 
 *Finalmente.*
 
-Accanto, con una calligrafia diversa, apparve una domanda: *Chi corregge il turno se la persona che firma è in ferie?* Sofia la fotografò prima che il foglio venisse coperto da altre richieste. Il pilota sarebbe cominciato il lunedì; quella casella del piano non aveva ancora un sostituto.
+Accanto, con una calligrafia diversa, apparve una domanda: *Chi corregge il turno se la persona che firma è in ferie?*
+
+Sofia la fotografò prima che il foglio venisse coperto da altre richieste. Aprì il piano del pilota e verificò i propri giorni di presenza. Le prime proposte poteva firmarle lei. Per quelle successive a una sua assenza programmata non compariva un sostituto abilitato.
+
+Scrisse alla direzione del personale: *Il pilota parte lunedì per i turni che posso approvare. Nessun calendario relativo alla mia assenza sarà pubblicato finché non avremo designato e formato il sostituto per le eccezioni.*
+
+Il calendario provvisorio restò visibile, ma il campo di approvazione del periodo scoperto rimase vuoto. La persona che aveva scritto la domanda sul foglio avrebbe potuto vedere che non era stata cancellata.

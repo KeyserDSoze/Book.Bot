@@ -120,7 +120,7 @@ Ada cercò una risposta, poi rimise la giacca sull'attaccapanni senza avvicinars
 
 «Voglio vedere come avete registrato l'infortunio», disse l'operatrice. «E se questi giorni vengono tolti dalle ferie che ho già chiesto.»
 
-«Le due pratiche sono separate. Non ti chiedo di firmare niente adesso. Ti mando la documentazione e la facciamo controllare dal personale.»
+«Le due pratiche sono separate. Non ti chiedo di firmare niente adesso. Ti mando il numero di protocollo dell'infortunio e una copia della tua segnalazione originale. Sul trattamento dei giorni di assenza ti risponderà l'ufficio personale per iscritto; non ti prometto io che le ferie resteranno intatte senza aver controllato.»
 
 «Mandami anche la segnalazione di ieri, com'era prima che ci aggiungessero le note.»
 

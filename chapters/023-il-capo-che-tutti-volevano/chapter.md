@@ -30,3 +30,7 @@ Rosa aveva incorporato straordinari ripetuti nel bilancio famigliare e paga una 
 ## Quattordicesima review — relazioni e continuità
 
 Nel 004 è Rosa, non Sofia, a osservare «Sono proprio le parole che avrebbe usato il vecchio responsabile». Sofia prende sul serio la critica sugli straordinari abituali ma non garantiti, promette un incontro con la direzione e non un ritorno impossibile del reddito.
+
+## Ventesima review — un programma firmato non può inventare chi sostituisce Sofia
+
+Nel **23/001** il pilota inizia soltanto per le settimane sulle quali Sofia ha titolo a firmare: per la sua assenza programmata chiede la designazione di un sostituto abilitato, senza pubblicare turni privi di responsabile. In **23/002–003** la direzione nomina una vicecapoturno abilitata per due giorni; i calendari mostrano chi firma realmente, e Amir verifica che B-37 non renda operativi i turni ancora privi di approvazione. Nel **23/004** Rosa distingue chiaramente il calo di straordinari già iniziato dopo l'introduzione della collaborazione contestuale dal secondo calo legato al nuovo algoritmo delle turnazioni. Sofia chiede un incontro entro venerdì con la direzione, dati aggregati e rappresentanti dei lavoratori, senza trasferire buste paga private o promettere ore aggiuntive. La decisione sui due mancati rinnovi resta della direzione.
