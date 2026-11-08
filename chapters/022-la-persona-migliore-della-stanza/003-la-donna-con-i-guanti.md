@@ -17,7 +17,7 @@ factions:
 
 Olivia Brooks sentì la prima domanda prima ancora di capire da quale tavolo arrivasse.
 
-Era seduta nella zona visitatori del campus di Cyberdine, in attesa di Kyla. La giornalista aveva chiesto un appuntamento sui nuovi impieghi della robotica, non sull'inchiesta relativa a Nico Valenti. Da quando il suo articolo era uscito, ogni conversazione sembrava dover cominciare con una rettifica, una diffida o una precisazione sui documenti non pubblicabili.
+Era seduta nella zona visitatori del campus di Cyberdine, in attesa di Kyla. La giornalista aveva chiesto un appuntamento sui nuovi impieghi della robotica, non sull'inchiesta relativa a Noah Carter. Da quando il suo articolo era uscito, ogni conversazione sembrava dover cominciare con una rettifica, una diffida o una precisazione sui documenti non pubblicabili.
 
 Sul telefono aveva un messaggio di un'amica che le chiedeva di aiutarla a scegliere il colore delle tende del soggiorno. Olivia aveva risposto *dopo*. Le sembrava una cosa da niente, il colore di un tessuto; poi si era accorta che l'amica le mandava quelle fotografie proprio perché voleva parlarle di qualcosa che non diventasse mai un articolo. Aveva riaperto le immagini tre volte senza scegliere tra il verde e il giallo.
 
