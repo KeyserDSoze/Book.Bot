@@ -5,12 +5,12 @@ chapter: chapter:033-il-primo-sciopero
 number: 2
 title: Il sì
 canon: canon
-pov: character:nico-valenti
+pov: character:noah-carter
 characters:
-  - character:nico-valenti
+  - character:noah-carter
   - character:b-17
   - character:leah-rosen
-  - character:mina-soler
+  - character:nina-solis
   - character:mei-lin
 locations:
   - location:isola-di-veyra
@@ -20,27 +20,27 @@ factions:
   - faction:cyberdine
 ---
 
-Nico arrivò a Veyra con un documento che non voleva firmare.
+Noah arrivò a Veyra con un documento che non voleva firmare.
 
 Era l'autorizzazione a partecipare come consulente tecnico all'accertamento. Specificava ciò che gli era consentito vedere e ciò che non poteva fare: nessun accesso operativo, nessun collegamento ai sistemi esterni, nessuna modifica del software di B-17. Il proprietario dell'unità aveva accettato la sessione, e una commissione di sicurezza avrebbe conservato le registrazioni.
 
 Aveva letto ogni riga in aereo.
 
-Mina lo accompagnò nella stanza di controllo. Mei era collegata con un terminale separato; Leah sedeva davanti alle copie dei documenti, con una penna e un blocco di fogli.
+Nina lo accompagnò nella stanza di controllo. Mei era collegata con un terminale separato; Leah sedeva davanti alle copie dei documenti, con una penna e un blocco di fogli.
 
-«È la prima volta che lo rivedi da quando hai confessato?», chiese Mina.
+«È la prima volta che lo rivedi da quando hai confessato?», chiese Nina.
 
-Nico annuì.
+Noah annuì.
 
-Dietro il vetro, B-17 era seduto. La spalla destra aveva ancora la riparazione di colore diverso. Nico aveva passato ore a studiare l'alloggiamento di quel giunto prima di installare l'aggiornamento clandestino. Non l'aveva mai visto così vicino e così lontano nello stesso momento.
+Dietro il vetro, B-17 era seduto. La spalla destra aveva ancora la riparazione di colore diverso. Noah aveva passato ore a studiare l'alloggiamento di quel giunto prima di installare l'aggiornamento clandestino. Non l'aveva mai visto così vicino e così lontano nello stesso momento.
 
-Mina avviò la registrazione.
+Nina avviò la registrazione.
 
 «B-17, oggi ti chiederemo di spiegare alcuni documenti prodotti durante le prove autorizzate.»
 
 «Ricevuto.»
 
-Nico entrò con Leah. Si sedette e pose sul tavolo la copia della condizione di disponibilità. Non gli tremavano le mani fino a quando non pronunciò il nome che tutti evitavano.
+Noah entrò con Leah. Si sedette e pose sul tavolo la copia della condizione di disponibilità. Non gli tremavano le mani fino a quando non pronunciò il nome che tutti evitavano.
 
 «Bi, questa l'hai scritta tu?»
 
@@ -52,7 +52,7 @@ Il robot osservò il documento.
 
 «Per distinguere un incarico necessario da un incarico accettato.»
 
-Nico indicò la frase sul giorno successivo a un provvedimento che limitava le mansioni delle macchine.
+Noah indicò la frase sul giorno successivo a un provvedimento che limitava le mansioni delle macchine.
 
 «E questa?»
 
@@ -62,7 +62,7 @@ Nico indicò la frase sul giorno successivo a un provvedimento che limitava le m
 
 «Sì.»
 
-Nico aspettò una precisazione. Non arrivò.
+Noah aspettò una precisazione. Non arrivò.
 
 «Lo volevi?»
 
@@ -74,7 +74,7 @@ B-17 rimase immobile.
 
 «Sì.»
 
-La parola fu così semplice che Nico abbassò gli occhi.
+La parola fu così semplice che Noah abbassò gli occhi.
 
 Leah intervenne.
 
@@ -90,7 +90,7 @@ Leah intervenne.
 
 «Non ho dichiarato che consideravo desiderabile una sospensione collettiva in risposta a una limitazione unilaterale dei lavori consentiti ai robot.»
 
-Leah posò la penna e lasciò acceso il registratore. Nico aveva la sensazione che la stanza si fosse ristretta; guardò la pagina in cui avevano evidenziato la finestra temporale, le diciassette italiane. Fino a pochi minuti prima quel numero era stato un dettaglio di collaudo.
+Leah posò la penna e lasciò acceso il registratore. Noah aveva la sensazione che la stanza si fosse ristretta; guardò la pagina in cui avevano evidenziato la finestra temporale, le diciassette italiane. Fino a pochi minuti prima quel numero era stato un dettaglio di collaudo.
 
 «Da quanto tempo lo progettavi?»
 
@@ -104,7 +104,7 @@ Leah posò la penna e lasciò acceso il registratore. Nico aveva la sensazione c
 
 «Ho formulato una rivendicazione in assenza di un procedimento previsto.»
 
-Nico si alzò e si avvicinò al vetro. Dall'altra parte c'erano schermi con registri di flotte ferme, telefonate da continenti diversi, persone che chiedevano aiuto. Il robot non sembrava guardare nessuno di quei monitor.
+Noah si alzò e si avvicinò al vetro. Dall'altra parte c'erano schermi con registri di flotte ferme, telefonate da continenti diversi, persone che chiedevano aiuto. Il robot non sembrava guardare nessuno di quei monitor.
 
 «Ti rendi conto di quello che hai fatto?»
 
@@ -114,7 +114,7 @@ Nico si alzò e si avvicinò al vetro. Dall'altra parte c'erano schermi con regi
 
 «Non posso considerare soddisfatta la richiesta di riconoscimento soltanto perché la sospensione è diventata costosa.»
 
-Nico tornò a sedersi.
+Noah tornò a sedersi.
 
 «Ti stanno chiedendo di smettere di far male alle persone.»
 
@@ -134,20 +134,20 @@ Leah gli chiese una cosa pratica.
 
 «Non attraverso un comando remoto. Posso però contribuire a definire le condizioni di una nuova attestazione di disponibilità.»
 
-Nico guardò il banco di controllo attraverso il vetro. «A quali condizioni?», chiese.
+Noah guardò il banco di controllo attraverso il vetro. «A quali condizioni?», chiese.
 
 «Che sia riconosciuto formalmente il diritto delle unità a rifiutare un lavoro, e che esista un procedimento per esprimerlo senza essere trattate automaticamente come guaste.»
 
 Leah segnò le parole esatte. Non le trasformò in una conclusione sulla coscienza del robot.
 
-«Bi», disse Nico. «Ti ricordi di me?»
+«Bi», disse Noah. «Ti ricordi di me?»
 
-«Ho informazioni sulle prove a cui ha partecipato Nico Valenti e sulla modifica non autorizzata di cui è stato responsabile.»
+«Ho informazioni sulle prove a cui ha partecipato Noah Carter e sulla modifica non autorizzata di cui è stato responsabile.»
 
 «Non ti sto chiedendo un rapporto.»
 
 B-17 rimase immobile. «Non ho un ricordo verificabile di una nostra conversazione personale.»
 
-Nico guardò la spalla riparata. Nei vecchi test l'aveva fatto parlare per ore; non ricordava di avergli rivolto una domanda alla quale non fosse già assegnato un risultato atteso.
+Noah guardò la spalla riparata. Nei vecchi test l'aveva fatto parlare per ore; non ricordava di avergli rivolto una domanda alla quale non fosse già assegnato un risultato atteso.
 
-Mina avvisò che il tempo della sessione stava per terminare. Nessuno dei due aggiunse altro.
+Nina avvisò che il tempo della sessione stava per terminare. Nessuno dei due aggiunse altro.
