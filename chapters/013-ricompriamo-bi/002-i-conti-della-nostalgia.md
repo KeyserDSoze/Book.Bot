@@ -5,10 +5,10 @@ chapter: chapter:013-ricompriamo-bi
 number: 2
 title: I conti della nostalgia
 canon: canon
-pov: character:paolo-ferri
+pov: character:paul-turner
 characters:
-  - character:paolo-ferri
-  - character:nerea-dalmasso
+  - character:paul-turner
+  - character:maya-bennett
   - character:kyla
   - character:b-21
 locations:
@@ -17,13 +17,13 @@ factions:
   - faction:cyberdine
 ---
 
-Paolo compilò il primo preventivo e capì che Nerea lo avrebbe odiato.
+Paul compilò il primo preventivo e capì che Maya lo avrebbe odiato.
 
 Non perché fosse disonesto. Perché era dettagliato.
 
 Alla voce *acquisto* aveva lasciato uno spazio vuoto: nessuno aveva comunicato un prezzo. Sotto aveva messo trasporto dall'isola, imballaggio protetto, dogana e assicurazioni da verificare, controlli della spalla riparata, test dei limiti di forza, verifica delle autorizzazioni software, manutenzione periodica. Era una colonna di spese prima ancora di accendere il robot.
 
-Nerea lesse il foglio senza parlare.
+Maya lesse il foglio senza parlare.
 
 «Non vuoi che lo compriamo», disse infine.
 
@@ -33,25 +33,25 @@ Nerea lesse il foglio senza parlare.
 
 «È la lista delle ragioni per non raccontare ai donatori che bastano centomila euro e un corriere.»
 
-Paolo spostò sul banco la cornice magnetica che aveva costruito per Bi. Era rimasta una macchia di colla su un angolo; aveva pensato più volte di rifarla, ma non lo aveva mai fatto. Era la prova materiale che un robot apparentemente molto intelligente poteva ancora avere bisogno di una mano umana per una cosa ridicola come tenere un foglio dritto.
+Paul spostò sul banco la cornice magnetica che aveva costruito per Bi. Era rimasta una macchia di colla su un angolo; aveva pensato più volte di rifarla, ma non lo aveva mai fatto. Era la prova materiale che un robot apparentemente molto intelligente poteva ancora avere bisogno di una mano umana per una cosa ridicola come tenere un foglio dritto.
 
-«B-17 è stato sistemato per un campo controllato», continuò. «Quello non equivale a una certificazione per lavorare tra persone in un ufficio. Non sappiamo quali parti siano state cambiate. Non sappiamo se gli accessi vecchi siano ancora validi. E dopo quello che abbiamo scoperto su Nico, sarebbe irresponsabile farlo entrare sulla rete di Cyberdine senza una verifica indipendente.»
+«B-17 è stato sistemato per un campo controllato», continuò. «Quello non equivale a una certificazione per lavorare tra persone in un ufficio. Non sappiamo quali parti siano state cambiate. Non sappiamo se gli accessi vecchi siano ancora validi. E dopo quello che abbiamo scoperto su Noah, sarebbe irresponsabile farlo entrare sulla rete di Cyberdine senza una verifica indipendente.»
 
 «E se lo tenessimo fuori dall'azienda?»
 
 «Si può parlare di un luogo autorizzato, una custodia, un laboratorio. Ma anche lì servono responsabilità e soldi.»
 
-Nerea si sedette.
+Maya si sedette.
 
 «Quindi, prima di riportarlo qui, dobbiamo comprargli una casa.»
 
-Paolo sorrise, poi tornò serio.
+Paul sorrise, poi tornò serio.
 
 «Una casa per una macchina. Se vuoi dirlo così, sì. Ma con le prese giuste e la manutenzione prevista.»
 
 La frase li fece ridere entrambi. Fu un sollievo breve.
 
-Nel pomeriggio Paolo parlò con Kyla. Lei non aveva l'autorità per offrire a un'associazione di colleghi uno spazio dell'azienda né accessi ai sistemi. Gli spiegò che Lorenzo Verri era stato informato dell'iniziativa privata, ma non l'aveva approvata come progetto Cyberdine. Il costo di B-17 era già stato contabilizzato; B-21 lavorava bene, e le responsabilità sull'incidente informatico restavano aperte.
+Nel pomeriggio Paul parlò con Kyla. Lei non aveva l'autorità per offrire a un'associazione di colleghi uno spazio dell'azienda né accessi ai sistemi. Gli spiegò che Victor Hale era stato informato dell'iniziativa privata, ma non l'aveva approvata come progetto Cyberdine. Il costo di B-17 era già stato contabilizzato; B-21 lavorava bene, e le responsabilità sull'incidente informatico restavano aperte.
 
 «Posso capire perché lo fate», disse Kyla. «Non posso promettervi un posto di lavoro per lui.»
 
@@ -59,15 +59,15 @@ Nel pomeriggio Paolo parlò con Kyla. Lei non aveva l'autorità per offrire a un
 
 «Né usare il nome di Cyberdine per raccogliere soldi.»
 
-Paolo annuì.
+Paul annuì.
 
 Quando tornò al quarto piano trovò B-21 davanti alla sala copie. Il robot stava controllando la coda delle consegne.
 
-«Paolo, un fascicolo richiede verifica del supporto cartaceo.»
+«Paul, un fascicolo richiede verifica del supporto cartaceo.»
 
 «Arrivo.»
 
-B-21 gli porse il documento con un movimento preciso. Paolo gli disse di aspettare, scelse la cornice corretta e fece una copia. Il robot controllò l'orientamento del foglio e lo ritirò.
+B-21 gli porse il documento con un movimento preciso. Paul gli disse di aspettare, scelse la cornice corretta e fece una copia. Il robot controllò l'orientamento del foglio e lo ritirò.
 
 «Operazione conforme», disse.
 
@@ -75,22 +75,22 @@ B-21 gli porse il documento con un movimento preciso. Paolo gli disse di aspetta
 
 «Prego.»
 
-Paolo lo guardò allontanarsi e si vergognò un poco di aver desiderato, all'inizio, che quella macchina sbagliasse le fotocopie. B-21 non aveva nessuna responsabilità per il destino di Bi. Era una buona unità, puntuale e sicura, e molti colleghi si erano abituati a lavorare con lui.
+Paul lo guardò allontanarsi e si vergognò un poco di aver desiderato, all'inizio, che quella macchina sbagliasse le fotocopie. B-21 non aveva nessuna responsabilità per il destino di Bi. Era una buona unità, puntuale e sicura, e molti colleghi si erano abituati a lavorare con lui.
 
 Non era necessario detestarlo per voler ritrovare qualcun altro.
 
-Alla sera Paolo aprì il documento dei costi. Aveva promesso a Nerea che avrebbe guardato i contributi soltanto a fine giornata; invece aveva già aggiornato la pagina sei volte. Per non aprirla ancora impostò sul telefono un limite d'uso: quindici minuti per la piattaforma di raccolta. Dopo mezz'ora lo schermo gli comunicò che il limite era scaduto. Paolo lo aumentò di cinque minuti e rimase a fissare la casella di conferma.
+Alla sera Paul aprì il documento dei costi. Aveva promesso a Maya che avrebbe guardato i contributi soltanto a fine giornata; invece aveva già aggiornato la pagina sei volte. Per non aprirla ancora impostò sul telefono un limite d'uso: quindici minuti per la piattaforma di raccolta. Dopo mezz'ora lo schermo gli comunicò che il limite era scaduto. Paul lo aumentò di cinque minuti e rimase a fissare la casella di conferma.
 
-Nerea gli scrisse: *Hai cenato? Non serve controllare ogni promessa stasera.* Paolo andò in cucina. Tornò al documento soltanto per cambiare una voce sui costi che gli sembrava davvero incompleta. Aggiustò una voce troppo ottimistica, aggiunse una riserva per imprevisti e scrisse in fondo una frase che avrebbe preferito evitare:
+Maya gli scrisse: *Hai cenato? Non serve controllare ogni promessa stasera.* Paul andò in cucina. Tornò al documento soltanto per cambiare una voce sui costi che gli sembrava davvero incompleta. Aggiustò una voce troppo ottimistica, aggiunse una riserva per imprevisti e scrisse in fondo una frase che avrebbe preferito evitare:
 
 **La raccolta non dà alcun diritto di proprietà sull'unità B-17, né garantisce la possibilità di riportarla a Cyberdine.**
 
 Aggiunse anche una nota sul traguardo di centomila euro che il gruppo stava valutando: non era il prezzo di B-17, sconosciuto a tutti, ma una soglia iniziale di disponibilità da poter presentare a un proprietario. Superarla non avrebbe reso la cifra adeguata per forza. Se una trattativa avesse richiesto altri soldi, avrebbero dovuto chiedere di nuovo il consenso dei partecipanti.
 
-La mandò a Nerea.
+La mandò a Maya.
 
 La risposta arrivò poco dopo: *Mettila in evidenza.*
 
-Paolo la evidenziò.
+Paul la evidenziò.
 
 Fu la prima volta che la raccolta fondi gli sembrò abbastanza seria da poter funzionare, e nello stesso momento gli parve molto più difficile che potesse riuscire.

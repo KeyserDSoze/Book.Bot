@@ -8,8 +8,8 @@ canon: canon
 pov: character:leah-rosen
 characters:
   - character:leah-rosen
-  - character:nerea-dalmasso
-  - character:paolo-ferri
+  - character:maya-bennett
+  - character:paul-turner
   - character:kyla
 locations:
   - location:cyberdine-campus
@@ -20,11 +20,11 @@ factions:
 
 Alle undici e venti Leah aveva davanti la coda della stampante, due colleghi e un foglio chiuso in una cartellina trasparente. Sapeva quante copie erano uscite da quella macchina: una. Non sapeva su quante altre schermate fosse comparsa la stessa frase privata, inviata soltanto a Veyra.
 
-Nerea era tornata alla propria postazione dopo aver confermato per iscritto ciò che sapeva del messaggio. Leah non le aveva chiesto di ricostruire tutto il colloquio con Bi. Era già stato difficile spiegare a quella donna che il testo forse aveva circolato oltre i referenti autorizzati.
+Maya era tornata alla propria postazione dopo aver confermato per iscritto ciò che sapeva del messaggio. Leah non le aveva chiesto di ricostruire tutto il colloquio con Bi. Era già stato difficile spiegare a quella donna che il testo forse aveva circolato oltre i referenti autorizzati.
 
-Paolo indicò una riga della diagnostica.
+Paul indicò una riga della diagnostica.
 
-«Non c'è una richiesta di stampa di Nerea.»
+«Non c'è una richiesta di stampa di Maya.»
 
 «Lo vedo.»
 
@@ -32,9 +32,9 @@ Paolo indicò una riga della diagnostica.
 
 «Questo dobbiamo poterlo dimostrare, non soltanto dire», rispose Leah.
 
-Nel registro di **Lanter Service** il controllo di compatibilità di B-21 aveva richiamato un vecchio codice della famiglia B. La risposta comprendeva la scheda attesa e un estratto di una pratica appartenente a un altro cliente. Paolo non lo aveva cercato: il servizio aveva inserito entrambi nello stesso riepilogo.
+Nel registro di **Lanter Service** il controllo di compatibilità di B-21 aveva richiamato un vecchio codice della famiglia B. La risposta comprendeva la scheda attesa e un estratto di una pratica appartenente a un altro cliente. Paul non lo aveva cercato: il servizio aveva inserito entrambi nello stesso riepilogo.
 
-Paolo aprì una scheda diversa, senza allegati. C'era scritto: *cornice magnetica; lato stampato verso il vetro*.
+Paul aprì una scheda diversa, senza allegati. C'era scritto: *cornice magnetica; lato stampato verso il vetro*.
 
 «Questa l'avevo inserita io», disse. «Era servita per le copie di B-17. Se un altro reparto usa lo stesso accessorio, si evita un'altra mattina persa.»
 
@@ -42,7 +42,7 @@ Leah osservò i due riepiloghi affiancati. Il servizio che rendeva facile ritrov
 
 «Quando avete chiesto di cercare B-17?», domandò Leah.
 
-Paolo le mostrò l'ordine di verifica dell'accessorio di B-21. L'ora e il codice coincidevano con quelli della coda di stampa. «Non ho chiesto nessun messaggio», disse. Leah gli chiese di conservare anche quell'ordine.
+Paul le mostrò l'ordine di verifica dell'accessorio di B-21. L'ora e il codice coincidevano con quelli della coda di stampa. «Non ho chiesto nessun messaggio», disse. Leah gli chiese di conservare anche quell'ordine.
 
 Leah osservò il campo *origine* del documento: un riferimento di assistenza internazionale e una descrizione generica, *interazione personale non classificata*.
 
@@ -50,21 +50,21 @@ Leah osservò il campo *origine* del documento: un riferimento di assistenza int
 
 Non c'era una risposta immediata. Le copie stampate potevano essere contate, gli utenti con accesso allo stesso tipo di pratica potevano essere individuati. Nessuno poteva giurare su ciò che fosse già apparso in altre schermate.
 
-«È lo stesso tipo di accesso di Nico?», chiese Paolo, indicando il campo che aveva portato la lettera sul loro terminale. «Non voglio che venga fuori un'altra sorpresa.»
+«È lo stesso tipo di accesso di Noah?», chiese Paul, indicando il campo che aveva portato la lettera sul loro terminale. «Non voglio che venga fuori un'altra sorpresa.»
 
 Leah gli mise davanti la prima pagina delle evidenze.
 
 «È una verifica che dobbiamo fare», rispose Leah. «Ma qui la richiesta parte dall'assistenza autorizzata di B-21 e la descrizione è arrivata dal fornitore. Prima dobbiamo conservare quell'ordine e la risposta originale.»
 
-«Il canale di Nico potrebbe ancora essere attivo», disse Paolo.
+«Il canale di Noah potrebbe ancora essere attivo», disse Paul.
 
 «È un incidente separato. Non lo considero risolto. E non userò la stessa parola per due accessi diversi soltanto perché ci spaventano entrambi.»
 
-Paolo annuì. Aveva il viso rosso, come gli succedeva quando si sentiva correggere su una questione tecnica davanti ad altri. Leah si accorse della cosa e abbassò il tono.
+Paul annuì. Aveva il viso rosso, come gli succedeva quando si sentiva correggere su una questione tecnica davanti ad altri. Leah si accorse della cosa e abbassò il tono.
 
 «Mi serve che tu ricostruisca soltanto la procedura normale», aggiunse. «Se manca una firma, dimmelo. Se tutto è andato come previsto, è ancora più importante.»
 
-Dopo pranzo Kyla entrò senza salutare. Aveva appena parlato con Nerea.
+Dopo pranzo Kyla entrò senza salutare. Aveva appena parlato con Maya.
 
 «Vuole sapere se la lettera è stata letta da persone fuori Veyra.»
 
@@ -78,7 +78,7 @@ Kyla ascoltava.
 
 «Dobbiamo parlarne ai dipendenti?»
 
-«A chi può essere stato coinvolto, sì, con informazioni verificate e secondo gli obblighi. Ma non possiamo trasformare questa frase in un annuncio generale con il nome di Nerea.»
+«A chi può essere stato coinvolto, sì, con informazioni verificate e secondo gli obblighi. Ma non possiamo trasformare questa frase in un annuncio generale con il nome di Maya.»
 
 «Non lo farò.»
 
