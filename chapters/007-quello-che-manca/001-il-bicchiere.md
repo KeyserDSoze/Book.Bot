@@ -102,7 +102,19 @@ Paolo si fermò con la scatola tra le mani.
 
 «Lo so.»
 
-Si guardarono senza trovare un modo comodo di uscire dalla conversazione.
+Il telefono di Mila vibrò. Sullo schermo comparve la chiamata della sorella, da Zagabria. Mila lo lasciò suonare una volta, poi lo prese.
+
+«Devo rispondere», disse, più forte di quanto volesse. Un collega si voltò dalla sala accanto. «Le ho promesso che oggi non l'avrei richiamata dopo mezzanotte.»
+
+«Vai», disse Paolo. «I bicchieri li sistemo io.»
+
+«Non lasciare il cartone vicino alla porta. Ci inciampano.»
+
+Paolo sospirò. «Lo so.»
+
+Mila si allontanò lungo il corridoio; anche dalla curva Paolo sentì il suo «Ciao» e poi una frase più bassa, forse un tentativo di non far ascoltare agli altri le parole della sorella.
+
+Rimasto solo, Paolo sistemò la scatola sotto il banco. Se lei gli avesse fatto ancora una domanda, probabilmente avrebbe continuato a spiegare perché non potevano prevedere la violenza. Si accorse di non averle chiesto come stava.
 
 Alle dieci Paolo entrò nella sala copie per una richiesta urgente. Il vetro era pulito, la cornice magnetica riposta nel cassetto, l'etichetta **LATO STAMPATO VERSO IL VETRO** ancora appiccicata al coperchio.
 
