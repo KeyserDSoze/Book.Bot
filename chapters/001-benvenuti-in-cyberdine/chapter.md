@@ -30,3 +30,7 @@ Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdin
 ## Raccordo della revisione sull'arco morale
 
 Nella scena 001 Noah lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Taylor e l'entusiasmo della visita.
+
+## Passata personaggi v0.43.0 — Taylor non è il delivery manager
+
+Taylor guida **People & Communications**, mentre commerciale e responsabile di commessa gestiscono il contratto Aruvhana. Nel 001 la madre le chiede che cosa fare delle foto di **Hazel**, sorella minore morta cinque anni prima; Taylor non risponde. La sua abilità al lavoro non va scambiata con facilità nelle relazioni private. Nel 002 la patch generata dall'agente è respinta in repository e passa ai test QA su un terminale reale prima della prossima finestra di release. Il segreto della modifica di Noah resta intatto.

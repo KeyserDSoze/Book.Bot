@@ -15,7 +15,7 @@ pov:
 1. La lettera di Aruvhana — Cyberdine rischia di perdere un contratto fondamentale e precisa la dimensione economica del suo lavoro software d'integrazione e continuità di sistemi industriali preesistenti.
 2. Una prova pagata — B-17 in un ambiente isolato propone più automazione e un registro di attestazioni per sistemi eterogenei, con rischi e benefici misurabili.
 3. Le condizioni di Claire — Claire verifica il progetto, corregge errori e lavora per un sistema che potrebbe ridurre il bisogno della sua stessa mansione.
-4. La firma umana — Cole e i responsabili scelgono un pilota e un confronto sul personale: la decisione non appartiene a Bi.
+4. La firma umana — Cole, il responsabile di commessa e la direzione coinvolgono delivery, sviluppo, QA, sicurezza e HR nel pilota e nel confronto sul personale: la decisione non appartiene a Bi.
 
 # Guardrail
 
@@ -43,3 +43,7 @@ Il 17% richiesto da Aruvhana resta il vincolo economico reale, con 341 rapporti 
 ## Settima review — identità di prova non autorità di produzione
 
 In 002 l'estratto consegnato a Cyberdine mantiene l'origine della sessione attestata da identificativo del nucleo B-17 e **firma del Circuito**. Sono metadati per attribuire la prova. B-17 non sottoscrive autorizzazioni globali e non può imporre aggiornamenti a produttori. Il trasferimento successivo della prova al livello di criterio condiviso dipende da tecnici, contratti e approvazioni umane.
+
+## Passata personaggi v0.43.0 — dimensione commerciale reale
+
+In 001 la lettera del cliente viene gestita formalmente da account e delivery; Taylor valuta le conseguenze sul personale e non progetta da sola la soluzione. Nel 004 costo, SLA e contratto passano per responsabile di commessa, commerciale, architetti, sicurezza, direzione HR e Cole. Taylor non promette a Claire una nuova funzione, mentre ha una vita privata in sospeso: propone a sua madre di guardare domenica le foto di Hazel. La responsabilità delle firme non si trasferisce a Bi.

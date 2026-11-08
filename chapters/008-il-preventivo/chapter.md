@@ -9,6 +9,7 @@ pov:
   - character:paul-turner
   - character:maya-bennett
   - character:claire-foster
+  - character:gavin-shaw
 ---
 
 # Direzione
@@ -23,6 +24,7 @@ La plenaria chiarisce che **Ethan Blake e Marcus Reed**, già allontanati cautel
 2. Quasi quanto uno nuovo — Paul verifica preventivo, alternative e limiti tecnici, sostiene in modo credibile che la scelta può essere razionale, ma non può garantire l'identità del sostituto.
 3. Il numero — Maya riflette sul nome ufficiale lo stesso giorno della plenaria, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
 4. Un mese di mani — nelle settimane successive Claire scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
+5. Il perimetro del team — tre settimane dopo la plenaria Gavin Shaw affronta Olivia, ora socia minoritaria, sul suo nuovo ruolo e sul valore della squadra Core Platform; emerge la distanza fra ticket chiusi e problemi realmente risolti con QA e supporto.
 
 # Continuità
 
@@ -35,3 +37,7 @@ Nella plenaria Cole presenta risultati e fragilità di una **software house**, n
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La scena 4 sostituisce l'idea del solo lavoro cartaceo con la perdita di **test di integrazione fra software e terminali reali**. Claire e un programmatore leggono il codice e provano una regressione che l'agente non aveva previsto. Il mese senza Bi costa molto, ma gli strumenti digitali non sono scomparsi. Margaret è in pensione dopo la sua uscita fra i capitoli 7–8. Nessun intervento cambia la scelta di Cole di non riparare B-17, la responsabilità di Ethan/Marcus o il costo della sostituzione.
+
+## Passata personaggi v0.43.0 — ricavi, margini e responsabilità trasversali
+
+Il capitolo conta ora **cinque** scene. In 001 Cole presenta ricavi ricorrenti +12%, margine operativo dal 9% al 3%, cash flow trimestrale negativo e, solo alla fine, la mancata riparazione di B-17. **Olivia Hayes** è entrata nel capitale con quota minoritaria e assume responsabilità di delivery trasversale. In **005** (tre settimane dopo la plenaria, coerente con il tempo trascorso in 004) Gavin Shaw, engineering manager di Core Platform e responsabile di tredici sviluppatori, contesta la promozione; Olivia gli riconosce valore tecnico e denuncia il suo modo di squalificare supporto e QA. La loro frizione deve evolvere nei capitoli successivi, non chiudersi qui.
