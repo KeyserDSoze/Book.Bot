@@ -68,3 +68,7 @@ L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 26/001 Irene contesta a Kyla una convocazione evitabile. Nel 26/004 dice a Nerea che non vuole doverla rassicurare continuamente sul significato delle intenzioni di Bi mentre lei perderà il contratto in quattro mesi. Nel 29/004 Nerea lascia all'amica lo spazio per raccontare a Olivia la propria esperienza del voto. L'amicizia continua senza annullare quella ferita.
+
+## Diciottesima review — un'amica non è un ufficio revisioni gratuito
+
+Nei capitoli **13/004** e **14/003** Irene rimane critica verso la raccolta di Nerea e Paolo, dona 25 euro di impegno condizionato e partecipa alla verifica dei preventivi. Ma racconta a Nerea che gli invii notturni e l'attesa di una sua risposta consumano tempo personale già negato dal lavoro. Chiede che i prossimi controlli siano concordati e, chiusa la raccolta, mette fine alla propria funzione volontaria. L'amicizia continua, ma il costo di essere la persona competente che gli altri chiamano sempre è reale: questo prepara il conflitto più esplicito del capitolo 26 senza una conversione improvvisa di Irene né un perdono istantaneo di Nerea.
