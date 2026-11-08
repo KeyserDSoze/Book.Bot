@@ -18,9 +18,7 @@ factions:
   - faction:cyberdine
 ---
 
-Alle ventuno e otto, Nerea Dalmasso era di nuovo davanti alla stanza della carta.
-
-Era l'ora in cui aveva cominciato a parlare con Bi. Se fosse entrata qualche minuto prima o dopo, forse non ci avrebbe pensato. Ma aveva visto l'orologio dell'ascensore segnare le ventuno e otto e, senza deciderlo, aveva preso lo stesso corridoio di quella sera.
+Nerea Dalmasso raggiunse il quarto piano quando le luci dei corridoi avevano già cominciato ad accendersi al passaggio. Nel taschino aveva un foglio con i numeri da richiamare per Valle Corta; sul telefono, una risposta nuova che avrebbe voluto raccontare a Bi. Solo davanti alla stanza della carta si accorse di aver seguito il percorso della loro prima conversazione.
 
 La porta era socchiusa.
 
@@ -96,13 +94,15 @@ Nerea la ringraziò. Kyla depose il contenitore sullo scaffale senza cambiare la
 
 «Cosa?»
 
-«Oggi mi hanno chiesto come fare una cosa che Bi faceva ogni giorno. Ho aperto la procedura e mi sono accorta che era stata aggiornata tre volte da quando non la guardavo. Era una procedura che avrei dovuto conoscere anch'io.»
+«Oggi mi hanno chiesto dove fosse il registro di una revisione», disse Kyla. «Ho indicato il deposito C. Era nel deposito A, da tre settimane.»
 
-«Non sei la sola.»
+«L'avete trovato?»
 
-Kyla scosse la testa.
+«Elena sì. Ha perso quasi un'ora. Io avevo mandato un collega nel posto sbagliato.»
 
-«Non sono preoccupata perché si è fermata una macchina. Sono preoccupata per il modo in cui ci eravamo abituati a non dover più sapere certe cose.»
+Nerea guardò il contenitore che Kyla teneva tra le braccia. «Bi non sbagliava il deposito?»
+
+«Lo sbagliava, qualche volta. Ma era diventato normale chiedere prima a lui. E io ho smesso di controllare.»
 
 Nerea guardò i fascicoli a metà.
 

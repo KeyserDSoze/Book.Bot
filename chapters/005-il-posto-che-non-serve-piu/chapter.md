@@ -24,3 +24,8 @@ Irene Valli sa interpretare codice, eccezioni e prove di regressione meglio di m
 # Vincoli
 
 Bi non è un responsabile delle risorse umane e non pubblica codice di produzione. Gli agenti non sostituiscono automaticamente la responsabilità della revisione. Il contratto attuale di Irene prosegue, non c'è licenziamento immediato né promozione compensatoria. Adriana è ancora presente e va in pensione più avanti. Dario e Mauro non sono ancora aggressori in questa scena: la loro violenza nel capitolo 6 resta una scelta imputabile a loro. Non spiegare la modifica del modello di Bi prima del capitolo 10.
+
+
+## Ottava review — decisione economicamente vera, formazione ancora senza padrone
+
+In 002 il risparmio è concreto ma la matrice attribuisce a Delivery soltanto venti minuti di un caso che ha richiesto oltre due ore di ricerca e collaudo distribuite su QA e documentazione. Una persona di reperibilità è già occupata su un altro cliente: viene tolta senza trovare subito il sostituto. L'opzione B viene approvata con un impegno di formazione e un rischio formalizzato, ma il docente e le ore non sono ancora definiti. In 004 Irene legge il calendario incompleto e chiede se potrà insegnare le vecchie librerie durante l'orario di lavoro: il colloquio non produce promozione né risposta. La promessa incompleta deve avere conseguenze nei capitoli successivi. In 006 la violenza di Dario e Mauro resta una scelta, priva di una voce narrante che le assegni una morale esplicativa.

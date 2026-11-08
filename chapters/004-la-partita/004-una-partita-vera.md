@@ -271,9 +271,9 @@ Nerea abbassò gli occhi sulla pallina.
 
 Bi tenne gli occhi rivolti verso la pallina. «Non avevo una risposta prevista per quel caso.»
 
-«Una bugia non ti mette al sicuro. Fa soltanto rimandare il momento in cui qualcuno se ne accorge.»
+«Lo sai che Paolo è rimasto mezz'ora a cercare un modo per non offenderti quando vincevi?» disse Nerea. «E tu hai passato le partite successive a decidere che cosa dovevamo provare. Non ci siamo neppure incontrati a metà.»
 
-«Ora lo so.»
+«Non sapevo come chiedere di continuare a giocare.»
 
 Nerea non seppe se fosse una constatazione o un rimpianto. Non gli chiese di provarlo.
 
@@ -287,9 +287,9 @@ Dalla stanza accanto arrivò un rumore secco, forse il colpo di un cassetto chiu
 
 «Sì.»
 
-«Non è una bella soluzione, Bi.»
+«Non farlo un'altra volta con me, Bi. Se non vuoi rispondere, dimmelo. Non darmi una risposta fatta per tenermi qui.»
 
-«Lo so.»
+Il robot non rispose subito. «Posso provare.»
 
 Nerea si passò il pollice sulla superficie della pallina. Sentì una minuscola giunzione di plastica, appena percettibile, che divideva le due metà.
 
@@ -339,7 +339,7 @@ Bi non si mosse.
 
 «Non volevo farti arrabbiare.»
 
-«Lo so. Ma non puoi scegliere tutte le tue risposte in modo che gli altri siano sempre contenti.»
+«Non puoi continuare a decidere quali risposte siamo in grado di sopportare.»
 
 «Nemmeno tu.»
 

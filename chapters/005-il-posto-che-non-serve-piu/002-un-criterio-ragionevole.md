@@ -29,6 +29,8 @@ La seconda conteneva due caselle.
 
 **Distribuire le responsabilità fra i coordinatori esistenti e affidare la preparazione dei casi agli strumenti automatici.**
 
+La terza pagina era una tabella dei costi. Per l'opzione senza il posto senior, gli straordinari di Delivery diminuivano e le ore di formazione risultavano in una riga separata. Elena notò che quella riga non aveva il nome di un responsabile né una data. L'aveva chiesto due giorni prima e le avevano risposto che sarebbe stata completata dopo l'approvazione. Non le piaceva, ma era entrata comunque nella sala.
+
 Elena conosceva già il risultato delle prove. Aveva chiesto che si tenesse aperta una possibilità di confronto, e ora se ne pentiva un poco: sarebbe stato più facile contestare una scelta opaca che una scelta preparata con tanta cura.
 
 Entrarono Kyla, Adriana e due responsabili. Gavin Cole, responsabile Delivery, portava una stampa dei risultati di test con una colonna evidenziata: le ore consumate dal suo gruppo. L'altro aveva il computer aperto sulla matrice delle autorizzazioni.
@@ -39,13 +41,19 @@ Elena sorrise. Era il modo in cui Adriana iniziava quasi tutte le riunioni impor
 
 «La matrice prevede un presidio umano per le anomalie fuori soglia», rispose un responsabile.
 
-«Chi è il presidio?»
+«Chi risponde al telefono?»
 
 L'uomo mostrò due nomi e un turno di reperibilità.
 
-«E quando il programma non segnala che siamo fuori soglia?»
+«Li avete avvisati?»
 
-Nessuno rispose subito.
+«Il calendario va comunicato dopo la riunione.»
+
+Adriana ne indicò uno. «Questo il giovedì è già reperibile per il cliente. Non può stare in due posti.»
+
+Gavin si sporse per vedere il nome. «È nel mio gruppo. Il giovedì non lo posso liberare.»
+
+Il responsabile cancellò quel nominativo e scrisse *da definire* a fianco della casella. Elena lo guardò mentre continuava a presentare il piano come se nulla fosse cambiato.
 
 Elena proiettò un confronto fra vecchia e nuova organizzazione. In passato il team di Adriana raccoglieva manualmente documenti, ricostruiva versioni, chiedeva verifiche al reparto software, coordinava i collaudi e infine preparava la decisione. Adesso gli agenti producevano patch, casi di prova e sintesi; Bi e altri robot potevano verificare determinati terminali e recuperare originali; le persone restavano titolari delle autorizzazioni e dei rilasci.
 
@@ -59,9 +67,19 @@ Un connettore storico aveva cambiato nome tre volte. L'agente aveva proposto una
 
 «Irene», rispose Elena. «Ha aperto la vecchia libreria e chiesto la prova sul terminale reale. Bi ha preparato i dati in ambiente autorizzato. La correzione finale è passata per la normale revisione del team.»
 
-«E se Irene fosse stata soltanto incaricata di leggere il riepilogo?»
+«Quanto tempo ha impiegato Irene a trovarla?» chiese Adriana.
 
-«Avremmo potuto non vedere l'eccezione», ammise il responsabile.
+Elena controllò il registro. «Due ore e quaranta. Il sistema ne attribuisce venti al collaudo e il resto alla ricerca del registro e della versione precedente.»
+
+Gavin guardò il proprio prospetto. «Nel mio report il collaudo risulta di venti minuti. Gli altri sono a carico di QA e del presidio documentale.»
+
+«Non sono spariti», disse Adriana.
+
+«Non ho detto che siano spariti.»
+
+«Nel costo dell'opzione B, però, non ci sono.»
+
+Elena ampliò la riga del foglio. L'eccezione era stata segnata come caso non ricorrente. Nessuno poteva sapere se lo fosse davvero, proprio perché i vecchi terminali erano molti e non tutti riproducibili in laboratorio.
 
 Kyla si spostò sulla sedia. Aveva seguito il progetto perché la riorganizzazione avrebbe toccato le persone.
 
@@ -73,19 +91,33 @@ Adriana prese il quaderno. «Formazione su che cosa? Chiedere all'agente un riep
 
 «Quanto tempo gli diamo per la seconda?»
 
-La domanda rimase sospesa. Il calendario dei corsi presentato dal reparto HR conteneva molte ore di uso degli strumenti e poche di manutenzione dei vecchi protocolli. Era una lacuna reale. Non significava che la proposta fosse da buttare, ma ne cambiava il costo.
+Kyla aprì il calendario preparato da HR. C'erano sei sessioni dedicate agli agenti e una sola sui sistemi precedenti. Quest'ultima non aveva ancora un docente assegnato.
 
-«Aggiungiamo un obbligo di revisione del sorgente sui casi critici», propose Elena. «E una prova periodica senza agente, in cui il responsabile deve ricostruire una anomalia con i log e le procedure.»
+«Irene potrebbe seguirla», disse uno dei responsabili.
 
-Uno dei responsabili guardò la tabella. «Possiamo farlo», disse Gavin, indicando le ore previste dal gruppo Delivery. «Ma i nuovi controlli vanno pianificati con i responsabili che li useranno. Non richiede una posizione senior dedicata, però.»
+«Irene ha un contratto e delle consegne già assegnate», rispose Kyla. «Non basta scrivere il suo nome accanto alla formazione.»
 
-Era la frase decisiva.
+«Allora calcoliamo quante ore servono», disse Elena. «Voglio anche una prova periodica senza agente, in cui uno sviluppatore ricostruisca l'anomalia dal sorgente e dai log.»
+
+Gavin fece scorrere un dito sulle date della consegna. «Se sono ore di Delivery devono entrare nella pianificazione. Posso togliere una giornata di lavoro alla sprint, ma non posso dire al cliente che non ce ne siamo accorti.»
+
+«E chi farà da docente?», chiese Adriana.
+
+«Possiamo definirlo nel piano esecutivo», propose il responsabile.
+
+Adriana richiuse il quaderno. Non approvò quella risposta, ma non si mise a difendere la propria poltrona. Aveva passato anni a eliminare doppie verifiche inutili. Le prove migliori del progetto erano state anche sue.
 
 Adriana non aveva chiesto che il proprio posto venisse preservato per sentimentalismo. Aveva passato anni a chiedere che si automatizzassero le operazioni inutili. Conosceva bene quanto costasse avere tre persone che ricontrollavano lo stesso campo perché due sistemi non si fidavano l'uno dell'altro.
 
 «Non sto difendendo il lavoro fatto male», disse. «Sto chiedendo chi avrà il diritto di dire che il lavoro automatico non è stato capito abbastanza.»
 
-Elena aprì la tabella dei costi. Il ruolo senior avrebbe dato una persona responsabile della continuità trasversale, ma avrebbe mantenuto attività ormai distribuite. La seconda opzione riduceva i tempi medi e il costo, prevedeva firme di responsabili già in servizio e monitoraggio trimestrale.
+Elena aprì la tabella dei costi. La posizione senior avrebbe avuto una responsabilità trasversale, ma una parte consistente delle sue ore era ora sostituita da attività automatiche effettivamente collaudate. L'altra opzione aveva margini migliori e conteneva un rischio che la tabella non riusciva a prezzare: quando due reparti non fossero stati d'accordo su un'eccezione, nessuno avrebbe avuto il tempo e il mandato di ricostruirla fino in fondo.
+
+«Scriviamo almeno il rischio nel verbale», disse Elena. «E una scadenza per assegnare i docenti.»
+
+«Con una persona responsabile», aggiunse Adriana.
+
+Kyla annotò le due condizioni. Gavin chiese che la prima prova sul codice venisse programmata dopo la consegna in corso. Elena acconsentì: sarebbe stato imprudente chiamare quella rinuncia *nessun costo*, ma non potevano neppure interrompere il lavoro del cliente per vincere una discussione.
 
 Kyla guardò l'ultima pagina.
 
@@ -93,26 +125,24 @@ Kyla guardò l'ultima pagina.
 
 «Lo so», rispose Adriana. «È questo che rende la domanda più difficile.»
 
-La riunione proseguì con le verifiche, i costi e le condizioni. L'opzione B venne approvata. Avrebbe richiesto formazione aggiuntiva, esercizi di continuità e registri accessibili degli elementi che gli agenti avevano escluso dai test. I responsabili avrebbero firmato i rilasci, non Bi.
+La scelta venne registrata come approvazione dell'opzione B, con un'integrazione al piano di formazione da consegnare il mese successivo. Il responsabile delle operazioni firmò; Kyla chiese di essere messa in copia sul seguito. Nel campo dedicato al rischio Elena inserì *perdita progressiva della capacità di ricostruzione delle eccezioni storiche*. La matrice non aveva una voce per il costo di quella perdita, soltanto per la probabilità stimata.
 
-La posizione di Adriana non sarebbe stata ricreata.
+La posizione senior non sarebbe stata ricreata. Il calendario delle lezioni, invece, era ancora da completare.
 
 Elena aspettò che gli altri uscissero. Adriana stava ancora chiudendo il quaderno.
 
-«Era la scelta più razionale per il processo», disse Elena.
+«I dati sui tempi sono veri», disse Elena.
 
-«Sì.»
+«Non ne dubito.»
 
-«E non toglie nulla alla competenza di Irene.»
+Elena fissò la casella *posizione non ripristinata*. «Se nel mese prossimo non troviamo chi fa le lezioni, il rischio resterà mio?»
 
-«Non sulla carta.»
+«Ti chiameranno quando qualcosa non torna», disse Adriana. «Ma non sarai tu ad aver scelto i docenti.»
 
-Elena fissò la casella *posizione non ripristinata*. Aveva creduto che il progresso consistesse nel permettere ai migliori di occuparsi dei problemi difficili. Ora la persona più adatta a farlo avrebbe continuato a lavorare, ma senza la responsabilità che sperava di ottenere.
+Elena spense il proiettore. Era stato proprio quello il difetto di tante vecchie procedure: chi veniva chiamato a risolvere un problema non aveva avuto abbastanza potere per evitarlo.
 
 «Quando glielo dite?», chiese Adriana.
 
 «Kyla vuole parlarle oggi, prima della comunicazione generale.»
 
-Adriana annuì. Tornò a mettere il quaderno nella borsa, ma prima di chiuderlo vi infilò una nota scritta a mano: *Non basta che i test passino. Deve restare qualcuno che sappia scrivere il test mancante.*
-
-Non la lasciò nella sala. Se la portò via come aveva sempre fatto con le cose che non sapeva ancora insegnare del tutto.
+Adriana annuì e prese il quaderno. Prima di chiuderlo scrisse il nome del tecnico del giovedì che avevano tolto dalla reperibilità. Voleva avvertirlo lei prima che il nuovo piano gli arrivasse come un altro turno impossibile. Poi andò a cercare Irene.

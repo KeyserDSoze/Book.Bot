@@ -43,9 +43,19 @@ Kyla aveva mostrato la matrice nuova. Gli agenti avrebbero preparato codice e te
 
 «C'è una persona incaricata di insegnare ai nuovi sviluppatori come si ricostruisce una vecchia libreria?», aveva domandato.
 
-«Abbiamo un piano di formazione.»
+«Stiamo completando il piano di formazione. Le ore sulle librerie storiche non sono ancora assegnate.»
 
-Irene lo aveva letto. Quasi tutti i corsi spiegavano come scrivere istruzioni migliori per gli agenti. Pochi mostravano come risalire a una funzione dimenticata o distinguere un test incompleto da un difetto del programma.
+Irene aprì la tabella. C'erano sei sessioni per imparare a usare gli agenti e una sulle vecchie librerie, senza docente. Non sapeva della discussione avvenuta nella riunione, ma conosceva la differenza fra un corso in calendario e qualcuno che potesse davvero insegnarlo.
+
+«Vorrei candidarmi come docente per quella parte», disse.
+
+Kyla sollevò lo sguardo. «Possiamo valutarlo.»
+
+«Nel mio orario o dopo le consegne?»
+
+«Questo dobbiamo ancora stabilirlo.»
+
+Irene chiuse la tabella. Era la prima domanda a cui Kyla non aveva una risposta.
 
 «Non voglio tornare a scrivere tutto a mano», aveva detto. «Voglio che sappiamo ancora farlo quando il riepilogo non basta.»
 

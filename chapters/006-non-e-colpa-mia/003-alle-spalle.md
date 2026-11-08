@@ -136,19 +136,19 @@ Bi tentò di rimettersi in piedi. Un segnale acustico si accese vicino al suo fi
 
 La frase non somigliava alle risposte che Dario conosceva. Non parlava di procedure, non citava responsabilità. Era una richiesta semplice. Così semplice da sembrare impossibile da fraintendere.
 
-Dario avrebbe potuto fermarsi in quel momento.
+Dario guardò il pannello della spalla. La spia rossa lampeggiava. Dal fondo del corridoio qualcuno ripeté il suo nome, più forte.
 
-Invece vide Mauro alzare di nuovo il braccio e avanzò anche lui. Colpì Bi mentre il robot cercava di arretrare, gli impedì di tornare in posizione, lo spinse contro il carrello abbandonato. Il metallo risuonò in tutto il corridoio.
+Mauro alzò di nuovo il braccio. Dario avanzò anche lui. Colpì Bi mentre il robot cercava di arretrare, gli impedì di tornare in posizione, lo spinse contro il carrello abbandonato. Il metallo risuonò in tutto il corridoio.
 
 «Non è colpa mia», disse Bi. «Non ho deciso io.»
 
-Dario sentì una fitta nel petto. La scambiò per rabbia, perché in quel momento era più facile darle quel nome.
+Dario chiuse il pugno. Gli faceva male la mano dal primo urto e si arrabbiò anche per quello.
 
 «Allora smettila di fare tutto al posto nostro!»
 
 Il robot cercò di rialzare il braccio sinistro. Non era un gesto diretto contro qualcuno: la mano si aprì, incerta, davanti al corpo.
 
-«Vi prego. Non fatemi male. Non è colpa mia di nulla.»
+«Vi prego. Non fatemi male. Non ho deciso chi perde il lavoro.»
 
 Mauro gli assestò un altro colpo. Dario vide un pannello cedere e una delle superfici ottiche incrinarsi. Un rumore secco, più alto degli altri, fece voltare entrambi.
 
