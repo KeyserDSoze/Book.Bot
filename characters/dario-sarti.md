@@ -34,6 +34,10 @@ Nel capitolo 6 Dario non riesce a separare la perdita di status dalla propria ra
 Le giornate passano dal codice scritto in prima persona a istruzioni impartite agli agenti e approvazioni di proposte: Dario è bravo nel mestiere di ieri e incerto su quello di domani. L'aggressione a Bi resta una scelta volontaria e condannabile. In assenza della macchina, nemmeno i test verdi rivelano le ragioni dei vecchi protocolli: il rimpianto non equivale ad assoluzione.
 
 
+## Background personale — Nora e la sfiducia nelle istituzioni
+
+Nora, sorella maggiore di Dario, è morta quattro anni prima dell'inizio degli eventi, investita tornando dal lavoro. Non c'entrano robot, Cyberdine o un algoritmo. Una comunicazione assicurativa che chiudeva la pratica gli è rimasta impressa perché nominava più spesso la procedura che Nora. Il lutto alimenta la sua rabbia anti-sistema, ma **non giustifica l'aggressione a Bi**, non lo riporta in azienda e non produce una redenzione facile. Nel capitolo 7/003 una sua fotografia compare in casa senza che il narratore la usi come spiegazione causale del gesto violento.
+
 ## Quindicesima review — il danno non si assolve da solo
 
 **Capitoli 6–8, quindicesima revisione:** l'aggressione resta deliberata: Dario colpisce nuovamente B-17 dopo una richiesta di fermarsi. Nella scena 6/003 la sua vergogna per la carriera non diventa un nesso causale che annulla la responsabilità. In 7/003 Mauro gli telefona per i colloqui aziendali; Dario rifiuta una ricostruzione comune accomodante, riconosce il proprio colpo successivo alla richiesta e invia una integrazione formale della propria dichiarazione. Il fatto di dire la verità non lo assolve, non lo rimette al lavoro e non implica perdono da parte di Bi o dei colleghi. Nel capitolo 8 il rapporto con Cyberdine cessa.
