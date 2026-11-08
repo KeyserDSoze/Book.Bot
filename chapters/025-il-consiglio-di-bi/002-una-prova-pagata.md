@@ -41,23 +41,25 @@ Bi era seduto davanti allo schermo locale. Poteva esaminare schemi e descrizioni
 
 «Ricevuto.»
 
-Il primo suggerimento fu banale: eliminare una doppia riconciliazione fra due registri che i connettori di Cyberdine già confrontavano a fine turno. La modifica sarebbe stata proposta come codice dal gruppo di sviluppo e collaudata su dati sintetici, non applicata da B-17 ai sistemi dei clienti.
+Il primo suggerimento occupò appena quattro righe: due registri venivano riconciliati due volte. Il tecnico accanto a Mina segnò *verificare nel codice*, senza promuovere la proposta a modifica autorizzata.
 
-Il secondo venne respinto. B-17 aveva supposto che una validazione potesse essere anticipata, ma quella fase richiedeva la verifica fisica di un operatore abilitato.
+Il secondo suggerimento non superò neppure il controllo dei dati. B-17 proponeva di anticipare una validazione; Mina indicò sullo schema il punto in cui una persona abilitata doveva vedere il carico prima di firmare.
 
-«Lì no», disse Mina.
+«Lì no.»
 
 «Correggo l'ipotesi.»
 
-Il terzo richiese mezz'ora di confronto con un esperto umano, collegato senza concedere al robot alcun accesso al servizio reale. Riguardava le attività preparatorie delle eccezioni: una parte degli accertamenti veniva ripetuta perché sistemi di produttori diversi non si scambiavano uno stato interpretabile.
+«E lascia visibile quella scartata», disse Mina al tecnico. «Nel rapporto voglio anche il motivo.»
+
+Il terzo caso richiese mezz'ora con un esperto umano, collegato senza accessi al servizio reale. L'uomo portò un esempio: un magazzino dichiarava completato il trasferimento di un contenitore, ma il destinatario non sapeva se l'operatore avesse autorizzato anche la movimentazione successiva. I due fornitori usavano la stessa parola per due responsabilità differenti.
 
 «Non basta che uno dica completato», spiegò l'esperto. «L'altro deve sapere chi lo ha autorizzato, su quale versione della procedura e con quali limitazioni.»
 
 «Potrebbe essere utilizzato un registro di coordinamento condiviso, governato dalle autorizzazioni dei singoli siti», propose B-17. «Le proposte del sistema conversazionale resterebbero distinte dai comandi certificati dei controllori.»
 
-«Un altro software da manutenere», obiettò l'esperto. «E un altro livello di codice che gli sviluppatori potrebbero finire per conoscere soltanto attraverso le spiegazioni degli agenti.»
+«Un altro software da manutenere», obiettò l'esperto. «Quando qualcosa si blocca, chi lo legge? Uno sviluppatore o un agente che gli riassume quello che è successo?»
 
-«Sì. Il suo costo andrebbe confrontato con il tempo umano speso a riconciliare i passaggi fra fornitori.»
+Mina pensò al compenso che Cyberdine avrebbe pagato per quella prova. Se avessero scelto l'idea, quel denaro sarebbe stato la parte più economica del progetto. «Segniamo le ore necessarie a verificare le librerie. Non promettiamo soltanto ore risparmiate.»
 
 L'esperto rimase a guardare lo schema.
 
@@ -69,13 +71,15 @@ L'esperto rimase a guardare lo schema.
 
 «Un sito può non aver bloccato una macchina senza avere ancora confermato l'incarico successivo.»
 
-Mina interruppe la discussione su quel punto. Non voleva trasformare una buona idea sulla tracciabilità in un nuovo motivo per fermare i carrelli.
+Mina tornò al foglio delle ore autorizzate. Avevano ancora ventisette minuti di consulenza pagata e nessuna finestra per provare quella distinzione su due sistemi reali.
 
-«Lo trattiamo come un caso limite. Lo provano i tecnici; se non c'è un vantaggio verificabile, non entra nella proposta.»
+«Nel rapporto la voglio come caso limite. Non come funzione già collaudata.»
 
-Il robot rispose «Ricevuto». L'esperto segnò una casella sul proprio modulo, quella delle condizioni da convalidare in seguito. Il loro lavoro riprese dai costi e dalle ore perdute nei passaggi doppi.
+«Posso formulare le condizioni necessarie alla prova», rispose B-17.
 
-Mina prese nota. Era una proposta plausibile, non una macchina capace di controllare altre macchine. Cyberdine avrebbe dovuto costruirla, verificarla e convincere i clienti a usarla.
+«Puoi. Il rilascio lo decidono le persone che dovranno poi sostenerlo.»
+
+L'esperto scrisse *da verificare con due fornitori* e cerchiò la frase. Il sistema non poteva da quella stanza autorizzare alcun movimento, ma Mina si accorse che l'idea aveva già trovato qualcuno disposto a usarla.
 
 Quando arrivarono ai risultati, il tecnico mostrò una tabella con più scenari.
 
@@ -97,40 +101,38 @@ Marta si spostò sulla sedia.
 
 «Il mantenimento del contratto, se la proposta fosse tecnicamente ed economicamente verificata, potrebbe sostenere la continuità della maggior parte degli impieghi oggi collegati al servizio.»
 
-«Quindi salviamo trecento persone e ne perdiamo trenta.»
+«Trenta persone dovranno spiegare a casa perché la loro funzione potrebbe sparire», disse Marta.
 
-«È una sintesi possibile, ma non costituisce una decisione né un risultato garantito.»
+«La stima riguarda ruoli equivalenti, non provvedimenti individuali», rispose il tecnico.
 
-«E se i responsabili scegliessero lo scenario più esteso?», domandò B-17. «Chi informerebbe le persone le cui mansioni risulterebbero ridotte?»
+«Lo so leggere», disse Marta. «Ma voglio sapere chi spiegherà la differenza agli interessati.»
 
-Mina guardò Marta. Nessuna delle due poteva dare quella comunicazione: non conoscevano i nominativi, e la decisione non era loro.
+«Se verrà scelta l'ipotesi più estesa», domandò B-17, «chi sarà responsabile delle comunicazioni relative alle mansioni ridotte?»
+
+Mina guardò Marta. Nessuna delle due conosceva i nominativi; l'analisi non aveva deciso niente per quei lavoratori.
 
 «Dovrà farlo Cyberdine, dopo le verifiche e secondo le proprie responsabilità», rispose Mina.
 
 «Ricevuto.»
 
-Marta guardò Mina.
+Marta riprese la penna. Aveva già fatto la domanda al tecnico e ora la sentiva tornare dal robot. La sottolineò due volte sul proprio blocco.
 
-«Mi pare una risposta molto umana.»
-
-«Non è questo che dobbiamo valutare.»
+«E le ore per formare chi rimane?», chiese.
 
 Bi continuò.
 
 «Andrebbe verificato se gli addetti interessati possano assumere nuove responsabilità di supervisione, controllo delle eccezioni e manutenzione. Non tutti i ruoli saranno trasferibili senza formazione e posti disponibili.»
 
-Mina gli chiese di salvare i limiti dell'analisi insieme alle conclusioni. Il tecnico aggiunse la provenienza verificabile della prova: identificativo del nucleo B-17 e firma del Circuito. Serviva a distinguere quella sessione da una simulazione preparata su un altro sistema. Nessuno di loro stava autorizzando B-17 a convalidare attività fuori dal laboratorio.
+Il tecnico salvò i limiti dell'analisi insieme alle conclusioni. Per attestare da quale prova provenisse il documento aggiunse l'identificativo del nucleo B-17 e la firma del Circuito. La firma certificava la provenienza, non l'idoneità della proposta a funzionare presso un cliente.
 
-Quando il rapporto venne chiuso, Marta domandò se potessero citarlo come un successo del Circuito.
+Marta aprì il calendario delle riprese cancellate. «Possiamo almeno dire che il Circuito ha prodotto un piano per Aruvhana?»
 
-«No», rispose Mina. «Non siamo arrivati a una decisione aziendale e non abbiamo certificato una soluzione.»
+«Abbiamo prodotto ipotesi e domande», disse Mina. «Il piano lo devono costruire e firmare loro.»
 
-La direttrice aprì il calendario commerciale.
+«E noi gli mandiamo la fattura.»
 
-«Allora per ora è soltanto una prova pagata.»
+«Sì.»
 
-Mina annuì.
+Il tecnico le porse il riepilogo dei materiali in uscita: rapporto aggregato, condizioni scartate, costi di formazione ancora senza copertura, allegato sulla disponibilità al servizio. Mina lo confrontò con l'elenco delle informazioni autorizzate. Soltanto allora approvò l'invio.
 
-Era già qualcosa.
-
-Nel rapporto che Cyberdine avrebbe ricevuto figurava una proposta tecnica e una forbice di posti potenzialmente non più necessari. In fondo, nello stesso carattere, c'erano le condizioni sotto cui entrambe le previsioni potevano risultare false.
+Marta ricevette la conferma del compenso sul telefono. La somma copriva appena una parte delle giornate in cui B-17 non aveva potuto lavorare al Circuito. Lo ripose senza mostrarlo al robot.
