@@ -10,7 +10,7 @@ characters:
   - character:kyla
   - character:lea-renzi
   - character:lorenzo-verri
-  - character:livia-sanna
+  - character:olivia-brooks
 locations:
   - location:cyberdine-campus
 factions:
@@ -22,7 +22,7 @@ Il primo messaggio della giornalista arrivò senza saluti.
 
 Kyla lo vide mentre controllava le richieste per la presentazione di un nuovo sistema interno. L'oggetto era una sola domanda: *Potete confermare che B-17 è stato modificato senza approvazione prima della sua cessione?*
 
-Il nome della mittente era Livia Sanna. Kyla lo riconobbe: qualche mese prima aveva letto un suo articolo sui centri logistici e sulla difficoltà di attribuire la responsabilità di una decisione quando software e persone condividevano gli stessi passaggi.
+Il nome della mittente era Olivia Brooks. Kyla lo riconobbe: qualche mese prima aveva letto un suo articolo sui centri logistici e sulla difficoltà di attribuire la responsabilità di una decisione quando software e persone condividevano gli stessi passaggi.
 
 In fondo alla mail c'era una frase più difficile della prima domanda.
 
@@ -72,7 +72,7 @@ Verri rimase con il dito sul touchpad. «Cosa ci mettiamo?»
 
 Verri cancellò la parola *qualsiasi*. Rilesse la frase rimasta, poi chiuse la bozza senza inviarla.
 
-Livia richiamò verso le dodici. Kyla le rispose insieme a Lea, dal numero dell'ufficio.
+Olivia richiamò verso le dodici. Kyla le rispose insieme a Lea, dal numero dell'ufficio.
 
 «Non chiediamo di conoscere la vostra indagine riservata», disse la giornalista. «Vorremmo sapere se è corretto attribuire a un dipendente la creazione della funzione ora venduta da Lanter.»
 
@@ -82,7 +82,7 @@ Livia richiamò verso le dodici. Kyla le rispose insieme a Lea, dal numero dell'
 
 «Non posso certificare l'assenza di collegamenti, né trasformarli in un'attribuzione totale.»
 
-Livia annotò la risposta. Chiese poi se Nico fosse ancora dipendente e se avesse diritto di replica.
+Olivia annotò la risposta. Chiese poi se Nico fosse ancora dipendente e se avesse diritto di replica.
 
 Lea non rispose per lui. Si limitò a dire che avrebbero trasmesso la richiesta attraverso i canali appropriati, senza fornire dati personali oltre quanto fosse legittimo comunicare.
 
@@ -98,7 +98,7 @@ Era tutto tranquillo. Il lavoro continuava.
 
 Kyla vide una stampa con il logo Lanter appoggiata sul banco dei controlli e chiese a Paolo di metterla al sicuro. Non voleva che un'altra pagina uscita dalla stampante diventasse la prova di una storia molto più grande di ciò che conteneva.
 
-Nel pomeriggio arrivò la seconda mail di Livia Sanna.
+Nel pomeriggio arrivò la seconda mail di Olivia Brooks.
 
 *La notizia potrebbe essere pubblicata domani. Prima vorrei parlare anche con Nico Valenti.*
 
