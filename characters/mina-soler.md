@@ -42,3 +42,7 @@ Nel 32 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo s
 ## Dodicesima review — che cosa si può vendere come una prova
 
 Nel capitolo 25 Mina mantiene gli estratti di Aruvhana nel perimetro locale autorizzato; respinge un'ipotesi che anticiperebbe una verifica fisica obbligatoria e distingue il caso limite sulla disponibilità al servizio da una funzione pronta per l'installazione. Il rapporto firmato dal Circuito ne certifica la provenienza, non il successo industriale. Mina autorizza il materiale in uscita soltanto dopo averlo confrontato con ciò che può essere condiviso. È una scelta operativa, non una certificazione dello stato soggettivo di B-17.
+
+## Diciannovesima review — l'invito e i dati della visita
+
+Nel **21/001** Mina distingue l'invito volontario a Nerea dalla raccolta obbligatoria di prove tecniche. Pretende che sia comunicato prima chi assisterà e che cosa verrà registrato; il rifiuto di Nerea non ferma gli audit indipendenti. Non può garantire una memoria del robot invariata, né usare la lettera già trapelata per chiedere altre confidenze come dati di collaudo. La corrispondenza resta mediata nel 20–21.
