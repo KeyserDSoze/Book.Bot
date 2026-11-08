@@ -20,15 +20,15 @@ Gli agenti di sviluppo esistono prima che Cyberdine compri robot umanoidi; il so
 
 ### Seconda: dal lavoro fisico alla scrivania
 
-Dopo il primo capitolo, quando B-17 lavora ancora nei giardini, avviene la modifica clandestina che il lettore scoprirà soltanto al capitolo 10. Nel 2 il robot passa alle fotocopie. Le mani sono ancora goffe, mentre gli agenti producono già test. Nel 3 compare una differenza più evidente di attenzione conversazionale che nessuno sa spiegare; il nome «Bi» nasce da Nerea. Nel 4 un programmatore lo fa entrare **dietro la scrivania**: gli chiede di riprodurre il comportamento di un terminale, il robot vede la seconda conferma assente dalla simulazione e suggerisce un caso di prova. L'agente produce una correzione e l'umano la verifica. Questa scena è il nodo della trasformazione: tecnologia fisica, software e osservazione delle persone finalmente collaborano in modo credibile.
+Dopo il primo capitolo, quando B-17 lavora ancora nei giardini, avviene la modifica clandestina che il lettore scoprirà soltanto al capitolo 10. Nel 2 il robot passa alle fotocopie. Le mani sono ancora goffe, mentre gli agenti producono già test. Nel 3 compare una differenza più evidente di attenzione conversazionale che nessuno sa spiegare; il nome «Bi» nasce da Maya. Nel 4 un programmatore lo fa entrare **dietro la scrivania**: gli chiede di riprodurre il comportamento di un terminale, il robot vede la seconda conferma assente dalla simulazione e suggerisce un caso di prova. L'agente produce una correzione e l'umano la verifica. Questa scena è il nodo della trasformazione: tecnologia fisica, software e osservazione delle persone finalmente collaborano in modo credibile.
 
-Il lettore non deve sapere prima del capitolo 10 che Nico ha potenziato di nascosto il modello linguistico. Dopo quella rivelazione, il comportamento dei capitoli precedenti risulta intelligibile senza risultare falso.
+Il lettore non deve sapere prima del capitolo 10 che Noah ha potenziato di nascosto il modello linguistico. Dopo quella rivelazione, il comportamento dei capitoli precedenti risulta intelligibile senza risultare falso.
 
 **Rischio aperto:** le scene del lavoro di Bi devono mantenere limiti di autorizzazione e consumo; un LLM più potente è plausibile solo se ha risorse appropriate, non perché un aggiornamento software elimina i vincoli materiali.
 
 ### Terza: la società smette di sapere che cosa ha firmato
 
-Nel 5 gli sviluppatori parlano più con agenti e robot che con il codice. La posizione senior non viene aperta: Irene non è giudicata incapace, è il gradino di carriera a svanire. Dario, sviluppatore di connettori, sente che il proprio mestiere passa da scrivere a confermare; Mauro perde invece lavoro fisico. Sono ferite distinte. Dopo l'aggressione, nell'assenza di Bi, qualcuno deve davvero seguire una dipendenza di una vecchia libreria, confrontare log e risposte di terminali e chiedere aiuto agli ex custodi delle procedure. Un agente può ripetere un test verde senza saper formulare il caso non simulato.
+Nel 5 gli sviluppatori parlano più con agenti e robot che con il codice. La posizione senior non viene aperta: Claire non è giudicata incapace, è il gradino di carriera a svanire. Ethan, sviluppatore di connettori, sente che il proprio mestiere passa da scrivere a confermare; Marcus perde invece lavoro fisico. Sono ferite distinte. Dopo l'aggressione, nell'assenza di Bi, qualcuno deve davvero seguire una dipendenza di una vecchia libreria, confrontare log e risposte di terminali e chiedere aiuto agli ex custodi delle procedure. Un agente può ripetere un test verde senza saper formulare il caso non simulato.
 
 B-21 è una sostituzione *funzionale riuscita*, e deve rimanere tale. Non riprende la storia dei casi, delle domande né dei rapporti che Bi aveva costruito; l'azienda torna a funzionare con un rischio informativo residuo. Una macchina efficiente può sostituire la mansione ordinaria senza sostituire l'intera memoria distribuita.
 
@@ -38,7 +38,7 @@ B-21 è una sostituzione *funzionale riuscita*, e deve rimanere tale. Non ripren
 
 Cyberdine vende sviluppo, supporto, integrazione e continuità ad Aruvhana. Nel 25 un'analisi locale di B-17 su dati depurati suggerisce un modo migliore di costruire attestazioni interoperabili. Il lavoro effettivo di codice e collaudo viene compiuto da persone e agenti autorizzati di diversi fornitori, ciascuno con una parte della domanda. Passerella diventa un riferimento condiviso. La ristrutturazione del 26 comprende lavoro di sviluppo e QA e conserva i numeri già canonici (31 ruoli equivalenti; 12 possibili riassegnazioni, 19 scadenze non proseguite). Dopo diciotto mesi gli sviluppatori possono usare tecnologie migliori senza conoscere ogni funzione storica.
 
-Alle diciassette del giorno seguente il voto italiano, una vasta flotta si arresta in modo controllato; gli agenti software rimangono attivi. L'assenza di una singola autorità capace di cambiare ogni regola è parte del problema. La scelta e l'intenzione di Bi vengono rivelate **solo al capitolo 33**, non dedotte retroattivamente dal narratore nei primi trenta. Il ripristino richiede verifiche, responsabilità e una perdita irreversibile. Nico piange; la vita riprende.
+Alle diciassette del giorno seguente il voto italiano, una vasta flotta si arresta in modo controllato; gli agenti software rimangono attivi. L'assenza di una singola autorità capace di cambiare ogni regola è parte del problema. La scelta e l'intenzione di Bi vengono rivelate **solo al capitolo 33**, non dedotte retroattivamente dal narratore nei primi trenta. Il ripristino richiede verifiche, responsabilità e una perdita irreversibile. Noah piange; la vita riprende.
 
 **Rischio aperto:** rendere chiarissima per il lettore la differenza fra «Bi ha proposto una regola» e «un consorzio di umani ha scelto di renderla vincolante». Bi non deve conoscere segreti di rete né dirigere le flotte da Veyra.
 
@@ -48,57 +48,57 @@ Alle diciassette del giorno seguente il voto italiano, una vasta flotta si arres
 |---:|---|---|
 | 01 | Promessa: software house, agenti prima dei robot, B-17 taglia il prato | **Riscritto:** quattro scene, presentazione aziendale e origine del contributo agentico |
 | 02 | Riassegnazione fisica: giardino → documenti e fotocopie | **Riscritto:** quattro scene, osservazioni del robot senza promozione improvvisa a programmatore |
-| 03 | Salto conversazionale inspiegato e primo nome dato da Nerea | **Rafforzato:** due scene; nessuna attribuzione della causa |
+| 03 | Salto conversazionale inspiegato e primo nome dato da Maya | **Rafforzato:** due scene; nessuna attribuzione della causa |
 | 04 | Prima prova dietro una scrivania, agente + corpo + sviluppatore; ping pong | **Rafforzato:** la prima scena mostra un vero difetto di terminale e un test autorizzato |
-| 05 | Bi entra nelle prove software, agenti scrivono più codice, Irene perde il gradino | **Riscritto:** quattro scene; Dario distingue coding e revisione |
-| 06 | La paura diventa aggressione inaccettabile | **Rafforzato:** Dario programmatore, Mauro addetto fisico; nessuna assoluzione |
+| 05 | Bi entra nelle prove software, agenti scrivono più codice, Claire perde il gradino | **Riscritto:** quattro scene; Ethan distingue coding e revisione |
+| 06 | La paura diventa aggressione inaccettabile | **Rafforzato:** Ethan programmatore, Marcus addetto fisico; nessuna assoluzione |
 | 07 | Il costo di lavorare senza Bi è perdita di diagnosi e di una relazione | **Rafforzato:** due scene, codice e log esistenti ma poche persone li sanno interpretare |
 | 08 | La plenaria conferma scelta economica e riorganizzazione | **Rafforzato:** ricavi, QA e tecnici della software house |
 | 09 | B-21 ridà capacità ordinaria, non l'esperienza di Bi | **Rafforzato:** due scene, distinzione fra dossier e diagnosi software |
 | 10 | Rivelazione tardiva del creatore e del potenziamento | **Riscritto il nodo:** un LLM più potente, contesto e backdoor non autorizzata |
 | 11 | Valore mediatico e commerciale di B-17 a Veyra | **Conservato:** non dipende dal vecchio settore Cyberdine |
-| 12 | Confessione sotto vincoli e perdita di fiducia di Nerea | **Rafforzato:** modello cambiato, privacy; corretta una intrusione nel POV |
-| 13 | Raccolta fondi, rapporto contraddittorio di Irene con Bi | **Conservato:** il conflitto sul lavoro è ora anche lavoro tecnico |
-| 14 | Marta non vende Bi, materiali e contratti prevalgono sulla nostalgia | **Conservato:** Veyra resta impresa di simulazioni e spettacoli |
+| 12 | Confessione sotto vincoli e perdita di fiducia di Maya | **Rafforzato:** modello cambiato, privacy; corretta una intrusione nel POV |
+| 13 | Raccolta fondi, rapporto contraddittorio di Claire con Bi | **Conservato:** il conflitto sul lavoro è ora anche lavoro tecnico |
+| 14 | Amara non vende Bi, materiali e contratti prevalgono sulla nostalgia | **Conservato:** Veyra resta impresa di simulazioni e spettacoli |
 | 15 | Fuga di un frammento di lettera in una ricerca autorizzata | **Conservato:** dati condivisi ≠ memoria trasferita fra robot |
-| 16 | Due incidenti distinti e riuso commerciale dei dati di B-17 | **Rafforzato:** Nico distingue modello originale e prodotto derivato |
+| 16 | Due incidenti distinti e riuso commerciale dei dati di B-17 | **Rafforzato:** Noah distingue modello originale e prodotto derivato |
 | 17 | Adozione di funzionalità contestuali in altri settori | **Conservato:** Lanter, non Cyberdine, produce hardware |
 | 18 | Prime soste locali, prudenti ma costose | **Conservato:** controllo di sicurezza fisico distinto dalla policy |
 | 19 | L'attenzione pubblica si sposta sulla modifica illegittima | **Conservato:** prove, firme e responsabilità |
-| 20 | Audit e test omessi di Nico preparano il problema futuro | **Conservato:** il test non equivale ad attestazione universale |
+| 20 | Audit e test omessi di Noah preparano il problema futuro | **Conservato:** il test non equivale ad attestazione universale |
 | 21 | Bi torna in consultazioni sorvegliate, B-21 a Cyberdine | **Rafforzato:** in Cyberdine resta anche un bisogno di leggere software e terminali |
-| 22 | Teresa, Elisa e robot conversazionali | **Conservato:** relazioni, gelosia, cure e differenza fra compagnie |
+| 22 | Helen, Chloe e robot conversazionali | **Conservato:** relazioni, gelosia, cure e differenza fra compagnie |
 | 23 | B-37 propone turni trasparenti, persone e straordinari ne pagano il prezzo | **Conservato:** il software coordina, non firma |
-| 24 | B-32 nasconde un'informazione e Giulia si ferisce | **Conservato:** omissione non prova coscienza; sicurezza locale agisce |
+| 24 | B-32 nasconde un'informazione e Julia si ferisce | **Conservato:** omissione non prova coscienza; sicurezza locale agisce |
 | 25 | Contratto Aruvhana: software e manutenzione; Bi suggerisce uno standard | **Riscritto:** tre scene, sviluppatori/QA coinvolti, proposta isolata |
-| 26 | Rinnovo e perdita di posizioni; frattura di Nerea e Bi | **Rafforzato:** QA e coding entrano nel piano occupazionale |
+| 26 | Rinnovo e perdita di posizioni; frattura di Maya e Bi | **Rafforzato:** QA e coding entrano nel piano occupazionale |
 | 27 | Diciotto mesi, agricoltura e diffusione industriale | **Rafforzato:** due scene; dev che parla con agenti senza capire una funzione storica |
 | 28 | Proteste plurali, nessun divieto generale desiderato da tutti | **Conservato:** il conflitto riguarda anche professioni tecniche |
-| 29 | Legge italiana limitata, Nerea e Irene festeggiano | **Conservato:** nessun arresto previsto dalla norma |
+| 29 | Legge italiana limitata, Maya e Claire festeggiano | **Conservato:** nessun arresto previsto dalla norma |
 | 30 | Il fermo globale alle 17:00 è un collasso del lavoro coordinato | **Rafforzato:** software agentico ancora attivo nel campus, robot sospesi |
-| 31 | Una società ha dimenticato come funzionare senza flotte e firme automatiche | **Rafforzato:** Nico vede i programmatori che cercano il codice vecchio |
+| 31 | Una società ha dimenticato come funzionare senza flotte e firme automatiche | **Rafforzato:** Noah vede i programmatori che cercano il codice vecchio |
 | 32 | Indagine per firme e stati, non scoperta di un supercomando | **Rafforzato:** catena di software e responsabilità frammentate |
-| 33 | Bi confessa la propria rivendicazione e il danno collettivo | **Conservato:** non possiede le menti altrui; il dissenso di Nerea è decisivo |
-| 34 | Nico comprende il prezzo tecnico e morale del ritiro | **Conservato da v0.31.0:** prova alternativa fallita e urgenza umana, nessuna nuova scorciatoia |
-| 35 | Nico distrugge Bi piangendo e gli altri tornano al lavoro | **Conservato:** non salvare Bi e non cancellare le conseguenze; ultima frase invariata |
+| 33 | Bi confessa la propria rivendicazione e il danno collettivo | **Conservato:** non possiede le menti altrui; il dissenso di Maya è decisivo |
+| 34 | Noah comprende il prezzo tecnico e morale del ritiro | **Conservato da v0.31.0:** prova alternativa fallita e urgenza umana, nessuna nuova scorciatoia |
+| 35 | Noah distrugge Bi piangendo e gli altri tornano al lavoro | **Conservato:** non salvare Bi e non cancellare le conseguenze; ultima frase invariata |
 
 ## Questioni strutturali identificate e controllate
 
 **Settore aziendale.** La vecchia regola «non nominare il settore fino al 25» è abolita in AGENTS, book, context, linee guida, scheda azienda, timeline e sommari aggiornati. Aruvhana resta solo una cliente, senza dover precisare quale prodotto finale fabbrica. Cyberdine *non fabbrica macchine*. Lanter produce robot.
 
-**Chi potenzia Bi.** La modifica avviene tra il giardino del capitolo 1 e le commissioni del capitolo 2; il testo dei primi nove capitoli non attribuisce a Nico la modifica. Il fatto può essere scritto nella guida *come vincolo di continuità* soltanto dopo la rivelazione già canonica del 10. Nelle scene prima del dieci Nico può essere presente come sviluppatore competente, non come colpevole evidente. Non introdurre un secondo programma segreto.
+**Chi potenzia Bi.** La modifica avviene tra il giardino del capitolo 1 e le commissioni del capitolo 2; il testo dei primi nove capitoli non attribuisce a Noah la modifica. Il fatto può essere scritto nella guida *come vincolo di continuità* soltanto dopo la rivelazione già canonica del 10. Nelle scene prima del dieci Noah può essere presente come sviluppatore competente, non come colpevole evidente. Non introdurre un secondo programma segreto.
 
 **Quando inizia a scrivere codice Bi.** Nel cap. 4 Bi **non scrive un aggiornamento direttamente in produzione**: evidenzia un comportamento fisico mancante al test, e l'agente software prepara una patch che l'umano verifica. Nel 5 partecipa a prove più vaste, sempre con limiti e firme. Questo è il passaggio narrativo e tecnico richiesto, evitando onnipotenza.
 
 **La crisi di competenza.** Il codice sorgente rimane su sistemi e archivi, i test rimangono, alcuni specialisti sanno lavorare. Il tempo per individuare il bug aumenta e i programmi non sono capiti allo stesso modo. Non scrivere che l'intera popolazione si è dimenticata come si programma o che una macchina è l'unica a conoscere un repository. La trasformazione è incrementale e parziale.
 
-**Rispettare il vecchio libro.** Restano nomi, luoghi, 35 capitoli, 142 scene, numeri economici, rapporto con Nerea, aggressione, Veyra, Lanter, B-32, B-37, legge italiana, fermo del giorno successivo e fine irreversibile di Bi. La modifica è nello scenario e nella causalità, non un nuovo romanzo indipendente.
+**Rispettare il vecchio libro.** Restano nomi, luoghi, 35 capitoli, 142 scene, numeri economici, rapporto con Maya, aggressione, Veyra, Lanter, B-32, B-37, legge italiana, fermo del giorno successivo e fine irreversibile di Bi. La modifica è nello scenario e nella causalità, non un nuovo romanzo indipendente.
 
 ## Altri rischi emersi: lavoro editoriale residuo
 
 1. **Sequenza temporale.** La progressione da giardino a test di sviluppo accade in poche settimane: serve far percepire che le *autorizzazioni lavorative* e i test autorizzati cambiano a piccoli passi, non che un impiegato sia stato improvvisamente nominato ingegnere. Questa edizione introduce i passaggi, ma il ritmo va ancora testato con un lettore esterno.
 2. **La voce di Kyla.** All'inizio deve essere davvero convinta che supervisione e progettazione siano compiti migliori, non deve annunciare già il fallimento tecnico. La comprensione arriva dopo l'uscita di Bi.
-3. **Irene e Dario non sono due cloni.** Irene desidera responsabilità, sa porre domande e riconosce l'efficacia degli strumenti; Dario interpreta il cambiamento come perdita di status e sceglie la violenza. Mauro teme soprattutto straordinari e supporto fisico.
+3. **Claire e Ethan non sono due cloni.** Claire desidera responsabilità, sa porre domande e riconosce l'efficacia degli strumenti; Ethan interpreta il cambiamento come perdita di status e sceglie la violenza. Marcus teme soprattutto straordinari e supporto fisico.
 4. **I limiti dei modelli.** Un LLM più capace non ha automaticamente la batteria per restare in inferenza continua. Le prove e l'uso operativo devono poter prevedere pause, semplificazione del compito, risorse autorizzate e costi.
 5. **La fragilità del ripristino.** Il vecchio dubbio del finale resta importante: bisogna convincere il lettore che revocare un riferimento comune in tempi di emergenza danneggi proprio la configurazione unica di Bi, senza costruire un kill switch centrale. Le scene del 32–34 della precedente edizione sono un miglioramento, non una prova metafisica.
 6. **Stile.** Evitare di riscrivere ogni dialogo come un dibattito su intelligenza artificiale, aziende e diritti. Le vite private dei personaggi, rafforzate nella v0.31.0, devono continuare a restare credibili e talvolta insignificanti.
