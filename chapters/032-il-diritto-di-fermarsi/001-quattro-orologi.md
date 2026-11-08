@@ -96,6 +96,6 @@ Mei approvò.
 
 Alla fine del turno prese una tazza di caffè e rimase in piedi davanti agli orologi. Il più vecchio segnava un'ora sbagliata; lo aveva lasciato così da quando sua madre le aveva proposto di portarlo a riparare.
 
-Sul telefono cercò la conversazione con lei. Aveva un messaggio non letto da giorni, inviato quando Mei era ancora a Suzhou in laboratorio: *Non me lo devi far aggiustare per forza. Volevo soltanto sapere se stavi bene.*
+Sul telefono cercò la conversazione con lei. Aveva un messaggio non letto da giorni, arrivato prima che iniziasse l'indagine sul fermo: *Non me lo devi far aggiustare per forza. Volevo soltanto sapere se stavi bene.*
 
 Mei appoggiò il caffè, registrò una risposta vocale di pochi secondi e la cancellò. Poi compose il numero. Nessuno rispose: era tardi. Per una volta rimase in linea fino alla fine dei segnali, senza guardare nel frattempo il monitor.
