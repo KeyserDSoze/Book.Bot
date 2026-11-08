@@ -46,3 +46,7 @@ Nel capitolo 25 Mina mantiene gli estratti di Aruvhana nel perimetro locale auto
 ## Diciottesima review — un limite deve arrivare fino all'ufficio amministrativo
 
 Nel **14/002** Mina rifiuta il percorso preparato dallo sponsor e propone una prova diversa che richiede un nuovo calendario e responsabili nominati. Nel **14/004** scrive a Enrico di utilizzare un esempio inventato nella pratica di supporto e **non** la lettera privata di Nerea. Nel **15/003** scopre che Enrico ha ignorato quell'indicazione per risolvere più rapidamente la richiesta: la sua cautela non ha impedito l'errore, e l'organizzazione deve conservare evidenze e individuare i destinatari prima di qualsiasi cancellazione. Mina non garantisce da sola la riservatezza altrui.
+
+## Diciannovesima review — l'invito e i dati della visita
+
+Nel **21/001** Mina distingue l'invito volontario a Nerea dalla raccolta obbligatoria di prove tecniche. Pretende che sia comunicato prima chi assisterà e che cosa verrà registrato; il rifiuto di Nerea non ferma gli audit indipendenti. Non può garantire una memoria del robot invariata, né usare la lettera già trapelata per chiedere altre confidenze come dati di collaudo. La corrispondenza resta mediata nel 20–21.
