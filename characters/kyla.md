@@ -83,6 +83,10 @@ Nel 25 Kyla, azionista e direttrice HR/Marketing, lascia senza finanziamento la 
 Nel 25/004 Kyla accetta la stima più alta di QA e documenta il ritardo di Delivery. Nel 26/001 ammette a Irene di averla invitata a presentare prove pur sapendo che quella riunione avrebbe comportato comunicazioni sul personale. Non poteva anticipare dati individuali riservati; poteva evitare quell'invito. La sua ammissione non restituisce il posto a Irene.
 
 
+## Background personale — Hazel e la madre
+
+Hazel, sorella minore di Kyla, è morta cinque anni prima dell'inizio del romanzo. La causa non viene definita: non inventare collegamenti con robot, informatica o responsabilità aziendali. Nel capitolo 1 la madre chiede se debba conservare delle fotografie; Kyla si irrita e non risponde subito, pur sapendo che la domanda non è crudele. Questa è una vulnerabilità privata distinta dalla capacità di Kyla di condurre riunioni. Può continuare a sbagliare tempi e parole con la madre anche mentre diventa più abile a spiegare limiti e responsabilità ai colleghi. Non assimilare il suo lutto alla configurazione perduta di Bi.
+
 ## Diciassettesima passata — comunicare senza anticipare gli esiti
 
 Nel **12/002**, dopo la confessione di Nico, Kyla apre un modello di comunicazione con una formula rassicurante già predisposta per altri incidenti. La cancella: l'assenza di evidenze non equivale all'esclusione di una possibile esposizione. Chiede a Leah una comunicazione riservata per Nerea, lascia alla sicurezza le risposte su accessi e dati e non invia una circolare che farebbe apparire chiusa un'indagine aperta. La scelta mostra competenza e responsabilità, ma non cancella gli istinti di tutela della reputazione e della propria partecipazione azionaria.
