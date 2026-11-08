@@ -9,7 +9,7 @@ pov: character:irene-valli
 characters:
   - character:irene-valli
   - character:nerea-dalmasso
-  - character:livia-sanna
+  - character:olivia-brooks
 locations:
   - location:piazza-montecitorio
 factions: []
@@ -29,7 +29,7 @@ Irene le mostrò il sacchetto del panino che aveva finito in fila.
 
 «Una volta tanto sì.»
 
-Livia Sanna passò vicino a loro con il telefono acceso. Non stava facendo interviste: aveva appena mandato un aggiornamento sulla posizione dei gruppi parlamentari e adesso cercava un punto da cui vedere il tabellone senza che la folla la spingesse contro le transenne.
+Olivia Brooks passò vicino a loro con il telefono acceso. Non stava facendo interviste: aveva appena mandato un aggiornamento sulla posizione dei gruppi parlamentari e adesso cercava un punto da cui vedere il tabellone senza che la folla la spingesse contro le transenne.
 
 La legge non proibiva ogni robot. Riservava alle persone determinate mansioni di cura continuativa, alcune funzioni educative e le decisioni che incidono direttamente sulla valutazione e sull'organizzazione del lavoro in settori definiti. Consentiva l'assistenza tecnica e logistica quando non sostituiva la responsabilità umana. Prevedeva verifiche, periodi di adeguamento e controlli contro i cambi di nome fatti solo per aggirare il divieto.
 
@@ -57,7 +57,7 @@ Nerea le prese la mano.
 
 Poco distante, un gruppo protestò perché il testo non vietava le unità agricole o i robot industriali. Un altro spiegava ai giornalisti che il divieto avrebbe fatto aumentare le tariffe dei servizi e spostato investimenti all'estero. La polizia lasciò libero il passaggio fra i gruppi.
 
-Livia raggiunse Irene con il taccuino.
+Olivia raggiunse Irene con il taccuino.
 
 «Vuoi dire qualcosa?»
 
@@ -71,7 +71,7 @@ Irene guardò Nerea.
 
 «Che per una volta abbiamo deciso un limite prima che diventasse normale non averne nessuno.»
 
-Livia annotò le parole.
+Olivia annotò le parole.
 
 Sul telefono di Nerea comparve un messaggio di Mina dal Circuito Veyra. Era una conferma amministrativa: la conversazione dei giorni precedenti era stata archiviata nel fascicolo autorizzato, senza diffusione esterna. Nessun allegato, nessun invito a commentare.
 
