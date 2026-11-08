@@ -30,3 +30,8 @@ La crisi combina logistica, cura e dipendenza dai robot, senza spegnere tutti i 
 ## Quinta review — competenze che restano ma non bastano da sole
 
 In 004 è stato reso più leggibile il ritorno di Nico in Cyberdine come consulente con badge temporaneo: due programmatori osservano una discrepanza reale su un terminale vecchio, respingendo il rilascio malgrado i test automatici verdi. Non sono incapaci: l'esito prova che la vecchia dipendenza richiede attenzione, tempo e accessi autorizzati. Le scene di Ada, Rosa e Bruno restano fondate su scorte, salario, figli, farmaci e responsabilità locali, non su una generica fine della civiltà.
+
+
+## Raccordo Cyberdine
+
+Gavin ora chiede ai suoi programmatori di registrare il tempo necessario per verificare il codice e cercare le fonti reali prima di dare per chiusa una release. Nico vede questa differenza dall'esterno senza venire riabilitato. La guida dell'incidente rimane a Leah e ai responsabili autorizzati; non anticipare il ruolo di B-17.

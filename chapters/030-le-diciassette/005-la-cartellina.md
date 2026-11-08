@@ -14,6 +14,7 @@ characters:
   - character:kyla
   - character:leah-rosen
   - character:bruno-dalmasso
+  - character:gavin-cole
 locations:
   - location:cyberdine-campus
 factions:
@@ -167,6 +168,16 @@ Kyla cercò la fonte. Il riferimento era un test di fermo locale, non un evento 
 Cancellò la stima.
 
 «Dobbiamo fare una lista delle persone e dei mezzi che abbiamo davvero», disse. «Non delle risorse che il sistema pensa di poter riattivare.»
+
+Gavin Cole arrivò dal reparto Delivery con una lista di quattro sviluppatori. Aveva già assegnato i primi due alla verifica dei connettori del cliente, ma gli altri potevano aiutare con il recupero delle versioni storiche.
+
+«Non posso lasciarteli tutto il giorno», disse a Kyla. «Domani devo ancora rispondere delle release aperte.»
+
+«Per tre ore servono qui», disse lei, indicando le pratiche ferme.
+
+«Allora tre ore. Segniamole nel piano comune, non come favore tra gruppi.»
+
+Gavin cercò un campo in cui registrare il tempo. Per un istante parve irritato che la scheda non ne avesse uno; poi lo aggiunse a mano. Non sapeva ancora come far quadrare tutte le scadenze. Era soltanto un modo diverso di cominciare.
 
 Paolo annuì e prese un foglio bianco.
 

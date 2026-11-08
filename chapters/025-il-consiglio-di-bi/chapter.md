@@ -47,3 +47,8 @@ In 002 l'estratto consegnato a Cyberdine mantiene l'origine della sessione attes
 ## Revisione cast internazionale — 2026-11-08
 
 La richiesta Aruvhana del 17% contiene una nota tecnica firmata da Anika Rao: il risparmio non deve essere ottenuto eliminando i controlli sui casi non previsti. Malik Okafor riappare come sviluppatore che rimanda una patch in attesa di chiarire una routine legacy. L'analisi di B-17 e il pilota mantengono le autorizzazioni, i perimetri e le responsabilità umane canoniche.
+
+
+## Raccordo umano Cyberdine — revisione progressiva
+
+Il rinnovo è letto anche da Kyla nella sua nuova posizione di azionista di minoranza: il conflitto fra sopravvivenza societaria, reputazione e posti di lavoro riguarda ormai anche lei personalmente. Gavin prende parte al confronto tecnico sulle stime, difende gli sviluppatori e inizia a considerare esplicitamente le ore di QA fuori dal proprio perimetro. Non trasformare la revisione finanziaria in una cerimonia di buone intenzioni: nel capitolo 26 Kyla non riesce a evitare a Irene la riunione che le toglie la funzione.

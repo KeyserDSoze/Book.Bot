@@ -33,7 +33,7 @@ Irene aprì il proprio fascicolo.
 
 «Mi avete invitata per presentarli.»
 
-«Lo so.» Kyla tenne gli occhi sul fascicolo.
+«Lo so.» Kyla tenne gli occhi sul fascicolo. Aveva detto a Verri che Irene non avrebbe dovuto conoscere il proprio futuro da una tabella. Adesso le stava togliendo la parola nella riunione in cui quella tabella sarebbe stata letta.
 
 «Allora perché sono qui?»
 

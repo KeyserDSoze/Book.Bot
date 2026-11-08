@@ -20,7 +20,7 @@ factions:
 
 Kyla tolse dal comunicato la frase *Cyberdine sostiene ogni forma di innovazione responsabile*.
 
-L'aveva scritta lei, tre anni prima, per una conferenza aziendale. Adesso non rispondeva alla domanda che tutti facevano: che cosa avrebbe fatto Cyberdine se il Parlamento avesse limitato il lavoro dei robot in alcune professioni?
+L'aveva scritta lei, tre anni prima, per una conferenza aziendale. Adesso non rispondeva alla domanda che tutti facevano: che cosa avrebbe fatto Cyberdine se il Parlamento avesse limitato il lavoro dei robot in alcune professioni? Kyla non parlava più soltanto da responsabile della comunicazione. Possedeva una piccola quota della società e conosceva i costi che Verri avrebbe difeso; non le piaceva che la propria firma sembrasse automaticamente un voto a favore di qualsiasi scelta.
 
 Lorenzo Verri aveva chiesto una riunione breve. Quando Kyla entrò, sul tavolo c'erano nove pagine di osservazioni al progetto di legge e un elenco di telefonate ricevute dai clienti.
 

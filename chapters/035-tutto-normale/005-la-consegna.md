@@ -83,6 +83,8 @@ Irene aveva ricevuto una proposta di tre mesi per verificare alcuni processi di 
 
 «Hanno aperto altri ruoli?», chiese Nerea.
 
+Irene le raccontò anche che Gavin, di cui si era lamentata per anni, aveva finalmente cominciato a registrare le ore passate dagli sviluppatori ad aiutare QA e infrastruttura. Non gli aveva fatto improvvisamente piacere farlo: la settimana precedente aveva discusso con Elena per una stima. Ma ora quella discussione era sul piano comune e non nel corridoio.
+
 «Sì. Più manutenzione, sicurezza del software, verifiche del codice e controllo. E anche qualcuno per insegnare alle persone a lavorare senza robot, nei casi previsti. Stanno cercando sviluppatori che sappiano ancora ricostruire gli adattatori vecchi. Non è il mestiere che promettevano nelle brochure.»
 
 «Potresti farlo tu.»

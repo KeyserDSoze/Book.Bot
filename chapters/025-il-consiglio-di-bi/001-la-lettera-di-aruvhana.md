@@ -29,7 +29,7 @@ Sotto la percentuale era allegata una nota della direzione tecnica, firmata da A
 
 Non era un taglio dei costi per qualche singola fornitura. Era la riduzione che il cliente voleva vedere nel rinnovo del contratto triennale di software, integrazione e continuità. Se Cyberdine non fosse stata in grado di presentare una offerta competitiva, Aruvhana avrebbe cercato un'altra azienda.
 
-Kyla ripiegò il foglio. Aveva imparato a riconoscere le richieste che sembravano scritte da un ufficio acquisti e riguardavano, in realtà, la vita di centinaia di persone.
+Kyla ripiegò il foglio. Aveva imparato a riconoscere le richieste che sembravano scritte da un ufficio acquisti e riguardavano, in realtà, la vita di centinaia di persone. Da quando era entrata nell'azionariato, aveva anche un interesse personale nella sopravvivenza di Cyberdine. L'uno virgola cinque per cento non le dava il potere di decidere da sola; bastava però a farle sentire meno innocente il verbo *risparmiare*.
 
 Cyberdine non costruiva le macchine installate nei siti dei propri clienti. Costruiva il software che permetteva loro di continuare a funzionare insieme. Aveva scritto connettori per protocolli dimenticati, interfacce per registri incompatibili, strumenti per controllare un rilascio e procedure per rientrare in servizio quando un impianto vecchio non poteva essere fermato a piacimento.
 
@@ -64,6 +64,8 @@ Verri appoggiò il tablet.
 Kyla si ricordò il mese in cui Irene aveva ricostruito dipendenze fra vecchie funzioni e registri cartacei. L'azienda aveva imparato qualcosa da quell'esperienza: aveva conservato prove fisiche, richiesto riferimenti a fonti e introdotto esercizi di ripristino manuale. Ma era difficile convincere un cliente a pagare in anticipo per una competenza il cui valore emergeva soltanto quando una prova falliva.
 
 «Non dobbiamo tagliare la parte che ci permette di capire il software», disse.
+
+Sapeva che Gavin Cole avrebbe presentato una tabella dei costi di Delivery. Anni prima sarebbe stata felice di trovarvi meno ore impegnate. Ora voleva sapere anche dove fossero finite quelle che il team non aveva più svolto.
 
 «Allora trovami un modo per ridurre il costo di tutto il resto.»
 

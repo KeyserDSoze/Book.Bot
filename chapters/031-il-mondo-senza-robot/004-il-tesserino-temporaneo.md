@@ -10,6 +10,7 @@ characters:
   - character:nico-valenti
   - character:leah-rosen
   - character:b-21
+  - character:gavin-cole
 locations:
   - location:cyberdine-campus
 factions: 
@@ -35,6 +36,12 @@ Nico rimase in piedi vicino alla lampada smontata. Aveva finalmente comprato tut
 Alla reception lo accompagnò un addetto della sicurezza. Nico ricevette un tesserino temporaneo e attraversò il campus che conosceva quasi a memoria.
 
 Dietro il vetro del piano sviluppo, due programmatori avevano collegato un vecchio terminale a un banco di prova. L'agente aveva preparato una correzione e tutti i test automatici risultavano verdi. Uno dei due mostrava al collega la registrazione di un evento arrivato fuori sequenza: quel terminale aveva continuato a rifiutare l'attestazione. Il ragazzo ingrandì la riga di codice, poi tornò al registro del dispositivo. Non approvarono il rilascio.
+
+Gavin Cole era accanto alla porta con un foglio che riportava le ore di assistenza agli altri reparti. Nico lo ricordava come uno che difendeva fino all'ultimo minuto la propria squadra. Gavin si chinò verso gli sviluppatori.
+
+«Il test può aspettare venti minuti», disse. «Prima chiamate chi conosce davvero quel terminale. Scrivete anche il tempo che ci mettiamo a ritrovare la fonte.»
+
+Nico non conosceva la discussione che aveva cambiato quel dettaglio. Vide soltanto che il responsabile non chiedeva di chiudere il ticket entro l'ora, ma di spiegare perché non lo chiudevano.
 
 Nico ricordò quando B-17 aveva osservato un test dietro una scrivania. Da allora gli strumenti erano diventati più veloci a proporre correzioni. Gli ingegneri dietro il vetro, però, stavano ancora cercando di capire che cosa fosse successo davvero.
 
