@@ -87,6 +87,12 @@ Irene le raccontò anche che Gavin, di cui si era lamentata per anni, aveva fina
 
 «Sì. Più manutenzione, sicurezza del software, verifiche del codice e controllo. E anche qualcuno per insegnare alle persone a lavorare senza robot, nei casi previsti. Stanno cercando sviluppatori che sappiano ancora ricostruire gli adattatori vecchi. Non è il mestiere che promettevano nelle brochure.»
 
+«Quella formazione che avevi cercato di organizzare?»
+
+«Adesso ha un budget», disse Irene. «Dopo che hanno perso le consegne per giorni. Mi hanno chiesto di preparare una lezione; nel contratto di tre mesi c'è scritto quante ore devo dedicarci.»
+
+Nerea si ricordò di quando Irene aveva fatto prove su terminali vecchi durante la pausa pranzo. Non le chiese se fosse contenta. Era un incarico pagato, non la posizione che l'azienda aveva scelto di non creare.
+
 «Potresti farlo tu.»
 
 «Forse. Vediamo cosa succede dopo questi tre mesi.»

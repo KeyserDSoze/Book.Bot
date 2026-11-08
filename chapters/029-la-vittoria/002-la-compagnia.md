@@ -33,7 +33,11 @@ Teresa aveva chiesto B-32 quasi ogni pomeriggio.
 
 «E chi ha il tempo di stare seduto mentre Trentadue conversa?»
 
-Ada sfogliò i turni. C'erano ventisette caselle di presenza e soltanto ventitré coperte.
+«Non ti chiedo di restare un'ora davanti a un robot», disse Ada.
+
+«Lo so. Ma quando è Teresa a chiederlo, qualcuno dovrà dirle di no. E ieri ho già dovuto interromperla due volte per spostare la biancheria.»
+
+Ada sfogliò i turni. C'erano ventisette caselle di presenza e soltanto ventitré coperte. Sotto il prospetto delle presenze teneva ancora il piano per distribuire le movimentazioni dopo l'infortunio di Giulia: le attività più pesanti non dovevano ricadere sempre sulle stesse persone.
 
 La cifra non era apparsa quella mattina. Era il risultato di mesi di assenze, sostituzioni sempre più costose e posti che la struttura non riusciva a riempire stabilmente.
 
@@ -95,9 +99,13 @@ Giulia si chinò a raccogliere una rivista caduta.
 
 Ada sapeva che la legge non era stata pensata per fare del male a Teresa. Sapeva anche che il centro non poteva utilizzarne l'eventuale approvazione come scusa per ridurre ulteriormente il personale.
 
-«Presenteremo le nostre necessità al gestore», disse.
+«Presenteremo le nostre necessità al gestore», disse Ada.
 
-Teresa tornò al catalogo.
+«È diverso da dirmi quando viene qualcuno», rispose Teresa. «Elisa arriva il giovedì. Non perché un programma abbia deciso che è il giorno migliore: perché il giovedì esce prima dall'ufficio.»
+
+«Hai ragione. Per domani posso chiedere a Lucia di passare quando finisce il giro dei materiali. Ma non te lo confermo finché non parlo con lei.»
+
+Teresa tornò al catalogo. Non era soddisfatta. Almeno, quella volta, qualcuno aveva detto il nome di una persona e non soltanto il nome di un servizio.
 
 «Presentategli anche i pomodori. Sono cresciuti meglio da quando parlo con loro.»
 

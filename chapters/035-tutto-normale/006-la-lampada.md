@@ -81,6 +81,6 @@ Nel cortile passò un altro robot con un contenitore da consegnare. Un uomo gli 
 
 Nico rimase alla finestra fino a quando le ruote smisero di sentirsi.
 
-Il giorno dopo sarebbero tornati tutti al lavoro.
+Il giorno dopo chi aveva ancora un turno sarebbe tornato al lavoro.
 
 Tutto tornò normale.

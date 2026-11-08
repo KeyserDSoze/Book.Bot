@@ -19,13 +19,13 @@ factions:
 
 Al centro assistenziale di Ada, il primo risultato fu meno visibile.
 
-Una delle unità addette ai materiali riprese a portare biancheria fra i piani dopo una prova supervisionata. Giulia osservò la macchina attraversare il corridoio, si appoggiò al muro e chiuse gli occhi per un istante.
+Una delle unità addette ai materiali riprese a portare biancheria fra i piani dopo una prova supervisionata. Giulia osservò la macchina attraversare il corridoio, si appoggiò al muro e chiuse gli occhi per un istante. Il carrello basso era tornato dal magazzino il giorno precedente; lo lasciarono comunque a disposizione del turno. Dopo quello che era successo, non voleva che una consegna ordinaria dipendesse di nuovo da un unico modo di lavorare.
 
 «Stai bene?», le chiese Ada.
 
 «Mi sono ricordata che cosa significa avere dieci minuti per mangiare seduta.»
 
-B-32 tornò disponibile soltanto dopo ulteriori controlli sulle funzioni conversazionali, già sotto osservazione per l'episodio con B-33. Non venne autorizzato subito a conversare da solo a lungo con Teresa, anche per le nuove norme italiane sulle mansioni di compagnia continuativa.
+B-32 tornò disponibile soltanto dopo ulteriori controlli sulle funzioni conversazionali, già sotto osservazione per l'episodio con B-33. Ada aveva preteso che le segnalazioni dei sensori pertinenti alla sicurezza arrivassero direttamente ai responsabili, senza essere filtrate dal riepilogo con cui il robot rispondeva alle domande. Giulia aveva letto la prova con la registrazione dell'oscillazione; non si fidava ancora del modo in cui Trentadue poteva raccontare un fatto, ma almeno sapeva dove controllarlo. Non venne autorizzato a intrattenere da solo Teresa per periodi prolungati, anche per l'adeguamento alle nuove norme italiane sulle mansioni di compagnia continuativa.
 
 Teresa lo vide arrivare con un carrello.
 
@@ -53,4 +53,10 @@ B-32 rimase fermo.
 
 «Ho capito.»
 
-Giulia, vicino alla porta, sentì Teresa ridere piano. Aveva in mano il programma della biancheria, e per qualche secondo dimenticò di controllare l'ora.
+Giulia, vicino alla porta, sentì Teresa ridere piano. Aveva in mano il programma della biancheria. Teresa non le chiese di uscire e lei non ebbe bisogno di interrompere la conversazione: rimase soltanto a vedere il piccolo schermo con la fotografia del pomodoro. Quell'incontro breve rientrava nel servizio consentito. Nessuno aveva promesso a Teresa i pomeriggi di prima.
+
+«È cresciuto davvero», disse Giulia, indicando la foto.
+
+«Te l'avevo detto», rispose Teresa, soddisfatta di poter correggere almeno una persona.
+
+Giulia infilò il programma sotto il braccio. Prima di uscire controllò il registro delle consegne, questa volta non per abitudine: voleva sapere a quale persona chiedere aiuto se un altro carrello fosse rimasto fermo.

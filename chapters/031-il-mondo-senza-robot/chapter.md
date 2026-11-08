@@ -35,3 +35,8 @@ In 004 è stato reso più leggibile il ritorno di Nico in Cyberdine come consule
 ## Raccordo Cyberdine
 
 Gavin ora chiede ai suoi programmatori di registrare il tempo necessario per verificare il codice e cercare le fonti reali prima di dare per chiusa una release. Nico vede questa differenza dall'esterno senza venire riabilitato. La guida dell'incidente rimane a Leah e ai responsabili autorizzati; non anticipare il ruolo di B-17.
+
+
+## Decima review — le conseguenze non vengono azzerate dalla ripartenza
+
+L'infortunio precedente di Giulia non scompare quando il lavoro robotico si ferma. Il suo polso non regge la movimentazione aggiuntiva di scatole pesanti; Ada registra il limite, chiede un carrello più accessibile, lascia attività rinviate nel report e segnala l'impossibilità di coprire il proprio turno di riposo. Non celebrare l'eroismo del personale trasformando i rischi in doveri impliciti.

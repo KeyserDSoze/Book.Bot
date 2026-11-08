@@ -41,13 +41,21 @@ In reparto c'erano operatori veri, presenti, attenti. Ma da mesi i turni si regg
 
 Adesso quei tragitti erano tornati, tutti insieme.
 
-Giulia mise il vassoio sul tavolino.
+Giulia mise il vassoio sul tavolino. Nel sollevare il contenitore aveva sentito tirare il polso che si era fatta male nell'incidente di B-33. Il medico l'aveva giudicata idonea al turno normale, non a spostare da sola tutti i carichi che le macchine avevano smesso di portare. Aveva già chiesto due volte un carrello manuale più basso; quello disponibile era rimasto al magazzino.
 
 «La signora del quattordici aspetta l'acqua. Ho portato già le terapie al piano, ma mancano quattro coperti.»
 
 Ada prese una penna rossa e scrisse il numero di una camera.
 
 «Prima l'acqua. I coperti dopo. Luciana farà il controllo con l'infermiera e io porto la biancheria.»
+
+«Il carrello basso è ancora al deposito», disse Giulia.
+
+Ada prese la penna. «Allora tu non fai il trasporto delle scatole pesanti. Lo scrivo nell'assegnazione, non voglio doverlo ripetere a voce a ogni cambio turno.»
+
+«E chi lo farà?»
+
+«Chiamo il manutentore. Se non arriva, rinviamo ciò che non è urgente. Non ci serve un altro infortunio.»
 
 «Non puoi continuare così.»
 
@@ -135,4 +143,4 @@ Lungo il corridoio non si sentiva più nessun avviso delle unità. Solo passi, r
 
 La sera Ada scoprì di aver saltato il proprio turno di riposo.
 
-Nella casella dove avrebbe dovuto scrivere il nome della sostituta lasciò un trattino.
+Nella casella dove avrebbe dovuto scrivere il nome della sostituta lasciò un trattino. Aprì una nuova richiesta al gestore e allegò l'elenco delle attività rinviate, non soltanto il numero degli operatori mancanti. Sotto la voce *intervento necessario* scrisse *sostituzione del turno di coordinamento*. Non compilò il campo *personale disponibile*: non ne aveva uno da indicare.

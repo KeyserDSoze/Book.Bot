@@ -26,3 +26,8 @@ La legge è italiana e riguarda soltanto determinate categorie di lavoro, non tu
 ## Quinta review — voto, non presagio
 
 In 001 Bi non pronuncia più la frase quasi profetica sulle conseguenze sconosciute che poteva rivelare troppo presto la sua intenzione. Nomina i quattro turni non coperti nel centro di Ada, già visibili nel prospetto che Nerea ha portato. In 004 il suo ricordo riguarda quei turni; il finale della scena mostra le macchine che svolgono ancora il lavoro ordinario e i responsabili che preparano il giorno seguente, senza spiegare due volte che la legge non è un comando di arresto. La norma resta **italiana, limitata e con tempi di adeguamento**.
+
+
+## Decima review — le conseguenze non vengono azzerate dalla ripartenza
+
+Teresa distingue rapporti con persone identificabili da promesse di servizio; Ada nomina Lucia e verifica il turno prima di promettere una visita. Le limitazioni legali preparano una scelta organizzativa concreta, non l'estinzione delle relazioni costruite intorno a B-32.

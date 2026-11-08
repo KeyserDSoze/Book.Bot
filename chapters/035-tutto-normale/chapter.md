@@ -43,3 +43,8 @@ Il dialogo di 001 è stato alleggerito dalla disputa retorica sull'anima. Il pun
 ## Sesta review — il No resta un No
 
 La scena 001 riconosce che Bi non può sbloccare le flotte con una sua dichiarazione, neppure cambiando posizione; conserva la responsabilità del fermo, la memoria del danno concreto a Teresa e B-32, il «No» alla cancellazione e il dubbio sull'anima. La premessa tecnica è più breve; il timer di sessanta secondi decorre solo dalla conferma di Nico. La perdita di Bi è irreversibile, non una punizione per non essersi pentito. Nelle scene 002–003 sono state tolte le chiose che spiegavano il recupero graduale e il significato del sorriso di Teresa: bastano la prossima firma di Sofia e il gesto di Giulia. B-21 non è un clone. **Ultima frase invariata:** «Tutto tornò normale.»
+
+
+## Decima review — le conseguenze non vengono azzerate dalla ripartenza
+
+Il ritorno di B-32 include la verifica diretta degli eventi di sicurezza senza filtro conversazionale e un rapporto non completamente ricostituito con Giulia e Teresa. La formazione legacy che Irene aveva tentato di organizzare nei capitoli 5–9 riceve finalmente ore contrattualizzate, ma Irene non riottiene il posto senior. Nel finale Nico vede la ripresa dei robot mentre resta vera la differenza fra chi ha ancora un turno e chi no. **Ultima frase immutata: «Tutto tornò normale.»**
