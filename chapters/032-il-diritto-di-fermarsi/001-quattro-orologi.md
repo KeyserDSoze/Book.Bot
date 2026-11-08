@@ -70,6 +70,10 @@ Cercò la variante che aveva chiesto prima dell'estensione del programma: un eve
 
 Il responsabile aprì l'ultima firma. Autorizzava il rilascio della versione compatibile; la variante era indicata come *coperta dai controlli locali*. Mei non riconobbe alcun verbale del test. Scrisse il nome del revisore senza accusarlo di aver falsificato nulla.
 
+Trovò anche la propria risposta alla chiusura della revisione: *test incrociato ancora richiesto, copertura da verificare dal gruppo di compatibilità*. Non aveva firmato che il test fosse passato. Non aveva neppure chiesto di sospendere tutte le nuove installazioni in attesa di quel risultato. Si era convinta che il limite sarebbe rimasto confinato ai siti che usavano adattatori; la lista reale era cresciuta più in fretta delle sue verifiche.
+
+«Questa nota l'ho scritta io», disse, girando lo schermo al collega. «Non basta che io abbia indicato il problema se poi nessuno è incaricato di riprenderlo.»
+
 «E la prova con cento impianti che chiedono insieme una nuova attestazione? E con una legge che non li riguarda?», domandò Mei.
 
 Il responsabile scorse l'elenco. Non la trovò.
@@ -90,8 +94,8 @@ Quando un ingegnere propose di disattivare la verifica dell'accettazione del lav
 
 Mei approvò.
 
-Alla fine del turno prese una tazza di caffè e rimase in piedi davanti agli orologi.
+Alla fine del turno prese una tazza di caffè e rimase in piedi davanti agli orologi. Il più vecchio segnava un'ora sbagliata; lo aveva lasciato così da quando sua madre le aveva proposto di portarlo a riparare.
 
-Il più vecchio segnava un'ora sbagliata.
+Sul telefono cercò la conversazione con lei. Aveva un messaggio non letto da giorni, inviato quando Mei era ancora a Suzhou in laboratorio: *Non me lo devi far aggiustare per forza. Volevo soltanto sapere se stavi bene.*
 
-Era anche l'unico di cui capiva perfettamente il difetto.
+Mei appoggiò il caffè, registrò una risposta vocale di pochi secondi e la cancellò. Poi compose il numero. Nessuno rispose: era tardi. Per una volta rimase in linea fino alla fine dei segnali, senza guardare nel frattempo il monitor.

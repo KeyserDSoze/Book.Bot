@@ -44,6 +44,16 @@ Erik firmò il rapporto energetico, ma mise una croce sulla bozza pubblicitaria 
 
 «Il dato vero va qui», disse, spostando il foglio. «Non nella pagina che il cliente vedrà solo se lo chiede.»
 
+«Hai il contratto per il prossimo ciclo di prove?», domandò Mei.
+
+«La proposta sì. Devono ancora confermarla.»
+
+«E se questa croce ritarda il materiale commerciale?»
+
+«Forse daranno il lavoro a un altro. Mi piace fare prove lunghe, Mei. Preferirei poterle continuare.»
+
+Non le chiese di intervenire. Raccolse la copia con i grafici da consegnare al responsabile del laboratorio.
+
 Mei avrebbe dovuto discutere con il commerciale di quella croce. Il telefono, però, vibrò per un'altra firma: il gruppo prodotto chiedeva di chiudere le verifiche di compatibilità di *Passerella*, lo standard di coordinamento richiesto dai clienti.
 
 Cyberdine aveva costruito i primi connettori per Aruvhana; negli anni più fornitori avevano aggiunto adattatori e procedure firmate, con agenti di sviluppo che proponevano modifiche sotto revisione umana. Una schermata mostrava le attestazioni che le macchine potevano scambiarsi: incarico completato, procedura usata, persona che aveva approvato. Nessun comando poteva sostituire il controllore fisico indipendente di un sito.
@@ -112,8 +122,8 @@ Mei indicò altri due casi sulla schermata: una attestazione valida che arrivava
 
 «I loro clienti sono anche altri fornitori.»
 
-La nuova richiesta ebbe un numero di tracciamento, un responsabile provvisorio e nessuna data di esecuzione. Mei allegò il risultato dei test che esistevano; nel proprio parere non barrò la casella *copertura completa*. Il manager spiegò che il rilascio commerciale di alcune integrazioni era stato approvato con altri collaudi, mentre l'estensione agli adattatori avrebbe richiesto un'altra firma. Lei non poteva bloccare le decisioni di tutti i produttori. Poteva impedire che la propria relazione dicesse il falso.
+La nuova richiesta ebbe un numero di tracciamento, un responsabile provvisorio e nessuna data di esecuzione. Mei allegò il risultato dei test che esistevano; nel proprio parere non barrò la casella *copertura completa*. Fu tentata di chiedere che la direzione bloccasse l'intera piattaforma, ma non aveva un difetto riprodotto da mostrare, e avrebbe dovuto spiegare perché un rischio di integrazione giustificasse il rinvio di impianti che avevano superato tutte le prove pertinenti. Il manager spiegò che il rilascio commerciale di alcune integrazioni era stato approvato con altri collaudi, mentre l'estensione agli adattatori avrebbe richiesto un'altra firma. Lei non poteva bloccare le decisioni di tutti i produttori. Poteva impedire che la propria relazione dicesse il falso.
 
-Quando tornarono nel corridoio, tre robot destinati all'imballaggio attraversarono la porta del laboratorio con il modulo senza ventola. Erik si fermò a verificare che le schede applicate alle casse indicassero il ciclo reale delle batterie, non il turno completo. Mei guardò il numero della prova ancora aperta sul telefono.
+Quando tornarono nel corridoio, tre robot destinati all'imballaggio attraversarono la porta del laboratorio con il modulo senza ventola. Erik si fermò a verificare che le schede applicate alle casse indicassero il ciclo reale delle batterie, non il turno completo. Mei guardò il numero della prova ancora aperta sul telefono. Sotto c'era un messaggio della madre, arrivato prima della riunione: *Il riparatore è aperto anche sabato. Ti porto io l'orologio, se hai finito.* Mei non aveva risposto. Chiuse la notifica di famiglia per vedere il numero della richiesta un'ultima volta.
 
 Dal reparto vendite arrivò una notifica: le consegne erano prenotate per otto mesi. Non era un ordine per falsificare un test. Era una ragione in più perché qualcuno decidesse di chiuderlo con quelli che aveva già.

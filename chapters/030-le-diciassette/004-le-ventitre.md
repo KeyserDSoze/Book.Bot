@@ -24,7 +24,7 @@ Non era una segnalazione automatica. Era il responsabile del turno di qualità e
 
 «Non lo so. I report stanno arrivando più velocemente di quanto possiamo classificarli.»
 
-Mei era ancora in ufficio. Aveva programmato di finire una revisione sulle condizioni di impiego delle nuove unità, poi tornare a casa. Il reparto serale era quasi vuoto; da dietro una porta arrivava il rumore di un condizionatore con una ventola difettosa.
+Mei era ancora in ufficio. Aveva programmato di finire una revisione sulle condizioni di impiego delle nuove unità, poi tornare a casa. Aveva anche un messaggio della madre a cui non aveva risposto: il riparatore dell'orologio avrebbe chiuso il negozio per ferie. Il reparto serale era quasi vuoto; da dietro una porta arrivava il rumore di un condizionatore con una ventola difettosa.
 
 «È una piattaforma di assistenza?», chiese.
 
