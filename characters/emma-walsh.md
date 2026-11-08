@@ -35,3 +35,7 @@ Nel capitolo 2 Emma reclama la propria pausa e il diritto di mangiare le lasagne
 ## Revisione v0.32.0 — Cyberdine software house
 
 Emma coordina processi e miglioramenti operativi in una software house, non in un'impresa industriale misteriosa. Nel cap. 2 assegna a B-17 una commissione dopo la sua riassegnazione dal giardino. La sua ironia sulle fotocopie accompagna una trasformazione che all'inizio sembra soltanto organizzativa. Più avanti osserva che gli stessi sviluppatori cominciano a discutere di istruzioni e rilasci anziché delle funzioni che un tempo scrivevano.
+
+## Profilo umano — review dei personaggi
+
+Emma conosce i colleghi attraverso ciò che chiedono quando non si prepara una presentazione: passaggi in auto, libri, corsi persi troppe volte. È l'ideatrice pratica dello Spazio Comune e odia quando un'idea semplice diventa una classifica HR. **Virtù:** vede chi rimane fuori dai gruppi. **Difetto:** usa battute per rimandare conversazioni dolorose, soprattutto mentre Ethan diventa aggressivo. Il litigio sulle lasagne spostate da Paul è affettuoso e concreto, non un tormentone obbligato.

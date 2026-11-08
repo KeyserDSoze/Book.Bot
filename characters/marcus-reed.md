@@ -30,3 +30,7 @@ Nel capitolo 6 Marcus avrebbe potuto separarsi da Ethan per ritirare un pacco da
 ## Revisione v0.32.0 — Cyberdine software house
 
 Marcus lavora nelle commissioni e nella movimentazione del campus; **non è uno sviluppatore software**. La perdita di ore derivante dai robot fisici convive con la frustrazione diversa di Ethan, che vede svalutarsi la propria competenza di coding. I due malcontenti si sommano senza diventare la stessa causa o una scusa per la violenza.
+
+## Profilo umano — review dei personaggi
+
+Marcus era fiero delle commissioni difficili e degli straordinari che gli davano un margine economico. La robotizzazione lo rende meno richiesto senza licenziarlo subito. **Difetto:** confonde l'amicizia con Ethan con l'obbligo di seguirlo anche quando avrebbe l'occasione di andare via. Partecipa volontariamente all'aggressione di Bi e ne risponde; l'insicurezza economica non lo assolve. Può anche scherzare sulle scarpe arrivate della misura sbagliata, senza diventare una figura comica.

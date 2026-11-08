@@ -38,3 +38,7 @@ Nel 16 viene preparato l'orologio lasciato dalla madre, impreciso e mai riparato
 ## Revisione v0.32.0 — Cyberdine software house
 
 Lanter è il produttore robotico; Cyberdine è un cliente e un'impresa di software. Quando Mei esamina Passerella nel cap. 27, studia uno standard nato da piattaforme, connettori e test originariamente costruiti in Cyberdine, poi sostenuti da più fornitori. Nessun codice distribuito segretamente da B-17. Mei vede i limiti delle revisioni software frammentate fra più soggetti, non solo quelli dei controllori fisici.
+
+## Profilo umano — review dei personaggi
+
+Mei guida un team di qualità Lanter a Suzhou. Firma ciò che una prova copre, non ciò che il commerciale vorrebbe promettere. **Difetto:** quando una scadenza preme tende a rifugiarsi nella completezza dei verbali, sperando che un altro prenda la decisione impopolare. **Gesto:** gira un foglio verso il collega per mostrare la casella mai verificata. Non confonde i fusi orari e non tratta una firma procedurale come prova dell'assenza di coscienza.

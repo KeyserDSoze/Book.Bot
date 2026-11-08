@@ -37,3 +37,7 @@ Nina conserva le registrazioni autorizzate dei test analitici di B-17 e separa a
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 32 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo so», la stessa frase che sta scrivendo in tanti verbali. La stanchezza la rende più attenta a verificare i permessi, non eroicamente onnisciente. Il confine delle conversazioni private di Maya resta distinto dall'audit di B-17.
+
+## Profilo umano — review dei personaggi
+
+Nina coordina i collaudi robotici e i limiti di sicurezza a Veyra. Ha imparato a fermare una prova anche quando il pubblico fischia. **Virtù:** distingue un robot efficiente da un ambiente che gli chiede più di quanto sia certificato. **Difetto:** crede talvolta che una regola scritta protegga da ogni abuso possibile di uno sponsor. La lettera di Maya le ricorda che una confidenza privata non è un file d'assistenza.

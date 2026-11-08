@@ -29,3 +29,7 @@ Durante il blocco mondiale Amara deve sostenere costi e obblighi contrattuali an
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto per vedere un'amica in terraferma, che ha smesso di credere alle sue promesse. Il desiderio personale convive con contratti, paghe e penali. Nel 34 reagisce con un'ombra di risentimento alla responsabilità di scegliere su una crisi che coinvolge perfino un centro assistenziale sconosciuto.
+
+## Profilo umano — review dei personaggi
+
+Amara dirige Veyra fra assicurazioni, contratti, sponsor, sicurezza e personale. Ha costruito il successo rendendo interessanti test supervisionati; ora è tentata di trasformare ogni risultato in spettacolo. **Virtù:** sa fermare una prova vantaggiosa quando il rischio sale. **Difetto:** nasconde a volte una scelta morale dietro una clausola commerciale. Il rifiuto di vendere Bi non è sadismo: nasce da vincoli e da una concezione proprietaria da mettere in discussione.
