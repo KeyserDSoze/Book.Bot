@@ -128,7 +128,9 @@ Non trovò un campo per rispondere a una lettera personale arrivata da una perso
 
 Provò a iniziare una nuova comunicazione. Nel campo *mittente* poteva scegliere un dipendente, una società o un reparto. B-17 compariva soltanto nell'elenco delle attrezzature a cui assegnare la pratica. Mina lasciò il menu aperto qualche secondo, poi lo chiuse.
 
-Mina aprì un nuovo documento e scrisse in alto:
+Mina aprì il canale interno dell'amministrazione e scrisse a Enrico, che conosceva le procedure di assistenza: *Se dobbiamo chiedere al produttore come autorizzare una risposta, usa un esempio inventato. La lettera di Nerea non è un allegato tecnico e non va inviata.* Enrico rispose che avrebbe preparato il ticket.
+
+Poi Mina aprì un nuovo documento e scrisse in alto:
 
 **Richiesta di recapito di un messaggio personale da B-17 a Nerea Dalmasso.**
 

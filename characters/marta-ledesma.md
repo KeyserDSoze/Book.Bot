@@ -28,9 +28,13 @@ Durante il blocco mondiale Marta deve sostenere costi e obblighi contrattuali an
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
-Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto per vedere un'amica in terraferma, che ha smesso di credere alle sue promesse. Il desiderio personale convive con contratti, paghe e penali. Nel 34 reagisce con un'ombra di risentimento alla responsabilità di scegliere su una crisi che coinvolge perfino un centro assistenziale sconosciuto.
+Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto verso un'isola maggiore vicina a Veyra per vedere un'amica, che ha smesso di credere alle sue promesse. Il traghetto non richiede una massa continentale vicina alla remota Veyra. Il desiderio personale convive con contratti, paghe e penali. Nel 34 reagisce con un'ombra di risentimento alla responsabilità di scegliere su una crisi che coinvolge perfino un centro assistenziale sconosciuto.
 
 
 ## Dodicesima review — la proprietà paga anche i tentativi
 
 In 25 Marta accetta una consulenza circoscritta per Cyberdine e vede che il ricavo copre solo una parte delle giornate di sospensione del Circuito. In 34 è messa davanti a consegne assistenziali che non può risolvere con il proprio denaro: un furgone è inutile se il magazzino non può confermare quali scatole ritirare. Non può accettare acriticamente una cancellazione irreversibile né promettere una data per le revoche lente. Decide sul bene di cui è proprietaria, senza sapere se quel bene abbia esperienza soggettiva.
+
+## Diciottesima review — scelta commerciale, rischio operativo
+
+Nel **14/002**, dopo il rifiuto di Mina di girare una caduta scenica su terreno reale, Marta è quella che deve avvertire lo sponsor della data rinviata e assumere il possibile costo della troupe. Non cede al rischio per evitare la perdita, ma neppure lo liquida con un assenso generico. Nel **14/001** il rifiuto all'acquisto da parte dei vecchi colleghi di Bi non è una controfferta: i contratti già assunti impediscono di avviare quella trattativa. La visita all'amica avviene mediante traghetto per un'isola maggiore vicina a Veyra, non verso una fantomatica massa continentale.

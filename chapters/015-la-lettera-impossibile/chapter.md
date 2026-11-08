@@ -12,7 +12,7 @@ pov:
 
 # Scene
 
-1. Il foglio giusto nel posto sbagliato — una frase della lettera privata di Nerea compare nella coda di stampa di Cyberdine.
+1. La frase sbagliata — una frase della lettera privata di Nerea compare nella coda di stampa di Cyberdine.
 2. Il confine di una pratica — Leah avvia un nuovo accertamento: non confondere il sospetto su Nico con la provenienza verificabile del documento.
 3. Una copia per assistenza — Mina scopre che l'ufficio di Veyra ha allegato la lettera a una richiesta tecnica senza consenso per una condivisione ulteriore.
 

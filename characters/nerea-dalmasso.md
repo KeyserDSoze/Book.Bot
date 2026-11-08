@@ -100,3 +100,7 @@ Nel 26/004 Nerea, dopo aver chiesto come stia Irene, torna a interpretare Bi inv
 ## Quindicesima review — il danno non si assolve da solo
 
 **Quindicesima revisione:** nel 12/003 Nerea chiede a Leah di registrare i limiti di uso della propria storia personale e non chiede di accedere alla backdoor; non pretende una garanzia impossibile sulla circolazione dei dati già eventualmente visti. Nel 34/003 divide una merendina con Nico senza perdonare la sorveglianza: gli dice di non parlare per lei e chiede che la disponibilità di Bi a spiegare le prove non venga trattata come consenso alla cancellazione. Il successivo verbale del 34/004 distingue collaborazione e rifiuto, ma la sua richiesta non le dà potere di veto sulla procedura di Veyra.
+
+## Diciottesima review — il costo imposto alle persone vicine
+
+Nel **13/004** Nerea si rende conto che ha mandato a Irene più prospetti quasi alle undici di sera, aspettando una verifica indispensabile per l'offerta di Bi. Non ha voluto approfittare dell'amica, ma la propria urgenza ha occupato il tempo di Irene. Nel **14/003** accetta che Irene chiuda il lavoro volontario e che un eventuale nuovo progetto richieda un accordo sulle ore. Il rapporto non si incrina all'improvviso nel capitolo 26: la difficoltà di Nerea ad ascoltare le necessità dell'amica quando teme per Bi è già visibile, senza farne una persona cattiva o inconsapevole per definizione.
