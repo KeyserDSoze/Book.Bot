@@ -124,7 +124,7 @@ Il robot abbassò lo sguardo sui documenti.
 
 «Lasciali stare», disse Mauro.
 
-Bi piegò le ginocchia per raccoglierli. Mauro era abbastanza vicino all'uscita per allontanarsi. Guardò i fogli a terra, poi mise un piede nel passaggio del robot e lo colpì alla schiena. Dario vide il corpo metallico inclinarsi in avanti e il braccio destro cercare il bordo del carrello, senza trovarlo.
+Bi piegò le ginocchia per raccoglierli. Mauro scostò con la suola un foglio che gli era finito davanti al piede. Poi avanzò nel passaggio del robot e lo colpì alla schiena. Dario vide il corpo metallico inclinarsi in avanti e il braccio destro cercare il bordo del carrello, senza trovarlo.
 
 «Basta», disse qualcuno in fondo al corridoio.
 
