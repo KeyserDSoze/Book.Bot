@@ -108,4 +108,4 @@ Nico guardò la stanza: la lampada smontata, le pagine bagnate del taccuino, il 
 
 Per la prima volta quella notte Nico non lo contò.
 
-Rimase a fissare il cursore che lampeggiava sotto l'oggetto della mail. Sul tavolo il telefono si illuminò: Jonas chiedeva se il sabato si sarebbero visti. Nico guardò lo schermo e non rispose. Sotto l'oggetto della mail c'era ancora soltanto il cursore.
+Rimase a fissare il cursore che lampeggiava sotto l'oggetto della mail. Sul tavolo il telefono si illuminò di nuovo. Era il messaggio di Jonas sull'interruttore della lampada, ancora senza risposta. Nico guardò lo schermo e non rispose. Sotto l'oggetto della mail c'era ancora soltanto il cursore.

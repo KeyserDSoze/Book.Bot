@@ -71,7 +71,13 @@ Leah guardò Kyla. Aveva ascoltato senza interrompere e prendeva appunti con una
 
 «Potenzialmente sì. Prima raccogliamo gli elementi necessari a capire chi possa essere stato coinvolto, quali obblighi si applichino e in quali tempi. Non prometterei a nessuno che i suoi dati non siano stati toccati.»
 
-Kyla si massaggiò la fronte.
+Kyla aprì il modello della comunicazione interna. Nell'intestazione c'era già una formula usata per incidenti di altra natura: *Non risultano elementi di compromissione.* La cancellò. Non avevano ancora completato le verifiche da cui sarebbe potuta nascere una frase del genere.
+
+«Posso preparare un testo che distingua la modifica accertata dalle esposizioni ancora da verificare», disse. «Però non vorrei che Nerea lo scoprisse leggendo una circolare.»
+
+«Allora registriamo un contatto riservato», rispose Leah. «Tu puoi occuparti dell'incontro. Sui dati e sugli accessi risponderò io, con quello che avremo verificato.»
+
+Kyla salvò la bozza senza inviarla.
 
 «Nerea parlava spesso con Bi.»
 

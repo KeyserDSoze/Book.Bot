@@ -95,21 +95,23 @@ La responsabile non si offese.
 
 Irene guardò la porta. Poco prima B-21 aveva attraversato il corridoio con il contenitore dei fascicoli, e due persone gli avevano fatto spazio senza quasi notarlo.
 
-«Non è colpa sua», disse.
+«Nella relazione sul recupero dei tempi», chiese Irene, «c'è scritto anche chi ha ricostruito la procedura?»
 
-Elena seguì il suo sguardo.
+Elena aprì l'allegato. Il grafico principale mostrava le ore risparmiate da B-21. Nel verbale, due pagine dopo, comparivano i nomi di Irene, Elena e dei tecnici che avevano riprodotto i casi.
 
-«No.»
+«C'è», disse.
 
-«E non era colpa di Bi.»
+«Non nel posto in cui guarderanno tutti.»
 
-«No.»
+«Posso aggiungere il collegamento al grafico. Non posso riaprire la posizione senior.»
 
-Irene lasciò uscire un respiro lungo.
+«Non te l'ho chiesto.» Irene esitò. «Oggi.»
 
-«Che fastidio. È molto più semplice arrabbiarsi quando qualcuno ha torto.»
+Elena le passò il tablet, senza cambiare il titolo della relazione. Irene controllò che il collegamento aprisse il test e la fonte originale, non soltanto l'elenco dei nomi.
 
-Elena accennò un sorriso.
+«Almeno questo lo sapranno verificare», disse.
+
+«Sì», rispose Elena. «E se vuoi usare il verbale per una candidatura, chiedimi la copia depurata dei dati del cliente.»
 
 Nel pomeriggio Irene incontrò Adriana, che ormai era in pensione. Era venuta a ritirare una scatola di oggetti rimasta nel deposito, accompagnata dal personale autorizzato. Non portava più il tesserino al collo, e la sua assenza le dava un'aria stranamente più giovane.
 

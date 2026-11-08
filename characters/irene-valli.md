@@ -68,3 +68,8 @@ L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 26/001 Irene contesta a Kyla una convocazione evitabile. Nel 26/004 dice a Nerea che non vuole doverla rassicurare continuamente sul significato delle intenzioni di Bi mentre lei perderà il contratto in quattro mesi. Nel 29/004 Nerea lascia all'amica lo spazio per raccontare a Olivia la propria esperienza del voto. L'amicizia continua senza annullare quella ferita.
+
+
+## Diciassettesima passata — attribuzione non equivale a carriera
+
+Nel **7/002**, la ricerca di una funzione legacy richiede a Malik di sospendere un rilascio e rendere visibile l'impatto nella consegna. Elena condivide la responsabilità della verifica, ma non può ancora finanziare il corso. Nel **8/004**, Irene insegna a uno sviluppatore una condizione del connettore durante una prova concreta: la mezz'ora è registrata nel ticket del cliente, perché non esiste un centro di costo attivo per la formazione legacy. Nel **9/003**, quando B-21 ripristina i tempi delle commissioni, Irene chiede che il rapporto sulle prestazioni contenga un collegamento alla procedura e ai test da lei ricostruiti. Ottiene un riconoscimento verificabile, non il ruolo senior né un contratto migliore.

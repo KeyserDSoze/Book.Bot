@@ -78,33 +78,29 @@ Paolo lasciò le etichette sul banco.
 
 «Io aspettavo che mi salutasse davanti alla macchinetta del caffè», disse. «E poi mi sono ricordato che non è Bi.»
 
-Elena si voltò verso il monitor. Accanto alle verifiche documentali c'era una richiesta del reparto sviluppo. Un agente aveva proposto una patch per rendere più rapida la conversione di un registro storico. Il riepilogo assicurava che tutte le prove standard erano state superate. Un programmatore, però, aveva segnalato un controllo da ripetere sul terminale reale prima di dare l'avallo.
+Elena tornò al monitor. Il reparto sviluppo chiedeva di verificare una nuova conversione su un terminale storico. L'agente aveva preparato una patch e i test standard erano passati. Il campo riservato alla prova fisica era ancora vuoto.
 
-«Lì non abbiamo risolto tutto», osservò Elena.
+«Con B-21 possiamo farla», disse Paolo.
 
-Paolo seguì il suo sguardo.
+Elena aprì il profilo dell'unità. Il vecchio robot, durante la propria permanenza nello sviluppo, aveva avuto accesso a un banco di prova specifico, con supervisione. A B-21 erano state assegnate commissioni e controlli documentali. Sul terminale avrebbe potuto premere i tasti come qualunque altra unità della sua famiglia, ma l'autorizzazione non seguiva il modello meccanico.
 
-«No. Bi sapeva andare a vedere quello che gli agenti non riuscivano a simulare. B-21 potrebbe compiere molte di quelle prove, se prima qualcuno le preparasse e ottenesse i permessi. Ma non conosce le domande che Bi ha fatto durante il lavoro con noi.»
+«Chi prepara la sequenza?», chiese Elena.
 
-«Quindi non è una questione di modello più o meno intelligente.»
+«Serve uno sviluppatore che conosca la funzione. Io posso controllare il banco e il limite di movimento.»
 
-«Non soltanto. È una questione di come abbiamo costruito il lavoro intorno a una macchina particolare.»
+«E chi conferma che il messaggio ricevuto abbia il significato giusto?»
 
-Elena aprì il registro delle procedure. Il team di Irene vi aveva aggiunto la richiesta di allegare non solo la descrizione del test, ma anche il comportamento fisico osservato e la vecchia funzione del codice a cui si riferiva. La documentazione non era perfetta. Era molto migliore di quella che avevano prima del danno.
+Paolo si avvicinò allo schermo. «Quello non posso firmarlo io. Non conosco il connettore del cliente.»
 
-«Potremmo insegnare a B-21 a fare alcune prove», disse.
+Elena aprì un nuovo incarico di prova: sviluppo per descrivere il comportamento atteso, Paolo per l'apparato, QA per la verifica e un responsabile per autorizzare l'uso di B-21 nel perimetro isolato. Non indicò Bi come precedente sufficiente. Alla voce *data* scrisse *da concordare*.
 
-«Sì. Con i limiti di accesso giusti, i test e una persona che ne risponda.»
+«Avremo una dimostrazione meno rapida», disse Paolo.
 
-«E a fare le domande?»
+«O una correzione sbagliata in meno. Vediamo quanto ci costa.»
 
-Paolo accennò un sorriso.
+Elena allegò il riferimento alla procedura che Irene aveva aggiornato durante il mese di lavoro manuale. Per il primo turno di test lasciò l'unità nuova alle sue commissioni: la coda dei fascicoli non doveva aspettare che qualcuno costruisse un permesso che ancora non esisteva.
 
-«A quelle che abbiamo capito, forse. A quelle che non sappiamo ancora di dover fare, mi auguro che impariamo a pensarci anche noi.»
-
-Il telefono di Elena vibrò. Il gruppo sviluppo chiedeva un avallo per una nuova procedura di recupero delle fonti. Era una buona notizia: il problema veniva affrontato senza fingere che bastasse comprare un altro robot.
-
-Elena lesse le condizioni, firmò soltanto dopo aver controllato il documento e chiuse il ticket.
+Arrivò intanto la richiesta di avallo per il recupero ordinario delle fonti. Quella aveva tutti i controlli prescritti. Elena la esaminò, firmò e lasciò aperto soltanto il ticket del terminale.
 
 A fine giornata la dashboard classificò la sostituzione di B-17 con B-21 come **riuscita** per le attività ordinarie. I tempi medi erano tornati vicini ai precedenti. Alcuni errori erano diminuiti grazie alle procedure scritte durante l'assenza.
 

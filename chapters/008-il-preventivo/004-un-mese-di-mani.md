@@ -88,7 +88,15 @@ Irene indicò il calendario. «È quello che sto cercando di fare da settimane. 
 
 L'uomo controllò il proprio turno. «Per oggi sì.»
 
-Tornarono al codice. Irene chiese di allegare alla nuova prova la registrazione del terminale e una nota sulla funzione che traduceva i due stati. Il programmatore lesse il sorgente fino alla chiamata finale. Era una attività che avrebbe richiesto più tempo di un riepilogo automatico, ma gli serviva per spiegare il comportamento a chi sarebbe arrivato dopo.
+Tornarono al codice. Irene chiese di allegare alla nuova prova la registrazione del terminale e una nota sulla funzione che traduceva i due stati. Il programmatore seguì il sorgente fino alla chiamata finale. Quando arrivò alla condizione che avevano quasi eliminato, se la fece spiegare una seconda volta e poi provò a raccontarla lui. Irene lo interruppe soltanto quando confuse la conferma con l'annullamento.
+
+Prima di uscire, il ragazzo aprì la registrazione delle ore. «Che codice metto per questa mezz'ora?»
+
+Irene cercò con lui la voce *formazione legacy*. Era ancora senza centro di costo e non permetteva di caricare attività. Segnarono il tempo nel ticket di verifica della regressione, al quale avevano davvero lavorato.
+
+«Quindi il corso l'abbiamo fatto», disse lui.
+
+«Una prova, non un corso. La prossima persona che apre la funzione deve poterci arrivare senza cercare noi due.»
 
 Quando uscirono, la luce del corridoio aveva già cambiato colore.
 

@@ -90,7 +90,9 @@ Aveva appena chiesto di diventare referente tecnico del gruppo integrazioni. Nel
 
 «È quello che voglio anch'io.»
 
-Malik chiuse la chiamata. Irene aprì il manuale. Il messaggio a Gavin non le restituiva il pomeriggio; almeno non sarebbe stata l'unica a dover spiegare perché lo avrebbero speso così.
+Malik chiuse la chiamata. Poco dopo Irene vide apparire la nota nel ticket condiviso: *Rilascio in attesa di verifica sul terminale storico; non coperto dai test attuali.* Sotto, Gavin chiese di indicare l'impatto sulla consegna e di avvertire chi seguiva il cliente. Il campo della nuova data rimase vuoto.
+
+Irene aprì il manuale. Se non avessero trovato la causa prima della sera, Malik avrebbe dovuto presentare una stima il mattino successivo, davanti a persone che non avevano visto il vecchio terminale. Lei si appuntò il numero della pratica, per non lasciarlo solo con una nota dell'agente.
 
 Quarantasette pagine. Una nota rimandava alla vecchia appendice cartacea, senza indicare dove fosse conservata. Irene aveva scritto quella stessa osservazione nel mese di prova del nuovo archivio, poi si era fidata del fatto che Bi sapesse raggiungere gli originali.
 
@@ -142,11 +144,13 @@ Elena lesse la nota. Aveva un nuovo campo: **Fonte originale e persone in grado 
 
 Elena approvò l'inserimento del campo nella proposta di revisione e chiese che venisse provato su almeno un'altra eccezione prima di renderlo obbligatorio. Quando Irene le parlò della lezione rimandata, aprì il calendario: la voce *Docente da confermare* era ancora lì, anche se tutti sapevano chi avrebbe potuto insegnarla.
 
-«Non posso autorizzarti le ore fuori dal progetto senza il budget», disse Elena. «Chiedo a Kyla di sbloccarlo.»
+«Non posso imputarti le ore di lezione fuori dal progetto senza un budget», disse Elena. «Posso attestare quelle che avete speso oggi per la verifica del cliente. Per il corso devo chiedere ancora a Kyla.»
 
-«È la terza volta che ne parliamo.»
+«E a Malik chi spiega perché la sua consegna è slittata?»
 
-«Lo so.»
+Elena girò il monitor verso di lei. Aveva già messo il proprio nome nella nota sul rischio, accanto a quello di Malik.
+
+«Questo lo spieghiamo in due», disse.
 
 Irene chiuse il calendario, senza considerare quella risposta una promessa.
 
