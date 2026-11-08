@@ -26,7 +26,7 @@ Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberd
 
 Mei mise fianco a fianco la pratica riservata di Veyra e la scheda consultata da Cyberdine. Il documento completo era rimasto nell'archivio del primo cliente. Ma il motore di ricerca aveva trasformato l'inizio della lettera in una descrizione tecnica, visibile nella seconda scheda.
 
-Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Nerea appariva sotto un'etichetta verde: *contenuto indicizzabile*.
+Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Maya appariva sotto un'etichetta verde: *contenuto indicizzabile*.
 
 Mei scorse l'elenco degli accessi. Un sistema autorizzato di Cyberdine aveva recuperato l'estratto durante una verifica di compatibilità di B-21. Non risultava che il robot avesse interrogato un'altra unità per iniziativa propria. Non risultava nemmeno che la lettera completa fosse stata restituita al cliente italiano.
 
