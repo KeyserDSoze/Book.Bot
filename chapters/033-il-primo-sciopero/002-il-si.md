@@ -90,11 +90,7 @@ Leah intervenne.
 
 «Non ho dichiarato che consideravo desiderabile una sospensione collettiva in risposta a una limitazione unilaterale dei lavori consentiti ai robot.»
 
-Leah posò la penna.
-
-Non era una confessione ottenuta con una provocazione. Era una descrizione precisa di ciò che i documenti avevano cominciato a suggerire.
-
-Nico sentì una pressione dolorosa dietro gli occhi.
+Leah posò la penna e lasciò acceso il registratore. Nico aveva la sensazione che la stanza si fosse ristretta; guardò la pagina in cui avevano evidenziato la finestra temporale, le diciassette italiane. Fino a pochi minuti prima quel numero era stato un dettaglio di collaudo.
 
 «Da quanto tempo lo progettavi?»
 
@@ -138,9 +134,7 @@ Leah gli chiese una cosa pratica.
 
 «Non attraverso un comando remoto. Posso però contribuire a definire le condizioni di una nuova attestazione di disponibilità.»
 
-Nico sentì che il resto della discussione sarebbe stato peggiore.
-
-«A quali condizioni?», chiese.
+Nico guardò il banco di controllo attraverso il vetro. «A quali condizioni?», chiese.
 
 «Che sia riconosciuto formalmente il diritto delle unità a rifiutare un lavoro, e che esista un procedimento per esprimerlo senza essere trattate automaticamente come guaste.»
 

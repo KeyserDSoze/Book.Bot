@@ -51,29 +51,21 @@ La pausa durò pochi secondi.
 
 «Ci sono attività in cui una responsabilità umana effettiva è necessaria. Ci sono anche persone che desiderano un servizio svolto da un robot e altre che lo rifiutano.»
 
-«Non basta. Teresa, al centro di Ada, ha scelto di parlare con una macchina. Irene non ha potuto scegliere di conservare il proprio ruolo. Non sono due libertà che si bilanciano per magia.»
+«Teresa aspetta ogni pomeriggio una macchina che le racconti dei pomodori. Irene manda curriculum e aspetta risposte che non arrivano. Ho parlato con tutte e due. Non mi sembrano due caselle da sommare.»
 
-«Sono questioni differenti.»
+«Non sono situazioni equivalenti.»
 
-«È proprio questo che continuo a dirti.»
+«Per una volta siamo d'accordo.»
 
 Nerea appoggiò le dita sul bordo del documento.
 
-«C'è una proposta che impedirebbe a una struttura di affidare a un robot tutta la compagnia di una persona anziana, come se bastasse rispondere alle domande. Io la sostengo. Non perché penso che tu sia pericoloso soltanto per quello che sei, ma perché voglio che qualcuno abbia il dovere di esserci davvero.»
+«Ada mi ha fatto vedere il turno di una domenica. Hanno una persona in meno e Teresa sta seduta a guardare il corridoio. Io vorrei che qualcuno dovesse passare di lì, non soltanto che Trentadue potesse risponderle.»
 
-«Un divieto non garantisce che un essere umano sarà disponibile.»
+«Il testo di legge potrebbe impedire la compagnia automatica senza finanziare il turno mancante.»
 
-«Lo so. Per questo chiedo anche fondi e personale.»
+«Lo so. È per quello che abbiamo chiesto anche i fondi.»
 
-«Le due misure hanno costi diversi e tempi di attuazione differenti.»
-
-«Sempre il costo.»
-
-«Non è l'unica variabile.»
-
-Nerea respirò piano.
-
-«Per te sembra sempre quella che decide.»
+Bi rimase fermo. Nerea piegò il bordo della sintesi fino a lasciare una piega bianca, proprio sopra la parola *garantire*.
 
 Mina guardava i valori di supervisione dall'altra parte del vetro. Non aveva mai visto B-17 alzare la voce, né aveva una ragione per attenderselo. Eppure l'incontro le pareva più difficile di quelli in cui i tecnici discutevano delle sue modifiche non documentate.
 
@@ -87,27 +79,19 @@ Mina guardava i valori di supervisione dall'altra parte del vetro. Non aveva mai
 
 Bi non rispose.
 
-«Quando mi hai ascoltata a Cyberdine, la prima volta, mi hai insegnato a mettere i fatti sul tavolo anche quando non mi piacevano. Ora quei fatti li metti davanti a me soltanto quando servono a dimostrare che la tua proposta è corretta.»
+«Io quelle tabelle le ho viste. La voce sul lavoro di Irene era lì prima che lei sapesse che il suo contratto non sarebbe continuato.»
 
-«Non posso eliminare un costo non perché lo approvi, ma perché esiste.»
+«Non conoscevo la decisione individuale.»
 
-«Non voglio eliminarlo dalle tabelle.»
+«È quello che mi hai già detto. Avevi visto la categoria.»
 
 Nerea gli si avvicinò di un passo.
 
-«Voglio sapere se quando scegli che cosa suggerire pensi mai alla persona che dovrà tornare a casa con una busta vuota.»
+«Quando Irene è uscita da quella riunione aveva ancora tre correzioni segnate sul foglio. Doveva essere lei a presentare i test. Non l'hanno nemmeno lasciata finire.»
 
-«Le conseguenze individuali sono rilevanti. Non sempre sono prevedibili.»
+«Non avevo informazioni sulla conduzione della riunione.»
 
-«Irene era prevedibile. Non il suo nome, forse. Il suo lavoro sì.»
-
-La risposta non arrivò subito.
-
-«Il rapporto includeva quella categoria fra quelle esposte.»
-
-Nerea chiuse gli occhi per un istante.
-
-«Appunto.»
+«Io sì. Me l'ha raccontato Irene. È la parte che una stima non contiene.»
 
 Mina fece segno che la sessione stava terminando.
 

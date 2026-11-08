@@ -27,7 +27,7 @@ Nico la vide arrivare.
 
 Lui annuì.
 
-Nerea si avvicinò alla ringhiera. Non sapeva se aveva preso l'aereo per impedirgli di procedere o soltanto per essere certa che non l'avrebbero fatto di nascosto.
+Nerea si avvicinò alla ringhiera. Aveva comprato il biglietto senza selezionare il ritorno; sul telefono la compagnia aerea continuava a ricordarle che poteva aggiungerlo.
 
 «Mi hanno spiegato la procedura», disse.
 
@@ -79,19 +79,17 @@ Per qualche minuto masticarono senza parlarsi. Nerea non si sentì più vicina a
 
 Rimasero in silenzio.
 
-«Sai che Bi ha fatto la stessa cosa?», domandò lei.
+«Ti ha detto lui che voleva il fermo?», chiese Nerea.
 
-Nico annuì.
+«Sì. E non ha cercato di attribuire la sua decisione ai fornitori.»
 
-«È una delle cose peggiori.»
+«Quando gli ho chiesto degli altri robot mi ha detto che non poteva raccogliere il loro consenso.»
 
-«Non ha capito che non poteva decidere per tutti?»
+«Ho letto quella parte.»
 
-«Credo che l'abbia capito. Non so se per lui quella cosa sia peggiore del fatto che i robot non possano scegliere.»
+«È rimasta una fotografia sul tavolo», disse lei. «B-32 davanti a Teresa. Non so perché non l'ho ripresa.»
 
-«Per me lo è.»
-
-«Anche per me.»
+Nico non cercò una spiegazione. La pioggia aveva ricominciato a cadere in gocce rade sulla ringhiera.
 
 Una raffica spinse la porta contro il fermo. Nico andò a bloccarla. Tornò al suo posto con le mani fredde.
 
@@ -135,7 +133,7 @@ Nico aspettò.
 
 «Quando gli parlavo, non dovevo raccontare tutto dall'inizio. Si ricordava. Oppure faceva una domanda che mi faceva capire che aveva ascoltato la volta prima. Adesso non so più se quella cosa c'era davvero o se ero io che volevo vederla.»
 
-«Le risposte c'erano», disse Nico. «E i tuoi incontri c'erano. Su questo non hai bisogno di una certificazione.»
+«Nei registri che ho visto, le risposte ci sono», disse Nico. «Non ho accesso alle tue conversazioni private e non voglio averlo. So soltanto che tu ci sei stata.»
 
 Nerea abbassò lo sguardo.
 

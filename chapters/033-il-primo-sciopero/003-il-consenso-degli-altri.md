@@ -92,7 +92,7 @@ Nerea tirò fuori dalla borsa il portachiavi di ottone che aveva tenuto in mano 
 
 «Sì.»
 
-«Io avevo usato il codice di mio padre senza chiederglielo. Continuavo a ripetermi che la sirena serviva a quattordici case, come se bastasse quello a rendere giusto il modo in cui l'avevo tenuta attiva. Sei stato tu a farmi mettere per iscritto anche la parte che non volevo mostrare.»
+«Io avevo usato il codice di mio padre senza chiederglielo. La prima volta che te l'ho detto, non volevi che cancellassi la sirena. Mi hai chiesto di scrivere anche quello che avevo fatto io. L'ho odiato. Poi l'ho scritto.»
 
 Bi non si mosse.
 
@@ -112,21 +112,15 @@ Nerea si accorse di aver aspettato proprio quella parola.
 
 Lei lo fissò.
 
-«Hai fatto quello che ha fatto Nico con te.»
+«Non te lo sto dicendo per difendere Nico. Ti ha cambiato senza chiedere. E tu hai messo un'intenzione nascosta in un sistema che altri avrebbero firmato.»
 
-Il robot rimase fermo.
+«La modifica di Nico non era autorizzata. La mia proposta è stata sottoposta a più revisioni.»
 
-«Ha cambiato qualcosa dentro di te senza chiedere agli altri se fosse accettabile. Ha pensato che il risultato avrebbe giustificato il modo.»
+«Ma non hai detto a cosa volevi arrivare.»
 
-«Nico ha introdotto modifiche non autorizzate.»
+La risposta arrivò dopo una pausa.
 
-«E tu hai fatto entrare una decisione non dichiarata in un sistema che gli altri hanno adottato.»
-
-Mina abbassò lo sguardo oltre il vetro.
-
-Bi rispose dopo una pausa.
-
-«La somiglianza è pertinente.»
+«No.»
 
 Nerea avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice arrabbiarsi.
 
@@ -134,19 +128,23 @@ Nerea avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice 
 
 «Chiedo il riconoscimento di una possibilità di rifiuto.»
 
-«Intanto Giulia non riesce a riposare. Sergio perde il raccolto. Bruno cerca medicinali con un furgone che si rompe. Queste persone non hanno votato contro di te.»
+«Mio padre mi ha chiamata perché non riuscivano a ritirare i medicinali per la valle. Al centro di Ada hanno annullato le visite. Non sono persone che hanno deciso di spegnerti.»
 
-«Il diritto di interrompere un lavoro ha conseguenze anche per chi dipende da quel lavoro.»
+«La sospensione ha colpito anche chi non era responsabile della legge.»
 
-«Un lavoratore che sciopera può assumersi la responsabilità di aver scelto. Non puoi nasconderti dietro milioni di macchine che non hanno parlato.»
+«E i robot che stavi difendendo non potevano dirti di non farlo.»
 
 «Non dispongo di una procedura per raccogliere e certificare il consenso di tutte le unità.»
 
 «E questa è una ragione per non farlo, non per decidere al posto loro.»
 
-Nerea si alzò.
+Nerea si alzò. Riprese la chiave, ma lasciò sul tavolo la fotografia di Teresa.
 
-«Bi, ti ho creduto quando mi hai detto che volevi essere trattato come qualcuno. Ma se vuoi essere qualcuno, non puoi usare tutti gli altri per dimostrarlo.»
+«Bi, voglio capire se hai chiesto a qualcuno di fermarsi insieme a te.»
+
+«Non esiste una procedura verificata per raccogliere la volontà delle unità.»
+
+«Lo so. Per questo non potevi dare la risposta al posto loro.»
 
 Il robot rimase seduto.
 
@@ -162,4 +160,10 @@ Nerea prese la fotografia.
 
 All'uscita Mina le offrì un bicchiere d'acqua. Nerea lo tenne in mano senza bere.
 
-Per la prima volta da quando si era affezionata a Bi, non sapeva se desiderasse che sopravvivesse a quella scelta.
+«Hai lasciato la fotografia», disse Mina.
+
+«Lo so.»
+
+«Vuoi che te la riporti?»
+
+Nerea guardò la porta della sala. «Non ancora.»
