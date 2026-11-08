@@ -22,3 +22,7 @@ Yusuf usa la propria esperienza sul terreno e la formazione tecnica per organizz
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 27 la sorella manda a Yusuf la foto di una tovaglia sgargiante e gli chiede un parere. Lui rimanda perché sta controllando i contratti, poi le risponde con un vocale scherzoso: «È orribile, prendila.» Per una sera vuole essere soltanto un fratello, non un lavoratore che non sa quando potrà tornare a trovarla. La sua competenza sul terreno e la formazione tecnica sono vere, ma nessuna crea automaticamente un nuovo impiego stabile.
+
+## Profilo umano — review dei personaggi
+
+Yusuf è uno stagionale con una competenza che non compare nei test dei robot agricoli: sa leggere il terreno e anticipare un danno alle piante. Non disprezza Samuel e sa usare gli strumenti digitali; il problema è che un corso non garantisce il prossimo contratto. **Difetto:** per orgoglio rifiuta aiuto anche quando avrebbe diritto a chiederlo. Attraversa uno sciopero robotico che non gli restituisce automaticamente il lavoro.

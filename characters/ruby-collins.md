@@ -17,3 +17,7 @@ Ruby torna all'Hub come personale aggiuntivo durante l'emergenza, ottenendo stra
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Il mercoledì libero del 23 è prezioso per il figlio e per una pizza che non si concede facilmente. Nel 31 il richiamo all'Hub la solleva anche perché al lavoro si sente indispensabile e può rinviare la bolletta e la ruota della bicicletta da riparare a casa, ma ne paga il prezzo sull'orario del bambino. Nel 35 Sophie le lascia una scelta fra ulteriori ore di lavoro e la sera con lui; la pizza resta una richiesta reale, non un simbolo da spiegare.
+
+## Profilo umano — review dei personaggi
+
+Ruby organizza i turni dell'Hub anche in funzione del figlio e della scuola. Ama il mercoledì finalmente libero grazie a B-37, ma prima contava sugli straordinari per le spese impreviste. **Difetto:** fatica a dire che un miglioramento la sta ferendo senza sembrare ingrata. Firma per turni più giusti, poi scopre che la direzione può usare la stessa efficienza per non rinnovare contratti. Durante la crisi recupera ore lavorate, non sicurezza economica definitiva.

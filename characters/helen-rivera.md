@@ -22,3 +22,7 @@ Durante lo stop Helen parla comunque a B-32 fermo e chiede di tenere aperta la p
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Helen si diverte a raccontare due versioni della stessa storia a B-32, ama i pomodori e chiede di poter mangiare la torta portata da Chloe senza che la figlia ne controlli ogni fetta. La domanda «Chi è migliore?» non la definisce: Helen vuole entrambe le relazioni, anche quando le complicano la giornata. Durante lo stop chiede la porta aperta per sentire passare persone nel corridoio. Non ridurla a oggetto della cura o a prova dei meriti della robotica.
+
+## Profilo umano — review dei personaggi
+
+Helen vive al centro assistenziale ma conserva preferenze e desideri propri. Il piccolo pomodoro **Charlie** è un modo per contare il tempo nella serra, non una metafora da spiegare. **Virtù:** chiede a persone e robot di ascoltarla. **Difetto:** quando la visita viene rimandata può essere ingiusta con Chloe, che magari è arrivata dopo il lavoro. Non è ingenua né innamorata di B-32: apprezza semplicemente che qualcuno ricordi la sua storia fino alla frase successiva.

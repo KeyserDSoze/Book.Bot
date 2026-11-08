@@ -22,3 +22,7 @@ Samuel subisce il blocco delle raccoglitrici al momento in cui avrebbe bisogno d
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 27 Samuel vorrebbe giocare a carte sabato sera e perdere cinque euro senza dover raccontare il mutuo a un vicino. Finisce invece davanti ai preventivi delle macchine e decide di ridurre gli stagionali per non vendere i venti ettari. Il piccolo desiderio non è un simbolo da spiegare: è la dimensione di una vita che le scelte aziendali continuano a occupare. Il fermo mondiale rischia davvero di fargli perdere il raccolto e non cambia retroattivamente la convenienza dei robot.
+
+## Profilo umano — review dei personaggi
+
+Samuel possiede il noccioleto e conosce il costo di un'annata persa, dei ricambi e del mutuo. Compra raccoglitrici autonome per non vendere il campo, non per umiliare Yusuf. **Difetto:** parla di conti con precisione anche quando vorrebbe evitare una conversazione dolorosa. Scrive sulla stessa agenda il meteo e le rate. Il fermo delle 17 gli mostra che aver risolto un problema di personale può creare una dipendenza produttiva più grande.

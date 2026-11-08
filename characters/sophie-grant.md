@@ -34,3 +34,7 @@ Sophie richiama lavoratori abilitati in turni straordinari limitati e organizza 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 23 Sophie ha dovuto negare un secondo microonde al personale per un piccolo budget esaurito, mentre B-37 viene lodato per le proposte sui turni. Non tutte le sue decisioni sono di grande filosofia: spesso deve dire di no proprio alle cose più comuni. Nel 35 può concedere a Ruby l'orario corretto, non contemporaneamente salario e serata libera.
+
+## Profilo umano — review dei personaggi
+
+Sophie gestisce l'Hub Levante con ritiri, code e guasti quando la sede centrale dorme. **Virtù:** non forza mai un controllore fisico per recuperare un ordine in ritardo. **Difetto:** chiede agli operatori una flessibilità che riesce a sostenere perché non ha identici vincoli familiari. Apprezza Omar e Avery, ma deve imparare a riconoscerne la competenza in percorsi di ruolo e non soltanto in ringraziamenti.
