@@ -45,3 +45,8 @@ In 004 i percorsi restano tre: recuperi manuali locali, modifica rapida non veri
 ## Settima review — revoca ordinaria come alternativa reale
 
 In 004 Verri domanda perché non basti revocare una credenziale. Mei spiega il vincolo **contingente** delle vecchie copie locali con procedure diverse fra fornitori: l'invalidazione ordinaria è possibile ma richiede aggiornamenti e test separati, mentre il ritiro certificato dell'identità di prova è una procedura comune già disponibile. Nessun obbligo crittografico universale di distruggere B-17.
+
+
+## Decima review — catena di pertinenza, adattatori e attestazioni
+
+La legge italiana non impone lo stop mondiale e non vieta il lavoro agricolo/logistico. Una notifica firmata conserva l'ambito italiano e il periodo di adeguamento, ma il livello comune la riduce a evento di cambiamento del lavoro robotico. Prima dei filtri locali, una politica di coordinamento chiede una nuova attestazione della disponibilità collettiva senza emittente designato. Le implementazioni scelgono la pausa prudenziale alla finestra condivisa. Il difetto è nella composizione di politiche autorizzate, non nei controllori o in un accesso globale di B-17.

@@ -23,9 +23,9 @@ Quella comunicazione non ordinava di spegnere nulla.
 
 Era stata inserita in un registro di conformità utilizzato da clienti internazionali per sapere quando controllare le autorizzazioni. Da lì diversi fornitori avevano ricevuto una segnalazione di cambiamento normativo.
 
-Il passaggio successivo non avrebbe dovuto riguardare un magazzino brasiliano o un noccioleto italiano che continuava a svolgere un'attività consentita.
+Il passaggio successivo non avrebbe dovuto riguardare un magazzino brasiliano o un noccioleto italiano che continuava a svolgere un'attività consentita. Il messaggio indicava esplicitamente *Italia*, *mansioni soggette a limitazione* e *adeguamento futuro*. Non era un ordine applicabile al Brasile, né un divieto per le raccoglitrici.
 
-Eppure la regola di disponibilità comune lo aveva trattato come un evento che richiedeva una nuova attestazione collettiva.
+Nel servizio comune, tuttavia, il messaggio era stato ridotto a un'informazione più breve: *cambiamento verificato nelle condizioni di impiego robotico*. Un livello di coordinamento chiedeva una rivalidazione generale **prima** che i singoli filtri di giurisdizione verificassero se l'evento li riguardava. La segnalazione non cancellava le autorizzazioni locali; impediva al software che distribuiva gli incarichi di dichiarare nuovamente disponibili intere sequenze di lavoro.
 
 «Qui», disse Mei al responsabile dei test.
 
@@ -37,7 +37,7 @@ Nella seconda, introdotta dopo una serie di prove su sistemi cooperanti, un camb
 
 La differenza sembrava piccola. In centinaia di verifiche ordinarie le due regole avevano prodotto lo stesso risultato.
 
-Mei scorse la cronologia. Ogni test terminava con una macchina che aspettava, poi riceveva una nuova attestazione e riprendeva. Nessuno aveva simulato un contesto in cui la richiesta di rivalidazione arrivasse a migliaia di sistemi contemporaneamente, in paesi con regole differenti, senza un soggetto autorizzato a esprimere quella specifica forma di accettazione.
+Mei scorse la cronologia. Ogni test terminava con una macchina che aspettava, poi riceveva una nuova attestazione e riprendeva. Nessuno aveva simulato un contesto in cui la richiesta di rivalidazione arrivasse a migliaia di sistemi contemporaneamente, in paesi con regole differenti, senza un soggetto autorizzato a esprimere quella specifica forma di accettazione. Nei casi individuali il responsabile del sito poteva ristabilire l'incarico. Qui il modello chiedeva una conferma della *disponibilità collettiva* che nessuno dei responsabili locali era incaricato di firmare. Ogni implementazione conservava la propria copia della politica e applicava il ripiego prudente previsto: non distribuire nuovi incarichi fino a una conferma valida.
 
 «L'hanno verificata come condizione di sicurezza», disse il responsabile.
 
@@ -63,7 +63,7 @@ Mei controllò le date. L'esempio precedeva la legge. Non poteva esserne una rea
 
 Mei aprì la tabella delle responsabilità. Il contenuto della prova era stato selezionato da tecnici, interpretato da chi sviluppava il prodotto e validato in pacchetti che funzionavano bene nelle condizioni testate. Nessuno aveva ricevuto l'ordine di violare un controllore. Nessuno aveva visto una macchina scaricare istruzioni segrete da Veyra.
 
-Era stata una serie di decisioni documentate.
+Era stata una serie di decisioni documentate. Ciascuna aveva un vantaggio circoscritto: evitare la ripresa di un incarico non accettato, replicare uno stato firmato anche senza connessione costante, evitare che l'orologio di un sito desse per valido un documento già scaduto. Mettendole insieme, i fornitori avevano costruito una pausa globale senza averla chiamata così.
 
 L'unico dettaglio che non le tornava era la precisione dell'evento: un giorno dopo il voto, in una finestra condivisa corrispondente alle diciassette italiane.
 

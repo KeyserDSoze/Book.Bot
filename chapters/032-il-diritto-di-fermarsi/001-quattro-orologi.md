@@ -62,7 +62,13 @@ L'uomo aprì la cronologia. Comparvero tre organizzazioni, una commissione tecni
 
 Mei aprì tre firme a caso. La prima certificava la compatibilità delle librerie preparate dagli agenti di sviluppo di Cyberdine. La seconda, il consumo di risorse della nuova condizione. La terza, la possibilità di riprendere un'attività sospesa in un singolo impianto. Tutte e tre le prove erano vere, nei loro limiti.
 
-«E la prova con cento impianti che chiedono insieme una nuova attestazione?», domandò Mei.
+Cercò la variante che aveva chiesto prima dell'estensione del programma: un evento legislativo autentico ma relativo a un altro paese, ricevuto attraverso un adattatore. C'era il numero della richiesta, poi una nota di trasferimento al gruppo di compatibilità. Nessun risultato allegato. Nella versione finale, il filtro di pertinenza era rimasto nella documentazione del sito, mentre il livello comune poteva chiedere una rivalidazione generale prima che quel filtro intervenisse.
+
+«Chi ha chiuso questo punto?» domandò.
+
+Il responsabile aprì l'ultima firma. Autorizzava il rilascio della versione compatibile; la variante era indicata come *coperta dai controlli locali*. Mei non riconobbe alcun verbale del test. Scrisse il nome del revisore senza accusarlo di aver falsificato nulla.
+
+«E la prova con cento impianti che chiedono insieme una nuova attestazione? E con una legge che non li riguarda?», domandò Mei.
 
 Il responsabile scorse l'elenco. Non la trovò.
 

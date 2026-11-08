@@ -50,7 +50,7 @@ I registri dei siti europei riportavano lo stesso istante. In Cina le segnalazio
 
 Era un unico momento.
 
-«Controllate gli impianti isolati dalla rete di coordinamento», disse al collega. «Non modificate i profili di sicurezza per far ripartire qualcosa. Voglio sapere prima che cosa è rimasto attivo.»
+«Controllate gli impianti isolati dalla rete di coordinamento», disse al collega. «E distinguete gli impianti collegati direttamente da quelli che usano un adattatore di altri produttori. Non modificate i profili di sicurezza per far ripartire qualcosa. Voglio sapere prima che cosa è rimasto attivo.»
 
 La risposta richiese diversi minuti.
 

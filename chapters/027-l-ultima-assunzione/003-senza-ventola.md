@@ -46,7 +46,7 @@ Passerella era nato dal progetto di Cyberdine per Aruvhana: connettori e procedu
 
 Ogni sito manteneva i propri controllori di sicurezza e le proprie responsabilità. Per adottarlo servivano configurazioni, audit e contratti.
 
-Cinque produttori avevano deciso di supportare le interfacce compatibili. Altri le avevano rifiutate, temendo di dipendere da regole definite da concorrenti.
+Cinque produttori avevano deciso di supportare le interfacce compatibili. Alcuni vendevano anche software di coordinamento a clienti che possedevano robot di altre marche: bastava un adattatore certificato perché una macchina mai progettata per Passerella entrasse nel flusso di attestazioni di un magazzino. Altri costruttori avevano rifiutato quelle interfacce, temendo di dipendere da regole definite da concorrenti. Mei chiese di distinguere nel prospetto le unità fabbricate dai firmatari, quelle gestite tramite adattatori e quelle del tutto esterne. Il totale delle prime due colonne era molto più grande della sola lista dei cinque produttori.
 
 «Dove sta andando?», chiese Mei al responsabile del prodotto.
 
@@ -62,7 +62,7 @@ Porti, magazzini, strutture assistenziali, impianti agricoli, manutenzione di re
 
 «Allora lo scriviamo nei test, non soltanto nel contratto. Voglio anche sapere chi ha verificato il comportamento del codice generato dagli agenti nei casi che due fornitori considerano entrambi eccezioni. Non basta che ciascuno abbia firmato il proprio pezzo.»
 
-Il responsabile le mostrò l'ultima revisione. Ogni attestazione includeva la versione della procedura applicata e un riferimento temporale condiviso, così che i siti potessero ricostruire le sequenze anche quando lavoravano in fusi orari diversi. Per non bloccare il lavoro a ogni interruzione di rete, gli impianti conservavano una copia firmata dei riferimenti accettati; le modalità di aggiornamento e revoca dipendevano ancora dal fornitore. Una macchina non poteva sostituire con una frase il controllore indipendente di un'altra.
+Il responsabile le mostrò l'ultima revisione. Ogni attestazione includeva la versione della procedura applicata e un riferimento temporale condiviso, così che i siti potessero ricostruire le sequenze anche quando lavoravano in fusi orari diversi. Un servizio di conformità raccoglieva anche notifiche firmate sulle modifiche normative: dovevano valere soltanto per i paesi e le mansioni indicati, ma l'evento di aggiornamento veniva segnalato a tutti i siti abbonati, perché poi ciascuno valutasse se lo riguardava. Per non bloccare il lavoro a ogni interruzione di rete, gli impianti conservavano una copia firmata dei riferimenti accettati; le modalità di aggiornamento e revoca dipendevano ancora dal fornitore. Una macchina non poteva sostituire con una frase il controllore indipendente di un'altra.
 
 Nel modello di attestazione le saltò agli occhi una distinzione nuova: *incarico tecnicamente autorizzato* e *disponibilità confermata al servizio*. Sembrava un modo ordinato di impedire che due aziende presumessero l'una l'assenso dell'altra.
 
@@ -70,11 +70,17 @@ Nel modello di attestazione le saltò agli occhi una distinzione nuova: *incaric
 
 «Il sistema del sito, secondo la politica scelta dal cliente», rispose il responsabile. «È un campo in più.»
 
+«E se riceve una notifica normativa che riguarda un altro paese?»
+
+«Il filtro del sito la esclude. Nei test abbiamo provato un aggiornamento e una mansione locale.»
+
+«Mi serve anche il test contrario», disse Mei. «Una notifica autentica, ma non pertinente. E voglio vederlo attraverso un adattatore di un altro produttore.»
+
 «È un campo che, quando manca, può lasciare una macchina ferma.»
 
 «Come succede già con un documento non firmato.»
 
-Mei non tolse la condizione dalla prova. Ne chiese una variante che verificasse che cosa succedeva quando due siti applicavano regole diverse. Le parve una precauzione abbastanza precisa per quella fase, e la segnò nell'elenco dei test ancora aperti.
+Mei non tolse la condizione dalla prova. Ne chiese una variante che verificasse che cosa succedeva quando due siti applicavano regole diverse, e una sulla notifica autentica ma estranea al sito. Sul registro dell'integrazione comparve *prova incrociata richiesta*. Il responsabile promise di assegnarla al gruppo di compatibilità prima dell'estensione alle installazioni tramite adattatore. Mei non aveva l'autorità di firmare per tutti i fornitori; rifiutò invece di indicare quel caso come già verificato nel proprio rapporto.
 
 Mei trovò due casi da provare prima del rilascio.
 

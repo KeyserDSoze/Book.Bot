@@ -41,3 +41,8 @@ In 003 **Carlo è il pomodoro piccolo**, coerente con 35/003; la frase di B-32 s
 ## Continuità caratteriale
 
 Kyla, azionista e responsabile di persone, deve costruire una lista reale di risorse invece di adottare una stima automatica senza riscontro. Gavin, che da tempo difende soprattutto Delivery, concede alcune ore a QA e al recupero dei registri e le segna nel piano comune; rimane preoccupato per le scadenze del proprio reparto. Paolo evita di forzare B-21, Nerea conserva la responsabilità verso Bruno e Valle Corta. Nessuno comprende lo stop mondiale in questa scena.
+
+
+## Decima review — catena di pertinenza, adattatori e attestazioni
+
+Mei distingue i siti con integrazione diretta, quelli con adattatori e le unità del tutto isolate. La vastissima quota di siti coordinati che si arresta non è una prova di un comando centrale; i controllori e gli impianti isolati restano autonomi.

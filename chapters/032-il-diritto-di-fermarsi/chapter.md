@@ -35,3 +35,8 @@ In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in
 ## Sesta review — registri e prova nuova
 
 La scena 002 mostra **log di due impianti reali** che non si accordano sulla referenza, non un test di revoca già compiuto. Nico chiede una prova controllata: verrà effettuata soltanto nel 34/002. Le sei firme umane hanno convalidato aspetti differenti; la loro validità non certifica la tenuta globale. In 003 Mina raccoglie la proposta di Bi senza anticiparne l'intenzione prima del capitolo 33; nel 004 Irene contesta l'uso della parola «sciopero» senza un consenso verificato.
+
+
+## Decima review — catena di pertinenza, adattatori e attestazioni
+
+Mei ritrova l'esatta prova incrociata chiesta nel 27: notifica normativa autentica ma di altra giurisdizione, attraverso un adattatore. La richiesta aveva un numero e un trasferimento di responsabilità ma nessuna esecuzione verificabile; il rilascio ha dato per sufficienti filtri locali che intervengono dopo la verifica generale. Nessuna firma è falsa, ma nessuna prova copre l'intera catena.

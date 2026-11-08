@@ -43,3 +43,8 @@ In 003 Passerella conserva presso i siti riferimenti firmati per poter lavorare 
 ## Revisione cast internazionale — 2026-11-08
 
 Erik Solberg è l'ingegnere che con Mei verifica a Suzhou i dati del modulo energetico. Rifiuta una formula commerciale che trasformerebbe 4 ore e 50 di lavoro misto in un intero turno senza soste. L'efficienza del modulo è reale, non annulla il limite di batteria, calore, attuatori e tempi di ricarica. Mei conserva il proprio controllo sul rilascio e sulle condizioni di interoperabilità di Passerella.
+
+
+## Decima review — catena di pertinenza, adattatori e attestazioni
+
+La diffusione di Passerella deriva anche dagli adattatori commerciali dei cinque produttori firmatari, che servono flotte di marchi diversi. Il servizio di conformità distribuisce notifiche autentiche con ambito nazionale; Mei chiede già il test di un evento pertinente a un altro paese e una prova attraverso adattatore, senza sapere che saranno critici.
