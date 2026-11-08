@@ -46,6 +46,14 @@ L'uomo mostrò due nomi e un turno di reperibilità.
 
 Nessuno rispose subito.
 
+«Il cliente apre un incidente, non una poesia», continuò Margaret. «Se il difetto attraversa due squadre, chi coordina la diagnosi? Chi telefona al referente di Aruvhana? Il reperibile che vede l'allarme non sempre è la persona autorizzata a decidere il rilascio.»
+
+Uno dei responsabili spostò la tabella. Indicò il referente tecnico del servizio, l'escalation al responsabile di commessa e la persona che approvava un ritorno alla versione precedente.
+
+«Questo c'è», disse. «Non abbiamo ancora previsto il tempo per provare il passaggio con entrambe le squadre.»
+
+Margaret scrisse una riga sul quaderno. «Allora la voce formazione da sola non lo risolve.»
+
 Olivia proiettò un confronto fra vecchia e nuova organizzazione. In passato il team di Margaret raccoglieva manualmente documenti, ricostruiva versioni, chiedeva verifiche al reparto software, coordinava i collaudi e infine preparava la decisione. Adesso gli agenti producevano patch, casi di prova e sintesi; Bi e altri robot potevano verificare determinati terminali e recuperare originali; le persone restavano titolari delle autorizzazioni e dei rilasci.
 
 Il tempo risparmiato era reale. Olivia lo aveva visto nelle sere finalmente libere, nei richiami fuori turno più rari, nelle pratiche che non aspettavano una firma per giorni.

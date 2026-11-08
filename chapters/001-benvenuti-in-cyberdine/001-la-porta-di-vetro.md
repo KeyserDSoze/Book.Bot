@@ -22,6 +22,8 @@ factions:
 
 Taylor aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
 
+La trattativa economica con Aruvhana era in mano alla direzione commerciale e al responsabile di commessa. Taylor dirigeva l'area People & Communications: aveva organizzato il percorso della visita, non poteva promettere sconti o date di consegna. Ai visitatori avrebbe mostrato persone, test e limiti verificabili. Poi sarebbero stati i responsabili tecnici a rispondere delle parti difficili.
+
 La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
 «Dove sono le vostre macchine?», chiese Elias Hart.
@@ -55,6 +57,10 @@ Noah sollevò lo sguardo, li vide e rispose al saluto di Taylor con due dita. Po
 Il telefono vibrò nella tasca della giacca.
 
 *Stasera cinema. Ti ricordi?*, aveva scritto l'amica che le aveva comprato due biglietti dopo tre inviti rimandati.
+
+Sotto c'era un messaggio della madre, di due giorni prima: *Ho trovato le fotografie di Hazel. Vuoi che le tenga da parte?*
+
+Hazel, sua sorella minore, era morta cinque anni prima. Taylor non aveva risposto. La irritava quel «tenga da parte», come se esistesse un posto dove mettere le fotografie che non facesse male a nessuna delle due. Sapeva anche che la madre non aveva fatto niente per meritarsi quell'irritazione.
 
 *Mi ricordo*, rispose. Non era del tutto vero: non ricordava il titolo del film. Ricordava soltanto di aver promesso che stavolta non avrebbe lavorato dopo le sette. Lasciò il telefono in tasca.
 

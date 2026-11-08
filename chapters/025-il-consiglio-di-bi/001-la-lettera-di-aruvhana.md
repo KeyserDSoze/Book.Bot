@@ -17,7 +17,7 @@ factions:
   - faction:aruvhana
 ---
 
-Taylor lesse la lettera di Aruvhana alle sei e quarantotto, in piedi davanti alla stampante.
+Taylor lesse la lettera di Aruvhana alle sei e quarantotto, in piedi davanti alla stampante. Era in copia alla comunicazione del responsabile commerciale: i documenti su prezzo e livelli di servizio erano già sul tavolo del delivery e dell'ufficio legale. A lei erano stati chiesti numeri e scadenze sui ruoli esposti. Non avrebbe risposto da sola al cliente.
 
 Il numero era al centro della pagina, nella sezione economica.
 
@@ -61,11 +61,15 @@ Taylor si ricordò il mese in cui Claire aveva ricostruito dipendenze fra vecchi
 
 «Non dobbiamo tagliare la parte che ci permette di capire il software», disse.
 
-«Allora trovami un modo per ridurre il costo di tutto il resto.»
+«Allora facciamo preparare al delivery un'alternativa che non ci faccia promettere un servizio che non sappiamo più erogare.»
 
-Aprirono i report. La voce più alta non era più la programmazione di nuove funzioni: erano verifiche ripetute, interfacce fra strumenti di fornitori differenti, riconciliazioni di stati già controllati altrove, passaggi di consegne fra persone che non avevano accesso agli stessi registri.
+«E alle persone chi lo spiega?», chiese Taylor.
 
-«Qui paghiamo due squadre perché un sistema non può attestare a un altro di aver concluso un controllo», osservò Taylor.
+«Tu, insieme ai loro responsabili. Ma prima voglio sapere se l'alternativa esiste.»
+
+Aprirono i report già preparati dall'ufficio di commessa. La voce più alta non era più la programmazione di nuove funzioni: erano verifiche ripetute, interfacce fra strumenti di fornitori differenti, riconciliazioni di stati già controllati altrove, passaggi di consegne fra persone che non avevano accesso agli stessi registri.
+
+«Il responsabile di commessa ha segnalato questo doppio controllo», disse Cole, indicando due righe del prospetto. «Paghiamo due squadre perché un sistema non può attestare a un altro di aver concluso un'attività.»
 
 «Esatto. L'agente scrive una correzione per il primo, un altro agente ne prepara una per il secondo, poi passiamo giorni a farli concordare.»
 
@@ -73,9 +77,11 @@ Aprirono i report. La voce più alta non era più la programmazione di nuove fun
 
 Cole annuì.
 
-«Se avessimo un modo comune per scambiarci attestazioni verificabili?»
+«Gli architetti hanno proposto una verifica comune delle attestazioni», disse Cole. «Non c'è ancora una stima affidabile.»
 
-«Avremmo un altro prodotto da scrivere, collaudare e mantenere. Non possiamo chiedere a un robot di inventarci il bilancio.»
+«E anche se funzionasse», rispose Taylor, «avremmo un prodotto da scrivere, collaudare e mantenere. Prima di presentarne il risparmio dobbiamo capire chi si assume il supporto e chi resta reperibile quando due sistemi non sono d'accordo.»
+
+«Non possiamo chiedere a un robot di inventarci il bilancio», disse Cole.
 
 Taylor non sorrise. Aveva ricevuto quella mattina una notifica del Circuito Veyra: B-17 era disponibile per una singola analisi locale sotto audit, senza accessi operativi ai sistemi Cyberdine. L'idea di chiedergli una valutazione le sembrò insieme utile e scomoda. Il robot aveva già contribuito a proporre test che avevano ridotto la necessità di alcuni ruoli nell'azienda. Ora l'avrebbero consultato per trovare una strada che potesse salvare un contratto e, nello stesso tempo, ridurre altri posti.
 

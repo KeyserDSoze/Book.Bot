@@ -21,7 +21,7 @@ La sera prima, l'amica con cui continuava a rimandare il cinema le aveva mandato
 
 Alla fine aveva mandato soltanto: *Hai ragione*. Le era sembrata una frase molto più faticosa delle venti pagine di analisi economica che aveva finito poco dopo mezzanotte.
 
-Taylor portò la proposta finale nella sala riunioni il martedì successivo.
+Taylor entrò nella sala riunioni il martedì successivo con la parte della proposta relativa alle persone. Il piano tecnico era stato preparato dal delivery, discusso con gli architetti dei connettori e sottoposto al controllo di sicurezza; la direzione commerciale aveva stimato il prezzo e il rischio contrattuale. Taylor non era l'architetta né la responsabile della commessa. Era lì perché le conseguenze sui dipendenti non diventassero una nota a piè di pagina.
 
 Sul tavolo aveva due dossier.
 
@@ -33,11 +33,11 @@ Cole aprì il secondo fascicolo.
 
 «Quanto ci costa?»
 
-Taylor glielo disse.
+Il responsabile di commessa indicò il costo del pilota, le ore di collaudo e la reperibilità aggiuntiva da mantenere durante la transizione. Taylor aggiunse la formazione dei tecnici che avrebbero dovuto saper correggere un'eccezione senza limitarsi a leggere il resoconto dell'agente.
 
 «E quando rientriamo?»
 
-«Se le prove reggono, con il rinnovo di Aruvhana. Se non reggono, avremo speso per un progetto che dovremo ridimensionare.»
+«Se le prove reggono, con il rinnovo di Aruvhana», rispose il responsabile di commessa. «Il cliente ha chiesto una stima, non una promessa. Se non reggono, avremo speso per un progetto da ridimensionare.»
 
 Il direttore delle operazioni intervenne.
 
@@ -79,7 +79,7 @@ Cole chiuse il dossier.
 
 «Prepariamo l'informativa e gli incontri. Prima che questa cosa esca in un giornale.»
 
-Quando i dirigenti lasciarono la sala, Taylor rimase a raccogliere le carte. Nel fascicolo della simulazione economica c'era un allegato con le categorie a rischio e le scadenze previste dei contratti a termine.
+Quando i dirigenti lasciarono la sala, Taylor rimase a raccogliere le carte. Sul telefono era ancora aperta la conversazione con sua madre. La settimana precedente le aveva chiesto quando sarebbe passata a vedere le fotografie di Hazel. Taylor aveva scritto *ti richiamo* e non aveva chiamato. La sorella non sarebbe tornata, ma sua madre sì, ogni volta che trovava il coraggio di domandare. Taylor mise il telefono sul tavolo, senza usarlo come una scusa per rinviare anche il colloquio con Claire. Nel fascicolo della simulazione economica c'era un allegato con le categorie a rischio e le scadenze previste dei contratti a termine.
 
 Una descrizione coincideva con il lavoro di Claire.
 
@@ -123,6 +123,8 @@ Claire abbassò la mano sulla maniglia.
 
 Rimasta sola, Taylor prese il primo dossier, quello che descriveva che cosa sarebbe successo perdendo Aruvhana.
 
-Sul frontespizio compariva una parola che nessuno aveva pronunciato durante l'ultima riunione.
+Prima di riporre le carte, Taylor scrisse alla madre: *Domenica passo. Non scegliere tu quali fotografie tenere: guardiamole insieme.* Le venne voglia di cancellare il messaggio, come faceva con le risposte all'amica. Lo inviò.
+
+Poi prese il primo dossier, quello che descriveva che cosa sarebbe successo perdendo Aruvhana. Sul frontespizio compariva una parola che nessuno aveva pronunciato durante l'ultima riunione.
 
 *Chiusura.*
