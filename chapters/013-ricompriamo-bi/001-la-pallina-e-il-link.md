@@ -77,7 +77,7 @@ Nel pomeriggio convocarono una piccola riunione fuori dall'orario di servizio. A
 
 Paolo spiegò che non esisteva alcuna offerta di vendita confermata. Nerea raccontò soltanto che B-17 risultava attivo presso un'impresa di Veyra, secondo una comunicazione ufficiale ricevuta da Cyberdine. Non disse nulla della backdoor e non mostrò video ottenuti da quel collegamento. Anche chi sapeva che era in corso un'indagine interna doveva rispettare la riservatezza delle persone coinvolte.
 
-«Potremmo creare una raccolta di impegni», propose Mila. «Non un pagamento immediato. Se non possiamo comprare la macchina in modo regolare, si annulla tutto e le persone riottengono i soldi.»
+«Potremmo creare una raccolta di impegni», propose Mila. «Non un pagamento immediato. Se non possiamo comprare la macchina in modo regolare, annulliamo le promesse prima di chiedere i soldi. E se la piattaforma ha trattenuto qualche importo, lo facciamo restituire secondo le condizioni.»
 
 «E con che nome?», chiese uno dei colleghi.
 
