@@ -77,7 +77,7 @@ Leah non parlò subito. Contrassegnò sul prospetto i siti che potevano proceder
 
 Mei ritrovò sul proprio vecchio rapporto la parola *compatibile*, firmata per test allora superati. Non vi compariva nessuna prova della migrazione fra due identità hardware differenti. Abbassò la pagina perché Noah potesse leggerla anche lui.
 
-Nel prospetto c'era una nota dal centro assistenziale di Grace Morgan: scorte prestate ad altri, consegna del magazzino regionale non ricomposta, possibilità di dover ridurre le attività e valutare trasferimenti degli ospiti entro due giorni. Il centro aveva persone disponibili a guidare; non sapeva quali materiali fossero effettivamente pronti per il ritiro.
+Nel prospetto c'era una nota dal centro assistenziale di Grace Walker: scorte prestate ad altri, consegna del magazzino regionale non ricomposta, possibilità di dover ridurre le attività e valutare trasferimenti degli ospiti entro due giorni. Il centro aveva persone disponibili a guidare; non sapeva quali materiali fossero effettivamente pronti per il ritiro.
 
 «E se pagassimo noi un furgone?», chiese Amara.
 

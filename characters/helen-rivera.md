@@ -7,7 +7,7 @@ canon: canon
 
 # Helen Rivera
 
-Ospite anziana del centro assistenziale di Grace Morgan. Dopo la visita alla serra persa per il ritardo della biancheria, apprezza l'assistenza e la conversazione di B-32. Ha una figlia adulta, Chloe. Non rinuncia alle visite umane né alla relazione affettiva con lei.
+Ospite anziana del centro assistenziale di Grace Walker. Dopo la visita alla serra persa per il ritardo della biancheria, apprezza l'assistenza e la conversazione di B-32. Ha una figlia adulta, Chloe. Non rinuncia alle visite umane né alla relazione affettiva con lei.
 
 
 ## Capitoli 29–30

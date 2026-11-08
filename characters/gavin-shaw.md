@@ -1,11 +1,11 @@
 ---
 type: character
-id: character:gavin-cole
-name: Gavin Cole
+id: character:gavin-shaw
+name: Gavin Shaw
 canon: canon
 ---
 
-# Gavin Cole
+# Gavin Shaw
 
 Responsabile Delivery di un gruppo di sviluppatori di Cyberdine. Britannico trasferitosi in Italia da anni, ha cominciato da programmatore in progetti in crisi; un manager una volta attribuì al suo gruppo un ritardo deciso altrove, e Gavin giurò che non avrebbe lasciato i propri colleghi senza difesa. Oggi è un ottimo capo per chi lavora con lui: conosce i problemi familiari, prende turni difficili, protegge i junior e porta spesso le release in produzione rispettando la qualità concordata.
 

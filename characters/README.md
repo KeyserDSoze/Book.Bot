@@ -14,7 +14,7 @@ Questo indice comprende **tutte le schede di `characters/`** e distingue i nomi 
 |---|---|---|
 | Kyla Morgan | [kyla.md](kyla.md) | HR/Marketing, socia dall'8, attenzione all'intera società ma comunicazione selettiva |
 | Victor Cole | [victor-cole.md](victor-cole.md) | AD, controllo finanziario, risultati raccontati ad arte |
-| Gavin Cole | [gavin-cole.md](gavin-cole.md) | Delivery manager leale al gruppo fino all'ostilità per gli altri |
+| Gavin Shaw | [gavin-shaw.md](gavin-shaw.md) | Delivery manager leale al gruppo fino all'ostilità per gli altri |
 | Noah Carter | [noah-carter.md](noah-carter.md) | Programmatore geniale e amichevole; curiosità e responsabilità |
 | Maya Bennett | [maya-bennett.md](maya-bennett.md) | Sorella morta, diffidenza istituzionale, Valle Corta e Bi |
 | Paul Turner | [paul-turner.md](paul-turner.md) | Tecnico legacy, lutto per genitori dipendenti, paura delle dipendenze |
@@ -34,7 +34,7 @@ Sahir Venn e Leïa Orren — [visitors.md](visitors.md), visitatori Aruvhana; An
 
 ## Lavoro, cura e società (9 persone)
 
-Grace Morgan — [grace-morgan.md](grace-morgan.md), coordinatrice assistenziale; Julia Parker — [julia-parker.md](julia-parker.md), operatrice; Helen Rivera — [helen-rivera.md](helen-rivera.md), ospite; Chloe Rivera — [chloe-rivera.md](chloe-rivera.md), figlia; Sophie Grant — [sophie-grant.md](sophie-grant.md), capoturno Hub Levante; Ruby Collins — [ruby-collins.md](ruby-collins.md), lavoratrice e madre; Omar Haddad — [omar-haddad.md](omar-haddad.md), manutenzione Hub; Samuel Price — [samuel-price.md](samuel-price.md), agricoltore; Yusuf Karim — [yusuf-karim.md](yusuf-karim.md), stagionale.
+Grace Walker — [grace-walker.md](grace-walker.md), coordinatrice assistenziale; Julia Parker — [julia-parker.md](julia-parker.md), operatrice; Helen Rivera — [helen-rivera.md](helen-rivera.md), ospite; Chloe Rivera — [chloe-rivera.md](chloe-rivera.md), figlia; Sophie Grant — [sophie-grant.md](sophie-grant.md), capoturno Hub Levante; Ruby Collins — [ruby-collins.md](ruby-collins.md), lavoratrice e madre; Omar Haddad — [omar-haddad.md](omar-haddad.md), manutenzione Hub; Samuel Price — [samuel-price.md](samuel-price.md), agricoltore; Yusuf Karim — [yusuf-karim.md](yusuf-karim.md), stagionale.
 
 ## Robot (5 unità)
 
