@@ -68,3 +68,7 @@ L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 26/001 Irene contesta a Kyla una convocazione evitabile. Nel 26/004 dice a Nerea che non vuole doverla rassicurare continuamente sul significato delle intenzioni di Bi mentre lei perderà il contratto in quattro mesi. Nel 29/004 Nerea lascia all'amica lo spazio per raccontare a Olivia la propria esperienza del voto. L'amicizia continua senza annullare quella ferita.
+
+## Diciannovesima review — il turno serale senza un approvatore
+
+Nel **21/004** Irene vede che l'estensione automatizzata alle pratiche serali di Cyberdine non ha nominato un responsabile degli avalli e non presta il proprio nome a una firma anticipata. Apre una richiesta di autorizzazione lasciando operativa B-21 sulle mansioni già consentite. Il lavoro manuale ricade su Paolo ed entra nella stima dei costi. Questa scelta professionale non ripristina la posizione senior soppressa: prepara le richieste di ore riconosciute e di continuità nel 25–26.
