@@ -7,7 +7,7 @@ canon: canon
 
 # Taylor
 
-Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la visita del cliente Aruvhana. È preparata, brillante nel leggere una stanza, fiera delle ore che l'automazione ha restituito ai colleghi. Non finge entusiasmo e non possiede informazioni che il suo ruolo non giustifica.
+Professionista responsabile dell'area People & Communications di Cyberdine S.p.A., in raccordo con direzione HR e Marketing ma distinta da account, delivery e sviluppo. Cura la visita del cliente Aruvhana. È preparata, brillante nel leggere una stanza, fiera delle ore che l'automazione ha restituito ai colleghi. Non finge entusiasmo e non possiede informazioni che il suo ruolo non giustifica.
 
 **Capitolo 1**: desidera mostrare agli ospiti un'organizzazione in cui le persone hanno recuperato tempo e potere decisionale. Risponde allo scetticismo con dimostrazioni reali.
 
@@ -59,3 +59,11 @@ Nel capitolo 1 Taylor promette a un'amica di non rimandare più una serata al ci
 ## Revisione v0.32.0 — Software e robot
 
 Nella visita inaugurale Taylor accompagna Aruvhana dentro una software house: gli agenti AI lavorano sul codice, i robot fisici sul campus. B-17 taglia inizialmente il prato e non propone software nel primo capitolo. Taylor gioisce sinceramente della produttività, pur sottovalutando quanto l'azienda stia spostando le competenze dalla comprensione del codice alla verifica sintetica dei risultati.
+
+## Revisione dei personaggi v0.43.0 — Hazel e People & Communications
+
+**Ruolo definitivo:** Taylor guida l'area **People & Communications**. Coordina comunicazione interna ed esterna con Marketing, organizzazione di visite e confronto sulle competenze, ma non è la direttrice unica delle risorse umane, non guida il delivery di Aruvhana e non firma il codice. La direttrice HR gestisce le comunicazioni individuali e i rapporti di lavoro; commerciale e delivery possiedono prezzi, SLA e responsabilità di commessa. Nei capitoli 25–26 Taylor partecipa ai dossier sulle persone: non si spaccia da architetta dell'interoperabilità.
+
+**Background privato canonico:** Hazel, sorella minore di Taylor, è morta cinque anni prima del capitolo 1. La causa del decesso non è definita, né collegata a Cyberdine, AI o robot. Nel 1/001 sua madre le chiede se conservare alcune foto; Taylor lascia il messaggio senza risposta e si irrita ingiustamente per la domanda. Nel 25/004 propone infine di guardarle insieme domenica, senza che questo la renda all'improvviso perfetta nei rapporti personali. L'amica dei biglietti per il cinema resta una relazione distinta, non un sostituto narrativo della sorella. Hazel è una persona perduta, **non il simbolo di Bi**.
+
+**Contraddizione:** Taylor trova risposte e formule ragionevoli per centinaia di colleghi, ma rinvia telefonate alla madre e a un'amica. Nella riunione del 26 apprendere/annunciare le conseguenze contrattuali non è una scena di riscatto personale: può scegliere una procedura più rispettosa, non trasformare il mancato rinnovo di Claire in una buona notizia. Per dettagli consultare `guidelines/cyberdine-organigramma-e-arco-personaggi-v0.43.0.md`.

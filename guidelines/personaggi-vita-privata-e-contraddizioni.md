@@ -101,3 +101,10 @@ Non aggiungere un elenco di hobby, manie o oggetti-simbolo. Una vita reale è fa
 ## Principio di montaggio
 
 Non mettere in ogni capitolo un nuovo desiderio privato. Seminare, far tornare **cambiato** almeno una volta, poi lasciar cadere. Anche le cose senza payoff sono vite: la pizza mangiata due settimane dopo, l'orologio che continua a perdere due minuti, una conversazione familiare non conclusa. Al culmine del capitolo 35, il mondo torna a lavorare: proprio per questo devono tornare anche i fastidi piccoli e le persone non devono ricevere una perfetta lezione morale.
+
+
+## Nuova passata v0.43.0 — legami privati e conflitti professionali
+
+**Taylor:** sua sorella minore **Hazel è morta cinque anni prima del cap. 1**, senza causa precisata. La madre propone di conservare le fotografie nel 1/001; Taylor lascia il messaggio inevasa e si irrita perfino per la domanda. Nel 25/004 propone di guardarle insieme domenica: un gesto, non una soluzione del lutto. Conservare anche l'amica del cinema come legame autonomo. Il lutto **non** è spiegazione dell'anima di Bi e non rende Taylor sempre empatica.
+
+**Gavin Shaw:** guida Core Platform con tredici sviluppatori, protegge davvero i suoi, svaluta troppo rapidamente QA, delivery e supporto. Non deve diventare un cattivo anonimo: in 8/005 Olivia gli riconosce competenza ma gli contesta la gestione «tossica» delle altre funzioni. **Olivia** compra una quota minoritaria e assume responsabilità più ampie; non è la vincitrice moralmente pura. **Claire** viene informata in privato del mancato rinnovo prima della plenaria del 26 e resta una tester capace, non una comparsa della decisione.

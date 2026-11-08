@@ -65,3 +65,8 @@ Maya in 12/003 distingue le domande di Noah durante i test dal parlare a Bi come
 ## Sesta review — non trasformare un limite di prova in necessità morale
 
 Noah vede nel 32/002 i log di una incompatibilità multisito e domanda una nuova prova controllata, che fallisce nel 34/002. Può chiedere altro tempo per una separazione di riferimento e configurazione, ma non può stimarne il successo e ne conosce i costi. Nel 34/004 non estrae un «consenso» da Bi: registra che il robot può aiutare tecnicamente senza rinunciare ai diritti. Firma per l'intervento sulle proprie modifiche, non per assolvere se stesso. Nel 35/001 è libero di rinunciare alla partecipazione e resta; sceglie comunque il comando, piangendo, pur non potendo escludere la coscienza di Bi. Le lacrime non sono redenzione.
+
+## Revisione v0.43.0 — Prototipo e controllo dei rilasci
+
+Noah sviluppa e testa sistemi comportamentali, ma non è titolare di ogni servizio IT del campus. Proprio perché conosce differenza tra prove, permessi e release, la sua modifica clandestina e il successivo canale di sorveglianza sono violazioni consapevoli, non errori di un principiante. Il circuito legale di sviluppo prevede review di codice, QA, autorizzazioni di release; Noah sceglie di evitarli. Non introdurre prima del capitolo 10 le prove reali della sua modifica. Il legame cifrato con lo stato di Bi rimane una particolarità non certificabile, non un trucco spiegato in modo replicabile.
+

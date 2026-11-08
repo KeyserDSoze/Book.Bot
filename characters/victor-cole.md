@@ -30,3 +30,8 @@ Prima della plenaria del capitolo 8 Cole domanda a Taylor, più di una volta, se
 ## Revisione v0.32.0 — Software e robot
 
 Gestisce una software house, quindi margini, contratti, licenze, sviluppo, QA, continuità e assistenza. Il contratto Aruvhana da ridurre del 17% riguarda software e integrazione, non produzione di macchine. La crescita degli agenti riduce il bisogno di ruoli di sviluppo e collaudo senza cancellare la responsabilità dell'AD.
+
+## Revisione v0.43.0 — Il conto ha più di una colonna
+
+Dal **8/001** Cole presenta in plenaria ricavi ricorrenti in crescita del 12%, margine operativo sceso dal 9% al 3% e cash flow trimestrale negativo. Non falsifica le cifre, ma sceglie un ordine rassicurante. Comunica anche l'ingresso di Olivia nel capitale come socia di minoranza; **non** sostiene che sia una ricompensa morale per il lavoro svolto. Nel 25 il vincolo Aruvhana del 17% viene trattato da direzione, account e delivery, con Taylor responsabile di rendere leggibili le conseguenze sulle persone. Cole non dirige da solo tutti i team tecnici.
+

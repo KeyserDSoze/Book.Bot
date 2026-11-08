@@ -32,3 +32,8 @@ Nel capitolo 6 Ethan non riesce a separare la perdita di status dalla propria ra
 ## Revisione v0.32.0 — Software e robot
 
 Le giornate passano dal codice scritto in prima persona a istruzioni impartite agli agenti e approvazioni di proposte: Ethan è bravo nel mestiere di ieri e incerto su quello di domani. L'aggressione a Bi resta una scelta volontaria e condannabile. In assenza della macchina, nemmeno i test verdi rivelano le ragioni dei vecchi protocolli: il rimpianto non equivale ad assoluzione.
+
+## Revisione v0.43.0 — Un ingegnere non è soltanto il suo risentimento
+
+Ethan lavora nello sviluppo di connettori e dipendenze legacy: il suo conflitto ha senso perché il giudizio professionale si sposta dal codice scritto al codice approvato. Un referente tecnico o un manager può chiedergli una firma rapida su un test verde, ma dovrebbe esserci tempo per esaminarne il perimetro. Gavin Shaw guida Core Platform e incarna un altro difetto manageriale: **non** fare di Ethan il suo seguace o attribuirgli conoscenze della riorganizzazione diverse da quelle comunicate. L'aggressione volontaria a Bi resta una sua scelta.
+

@@ -28,3 +28,8 @@ Nel 5, poco prima della pensione, Margaret confessa a Claire di essersi iscritta
 ## Revisione v0.32.0 — Software e robot
 
 Il pensionamento coincide con la perdita di un ruolo formativo: chi si limiterà ad approvare diff e test senza capire le librerie potrà firmare errori che nessun agente ha immaginato di cercare. Margaret è un mentore di Claire su responsabilità, prove e conoscenza del vecchio codice, ma non è l'unica persona capace di programmare.
+
+## Revisione v0.43.0 — Competenze che nessuna dashboard sa ereditare
+
+Margaret ha guidato il coordinamento delle eccezioni e conosce i motivi delle procedure storiche. La decisione di non riaprire il ruolo non significa che nessuno ne faccia più il lavoro: il compito passa a responsabili e team differenti, mentre QA e sviluppo rischiano di perdere tempo protetto per apprendere gli errori dei vecchi sistemi. La vita privata (il nuoto, il desiderio di non tornare ogni mercoledì in ufficio) non è una nota decorativa. Evitare che la consulente pensionata risolva da sola la crisi successiva.
+

@@ -30,3 +30,10 @@ Nel capitolo 2 Olivia ha problemi veri con la carta e conserva il piacere sempli
 ## Revisione v0.32.0 — Cyberdine software house
 
 Il censimento dei clienti è un processo gestito dal software di Cyberdine con agenti di sviluppo e registri fisici legacy. Olivia vede bene le eccezioni e coordina la qualità documentale; una osservazione di B-17 aggiunge un caso fisico a un test proposto in origine da un agente software, non il contrario. Dopo l'assenza di Bi deve distinguere test verdi da documenti davvero ritrovabili.
+
+## Revisione dei personaggi v0.43.0 — La socia che non controlla tutto
+
+Nel **8/001** Olivia Hayes viene presentata in una nuova veste dopo aver seguito delivery, clienti e qualità trasversale: entra nel capitale come **socia di minoranza**, mediante un accordo approvato dai soci. Non viene nominata amministratrice assoluta e non rappresenta una promozione automatica a chi lavori molte ore. Prima era responsabile di qualità documentale; questa esperienza le ha consentito di comprendere che un fascicolo formalmente perfetto non salva una consegna se sviluppo, supporto e cliente non condividono i vincoli.
+
+Nel **8/005** discute con **Gavin Shaw**: lui protegge il team Core Platform, ma confonde il suo alto tasso di ticket chiusi con la qualità complessiva del servizio. Olivia riconosce il merito tecnico, contesta il comportamento svalutante verso QA e assistenza e ammette la propria corresponsabilità nella riorganizzazione che ha eliminato l'occasione senior di Claire. **Non idealizzarla come dirigente nuova e infallibile**. Dopo la quota di minoranza deve essere più esposta a contratti, limiti, compromessi e verifiche con altri reparti, non meno.
+

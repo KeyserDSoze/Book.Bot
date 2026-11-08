@@ -58,3 +58,10 @@ Nel 5 Claire conserva nel telefono una libreria che vorrebbe comprare per toglie
 ## Revisione v0.32.0 — Software e robot
 
 Il suo ruolo è vicino allo sviluppo e al collaudo software: legge versioni, controlla dipendenze e costruisce test per casi mai simulati. A differenza di molti colleghi, durante l'assenza di Bi decide di chiedere i sorgenti oltre ai riepiloghi agentici. Le assunzioni scomparse riguardano anche ruoli di QA e ingegneria software. Claire non riceve una promozione compensatoria.
+
+## Revisione v0.43.0 — La qualità non è una mansione generica
+
+Claire è una **quality engineer specializzata nelle eccezioni e nei sistemi legacy**, con un contratto a termine. Sa leggere codice, preparare regressioni, ricostruire ticket, distinguere un test verde da un difetto realmente risolto su dispositivo. Non va trattata come semplice addetta ai documenti. Vorrebbe assumere responsabilità senior e formare altre persone, non soltanto «avere un posto».
+
+Nel nuovo **26/001** riceve in saletta HR, prima della riunione aggregata, la comunicazione che la sua funzione non verrà rinnovata alla scadenza tra quattro mesi. **Sceglie** di presentare comunque il test in cui ha fermato un rilascio, ma chiede chi garantirà ore di formazione sul vecchio codice. Una correzione resta aperta e viene registrata; l'azienda può cambiare organizzazione senza dichiarare sbagliato il suo lavoro. La migliore procedura HR non elimina la perdita.
+

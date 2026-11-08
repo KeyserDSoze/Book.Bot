@@ -8,8 +8,8 @@ canon: canon
 
 - Non cambiare fatti canonici senza aggiornare `state/current.md`, personaggi, cronologia e scena.
 - Non attribuire interiorità, coscienza o intenzioni autonome ai robot come fatto oggettivo nella prima fase. Un gesto può essere ambiguo solo agli occhi umani.
-- Non rivelare ancora che cosa produca Cyberdine o Aruvhana.
-- Taylor è HR e Marketing, non responsabile dello stack informatico; può comprendere una demo ma non deve parlare come l'architetta del sistema.
+- Cyberdine è una software house esplicita già dal capitolo 1; il settore specifico di Aruvhana può restare indefinito.
+- Taylor è responsabile People & Communications, collabora con Marketing e direzione HR ma non possiede lo stack, i rilasci o il contratto di Aruvhana.
 - Due unità di ricambio batterie si alternano, non una sola unità che opera continuamente senza alimentazione.
 - LLM non equivale a controllo meccanico diretto senza middleware.
 - Approvazioni finali umane esplicite dove il rischio o la responsabilità lo impongono.
@@ -317,3 +317,8 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **25/002 e 32/002:** gli esempi del pilota portano firma di provenienza del **Circuito Veyra** e identificativo del nucleo B-17. In nessuna scena Bi firma la disponibilità delle flotte. Le sei firme umane successive sono una delle responsabilità condivise dello sciopero, non un'assoluzione del suo scopo taciuto.
 - **29/001:** rimossi i vecchi presagi verbali sul «giorno dopo»; Bi cita solo quattro turni scoperti del centro Grace, già visibili a Maya. Lo stop del 30 deve sorprendere prima della confessione del 33.
 - **35/006:** l'ultima frase resta invariata. `reviews/revisione-integrale-35-capitoli-v0.42.0.md` distingue correzioni realmente committate e scene che necessitano ancora di condensazione stilistica.
+
+
+## Revisione v0.43.0 — azienda e ruoli realistici
+
+Cyberdine è esplicitamente una **software house** dal capitolo 1, quindi la vecchia regola «non rivelare che cosa produca» è superata: semmai resta indefinito il settore specifico di Aruvhana. Taylor coordina **People & Communications**, non lo stack o ogni contratto. Account e delivery seguono prezzo, SLA e commessa; sviluppatori e Gavin gestiscono codice e review; Claire/Olivia QA e qualità del servizio; Paul dispositivi IT/OT; Sarah sicurezza; HR comunica i casi individuali; Cole e direzione firmano le scelte. Dal **8/001** Olivia è socia di minoranza con responsabilità di delivery; nel **8/005** Gavin è l'engineering manager di Core Platform che tende a esternalizzare il costo dei ticket riaperti da supporto. Nel **26/001** Claire viene avvisata personalmente del mancato rinnovo **prima** della comunicazione aggregata. Hazel, sorella morta di Taylor, è backstory canonico nel 1/001 e 25/004, senza causa specificata e senza simbolismo obbligato. Consultare `guidelines/cyberdine-organigramma-e-arco-personaggi-v0.43.0.md`.

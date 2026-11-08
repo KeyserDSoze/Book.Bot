@@ -34,3 +34,8 @@ Sarah convoca Noah a una perizia documentale senza ripristinare i suoi accessi p
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Durante la confessione del 12 Sarah è affamata, stanca e irritata; se ne accorge e scrive «Fatti. Poi interpretazioni» sul blocco prima di ascoltare Noah. Nel 32 porta evidenze verificabili di due siti che non condividono più una referenza accettabile. Non è immune al bisogno di finire il turno, né utilizza la propria impazienza come una condanna.
+
+## Revisione v0.43.0 — La sicurezza è un ruolo, non una posizione sul progresso
+
+Sarah governa incidenti di sicurezza, accessi, catena delle evidenze e coinvolgimento di clienti e titolari legittimi. Non è l'ultima firmataria di qualsiasi rilascio, né può autorizzare da sola nuove commesse o chiedere a Veyra dati senza un canale valido. Dal 8/005 Gavin viene sfidato a svolgere con lei una revisione delle eccezioni, anziché limitarsi a dichiarare chiuso un ticket interno. Dopo il fermo mondiale deve distinguere un problema alla libreria da un problema nella catena di attestazioni fra più fornitori, mantenendo separato il giudizio morale su Bi.
+
