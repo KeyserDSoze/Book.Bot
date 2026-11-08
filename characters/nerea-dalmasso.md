@@ -100,3 +100,7 @@ Nel 26/004 Nerea, dopo aver chiesto come stia Irene, torna a interpretare Bi inv
 ## Quindicesima review — il danno non si assolve da solo
 
 **Quindicesima revisione:** nel 12/003 Nerea chiede a Leah di registrare i limiti di uso della propria storia personale e non chiede di accedere alla backdoor; non pretende una garanzia impossibile sulla circolazione dei dati già eventualmente visti. Nel 34/003 divide una merendina con Nico senza perdonare la sorveglianza: gli dice di non parlare per lei e chiede che la disponibilità di Bi a spiegare le prove non venga trattata come consenso alla cancellazione. Il successivo verbale del 34/004 distingue collaborazione e rifiuto, ma la sua richiesta non le dà potere di veto sulla procedura di Veyra.
+
+## Diciannovesima review — una visita non è una prova di identità
+
+Nel **19/004** Nerea non vuole che Paolo cambi argomento passando dall'esposizione della sua lettera a un articolo sulla diffusione dei robot; l'irritazione nasce dalla domanda ancora aperta su chi possa averla letta, non da una colpa indistinta attribuita a Nico. Nel **21/001** Marta e Mina concordano che il suo incontro con B-17 deve essere volontario e con termini chiari su persone presenti e dati registrati: la sua testimonianza non certifica la continuità tecnica dell'unità. La lacuna di memoria durante il ping pong, osservata nel 21/003, non è risolta artificialmente.
