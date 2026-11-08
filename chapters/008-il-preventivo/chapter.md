@@ -37,3 +37,8 @@ Nella plenaria Verri presenta risultati e fragilità di una **software house**, 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La scena 4 sostituisce l'idea del solo lavoro cartaceo con la perdita di **test di integrazione fra software e terminali reali**. Irene e un programmatore leggono il codice e provano una regressione che l'agente non aveva previsto. Il mese senza Bi costa molto, ma gli strumenti digitali non sono scomparsi. Adriana è in pensione dopo la sua uscita fra i capitoli 7–8. Nessun intervento cambia la scelta di Verri di non riparare B-17, la responsabilità di Dario/Mauro o il costo della sostituzione.
+
+
+## Ottava review — il corso che non parte
+
+In 004, nel mese senza B-17, il piano di continuità funziona soltanto perché singole persone ricostruiscono librerie e controlli su terminali reali. L'impegno di formazione del 5 resta rinviato per ore non assegnate a un progetto, benché tutti ne riconoscano l'importanza. Irene dedica mezz'ora a insegnare a un collega un caso concreto senza far passare la lezione per un nuovo ruolo senior o una soluzione strutturale.

@@ -39,3 +39,8 @@ Nella scena 2 Irene e il programmatore devono riaprire una vecchia libreria soft
 ## Revisione cast internazionale — 2026-11-08
 
 Il programmatore chiamato da Irene nella scena 002 è ora Malik Okafor, già visto al capitolo 1. Malik legge i commit, recupera la vecchia funzione e costruisce la prova di regressione, mentre Irene e Adriana recuperano la fonte storica. Non appiattire la perdita di competenza in un'incapacità generalizzata: tutti svolgono un lavoro reale, semplicemente più costoso e incompleto senza il contesto accumulato con Bi.
+
+
+## Ottava review — conseguenza della formazione non finanziata
+
+L'impegno assunto nel capitolo 5 a insegnare la manutenzione delle vecchie librerie non ha ancora docente e ore allocate: Malik vede una sessione rinviata, Elena riconosce che il budget non è approvato, Irene non può svolgere un lavoro di formazione invisibile in aggiunta alle consegne. La mancanza non impedisce loro di cercare il codice e fermare una release errata; ne aumenta il costo e rimane aperta nei capitoli 8 e 9.

@@ -33,3 +33,8 @@ B-21 recupera in modo affidabile trasporto e preparazione di dossier, ma non pos
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 La scena 2 è stata riscritta: B-21 ricostruisce correttamente dossier, fonti e commissioni, ma non possiede le prove storiche e l'ascolto conversazionale di B-17. Anche gli sviluppatori continuano a utilizzare agenti, con rischio di test parziali se nessuno li collega al terminale vero. Elena non contesta la competenza del sostituto e approva la sua sostituzione **per le mansioni ordinarie**, lasciando una nota sui limiti della diagnosi.
+
+
+## Ottava review — il lavoro che torna facile non riapre la carriera
+
+B-21 riprende mansioni ordinarie e fa bene il proprio lavoro. Irene prova che la procedura per recuperare le fonti funziona anche senza il proprio appunto, ma la formazione su larga scala è ancora fuori dal calendario definitivo per mancanza di ore formalmente allocate. Il nodo del posto senior resta irrisolto; distinguere successo operativo, competenza e riconoscimento organizzativo.

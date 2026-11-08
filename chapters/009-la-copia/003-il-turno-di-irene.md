@@ -69,11 +69,15 @@ Elena scorse il documento e annuì.
 
 Irene si sistemò gli occhiali e lasciò cadere la mano.
 
-«Ho due cose da dire. Una è buona e una non so se lo sia.»
+«Ho due cose da dire. Una è buona e una mi dà fastidio.»
 
 «Cominciamo dalla buona.»
 
-«La procedura di continuità che abbiamo riscritto durante l'assenza funziona. Se il sistema si ferma di nuovo, sappiamo almeno da dove ripartire. Ho visto che le persone la stanno usando.»
+«La procedura che abbiamo riscritto durante l'assenza funziona. Ho chiesto a Malik di trovare una delle vecchie fonti senza usare il mio appunto. Ci ha messo un po', ma ci è riuscito.»
+
+«E la lezione per gli altri?»
+
+«Non è ancora entrata nel calendario definitivo. Non posso insegnare a qualcuno a ricostruire il codice soltanto quando la mia coda di ticket è vuota.»
 
 «Bene.»
 

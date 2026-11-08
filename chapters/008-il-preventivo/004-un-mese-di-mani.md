@@ -24,6 +24,8 @@ Sul calendario comparivano turni per il recupero degli originali, visite ai vecc
 
 Irene lesse il proprio nome accanto a una voce: **Martedì, 15:00–16:00 — validazione del percorso storico dei documenti e della funzione di conversione**.
 
+Subito sotto compariva il corso sulle librerie legacy, rinviato per la seconda volta. Non mancavano le persone interessate; mancavano ore formalmente tolte alle consegne e attribuite alla formazione. Alla riunione avevano autorizzato il principio. Il budget esecutivo continuava a rimbalzare fra Delivery e HR.
+
 Mila le si fermò accanto.
 
 «Ti hanno dato una bella ora», disse.
@@ -79,6 +81,12 @@ L'uomo si sedette. «Avrei firmato la patch.»
 «Perché tu conoscevi il problema.»
 
 «Perché qualcun altro lo aveva trovato tempo fa e non l'avevamo scritto abbastanza bene.»
+
+«Puoi insegnarmelo?», chiese lui.
+
+Irene indicò il calendario. «È quello che sto cercando di fare da settimane. Per oggi hai ancora mezz'ora?»
+
+L'uomo controllò il proprio turno. «Per oggi sì.»
 
 Tornarono al codice. Irene chiese di allegare alla nuova prova la registrazione del terminale e una nota sulla funzione che traduceva i due stati. Il programmatore lesse il sorgente fino alla chiamata finale. Era una attività che avrebbe richiesto più tempo di un riepilogo automatico, ma gli serviva per spiegare il comportamento a chi sarebbe arrivato dopo.
 

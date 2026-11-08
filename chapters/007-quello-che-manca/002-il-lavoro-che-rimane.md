@@ -74,9 +74,11 @@ Malik trovò un commit antico, poi un commento che rimandava a un'appendice non 
 
 «Non è un file. L'abbiamo tenuto in archivio quando abbiamo sostituito il sistema delle revisioni.»
 
-Malik guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre due patch in attesa.
+Malik guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre due patch in attesa. In alto nel calendario c'era una sessione sulle vecchie librerie che Irene avrebbe dovuto preparare per i nuovi assunti. La settimana prima era stata rimandata perché non era stato trovato uno slot comune con Delivery.
 
-«Posso seguirti in laboratorio dopo pranzo. Gavin mi ha chiesto di chiudere due revisioni oggi, ma questa viene prima.»
+«Posso seguirti in laboratorio dopo pranzo», disse. «Gavin mi ha chiesto di chiudere due revisioni oggi. Se sposto la seconda, devo avvisarlo.»
+
+«Avvisalo», rispose Irene. «Questa ha un documento che non riusciamo a trovare.»
 
 «No. Vado a prendere il registro e poi torniamo sul codice. Ho bisogno che tu sappia spiegarmi la funzione, non di un'altra sintesi.»
 
@@ -130,7 +132,15 @@ Elena lesse la nota. Aveva un nuovo campo: **Fonte originale e persone in grado 
 
 «Dovrebbe esserci.»
 
-Elena non promise un nuovo ruolo senior. Approvò l'inserimento del campo nella proposta di revisione e chiese che venisse provato su almeno un'altra eccezione prima di renderlo obbligatorio.
+Elena approvò l'inserimento del campo nella proposta di revisione e chiese che venisse provato su almeno un'altra eccezione prima di renderlo obbligatorio. Quando Irene le parlò della lezione rimandata, aprì il calendario: la voce *Docente da confermare* era ancora lì, anche se tutti sapevano chi avrebbe potuto insegnarla.
+
+«Non posso autorizzarti le ore fuori dal progetto senza il budget», disse Elena. «Chiedo a Kyla di sbloccarlo.»
+
+«È la terza volta che ne parliamo.»
+
+«Lo so.»
+
+Irene chiuse il calendario, senza considerare quella risposta una promessa.
 
 Quando Irene tornò alla scrivania, l'agente aveva già predisposto un riepilogo del lavoro svolto. Era ben scritto, corretto in quasi tutti i punti. Non diceva che avevano passato l'intero pomeriggio a cercare una donna prossima alla pensione e un quaderno di carta.
 
