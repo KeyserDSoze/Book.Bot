@@ -42,3 +42,7 @@ Nel 32 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo s
 ## Dodicesima review — che cosa si può vendere come una prova
 
 Nel capitolo 25 Mina mantiene gli estratti di Aruvhana nel perimetro locale autorizzato; respinge un'ipotesi che anticiperebbe una verifica fisica obbligatoria e distingue il caso limite sulla disponibilità al servizio da una funzione pronta per l'installazione. Il rapporto firmato dal Circuito ne certifica la provenienza, non il successo industriale. Mina autorizza il materiale in uscita soltanto dopo averlo confrontato con ciò che può essere condiviso. È una scelta operativa, non una certificazione dello stato soggettivo di B-17.
+
+## Diciottesima review — un limite deve arrivare fino all'ufficio amministrativo
+
+Nel **14/002** Mina rifiuta il percorso preparato dallo sponsor e propone una prova diversa che richiede un nuovo calendario e responsabili nominati. Nel **14/004** scrive a Enrico di utilizzare un esempio inventato nella pratica di supporto e **non** la lettera privata di Nerea. Nel **15/003** scopre che Enrico ha ignorato quell'indicazione per risolvere più rapidamente la richiesta: la sua cautela non ha impedito l'errore, e l'organizzazione deve conservare evidenze e individuare i destinatari prima di qualsiasi cancellazione. Mina non garantisce da sola la riservatezza altrui.
