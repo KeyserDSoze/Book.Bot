@@ -11,6 +11,7 @@ characters:
   - character:adriana-lodi
   - character:elena-riva
   - character:paolo-ferri
+  - character:malik-okafor
 locations:
   - location:cyberdine-campus
 factions:
@@ -33,7 +34,7 @@ Ricevette una sintesi ordinata. Il modulo nuovo convertiva gli identificativi se
 
 «Sembrano», disse Irene allo schermo.
 
-Un programmatore del team integrazioni le rispose alla chiamata.
+Le rispose Malik Okafor, del team integrazioni. Irene ricordava di averlo visto fermare una patch durante la visita di Aruvhana; allora il problema era rimasto dietro un vetro. Oggi lo avevano entrambi sulla scrivania.
 
 «Hai visto il ticket?»
 
@@ -41,7 +42,7 @@ Un programmatore del team integrazioni le rispose alla chiamata.
 
 «Il documento vero non c'è.»
 
-Il programmatore aprì la cronologia della patch. Era stata proposta dall'agente, controllata in revisione e verificata nei casi di prova che Bi aveva contribuito a costruire sul terminale fisico. La firma era valida; l'ambiente autorizzato aveva registrato tutto. Mancava il caso che si presentava ora: un documento registrato con un codice storico e consultato, dopo l'aggiornamento, da un modulo ancora più vecchio.
+Malik aprì la cronologia della patch. Era stata proposta dall'agente, controllata in revisione e verificata nei casi di prova che Bi aveva contribuito a costruire sul terminale fisico. La firma era valida; l'ambiente autorizzato aveva registrato tutto. Mancava il caso che si presentava ora: un documento registrato con un codice storico e consultato, dopo l'aggiornamento, da un modulo ancora più vecchio.
 
 «Possiamo chiedere all'agente di cercarlo», disse lui.
 
@@ -55,7 +56,7 @@ Irene lo fissò. «Non ha trovato un'altra fonte. Ha formulato un'altra volta la
 
 «Sì. Ma prima apriamo la funzione che decide dove cercare.»
 
-Il programmatore le mostrò la libreria. C'erano chiamate fra moduli di generazioni diverse, e una routine conteneva un riferimento a una convenzione che il team non usava da anni.
+Malik le mostrò la libreria. C'erano chiamate fra moduli di generazioni diverse, e una routine conteneva un riferimento a una convenzione che il team non usava da anni.
 
 «Chi l'ha scritta?», chiese Irene.
 
@@ -65,7 +66,7 @@ Il programmatore le mostrò la libreria. C'erano chiamate fra moduli di generazi
 
 Un'ora prima avrebbero chiesto a Bi di mettere insieme il registro, il terminale e la spiegazione dei vecchi codici. Irene non stava scoprendo che le persone non potevano più svolgere quel lavoro. Stava scoprendo quanto fosse costoso ricostruire ogni dipendenza quando nessuna persona aveva attraversato l'intero percorso negli ultimi mesi.
 
-Il collega trovò un commit antico, poi un commento che rimandava a un'appendice non più presente nel repository. Irene riconobbe il riferimento: era un registro cartaceo che Adriana Lodi le aveva mostrato durante la formazione.
+Malik trovò un commit antico, poi un commento che rimandava a un'appendice non più presente nel repository. Irene riconobbe il riferimento: era un registro cartaceo che Adriana Lodi le aveva mostrato durante la formazione.
 
 «Il quaderno di bordo», disse.
 
@@ -73,7 +74,7 @@ Il collega trovò un commit antico, poi un commento che rimandava a un'appendice
 
 «Non è un file. L'abbiamo tenuto in archivio quando abbiamo sostituito il sistema delle revisioni.»
 
-Il programmatore guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre due patch in attesa.
+Malik guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre due patch in attesa.
 
 «Posso seguirti in laboratorio dopo pranzo.»
 
@@ -103,7 +104,7 @@ Il custode dell'archivio rispose al telefono. Conservava ancora il quaderno, ma 
 
 Il registro era più piccolo di quanto Irene ricordasse. Aveva una copertina rigida e pagine segnate a matita. A metà una riga collegava il vecchio numero al nuovo e spiegava il motivo della variazione: una classe di documenti non poteva essere riclassificata con la stessa regola degli altri, perché la prima approvazione conservava valore anche dopo l'annullamento di una richiesta successiva.
 
-Irene fotografò la pagina nel modo consentito e tornò in laboratorio. Il programmatore aveva aperto il codice originale.
+Irene fotografò la pagina nel modo consentito e tornò in laboratorio. Malik aveva aperto il codice originale.
 
 «Ecco dov'era», disse lui, indicando una condizione scritta anni prima. «Questa funzione non traduce soltanto il codice. Decide quale approvazione rimane valida quando ce ne sono due.»
 
@@ -113,7 +114,7 @@ Irene fotografò la pagina nel modo consentito e tornò in laboratorio. Il progr
 
 Irene sentì insieme sollievo e irritazione. Non c'era stato un malfunzionamento spettacolare. Il programma aveva fatto ciò che il team aveva verificato. Nessuno aveva chiesto di controllare la ragione per cui una vecchia condizione era ancora nella libreria.
 
-Il programmatore preparò una prova di regressione specifica, poi lesse lui stesso la funzione prima di proporre la correzione. Irene controllò che la nuova prova riportasse la fonte originale e il percorso per recuperarla senza il sistema automatico.
+Malik preparò una prova di regressione specifica, poi lesse lui stesso la funzione prima di proporre la correzione. Irene controllò che la nuova prova riportasse la fonte originale e il percorso per recuperarla senza il sistema automatico.
 
 Non autorizzarono il rilascio quel pomeriggio. Era necessario verificare un altro cliente che usava la stessa libreria.
 
