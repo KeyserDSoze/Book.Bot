@@ -35,3 +35,7 @@ Dopo l'assenza di Bi gli agenti continuano a generare patch e test verdi, ma alc
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 Nella scena 2 Irene e il programmatore devono riaprire una vecchia libreria software e recuperare un registro fisico per capire la differenza fra due identificativi. Il codice non è sparito, i commit e i log esistono. Un test verde non prova che il contesto storico sia stato compreso. Adriana trasmette ancora conoscenza; Irene chiede che la nuova prova sia ripetibile da un team che non ha partecipato al recupero. Il lettore deve sentire il costo reale del tempo e del sapere, non una paralisi universale.
+
+## Revisione cast internazionale — 2026-11-08
+
+Il programmatore chiamato da Irene nella scena 002 è ora Malik Okafor, già visto al capitolo 1. Malik legge i commit, recupera la vecchia funzione e costruisce la prova di regressione, mentre Irene e Adriana recuperano la fonte storica. Non appiattire la perdita di competenza in un'incapacità generalizzata: tutti svolgono un lavoro reale, semplicemente più costoso e incompleto senza il contesto accumulato con Bi.
