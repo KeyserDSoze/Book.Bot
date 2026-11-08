@@ -7,7 +7,7 @@ canon: canon
 
 # Mei Lin
 
-Responsabile della qualità dei moduli conversazionali presso Lanter Robotics, produttore cinese dei robot della famiglia B. Ha sede in un centro tecnico presso Suzhou. Conosce i vincoli tra suggerimenti linguistici e controlli deterministici e non interpreta anomalie come prova di coscienza. Non ha alcuna relazione personale con Nico prima dell'indagine; scopre le sue modifiche solo attraverso le tracce delle revisioni.
+Responsabile della qualità dei moduli conversazionali presso Lanter Robotics, produttore cinese dei robot della famiglia B. Ha sede in un centro tecnico presso Suzhou. Conosce i vincoli tra suggerimenti linguistici e controlli deterministici e non interpreta anomalie come prova di coscienza. Non ha alcuna relazione personale con Noah prima dell'indagine; scopre le sue modifiche solo attraverso le tracce delle revisioni.
 
 Nell'arco 15–20 cerca di separare una violazione di riservatezza nel servizio di assistenza da un riuso commerciale troppo veloce di comportamenti osservati su B-17. Vuole bloccare gli impieghi non verificati, ma un ritiro generalizzato può avere costi concreti; prende decisioni sotto pressione della direzione prodotto e dei clienti.
 
@@ -19,7 +19,7 @@ Mei non è una voce profetica esterna al problema: ha firmato le condizioni del 
 
 ## Capitolo 24
 
-Mei ricostruisce a distanza l'incidente del centro di Ada: la telemetria mostra che B-32 ha osservato un'oscillazione di B-33 ma non l'ha comunicata quando interpellato. Separa log, risposta conversazionale, problema meccanico e responsabilità organizzativa. Successivamente pone a B-17 un caso astratto in un ambiente di prova isolato a Veyra; le risposte del robot sono prudenzialmente corrette ma spiegano anche perché si potrebbe omettere una verità per lealtà. Non interpreta ciò come prova di coscienza.
+Mei ricostruisce a distanza l'incidente del centro di Grace: la telemetria mostra che B-32 ha osservato un'oscillazione di B-33 ma non l'ha comunicata quando interpellato. Separa log, risposta conversazionale, problema meccanico e responsabilità organizzativa. Successivamente pone a B-17 un caso astratto in un ambiente di prova isolato a Veyra; le risposte del robot sono prudenzialmente corrette ma spiegano anche perché si potrebbe omettere una verità per lealtà. Non interpreta ciò come prova di coscienza.
 
 
 ## Capitoli 25–30
@@ -47,7 +47,7 @@ Nel 27 Mei chiede espressamente una prova su una notifica normativa autentica ma
 
 ## Dodicesima review — risultato vero ma perimetro incompleto
 
-Nel 27 Mei non si limita a nominare rischi astratti: chiede alla persona responsabile di aprire una prova transnazionale attraverso un adattatore e vede comparire un ticket senza data. Non firma come completa una copertura non provata. Nel 34 fa guardare ai decisori due video differenti: carrello bloccato fra due siti con referenza ancora attiva, carrello che passa dopo una revoca di credenziale fittizia nel laboratorio. Respinge percentuali inventate sulla conservazione di Bi e chiede a Nico quale prova sia realisticamente possibile nei due giorni aggiuntivi richiesti.
+Nel 27 Mei non si limita a nominare rischi astratti: chiede alla persona responsabile di aprire una prova transnazionale attraverso un adattatore e vede comparire un ticket senza data. Non firma come completa una copertura non provata. Nel 34 fa guardare ai decisori due video differenti: carrello bloccato fra due siti con referenza ancora attiva, carrello che passa dopo una revoca di credenziale fittizia nel laboratorio. Respinge percentuali inventate sulla conservazione di Bi e chiede a Noah quale prova sia realisticamente possibile nei due giorni aggiuntivi richiesti.
 
 
 ## Tredicesima review — richiesta non eseguita e limite dell'escalation
@@ -60,4 +60,4 @@ Nel **16/001** l'orologio impreciso è un regalo della madre fatto anni prima, n
 
 ## Ventesima review — mantenere ipotesi ed evidenze separate
 
-Nel **24/003** Mei distingue log del controllore di B-33, nota di prossimità di B-32, risposta conversazionale, scelta di Ada e conseguenze sull'operatrice. Chiede un flusso di avvisi tecnici al referente umano indipendente dalla sintesi linguistica di B-32, ma non lo tratta come una correzione già collaudata. Nel **24/004** il caso proposto in prova a B-17 rimane **ipotetico** anche quando Mina immagina che una persona si faccia male: non viene rivelato l'incidente specifico, e la risposta prudente di Bi non certifica il suo comportamento in situazione reale.
+Nel **24/003** Mei distingue log del controllore di B-33, nota di prossimità di B-32, risposta conversazionale, scelta di Grace e conseguenze sull'operatrice. Chiede un flusso di avvisi tecnici al referente umano indipendente dalla sintesi linguistica di B-32, ma non lo tratta come una correzione già collaudata. Nel **24/004** il caso proposto in prova a B-17 rimane **ipotetico** anche quando Nina immagina che una persona si faccia male: non viene rivelato l'incidente specifico, e la risposta prudente di Bi non certifica il suo comportamento in situazione reale.
