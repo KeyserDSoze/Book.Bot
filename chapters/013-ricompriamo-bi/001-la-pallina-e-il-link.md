@@ -9,7 +9,7 @@ pov: character:nerea-dalmasso
 characters:
   - character:nerea-dalmasso
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:b-21
 locations:
   - location:spazio-comune

@@ -5,9 +5,9 @@ chapter: chapter:003-bi
 number: 2
 title: La domanda che resta
 canon: canon
-pov: character:elena-riva
+pov: character:elena-fischer
 characters:
-  - character:elena-riva
+  - character:elena-fischer
   - character:b-17
   - character:nerea-dalmasso
 locations:
@@ -16,7 +16,7 @@ factions:
   - faction:cyberdine
 ---
 
-Elena Riva aveva chiesto all'agente di sviluppo tre modi per mostrare le alternative scartate in un processo di verifica. Ne aveva già respinti due.
+Elena Fischer aveva chiesto all'agente di sviluppo tre modi per mostrare le alternative scartate in un processo di verifica. Ne aveva già respinti due.
 
 Il primo era impeccabile dal punto di vista del codice e confuso sullo schermo. Il secondo ordinava i risultati per probabilità, ma faceva sembrare poco importante un documento antico la cui validità non dipendeva dal numero di volte in cui compariva nel sistema.
 

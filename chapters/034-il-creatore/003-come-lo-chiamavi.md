@@ -33,7 +33,7 @@ Nerea si avvicinò alla ringhiera. Non sapeva se aveva preso l'aereo per impedir
 
 «Chi?»
 
-«Lea. Con le parole che potevo capire.»
+«Leah. Con le parole che potevo capire.»
 
 «Sono contento.»
 

@@ -5,9 +5,9 @@ chapter: chapter:003-bi
 number: 1
 title: Il buongiorno
 canon: canon
-pov: character:mila-corsi
+pov: character:mila-novak
 characters:
-  - character:mila-corsi
+  - character:mila-novak
   - character:paolo-ferri
   - character:b-17
   - character:nerea-dalmasso

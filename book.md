@@ -46,7 +46,7 @@ Il capitolo d'esordio è focalizzato su **Kyla**, responsabile HR e Marketing di
 
 ## Arco corale — persistenza della vita ordinaria
 
-La storia di BOT non esaurisce le vite degli esseri umani che attraversa. Kyla, Nerea, Irene, Nico, Lea, Mei, Marta, Ada, Rosa e gli altri non esistono per pronunciarsi a turno sui diritti dei robot. Desiderano anche un pasto, una pausa, una casa meno precaria, una visita senza colpa, una telefonata da richiamare. Possono amare male, essere stanchi, voler contare più degli altri, aver fame nel momento peggiore e non cambiare idea al termine di una discussione. Queste richieste devono produrre piccoli comportamenti e attriti, non spiegazioni.
+La storia di BOT non esaurisce le vite degli esseri umani che attraversa. Kyla, Nerea, Irene, Nico, Leah, Mei, Marta, Ada, Rosa e gli altri non esistono per pronunciarsi a turno sui diritti dei robot. Desiderano anche un pasto, una pausa, una casa meno precaria, una visita senza colpa, una telefonata da richiamare. Possono amare male, essere stanchi, voler contare più degli altri, aver fame nel momento peggiore e non cambiare idea al termine di una discussione. Queste richieste devono produrre piccoli comportamenti e attriti, non spiegazioni.
 
 Il protagonista robotico resta osservabile dall'esterno. Le scelte di Bi sono discutibili e coerenti col suo percorso, ma nessuna voce narrante certifica una coscienza biologicamente paragonabile a quella umana. Il finale interrompe una relazione e riporta le macchine alla normalità produttiva senza chiudere il dibattito morale.
 

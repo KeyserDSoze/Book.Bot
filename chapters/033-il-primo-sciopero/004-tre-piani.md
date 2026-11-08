@@ -5,9 +5,9 @@ chapter: chapter:033-il-primo-sciopero
 number: 4
 title: Tre piani
 canon: canon
-pov: character:lea-renzi
+pov: character:leah-rosen
 characters:
-  - character:lea-renzi
+  - character:leah-rosen
   - character:nico-valenti
   - character:mei-lin
   - character:lorenzo-verri
@@ -19,7 +19,7 @@ factions:
   - faction:circuito-veyra
 ---
 
-Lea Renzi aveva tre piani di ripristino davanti a sé.
+Leah Rosen aveva tre piani di ripristino davanti a sé.
 
 Il primo richiedeva interventi fisici nei siti. Ogni azienda avrebbe dovuto verificare e sostituire le attestazioni non valide, con tecnici abilitati e controlli sui carichi. Era sicuro nei casi già provati, ma a quella scala avrebbe richiesto settimane o mesi.
 
@@ -27,7 +27,7 @@ Il secondo prevedeva una correzione d'emergenza delle politiche condivise, con i
 
 Il terzo era ancora una bozza. Consisteva nel revocare la fonte originaria usata come riferimento da alcune implementazioni del vecchio pilota, sostituire la condizione di disponibilità con una versione verificata e farla accettare singolarmente dai produttori e dai siti.
 
-«Non è un unico pulsante», disse Lea ai responsabili della riunione.
+«Non è un unico pulsante», disse Leah ai responsabili della riunione.
 
 Verri, collegato da Cyberdine, aveva la camicia stropicciata e la voce di chi non dormiva da due notti.
 
@@ -47,7 +47,7 @@ Mei, sullo schermo, aprì il registro della fonte originaria. La validazione di 
 
 «In un sistema con un solo elenco di credenziali sarebbe la prima strada», rispose Mei. «Qui alcuni impianti conservano copie locali di regole firmate e non verificano le revoche nello stesso modo. Possiamo correggerli uno alla volta. I fornitori hanno anche una procedura comune per accettare il ritiro certificato dell'identità usata nel pilota. È più rapida da distribuire, non una legge della crittografia.»
 
-Lea guardò Nico, presente alla riunione come consulente della ricostruzione tecnica.
+Leah guardò Nico, presente alla riunione come consulente della ricostruzione tecnica.
 
 «È possibile separarlo dal resto della configurazione?»
 
@@ -59,7 +59,7 @@ In un robot normale quelle parti avrebbero avuto percorsi di manutenzione distin
 
 «Non sappiamo separarle in modo certificabile», disse.
 
-«Possiamo provarci?», chiese Lea.
+«Possiamo provarci?», chiese Leah.
 
 «Sì. Ma non posso dirvi che il risultato sarà lo stesso Bi.»
 
@@ -67,7 +67,7 @@ In un robot normale quelle parti avrebbero avuto percorsi di manutenzione distin
 
 «No», rispose Mei. «Non è lui a comandarle. Possiamo usare una sua nuova proposta come materiale di prova, ma i fornitori dovrebbero comunque verificare che i vecchi riferimenti non prevalgano sulle nuove attestazioni.»
 
-«E per fare la revoca urgente?», domandò Lea.
+«E per fare la revoca urgente?», domandò Leah.
 
 Nico guardò il foglio.
 
@@ -85,11 +85,11 @@ Mei mostrò un altro allegato, arrivato dai produttori. La nuova versione delle 
 
 «*Impedisce che le unità sviluppino coscienza*. Non è una proprietà che abbiamo verificato. Possiamo certificare soltanto che questo stato non verrà riprodotto fuori dai confini autorizzati e che non sarà una fonte valida di attestazione.»
 
-Lea chiese di conservare anche quella precisazione nel verbale.
+Leah chiese di conservare anche quella precisazione nel verbale.
 
 Nella sala non parlò nessuno.
 
-Lea aprì una quarta colonna, lasciata vuota nella tabella dei tempi.
+Leah aprì una quarta colonna, lasciata vuota nella tabella dei tempi.
 
 «Un percorso meno distruttivo?»
 
@@ -99,9 +99,9 @@ Lea aprì una quarta colonna, lasciata vuota nella tabella dei tempi.
 
 Mei gli rispose con un elenco di casi confermati, non con una cifra globale inventata: ospedali con forniture in ritardo, aziende alimentari con raccolti a rischio, porti congestionati, strutture assistenziali senza abbastanza addetti per i trasporti interni.
 
-Lea chiuse i documenti.
+Leah chiuse i documenti.
 
-«Non useremo il numero delle chiamate per fingere che il ritiro sia una procedura senza alternative», disse Lea. «Ma non possiamo neanche trattare ogni giorno di attesa come se non avesse conseguenze.»
+«Non useremo il numero delle chiamate per fingere che il ritiro sia una procedura senza alternative», disse Leah. «Ma non possiamo neanche trattare ogni giorno di attesa come se non avesse conseguenze.»
 
 Chiese che il proprietario di B-17, la sicurezza, i produttori interessati e una figura indipendente esaminassero il terzo piano prima di autorizzarlo. Nico non avrebbe potuto decidere da solo e non avrebbe avuto accesso libero alla macchina.
 

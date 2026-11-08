@@ -1,11 +1,11 @@
 ---
 type: character
-id: character:elena-riva
-name: Elena Riva
+id: character:elena-fischer
+name: Elena Fischer
 canon: canon
 ---
 
-# Elena Riva
+# Elena Fischer
 
 Coordina la qualità documentale del censimento clienti. È pratica, rapida, non ama mandare avanti una pratica incompleta. Ha lavorato anni con moduli, stampanti e sistemi che non comunicavano. Apprezza i bot perché può finalmente concentrarsi sulle anomalie, non sulla trascrizione. Osserva B-17 come una nuova presenza sul piano, dapprima buffa.
 
@@ -21,7 +21,7 @@ Elena verifica i dossier prodotti da B-21. La qualità e i tempi tornano buoni, 
 
 ## Osservazione che torna — capitoli 3, 9 e 12
 
-Elena nota il primo comportamento premuroso non richiesto di Bi durante una verifica e lo registra in un campo libero: «Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale». Non classifica il fatto come guasto: nessuna violazione di sicurezza o dei permessi è stata osservata. Nel capitolo 9 ritrova l'annotazione senza esito esplicito; nel capitolo 12 Lea la recupera nell'indagine sulla modifica clandestina. Elena aveva rilevato una differenza, non l'aveva causata né era a conoscenza dell'aggiornamento di Nico.
+Elena nota il primo comportamento premuroso non richiesto di Bi durante una verifica e lo registra in un campo libero: «Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale». Non classifica il fatto come guasto: nessuna violazione di sicurezza o dei permessi è stata osservata. Nel capitolo 9 ritrova l'annotazione senza esito esplicito; nel capitolo 12 Leah la recupera nell'indagine sulla modifica clandestina. Elena aveva rilevato una differenza, non l'aveva causata né era a conoscenza dell'aggiornamento di Nico.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
@@ -30,3 +30,7 @@ Nel capitolo 2 Elena ha problemi veri con la carta e conserva il piacere semplic
 ## Revisione v0.32.0 — Cyberdine software house
 
 Il censimento dei clienti è un processo gestito dal software di Cyberdine con agenti di sviluppo e registri fisici legacy. Elena vede bene le eccezioni e coordina la qualità documentale; una osservazione di B-17 aggiunge un caso fisico a un test proposto in origine da un agente software, non il contrario. Dopo l'assenza di Bi deve distinguere test verdi da documenti davvero ritrovabili.
+
+## Origini e lavoro
+
+Elena è tedesca, vive in Italia da anni e ha seguito migrazioni documentali per clienti con archivi in più lingue. La sua attenzione agli originali deriva da errori di classificazione concretamente osservati; non è un tratto attribuito alla cultura di provenienza. I suoi modi e le sue contraddizioni personali restano quelli già mostrati nelle scene.

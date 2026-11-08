@@ -16,7 +16,7 @@ Cyberdine è dichiaratamente un'azienda di software già dal capitolo 1: non nas
 
 ## Capitolo 12
 
-Lorenzo apprende da Kyla e Lea il comportamento non autorizzato di Nico relativo a B-17. Autorizza controlli e contatti formali con il Circuito Veyra per la sicurezza dei dati, senza reclamare automaticamente una unità che Cyberdine aveva ceduto. Non decide immediatamente il licenziamento di Nico. Non autorizza né finanzia come iniziativa aziendale la raccolta volontaria per ricomprare Bi; B-21 continua a svolgere regolarmente i compiti previsti.
+Lorenzo apprende da Kyla e Leah il comportamento non autorizzato di Nico relativo a B-17. Autorizza controlli e contatti formali con il Circuito Veyra per la sicurezza dei dati, senza reclamare automaticamente una unità che Cyberdine aveva ceduto. Non decide immediatamente il licenziamento di Nico. Non autorizza né finanzia come iniziativa aziendale la raccolta volontaria per ricomprare Bi; B-21 continua a svolgere regolarmente i compiti previsti.
 
 
 ## Capitoli 25–29

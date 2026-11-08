@@ -5,9 +5,9 @@ chapter: chapter:006-non-e-colpa-mia
 number: 2
 title: La linea sul pavimento
 canon: canon
-pov: character:mila-corsi
+pov: character:mila-novak
 characters:
-  - character:mila-corsi
+  - character:mila-novak
   - character:kyla
   - character:paolo-ferri
   - character:irene-valli

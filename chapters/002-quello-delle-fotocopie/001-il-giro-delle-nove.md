@@ -5,11 +5,11 @@ chapter: chapter:002-quello-delle-fotocopie
 number: 1
 title: Il giro delle nove
 canon: canon
-pov: character:elena-riva
+pov: character:elena-fischer
 characters:
-  - character:elena-riva
+  - character:elena-fischer
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -17,7 +17,7 @@ factions:
   - faction:cyberdine
 ---
 
-La stampante iniziò a tossire alle nove e dodici, cinque minuti prima che Elena Riva scoprisse di aver bisogno di un foglio azzurro.
+La stampante iniziò a tossire alle nove e dodici, cinque minuti prima che Elena Fischer scoprisse di aver bisogno di un foglio azzurro.
 
 Il rumore veniva da una macchina del terzo piano; il foglio era nell'archivio quattro. Elena aveva imparato a non confondere mai la coincidenza con una relazione di causa. Il problema reale era una pratica in attesa di tre confronti, tutti possibili soltanto dopo aver visto l'originale firmato.
 
@@ -45,7 +45,7 @@ Alla postazione vicina un agente di sviluppo aveva appena proposto una piccola m
 
 Andò a prendere il caffè.
 
-Paolo Ferri era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Mila Corsi teneva in mano il contenitore del pranzo.
+Paolo Ferri era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Mila Novak teneva in mano il contenitore del pranzo.
 
 «Paolo ha deciso che il mio frigorifero deve essere ridondante», disse Mila. «Ha spostato le lasagne accanto al ghiaccio.»
 

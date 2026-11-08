@@ -10,9 +10,9 @@ characters:
   - character:nerea-dalmasso
   - character:paolo-ferri
   - character:b-21
-  - character:elena-riva
+  - character:elena-fischer
   - character:kyla
-  - character:lea-renzi
+  - character:leah-rosen
   - character:bruno-dalmasso
 locations:
   - location:cyberdine-campus
@@ -106,7 +106,7 @@ Il ragazzo cercò nella cronologia. «Irene Valli.»
 
 Nerea rimase sulla soglia. Ricordò Bi dietro la scrivania di un programmatore, quando ancora bastava una persona che conoscesse quel banco per distinguere un errore del codice da un connettore fuori versione.
 
-Lea Renzi entrò con un tecnico della sicurezza.
+Leah Rosen entrò con un tecnico della sicurezza.
 
 «Nessun riavvio improvvisato», disse. «Gli arresti dei controllori locali non si scavalcano. Se non capiamo la catena delle attestazioni, ogni prova deve essere isolata.»
 

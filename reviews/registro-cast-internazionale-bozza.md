@@ -10,7 +10,7 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 | Nerea Dalmasso | Responsabile Hub | Mantenere | Proposto |
 | Kyla | HR e marketing | Kyla Morgan | Da approvare |
 | Mei Lin | Qualità robotica | Mantenere | Proposto |
-| Lea Renzi | Sicurezza e privacy | Leah Rosen | Da approvare |
+| Leah Rosen | Sicurezza e privacy | Nome adottato | Canonico |
 | Ada Serri | Centro assistenziale | Mantenere | Proposto |
 | Sergio Lolli | Agricoltore | Mantenere | Proposto |
 | Teresa Marin | Ospite centro | Mantenere | Proposto |
@@ -18,9 +18,9 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 | Irene Valli | Eccezioni | Irene Walsh | Da approvare |
 | Lorenzo Verri | CEO Cyberdine | Alexander Reed | Da approvare |
 | Adriana Lodi | Mentore | Mantenere | Proposto |
-| Elena Riva | Documentazione | Elena Fischer | Da approvare |
+| Elena Fischer | Documentazione | Nome adottato | Canonico |
 | Paolo Ferri | Sistemi legacy | Paul Carter | Da approvare |
-| Mila Corsi | Spazio Comune | Mila Novak | Da approvare |
+| Mila Novak | Spazio Comune | Nome adottato | Canonico |
 | Dario Sarti | Lavoratore Cyberdine | Mantenere | Proposto |
 | Mauro Lanza | Lavoratore Cyberdine | Mantenere | Proposto |
 | Bruno Dalmasso | Padre di Nerea | Mantenere | Proposto |
@@ -75,3 +75,7 @@ Rinominare soltanto dopo un controllo di tutti i file canonici; evitare di perde
 ## Prima rinomina applicata
 
 Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei nove file-scena interessati, nelle guide e nei riferimenti correnti. La giornalista britannica abita a Roma, scrive in italiano e mantiene identici arco, etica professionale, rapporti e accessi alle fonti. Le revisioni storiche pubblicate e la cronologia Git conservano le denominazioni precedenti come testimonianza delle vecchie versioni.
+
+## Seconda passata di rinomine canoniche — 8 novembre 2026
+
+**Leah Rosen** (già Lea Renzi), britannica e responsabile sicurezza; **Mila Novak** (già Mila Corsi), croata e coordinatrice dello Spazio Comune; **Elena Fischer** (già Elena Riva), tedesca e responsabile della documentazione. Le schede, i riferimenti di scena e i file canonici sono aggiornati; non cambiano eventi, conoscenze, responsabilità o POV dei personaggi. Le revisioni storiche restano immutate nella storia Git.

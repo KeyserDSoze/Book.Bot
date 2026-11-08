@@ -5,9 +5,9 @@ number: 2
 title: Quello delle fotocopie
 canon: canon
 pov:
-  - character:elena-riva
+  - character:elena-fischer
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:kyla
 ---
 

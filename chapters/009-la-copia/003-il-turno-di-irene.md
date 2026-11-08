@@ -8,7 +8,7 @@ canon: canon
 pov: character:irene-valli
 characters:
   - character:irene-valli
-  - character:elena-riva
+  - character:elena-fischer
   - character:adriana-lodi
   - character:b-21
 locations:

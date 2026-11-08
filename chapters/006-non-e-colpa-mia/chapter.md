@@ -6,7 +6,7 @@ title: Non è colpa mia
 canon: canon
 pov:
   - character:irene-valli
-  - character:mila-corsi
+  - character:mila-novak
   - character:dario-sarti
   - character:nerea-dalmasso
 ---

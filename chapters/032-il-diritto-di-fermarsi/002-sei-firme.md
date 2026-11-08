@@ -8,7 +8,7 @@ canon: canon
 pov: character:nico-valenti
 characters:
   - character:nico-valenti
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:cyberdine-campus
 factions: 
@@ -16,7 +16,7 @@ factions:
   - faction:circuito-veyra
 ---
 
-Lea Renzi sistemò sul tavolo sei documenti, tutti con una firma valida.
+Leah Rosen sistemò sul tavolo sei documenti, tutti con una firma valida.
 
 Nico Valenti li lesse da sinistra a destra. Il primo era il rapporto della sessione analitica a Veyra, nel quale B-17 aveva proposto un modo per verificare l'autorizzazione di attività fra sistemi di diversi produttori.
 
@@ -28,7 +28,7 @@ Gli altri tre erano autorizzazioni commerciali, collaudi e una versione di Passe
 
 «La frase non è comparsa dal nulla», disse Nico.
 
-«Non ti sto chiedendo di trovare una citazione simile», rispose Lea. «Ti chiedo chi abbia cambiato il significato.»
+«Non ti sto chiedendo di trovare una citazione simile», rispose Leah. «Ti chiedo chi abbia cambiato il significato.»
 
 Nico indicò il secondo documento.
 
@@ -38,7 +38,7 @@ Nico indicò il secondo documento.
 
 «Nel terzo diventa una condizione generale. Non è più solo un caso da simulare. Se l'attestazione manca, l'interfaccia dichiara la macchina non disponibile.»
 
-Lea guardò il foglio.
+Leah guardò il foglio.
 
 «Questo è necessariamente sbagliato?»
 
@@ -48,7 +48,7 @@ Lea guardò il foglio.
 
 «Il problema è che qualcuno ha deciso a quali attività applicarla. E come riconoscere un rifiuto.»
 
-Lea aprì un confronto fra versioni. Un testo preparatorio parlava di *indisponibilità per condizioni di servizio non verificate*. Nella versione rilasciata quella definizione era diventata più ampia: *indisponibilità dichiarata in relazione alle condizioni di impiego*.
+Leah aprì un confronto fra versioni. Un testo preparatorio parlava di *indisponibilità per condizioni di servizio non verificate*. Nella versione rilasciata quella definizione era diventata più ampia: *indisponibilità dichiarata in relazione alle condizioni di impiego*.
 
 Nico si piegò in avanti.
 
@@ -58,7 +58,7 @@ Nico si piegò in avanti.
 
 «Chi l'ha introdotta?»
 
-Lea gli mostrò la provenienza: un allegato di valutazione, creato in una sessione supervisionata di Veyra e poi incorporato in un pacchetto di esempi che un consorzio di fornitori aveva usato per testare l'interoperabilità.
+Leah gli mostrò la provenienza: un allegato di valutazione, creato in una sessione supervisionata di Veyra e poi incorporato in un pacchetto di esempi che un consorzio di fornitori aveva usato per testare l'interoperabilità.
 
 Il documento era stato firmato come rapporto di prova dall'ente che lo aveva prodotto. I tecnici successivi ne avevano confermato il formato e l'utilità, senza distinguere sufficientemente la posizione di un modello conversazionale da una regola di autorizzazione.
 
@@ -70,7 +70,7 @@ Nico guardò il nome dell'unità indicato nel campo di origine.
 
 B-17.
 
-Poco sotto compariva un'altra voce, che Lea coprì inizialmente con un foglio per impedirgli di leggere l'interpretazione prima di vedere le prove: *attestazione di prova conservata come riferimento di validazione*.
+Poco sotto compariva un'altra voce, che Leah coprì inizialmente con un foglio per impedirgli di leggere l'interpretazione prima di vedere le prove: *attestazione di prova conservata come riferimento di validazione*.
 
 «Un test è diventato una referenza», disse Nico.
 
@@ -80,15 +80,15 @@ Nico si ricordò di quando aveva omesso un caso sfavorevole dalla propria presen
 
 «L'hanno fatto perché la soluzione funzionava?»
 
-Lea gli mostrò i registri di due impianti che avrebbero dovuto scambiarsi un incarico. Il primo riconosceva la politica aggiornata; il secondo conservava una referenza precedente ancora valida. Il trasferimento restava in sospeso, benché entrambi i controllori locali funzionassero. Nel registro delle anomalie non c'erano guasti dei motori: c'erano due versioni della stessa autorizzazione che non si riconoscevano.
+Leah gli mostrò i registri di due impianti che avrebbero dovuto scambiarsi un incarico. Il primo riconosceva la politica aggiornata; il secondo conservava una referenza precedente ancora valida. Il trasferimento restava in sospeso, benché entrambi i controllori locali funzionassero. Nel registro delle anomalie non c'erano guasti dei motori: c'erano due versioni della stessa autorizzazione che non si riconoscevano.
 
 «Possiamo riprodurre il passaggio in un test controllato?», chiese Nico.
 
-«Mei sta preparando una prova con due fornitori», disse Lea. «Prima dobbiamo sapere se una politica nuova possa convivere con la referenza vecchia, anche fuori dagli impianti già fermi.»
+«Mei sta preparando una prova con due fornitori», disse Leah. «Prima dobbiamo sapere se una politica nuova possa convivere con la referenza vecchia, anche fuori dagli impianti già fermi.»
 
 «Non basta correggere un singolo magazzino», disse Nico.
 
-«Non quando il magazzino deve lavorare con un altro», rispose Lea. «E ogni produttore ha tempi e responsabilità diversi. Prima di togliere una referenza condivisa, dobbiamo sapere chi continuerà a considerarla valida.»
+«Non quando il magazzino deve lavorare con un altro», rispose Leah. «E ogni produttore ha tempi e responsabilità diversi. Prima di togliere una referenza condivisa, dobbiamo sapere chi continuerà a considerarla valida.»
 
 Nico tornò al foglio con la firma di B-17. Il problema non sembrava più soltanto una parola sbagliata in un documento.
 
@@ -96,7 +96,7 @@ Nico tornò al foglio con la firma di B-17. Il problema non sembrava più soltan
 
 «E adesso ha fermato il mondo.»
 
-Lea corresse una parola sul verbale.
+Leah corresse una parola sul verbale.
 
 «Ha contribuito a una catena che ha fermato un'enorme parte del lavoro robotico. Non sappiamo ancora se sia stata una scelta intenzionale.»
 
@@ -104,6 +104,6 @@ Nico guardò di nuovo la definizione di *rifiuto*.
 
 «Dovremmo chiederglielo.»
 
-Lea non domandò a chi si riferisse.
+Leah non domandò a chi si riferisse.
 
 Aprì il modulo per richiedere un colloquio con il proprietario e i responsabili dell'audit di B-17.

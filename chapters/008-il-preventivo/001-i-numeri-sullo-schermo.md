@@ -11,7 +11,7 @@ characters:
   - character:lorenzo-verri
   - character:irene-valli
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:nerea-dalmasso
   - character:nico-valenti
 locations:

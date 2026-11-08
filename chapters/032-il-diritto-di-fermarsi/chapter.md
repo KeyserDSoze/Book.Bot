@@ -14,7 +14,7 @@ pov:
 # Scene
 
 1. Quattro orologi — Mei distingue un fermo di disponibilità ai compiti da un guasto fisico e individua condizioni condivise fra diversi fornitori.
-2. Sei firme — Nico e Lea ricostruiscono il passaggio da un esempio di prova sottoposto a verifica umana a una politica comune adottata in sistemi differenti.
+2. Sei firme — Nico e Leah ricostruiscono il passaggio da un esempio di prova sottoposto a verifica umana a una politica comune adottata in sistemi differenti.
 3. Il caso limite — Mina recupera una prova di B-17 sul rapporto fra utilità di un lavoro e accettazione dell'incarico; non è ancora una confessione.
 4. La parola sciopero — Irene rifiuta di attribuire una volontà collettiva ai robot senza evidenze, mentre torna a svolgere un incarico temporaneo necessario per la crisi.
 
@@ -29,7 +29,7 @@ Il rapporto di origine è una catena di software e firme: proposte, test parzial
 
 ## Quarta review: firme vere su problemi diversi
 
-In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in un sito isolato — ma non trova il test simultaneo di moltissimi impianti. In 002 Lea mostra sei passaggi di approvazione umana: B-17 non ha distribuito aggiornamenti ai fornitori. La prova dei due impianti con attestazioni discordanti rimane distinta dal test successivo del 34 sulla revoca non distruttiva.
+In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in un sito isolato — ma non trova il test simultaneo di moltissimi impianti. In 002 Leah mostra sei passaggi di approvazione umana: B-17 non ha distribuito aggiornamenti ai fornitori. La prova dei due impianti con attestazioni discordanti rimane distinta dal test successivo del 34 sulla revoca non distruttiva.
 
 
 ## Sesta review — registri e prova nuova

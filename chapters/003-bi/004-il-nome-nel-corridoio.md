@@ -9,7 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:nerea-dalmasso
-  - character:mila-corsi
+  - character:mila-novak
   - character:paolo-ferri
   - character:b-17
 locations:

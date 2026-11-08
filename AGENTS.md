@@ -80,7 +80,7 @@ Nel capitolo 9 arriva **B-21**, esteriormente identico, con un nuovo numero di s
 
 ## Capitoli 11–14: mercato, riservatezza, raccolta, comunicazione
 
-Da capitolo 10 il **lettore** conosce la causa del salto di capacità di Bi: Nico Valenti introdusse clandestinamente un grosso aggiornamento conversazionale e una backdoor. Nel **capitolo 12** lo racconta anche a Kyla e a Lea Renzi, responsabile sicurezza. Non anticipare questo ai personaggi prima di tale incontro. La confessione non esonera Nico: accessi operativi sospesi cautelativamente e indagine in corso sulla possibile esposizione di dati privati. Nerea dichiara di non volere che Bi sia spiato ulteriormente. Non mostrare dettagli operativi della backdoor.
+Da capitolo 10 il **lettore** conosce la causa del salto di capacità di Bi: Nico Valenti introdusse clandestinamente un grosso aggiornamento conversazionale e una backdoor. Nel **capitolo 12** lo racconta anche a Kyla e a Leah Rosen, responsabile sicurezza. Non anticipare questo ai personaggi prima di tale incontro. La confessione non esonera Nico: accessi operativi sospesi cautelativamente e indagine in corso sulla possibile esposizione di dati privati. Nerea dichiara di non volere che Bi sia spiato ulteriormente. Non mostrare dettagli operativi della backdoor.
 
 Il Circuito Veyra, diretto commercialmente da Marta Ledesma, valorizza B-17 per video virali, sponsor e potenziali accordi di esclusiva. Si tratta di offerte **condizionate**, non di cassa già incassata o capacità militari provate. Mina Soler tutela la sicurezza delle prove simulate.
 
@@ -91,7 +91,7 @@ Nel capitolo 14 Mina consegna a B-17 una lettera privata di Nerea attraverso can
 
 ## Revisione di struttura v0.15.0
 
-Leggere la sezione «Revisione organica v0.15.0» delle linee guida di continuità. L'edit retroattivo introduce Nico Valenti dal capitolo 1 con presenze ordinarie in 2, 3, 6, 8 e 9, senza svelare prima del capitolo 10 il suo upgrade non autorizzato o la backdoor. Nel capitolo 12 il segreto arriva a Kyla e Lea, poi a Nerea. Una nota reale di Elena collega capitoli 3, 9 e 12 e spiega un'anomalia conversazionale osservata ma non approfondita.
+Leggere la sezione «Revisione organica v0.15.0» delle linee guida di continuità. L'edit retroattivo introduce Nico Valenti dal capitolo 1 con presenze ordinarie in 2, 3, 6, 8 e 9, senza svelare prima del capitolo 10 il suo upgrade non autorizzato o la backdoor. Nel capitolo 12 il segreto arriva a Kyla e Leah, poi a Nerea. Una nota reale di Elena collega capitoli 3, 9 e 12 e spiega un'anomalia conversazionale osservata ma non approfondita.
 
 Correzioni canoniche: 26 giorni di presenza fisica dei robot, ma KPI trimestrale riferito all'automazione più ampia; pensione di Adriana fra i capitoli 7 e 8; nel preventivo la cessione a recupero è soltanto un'eventualità futura; la proprietà del soprannome «Bi» non è chiarita. Non trasformare gli indizi in spiegoni o anticipazioni narratorie. Ogni aggiunta deve essere funzionale prima e dopo la rivelazione; se serve solo a fare effetto, tagliarla.
 

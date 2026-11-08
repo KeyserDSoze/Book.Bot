@@ -8,7 +8,7 @@ canon: canon
 pov: character:nico-valenti
 characters:
   - character:nico-valenti
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:cyberdine-campus
 factions:
@@ -18,7 +18,7 @@ factions:
 
 Nico arrivò con un quaderno senza computer.
 
-Glielo aveva chiesto Lea Renzi per il colloquio tecnico con i consulenti: niente accessi ai sistemi operativi, niente dispositivi personali sulla rete di Cyberdine, nessuna dimostrazione in tempo reale. Soltanto una ricostruzione verificabile di ciò che aveva fatto e di ciò che non poteva garantire.
+Glielo aveva chiesto Leah Rosen per il colloquio tecnico con i consulenti: niente accessi ai sistemi operativi, niente dispositivi personali sulla rete di Cyberdine, nessuna dimostrazione in tempo reale. Soltanto una ricostruzione verificabile di ciò che aveva fatto e di ciò che non poteva garantire.
 
 Un consulente gli pose la domanda più semplice della mattina.
 
@@ -44,7 +44,7 @@ Nico richiuse il quaderno a metà. «Perché funzionava sullo stesso dispositivo
 
 «Potresti farla tu?»
 
-Lea intervenne prima che rispondesse.
+Leah intervenne prima che rispondesse.
 
 «Nico può spiegare i propri interventi nel perimetro di questo accertamento. Non sarà la sola persona a verificare o certificare ciò che ha modificato senza autorizzazione.»
 
@@ -72,7 +72,7 @@ Il consulente gli chiese se esistessero altre prove escluse dal riepilogo.
 
 «Sì. Ho conservato i risultati, ma non li ho portati alla revisione. Posso consegnare l'indice delle prove, attraverso il canale autorizzato.»
 
-Lea annotò la proposta e aggiunse alla richiesta di evidenze il materiale mancante. Non chiese a Nico di collegarsi a nessun sistema.
+Leah annotò la proposta e aggiunse alla richiesta di evidenze il materiale mancante. Non chiese a Nico di collegarsi a nessun sistema.
 
 Il consulente ruotò il quaderno per leggere la data accanto alla nota.
 
@@ -80,11 +80,11 @@ Il consulente ruotò il quaderno per leggere la data accanto alla nota.
 
 «Sì», rispose Nico.
 
-La penna di Lea rimase sospesa sul verbale. «Puoi confermarlo sui registri conservati?»
+La penna di Leah rimase sospesa sul verbale. «Puoi confermarlo sui registri conservati?»
 
 «Attraverso la verifica degli originali, sì. Se esistono ancora tutti.»
 
-Lea scrisse una richiesta di controllo delle date, non una conclusione. Nessuno in quella stanza aveva accesso al codice di Lanter per affermare che il prodotto successivo avesse lo stesso difetto.
+Leah scrisse una richiesta di controllo delle date, non una conclusione. Nessuno in quella stanza aveva accesso al codice di Lanter per affermare che il prodotto successivo avesse lo stesso difetto.
 
 A metà mattina fecero una pausa. Nico rimase seduto mentre gli altri andavano a prendere acqua. Guardò il quaderno. Aveva sempre creduto che il difetto più grave dei suoi esperimenti fosse non riuscire a convincere gli altri abbastanza rapidamente. Ora gli sembrava che il difetto fosse aver deciso di non dare agli altri il tempo di dire di no.
 
@@ -98,7 +98,7 @@ Poi domandò una cosa che non era nel verbale.
 
 «Se il ripristino fosse necessario, chi decide?»
 
-Lea lo guardò.
+Leah lo guardò.
 
 «Non tu da solo. E nemmeno noi da soli. Il proprietario deve adottare misure sicure, i tecnici devono verificare, le persone coinvolte devono essere informate dove necessario. La tua testimonianza è parte del quadro, non la decisione.»
 
@@ -108,7 +108,7 @@ Lea lo guardò.
 
 «Che una parte di quello che ricorda potrebbe non esserci più.»
 
-Lea lasciò la penna sul tavolo. «Se verrà autorizzata una sessione, gli saranno spiegati il perimetro e le conseguenze previste. Quello che risponderà non sostituirà una verifica, né un'autorizzazione del proprietario.»
+Leah lasciò la penna sul tavolo. «Se verrà autorizzata una sessione, gli saranno spiegati il perimetro e le conseguenze previste. Quello che risponderà non sostituirà una verifica, né un'autorizzazione del proprietario.»
 
 «Non chiedevo se potesse firmare», disse Nico.
 

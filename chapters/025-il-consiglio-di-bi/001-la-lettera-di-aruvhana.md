@@ -83,7 +83,7 @@ Verri annuì.
 
 Kyla non sorrise. Aveva ricevuto quella mattina una notifica del Circuito Veyra: B-17 era disponibile per una singola analisi locale sotto audit, senza accessi operativi ai sistemi Cyberdine. L'idea di chiedergli una valutazione le sembrò insieme utile e scomoda. Il robot aveva già contribuito a proporre test che avevano ridotto la necessità di alcuni ruoli nell'azienda. Ora l'avrebbero consultato per trovare una strada che potesse salvare un contratto e, nello stesso tempo, ridurre altri posti.
 
-«Possiamo pagare una sessione analitica», disse. «Soltanto con dati depurati. Lea deve autorizzare il materiale e il risultato non può diventare una decisione senza collaudo.»
+«Possiamo pagare una sessione analitica», disse. «Soltanto con dati depurati. Leah deve autorizzare il materiale e il risultato non può diventare una decisione senza collaudo.»
 
 «Pensi a B-17?»
 
@@ -101,7 +101,7 @@ Verri guardò la quarta tabella vuota.
 
 Verri rimase qualche secondo in silenzio. Poi scorse il calendario delle scadenze.
 
-«D'accordo. Avverti Lea. Ma non useremo B-17 come una garanzia di successo commerciale.»
+«D'accordo. Avverti Leah. Ma non useremo B-17 come una garanzia di successo commerciale.»
 
 Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel laboratorio e stava controllando una patch che l'agente aveva prodotto durante la notte. Sul monitor compariva un risultato verde. Malik aprì il codice, lesse due funzioni e rimandò la revisione con una domanda sulla vecchia routine di conferma. Era il genere di domanda che l'assenza di Bi aveva reso costosa per tutto il reparto.
 

@@ -6,7 +6,7 @@ title: La copia
 canon: canon
 pov:
   - character:paolo-ferri
-  - character:elena-riva
+  - character:elena-fischer
   - character:irene-valli
   - character:nerea-dalmasso
 ---

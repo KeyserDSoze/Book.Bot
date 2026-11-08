@@ -8,8 +8,8 @@ canon: canon
 pov: character:irene-valli
 characters:
   - character:irene-valli
-  - character:mila-corsi
-  - character:elena-riva
+  - character:mila-novak
+  - character:elena-fischer
 locations:
   - location:cyberdine-campus
 factions:

@@ -9,7 +9,7 @@ pov: character:irene-valli
 characters:
   - character:irene-valli
   - character:adriana-lodi
-  - character:elena-riva
+  - character:elena-fischer
   - character:paolo-ferri
   - character:malik-okafor
 locations:

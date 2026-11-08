@@ -5,9 +5,9 @@ chapter: chapter:009-la-copia
 number: 2
 title: I compiti tornano a posto
 canon: canon
-pov: character:elena-riva
+pov: character:elena-fischer
 characters:
-  - character:elena-riva
+  - character:elena-fischer
   - character:paolo-ferri
   - character:b-21
 locations:

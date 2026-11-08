@@ -9,7 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:lorenzo-verri
-  - character:lea-renzi
+  - character:leah-rosen
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -28,7 +28,7 @@ La questione era un'altra: quali decisioni potevano essere affidate a un sistema
 
 «La bozza non tocca i controlli tecnici», disse Verri.
 
-«Non tutti», rispose Lea Renzi. «Tocca quelli che producono direttamente una valutazione sul personale nei settori indicati. Se un robot propone una turnazione che nessuno rivede, la responsabilità scritta su un modulo non basterà.»
+«Non tutti», rispose Leah Rosen. «Tocca quelli che producono direttamente una valutazione sul personale nei settori indicati. Se un robot propone una turnazione che nessuno rivede, la responsabilità scritta su un modulo non basterà.»
 
 «Noi gli avalli li facciamo.»
 
@@ -46,13 +46,13 @@ Verri la guardò.
 
 «Nemmeno io.»
 
-Lea scorse il documento.
+Leah scorse il documento.
 
 «Qui si parla di un periodo di adeguamento. Non c'è un obbligo di arrestare domani tutte le macchine. I sistemi logistici, agricoli e industriali che non svolgono le mansioni riservate continueranno a lavorare.»
 
 «Quindi i nostri clienti possono respirare.»
 
-«Possono preparare i cambiamenti», precisò Lea. «Non respirare e basta.»
+«Possono preparare i cambiamenti», precisò Leah. «Non respirare e basta.»
 
 La persona incaricata del rapporto con Aruvhana entrò portando una comunicazione del cliente. Voleva una stima dei costi necessari a rendere gli avalli umani più visibili, e una conferma che eventuali limiti nazionali non sarebbero stati applicati arbitrariamente alle sedi estere.
 
@@ -62,13 +62,13 @@ La persona incaricata del rapporto con Aruvhana entrò portando una comunicazion
 
 La bozza di risposta venne completata nel pomeriggio. Spiegava che le procedure locali sarebbero state adeguate alle leggi applicabili e che lo scambio di attestazioni non trasferiva automaticamente decisioni sul personale da un sito all'altro.
 
-Prima di inviarla, Lea chiese di eliminare una frase.
+Prima di inviarla, Leah chiese di eliminare una frase.
 
 *La continuità operativa è garantita in ogni circostanza.*
 
 «Perché?», domandò Verri. «Abbiamo più ridondanze di due anni fa.»
 
-«Abbiamo più dipendenze di due anni fa», rispose Lea. «Possiamo garantire i controlli che abbiamo verificato. Non ogni circostanza.»
+«Abbiamo più dipendenze di due anni fa», rispose Leah. «Possiamo garantire i controlli che abbiamo verificato. Non ogni circostanza.»
 
 Kyla cancellò la frase.
 

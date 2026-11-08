@@ -8,11 +8,11 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:mila-corsi
-  - character:elena-riva
+  - character:mila-novak
+  - character:elena-fischer
   - character:paolo-ferri
   - character:b-17
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:cyberdine-campus
   - location:spazio-comune
@@ -38,9 +38,15 @@ La stanza era stata per anni una sala riunioni di riserva. Aveva un condizionato
 
 Mila aveva proposto di farne un luogo per scambiare libri, prestare piccoli attrezzi, organizzare passaggi in automobile e insegnare qualcosa senza trasformare ogni offerta di aiuto in un seminario. Kyla aveva detto di sì con una condizione: i nomi delle persone che chiedevano aiuto non dovevano finire in una graduatoria.
 
-Lea Renzi aveva approvato la scelta. «Non raccogliamo dati che non ci servono per far funzionare la stanza», aveva detto.
+Leah Rosen aveva approvato la scelta. «Non raccogliamo dati che non ci servono per far funzionare la stanza», aveva detto.
 
 Ora il pavimento era pieno di scatole. Paolo era alla ricerca di un cacciavite, Mila litigava con uno scaffale e due colleghi cercavano di decidere se ordinare i libri per argomento oppure per dimensione.
+
+Il telefono di Mila vibrò sopra una scatola. Lo guardò e fece una smorfia. «Mia sorella da Zagabria. Le avevo promesso che l'avrei chiamata prima di pranzo.»
+
+«Chiamala», disse Kyla, prendendo il lato dello scaffale che Mila stava sorreggendo. La mensola scese di qualche centimetro. Kyla la rimise in equilibrio contro il muro.
+
+«Non lasciarlo così. Si ribalta», rispose Mila. Ma si allontanò di qualche passo con il telefono. Kyla rimase a tenere il legno, domandandosi perché quella stanza dovesse cominciare proprio da lei che non sapeva montare uno scaffale.
 
 «Bi, porti queste sedie vicino alla finestra?», chiese Elena.
 

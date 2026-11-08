@@ -8,7 +8,7 @@ canon: canon
 pov: character:mei-lin
 characters:
   - character:mei-lin
-  - character:lea-renzi
+  - character:leah-rosen
   - character:marta-ledesma
   - character:nico-valenti
 locations:
@@ -25,7 +25,7 @@ Un dirigente di un fornitore le chiese perché non avesse scritto quanto fosse p
 
 La sala era piena di persone che avrebbero preferito avere un numero.
 
-Lea aprì la discussione mostrando i risultati dei primi ripristini locali. Alcuni siti avevano recuperato attività isolate, dopo aver rimosso manualmente la condizione di disponibilità e verificato ogni autorizzazione. Pochi rispetto a quelli fermi, ma abbastanza da dimostrare che lo stop non era irreversibile.
+Leah aprì la discussione mostrando i risultati dei primi ripristini locali. Alcuni siti avevano recuperato attività isolate, dopo aver rimosso manualmente la condizione di disponibilità e verificato ogni autorizzazione. Pochi rispetto a quelli fermi, ma abbastanza da dimostrare che lo stop non era irreversibile.
 
 «La via lenta funziona», disse.
 
@@ -55,15 +55,15 @@ Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo
 
 Marta guardò la data sul rapporto delle consegne. «E chi si assume la scelta di aspettare?»
 
-Lea girò il foglio verso di lei. Vi erano registrate le attività già recuperate con le procedure manuali e, accanto, quelle che non avevano ancora un percorso verificato. «Dobbiamo assumerla noi», rispose. «Qualunque strada scegliamo.»
+Leah girò il foglio verso di lei. Vi erano registrate le attività già recuperate con le procedure manuali e, accanto, quelle che non avevano ancora un percorso verificato. «Dobbiamo assumerla noi», rispose. «Qualunque strada scegliamo.»
 
-Mei aveva firmato verifiche che allora le sembravano complete. Ora, mentre Lea confrontava i tempi delle consegne, ritrovò sul proprio vecchio rapporto la parola *compatibile*. Accanto non c'era alcuna prova della migrazione fra due identità diverse.
+Mei aveva firmato verifiche che allora le sembravano complete. Ora, mentre Leah confrontava i tempi delle consegne, ritrovò sul proprio vecchio rapporto la parola *compatibile*. Accanto non c'era alcuna prova della migrazione fra due identità diverse.
 
 Marta Ledesma aveva portato i costi del Circuito. Nel riepilogo delle strutture compariva anche il centro assistenziale di Ada Serri. Aveva prestato materiale a un altro centro e in cambio attendeva una consegna che il magazzino regionale non riusciva a comporre. Entro due giorni avrebbe dovuto ridurre alcune attività e valutare trasferimenti temporanei degli ospiti, con personale e mezzi già impegnati su altre emergenze.
 
 «Non possiamo mandare un furgone?», chiese Marta.
 
-«In alcuni casi lo stiamo facendo», rispose Lea. «Ma il problema non è trovare un volante e una persona che guidi. È rintracciare le scorte giuste, validare il ritiro e recuperare le consegne in centri che stanno chiedendo tutti la stessa cosa.»
+«In alcuni casi lo stiamo facendo», rispose Leah. «Ma il problema non è trovare un volante e una persona che guidi. È rintracciare le scorte giuste, validare il ritiro e recuperare le consegne in centri che stanno chiedendo tutti la stessa cosa.»
 
 Marta guardò la riga con i tempi. Aveva pensato alle penali del Circuito; adesso pensava a Teresa, che nemmeno conosceva. Si sorprese di essere risentita del fatto che qualcuno le mettesse davanti la scelta in quel modo. Avrebbe voluto almeno un'ora per tornare a essere la proprietaria di un campo di simulazioni, non la persona che decideva quanto tempo poteva perdere una struttura di assistenza.
 
@@ -95,7 +95,7 @@ Mei guardò Nico.
 
 Nico non rispose.
 
-Lea passò alla questione delle evidenze. Il gruppo avrebbe dovuto conservare le registrazioni consentite, documentare il motivo della decisione e proteggere le informazioni personali delle persone che avevano parlato con B-17. Non avrebbero trasformato un archivio in una copia clandestina del robot.
+Leah passò alla questione delle evidenze. Il gruppo avrebbe dovuto conservare le registrazioni consentite, documentare il motivo della decisione e proteggere le informazioni personali delle persone che avevano parlato con B-17. Non avrebbero trasformato un archivio in una copia clandestina del robot.
 
 Il rappresentante del Circuito chiese di sapere se la macchina potesse essere consultata sulla propria sorte.
 
@@ -103,7 +103,7 @@ Il rappresentante del Circuito chiese di sapere se la macchina potesse essere co
 
 «Non ho chiesto questo», rispose Marta.
 
-Lea guardò Mei.
+Leah guardò Mei.
 
 «Possiamo ascoltare una risposta e registrarla senza trattarla come prova di coscienza?»
 
@@ -111,7 +111,7 @@ Lea guardò Mei.
 
 Nico aveva tenuto le mani sotto il tavolo per tutta la riunione.
 
-Quando venne il momento di stabilire chi avrebbe materialmente eseguito il ritiro, Lea disse che il personale del produttore era il solo autorizzato a intervenire sui componenti certificati e che Nico avrebbe potuto partecipare esclusivamente alla parte relativa alla configurazione da lui modificata, sempre sotto supervisione.
+Quando venne il momento di stabilire chi avrebbe materialmente eseguito il ritiro, Leah disse che il personale del produttore era il solo autorizzato a intervenire sui componenti certificati e che Nico avrebbe potuto partecipare esclusivamente alla parte relativa alla configurazione da lui modificata, sempre sotto supervisione.
 
 «Perché lui?», chiese uno dei tecnici.
 

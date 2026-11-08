@@ -6,8 +6,8 @@ title: Il posto che non serve più
 canon: canon
 pov:
   - character:irene-valli
-  - character:elena-riva
-  - character:mila-corsi
+  - character:elena-fischer
+  - character:mila-novak
 ---
 
 # Obiettivo narrativo

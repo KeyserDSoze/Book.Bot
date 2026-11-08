@@ -21,7 +21,7 @@ factions:
 
 Mina Soler non permise di portare i documenti di Aruvhana nel laboratorio di B-17.
 
-Il materiale rimase nel sistema autorizzato del Circuito. I tecnici ne prepararono un estratto di lavoro, privo di nomi dei dipendenti, credenziali, prezzi unitari riservati e percorsi che potessero rivelare procedure sensibili del cliente. Lea Renzi aveva imposto il controllo, Mei Lin aveva verificato che non ci fossero funzioni capaci di eseguire modifiche esterne.
+Il materiale rimase nel sistema autorizzato del Circuito. I tecnici ne prepararono un estratto di lavoro, privo di nomi dei dipendenti, credenziali, prezzi unitari riservati e percorsi che potessero rivelare procedure sensibili del cliente. Leah Rosen aveva imposto il controllo, Mei Lin aveva verificato che non ci fossero funzioni capaci di eseguire modifiche esterne.
 
 Marta Ledesma era meno interessata alle formule tecniche.
 

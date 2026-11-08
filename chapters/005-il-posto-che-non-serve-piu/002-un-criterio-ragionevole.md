@@ -5,9 +5,9 @@ chapter: chapter:005-il-posto-che-non-serve-piu
 number: 2
 title: Un criterio ragionevole
 canon: canon
-pov: character:elena-riva
+pov: character:elena-fischer
 characters:
-  - character:elena-riva
+  - character:elena-fischer
   - character:adriana-lodi
   - character:irene-valli
   - character:kyla
@@ -20,7 +20,7 @@ factions:
 
 Il rapporto non era intitolato *Riduzione del personale*.
 
-Elena Riva lo aprì in sala riunioni, aspettando che si collegasse l'ultimo responsabile. Si chiamava *Riorganizzazione del coordinamento delle eccezioni e della revisione delle integrazioni*. La prima pagina elencava i benefici ottenuti con gli agenti di sviluppo e i robot autorizzati: meno rilavorazioni, test più rapidi, documenti preparati in tempo, interventi notturni diminuiti.
+Elena Fischer lo aprì in sala riunioni, aspettando che si collegasse l'ultimo responsabile. Si chiamava *Riorganizzazione del coordinamento delle eccezioni e della revisione delle integrazioni*. La prima pagina elencava i benefici ottenuti con gli agenti di sviluppo e i robot autorizzati: meno rilavorazioni, test più rapidi, documenti preparati in tempo, interventi notturni diminuiti.
 
 La seconda conteneva due caselle.
 

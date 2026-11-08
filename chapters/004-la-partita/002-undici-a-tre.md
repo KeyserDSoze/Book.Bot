@@ -8,7 +8,7 @@ canon: canon
 pov: character:paolo-ferri
 characters:
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:dario-sarti
   - character:b-17
 locations:

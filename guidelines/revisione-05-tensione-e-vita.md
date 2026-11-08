@@ -24,7 +24,7 @@ Dopo una scena efficace, troppo spesso il narratore formula la tesi che il letto
 
 ### 2. I personaggi virtuosi avevano spesso le parole giuste — ALTA
 
-Kyla, Lea, Mei, Ada, Nico e Marta tendevano ad articolare posizioni prudenti e perfettamente bilanciate. Questo dava credibilità ai loro argomenti ma attenuava attrito, vergogna, esitazione e interesse personale.
+Kyla, Leah, Mei, Ada, Nico e Marta tendevano ad articolare posizioni prudenti e perfettamente bilanciate. Questo dava credibilità ai loro argomenti ma attenuava attrito, vergogna, esitazione e interesse personale.
 
 **Intervento:** Verri propone una comunicazione assoluta su Cyberdine; Kyla indica concretamente il titolo da togliere. Nico riceve denaro reale in cambio di una dichiarazione di titolarità che desidererebbe poter firmare; alla stampa risponde con un'ammissione incomoda, non con una massima impeccabile. Marta rinvia le prove di B-17 e deve prendere in mano l'elenco delle persone e delle imprese già prenotate per le riprese: la sospensione ha costi che non possono sparire dietro la parola «sicurezza». Mei confronta versioni di documenti e lascia una traccia verificabile invece di riassumere sempre la morale.
 
@@ -50,7 +50,7 @@ Un filmato virale non è automaticamente un mistero, e un personaggio non può p
 
 Troppi documenti esistevano principalmente per far conoscere al lettore l'informazione richiesta.
 
-**Intervento:** Mei vede *due schermate, due clienti, una stessa frase privata*; apre due incidenti separati, benché il programma le suggerisca di unirli per il numero di serie. Nella documentazione commerciale di Lanter trova una dichiarazione di trasferibilità con un campo di approvazione che rimanda alla qualità del prodotto, non alla liceità della provenienza. Nel capitolo 19 Kyla riceve un **ritaglio** con «N. Valenti», non una prova integrale: può vedere il nome, non ricostruire la fonte. Nel 20 il consulente chiede a Nico se il test sfavorevole fosse **precedente al rilascio** e Lea richiede una verifica delle date. L'informazione ha una conseguenza investigativa concreta.
+**Intervento:** Mei vede *due schermate, due clienti, una stessa frase privata*; apre due incidenti separati, benché il programma le suggerisca di unirli per il numero di serie. Nella documentazione commerciale di Lanter trova una dichiarazione di trasferibilità con un campo di approvazione che rimanda alla qualità del prodotto, non alla liceità della provenienza. Nel capitolo 19 Kyla riceve un **ritaglio** con «N. Valenti», non una prova integrale: può vedere il nome, non ricostruire la fonte. Nel 20 il consulente chiede a Nico se il test sfavorevole fosse **precedente al rilascio** e Leah richiede una verifica delle date. L'informazione ha una conseguenza investigativa concreta.
 
 **Guardrail:** non trasformare un dettaglio tecnico in istruzioni su accessi abusivi; i limiti delle prove restano espliciti. I documenti possono mentire per omissione, ma non per magia narrativa.
 
@@ -88,7 +88,7 @@ Cyberdine è un'azienda plausibile per processi, dashboard e collaboratori; dopo
 - **Irene** pensa a mansioni, appartenenza, posizioni e a un portfolio che nessuno le ha chiesto; una perdita professionale può convivere con un robot utile.
 - **Nerea** ragiona con oggetti in tasca, protocolli, persone e fiducia incrinata; non diventa automaticamente esperta di privacy o diritto.
 - **Nico** è competente e attratto dal riconoscimento; trova scuse prima di ammettere la propria parte, e non può conoscere il prodotto di Lanter senza una fonte.
-- **Lea** domanda date, soggetti autorizzati ed evidenze; il suo mestiere si vede nel modo in cui rifiuta una scorciatoia.
+- **Leah** domanda date, soggetti autorizzati ed evidenze; il suo mestiere si vede nel modo in cui rifiuta una scorciatoia.
 - **Mei** possiede una responsabilità sul prodotto, non soltanto un elenco di avvertimenti ignorati. Ha firmato condizioni imperfette e ne sente il peso.
 - **Ada** ricorda le persone, gli oggetti, gli impegni piccoli; può prendere decisioni di spesa difficili senza predicare.
 - **Marta** conosce contratti, calendario e soldi: una scelta prudente non la mette al riparo da penali e chiamate sgradevoli.

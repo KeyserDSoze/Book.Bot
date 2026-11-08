@@ -5,9 +5,9 @@ chapter: chapter:005-il-posto-che-non-serve-piu
 number: 3
 title: La parola rubare
 canon: canon
-pov: character:mila-corsi
+pov: character:mila-novak
 characters:
-  - character:mila-corsi
+  - character:mila-novak
   - character:paolo-ferri
   - character:dario-sarti
   - character:nerea-dalmasso

@@ -8,8 +8,8 @@ canon: canon
 pov: character:paolo-ferri
 characters:
   - character:paolo-ferri
-  - character:elena-riva
-  - character:mila-corsi
+  - character:elena-fischer
+  - character:mila-novak
   - character:b-17
 locations:
   - location:cyberdine-campus

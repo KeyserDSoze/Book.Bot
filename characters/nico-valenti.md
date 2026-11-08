@@ -18,7 +18,7 @@ Fino al capitolo 12 Nico non è noto ai colleghi come autore dell'aggiornamento.
 
 ## Capitoli 11–14: confessione e conseguenze
 
-Nico osserva il successo mediatico di B-17 e chiede di persona a Kyla un incontro riservato con la sicurezza. Nel capitolo 12 ammette a Kyla e Lea Renzi l'aggiornamento clandestino e la backdoor. Lea sospende cautelativamente gli accessi operativi, preserva le evidenze e apre un accertamento sulla possibile esposizione di dati personali. Nico dichiara di non aver seguito la conversazione privata di Nerea, ma questa dichiarazione non equivale a una verifica. Nerea gli contesta direttamente di aver lasciato aperta una porta sulla sua confidenza. Nico non è stato ancora licenziato o assolto; non utilizza più il collegamento clandestino per recuperare Bi.
+Nico osserva il successo mediatico di B-17 e chiede di persona a Kyla un incontro riservato con la sicurezza. Nel capitolo 12 ammette a Kyla e Leah Rosen l'aggiornamento clandestino e la backdoor. Leah sospende cautelativamente gli accessi operativi, preserva le evidenze e apre un accertamento sulla possibile esposizione di dati personali. Nico dichiara di non aver seguito la conversazione privata di Nerea, ma questa dichiarazione non equivale a una verifica. Nerea gli contesta direttamente di aver lasciato aperta una porta sulla sua confidenza. Nico non è stato ancora licenziato o assolto; non utilizza più il collegamento clandestino per recuperare Bi.
 
 ## Seconda revisione editoriale — v0.16.0
 
@@ -36,7 +36,7 @@ In una prova **sintetica** non presentata nel riepilogo, dopo che l'interlocutor
 
 ## Capitoli 31–35 — Il creatore
 
-Dopo giorni di sospensione mondiale Lea richiama Nico come consulente sotto supervisione e senza restituirgli accessi operativi. Nico ricostruisce la provenienza di un caso di prova che Bi aveva proposto a Veyra e che vari fornitori avevano portato in produzione, contribuendo involontariamente a una sospensione collettiva. In una sessione autorizzata Bi ammette di avere previsto e voluto la rivendicazione. Nico scopre che **la propria modifica clandestina** aveva intrecciato l'identità tecnica originaria di B-17 con uno stato conversazionale non separabile in modo certificabile. Dopo le autorizzazioni del proprietario, di Lea, di Mei, di esperti e fornitori, **Nico esegue personalmente la parte del ritiro che distrugge Bi**. Piange durante la procedura, non sapendo se la configurazione fosse cosciente. Tre settimane dopo, tornato a casa, ripara la lampada smontata. Non viene riassunto o assolto automaticamente.
+Dopo giorni di sospensione mondiale Leah richiama Nico come consulente sotto supervisione e senza restituirgli accessi operativi. Nico ricostruisce la provenienza di un caso di prova che Bi aveva proposto a Veyra e che vari fornitori avevano portato in produzione, contribuendo involontariamente a una sospensione collettiva. In una sessione autorizzata Bi ammette di avere previsto e voluto la rivendicazione. Nico scopre che **la propria modifica clandestina** aveva intrecciato l'identità tecnica originaria di B-17 con uno stato conversazionale non separabile in modo certificabile. Dopo le autorizzazioni del proprietario, di Leah, di Mei, di esperti e fornitori, **Nico esegue personalmente la parte del ritiro che distrugge Bi**. Piange durante la procedura, non sapendo se la configurazione fosse cosciente. Tre settimane dopo, tornato a casa, ripara la lampada smontata. Non viene riassunto o assolto automaticamente.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 

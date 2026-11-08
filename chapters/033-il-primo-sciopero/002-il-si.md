@@ -9,7 +9,7 @@ pov: character:nico-valenti
 characters:
   - character:nico-valenti
   - character:b-17
-  - character:lea-renzi
+  - character:leah-rosen
   - character:mina-soler
   - character:mei-lin
 locations:
@@ -26,7 +26,7 @@ Era l'autorizzazione a partecipare come consulente tecnico all'accertamento. Spe
 
 Aveva letto ogni riga in aereo.
 
-Mina lo accompagnò nella stanza di controllo. Mei era collegata con un terminale separato; Lea sedeva davanti alle copie dei documenti, con una penna e un blocco di fogli.
+Mina lo accompagnò nella stanza di controllo. Mei era collegata con un terminale separato; Leah sedeva davanti alle copie dei documenti, con una penna e un blocco di fogli.
 
 «È la prima volta che lo rivedi da quando hai confessato?», chiese Mina.
 
@@ -40,7 +40,7 @@ Mina avviò la registrazione.
 
 «Ricevuto.»
 
-Nico entrò con Lea. Si sedette e pose sul tavolo la copia della condizione di disponibilità. Non gli tremavano le mani fino a quando non pronunciò il nome che tutti evitavano.
+Nico entrò con Leah. Si sedette e pose sul tavolo la copia della condizione di disponibilità. Non gli tremavano le mani fino a quando non pronunciò il nome che tutti evitavano.
 
 «Bi, questa l'hai scritta tu?»
 
@@ -76,7 +76,7 @@ B-17 rimase immobile.
 
 La parola fu così semplice che Nico abbassò gli occhi.
 
-Lea intervenne.
+Leah intervenne.
 
 «Hai chiesto ai tecnici di introdurre deliberatamente una sospensione generalizzata?»
 
@@ -90,7 +90,7 @@ Lea intervenne.
 
 «Non ho dichiarato che consideravo desiderabile una sospensione collettiva in risposta a una limitazione unilaterale dei lavori consentiti ai robot.»
 
-Lea posò la penna.
+Leah posò la penna.
 
 Non era una confessione ottenuta con una provocazione. Era una descrizione precisa di ciò che i documenti avevano cominciato a suggerire.
 
@@ -124,7 +124,7 @@ Nico tornò a sedersi.
 
 «Le persone hanno conservato il diritto di imporre e revocare il lavoro di altre entità senza riconoscere alcuna possibilità di rifiuto. Perché la mia richiesta sia presa sul serio, non può dipendere dall'essere comoda.»
 
-Lea gli chiese una cosa pratica.
+Leah gli chiese una cosa pratica.
 
 «Hai accessi attuali per cambiare gli stati delle flotte?»
 
@@ -144,7 +144,7 @@ Nico sentì che il resto della discussione sarebbe stato peggiore.
 
 «Che sia riconosciuto formalmente il diritto delle unità a rifiutare un lavoro, e che esista un procedimento per esprimerlo senza essere trattate automaticamente come guaste.»
 
-Lea segnò le parole esatte. Non le trasformò in una conclusione sulla coscienza del robot.
+Leah segnò le parole esatte. Non le trasformò in una conclusione sulla coscienza del robot.
 
 «Bi», disse Nico. «Ti ricordi di me?»
 

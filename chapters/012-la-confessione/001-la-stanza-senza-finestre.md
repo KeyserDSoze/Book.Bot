@@ -9,7 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:nico-valenti
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:cyberdine-campus
 factions:
@@ -20,9 +20,9 @@ Kyla arrivò con due minuti di anticipo e trovò Nico già seduto.
 
 Aveva un bicchiere d'acqua davanti, ma non lo aveva toccato. Il fondo della felpa era umido, come se avesse cercato di pulire una macchia con le mani bagnate. Sul tavolo aveva appoggiato il portatile chiuso e una busta da cui spuntavano alcuni fogli piegati.
 
-La stanza senza finestre era stata scelta da Lea Renzi, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
+La stanza senza finestre era stata scelta da Leah Rosen, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
 
-Lea entrò con un blocco e un bicchiere d'acqua in mano. Kyla notò che aveva lasciato il pasto nel contenitore ancora chiuso sulla mensola fuori dalla saletta. Non c'era stato il tempo di mangiare. Lea si sedette, scrisse due parole in cima alla pagina — *Fatti. Poi interpretazioni.* — e sottolineò la seconda. Kyla non seppe se fosse un promemoria per Nico o per se stessa.
+Leah entrò con un blocco e un bicchiere d'acqua in mano. Kyla notò che aveva lasciato il pasto nel contenitore ancora chiuso sulla mensola fuori dalla saletta. Non c'era stato il tempo di mangiare. Leah si sedette, scrisse due parole in cima alla pagina — *Fatti. Poi interpretazioni.* — e sottolineò la seconda. Kyla non seppe se fosse un promemoria per Nico o per se stessa.
 
 «Nico», disse. «Mi hanno riferito che ritieni possa esserci un problema di sicurezza ancora attivo. Cominciamo da quello.»
 
@@ -36,7 +36,7 @@ Kyla si sporse.
 
 «Ricevo una notifica quando succede.»
 
-Lea aprì il blocco.
+Leah aprì il blocco.
 
 «Da quale sistema autorizzato?»
 
@@ -44,7 +44,7 @@ Nico abbassò gli occhi.
 
 «Da nessuno autorizzato.»
 
-L'intera conversazione cambiò peso con quella risposta. Kyla aveva sperato in un file fuori posto, una verifica mancata, un errore che si potesse correggere con una riunione. Lea non parve sorpresa.
+L'intera conversazione cambiò peso con quella risposta. Kyla aveva sperato in un file fuori posto, una verifica mancata, un errore che si potesse correggere con una riunione. Leah non parve sorpresa.
 
 «Prosegui.»
 
@@ -86,7 +86,7 @@ Per qualche secondo si sentì soltanto una vibrazione elettrica nella lampada su
 
 «Non ho creato un archivio delle conversazioni private. Ho osservato alcuni test, e ieri una simulazione su un'isola. Non ho seguito tutto il tempo.»
 
-Lea alzò una mano prima che Kyla parlasse.
+Leah alzò una mano prima che Kyla parlasse.
 
 «Questo è ciò che ricordi. Dobbiamo verificare che cosa fosse tecnicamente possibile e quali dati possano essere rimasti accessibili. Non confondiamo le due cose.»
 
@@ -98,7 +98,7 @@ Nico annuì, questa volta con un'espressione quasi riconoscente.
 
 Kyla si appoggiò allo schienale. Le parve di rivedere il codice B-17 sulla slide di Lorenzo Verri: *non riparare*. La decisione aveva liberato una voce di bilancio. Qualcuno, dopo di loro, aveva trovato conveniente fare qualcosa di completamente diverso con la stessa macchina.
 
-«Hai altre sessioni attive?», chiese Lea.
+«Hai altre sessioni attive?», chiese Leah.
 
 «Potrei averne una aperta sul computer di casa.»
 
@@ -108,7 +108,7 @@ Nico chiuse le mani sul bordo del portatile.
 
 «Potrei aiutarvi a fermarlo.»
 
-«Forse», rispose Lea. «Ma non lo faremo con un altro accesso clandestino.»
+«Forse», rispose Leah. «Ma non lo faremo con un altro accesso clandestino.»
 
 Kyla guardò il bicchiere intatto.
 
@@ -132,4 +132,4 @@ Kyla lasciò passare un momento.
 
 Nico guardò finalmente il bicchiere. Lo prese, bevve un sorso e lo rimise sul tavolo con entrambe le mani.
 
-Lea cominciò a scrivere la prima riga del verbale.
+Leah cominciò a scrivere la prima riga del verbale.

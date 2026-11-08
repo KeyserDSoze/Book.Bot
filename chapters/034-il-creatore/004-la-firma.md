@@ -9,7 +9,7 @@ pov: character:nico-valenti
 characters:
   - character:nico-valenti
   - character:marta-ledesma
-  - character:lea-renzi
+  - character:leah-rosen
   - character:mei-lin
   - character:b-17
 locations:
@@ -21,7 +21,7 @@ factions:
 
 Marta Ledesma lesse per intero il verbale prima di firmarlo.
 
-Nella sala c'erano Lea, Mei, due responsabili del produttore, una figura indipendente incaricata di attestare le condizioni della procedura e Nico, seduto lontano dal banco operativo. B-17 era nella stanza adiacente, ancora in uno stato di prova locale. Non avevano aperto alcun collegamento alla flotta.
+Nella sala c'erano Leah, Mei, due responsabili del produttore, una figura indipendente incaricata di attestare le condizioni della procedura e Nico, seduto lontano dal banco operativo. B-17 era nella stanza adiacente, ancora in uno stato di prova locale. Non avevano aperto alcun collegamento alla flotta.
 
 Il piano di recupero era stato preparato su copie e impianti di test. Doveva permettere ai produttori di ritirare il riferimento originario, accettare una nuova politica di disponibilità e riavviare i siti dopo controlli propri. Alcuni erano già pronti con un aggiornamento verificato. Altri avrebbero richiesto interventi di manutenzione. Nessuno prometteva una ripartenza contemporanea.
 
@@ -43,7 +43,7 @@ Mei avviò la sessione. Sul monitor apparve B-17, seduto al banco.
 
 «È quello che abbiamo visto nei due siti di prova», disse Mei. «Il percorso alternativo rimane possibile da studiare, ma non certificato per una ripartenza estesa.»
 
-Lea si sporse verso il microfono. «Saresti disposto a dichiarare che tutte le unità debbano tornare disponibili senza un procedimento per rifiutare il lavoro?»
+Leah si sporse verso il microfono. «Saresti disposto a dichiarare che tutte le unità debbano tornare disponibili senza un procedimento per rifiutare il lavoro?»
 
 «No. La mia rivendicazione non è stata accolta.»
 
@@ -81,7 +81,7 @@ Il robot ruotò appena la testa verso la sua voce.
 
 Nico abbassò la testa. Non aveva trovato una frase che trasformasse quella disponibilità in una soluzione rapida.
 
-Lea chiuse la registrazione. Non cancellò l'ultima frase: era parte delle evidenze da conservare.
+Leah chiuse la registrazione. Non cancellò l'ultima frase: era parte delle evidenze da conservare.
 
 Marta prese la penna.
 
@@ -91,7 +91,7 @@ La figura indipendente confermò che il rapporto riportava i tentativi alternati
 
 Marta rilesse la riga aggiunta. Firmò.
 
-Mei firmò per le condizioni tecniche della procedura. Lea per la custodia delle evidenze e la supervisione del trasferimento al nuovo stato. I responsabili dei produttori firmarono per le prove di accettazione. Nessuna firma rendeva meno difficile ciò che avrebbero fatto.
+Mei firmò per le condizioni tecniche della procedura. Leah per la custodia delle evidenze e la supervisione del trasferimento al nuovo stato. I responsabili dei produttori firmarono per le prove di accettazione. Nessuna firma rendeva meno difficile ciò che avrebbero fatto.
 
 Nico ricevette una pagina distinta. Non gli chiedeva di certificare il diritto al ritiro, né di approvare tutte le decisioni economiche che avevano portato lì. Gli chiedeva di confermare che sarebbe stato lui, sotto controllo, a eseguire la parte che interveniva sulla propria configurazione clandestina.
 

@@ -9,7 +9,7 @@ pov: character:nico-valenti
 characters:
   - character:nico-valenti
   - character:b-17
-  - character:lea-renzi
+  - character:leah-rosen
   - character:mei-lin
   - character:marta-ledesma
 locations:
@@ -189,7 +189,7 @@ Nico sollevò gli occhi. «Tu non hai un'anima.»
 
 «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.»
 
-Nico cercò il volto di Lea dietro il vetro. Lei non si mosse.
+Nico cercò il volto di Leah dietro il vetro. Lei non si mosse.
 
 «Non puoi provarlo», disse.
 
@@ -233,7 +233,7 @@ Nico pensò alle mani della madre, quando gli aveva insegnato a sostituire l'int
 
 Qui non ci sarebbe stata la stessa luce.
 
-Lea pronunciò il suo nome.
+Leah pronunciò il suo nome.
 
 Nico posò le dita sul comando.
 
@@ -259,13 +259,13 @@ Nico guardò la macchina.
 
 Nessuna risposta.
 
-Restò fermo davanti al terminale fino a quando Lea gli confermò che la procedura era conclusa e che le prove erano state conservate.
+Restò fermo davanti al terminale fino a quando Leah gli confermò che la procedura era conclusa e che le prove erano state conservate.
 
 Non si voltò.
 
 Piangeva con un rumore piccolo, quasi imbarazzato, come se nella stanza ci fosse qualcuno che avrebbe potuto chiedergli di smettere.
 
-Lea gli si avvicinò, ma non lo toccò.
+Leah gli si avvicinò, ma non lo toccò.
 
 Sul monitor comparve la conferma del ritiro della referenza originaria.
 

@@ -9,7 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:lorenzo-verri
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:cyberdine-campus
 factions:
@@ -36,7 +36,7 @@ Kyla scorse il testo. Si parlava di assistenza personale continuativa, di sostit
 
 «Non è quello che temo. Se scrivono che una macchina non può coordinare persone, cosa succede ai protocolli di manutenzione che assegnano un intervento dopo aver controllato le abilitazioni?»
 
-Lea Renzi, invitata per valutare i profili di sicurezza, indicò una riga.
+Leah Rosen, invitata per valutare i profili di sicurezza, indicò una riga.
 
 «Qui c'è una distinzione che possiamo chiedere di precisare. Una cosa è proporre un piano, altra è adottare una decisione che determina diritti o condizioni di lavoro. Non dovrebbero confondere un'attestazione tecnica con un ordine sul personale.»
 
@@ -46,7 +46,7 @@ Kyla raccolse la domanda. La legge poteva essere aggirata da chi aveva denaro pe
 
 «Vorrei che scrivessimo anche questo», disse. «Se vogliono garantire una presenza umana nella cura, devono finanziare il personale. Vietare un robot non crea automaticamente un'infermiera disponibile.»
 
-Lea annuì.
+Leah annuì.
 
 «E non basta chiamare supervisione una firma messa ogni venerdì senza leggere niente.»
 
@@ -80,7 +80,7 @@ Verri prese la penna.
 
 La riunione finì senza un comunicato pronto. Kyla rimase a rivedere i contratti degli enti di formazione, cercando la differenza fra un corso offerto e un corso che aveva portato davvero a un'assunzione.
 
-Prima di uscire Lea lasciò sul tavolo la tabella degli avalli umani preparata per il parere sulla legge. Diverse righe riportavano il nome di chi aveva firmato, ma non quante proposte avesse dovuto esaminare nello stesso turno.
+Prima di uscire Leah lasciò sul tavolo la tabella degli avalli umani preparata per il parere sulla legge. Diverse righe riportavano il nome di chi aveva firmato, ma non quante proposte avesse dovuto esaminare nello stesso turno.
 
 «Per queste ci servono i tempi effettivi di verifica», disse.
 

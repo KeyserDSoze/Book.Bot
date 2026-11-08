@@ -27,7 +27,7 @@ Non confondere sospensione cautelativa con smantellamento, reset definitivo o mo
 
 ## Review della responsabilità (terza passata)
 
-In 003 Nico domanda se B-17 sarà informato della possibilità che il ripristino cancelli una parte della sua configurazione e dei suoi ricordi. Lea risponde nel quadro delle sessioni autorizzate: l'ascolto non sostituisce collaudi, consenso giuridico o decisione tecnica. Nico non ha accesso diretto alla macchina.
+In 003 Nico domanda se B-17 sarà informato della possibilità che il ripristino cancelli una parte della sua configurazione e dei suoi ricordi. Leah risponde nel quadro delle sessioni autorizzate: l'ascolto non sostituisce collaudi, consenso giuridico o decisione tecnica. Nico non ha accesso diretto alla macchina.
 
 
 ## Quarta review: documentare ciò che non si sa

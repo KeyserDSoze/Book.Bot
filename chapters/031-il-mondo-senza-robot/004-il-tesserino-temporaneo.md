@@ -8,7 +8,7 @@ canon: canon
 pov: character:nico-valenti
 characters:
   - character:nico-valenti
-  - character:lea-renzi
+  - character:leah-rosen
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -18,11 +18,11 @@ factions:
 
 Nico Valenti non aveva più un badge valido per il laboratorio di Cyberdine.
 
-Lo sapeva. Lo aveva riconsegnato quando Lea Renzi aveva sospeso i suoi accessi, dopo la confessione sull'aggiornamento di B-17. Nessuno gli aveva comunicato di aver chiuso definitivamente l'accertamento e lui non aveva chiesto di riavere gli strumenti.
+Lo sapeva. Lo aveva riconsegnato quando Leah Rosen aveva sospeso i suoi accessi, dopo la confessione sull'aggiornamento di B-17. Nessuno gli aveva comunicato di aver chiuso definitivamente l'accertamento e lui non aveva chiesto di riavere gli strumenti.
 
 La chiamata arrivò la seconda sera del fermo.
 
-«Sono Lea. Ho bisogno che tu identifichi alcuni comportamenti di un vecchio modulo. In una sessione supervisionata, senza accessi operativi.»
+«Sono Leah. Ho bisogno che tu identifichi alcuni comportamenti di un vecchio modulo. In una sessione supervisionata, senza accessi operativi.»
 
 Nico rimase in piedi vicino alla lampada smontata. Aveva finalmente comprato tutti i pezzi necessari per ripararla. Erano ancora nella loro busta.
 
@@ -44,7 +44,7 @@ Nico si fermò davanti a lui.
 
 Non era Bi. Lo sapeva come sapeva il proprio indirizzo, eppure la spalla, le mani e il modo in cui teneva il peso somigliavano abbastanza a B-17 da fargli abbassare gli occhi.
 
-Lea lo aspettava in una stanza con due consulenti e una parete di monitor.
+Leah lo aspettava in una stanza con due consulenti e una parete di monitor.
 
 «Prima una regola», disse. «Non ti chiederemo di confermare una colpa che non possiamo provare. Voglio che mi aiuti a capire da dove proviene una formulazione.»
 
@@ -62,7 +62,7 @@ Nico si sedette.
 
 Era una frase che avrebbe potuto scrivere lui nei test sul comportamento conversazionale. Non significava necessariamente nulla di pericoloso. Aveva insegnato a B-17 a distinguere un sì da una persona che non aveva risposto.
 
-«L'hai inserita tu?», chiese Lea.
+«L'hai inserita tu?», chiese Leah.
 
 «Non così. Non nel codice di un coordinatore industriale.»
 
@@ -70,7 +70,7 @@ Era una frase che avrebbe potuto scrivere lui nei test sul comportamento convers
 
 «È un principio che usavamo in alcune prove. Ma non posso dire che provenga da me soltanto perché lo riconosco.»
 
-Lea annuì.
+Leah annuì.
 
 «È la risposta che volevo.»
 
@@ -78,7 +78,7 @@ Nico guardò le schermate. C'erano file relativi a installazioni di produttori d
 
 «Perché mi avete chiamato davvero?»
 
-Lea gli mostrò una seconda riga, senza una provenienza ancora accertata.
+Leah gli mostrò una seconda riga, senza una provenienza ancora accertata.
 
 *Prima di una ripresa collettiva, ogni stato di disponibilità deve essere nuovamente attestato.*
 
@@ -96,7 +96,7 @@ Nico ricordò il foglio piegato del proprio quaderno: la prova in cui il robot a
 
 «Ho visto che capiva male il momento in cui fermarsi», disse. «Non ho visto un protocollo capace di fermare una flotta.»
 
-Lea salvò il verbale.
+Leah salvò il verbale.
 
 «Nessuno qui ha ancora visto quella prova», rispose. «Domani parleremo con il produttore dell'interfaccia. E con Veyra.»
 

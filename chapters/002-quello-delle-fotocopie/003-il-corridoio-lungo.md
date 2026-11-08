@@ -5,10 +5,10 @@ chapter: chapter:002-quello-delle-fotocopie
 number: 3
 title: Il corridoio lungo
 canon: canon
-pov: character:mila-corsi
+pov: character:mila-novak
 characters:
-  - character:mila-corsi
-  - character:elena-riva
+  - character:mila-novak
+  - character:elena-fischer
   - character:paolo-ferri
   - character:b-17
   - character:mauro-lanza
@@ -21,7 +21,7 @@ factions:
 
 Il problema delle tre fotocopie era che arrivarono in orario.
 
-Mila Corsi se ne rese conto quando aprì il fascicolo sulla propria scrivania. La copia era leggibile, il codice del cliente coincideva, la firma era stata verificata. Mancava soltanto una corrispondenza con il vecchio sistema delle revisioni.
+Mila Novak se ne rese conto quando aprì il fascicolo sulla propria scrivania. La copia era leggibile, il codice del cliente coincideva, la firma era stata verificata. Mancava soltanto una corrispondenza con il vecchio sistema delle revisioni.
 
 Se le copie fossero arrivate in ritardo, avrebbe chiesto di rinviare il confronto e nessuno avrebbe discusso. Invece erano lì, e bisognava capire quale dei due registri avesse ragione.
 

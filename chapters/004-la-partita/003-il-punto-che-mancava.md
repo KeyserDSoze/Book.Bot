@@ -11,7 +11,7 @@ characters:
   - character:b-17
   - character:dario-sarti
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
 locations:
   - location:spazio-comune
   - location:cyberdine-campus

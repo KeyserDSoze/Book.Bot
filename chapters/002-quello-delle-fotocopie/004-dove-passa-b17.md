@@ -8,9 +8,9 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:elena-riva
+  - character:elena-fischer
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:b-17
   - character:nico-valenti
 locations:

@@ -1,11 +1,11 @@
 ---
 type: character
-id: character:mila-corsi
-name: Mila Corsi
+id: character:mila-novak
+name: Mila Novak
 canon: canon
 ---
 
-# Mila Corsi
+# Mila Novak
 
 Segue i processi operativi e gli interventi di miglioramento dei flussi. Osservatrice, sarcastica senza cattiveria; nota subito quando una mansione semplice nasconde una dipendenza costosa. Usa la pausa caffè per raccogliere il polso dell'ufficio. 
 
@@ -35,3 +35,7 @@ Nel capitolo 2 Mila reclama la propria pausa e il diritto di mangiare le lasagne
 ## Revisione v0.32.0 — Cyberdine software house
 
 Mila coordina processi e miglioramenti operativi in una software house, non in un'impresa industriale misteriosa. Nel cap. 2 assegna a B-17 una commissione dopo la sua riassegnazione dal giardino. La sua ironia sulle fotocopie accompagna una trasformazione che all'inizio sembra soltanto organizzativa. Più avanti osserva che gli stessi sviluppatori cominciano a discutere di istruzioni e rilasci anziché delle funzioni che un tempo scrivevano.
+
+## Origini e relazioni
+
+Mila è croata, cresciuta a Zagabria, e lavora in Italia da diversi anni. Il suo sarcasmo non deriva dalle origini: è un modo personale di difendersi da richieste continue. Tiene legami con familiari e amici rimasti in Croazia, con cui qualche volta fatica a trovare tempo per parlare; non va trasformata in una figura folcloristica o in una portavoce nazionale.

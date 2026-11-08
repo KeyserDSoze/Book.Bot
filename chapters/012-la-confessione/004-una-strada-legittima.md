@@ -8,7 +8,7 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lea-renzi
+  - character:leah-rosen
   - character:lorenzo-verri
   - character:paolo-ferri
   - character:nerea-dalmasso
@@ -24,7 +24,7 @@ La prima fece domande sui costi: come era potuta passare una modifica non autori
 
 «Potremmo chiedere di riavere il robot?», domandò alla fine.
 
-Lea Renzi sollevò gli occhi.
+Leah Rosen sollevò gli occhi.
 
 «Possiamo chiedere un contatto formale con chi lo possiede. Non possiamo pretendere che ci venga restituito soltanto perché un nostro dipendente ha violato le regole.»
 

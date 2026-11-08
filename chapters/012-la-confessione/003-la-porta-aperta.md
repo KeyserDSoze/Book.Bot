@@ -10,7 +10,7 @@ characters:
   - character:nerea-dalmasso
   - character:kyla
   - character:nico-valenti
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:cyberdine-campus
 factions:
@@ -19,7 +19,7 @@ factions:
 
 Nerea capì di essere arrabbiata quando smise di sentire il rumore del condizionatore.
 
-Kyla le aveva chiesto di raggiungerla in una saletta riservata. Con lei c'era Lea Renzi, che Nerea conosceva per le comunicazioni sui dati personali. La porta era chiusa, ma nessuno sedeva davanti a lei come durante un interrogatorio. Le offrirono acqua; la rifiutò.
+Kyla le aveva chiesto di raggiungerla in una saletta riservata. Con lei c'era Leah Rosen, che Nerea conosceva per le comunicazioni sui dati personali. La porta era chiusa, ma nessuno sedeva davanti a lei come durante un interrogatorio. Le offrirono acqua; la rifiutò.
 
 «Riguarda Bi?», chiese subito.
 
@@ -41,11 +41,11 @@ Kyla nominò Nico Valenti.
 
 «Voglio vederlo.»
 
-Lea non le fece subito una domanda sul perché.
+Leah non le fece subito una domanda sul perché.
 
-Lea non chiamò Nico seduta stante. Spiegò a Nerea che poteva incontrarlo soltanto se lo desiderava, con una persona presente, e che non era tenuta a rispondere alle sue domande né a chiarirgli ciò che aveva confidato a Bi. Nerea chiese un giorno per pensarci.
+Leah non chiamò Nico seduta stante. Spiegò a Nerea che poteva incontrarlo soltanto se lo desiderava, con una persona presente, e che non era tenuta a rispondere alle sue domande né a chiarirgli ciò che aveva confidato a Bi. Nerea chiese un giorno per pensarci.
 
-Il mattino seguente tornò nella stessa saletta. Non aveva preparato un discorso; aveva scritto tre domande sul retro di un foglio che tenne piegato in tasca. Kyla e Lea erano lì. Quando Nerea confermò di voler proseguire, Nico entrò. Aveva un'aria stanca, le mani troppo pulite per il resto dei vestiti e una piccola ferita rimarginata vicino all'unghia del pollice. Nerea lo aveva già incontrato in ascensore senza memorizzarne il volto.
+Il mattino seguente tornò nella stessa saletta. Non aveva preparato un discorso; aveva scritto tre domande sul retro di un foglio che tenne piegato in tasca. Kyla e Leah erano lì. Quando Nerea confermò di voler proseguire, Nico entrò. Aveva un'aria stanca, le mani troppo pulite per il resto dei vestiti e una piccola ferita rimarginata vicino all'unghia del pollice. Nerea lo aveva già incontrato in ascensore senza memorizzarne il volto.
 
 «Tu mi hai vista?», chiese.
 
@@ -103,7 +103,7 @@ Nico annuì.
 
 «Lo so che ti dispiace. Non mi serve che tu lo dica prima di capire che cosa hai fatto.»
 
-Lea intervenne per chiarire che stavano verificando quali dati fossero effettivamente accessibili o conservati. Non potevano garantire un'assenza di esposizione. Nerea apprezzò la precisione, ma fu una precisione che non la fece stare meglio.
+Leah intervenne per chiarire che stavano verificando quali dati fossero effettivamente accessibili o conservati. Non potevano garantire un'assenza di esposizione. Nerea apprezzò la precisione, ma fu una precisione che non la fece stare meglio.
 
 Rimase zitta per un po'. Poi chiese a Nico come stesse il robot.
 

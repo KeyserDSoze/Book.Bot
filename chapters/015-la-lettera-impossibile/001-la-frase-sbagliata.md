@@ -10,7 +10,7 @@ characters:
   - character:nerea-dalmasso
   - character:b-21
   - character:paolo-ferri
-  - character:lea-renzi
+  - character:leah-rosen
 locations:
   - location:spazio-comune
   - location:cyberdine-campus
@@ -82,17 +82,17 @@ Nerea voltò il foglio: sul retro c'erano soltanto i codici di verifica e il log
 
 «Non tocchiamo più niente», disse Paolo.
 
-«Chiamiamo Lea.»
+«Chiamiamo Leah.»
 
 Nerea prese il telefono. Si accorse di avere una mano tremante e la strinse intorno al foglio piegato. Poi cambiò idea: lo rimise sul tavolo, lontano dalle altre carte.
 
-Lea arrivò prima che cominciasse la lezione. Chiese di non distruggere il foglio, di non inoltrarlo e di non condividere fotografie. Parlò con la collega presente, verificò che cosa fosse stato stampato e fece mettere da parte la coda di lavoro per gli accertamenti, con una procedura tracciata.
+Leah arrivò prima che cominciasse la lezione. Chiese di non distruggere il foglio, di non inoltrarlo e di non condividere fotografie. Parlò con la collega presente, verificò che cosa fosse stato stampato e fece mettere da parte la coda di lavoro per gli accertamenti, con una procedura tracciata.
 
 Nerea le indicò la riga.
 
 «Questa l'ho scritta io», disse Nerea. «Non doveva arrivare qui.»
 
-Lea lesse il documento senza commentare il contenuto personale.
+Leah lesse il documento senza commentare il contenuto personale.
 
 «Hai ragione», disse. «E non voglio darti una spiegazione prima di sapere da dove arriva.»
 

@@ -8,9 +8,9 @@ canon: canon
 pov: character:paolo-ferri
 characters:
   - character:paolo-ferri
-  - character:mila-corsi
+  - character:mila-novak
   - character:kyla
-  - character:elena-riva
+  - character:elena-fischer
 locations:
   - location:cyberdine-campus
   - location:spazio-comune

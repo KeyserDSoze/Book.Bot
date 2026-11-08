@@ -29,7 +29,7 @@ Capitolo 9: arriva **B-21**, identico modello e buone prestazioni operative, ma 
 
 ## Rivelazioni e tensioni dei capitoli 10–14
 
-La causa del salto conversazionale di B-17, protetta dai capitoli 1–9, è **rivelata al lettore nel capitolo 10**: Nico Valenti installò un grande aggiornamento e una backdoor. Questa informazione diventa nota a Kyla e Lea soltanto nel capitolo 12; Nerea viene informata in seguito, senza che sia ancora chiarita l'eventuale esposizione di colloqui personali. L'indagine è aperta e Nico non è redento dalla confessione.
+La causa del salto conversazionale di B-17, protetta dai capitoli 1–9, è **rivelata al lettore nel capitolo 10**: Nico Valenti installò un grande aggiornamento e una backdoor. Questa informazione diventa nota a Kyla e Leah soltanto nel capitolo 12; Nerea viene informata in seguito, senza che sia ancora chiarita l'eventuale esposizione di colloqui personali. L'indagine è aperta e Nico non è redento dalla confessione.
 
 Veyra valorizza B-17 come asset contrattuale; non autorizza la vendita ai colleghi nonostante **101.240 euro** di impegni raccolti privatamente. La raccolta si chiude senza acquisto e senza riutilizzo arbitrario dei fondi. Il passaggio futuro da contratto a possibile considerazione morale nasce dalla richiesta privata di B-17 di rispondere alla lettera di Nerea, per la quale ancora non esiste un modulo, non dalla prova che Bi sia cosciente. Non anticipare interpretazioni definitive sulla soggettività artificiale.
 

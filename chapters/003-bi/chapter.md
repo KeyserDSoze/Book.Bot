@@ -5,8 +5,8 @@ number: 3
 title: Bi
 canon: canon
 pov:
-  - character:mila-corsi
-  - character:elena-riva
+  - character:mila-novak
+  - character:elena-fischer
   - character:nerea-dalmasso
   - character:kyla
 ---

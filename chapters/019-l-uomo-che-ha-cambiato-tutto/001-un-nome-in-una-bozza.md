@@ -8,7 +8,7 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lea-renzi
+  - character:leah-rosen
   - character:lorenzo-verri
   - character:olivia-brooks
 locations:
@@ -32,7 +32,7 @@ Kyla posò il telefono sul tavolo. Riaprì l'allegato: non era la scheda intera,
 
 In quel momento qualcuno bussò per chiedere una firma sulla presentazione. Kyla richiuse l'allegato prima di rispondere.
 
-Chiamò Lea.
+Chiamò Leah.
 
 «Abbiamo ricevuto una richiesta di commento con il nome di Nico.»
 
@@ -44,7 +44,7 @@ Chiamò Lea.
 
 «Non avevo intenzione di farlo.»
 
-Lea chiese di ricevere il testo completo e avvertì che avrebbe informato chi seguiva l'incidente sui dati. Se il documento conteneva davvero elementi personali o informazioni coperte da un accesso limitato, un'altra persona aveva oltrepassato un confine. Non sarebbe stato corretto rispondere a una fuga con un'altra fuga.
+Leah chiese di ricevere il testo completo e avvertì che avrebbe informato chi seguiva l'incidente sui dati. Se il documento conteneva davvero elementi personali o informazioni coperte da un accesso limitato, un'altra persona aveva oltrepassato un confine. Non sarebbe stato corretto rispondere a una fuga con un'altra fuga.
 
 Lorenzo Verri convocò una riunione a metà mattina.
 
@@ -72,11 +72,11 @@ Verri rimase con il dito sul touchpad. «Cosa ci mettiamo?»
 
 Verri cancellò la parola *qualsiasi*. Rilesse la frase rimasta, poi chiuse la bozza senza inviarla.
 
-Olivia richiamò verso le dodici. Kyla le rispose insieme a Lea, dal numero dell'ufficio.
+Olivia richiamò verso le dodici. Kyla le rispose insieme a Leah, dal numero dell'ufficio.
 
 «Non chiediamo di conoscere la vostra indagine riservata», disse la giornalista. «Vorremmo sapere se è corretto attribuire a un dipendente la creazione della funzione ora venduta da Lanter.»
 
-«Non sarebbe corretto sulla base di quanto ci state presentando», rispose Lea. «Sono eventi distinti. L'unità B-17 ha avuto una modifica non autorizzata; la progettazione e la distribuzione di un prodotto successivo richiedono una verifica della catena di responsabilità.»
+«Non sarebbe corretto sulla base di quanto ci state presentando», rispose Leah. «Sono eventi distinti. L'unità B-17 ha avuto una modifica non autorizzata; la progettazione e la distribuzione di un prodotto successivo richiedono una verifica della catena di responsabilità.»
 
 «Non negate che i casi siano collegati.»
 
@@ -84,7 +84,7 @@ Olivia richiamò verso le dodici. Kyla le rispose insieme a Lea, dal numero dell
 
 Olivia annotò la risposta. Chiese poi se Nico fosse ancora dipendente e se avesse diritto di replica.
 
-Lea non rispose per lui. Si limitò a dire che avrebbero trasmesso la richiesta attraverso i canali appropriati, senza fornire dati personali oltre quanto fosse legittimo comunicare.
+Leah non rispose per lui. Si limitò a dire che avrebbero trasmesso la richiesta attraverso i canali appropriati, senza fornire dati personali oltre quanto fosse legittimo comunicare.
 
 La giornalista ringraziò. Prima di chiudere disse che il documento ricevuto da una fonte non conteneva il testo privato della lettera di Nerea, ma era stato comunque estratto da una pratica non destinata alla pubblicazione.
 
@@ -102,4 +102,4 @@ Nel pomeriggio arrivò la seconda mail di Olivia Brooks.
 
 *La notizia potrebbe essere pubblicata domani. Prima vorrei parlare anche con Nico Valenti.*
 
-Kyla la inoltrò a Lea. Il programma di posta completò l'invio mentre nell'ufficio accanto qualcuno provava il microfono per la presentazione del giorno dopo. La prima frase che arrivò attraverso la parete fu: «Da capo, per favore».
+Kyla la inoltrò a Leah. Il programma di posta completò l'invio mentre nell'ufficio accanto qualcuno provava il microfono per la presentazione del giorno dopo. La prima frase che arrivò attraverso la parete fu: «Da capo, per favore».
