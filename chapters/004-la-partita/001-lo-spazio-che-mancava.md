@@ -38,7 +38,7 @@ La stanza era stata per anni una sala riunioni di riserva. Aveva un condizionato
 
 Emma aveva proposto di farne un luogo per scambiare libri, prestare piccoli attrezzi, organizzare passaggi in automobile e insegnare qualcosa senza trasformare ogni offerta di aiuto in un seminario. Taylor aveva detto di sì con una condizione: i nomi delle persone che chiedevano aiuto non dovevano finire in una graduatoria.
 
-Sarah Chen aveva approvato la scelta. «Non raccogliamo dati che non ci servono per far funzionare la stanza», aveva detto.
+Sarah Chen aveva approvato la scelta. «Non raccogliamo dati che non ci servono per far funzionare la stanza», aveva detto. Aveva disattivato tutte le notifiche non di sicurezza dal proprio telefono e aveva rifiutato l'idea di un'app che assegnasse punti a chi prestava libri. «Se dobbiamo farci premiare per ogni gesto, diventa un altro schermo da controllare.» Emma le aveva risposto che un po' di gioco non avrebbe ucciso nessuno. Sarah aveva sorriso soltanto con la bocca.
 
 Ora il pavimento era pieno di scatole. Paul era alla ricerca di un cacciavite, Emma litigava con uno scaffale e due colleghi cercavano di decidere se ordinare i libri per argomento oppure per dimensione.
 
@@ -52,7 +52,13 @@ La richiesta arrivò mentre un programmatore del reparto integrazioni si affacci
 
 «Lo trovi sotto lo scaffale, probabilmente», rispose Emma.
 
-Paul riemerse, con il cacciavite fra i denti. «Che cosa si è rotto?»
+Paul riemerse, con il cacciavite fra i denti. «CHE COSA SI È ROTTO?»
+
+Il programmatore si portò una mano all'orecchio. «Niente, e non serve gridare.»
+
+Paul tolse il cacciavite dalla bocca. «Non gridavo.»
+
+Emma gli indicò la porta aperta: dall'altra stanza si erano girati tutti.
 
 «Niente. È questo il problema. I test dicono che va tutto bene e il terminale continua a inviare due conferme.»
 
@@ -123,6 +129,8 @@ Taylor guardò l'ora. Erano passati ventidue minuti. Il problema che aveva visto
 L'uomo indicò una vecchia funzione. «Perché tutti, io compreso, abbiamo creduto che il simulatore facesse quello che fa la macchina. Il codice nuovo era quasi giusto. Ci mancava una cosa che non avevamo messo nella prova.»
 
 La seconda patch superò i test. Paul chiese una ripetizione sul banco reale. Il registro non duplicò l'operazione.
+
+Olivia arrivò alla fine del test, chiamata dal responsabile del collaudo. Chiese il numero della prova e chi avrebbe risposto al cliente se il nuovo comportamento avesse rotto una riconciliazione in produzione. Gavin Shaw, collegato per Core Platform, disse che il codice del suo reparto era a posto. Olivia gli fece inoltrare il verbale al supporto prima di chiudere il ticket.
 
 «Adesso possiamo proporla al responsabile del rilascio», disse il programmatore.
 

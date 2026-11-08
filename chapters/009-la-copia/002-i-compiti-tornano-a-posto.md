@@ -16,7 +16,7 @@ factions:
   - faction:cyberdine
 ---
 
-Il primo dossier di B-21 arrivò sulla scrivania di Olivia alle undici e diciassette.
+Il primo dossier di B-21 arrivò sulla scrivania di Olivia alle undici e diciassette. La targa accanto alla porta non era cambiata dopo l'ingresso nel capitale di Cyberdine: *Delivery e qualità del servizio*. Olivia aveva chiesto di lasciarla. Doveva ancora rispondere ai clienti quando una consegna non funzionava.
 
 Era completo. Conteneva l'indice dei documenti, due revisioni a confronto, le fonti originali reperibili e l'elenco dei responsabili a cui chiedere gli avalli. Aveva anche la nuova sezione richiesta da Claire: dove recuperare un originale se il sistema automatico non fosse disponibile.
 

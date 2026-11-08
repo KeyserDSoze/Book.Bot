@@ -21,7 +21,7 @@ La sera prima, l'amica con cui continuava a rimandare il cinema le aveva mandato
 
 Alla fine aveva mandato soltanto: *Hai ragione*. Le era sembrata una frase molto più faticosa delle venti pagine di analisi economica che aveva finito poco dopo mezzanotte.
 
-Taylor entrò nella sala riunioni il martedì successivo con la parte della proposta relativa alle persone. Il piano tecnico era stato preparato dal delivery, discusso con gli architetti dei connettori e sottoposto al controllo di sicurezza; la direzione commerciale aveva stimato il prezzo e il rischio contrattuale. Taylor non era l'architetta né la responsabile della commessa. Era lì perché le conseguenze sui dipendenti non diventassero una nota a piè di pagina.
+Taylor entrò nella sala riunioni il martedì successivo con la parte della proposta relativa alle persone. Il piano tecnico era stato preparato dal delivery coordinato da Olivia Hayes, ormai socia di minoranza e responsabile delle consegne, discusso con gli architetti dei connettori e sottoposto al controllo di sicurezza; la direzione commerciale aveva stimato il prezzo e il rischio contrattuale. Taylor non era l'architetta né la responsabile della commessa. Era lì perché le conseguenze sui dipendenti non diventassero una nota a piè di pagina.
 
 Sul tavolo aveva due dossier.
 
@@ -38,6 +38,10 @@ Il responsabile di commessa indicò il costo del pilota, le ore di collaudo e la
 «E quando rientriamo?»
 
 «Se le prove reggono, con il rinnovo di Aruvhana», rispose il responsabile di commessa. «Il cliente ha chiesto una stima, non una promessa. Se non reggono, avremo speso per un progetto da ridimensionare.»
+
+Olivia intervenne dopo aver controllato la tabella delle dipendenze. «Il margine previsto non tiene conto di tutte le prove di riconnessione fra fornitori. Non dovremmo promettere un risparmio se poi il supporto dovrà inseguire eccezioni mai testate.»
+
+Cole lasciò aperta la riga e chiese di aggiungere il costo della verifica.
 
 Il direttore delle operazioni intervenne.
 

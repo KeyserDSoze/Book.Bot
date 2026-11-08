@@ -10,6 +10,9 @@ characters:
   - character:taylor
   - character:visitors
   - character:b-17
+  - character:olivia-hayes
+  - character:gavin-shaw
+  - character:noah-carter
 locations:
   - location:cyberdine-campus
 factions:
@@ -37,7 +40,7 @@ Dietro il vetro un programmatore di Cyberdine aveva aperte due finestre. A sinis
 
 «Alcune commesse richiedevano mesi e squadre intere. Gli agenti di sviluppo hanno cambiato quel lavoro. Oggi preparano adattatori, test, documentazione tecnica. Questo non significa che la versione pronta sia automaticamente quella giusta.»
 
-Dall'altra parte del vetro il programmatore fermò il cursore su una riga evidenziata. Indicò a una collega il punto sullo schermo; lei scrollò fino a una funzione precedente, poi scosse la testa. Il programmatore respinse la proposta nel repository, allegò il caso mancante e cambiò lo stato del ticket. Una notifica andò al referente qualità della commessa: avrebbero dovuto riprodurlo sul terminale prima di proporre un nuovo rilascio. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
+Dall'altra parte del vetro il programmatore fermò il cursore su una riga evidenziata. Indicò a una collega il punto sullo schermo; lei scrollò fino a una funzione precedente, poi scosse la testa. Il programmatore respinse la proposta nel repository, allegò il caso mancante e cambiò lo stato del ticket. Una notifica andò a Olivia Hayes, responsabile della qualità delle consegne. Olivia attraversò il laboratorio con il referente dell'assistenza al telefono: aveva già chiesto al cliente di conservare la finestra d'installazione per il giorno successivo. Gavin Shaw, manager di Core Platform, sosteneva che il connettore funzionasse secondo specifica. Olivia non gli contestò il codice; gli chiese se avrebbe firmato anche la verifica sul terminale vero. Gavin lasciò il rilascio in sospeso. La prova andava riprodotta prima di proporre una nuova versione. L'agente aveva usato un modo elegante per evitare un controllo duplicato. La funzione più vecchia, però, esisteva proprio perché in certe condizioni un doppio messaggio non doveva essere trattato come una doppia operazione.
 
 «Perché non accettano la proposta?», chiese Leah.
 
@@ -97,4 +100,6 @@ B-17 attraversò il corridoio senza voltarsi. Dietro di lui una porta si chiuse 
 
 Noah, davanti al vecchio varco che stavano ancora riparando, aveva ottenuto finalmente una apertura corretta. Non celebrò. Chiese all'addetto di ripetere l'operazione, questa volta senza il suo intervento.
 
-Taylor lo osservò per un istante prima di seguire gli ospiti.
+«Adesso devi insegnarlo a chi fa il turno domani», disse Noah all'addetto, con un sorriso che non somigliava a un rimprovero. Gli lasciò rifare il passaggio, ascoltò la sua spiegazione e gli indicò una riga di registro che avrebbe permesso di riconoscere lo stesso guasto senza chiamarlo. L'addetto gli diede una pacca sulla spalla.
+
+Taylor lo osservò per un istante prima di seguire gli ospiti. Noah rendeva facili le cose difficili senza far sentire stupido chi le aveva chieste. Era una delle ragioni per cui gli altri sviluppatori lo cercavano anche quando non era di turno.

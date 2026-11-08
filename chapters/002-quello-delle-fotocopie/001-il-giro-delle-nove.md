@@ -49,7 +49,13 @@ Paul Turner era fermo davanti al distributore, in attesa che una bevanda gli res
 
 «Paul ha deciso che il mio frigorifero deve essere ridondante», disse Emma. «Ha spostato le lasagne accanto al ghiaccio.»
 
-«Era il primo spazio libero», protestò Paul.
+«ERA IL PRIMO SPAZIO LIBERO», protestò Paul. La voce fece voltare una collega dalla sala accanto.
+
+«Paul, ti sentiamo anche senza microfono», disse Emma.
+
+«LO SO. NON STO LITIGANDO.»
+
+«È proprio questo che ci preoccupa», rispose Olivia.
 
 «Nel nostro reparto abbiamo software capaci di trovare una dipendenza in tremila file. Paul non trova un ripiano.»
 
@@ -62,6 +68,8 @@ Olivia rise. Attraverso la vetrata vide B-17 avanzare verso l'archivio con un co
 «Una carriera rapida.»
 
 «Una commissione», precisò Olivia. «Non esageriamo.»
+
+Il telefono le vibrò. Il supporto aveva chiesto la stessa fonte originale che un commerciale aveva promesso di consegnare entro pranzo. Olivia indicò al collega dove trovarla, poi scrisse al responsabile sviluppo di non chiudere il rilascio prima che fosse verificata. Non era un incarico del suo piccolo gruppo di documentazione. Se il cliente avesse ricevuto una pratica sbagliata, però, non avrebbe distinto chi aveva chiuso quale ticket.
 
 B-17 rallentò davanti al cestino della carta che ostruiva parte del passaggio. Paul era fermo esattamente sull'altro lato. Il robot misurò lo spazio, trovò il corridoio troppo stretto e attese.
 

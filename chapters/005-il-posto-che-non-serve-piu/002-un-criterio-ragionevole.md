@@ -12,6 +12,7 @@ characters:
   - character:claire-foster
   - character:taylor
   - character:b-17
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions:
@@ -30,7 +31,7 @@ La seconda conteneva due caselle.
 
 Olivia conosceva già il risultato delle prove. Aveva chiesto che si tenesse aperta una possibilità di confronto, e ora se ne pentiva un poco: sarebbe stato più facile contestare una scelta opaca che una scelta preparata con tanta cura.
 
-Entrarono Taylor, Margaret e due responsabili di prodotto. Uno portava una stampa dei risultati di test, l'altro il computer aperto sulla matrice delle autorizzazioni.
+Entrarono Taylor, Margaret e due responsabili di prodotto. Uno portava una stampa dei risultati di test, l'altro il computer aperto sulla matrice delle autorizzazioni. Gavin Shaw, responsabile di Core Platform, arrivò con il grafico dei rilasci del suo gruppo. Era stato invitato perché la riorganizzazione avrebbe cambiato anche chi decideva quando una libreria comune fosse pronta per i clienti.
 
 «Prima di vedere i numeri», disse Margaret, «vorrei sapere chi si occuperà dei casi che nessuno ha pensato di provare.»
 
@@ -84,6 +85,12 @@ La domanda rimase sospesa. Il calendario dei corsi presentato dal reparto HR con
 
 «Aggiungiamo un obbligo di revisione del sorgente sui casi critici», propose Olivia. «E una prova periodica senza agente, in cui il responsabile deve ricostruire una anomalia con i log e le procedure.»
 
+«Se dobbiamo esaminare ogni anomalia degli altri reparti, il mio gruppo non chiude più un rilascio», disse Gavin.
+
+«Non ogni anomalia», rispose Olivia. «Quelle che passano dal vostro codice al servizio del cliente. Voglio che le proviate insieme, non che il supporto scopra da solo dove termina la vostra responsabilità.»
+
+Gavin chiuse il grafico. Non era convinto, ma non poté indicare una riga del contratto in cui il cliente si fosse impegnato a capire i confini dei team.
+
 Uno dei responsabili guardò la tabella. «Possiamo farlo. Non richiede una posizione senior dedicata, però.»
 
 Era la frase decisiva.
@@ -114,7 +121,7 @@ Olivia aspettò che gli altri uscissero. Margaret stava ancora chiudendo il quad
 
 «Non sulla carta.»
 
-Olivia fissò la casella *posizione non ripristinata*. Aveva creduto che il progresso consistesse nel permettere ai migliori di occuparsi dei problemi difficili. Ora la persona più adatta a farlo avrebbe continuato a lavorare, ma senza la responsabilità che sperava di ottenere.
+Olivia fissò la casella *posizione non ripristinata*. Aveva sostenuto un piano che riduceva il costo della struttura, e già vedeva quale parte del lavoro di Claire non sarebbe stata riconosciuta da nessuna casella. La settimana prima aveva chiesto a supporto e sviluppo di firmare insieme un nuovo percorso di rilascio, assumendosi personalmente l'escalation col cliente. Sapeva attraversare i reparti. Non sapeva ancora come far diventare quella capacità una possibilità di carriera anche per chi sarebbe rimasto senza il posto senior. Aveva creduto che il progresso consistesse nel permettere ai migliori di occuparsi dei problemi difficili. Ora la persona più adatta a farlo avrebbe continuato a lavorare, ma senza la responsabilità che sperava di ottenere.
 
 «Quando glielo dite?», chiese Margaret.
 

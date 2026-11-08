@@ -117,7 +117,7 @@ Il programmatore preparò una prova di regressione specifica, poi lesse lui stes
 
 Non autorizzarono il rilascio quel pomeriggio. Era necessario verificare un altro cliente che usava la stessa libreria.
 
-Olivia entrò nella stanza poco prima delle cinque.
+Olivia entrò nella stanza poco prima delle cinque. Gavin l'aveva chiamata due volte per sapere quando il suo team avrebbe potuto chiudere la pratica. Lei gli aveva risposto che un rilascio poteva aspettare finché anche il cliente più vecchio fosse stato controllato. Per non lasciare la squadra ferma senza sapere perché, aveva già avvisato supporto e commerciale del ritardo.
 
 «Avete risolto?»
 
@@ -126,6 +126,8 @@ Olivia entrò nella stanza poco prima delle cinque.
 Olivia lesse la nota. Aveva un nuovo campo: **Fonte originale e persone in grado di ricostruire il comportamento in assenza dell'agente**.
 
 «Questa non era nella procedura», osservò.
+
+Claire attese il consueto «non è di nostra competenza». Olivia invece scrisse nel registro la dipendenza dal reparto sviluppo, dalla conservazione degli originali e dal supporto cliente. «Se manca una delle tre cose, voglio che l'eccezione resti aperta anche se ogni team ha chiuso il proprio ticket», disse.
 
 «Dovrebbe esserci.»
 
