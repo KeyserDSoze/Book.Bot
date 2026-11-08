@@ -9,7 +9,7 @@ pov: character:irene-valli
 characters:
   - character:irene-valli
   - character:nerea-dalmasso
-  - character:livia-sanna
+  - character:olivia-brooks
 locations:
   - location:cyberdine-campus
 factions: 
@@ -50,13 +50,13 @@ Nerea fece una smorfia.
 
 «Nemmeno io.»
 
-Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita. Livia Sanna stava intervistando una donna con una divisa da magazzino, mentre un operatore le teneva il microfono appena sotto il mento.
+Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita. Olivia Brooks stava intervistando una donna con una divisa da magazzino, mentre un operatore le teneva il microfono appena sotto il mento.
 
 «Sei tornata per il servizio?», domandò Irene alla giornalista quando le passò accanto.
 
 «Sono qui per sentire cosa chiedono. E cosa non chiedono.»
 
-Livia guardò il cartello di Irene.
+Olivia guardò il cartello di Irene.
 
 «Ti posso fare una domanda?»
 
@@ -68,7 +68,7 @@ Irene pensò alle trentaquattro prove che conservava ancora in una cartella. All
 
 «Perché funzionano», disse.
 
-Livia aspettò.
+Olivia aspettò.
 
 «Se fossero macchine inutili, non saremmo qui. Non chiedo di tornare a fare copie a mano. Chiedo perché chi risparmia sul nostro lavoro debba essere l'unico a decidere come usare il risparmio.»
 
