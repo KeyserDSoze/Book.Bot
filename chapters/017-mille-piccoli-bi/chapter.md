@@ -30,3 +30,8 @@ In 004 Mei affianca due classificazioni opposte della stessa tipologia di confer
 ## Decima review — responsabilità dimostrata nei gesti
 
 La baia 4 ha già una prima approvazione del turno; manca la seconda firma sulla mappa certificata. Sofia prova a cercare il responsabile e non lo trova alla chiusura del turno. Il rinvio deriva da vincoli e passaggi reali, non da stupidità dell'organizzazione.
+
+
+## Decima review — continuità della voce di Rosa
+
+La lavoratrice che Sofia incontra nella scena 003 è Rosa Fabbri, non una seconda Elisa confondibile con Elisa Marin. Rosa ha già completato il corso di eccezioni e sperimenta la perdita di straordinari prima di chiedere turni più equi nel 23. La sua presenza nei capitoli 17, 18, 23, 31 e 35 costruisce un'unica trasformazione lavorativa.

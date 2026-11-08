@@ -9,6 +9,7 @@ pov: character:sofia-rizzi
 characters:
   - character:sofia-rizzi
   - character:amir-haddad
+  - character:rosa-fabbri
 locations:
   - location:hub-levante
 factions:
@@ -66,7 +67,7 @@ Il controllo richiedeva tempo. La zona doveva essere liberata dai mezzi manuali,
 
 Nel frattempo si riempiva la fila dei camion.
 
-Al banco arrivò Elisa, l'operatrice che si era formata sulle eccezioni e che ora copriva alcune verifiche difficili.
+Al banco arrivò Rosa, l'operatrice che si era formata sulle eccezioni e che ora copriva alcune verifiche difficili.
 
 «Se spostiamo il carico a piedi dal percorso laterale?», propose.
 
@@ -74,7 +75,7 @@ Sofia guardò le quantità. Non tutto poteva essere movimentato a mano, ma una p
 
 «Fallo per i colli urgenti», disse. «Con i limiti di peso previsti. Non voglio che qualcuno si faccia male perché il computer ci ha fatto perdere tempo.»
 
-Elisa annuì, chiamò due colleghi e andò a liberare il passaggio.
+Rosa annuì, chiamò due colleghi e andò a liberare il passaggio.
 
 Un altro robot diventò giallo, questa volta lontano dalla baia quattro. Era coinvolto nello stesso itinerario, anche se non vedeva il problema con i propri sensori.
 

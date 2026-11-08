@@ -36,3 +36,8 @@ In 003 un ritardo documentale di ventidue minuti porta Giulia a rinviare la visi
 ## Decima review — responsabilità dimostrata nei gesti
 
 Il fermo locale è la conseguenza di un passaggio di consegne che tratta come pratica differibile la seconda firma sulla mappa. Sofia registra sia l'autorizzazione incompleta sia la propria responsabilità di aver dato per buona una lista aperta. È un fermo autorizzativo locale, non il prodromo operativo di un telecomando globale.
+
+
+## Decima review — il fermo locale anticipa le capacità di Rosa
+
+In 001 è Rosa, già preparata sulle eccezioni di percorso in 17/003, a proporre di trasportare manualmente i colli urgenti. La competenza è stata acquisita da una persona, non recuperata improvvisamente dopo il fermo mondiale. Il cambio di nome evita confusione con Elisa Marin, figlia di Teresa.

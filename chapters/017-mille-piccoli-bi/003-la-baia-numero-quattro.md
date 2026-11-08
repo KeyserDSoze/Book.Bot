@@ -9,6 +9,7 @@ pov: character:sofia-rizzi
 characters:
   - character:sofia-rizzi
   - character:amir-haddad
+  - character:rosa-fabbri
 locations:
   - location:hub-levante
 factions:
@@ -52,15 +53,15 @@ Amir sollevò una spalla.
 
 Sofia annotò l'episodio. Sapeva che sarebbe comparso sul rapporto come *tempo aggiuntivo per verifica*, ma non come manovra sbagliata evitata.
 
-A metà turno incontrò Elisa, un'operatrice che aveva completato il corso per gestire le eccezioni di percorso. Il mese prima le avevano promesso che il nuovo sistema avrebbe creato bisogno di persone capaci di supervisionarlo. Adesso, con la maggior parte delle richieste risolte automaticamente, i turni straordinari di Elisa erano diminuiti.
+A metà turno incontrò Rosa, un'operatrice che aveva completato il corso per gestire le eccezioni di percorso. Il mese prima le avevano promesso che il nuovo sistema avrebbe creato bisogno di persone capaci di supervisionarlo. Adesso, con la maggior parte delle richieste risolte automaticamente, i turni straordinari di Rosa erano diminuiti.
 
-«Non sto dicendo che il sistema lavori male», disse Elisa, senza rabbia. «Sto dicendo che l'ho studiato per diventare necessaria, e quando finalmente lo so usare mi dicono che ne serviranno meno.»
+«Non sto dicendo che il sistema lavori male», disse Rosa, senza rabbia. «Sto dicendo che l'ho studiato per diventare necessaria, e quando finalmente lo so usare mi dicono che ne serviranno meno.»
 
 Sofia guardò il quadro dei turni. Non aveva aperto lei il corso e non poteva promettere un avanzamento che il magazzino non aveva approvato.
 
 «Posso farti assegnare le verifiche difficili per un mese», disse. «Non è una promozione. Ma posso almeno farti lavorare su ciò che hai imparato.»
 
-Elisa ci pensò.
+Rosa ci pensò.
 
 «Accetto. Però non scrivere sul rapporto che ho ricevuto una nuova opportunità.»
 

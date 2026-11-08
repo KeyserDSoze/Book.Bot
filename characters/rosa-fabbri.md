@@ -17,3 +17,8 @@ Rosa torna all'Hub come personale aggiuntivo durante l'emergenza, ottenendo stra
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Il mercoledì libero del 23 è prezioso per il figlio e per una pizza che non si concede facilmente. Nel 31 il richiamo all'Hub la solleva anche perché al lavoro si sente indispensabile e può rinviare la bolletta e la ruota della bicicletta da riparare a casa, ma ne paga il prezzo sull'orario del bambino. Nel 35 Sofia le lascia una scelta fra ulteriori ore di lavoro e la sera con lui; la pizza resta una richiesta reale, non un simbolo da spiegare.
+
+
+## Decima review — presenza dall'inizio dell'arco logistico
+
+Rosa non entra in scena soltanto quando firma la petizione del capitolo 23. Nel capitolo 17/003 è la lavoratrice che ha completato la formazione sulle eccezioni del sistema e scopre che la riduzione dei turni straordinari precede qualsiasi nuova posizione riconosciuta; rifiuta che una assegnazione mensile venga chiamata promozione. Nel 18/001 propone e organizza il trasporto manuale urgente quando la baia 4 si blocca per un errore di conferma. Questa esperienza spiega perché nel 23 chieda un algoritmo dei turni più equo, pur sapendo lavorare sul campo, e perché nel 31 ritorni con competenze che i robot non possono sostituire istantaneamente. Il personaggio che in precedenza si chiamava **Elisa** nell'Hub è ora Rosa: resta distinto da **Elisa Marin**, la figlia di Teresa che entra nella storia del centro assistenziale.
