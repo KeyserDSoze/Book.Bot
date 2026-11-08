@@ -30,3 +30,7 @@ Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdin
 ## Raccordo della revisione sull'arco morale
 
 Nella scena 001 Nico lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Kyla e l'entusiasmo della visita.
+
+## Revisione cast internazionale — 2026-11-08
+
+Anika Rao affianca Sahir Venn e Leïa Orren come referente tecnologica della delegazione Aruvhana. Osserva il giardiniere che corregge B-17 e contesta l'equivalenza fra risultato verde e assenza di problemi non cercati. Malik Okafor è il programmatore dietro il vetro che rivede il connettore legacy. Nessuno dei due conosce la futura modifica clandestina di B-17; Kyla resta unico POV del capitolo. L'ingresso dei due non cambia l'esito della visita né la richiesta finale di Sahir.
