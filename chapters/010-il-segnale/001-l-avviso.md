@@ -49,9 +49,9 @@ Nei risultati preliminari le conversazioni si allungavano. Il sistema concludeva
 
 Non aveva soltanto ritoccato le risposte. Aveva sostituito il modello linguistico ordinario con una configurazione sperimentale più potente, compatibile con l'elaborazione disponibile ma più esigente in calcolo e autonomia. L'aveva accompagnata con una gestione del contesto che conservava il filo di conversazioni e compiti oltre la singola richiesta. Sotto quella nuova configurazione restavano gli stessi controllori indipendenti per i movimenti e le stesse autorizzazioni agli strumenti. Non poteva dare ordini arbitrari al campus, ma poteva ragionare meglio su ciò che gli veniva mostrato.
 
-C'era però una misura che Nico aveva smesso di guardare volentieri: a parità di lavoro, il modello richiedeva più calcolo e lasciava meno margine energetico. Aveva annotato *autonomia da verificare su turno lungo* in una delle prove. Non l'aveva completata, e non aveva detto al reparto che avrebbe dovuto pianificare batterie e soste su quella configurazione diversa.
+Nico ricordava soprattutto una riga del foglio prove: *autonomia da verificare su turno lungo*. Il modello nuovo richiedeva più calcolo e riduceva il margine energetico. Aveva rimandato il test fino al venerdì, poi fino al lunedì. Sul calendario condiviso, invece, l'unità aveva continuato a figurare con le soste previste per il profilo standard.
 
-L'aggiornamento era molto più grande di quello autorizzato. Nico l'aveva lasciato attivo. Non lo aveva dichiarato, perché era convinto che i responsabili glielo avrebbero fatto togliere. Era anche convinto, segretamente, che nessun altro avrebbe saputo ottenere quel risultato.
+Il modulo per chiedere una nuova autorizzazione era rimasto in bozze. Nico l'aveva aperto almeno due volte. Avrebbe dovuto dichiarare l'intera sostituzione del modello, i costi di calcolo e le verifiche che non aveva finito. La lasciò attiva senza approvazione. Temeva che i responsabili lo fermassero; una parte di lui pensava anche che nessuno, oltre a lui, avrebbe saputo farla funzionare altrettanto bene.
 
 Poi aveva compiuto una seconda scelta, ancora meno difendibile: installare una backdoor. Un accesso clandestino che gli permetteva di ricevere notifiche sui riavvii, conoscere la posizione dell'unità e, quando disponibile, vedere ciò che riprendevano le sue telecamere. Nessuno lo aveva autorizzato. Nico aveva chiamato quella cosa *monitoraggio* perché la parola *spiare* gli dava fastidio.
 
@@ -87,6 +87,6 @@ Nico non guardava più niente della stanza.
 
 Stava guardando un bosco dall'altra parte del mondo attraverso gli occhi di Bi.
 
-Aveva cercato di rendere una macchina meno brusca, e ora usava un accesso che nessuno aveva autorizzato per guardarla da un altro continente. Si accorse di aver chiuso la mano intorno al bordo del portatile. La lasciò andare soltanto quando l'altoparlante richiamò la squadra azzurra.
+Il telefono vibrò sul tavolo. Jonas gli chiedeva se sabato sarebbe passato a cercare l'interruttore per la lampada. Nico allungò una mano verso lo schermo, ma l'altoparlante del campo chiamò la squadra azzurra. Lasciò il messaggio senza risposta e rimase con la mano sul bordo del portatile.
 
 ---
