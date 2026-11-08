@@ -10,6 +10,7 @@ characters:
   - character:noah-carter
   - character:sarah-chen
   - character:b-21
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions: 
@@ -35,6 +36,20 @@ Noah rimase in piedi vicino alla lampada smontata. Aveva finalmente comprato tut
 Alla reception lo accompagnò un addetto della sicurezza. Noah ricevette un tesserino temporaneo e attraversò il campus che conosceva quasi a memoria.
 
 Dietro il vetro del piano sviluppo, due programmatori avevano collegato un vecchio terminale a un banco di prova. L'agente aveva preparato una correzione e tutti i test automatici risultavano verdi. Uno dei due mostrava al collega la registrazione di un evento arrivato fuori sequenza: quel terminale aveva continuato a rifiutare l'attestazione. Il ragazzo ingrandì la riga di codice, poi tornò al registro del dispositivo. Non approvarono il rilascio.
+
+Gavin Shaw arrivò dalla sala accanto con il badge ancora al collo. Noah lo conosceva come il responsabile che difendeva sempre le consegne di Core Platform.
+
+«È un problema del terminale o della libreria?», chiese Gavin.
+
+«Non lo sappiamo ancora», rispose uno dei programmatori. «Il test generato non riproduce la risposta dopo il ripristino del collegamento.»
+
+Gavin lesse la registrazione. «Allora teniamo bloccato il rilascio. Apro una verifica con qualità e supporto.»
+
+«Il codice del nostro gruppo è passato», osservò il collega.
+
+«Lo segniamo. E segniamo anche che la prova mancava», disse Gavin. «Non vorrei doverlo spiegare al cliente dopo.»
+
+Rimase accanto al banco mentre i due tornavano a leggere le funzioni. Noah non seppe se fosse cambiato il modo di lavorare di Gavin o soltanto la gravità di quel giorno. Per quel rilascio, però, la discussione non era stata chiusa con una percentuale.
 
 Noah ricordò quando B-17 aveva osservato un test dietro una scrivania. Da allora gli strumenti erano diventati più veloci a proporre correzioni. Gli ingegneri dietro il vetro, però, stavano ancora cercando di capire che cosa fosse successo davvero.
 
