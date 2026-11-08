@@ -104,8 +104,14 @@ Irene annuì.
 
 La lettera partì alle diciotto e quarantadue.
 
-Nella stanza non si alzò nessun applauso. Paolo chiuse il computer e raccolse la pallina rimasta sul tavolo. Nerea guardò per qualche secondo la finestra vuota dove era comparsa la conferma dell'invio.
+Nella stanza non si alzò nessun applauso. Paolo chiuse il computer e raccolse la pallina rimasta sul tavolo. Nerea guardò per qualche secondo la conferma dell'invio.
 
-Avevano ottenuto un risultato sorprendente: centinaia di persone, alcune sconosciute, avevano deciso di mettere denaro a disposizione per una macchina con un nome.
+«Quando rispondono?», chiese un collega rimasto vicino alla porta.
 
-Da qualche parte, dall'altra parte del pianeta, B-17 era ormai al centro di accordi commerciali che quel gruppo non poteva sciogliere. Il nome «Bi», invece, era nato in un corridoio e non era scritto nella loro offerta come un bene da comprare. Kyla guardò la conferma dell'invio e lasciò che gli altri rimanessero in silenzio.
+«Non c'è una scadenza», rispose Irene. «E non possono prendere i soldi senza chiedere di nuovo ai partecipanti se accettano prezzo e condizioni.»
+
+Il collega guardò il totale. «Quindi non abbiamo comprato niente.»
+
+«Esatto», disse Paolo.
+
+Nerea tolse la pallina dalla mano di Paolo, la posò nella custodia delle racchette e chiuse la zip. La conferma della lettera rimase sullo schermo.

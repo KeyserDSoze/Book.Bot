@@ -49,6 +49,12 @@ Mina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il
 
 «Non prima di conservarne le tracce e sapere chi l'ha ricevuto. Non risolveresti il problema facendo sparire la prova.»
 
+«Posso chiamare Nerea e chiederle scusa?»
+
+«Prima le comunichiamo i fatti attraverso il referente che ha autorizzato l'invio», rispose Mina. «Poi sarà lei a decidere se parlare con te. Intanto ho bisogno che tu mi consegni la sequenza delle operazioni che hai fatto, compresa la casella che era già selezionata.»
+
+Enrico posò finalmente il pacco della mensa. Aprì la cronologia del ticket davanti a lei. Non cercò di cancellare la spunta.
+
 Enrico aprì la bocca, poi la richiuse. Il pacco destinato alla mensa rimase fra loro come un oggetto di troppo.
 
 Mina chiamò Marta. La direttrice venne in amministrazione portandosi ancora dietro la giacca del campo.

@@ -96,6 +96,10 @@ Mina avvicinò il viso allo schermo. Il robot faceva una domanda semplice, ricev
 
 «Non te le ho chieste.»
 
+«Allora rimettiamo il filmato di diciotto secondi sotto le registrazioni di sicurezza, insieme alla versione intera. Non voglio che chi prepara le prossime offerte pensi che quel salto nel bosco fosse un numero previsto in scaletta.»
+
+Marta chiamò la montatrice davanti a lei. Chiese che la didascalia riportasse *prova supervisionata* e un collegamento al filmato integrale. «I milioni di visualizzazioni li abbiamo già», disse al termine della telefonata. «Adesso voglio sapere che cosa gli sponsor credono di aver comprato.»
+
 Marta si alzò. Prima di uscire aggiunse che l'indomani sarebbero arrivati alcuni visitatori. Sponsor, forse partner. Nessuna telecamera aggiuntiva senza approvazione.
 
 Mina tornò ai controlli. Era quasi sera a Veyra, ma sul suo telefono continuavano ad arrivare notifiche da paesi dove il giorno stava cominciando.

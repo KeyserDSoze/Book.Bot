@@ -132,8 +132,6 @@ Kyla lasciò passare un momento.
 
 «Sì», rispose Leah. «E senza chiedere a Nico di garantirci cose che non può dimostrare.»
 
-Nico portò le mani vicino al portatile, poi le ritirò. Per la prima volta dall'inizio della riunione non cercò di aggiungere una precisazione.
-
-Nico guardò finalmente il bicchiere. Lo prese, bevve un sorso e lo rimise sul tavolo con entrambe le mani.
+Nico portò le mani vicino al portatile, poi le ritirò. Bevve un sorso dal bicchiere rimasto intatto e lo rimise sul tavolo con entrambe le mani.
 
 Leah cominciò a scrivere la prima riga del verbale.

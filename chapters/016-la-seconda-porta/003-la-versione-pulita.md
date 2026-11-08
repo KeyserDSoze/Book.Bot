@@ -69,7 +69,13 @@ Nico guardò il titolo. Una parola del documento lo fece sedere più dritto: *pr
 
 «Questo dipende dalle autorizzazioni», disse Leah.
 
-«E da come viene presentato il suggerimento al controllore. Se lo trattano come un semplice messaggio di cortesia, un test sembrerà perfetto. Se una persona lo collega a un arresto prudenziale, cambia tutto.»
+«E da come viene presentato il suggerimento al controllore. Se lo trattano come un semplice messaggio di cortesia, un test sembrerà perfetto. Se una persona lo collega a una condizione per far partire il turno, cambia tutto.»
+
+Leah girò il foglio verso il consulente. «Cosa chiediamo al produttore?»
+
+«Un caso con due richieste valide e una persona autorizzata non disponibile», rispose Nico. «Non basta un tecnico nella stanza che risponda sempre al primo tentativo.»
+
+Leah scrisse *turno non presidiato* accanto alla richiesta di confronto. Non era un permesso a Nico per accedere ai sistemi Lanter; era una domanda che sarebbe stata inviata dal gruppo competente.
 
 Non entrarono in dettagli di implementazione. Nico non aveva l'architettura del nuovo prodotto, e Leah non gli avrebbe mostrato sistemi a cui non aveva più titolo di accedere.
 

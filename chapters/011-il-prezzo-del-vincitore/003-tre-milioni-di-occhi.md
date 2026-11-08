@@ -35,7 +35,7 @@ Aveva salvato una quantità di prove di B-17 che, all'epoca, gli sembrava una ga
 
 Soprattutto, aveva installato un accesso che gli permetteva di osservare un robot ora appartenente a un'altra società.
 
-Non era più la stessa violazione che si era raccontato all'inizio. O forse lo era sempre stata e lui aveva soltanto cambiato le parole.
+Aprì la riga con le notifiche inviate dalla sua porta clandestina. L'ultimo accesso risaliva al filmato dell'esercitazione. Poteva ancora nascondere tutto agli altri. Non poteva più dirsi di aver soltanto raccolto dati di prova.
 
 Sul monitor comparve un nuovo avviso del campo. Nico non aprì il video. Guardò la posizione e il codice, poi chiuse la finestra.
 

@@ -89,3 +89,9 @@ Marta tornò in ufficio e scrisse una mail cortese. Ringraziava per la proposta 
 La rilesse e la inviò.
 
 Sul tavolo restava un'altra proposta da esaminare: un piano di riprese per la prossima dimostrazione, con le richieste di uno sponsor annotate sul margine. Marta lo inoltrò a Mina con una riga di accompagnamento: *Verifica le condizioni prima che prendiamo impegni su questa sequenza.*
+
+Poi aprì il biglietto del traghetto. La partenza era fra un'ora. Scrisse all'amica: *Posso esserci per cena, non per tutto il pomeriggio. Se non ti basta hai ragione a dirmelo.*
+
+La risposta arrivò mentre Marta raccoglieva le carte: *Vieni. Però stavolta spegni il telefono quando siamo a tavola.*
+
+Marta disattivò gli avvisi dello sponsor, lasciando acceso soltanto il numero del laboratorio per le emergenze. Prese la giacca. Il contratto di B-17 era rimasto sulla scrivania; il traghetto non l'avrebbe aspettata.
