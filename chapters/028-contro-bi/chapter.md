@@ -31,3 +31,8 @@ All'apertura della scena 004 il foglio di accesso a Veyra indica la proroga dell
 ## Quinta review — dalla supervisione dichiarata alla verifica
 
 In 003 l'ultimo scambio astratto di Kyla e Leah è sostituito da un controllo pratico sui registri degli avalli: la firma di un responsabile non dice da sola quante decisioni abbia verificato. Kyla elimina una garanzia non dimostrata e chiede i dati mancanti. La protesta del capitolo non deve ridursi a persone che odiano le macchine; Irene riconosce che funzionano, e Youssef conosce il rischio di chiudere il noccioleto.
+
+
+## Undicesima review — dialoghi e scena conclusiva
+
+In 004 Nerea non enuncia più un manifesto generale sulla tutela dei lavori: oppone a Bi due situazioni concrete, Teresa in attesa di compagnia e Irene che cerca un nuovo posto; si ricorda delle tre correzioni preparate da Irene per una presentazione cancellata. La differenza è di esperienza vissuta, non di superiorità dialettica. La posizione di Bi sui costi rimane argomentabile.

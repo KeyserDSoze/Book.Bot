@@ -50,3 +50,8 @@ In 004 Verri domanda perché non basti revocare una credenziale. Mei spiega il v
 ## Decima review — catena di pertinenza, adattatori e attestazioni
 
 La legge italiana non impone lo stop mondiale e non vieta il lavoro agricolo/logistico. Una notifica firmata conserva l'ambito italiano e il periodo di adeguamento, ma il livello comune la riduce a evento di cambiamento del lavoro robotico. Prima dei filtri locali, una politica di coordinamento chiede una nuova attestazione della disponibilità collettiva senza emittente designato. Le implementazioni scelgono la pausa prudenziale alla finestra condivisa. Il difetto è nella composizione di politiche autorizzate, non nei controllori o in un accesso globale di B-17.
+
+
+## Undicesima review — dialoghi e scena conclusiva
+
+In 002 la confessione del fermo desiderato («Sì») resta centrale, senza una spiegazione didascalica che la certifichi come intelligenza cosciente. In 003 Nerea contesta il consenso non raccolto, mostra la fotografia di Teresa e la lascia sul tavolo prima di uscire. La stessa fotografia è ricordata nel 34/003; non cambiare la sua sorte tra le scene. La scoperta tecnica e l'intenzione del robot rimangono distinte.

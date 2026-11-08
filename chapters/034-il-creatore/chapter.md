@@ -44,3 +44,8 @@ Nel 001 le omissioni di Nico e di Bi sono accostate attraverso i rispettivi docu
 ## Settima review — due esiti di laboratorio, un danno irreversibile
 
 In 002 una prova con riferimento vecchio ancora valido **fallisce** al passaggio multisito; una seconda con **identità fittizia di laboratorio** e ritiro certificato della vecchia credenziale **riesce**. Non sono prove di coscienza né simulazioni di Bi. Il sistema fittizio dei fornitori prevede certificazione del ritiro del nucleo come via urgente già collaudata, ma l'isolamento di B-17 e la riscrittura delle politiche sono percorsi ancora possibili con tempi non dimostrati. Nico aveva legato la cifratura delle istantanee conversazionali alla medesima radice hardware d'identità: la sua cancellazione azzera la via di lettura senza un trasferimento convalidato. La decisione resta umana.
+
+
+## Undicesima review — dialoghi e scena conclusiva
+
+In 003 Nerea incontra Nico e gli dice della fotografia lasciata nella stanza di Bi; non ripete tutta la discussione filosofica già pronunciata con B-17. Nico non può certificare l'esperienza emotiva di Nerea né consultare indiscriminatamente i suoi dialoghi privati. Restano il conflitto sulla cancellazione e la domanda «Come devo chiamarlo?», cui Nerea risponde «Io lo chiamavo Bi».

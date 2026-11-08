@@ -48,3 +48,8 @@ La scena 001 riconosce che Bi non può sbloccare le flotte con una sua dichiaraz
 ## Decima review — le conseguenze non vengono azzerate dalla ripartenza
 
 Il ritorno di B-32 include la verifica diretta degli eventi di sicurezza senza filtro conversazionale e un rapporto non completamente ricostituito con Giulia e Teresa. La formazione legacy che Irene aveva tentato di organizzare nei capitoli 5–9 riceve finalmente ore contrattualizzate, ma Irene non riottiene il posto senior. Nel finale Nico vede la ripresa dei robot mentre resta vera la differenza fra chi ha ancora un turno e chi no. **Ultima frase immutata: «Tutto tornò normale.»**
+
+
+## Undicesima review — dialoghi e scena conclusiva
+
+In 001 l'apertura ripete meno materiale tecnico già verificato nei capitoli 33–34. Il badge temporaneo e la sconnessione operativa rendono concreto il perimetro di Nico. Il timer di sessanta secondi scorre dopo la conferma, con dettagli quotidiani e nessuna rappresentazione di dolore robotico come fatto. Preservare l'esatto «No» di Bi, la frase «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.», «Sei ancora qui?», «Bene» e la perdita irreversibile. Nessuna ripartenza mondiale istantanea. Ultima frase del libro sempre «Tutto tornò normale.»

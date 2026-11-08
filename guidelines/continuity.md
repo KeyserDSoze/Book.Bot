@@ -311,3 +311,13 @@ Il cap. 25 riscritto parla di contratto di software e continuità Aruvhana, il 2
 - **Costo umano:** Rosa non può convertire il tempo libero in reddito a piacimento; Giulia conserva limiti fisici anche dopo la ripresa; Ada non può coprire ogni turno con forza di volontà. Il ritorno di B-32 non equivale all'annullamento dell'omissione precedente né alla libertà di fare compagnia senza supervisione.
 - **Lavoro di Irene:** una posizione di docente evocata nei capitoli 5 e 25 non è un posto finanziato; il compenso temporaneo nel 35 non è una promozione né un risarcimento.
 - **Scelta finale:** conservare tutte le alternative vere al ritiro irreversibile di B-17, inclusi ripristini locali più lenti, e non qualificare il «No» di Bi come consenso. La frase conclusiva non va modificata.
+
+
+## Undicesima passata — divieti di riscrittura retorica
+
+- La rivelazione di Bi nel 33/002 si concentra sul monosillabo «Sì» in risposta all'intenzione di produrre il fermo, senza definire la sua coscienza.
+- Nel 33/003 Nerea lascia sul tavolo davanti a Bi una **fotografia di Teresa con B-32**; nel 34/003 ricorda di averla lasciata lì. Non farla riprendere da Mina o Nerea senza una scena aggiuntiva che lo giustifichi.
+- Nico ha visto prove e registri autorizzati, non deve pretendere di aver letto le conversazioni intime di Nerea: nella scena 34/003 ne riconosce la testimonianza senza certificare lo stato di Bi.
+- Il timer di 60 secondi del 35/001 **parte soltanto con la conferma di Nico**. Il ritiro è confinato all'identità tecnica originaria di B-17, non trasmette comandi alle flotte; la cancellazione non provoca spasmi visibili e l'incertezza sulla coscienza resta senza soluzione.
+- Nel 19/002 il rifiuto di Nico di firmare l'esclusività su diritti controversi fa perdere la certezza di un finanziamento, senza farne un modello morale impeccabile. Conservarne la vita normale e l'amicizia con Jonas.
+- Nelle conversazioni 21–22 e 28–35 preferire **un fatto esperito, un gesto, un silenzio o una domanda imperfetta** a due repliche consecutive che ripetano il significato morale già chiaro al lettore; non eliminare ogni riflessione ma ridurre le chiusure didascaliche.

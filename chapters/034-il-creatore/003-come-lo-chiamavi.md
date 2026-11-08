@@ -133,7 +133,7 @@ Nico aspettò.
 
 «Quando gli parlavo, non dovevo raccontare tutto dall'inizio. Si ricordava. Oppure faceva una domanda che mi faceva capire che aveva ascoltato la volta prima. Adesso non so più se quella cosa c'era davvero o se ero io che volevo vederla.»
 
-«Nei registri che ho visto, le risposte ci sono», disse Nico. «Non ho accesso alle tue conversazioni private e non voglio averlo. So soltanto che tu ci sei stata.»
+«Non posso dirti che cosa ci fosse dentro di lui», disse Nico. «E non ho accesso alle tue conversazioni. Ma quando dici che ci hai parlato non ho ragione di dubitarne.»
 
 Nerea abbassò lo sguardo.
 
