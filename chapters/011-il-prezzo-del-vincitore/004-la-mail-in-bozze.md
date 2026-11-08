@@ -31,7 +31,11 @@ L'altro rise, ma prima di andarsene gli chiese se fosse tutto a posto. Nico diss
 
 Guardò il proprio telefono. C'erano tre chiamate perse di sua madre, un messaggio del supermercato e l'avviso che la bolletta della luce stava per scadere. Le mandò un messaggio: *Sto bene, non è una cosa di salute. Ti chiamo dopo.* Sapeva che una risposta così avrebbe fatto nascere altre domande, ma almeno non voleva lasciarla in allarme. Da due settimane rimandava una telefonata al proprietario dell'appartamento per una perdita d'acqua sotto il lavello.
 
-Nico aprì la mail.
+Nel canale del gruppo trovò anche una domanda del junior che gli aveva chiesto del secondo bit. Il ragazzo aveva allegato un nuovo test e gli chiedeva se potesse considerarlo sufficiente. Nico aprì il riferimento alla vecchia funzione. Il controllo era migliorato, ma la prova non mostrava ancora che cosa accadesse sul terminale reale.
+
+Scrisse: *Non chiudere il ticket con il mio assenso di ieri. Fai rivedere il caso nel gruppo, con il log del terminale. Il riferimento è nella funzione che ti ho mandato.* Non aggiunse *ci penso io lunedì*: non sapeva se avrebbe potuto farlo.
+
+Poi aprì la mail per Kyla.
 
 Aveva ormai scritto quattro paragrafi. Nel primo descriveva l'aggiornamento di B-17. Nel secondo spiegava che non era passato dai controlli. Nel terzo ammetteva l'esistenza dell'accesso clandestino. Il quarto era una lunga successione di frasi che cominciavano tutte con *però*.
 
