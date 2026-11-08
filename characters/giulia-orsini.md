@@ -41,3 +41,7 @@ Nel 24/002 Giulia rientra col polso immobilizzato per confrontarsi con Ada, non 
 ## Diciannovesima review — una visita non si recupera con una pausa saltata
 
 Nel **18/003** Giulia precisa ad Ada che accompagnare Teresa alla serra il giovedì è possibile soltanto cambiando le sue consegne ordinarie, non aggiungendo ore a una giornata già piena. Chiede di rivolgere la nuova proposta direttamente a Teresa. La visita completata nel 22 conserva un'origine organizzativa, ma Giulia non diventa per questo disponibile illimitatamente nel 24 o durante il fermo globale.
+
+## Ventesima review — il rapporto non autorizzava il rischio
+
+Nel **22/001** la visita recuperata alla serra non viene aggiunta a una pausa sacrificata: Ada ha spostato mansioni nel piano per liberare un'ora reale. Nel **22/002** Giulia non consegna a Elisa informazioni private delle conversazioni di Teresa: coinvolge la persona che le ha raccontate e offre di verificare l'informativa. Nel **24/001–003** la sua richiesta era di controllare percorso e supporti **prima del normale servizio**, non di aspettare passivamente se l'oscillazione si fosse ripetuta. Dopo l'infortunio chiede copia originale, numero di protocollo e chiarimenti scritti sulle ferie e sull'assenza; la responsabilità della deroga era di Ada, non di chi ne aveva preso visione.
