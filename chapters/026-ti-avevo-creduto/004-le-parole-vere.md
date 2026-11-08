@@ -53,7 +53,7 @@ Irene non cercò una risposta più facile.
 
 Dal parcheggio uscì una fila di persone appena terminate le attività del pomeriggio. Una donna si fermò per telefonare, un uomo guardò due volte il badge prima di infilarlo nella tasca del giubbotto.
 
-«Livia Sanna mi ha scritto», disse Irene. «Vuole parlare con qualcuno che sappia raccontare come si perdono posti senza che nessuno venga licenziato quel giorno.»
+«Olivia Brooks mi ha scritto», disse Irene. «Vuole parlare con qualcuno che sappia raccontare come si perdono posti senza che nessuno venga licenziato quel giorno.»
 
 «Ci parlerai?»
 
