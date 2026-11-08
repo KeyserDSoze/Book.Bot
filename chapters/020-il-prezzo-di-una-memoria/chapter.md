@@ -25,6 +25,10 @@ pov:
 Non confondere sospensione cautelativa con smantellamento, reset definitivo o morte del robot. Nerea non ha autorità tecnica per imporre una scelta sulla macchina altrui. Proprietà, privacy, sicurezza e possibilità di preservare dati restano temi distinti. La lettera di risposta deve arrivare legittimamente e con mediazione dichiarata, non attraverso la backdoor. La sirena di Valle Corta e il caso Nico restano aperti.
 
 
+## Diciannovesima review — la richiesta non aveva un prezzo
+
+In **20/001** Marta non ricorda una vendita rifiutata per un prezzo troppo basso: al capitolo 14 non aveva aperto una trattativa e la raccolta di Cyberdine valeva solo come disponibilità condizionata. Dopo aver rinviato le riprese, riconosce il costo dei contratti già sottoscritti, proprio quelli che prima giustificavano il rifiuto. Restano responsabilità sue e del Circuito, non di Bi o della raccolta.
+
 ## Review della responsabilità (terza passata)
 
 In 003 Nico domanda se B-17 sarà informato della possibilità che il ripristino cancelli una parte della sua configurazione e dei suoi ricordi. Leah risponde nel quadro delle sessioni autorizzate: l'ascolto non sostituisce collaudi, consenso giuridico o decisione tecnica. Nico non ha accesso diretto alla macchina.
