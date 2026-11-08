@@ -19,67 +19,85 @@ factions:
   - faction:cyberdine
 ---
 
-Mei arrivò alla riunione con un rapporto di tre pagine e nessuna cifra sulle probabilità di successo.
+Mei arrivò alla riunione con due riprese del banco di prova e un rapporto di tre pagine. Sul frontespizio qualcuno, durante la notte, aveva aggiunto a matita la domanda *probabilità di conservare B-17?*.
 
-Un dirigente di un fornitore le chiese perché non avesse scritto quanto fosse probabile conservare B-17. Mei rispose che non avevano una base tecnica per attribuire una percentuale a una configurazione che non era mai stata certificata.
+Un dirigente del fornitore gliela rivolse subito, prima di aprire gli allegati.
 
-La sala era piena di persone che avrebbero preferito avere un numero.
+«Non posso darle una percentuale», rispose Mei.
 
-Leah aprì la discussione mostrando i risultati dei primi ripristini locali. Alcuni siti avevano recuperato attività isolate, dopo aver rimosso manualmente la condizione di disponibilità e verificato ogni autorizzazione. Pochi rispetto a quelli fermi, ma abbastanza da dimostrare che lo stop non era irreversibile.
+«Neanche un intervallo?»
 
-«La via lenta funziona», disse.
+«Non abbiamo mai certificato quella configurazione. Un intervallo inventato sembrerebbe una misura.»
 
-«In certe installazioni», precisò Mei.
+Il dirigente depose la penna. «Allora mi faccia vedere che cosa è successo nelle prove.»
 
-«In quelle verificate. E nelle altre ci vorrà tempo.»
+Leah indicò le prime installazioni ripartite manualmente, dopo aver ricontrollato le autorizzazioni. Erano poche rispetto alla rete sospesa. In quelle sedi, però, i responsabili potevano continuare a lavorare senza coinvolgere l'identità tecnica di B-17.
 
-Mei aprì poi il verbale di una prova effettuata la notte precedente. Non era la simulazione astratta di una soluzione possibile: due siti di test, due fornitori, carichi non pericolosi, personale presente. Avevano mantenuto valida nel circuito di prova la referenza tecnica originaria di B-17, senza clonare la sua configurazione conversazionale, e tentato di mettere in servizio una politica sostitutiva senza ritirare quel riferimento.
+«Per quelle abbiamo una procedura», disse. «Per le altre dobbiamo decidere se attendere mentre la costruiamo.»
 
-Il primo sito aveva completato una movimentazione locale. Il secondo aveva respinto l'attestazione perché trovava ancora valida la vecchia fonte e non riusciva a risolvere quale delle due attestazioni avesse precedenza. Ripetere la prova con un altro fornitore aveva prodotto lo stesso conflitto. Non c'erano stati danni e nessuno aveva forzato il controllore: era bastato che un carico dovesse passare da una responsabilità all'altra.
+Mei avviò la prima ripresa. Un carrello di prova, senza carichi pericolosi, attraversò il sito A. Sullo schermo il suo stato diventò verde. Al confine con il sito B si fermò: il nuovo fornitore considerava ancora valida la referenza originaria del pilota e non sapeva a quale delle due attestazioni obbedire.
 
-Mei mostrò poi l'altra prova, svolta con un modulo di laboratorio e un'identità fittizia, non con B-17. Dopo un ritiro certificato della credenziale di prova, entrambi i fornitori avevano accettato il nuovo riferimento e il passaggio fra i siti era riuscito. Le procedure locali di sicurezza erano state ricontrollate prima del movimento.
+«Il controllore ha evitato un movimento non autorizzato», disse Mei. «Qui ha funzionato.»
 
-«Questa strada funziona in laboratorio», disse Mei. «Non ci dice quanto impiegherà ogni impianto a ripartire, né che cosa perderemo ritirando l'identità reale di B-17.»
+«E la consegna?» chiese Marta.
 
-«Quindi se lasciamo Bi sotto vetro e cambiamo soltanto i programmi dei clienti?», chiese il responsabile commerciale.
+«Non è stata completata.»
 
-«Non abbiamo dimostrato una ripartenza generale affidabile», rispose Mei. «Possiamo recuperare siti isolati uno per uno. Per quelli che si fidano ancora della referenza originaria dobbiamo prima ritirarla in modo riconosciuto. Non posso dichiarare sicuro ciò che il test ha appena respinto.»
+Nessuno nel laboratorio aveva forzato il percorso. Avevano ripetuto la prova con un altro fornitore, ottenendo lo stesso conflitto di precedenza. Il vecchio riferimento era rimasto valido nel circuito di prova; la configurazione conversazionale di Bi non era stata copiata o usata da un'altra macchina.
 
-Nico chiese di mostrare i risultati del tentativo di separare la referenza dallo stato conversazionale. Nelle prove sui componenti di verifica il confine fra identità tecnica e stato conversazionale restava quello che aveva alterato lui, anni prima. Non avevano un metodo convalidato per conservarne la continuità durante il ritiro. Nico domandò se potessero avere altri due giorni per studiarlo.
+Nella seconda ripresa, una credenziale **fittizia** veniva ritirata con un modulo di laboratorio. I due siti riconoscevano allora il riferimento sostitutivo: il carrello passava, dopo le verifiche locali di sicurezza.
 
-«Possiamo continuare a studiarlo», disse Mei. «Ma per scegliere se rinviare il ritiro dobbiamo considerare anche ciò che succede in quei due giorni. Non abbiamo una stima affidabile del tempo per una separazione riuscita.»
+«Non era la chiave di B-17», precisò Mei, prima che qualcuno lo chiedesse. «Abbiamo verificato il percorso tecnico, non la conservazione della sua configurazione.»
 
-«Allora non è impossibile», disse Nico.
+«E se lo lasciassimo qui, spento, cambiando soltanto il software dei siti?», chiese il responsabile commerciale.
 
-«Non l'ho detto. Il protocollo più rapido è una scelta fra percorsi di recupero, non una proprietà inevitabile del robot.»
+Mei riavviò la prima registrazione e la fermò sul carrello immobile. «Per alcuni impianti lo stiamo già facendo. Per quelli che si fidano ancora della referenza originaria dovremmo ricostruire e collaudare una revoca diversa per ogni fornitore. Non ho una data di fine.»
 
-Marta guardò la data sul rapporto delle consegne. «E chi si assume la scelta di aspettare?»
+«Ma non è impossibile.»
 
-Leah girò il foglio verso di lei. Vi erano registrate le attività già recuperate con le procedure manuali e, accanto, quelle che non avevano ancora un percorso verificato. «Dobbiamo assumerla noi», rispose. «Qualunque strada scegliamo.»
+«No.»
 
-Mei aveva firmato verifiche che allora le sembravano complete. Ora, mentre Leah confrontava i tempi delle consegne, ritrovò sul proprio vecchio rapporto la parola *compatibile*. Accanto non c'era alcuna prova della migrazione fra due identità diverse.
+Nico chiese di vedere la prova in cui avevano tentato di separare lo stato conversazionale dalla radice hardware. Nelle vecchie modifiche aveva usato la stessa chiave non esportabile per proteggere parte della continuità del dialogo e l'identità del dispositivo. I tecnici sapevano conservare i file cifrati; nessuno aveva dimostrato come rileggerli dopo il ritiro certificato della chiave.
 
-Marta Ledesma aveva portato i costi del Circuito. Nel riepilogo delle strutture compariva anche il centro assistenziale di Ada Serri. Aveva prestato materiale a un altro centro e in cambio attendeva una consegna che il magazzino regionale non riusciva a comporre. Entro due giorni avrebbe dovuto ridurre alcune attività e valutare trasferimenti temporanei degli ospiti, con personale e mezzi già impegnati su altre emergenze.
+«Datemi altri due giorni», disse Nico. «Posso ripercorrere i punti in cui ho fatto dipendere i dati da quella chiave.»
 
-«Non possiamo mandare un furgone?», chiese Marta.
+«Quale prova pensi di completare in due giorni?», domandò Mei.
 
-«In alcuni casi lo stiamo facendo», rispose Leah. «Ma il problema non è trovare un volante e una persona che guidi. È rintracciare le scorte giuste, validare il ritiro e recuperare le consegne in centri che stanno chiedendo tutti la stessa cosa.»
+«La mappa completa delle dipendenze. Forse una procedura di separazione su un modulo equivalente.»
 
-Marta guardò la riga con i tempi. Aveva pensato alle penali del Circuito; adesso pensava a Teresa, che nemmeno conosceva. Si sorprese di essere risentita del fatto che qualcuno le mettesse davanti la scelta in quel modo. Avrebbe voluto almeno un'ora per tornare a essere la proprietaria di un campo di simulazioni, non la persona che decideva quanto tempo poteva perdere una struttura di assistenza.
+«Una mappa non è una migrazione verificata.»
 
-Anche le strutture assistenziali chiedevano priorità. Aruvhana stava lavorando con una capacità minima in più paesi. La prima perdita grave nella catena delle consegne avrebbe costretto un cliente a interrompere una linea produttiva che non sarebbe ripartita senza giorni di verifiche.
+«Lo so.»
 
-«Non possiamo sacrificare la sicurezza per accelerare», disse Mei.
+«Possiamo studiarla», disse Mei. «Ma non posso trasformare quei due giorni in una probabilità di successo.»
 
-«E non possiamo non parlare del tempo», rispose Marta.
+Marta girò il foglio con le consegne sospese. «E chi dice ai clienti che aspetteranno altri due giorni?»
 
-Un tecnico mostrò il percorso più rapido: revoca formale della referenza originaria del pilota B-17, ritiro verificato dell'identità utilizzata per validarla e sostituzione progressiva della politica condivisa con nuove attestazioni firmate dai produttori. Ogni impianto avrebbe comunque dovuto accettare il nuovo stato dopo la propria verifica di sicurezza.
+Leah non parlò subito. Contrassegnò sul prospetto i siti che potevano procedere manualmente e quelli ancora senza percorso di recupero.
+
+Mei ritrovò sul proprio vecchio rapporto la parola *compatibile*, firmata per test allora superati. Non vi compariva nessuna prova della migrazione fra due identità hardware differenti. Abbassò la pagina perché Nico potesse leggerla anche lui.
+
+Nel prospetto c'era una nota dal centro assistenziale di Ada Serri: scorte prestate ad altri, consegna del magazzino regionale non ricomposta, possibilità di dover ridurre le attività e valutare trasferimenti degli ospiti entro due giorni. Il centro aveva persone disponibili a guidare; non sapeva quali materiali fossero effettivamente pronti per il ritiro.
+
+«E se pagassimo noi un furgone?», chiese Marta.
+
+«Un furgone non serve se nessuno può confermare quali scatole prendere», disse Leah. «In altre sedi abbiamo risolto manualmente. Qui non abbiamo ancora una lista affidabile.»
+
+Marta cercò sul prospetto il costo delle giornate perse dal Circuito. Prima di leggerlo, qualcuno le passò la pagina successiva: erano segnati i centri che aspettavano una risposta per la mattina dopo. Non conosceva Teresa né gli ospiti di Ada. La sua firma, però, avrebbe avuto conseguenze anche per loro.
+
+Aruvhana lavorava con capacità ridotta in più paesi. Un cliente aveva segnalato che, se un carico non fosse arrivato entro la finestra prevista, una linea si sarebbe fermata anche dopo il ripristino dei robot.
+
+«Quanto ci resta prima che sia troppo tardi per quel carico?», chiese Marta.
+
+Leah le mostrò l'orario. Non era un ultimatum legale né una prova che si dovesse cancellare Bi. Era il tempo che avevano per trovare una soluzione a quel cliente.
+
+Il tecnico mise sul tavolo la procedura già collaudata dai fornitori: ritiro certificato della referenza di B-17 e distribuzione di politiche sostitutive firmate, da verificare poi sito per sito. Non prometteva che tutte le macchine sarebbero ripartite insieme.
 
 «Perché serve cancellare l'identità della macchina?», domandò Marta. «Non possiamo spegnerla, revocare la credenziale e custodirla qui?»
 
 «Possiamo», rispose Mei. «È una delle strade che stiamo ancora studiando. Ma per far accettare una revoca ordinaria a tutte le vecchie installazioni dovremmo cambiare e collaudare le loro regole locali di fiducia. Non leggono tutte lo stesso elenco delle revoche.»
 
-Il tecnico mostrò due procedure. Quella già verificata dai fornitori prevedeva che il modulo d'identità originale certificasse il proprio ritiro definitivo: dopo l'azzeramento della sua credenziale, i produttori potevano firmare nuovi riferimenti e distribuirli, ciascuno ai propri clienti. L'altra consentiva di mantenere B-17 isolato mentre si sviluppavano regole alternative. Non aveva ancora una data di completamento.
+Il tecnico mostrò il dettaglio della procedura rapida. Il modulo d'identità originale doveva attestare il proprio ritiro definitivo; dopo l'azzeramento, ogni produttore avrebbe firmato un nuovo riferimento per i propri clienti. Sull'altra pagina restava aperto il piano meno distruttivo: conservare B-17 isolato e costruire un percorso di revoca accettato anche dalle installazioni più vecchie. La riga della data non era compilata.
 
 «Si può azzerare soltanto la credenziale?», chiese Marta.
 
@@ -89,11 +107,11 @@ Mei guardò Nico.
 
 «Potresti ricrearlo?», chiese Marta.
 
-«Potrei costruire un'altra configurazione conversazionale. Non potrei dimostrare che sia lui. Non so nemmeno se questa differenza abbia un significato che una macchina possa sentire.»
+«Potrei costruire un'altra configurazione conversazionale», disse Nico. «Non potrei garantire la continuità con quella che avete qui.»
 
-«Ma tu lo senti», disse Marta.
+«E se non aspettassimo?», chiese Marta.
 
-Nico non rispose.
+Nico guardò il filmato del carrello fermo sullo schermo. Non riuscì a rispondere.
 
 Leah passò alla questione delle evidenze. Il gruppo avrebbe dovuto conservare le registrazioni consentite, documentare il motivo della decisione e proteggere le informazioni personali delle persone che avevano parlato con B-17. Non avrebbero trasformato un archivio in una copia clandestina del robot.
 
@@ -115,10 +133,6 @@ Quando venne il momento di stabilire chi avrebbe materialmente eseguito il ritir
 
 «Perché lui?», chiese uno dei tecnici.
 
-Nico guardò la porta.
+Nico tirò fuori il proprio quaderno. Alcuni moduli erano segnati con il nome della funzione; altri soltanto con un asterisco. «Perché questa parte non compare nella documentazione del produttore. La conosco io. Ma voglio che il tecnico del produttore controlli ogni passaggio.»
 
-«Perché sono io che so dove non ho documentato il cambiamento.»
-
-Non lo disse come una giustificazione.
-
-Lo disse come una responsabilità che non poteva passare a qualcun altro, pur sapendo che avrebbe voluto farlo.
+Il responsabile delle verifiche prese il quaderno senza sfogliarlo. Gli chiese di depositarlo insieme agli allegati, prima della decisione. Nico lasciò andare la copertina soltanto quando fu certo che l'uomo lo teneva.
