@@ -137,4 +137,6 @@ Qualcuno aveva aggiunto sotto: **ORA CI PENSA B-21.**
 
 Paolo guardò le due righe. La seconda era vera.
 
+Controllò il telefono: il limite che si era imposto per le applicazioni non di lavoro era ancora intatto. Ne fu soddisfatto per un secondo; subito dopo si accorse che aveva aperto il controllo tre volte quella mattina. Spense lo schermo, irritato più con se stesso che con B-21.
+
 Tornò a lavorare senza prendere il caffè.

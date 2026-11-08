@@ -27,7 +27,13 @@ Mila ne contò ventiquattro e trentadue persone in piedi. Per la prima volta dal
 
 «Ne prendiamo altre?», chiese Paolo.
 
-«No», rispose Mila. «Poi ci mettiamo mezz'ora a rimetterle a posto.»
+«No», rispose Mila a un volume che fece voltare le persone già sedute. «Poi ci mettiamo mezz'ora a rimetterle a posto.»
+
+«Siamo qui», le ricordò Paolo, indicando la fila davanti a lei.
+
+«Lo so. Sto parlando con te.»
+
+La sua voce non era più alta perché fosse arrabbiata. Era sempre così. Un paio di colleghi sorrisero; gli altri non avevano voglia di ridere.
 
 Si accorse di ciò che aveva appena detto. Una settimana prima avrebbe chiesto a Bi. La preparazione della stanza era diventata una cosa che non organizzavano nemmeno più: comunicavano l'orario, e quando arrivavano il tavolo era già spostato, il passaggio libero, i bicchieri sistemati.
 

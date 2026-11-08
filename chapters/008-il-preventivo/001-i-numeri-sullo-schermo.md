@@ -87,7 +87,7 @@ Kyla abbassò gli occhi sulla penna. Aveva firmato gli atti una settimana prima,
 
 «Ho trasferito a Kyla Morgan l'uno virgola cinque per cento delle azioni che possedevo. L'accordo è perfezionato. Kyla rimane responsabile HR e Marketing e, da oggi, è anche azionista della società.»
 
-Gli applausi partirono in punti diversi. Mila si alzò con un «ERA ORA!» tanto forte che alcune persone in ultima fila si voltarono prima di capire il motivo. Paolo applaudì ridendo. Gavin non mosse le mani.
+Gli applausi partirono in punti diversi. Mila si alzò con un «Era ora!» tanto forte che alcune persone in ultima fila si voltarono prima di capire il motivo. Paolo applaudì ridendo. Gavin non mosse le mani.
 
 Verri invitò Kyla a dire qualche parola.
 

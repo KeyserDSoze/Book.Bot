@@ -79,7 +79,7 @@ Paolo lo guardò allontanarsi e si vergognò un poco di aver desiderato, all'ini
 
 Non era necessario detestarlo per voler ritrovare qualcun altro.
 
-Alla sera Paolo aprì il documento dei costi. Aggiustò una voce troppo ottimistica, aggiunse una riserva per imprevisti e scrisse in fondo una frase che avrebbe preferito evitare:
+Alla sera Paolo aprì il documento dei costi. Aveva promesso a Nerea che avrebbe guardato i contributi soltanto a fine giornata; invece aveva già aggiornato la pagina sei volte. Sapeva misurare quanto usava il telefono, e tuttavia non sapeva smettere di misurarlo. Fece sparire il contatore dalla schermata e tornò ai costi. Aggiustò una voce troppo ottimistica, aggiunse una riserva per imprevisti e scrisse in fondo una frase che avrebbe preferito evitare:
 
 **La raccolta non dà alcun diritto di proprietà sull'unità B-17, né garantisce la possibilità di riportarla a Cyberdine.**
 

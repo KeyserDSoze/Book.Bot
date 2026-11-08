@@ -37,6 +37,8 @@ Gavin aprì la cartellina. «Questo è quello che abbiamo consegnato. Il mio gru
 
 «D'accordo. Ma perché tu?»
 
+Non era soltanto invidia per il denaro o per l'attenzione. Gavin pensava al junior di cui aveva coperto tre notti, alla chiamata del cliente che aveva preso mentre il figlio lo aspettava per una cena promessa. Nessuno a casa gli avrebbe detto che quelle ore lo rendevano proprietario di qualcosa; lui, fino alla plenaria, non aveva mai pensato di chiedere.
+
 Kyla girò la cartellina verso di sé. Gavin la riprese, poi esitò e la lasciò sul tavolo.
 
 «Perché ho lavorato perché le persone di reparti diversi potessero fare insieme ciò che non riuscivano a fare da sole. Non penso di essere stata l'unica. E so che non tutte le decisioni che ho sostenuto erano buone.»

@@ -28,6 +28,8 @@ Suo padre era già lì, vicino alla vecchia casetta della sirena. Portava un cap
 
 «Sì.»
 
+Bruno aveva fatto quella domanda anche a Tessa, sua figlia maggiore, ogni volta che tornava da un viaggio. Nerea lo ricordò senza il dolore netto che le prendeva certe mattine, ma con il fastidio di vedere il padre conservare le stesse abitudini con chi era rimasto. Non glielo disse.
+
 Lui la guardò abbastanza a lungo da farle capire che non le credeva, ma non insistette. Le porse una pagina.
 
 Il sopralluogo aveva confermato che le quattordici case erano abitate e che la classificazione precedente era sbagliata. La rimozione della sirena restava sospesa. Il problema della copertura alternativa, soprattutto quando la rete telefonica era debole, non era risolto. Era prevista una seconda verifica, con misure in condizioni diverse da quelle del primo intervento.

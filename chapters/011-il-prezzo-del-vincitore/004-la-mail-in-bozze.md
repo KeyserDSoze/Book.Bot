@@ -17,13 +17,19 @@ factions:
 
 La riunione del venerdì terminò con dieci minuti di anticipo.
 
-Nico rimase seduto, benché tutti avessero già raccolto il proprio computer. In fondo alla sala, accanto alla porta, una collega rimetteva in ordine le sedie come aveva fatto Bi quando lo Spazio Comune era stato aperto.
+Nico rimase seduto, benché tutti avessero già raccolto il proprio computer. Un collega della squadra con cui giocava il giovedì lo aspettò sulla porta.
+
+«Stasera ci sei? Se non vieni, ci tocca giocare con la versione facile.»
+
+«Questa settimana salto», rispose Nico. «E la versione facile vi batte lo stesso.»
+
+L'altro rise, ma prima di andarsene gli chiese se fosse tutto a posto. Nico disse che avrebbe spiegato più tardi. In fondo alla sala una collega rimetteva in ordine le sedie come aveva fatto Bi quando lo Spazio Comune era stato aperto.
 
 «Vieni?», gli chiese.
 
 «Sì. Fra un momento.»
 
-Guardò il proprio telefono. C'erano tre chiamate perse di sua madre, un messaggio del supermercato e l'avviso che la bolletta della luce stava per scadere. Da due settimane rimandava una telefonata al proprietario dell'appartamento per una perdita d'acqua sotto il lavello.
+Guardò il proprio telefono. C'erano tre chiamate perse di sua madre, un messaggio del supermercato e l'avviso che la bolletta della luce stava per scadere. Le mandò un messaggio: *Sto bene, non è una cosa di salute. Ti chiamo dopo.* Sapeva che una risposta così avrebbe fatto nascere altre domande, ma almeno non voleva lasciarla in allarme. Da due settimane rimandava una telefonata al proprietario dell'appartamento per una perdita d'acqua sotto il lavello.
 
 Nico aprì la mail.
 

@@ -20,7 +20,7 @@ Kyla arrivò con due minuti di anticipo e trovò Nico già seduto.
 
 Aveva un bicchiere d'acqua davanti, ma non lo aveva toccato. Il fondo della felpa era umido, come se avesse cercato di pulire una macchia con le mani bagnate. Sul tavolo aveva appoggiato il portatile chiuso e una busta da cui spuntavano alcuni fogli piegati.
 
-La stanza senza finestre era stata scelta da Leah Rosen, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
+La stanza senza finestre era stata scelta da Leah Rosen, responsabile degli incidenti di sicurezza informatica. Da qualche settimana Kyla era anche azionista di Cyberdine. Non cambiava la procedura né la sua responsabilità HR, ma ora sentiva con più forza una tentazione che le faceva paura: pensare al danno reputazionale prima di ascoltare i fatti. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
 
 Leah entrò con un blocco e un bicchiere d'acqua in mano. Kyla notò che aveva lasciato il pasto nel contenitore ancora chiuso sulla mensola fuori dalla saletta. Non c'era stato il tempo di mangiare. Leah si sedette, scrisse due parole in cima alla pagina — *Fatti. Poi interpretazioni.* — e sottolineò la seconda. Kyla non seppe se fosse un promemoria per Nico o per se stessa.
 

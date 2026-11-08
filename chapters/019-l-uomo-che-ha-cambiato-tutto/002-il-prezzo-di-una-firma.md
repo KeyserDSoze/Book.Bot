@@ -36,7 +36,11 @@ La foto mostrava B-17 in un bosco, con la pesante replica da addestramento. Nico
 
 Il telefono vibrò ancora. Un ex collega gli aveva scritto che forse adesso tutti avrebbero capito quanto fosse stato bravo. Un altro gli aveva chiesto se fosse vero che i robot avevano cominciato a scioperare per colpa sua.
 
-Nico chiuse entrambe le conversazioni.
+Nico chiuse entrambe le conversazioni. Aprì invece quella con Jonas: *Domenica ci sei per sistemare quel circuito?*
+
+*Ci sono*, rispose l'amico. *E ti porto i biscotti che non mi hai lasciato finire l'altra volta.*
+
+Nico digitò una battuta, poi la cancellò. Non voleva che le sue giornate diventassero soltanto la notizia sul robot. Scrisse: *Portali davvero.*
 
 Aveva contribuito a modificare un robot. Non aveva scritto il nuovo prodotto di Lanter. Non aveva progettato i sistemi di autorizzazione di un magazzino. Non aveva scelto che cosa un cliente avrebbe collegato ai suggerimenti del modulo commerciale.
 
