@@ -5,27 +5,27 @@ chapter: chapter:027-l-ultima-assunzione
 number: 2
 title: Esperienza precedente
 canon: canon
-pov: character:youssef-benali
+pov: character:yusuf-karim
 characters:
-  - character:youssef-benali
-  - character:sergio-lolli
+  - character:yusuf-karim
+  - character:samuel-price
 locations:
   - location:noccioleto-colle-alto
 factions:
   []
 ---
 
-Youssef Benali aveva imparato a controllare la maturazione delle nocciole senza guardare il cielo.
+Yusuf Karim aveva imparato a controllare la maturazione delle nocciole senza guardare il cielo.
 
-Bastava raccoglierne una da terra, aprirla e sfregarne il guscio fra le dita. I primi anni in Italia lo aveva fatto seguendo Sergio, poi da solo. Sapeva riconoscere i filari che perdevano più prodotto quando arrivava un temporale e le zone in cui era meglio aspettare il sole.
+Bastava raccoglierne una da terra, aprirla e sfregarne il guscio fra le dita. I primi anni in Italia lo aveva fatto seguendo Samuel, poi da solo. Sapeva riconoscere i filari che perdevano più prodotto quando arrivava un temporale e le zone in cui era meglio aspettare il sole.
 
 Per questo la telefonata gli aveva fatto male più di quanto si aspettasse.
 
-Non perché Sergio fosse un cattivo datore di lavoro. Gli aveva sempre pagato le giornate concordate e chiamava in anticipo quando la stagione cambiava. Era proprio l'assenza di una persona da accusare a rendere tutto più difficile.
+Non perché Samuel fosse un cattivo datore di lavoro. Gli aveva sempre pagato le giornate concordate e chiamava in anticipo quando la stagione cambiava. Era proprio l'assenza di una persona da accusare a rendere tutto più difficile.
 
-Youssef viveva in una stanza in affitto con un altro lavoratore. Sul tavolo aveva un foglio con i mesi dell'anno e le attività previste: raccolta delle nocciole, manutenzione stagionale, qualche settimana in magazzino, lavori per cui riusciva a organizzarsi se sapeva le date.
+Yusuf viveva in una stanza in affitto con un altro lavoratore. Sul tavolo aveva un foglio con i mesi dell'anno e le attività previste: raccolta delle nocciole, manutenzione stagionale, qualche settimana in magazzino, lavori per cui riusciva a organizzarsi se sapeva le date.
 
-Sua sorella gli aveva chiesto se sarebbe tornato per l'inverno e, qualche giorno dopo, gli aveva mandato soltanto la fotografia di una tovaglia troppo colorata che aveva comprato. Voleva sapere se fosse brutta. Youssef non aveva risposto: stava confrontando le date dei contratti, e gli era sembrata una domanda sciocca. Poi l'aveva riguardata tre volte. Per una sera aveva desiderato essere soltanto il fratello a cui chiedevano un parere su una tovaglia, non quello che doveva sempre dire *non so ancora quando vengo*.
+Sua sorella gli aveva chiesto se sarebbe tornato per l'inverno e, qualche giorno dopo, gli aveva mandato soltanto la fotografia di una tovaglia troppo colorata che aveva comprato. Voleva sapere se fosse brutta. Yusuf non aveva risposto: stava confrontando le date dei contratti, e gli era sembrata una domanda sciocca. Poi l'aveva riguardata tre volte. Per una sera aveva desiderato essere soltanto il fratello a cui chiedevano un parere su una tovaglia, non quello che doveva sempre dire *non so ancora quando vengo*.
 
 Le mandò una risposta vocale: «È orribile, prendila.» Rise da solo nel piccolo appartamento. La sorella gli inviò una faccina offesa e nessuna domanda sul lavoro.
 
@@ -35,23 +35,23 @@ Chiamò due colleghi. Uno aveva già accettato un impiego lontano, l'altro non s
 
 «Hanno comprato tutti quei robot», disse il secondo.
 
-«Non tutti», rispose Youssef. «Non ancora.»
+«Non tutti», rispose Yusuf. «Non ancora.»
 
 «Aspetta un anno.»
 
-Youssef chiuse la chiamata senza contraddirlo.
+Yusuf chiuse la chiamata senza contraddirlo.
 
-Tre settimane dopo Sergio lo invitò a vedere la prova della macchina. Non gli offrì di guidarla: l'operazione era riservata al personale autorizzato. Gli chiese invece se voleva partecipare alle attività di preparazione e controllo del terreno.
+Tre settimane dopo Samuel lo invitò a vedere la prova della macchina. Non gli offrì di guidarla: l'operazione era riservata al personale autorizzato. Gli chiese invece se voleva partecipare alle attività di preparazione e controllo del terreno.
 
-Youssef arrivò con mezz'ora di anticipo.
+Yusuf arrivò con mezz'ora di anticipo.
 
 La raccoglitrice avanzava lentamente lungo un filare. Quando incontrò una zolla che sporgeva, rallentò e chiese una verifica del percorso. Il tecnico controllò e autorizzò la deviazione. Nessuno applaudì. Era una prova di lavoro, non una dimostrazione.
 
-Sergio indicò il monitor.
+Samuel indicò il monitor.
 
 «Vedi qui? Se il suolo è preparato bene, perde meno prodotto.»
 
-Youssef guardò le nocciole raccolte.
+Yusuf guardò le nocciole raccolte.
 
 «Quel tratto lo avrei ripulito io in un'ora.»
 
@@ -59,11 +59,11 @@ Youssef guardò le nocciole raccolte.
 
 «Per due settimane.»
 
-Sergio non rispose.
+Samuel non rispose.
 
 Il tecnico disse che il costruttore offriva un corso per manutentori di primo livello. Richiedeva alcune basi di elettricità e meccanica, e non garantiva nessun incarico alla fine.
 
-Youssef chiese quanto costasse.
+Yusuf chiese quanto costasse.
 
 Il prezzo era inferiore a quello dei vecchi corsi professionalizzanti che aveva guardato, ma per lui rappresentava quasi un mese di affitto.
 

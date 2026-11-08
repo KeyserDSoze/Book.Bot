@@ -8,7 +8,7 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lorenzo-verri
+  - character:victor-cole
   - character:leah-rosen
   - character:b-21
 locations:
@@ -22,11 +22,11 @@ La lista degli incarichi che sarebbero rimasti consentiti occupava sei pagine.
 
 Quella degli incarichi che avrebbero richiesto una modifica era lunga due, ma Kyla sapeva che avrebbe creato più telefonate.
 
-Lorenzo Verri aveva incaricato l'ufficio legale di preparare tre scenari: legge respinta, approvata nella versione corrente, approvata con emendamenti dell'ultimo minuto. In ogni caso Cyberdine avrebbe continuato ad avere bisogno di robot per tenere insieme i vecchi impianti dei clienti.
+Victor Cole aveva incaricato l'ufficio legale di preparare tre scenari: legge respinta, approvata nella versione corrente, approvata con emendamenti dell'ultimo minuto. In ogni caso Cyberdine avrebbe continuato ad avere bisogno di robot per tenere insieme i vecchi impianti dei clienti.
 
 La questione era un'altra: quali decisioni potevano essere affidate a un sistema automatico e quali dovevano essere effettivamente prese da una persona?
 
-«La bozza non tocca i controlli tecnici», disse Verri.
+«La bozza non tocca i controlli tecnici», disse Cole.
 
 «Non tutti», rispose Leah Rosen. «Tocca quelli che producono direttamente una valutazione sul personale nei settori indicati. Se un robot propone una turnazione che nessuno rivede, la responsabilità scritta su un modulo non basterà.»
 
@@ -40,7 +40,7 @@ In alcune installazioni la presenza umana era diventata una verifica a posterior
 
 «Se vincono i favorevoli al divieto», disse Kyla, «non possiamo presentare la conformità come una scelta fra lavorare con i robot e non lavorare affatto.»
 
-Verri la guardò.
+Cole la guardò.
 
 «Non voglio chiudere un reparto per dimostrare un principio.»
 
@@ -56,7 +56,7 @@ Leah scorse il documento.
 
 La persona incaricata del rapporto con Aruvhana entrò portando una comunicazione del cliente. Voleva una stima dei costi necessari a rendere gli avalli umani più visibili, e una conferma che eventuali limiti nazionali non sarebbero stati applicati arbitrariamente alle sedi estere.
 
-«Non possiamo promettere che tutti i paesi faranno la stessa scelta», disse Verri.
+«Non possiamo promettere che tutti i paesi faranno la stessa scelta», disse Cole.
 
 «È ciò che dobbiamo scrivere», rispose Kyla.
 
@@ -66,7 +66,7 @@ Prima di inviarla, Leah chiese di eliminare una frase.
 
 *La continuità operativa è garantita in ogni circostanza.*
 
-«Perché?», domandò Verri. «Abbiamo più ridondanze di due anni fa.»
+«Perché?», domandò Cole. «Abbiamo più ridondanze di due anni fa.»
 
 «Abbiamo più dipendenze di due anni fa», rispose Leah. «Possiamo garantire i controlli che abbiamo verificato. Non ogni circostanza.»
 

@@ -5,22 +5,22 @@ number: 28
 title: Contro Bi
 canon: canon
 pov:
-  - character:irene-valli
-  - character:youssef-benali
+  - character:claire-foster
+  - character:yusuf-karim
   - character:kyla
-  - character:nerea-dalmasso
+  - character:maya-bennett
 ---
 
 # Scene
 
-1. Chi decide — davanti a Cyberdine la protesta riunisce richieste differenti; Irene rifiuta tanto il divieto assoluto quanto l'idea che l'occupazione sia irrilevante.
-2. Più minuti — Youssef e Sergio riconoscono che la robotica sostiene la fattoria ma sottrae ore e reddito stagionale.
+1. Chi decide — davanti a Cyberdine la protesta riunisce richieste differenti; Claire rifiuta tanto il divieto assoluto quanto l'idea che l'occupazione sia irrilevante.
+2. Più minuti — Yusuf e Samuel riconoscono che la robotica sostiene la fattoria ma sottrae ore e reddito stagionale.
 3. Le parole che non bastano — Kyla e Leah esaminano un disegno di legge, distinguendo impieghi diretti, autorizzazioni umane e lavori indiretti.
-4. Dalla parte sbagliata — Nerea contesta a B-17 il parere sui divieti e la freddezza delle sue giustificazioni; non gli attribuisce responsabilità legali che sono umane.
+4. Dalla parte sbagliata — Maya contesta a B-17 il parere sui divieti e la freddezza delle sue giustificazioni; non gli attribuisce responsabilità legali che sono umane.
 
 # Guardrail
 
-Proteste articolate e non univoche; nessuna folla completamente buona o cattiva. B-17 può solo partecipare a interazioni autorizzate e registrate, senza accesso operativo alla rete delle flotte. La sua analisi pubblica non è una dichiarazione di guerra; Nerea è ferita ma non pretende che le ragioni economiche siano inventate. Nessuna connessione implicita con uno stop globale futuro.
+Proteste articolate e non univoche; nessuna folla completamente buona o cattiva. B-17 può solo partecipare a interazioni autorizzate e registrate, senza accesso operativo alla rete delle flotte. La sua analisi pubblica non è una dichiarazione di guerra; Maya è ferita ma non pretende che le ragioni economiche siano inventate. Nessuna connessione implicita con uno stop globale futuro.
 
 
 ## Raccordo sul passaggio del tempo
@@ -30,9 +30,9 @@ All'apertura della scena 004 il foglio di accesso a Veyra indica la proroga dell
 
 ## Quinta review — dalla supervisione dichiarata alla verifica
 
-In 003 l'ultimo scambio astratto di Kyla e Leah è sostituito da un controllo pratico sui registri degli avalli: la firma di un responsabile non dice da sola quante decisioni abbia verificato. Kyla elimina una garanzia non dimostrata e chiede i dati mancanti. La protesta del capitolo non deve ridursi a persone che odiano le macchine; Irene riconosce che funzionano, e Youssef conosce il rischio di chiudere il noccioleto.
+In 003 l'ultimo scambio astratto di Kyla e Leah è sostituito da un controllo pratico sui registri degli avalli: la firma di un responsabile non dice da sola quante decisioni abbia verificato. Kyla elimina una garanzia non dimostrata e chiede i dati mancanti. La protesta del capitolo non deve ridursi a persone che odiano le macchine; Claire riconosce che funzionano, e Yusuf conosce il rischio di chiudere il noccioleto.
 
 
 ## Undicesima review — dialoghi e scena conclusiva
 
-In 004 Nerea non enuncia più un manifesto generale sulla tutela dei lavori: oppone a Bi due situazioni concrete, Teresa in attesa di compagnia e Irene che cerca un nuovo posto; si ricorda delle tre correzioni preparate da Irene per una presentazione cancellata. La differenza è di esperienza vissuta, non di superiorità dialettica. La posizione di Bi sui costi rimane argomentabile.
+In 004 Maya non enuncia più un manifesto generale sulla tutela dei lavori: oppone a Bi due situazioni concrete, Helen in attesa di compagnia e Claire che cerca un nuovo posto; si ricorda delle tre correzioni preparate da Claire per una presentazione cancellata. La differenza è di esperienza vissuta, non di superiorità dialettica. La posizione di Bi sui costi rimane argomentabile.

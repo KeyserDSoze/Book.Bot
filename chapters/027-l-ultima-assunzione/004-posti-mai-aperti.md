@@ -5,10 +5,10 @@ chapter: chapter:027-l-ultima-assunzione
 number: 4
 title: Posti mai aperti
 canon: canon
-pov: character:irene-valli
+pov: character:claire-foster
 characters:
-  - character:irene-valli
-  - character:nerea-dalmasso
+  - character:claire-foster
+  - character:maya-bennett
   - character:kyla
 locations:
   - location:cyberdine-campus
@@ -16,17 +16,17 @@ factions:
   - faction:cyberdine
 ---
 
-Irene Valli tornò a Cyberdine con un tesserino da visitatrice.
+Claire Foster tornò a Cyberdine con un tesserino da visitatrice.
 
-Nerea l'aspettava nell'atrio, accanto alla vasca che Kyla aveva usato come sfondo durante la prima visita di Aruvhana. Era passato abbastanza tempo perché alcuni colleghi non riconoscessero Irene senza il badge aziendale.
+Maya l'aspettava nell'atrio, accanto alla vasca che Kyla aveva usato come sfondo durante la prima visita di Aruvhana. Era passato abbastanza tempo perché alcuni colleghi non riconoscessero Claire senza il badge aziendale.
 
-«Se vuoi andarcene dopo il primo incontro, andiamo», disse Nerea.
+«Se vuoi andarcene dopo il primo incontro, andiamo», disse Maya.
 
 «Sono venuta per capire chi stanno assumendo.»
 
 Aveva lavorato, negli ultimi diciotto mesi. Incarichi brevi di collaudo, revisioni di registri, qualche corso su come ricostruire errori negli impianti vecchi. Non era rimasta inattiva. Non aveva trovato un ruolo stabile e non aveva smesso di cercarlo.
 
-Al quarto piano riconobbe il tavolo dove Adriana le aveva insegnato a controllare le versioni dei documenti. Ora era una postazione dimostrativa. Un robot stava accanto a un programmatore giovane, davanti a due schermi. Sul primo compariva un diagramma di servizi software; sul secondo, una sequenza di ticket.
+Al quarto piano riconobbe il tavolo dove Margaret le aveva insegnato a controllare le versioni dei documenti. Ora era una postazione dimostrativa. Un robot stava accanto a un programmatore giovane, davanti a due schermi. Sul primo compariva un diagramma di servizi software; sul secondo, una sequenza di ticket.
 
 «Facciamo una prova», disse il programmatore al robot. «Il cliente aggiunge un nuovo formato di conferma per i trasferimenti. Vogliamo continuare a riconoscere quello vecchio, senza duplicare le operazioni, e dobbiamo conservare traccia delle approvazioni.»
 
@@ -36,7 +36,7 @@ L'agente di sviluppo preparò una proposta di architettura. Il robot mostrò il 
 
 «Sì. E mostrami anche le alternative che hai scartato.»
 
-Irene si ritrovò a sorridere. Le richieste erano giuste. Molte le aveva contribuito a inserire nelle vecchie procedure di Cyberdine.
+Claire si ritrovò a sorridere. Le richieste erano giuste. Molte le aveva contribuito a inserire nelle vecchie procedure di Cyberdine.
 
 In pochi minuti sul monitor apparvero la patch proposta, un elenco di test e un confronto tra versioni. Il programmatore selezionò due casi aggiuntivi, respinse un suggerimento e fece verificare il risultato in ambiente di prova. Il robot non pubblicò il rilascio: lo stato rimase *in attesa di approvazione*.
 
@@ -52,7 +52,7 @@ Il programmatore aprì il file mostrato dalla piattaforma. Era lungo alcune cent
 
 «Ma se il modulo sbaglia la seconda conferma?»
 
-Il ragazzo esitò. Non perché non sapesse leggere codice: Irene vide che riconosceva la struttura e i controlli. Semplicemente, il suo lavoro non gli aveva mai richiesto di seguire quel modulo fino alla prima versione.
+Il ragazzo esitò. Non perché non sapesse leggere codice: Claire vide che riconosceva la struttura e i controlli. Semplicemente, il suo lavoro non gli aveva mai richiesto di seguire quel modulo fino alla prima versione.
 
 «Dovrei aprire la cronologia e controllare i casi di regressione», rispose.
 
@@ -60,9 +60,9 @@ Il ragazzo esitò. Non perché non sapesse leggere codice: Irene vide che ricono
 
 «Dipende da ciò che trovo. Oggi non lo so.»
 
-Irene apprezzò quella risposta. Non era brillante come la dimostrazione, ma era più utile di una rassicurazione.
+Claire apprezzò quella risposta. Non era brillante come la dimostrazione, ma era più utile di una rassicurazione.
 
-Nerea le si avvicinò.
+Maya le si avvicinò.
 
 «Ti fa arrabbiare?»
 
@@ -74,7 +74,7 @@ Nerea le si avvicinò.
 
 Il responsabile del personale le si avvicinò dopo la dimostrazione. Aveva letto il suo curriculum e le fece domande precise. Voleva sapere di quali protocolli avesse seguito la migrazione, quali prove avesse preparato senza strumenti agentici e come gestisse i rischi di un rilascio con dati incompleti.
 
-Irene rispose con esempi concreti. Alcune domande erano migliori di quelle che aveva ricevuto quando lavorava lì.
+Claire rispose con esempi concreti. Alcune domande erano migliori di quelle che aveva ricevuto quando lavorava lì.
 
 «Stiamo aprendo un'attività di verifica delle eccezioni», disse l'uomo.
 
@@ -86,9 +86,9 @@ Irene rispose con esempi concreti. Alcune domande erano migliori di quelle che a
 
 «Sì. Ma non abbiamo un volume costante sufficiente per un nuovo ruolo senior.»
 
-Irene prese il biglietto. Non lo buttò. Il lavoro occasionale era lavoro e le permetteva di pagare le bollette. Non avrebbe però finto che fosse la carriera a cui aveva dedicato anni.
+Claire prese il biglietto. Non lo buttò. Il lavoro occasionale era lavoro e le permetteva di pagare le bollette. Non avrebbe però finto che fosse la carriera a cui aveva dedicato anni.
 
-Più tardi incontrò Kyla davanti al pannello delle posizioni aperte. I nomi dei ruoli erano cambiati: supervisione di agenti, controllo delle attestazioni, sicurezza del software, manutenzione robotica, revisione delle eccezioni. Non comparivano più molte delle posizioni junior con cui Irene aveva visto cominciare i suoi colleghi.
+Più tardi incontrò Kyla davanti al pannello delle posizioni aperte. I nomi dei ruoli erano cambiati: supervisione di agenti, controllo delle attestazioni, sicurezza del software, manutenzione robotica, revisione delle eccezioni. Non comparivano più molte delle posizioni junior con cui Claire aveva visto cominciare i suoi colleghi.
 
 «Come va?», chiese Kyla.
 
@@ -112,9 +112,9 @@ Kyla pensò alla domanda.
 
 «Meno di quanti avremmo dovuto», rispose.
 
-Irene la guardò. Non era la risposta che si aspettava. Non serviva a trovare un impiego, ma almeno non trasformava una assenza in una conquista.
+Claire la guardò. Non era la risposta che si aspettava. Non serviva a trovare un impiego, ma almeno non trasformava una assenza in una conquista.
 
-All'uscita incrociò un giovane neoassunto che mostrava agli amici la fotografia del proprio badge. Sorrideva come Irene aveva sorriso il giorno del suo primo contratto. Era felice e aveva tutte le ragioni per esserlo.
+All'uscita incrociò un giovane neoassunto che mostrava agli amici la fotografia del proprio badge. Sorrideva come Claire aveva sorriso il giorno del suo primo contratto. Era felice e aveva tutte le ragioni per esserlo.
 
 Gli fece spazio e scese nel parcheggio.
 
@@ -122,6 +122,6 @@ Sul telefono trovò un messaggio di una delle aziende incontrate.
 
 *Grazie per la disponibilità. Il ruolo è stato rinviato alla prossima verifica del fabbisogno.*
 
-Irene chiuse la notifica senza cancellare il numero. Poi riaprì la fotografia di una libreria usata. Era ancora disponibile; il venditore aveva ridotto di poco il prezzo.
+Claire chiuse la notifica senza cancellare il numero. Poi riaprì la fotografia di una libreria usata. Era ancora disponibile; il venditore aveva ridotto di poco il prezzo.
 
 A casa spostò quattro volumi dalla sedia per appoggiare la borsa. Li rimise sulla seconda sedia e provò a scrivere al venditore. Quando arrivò alla frase *posso passare domani?*, guardò il calendario degli incontri di lavoro. Non inviò il messaggio. Rimase in piedi in cucina con il telefono acceso.
