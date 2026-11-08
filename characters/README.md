@@ -6,7 +6,7 @@ canon: canon
 
 # Registro dei personaggi — canone del romanzo
 
-Questo indice comprende **tutte le schede di `characters/`** e distingue i nomi già canonici dalle proposte di rinomina non applicate. Il nome canonico di Kyla è ora **Kyla Morgan**: l'id `character:kyla` resta per compatibilità. Leah Rosen, Mila Novak, Elena Fischer e Olivia Brooks sono rinomine già applicate; Malik Okafor, Anika Rao ed Erik Solberg sono figure internazionali già integrate. Le eventuali proposte *Noah Bennett* (Noah), *Alexander Reed* (Victor), *Claire Walsh* (Claire), *Paul Carter* (Paul) restano proposte, non alias ufficiali.
+Questo indice è il **registro canonico aggiornato** dopo la riconciliazione delle PR #3–#8. I nomi internazionali presenti nelle scene e nelle schede sono quelli da usare nelle prossime revisioni; le vecchie grafie nel file `guidelines/cast-rename-map.json` sono solo riferimenti di migrazione, non alias utilizzabili nel romanzo. **Kyla Morgan** mantiene l'ID storico `character:kyla`; **Mei Lin, Leah Rosen, Mila Novak, Elena Fischer, Olivia Brooks, Malik Okafor, Anika Rao ed Erik Solberg** conservano identità già internazionali. **Grace Walker** non è parente di Kyla Morgan; **Gavin Shaw** non è parente di Victor Cole. **Maya e Daniel Bennett** sono figlia e padre, **Helen e Chloe Rivera** madre e figlia. Le proposte onomastiche precedenti non sono canoniche.
 
 ## Cyberdine e famiglia (15 persone)
 
