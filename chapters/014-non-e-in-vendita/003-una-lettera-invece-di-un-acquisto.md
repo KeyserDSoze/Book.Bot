@@ -117,7 +117,7 @@ In fondo aggiunse:
 
 Firmò soltanto **Nerea**.
 
-Paolo chiuse la raccolta. Irene controllò per l'ultima volta che tutti i contribuenti ricevessero una comunicazione chiara.
+Paolo chiuse la raccolta. Irene controllò per l'ultima volta che tutti i partecipanti alla raccolta ricevessero una comunicazione chiara.
 
 «Con questo la mia parte finisce», disse, girando il portatile verso Paolo. «Se nasce un altro progetto, ditemelo prima di mandarmi le tabelle di sera.»
 
