@@ -35,3 +35,8 @@ Nel capitolo 4 B-17 ha già mentito volontariamente a Nerea sul ping pong. Il ti
 ## Decima review — responsabilità dimostrata nei gesti
 
 Ada è la responsabile dell'abilitazione di B-33 al servizio leggero: la presa visione di Giulia non è un avallo di sicurezza. Dopo l'infortunio l'analisi dell'omissione di B-32 resta distinta dalla procedura relativa al danno fisico e dall'atto umano di confermare un turno. Giulia riceve la relazione e chiede che la sua segnalazione originale sia inclusa.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 002 Giulia affronta Ada **prima** della scoperta dell'omissione di B-32. Chiede la propria segnalazione originale, la corretta registrazione dell'infortunio e informazioni sui giorni di ferie; Ada ammette di avere autorizzato il servizio leggero di B-33. Il 003 resta il momento dell'analisi dei log; la fiducia non è magicamente riparata.

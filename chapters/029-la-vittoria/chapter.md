@@ -41,3 +41,8 @@ Teresa distingue rapporti con persone identificabili da promesse di servizio; Ad
 ## Tredicesima review — continuità istituzionale e personaggi
 
 **Tredicesima review (iter normativo):** Nerea **richiede** la visita a Veyra tre giorni prima del voto e la **svolge** nel pomeriggio della vigilia. Quella sera, dopo le 20:00, ha luogo il voto parlamentare definitivo. Olivia distingue esplicitamente l'avvenuta approvazione da promulgazione, pubblicazione ed entrata in vigore; il feed parlamentare notifica l'esito e non un divieto già efficace. Il testo ha un periodo di adeguamento. I robot lavorano normalmente durante la notte.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 002 Giulia richiama con Ada l'episodio di B-33 e chiede ore reali di supervisione per B-32, prima che la norma sia applicabile. Nel 004 Nerea si fa da parte quando Olivia vuole intervistare Irene: la riconciliazione tra amiche è una scelta di ascolto, non un discorso perfetto.

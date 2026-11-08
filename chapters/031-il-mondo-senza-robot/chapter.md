@@ -45,3 +45,8 @@ L'infortunio precedente di Giulia non scompare quando il lavoro robotico si ferm
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — gli straordinari hanno due destinatari.** Nel 002 Rosa fotografa le ore del turno da controllare in busta paga e conferma alla vicina il ritiro del figlio; gli scrive che la ruota della bici si riparerà domani e torna al transpallet. Il reddito e l'assenza genitoriale restano fatti insieme, senza una chiosa su cosa dovrebbe provare.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 001 Elisa arriva al centro con due amici e una cassa d'acqua; Ada consente l'aiuto al banco ma non la sostituzione del personale nei reparti. Elisa sceglie di stare con Teresa. È un limite di responsabilità professionale, non rifiuto di aiuto né conclusione della crisi di organico.

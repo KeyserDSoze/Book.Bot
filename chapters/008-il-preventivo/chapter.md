@@ -42,3 +42,8 @@ La scena 4 sostituisce l'idea del solo lavoro cartaceo con la perdita di **test 
 ## Ottava review — il corso che non parte
 
 In 004, nel mese senza B-17, il piano di continuità funziona soltanto perché singole persone ricostruiscono librerie e controlli su terminali reali. L'impegno di formazione del 5 resta rinviato per ore non assegnate a un progetto, benché tutti ne riconoscano l'importanza. Irene dedica mezz'ora a insegnare a un collega un caso concreto senza far passare la lezione per un nuovo ruolo senior o una soluzione strutturale.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 005 Gavin vede la pizza che il figlio gli ha lasciato dopo la cena mancata. Non ferma Elena nel corridoio e promette un altro lavoro serale agli sviluppatori. Solo nel 25/004 comincia a portare sul proprio prospetto le ore esterne di QA che rendono meno verde il suo KPI.

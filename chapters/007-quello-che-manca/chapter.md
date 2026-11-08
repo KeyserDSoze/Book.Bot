@@ -49,3 +49,8 @@ L'impegno assunto nel capitolo 5 a insegnare la manutenzione delle vecchie libre
 ## Tredicesima review — continuità istituzionale e personaggi
 
 **Tredicesima review (Malik):** in 002 Malik ammette la propria candidatura a referente tecnico, ostacolata dai tempi aperti dei suoi ticket e dalla valutazione di Gavin. La sua ambizione prosegue nel 25 e nel recupero di versioni legacy del 30; non è soltanto il collega che aiuta Irene senza un prezzo personale.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 001 Mila risponde alla sorella dopo aver rinviato troppe chiamate, lasciando a Paolo i bicchieri. Nel 002 il dialogo sulla ricostruzione del vecchio registro è stato corretto: Malik avverte Gavin e apre il codice, Irene recupera il cartaceo con Adriana. Non rimettere l'errato «No. Vado a prendere il registro» dopo «Avvisalo».

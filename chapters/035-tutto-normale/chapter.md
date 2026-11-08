@@ -58,3 +58,8 @@ In 001 l'apertura ripete meno materiale tecnico già verificato nei capitoli 33�
 ## Tredicesima review — continuità istituzionale e personaggi
 
 **Tredicesima review (epilogo non anticipa l'entrata in vigore):** B-32 non viene riammesso alla compagnia autonoma prolungata per una scelta cautelativa di Ada e per preparare l'adeguamento futuro al testo parlamentare; gli obblighi non sono dichiarati già efficaci pochi giorni dopo il voto. Irene dice espressamente che promulgazione, pubblicazione e adeguamento devono ancora seguire. Malik parteciperà alla formazione sulle librerie legacy, senza promozione garantita. Nessuna modifica alla frase finale **«Tutto tornò normale.»**
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 002 Sofia offre a Rosa tre ore extra alle sei del mattino, incompatibili con accompagnare il figlio a scuola. La tensione economica resta anche dopo la ripartenza. Non cambiare il recupero progressivo dei siti o la conclusione del romanzo.

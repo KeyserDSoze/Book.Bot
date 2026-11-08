@@ -61,3 +61,8 @@ Nel 2 Paolo continua a spiegare la macchinetta del caffè a chi non glielo ha ch
 Paolo ha perso entrambi i genitori, segnati da dipendenze da sostanze e morti quando lui era adolescente. È cresciuto con una zia che lo ha accudito con concretezza. Da allora non fuma, non assume droghe, controlla il tempo sul telefono e interrompe deliberatamente i giochi prima che diventino un'abitudine. È duro, talvolta ingiusto, con chi fuma o usa sostanze: la sua ostilità nasce dal lutto e non viene approvata come giudizio sulle persone dipendenti.
 
 La contraddizione è visibile: controlla continuamente i timer per verificare di non essere «dipendente», pretende di riparare tutto da solo e difende la pausa caffè quotidiana come se fosse necessaria. Dopo l'assenza di Bi scopre quante attività aveva affidato senza accorgersene a una routine robotica. È diventato quasi dipendente dall'idea di non dipendere. Mostrare il tratto in gesti e discussioni, senza monologhi esplicativi.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 7/001, dopo avere spiegato a Mila perché non potevano prevedere l'aggressione, Paolo capisce di non averle chiesto come stia. La sorella la chiama da Zagabria, Mila va a rispondere e Paolo sistema da solo la scorta di bicchieri. La sua capacità tecnica non è capacità di consolare; il lutto dei genitori e il bisogno di controllare le abitudini non devono spiegare meccanicamente ogni sua scelta.

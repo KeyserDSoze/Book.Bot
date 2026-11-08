@@ -25,3 +25,8 @@ B-37 pianifica e propone, non è un datore di lavoro e non assume o licenzia. So
 ## Decima review — responsabilità dimostrata nei gesti
 
 Rosa aveva incorporato straordinari ripetuti nel bilancio famigliare e paga una rata di motorino che non diminuisce. Domanda il prospetto dei turni e il confronto coi rappresentanti dei lavoratori: il beneficio della pianificazione equa e la perdita di reddito sono simultaneamente veri; non nasce il desiderio semplicistico di tornare a una gestione ingiusta.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 004 è Rosa, non Sofia, a osservare «Sono proprio le parole che avrebbe usato il vecchio responsabile». Sofia prende sul serio la critica sugli straordinari abituali ma non garantiti, promette un incontro con la direzione e non un ritorno impossibile del reddito.

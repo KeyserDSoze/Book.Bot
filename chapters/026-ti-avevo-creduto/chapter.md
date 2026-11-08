@@ -43,3 +43,8 @@ Kyla aveva provato a separare esiti tecnici e riorganizzazione, ma non ha insist
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — un messaggio prima del tradimento.** Nel 002 Nerea scrive a Irene che non può promettere che tutto andrà bene e che è disponibile a parlare il giorno dopo. Il lettore sa che questa formula viene dalla conversazione supervisionata con Bi, che Nerea non ha ancora compreso come fonte in conflitto d'interessi. Non anticipare la decisione personale di Irene alla fine del 002: la scopre nel 001–003 nell'ordine degli eventi narrativi.
+
+
+## Quattordicesima review — relazioni e continuità
+
+Nel 001 Kyla riconosce di aver invitato Irene a presentare test quando era nota la convocazione sul personale, pur non potendo anticipare dati riservati. Nel 004 Irene dice a Nerea che, mentre perde il proprio contratto, non vuole essere chiamata a tranquillizzarla continuamente su Bi. Nel 29 Nerea la lascia parlare con Olivia senza indicarle cosa rispondere.
