@@ -31,7 +31,7 @@ Irene le mostrò il sacchetto del panino che aveva finito in fila.
 
 Olivia Brooks passò vicino a loro con il telefono acceso. Non stava facendo interviste: aveva appena mandato un aggiornamento sulla posizione dei gruppi parlamentari e adesso cercava un punto da cui vedere il tabellone senza che la folla la spingesse contro le transenne.
 
-La legge non proibiva ogni robot. Riservava alle persone determinate mansioni di cura continuativa, alcune funzioni educative e le decisioni che incidono direttamente sulla valutazione e sull'organizzazione del lavoro in settori definiti. Consentiva l'assistenza tecnica e logistica quando non sostituiva la responsabilità umana. Prevedeva verifiche, periodi di adeguamento e controlli contro i cambi di nome fatti solo per aggirare il divieto.
+Il testo appena arrivato al voto definitivo non proibiva ogni robot. Avrebbe riservato alle persone, dopo l'iter previsto e i periodi di adeguamento, determinate mansioni di cura continuativa, alcune funzioni educative e le decisioni che incidono direttamente sulla valutazione e sull'organizzazione del lavoro in settori definiti. Consentiva l'assistenza tecnica e logistica quando non sostituiva la responsabilità umana. Prevedeva verifiche, periodi di adeguamento e controlli contro i cambi di nome fatti solo per aggirare il divieto. Il voto parlamentare di quella sera non sarebbe bastato, da solo, a rendere immediatamente obbligatori quei divieti.
 
 Irene conosceva quasi a memoria il testo.
 
@@ -39,7 +39,7 @@ Non l'aveva ottenuto da sola. Alcune associazioni avevano chiesto un divieto tot
 
 Era comunque la prima volta che Irene vedeva una legge capace di dire chiaramente che non tutto ciò che una macchina poteva fare doveva esserle affidato.
 
-Sul tabellone apparve il risultato.
+Sul tabellone apparve il risultato della votazione conclusiva. Era l'approvazione definitiva del Parlamento; per la promulgazione e la pubblicazione sarebbero serviti gli atti successivi.
 
 Per qualche secondo la piazza rimase silenziosa, come se nessuno si fidasse del proprio telefono.
 
@@ -71,7 +71,9 @@ Irene guardò Nerea.
 
 «Che per una volta abbiamo deciso un limite prima che diventasse normale non averne nessuno.»
 
-Olivia annotò le parole.
+Olivia annotò le parole. Sul proprio telefono arrivò anche un aggiornamento del servizio parlamentare a cui era abbonata: *esito definitivo del voto pubblicato; testo in attesa di promulgazione*. Lo inoltrò alla redazione perché correggesse il titolo che qualcuno aveva preparato in anticipo: *Da oggi stop ai robot nei servizi di cura*.
+
+«Da oggi non è vero», scrisse sotto il messaggio. «I turni non cambiano stanotte.»
 
 Sul telefono di Nerea comparve un messaggio di Mina dal Circuito Veyra. Era una conferma amministrativa: la conversazione dei giorni precedenti era stata archiviata nel fascicolo autorizzato, senza diffusione esterna. Nessun allegato, nessun invito a commentare.
 

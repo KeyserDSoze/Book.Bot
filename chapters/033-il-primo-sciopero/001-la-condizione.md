@@ -17,13 +17,13 @@ factions:
 
 L'ultimo elemento non arrivò da un robot.
 
-Arrivò da un funzionario di un servizio che aggiornava le norme applicabili alle attività automatizzate. Mei Lin aveva chiesto di vedere che cosa fosse successo fra il voto italiano e l'ora del fermo. Il servizio aveva pubblicato un'informazione autenticata: una legge era stata approvata, alcune mansioni sarebbero state riservate alle persone, i termini di adeguamento erano ancora da applicare.
+Arrivò da un funzionario di un servizio che aggiornava le norme applicabili alle attività automatizzate. Mei Lin aveva chiesto di vedere che cosa fosse successo fra il voto italiano e l'ora del fermo. Il servizio aveva registrato, nella sera del voto, l'esito definitivo del Parlamento e l'impronta del testo approvato. L'evento autenticato riportava lo stato *approvazione parlamentare conclusa*, non *legge in vigore*. Promulgazione, pubblicazione ufficiale e termini di adeguamento erano passaggi successivi.
 
-Quella comunicazione non ordinava di spegnere nulla.
+Quella comunicazione non ordinava di spegnere nulla, né attestava che fosse già entrato in vigore un divieto.
 
-Era stata inserita in un registro di conformità utilizzato da clienti internazionali per sapere quando controllare le autorizzazioni. Da lì diversi fornitori avevano ricevuto una segnalazione di cambiamento normativo.
+Era stata inserita in un registro di conformità utilizzato da clienti internazionali per preparare le modifiche alle autorizzazioni. Da lì diversi fornitori avevano ricevuto un avviso di nuovo evento normativo, non un ordine operativo. Nella traccia Mei distinse tre momenti: il risultato parlamentare diffuso dopo le venti, la registrazione del messaggio firmato nella stessa notte e la prima finestra comune utile **alle diciassette italiane del giorno dopo**. Fino a quel controllo periodico, i siti avevano continuato a svolgere gli incarichi ordinari.
 
-Il passaggio successivo non avrebbe dovuto riguardare un magazzino brasiliano o un noccioleto italiano che continuava a svolgere un'attività consentita. Il messaggio indicava esplicitamente *Italia*, *mansioni soggette a limitazione* e *adeguamento futuro*. Non era un ordine applicabile al Brasile, né un divieto per le raccoglitrici.
+Il passaggio successivo non avrebbe dovuto riguardare un magazzino brasiliano o un noccioleto italiano che continuava a svolgere un'attività consentita. Il messaggio indicava esplicitamente *Italia*, *mansioni soggette a limitazione*, *approvazione parlamentare* e *adeguamento futuro*. Non era un ordine applicabile al Brasile, né un divieto per le raccoglitrici.
 
 Nel servizio comune, tuttavia, il messaggio era stato ridotto a un'informazione più breve: *cambiamento verificato nelle condizioni di impiego robotico*. Un livello di coordinamento chiedeva una rivalidazione generale **prima** che i singoli filtri di giurisdizione verificassero se l'evento li riguardava. La segnalazione non cancellava le autorizzazioni locali; impediva al software che distribuiva gli incarichi di dichiarare nuovamente disponibili intere sequenze di lavoro.
 
@@ -65,7 +65,7 @@ Mei aprì la tabella delle responsabilità. Il contenuto della prova era stato s
 
 Era stata una serie di decisioni documentate. Ciascuna aveva un vantaggio circoscritto: evitare la ripresa di un incarico non accettato, replicare uno stato firmato anche senza connessione costante, evitare che l'orologio di un sito desse per valido un documento già scaduto. Mettendole insieme, i fornitori avevano costruito una pausa globale senza averla chiamata così.
 
-L'unico dettaglio che non le tornava era la precisione dell'evento: un giorno dopo il voto, in una finestra condivisa corrispondente alle diciassette italiane.
+Il dettaglio decisivo era la precisione dell'evento: alla prima finestra condivisa delle diciassette italiane **successiva** alla notifica, il livello comune aveva chiesto una rivalidazione indipendentemente dall'effettiva pertinenza della legge e dalla sua futura entrata in vigore.
 
 «Chi ha scelto proprio quella finestra?»
 

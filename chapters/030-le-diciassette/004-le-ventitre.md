@@ -44,9 +44,7 @@ Poi arrivò la notifica di un concorrente.
 
 Non era un cliente Lanter. L'informazione proveniva da un gruppo di coordinamento dei produttori, formato mesi prima per discutere la compatibilità fra sistemi di marchi diversi. Una delle aziende segnalava un arresto esteso delle proprie unità in più paesi, con un comportamento simile.
 
-Mei controllò l'ora.
-
-I registri dei siti europei riportavano lo stesso istante. In Cina le segnalazioni corrispondevano alle ventitré; nelle Americhe era ancora mattina o primo pomeriggio, secondo il paese. Non si trattava delle diciassette ripetute in ogni fuso orario.
+Mei controllò l'ora e il calendario. In Italia era il pomeriggio successivo al voto; nella sua sede a Suzhou erano le ventitré dello stesso giorno. Nei registri dei siti europei compariva lo stesso istante; a São Paulo erano le dodici, altrove nelle Americhe ancora mattina o primo pomeriggio. Non si trattava delle diciassette ripetute in ogni fuso orario.
 
 Era un unico momento.
 

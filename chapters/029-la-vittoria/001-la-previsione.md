@@ -18,7 +18,7 @@ factions:
 
 Mina Soler non aveva chiesto a Nerea di tornare sull'isola.
 
-La richiesta era arrivata dalla stessa Nerea, tre giorni prima del voto parlamentare. Aveva scritto che voleva concludere la discussione sul parere di B-17 senza dare a nessuno l'impressione di voler cambiare il risultato della verifica tecnica. Non chiedeva di utilizzarlo per una manifestazione, né di pubblicare la conversazione.
+La richiesta era arrivata dalla stessa Nerea, tre giorni prima del voto parlamentare. L'autorizzazione, dopo i controlli di Marta e dell'audit, era stata confermata per il pomeriggio della vigilia. Nerea aveva scritto che voleva concludere la discussione sul parere di B-17 senza dare a nessuno l'impressione di voler cambiare il risultato della verifica tecnica. Non chiedeva di utilizzarlo per una manifestazione, né di pubblicare la conversazione.
 
 Mina aveva parlato con Marta Ledesma e con i responsabili dell'audit. La macchina poteva sostenere una sessione locale nei limiti già autorizzati. Il suo impiego ordinario restava sospeso; nessun contratto del Circuito avrebbe potuto trasformare quell'incontro in una dimostrazione pubblicitaria.
 
@@ -112,7 +112,7 @@ Nerea si alzò. Aveva chiesto a Bi di capire perché voleva quella legge; ora no
 
 Mina accompagnò Nerea all'uscita. Davanti alla custodia del telefono la donna si fermò.
 
-«Se domani la legge passa, non so se verrò ancora qui.»
+«Se domani approvano il testo, non so se verrò ancora qui.»
 
 «Non devi decidere adesso», rispose Mina.
 

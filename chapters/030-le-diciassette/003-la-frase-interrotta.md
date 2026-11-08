@@ -77,7 +77,7 @@ Giulia guardò Teresa.
 
 «Non abbiamo deciso niente.»
 
-«Ieri c'era la legge. Oggi lo spegnete. Sembra fatto apposta.»
+«Ieri hanno votato la legge. Oggi lo spegnete. Sembra fatto apposta.»
 
 «Non credo che sia quello», rispose Giulia.
 

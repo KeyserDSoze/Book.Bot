@@ -18,6 +18,8 @@ Mei Lin aveva davanti quattro orologi.
 
 Tre erano sul monitor: Roma, São Paulo e Suzhou. Il quarto era quello di sua madre, appoggiato da anni sul bordo della scrivania; perdeva due minuti alla settimana e Mei non aveva mai trovato il tempo di ripararlo.
 
+Mei riportò i tre orologi alla registrazione del fermo, non all'ora attuale: **17:00 a Roma, 12:00 a São Paulo, 23:00 a Suzhou**. Tutti i log citavano la stessa finestra, in un pomeriggio di settembre. Sotto non compariva la data di entrata in vigore di una legge, ma il riferimento a un evento di conformità ricevuto dalla rete di coordinamento.
+
 La prima notte aveva creduto che i registri mostrassero soltanto una sospensione simultanea. La seconda aveva trovato l'elemento più importante: alcuni modelli di robot che non avevano mai condiviso hardware, controllori o software conversazionale avevano registrato la stessa modifica di disponibilità al lavoro.
 
 Le macchine non erano state spente da un comando esterno.

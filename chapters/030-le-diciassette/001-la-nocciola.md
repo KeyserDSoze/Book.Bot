@@ -28,9 +28,9 @@ Sergio teneva il telefono appoggiato sulla cassetta degli attrezzi. Il pannello 
 
 Youssef si era guadagnato il diritto di dire una cosa del genere. Aveva imparato a verificare i sensori e i supporti delle raccoglitrici, ma anche a fermarsi quando una riparazione superava la propria abilitazione. Sergio gli aveva affidato più giornate di quelle che il primo preventivo lasciava intendere. Non erano tornate a essere sette persone in campo. Erano loro due, il tecnico del noleggiatore e due macchine capaci di coprire gran parte della raccolta.
 
-«Hai sentito del voto?», chiese Sergio.
+«Hai sentito del voto di ieri sera?», chiese Sergio.
 
-«Mia sorella mi ha mandato il video.»
+«Mia sorella mi ha mandato il video. Dicevano che ci sarebbe stato tempo per adeguarsi.»
 
 «Queste non le vietano.»
 
