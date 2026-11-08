@@ -8,8 +8,8 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lorenzo-verri
-  - character:irene-valli
+  - character:victor-hale
+  - character:claire-foster
   - character:malik-okafor
   - character:anika-rao
 locations:
@@ -37,7 +37,7 @@ Per molti anni il valore di quell'attività era stato il lavoro degli sviluppato
 
 L'efficienza era migliorata. I clienti lo sapevano.
 
-Verri la ricevette prima delle sette e mezza. Aveva già la stessa lettera aperta sul tablet e una tabella con quattro scenari.
+Hale la ricevette prima delle sette e mezza. Aveva già la stessa lettera aperta sul tablet e una tabella con quattro scenari.
 
 «Non pensano che la nostra tecnologia sia peggiorata», disse. «Pensano che sia diventata meno costosa.»
 
@@ -63,7 +63,7 @@ Kyla richiamò il numero in calce alla nota tecnica. Anika rispose in video da u
 
 «Non ti chiedo di prometterlo. Voglio sapere quali verifiche non potete più permettervi e chi ne assumerebbe la responsabilità. Potrei non ottenere una deroga sul prezzo, ma posso contestare una riduzione di servizio mascherata da efficienza.»
 
-Verri si sporse verso il microfono. «Se il prezzo è vincolante, dovremo presentare alternative che vi facciano scegliere davvero.»
+Hale si sporse verso il microfono. «Se il prezzo è vincolante, dovremo presentare alternative che vi facciano scegliere davvero.»
 
 «Allora fatele vedere anche al reparto che userà il software. Non soltanto ai nostri acquisti.»
 
@@ -71,7 +71,7 @@ Anika chiuse la chiamata: aveva una revisione con i tecnici di un altro fornitor
 
 «Quante persone dipendono davvero da Aruvhana?», domandò Kyla.
 
-Verri aprì una schermata che lei conosceva. **341 rapporti di lavoro** erano collegati in misura rilevante al contratto, fra sviluppo, collaudo, assistenza, gestione dei rilasci e continuità dei servizi. Non erano 341 persone da licenziare. La perdita dell'accordo, però, avrebbe reso difficile distribuire tutti quei ruoli su commesse diverse.
+Hale aprì una schermata che lei conosceva. **341 rapporti di lavoro** erano collegati in misura rilevante al contratto, fra sviluppo, collaudo, assistenza, gestione dei rilasci e continuità dei servizi. Non erano 341 persone da licenziare. La perdita dell'accordo, però, avrebbe reso difficile distribuire tutti quei ruoli su commesse diverse.
 
 «Ci sono sviluppatori che lavorano sulle stesse librerie da anni», disse Kyla.
 
@@ -79,11 +79,11 @@ Verri aprì una schermata che lei conosceva. **341 rapporti di lavoro** erano co
 
 «Perché qualcuno deve leggere il codice. E perché qualche volta il test dell'agente non sa nemmeno quale domanda fare.»
 
-Verri appoggiò il tablet.
+Hale appoggiò il tablet.
 
 «Non serve ricordarmelo. Abbiamo già pagato i costi di quella fragilità dopo il fermo di B-17.»
 
-Kyla si ricordò il mese in cui Irene aveva ricostruito dipendenze fra vecchie funzioni e registri cartacei. L'azienda aveva imparato qualcosa da quell'esperienza: aveva conservato prove fisiche, richiesto riferimenti a fonti e introdotto esercizi di ripristino manuale. Ma era difficile convincere un cliente a pagare in anticipo per una competenza il cui valore emergeva soltanto quando una prova falliva.
+Kyla si ricordò il mese in cui Claire aveva ricostruito dipendenze fra vecchie funzioni e registri cartacei. L'azienda aveva imparato qualcosa da quell'esperienza: aveva conservato prove fisiche, richiesto riferimenti a fonti e introdotto esercizi di ripristino manuale. Ma era difficile convincere un cliente a pagare in anticipo per una competenza il cui valore emergeva soltanto quando una prova falliva.
 
 «Non dobbiamo tagliare la parte che ci permette di capire il software», disse.
 
@@ -99,7 +99,7 @@ Aprirono i report. La voce più alta non era più la programmazione di nuove fun
 
 «E ogni volta qualcuno deve capire se le due parti intendono la stessa cosa quando scrivono completato.»
 
-Verri annuì.
+Hale annuì.
 
 «Se avessimo un modo comune per scambiarci attestazioni verificabili?»
 
@@ -113,17 +113,17 @@ Kyla non sorrise. Aveva ricevuto quella mattina una notifica del Circuito Veyra:
 
 «Penso a una proposta che possiamo confrontare con altre. Se non serve, non la usiamo.»
 
-Verri guardò la quarta tabella vuota.
+Hale guardò la quarta tabella vuota.
 
 «Con chi facciamo il controllo?»
 
-«Con gli sviluppatori, le persone che conoscono i vecchi protocolli e Irene. Lei ha fatto i test che ci hanno salvato durante l'assenza di Bi. Voglio che possa contestare ogni scorciatoia che troveremo.»
+«Con gli sviluppatori, le persone che conoscono i vecchi protocolli e Claire. Lei ha fatto i test che ci hanno salvato durante l'assenza di Bi. Voglio che possa contestare ogni scorciatoia che troveremo.»
 
-«Non abbiamo garantito a Irene un nuovo contratto», ricordò Verri.
+«Non abbiamo garantito a Claire un nuovo contratto», ricordò Hale.
 
 «Appunto. Non voglio che debba scoprire da una tabella che il suo lavoro ha contribuito a cancellare la sua funzione.»
 
-Verri rimase qualche secondo in silenzio. Poi scorse il calendario delle scadenze.
+Hale rimase qualche secondo in silenzio. Poi scorse il calendario delle scadenze.
 
 «D'accordo. Avverti Leah. Ma non useremo B-17 come una garanzia di successo commerciale.»
 
@@ -131,7 +131,7 @@ Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel labor
 
 «Quanto ti serve per chiudere la revisione?», chiese Kyla.
 
-«Per capire se quella vecchia conferma si comporta nello stesso modo? Non lo so ancora. Serve Irene, o qualcuno che abbia letto la prima versione.»
+«Per capire se quella vecchia conferma si comporta nello stesso modo? Non lo so ancora. Serve Claire, o qualcuno che abbia letto la prima versione.»
 
 «Come va la candidatura per guidare il gruppo?», domandò Kyla.
 

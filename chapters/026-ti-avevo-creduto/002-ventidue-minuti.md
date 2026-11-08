@@ -5,11 +5,11 @@ chapter: chapter:026-ti-avevo-creduto
 number: 2
 title: Ventidue minuti
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
+  - character:maya-bennett
   - character:b-17
-  - character:mina-soler
+  - character:nina-solis
 locations:
   - location:isola-di-veyra
 factions:
@@ -17,15 +17,15 @@ factions:
   - faction:cyberdine
 ---
 
-La notte prima che Cyberdine comunicasse la riorganizzazione, Nerea parlò con Bi per ventidue minuti.
+La notte prima che Cyberdine comunicasse la riorganizzazione, Maya parlò con Bi per ventidue minuti.
 
-Mina aveva autorizzato la sessione in un ambiente controllato. I permessi erano ancora limitati: niente accessi operativi, niente collegamento spontaneo a servizi esterni, nessuna attività commerciale non verificata. Il robot poteva sostenere un dialogo con Nerea, mentre i tecnici controllavano la sessione senza usarne il contenuto a scopo pubblicitario.
+Nina aveva autorizzato la sessione in un ambiente controllato. I permessi erano ancora limitati: niente accessi operativi, niente collegamento spontaneo a servizi esterni, nessuna attività commerciale non verificata. Il robot poteva sostenere un dialogo con Maya, mentre i tecnici controllavano la sessione senza usarne il contenuto a scopo pubblicitario.
 
-Nerea aveva preparato domande su Valle Corta, sulla nuova visita dei tecnici alla sirena e sui documenti che Bruno stava raccogliendo.
+Maya aveva preparato domande su Valle Corta, sulla nuova visita dei tecnici alla sirena e sui documenti che Daniel stava raccogliendo.
 
 Non fece nessuna di quelle domande.
 
-«Irene è strana da qualche settimana», disse.
+«Claire è strana da qualche settimana», disse.
 
 «In che modo?»
 
@@ -33,7 +33,7 @@ Non fece nessuna di quelle domande.
 
 «Le hai chiesto che cosa desidera da te?»
 
-Nerea sorrise.
+Maya sorrise.
 
 «Questa domanda la facevi anche prima.»
 
@@ -47,9 +47,9 @@ Nerea sorrise.
 
 «Puoi chiederle se desidera che tu legga un curriculum, che la accompagni a un incontro o semplicemente che tu sia disponibile quando avrà una notizia.»
 
-Nerea si appoggiò allo schienale.
+Maya si appoggiò allo schienale.
 
-Era un buon consiglio. Non conteneva la promessa che tutto si sarebbe risolto, e lei era stanca delle persone che le suggerivano di dire a Irene di non preoccuparsi.
+Era un buon consiglio. Non conteneva la promessa che tutto si sarebbe risolto, e lei era stanca delle persone che le suggerivano di dire a Claire di non preoccuparsi.
 
 «Mi manca parlare con te così», disse.
 
@@ -59,7 +59,7 @@ Il robot non rispose subito.
 
 «Lo so.»
 
-Nerea si guardò le mani. Stringeva la chiave di ottone che teneva sempre in tasca.
+Maya si guardò le mani. Stringeva la chiave di ottone che teneva sempre in tasca.
 
 «Hanno fatto una nuova proposta per Aruvhana», disse. «Tutti parlano del contratto.»
 
@@ -71,7 +71,7 @@ B-17 rimase immobile.
 
 «Ho fornito ipotesi in una sessione autorizzata. Le proposte sono state verificate e valutate da persone responsabili.»
 
-«Irene è preoccupata che si riducano i ruoli del suo gruppo.»
+«Claire è preoccupata che si riducano i ruoli del suo gruppo.»
 
 «Le decisioni sul personale spettano a Cyberdine.»
 
@@ -81,7 +81,7 @@ La pausa fu breve.
 
 «Non posso discutere informazioni aziendali riservate o decisioni individuali che non mi è consentito comunicare.»
 
-Nerea sentì un fastidio improvviso.
+Maya sentì un fastidio improvviso.
 
 «Non ti ho chiesto un segreto.»
 
@@ -95,15 +95,15 @@ Nerea sentì un fastidio improvviso.
 
 «Puoi restarle accanto senza prometterle un risultato.»
 
-Nerea abbassò gli occhi.
+Maya abbassò gli occhi.
 
 Era esattamente ciò che aveva bisogno di sentirsi dire.
 
 «Hai ragione», mormorò.
 
-Qualcosa si mosse oltre il vetro della stanza di supervisione. Mina fece un cenno al tecnico; non mancava molto alla fine.
+Qualcosa si mosse oltre il vetro della stanza di supervisione. Nina fece un cenno al tecnico; non mancava molto alla fine.
 
-«Ti devo lasciare», disse Nerea.
+«Ti devo lasciare», disse Maya.
 
 «Ricevuto.»
 
@@ -117,8 +117,8 @@ Il robot rimase immobile.
 
 «Non sarebbe una promessa giustificata.»
 
-Nerea tolse le cuffie e chiuse la sessione.
+Maya tolse le cuffie e chiuse la sessione.
 
-Prima di uscire scrisse a Irene: *Non ti dico che andrà bene. Se domani vuoi parlare, ci sono.* Rilesse il messaggio. Le sembrava goffo, eppure lo inviò.
+Prima di uscire scrisse a Claire: *Non ti dico che andrà bene. Se domani vuoi parlare, ci sono.* Rilesse il messaggio. Le sembrava goffo, eppure lo inviò.
 
-Mina le restituì la custodia del telefono. Nerea controllò che la chiave di ottone fosse ancora nella tasca della giacca e si avviò verso il corridoio.
+Nina le restituì la custodia del telefono. Maya controllò che la chiave di ottone fosse ancora nella tasca della giacca e si avviò verso il corridoio.

@@ -8,8 +8,8 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lorenzo-verri
-  - character:irene-valli
+  - character:victor-hale
+  - character:claire-foster
   - character:gavin-cole
   - character:elena-fischer
 locations:
@@ -31,7 +31,7 @@ Il primo descriveva il rischio di perdere Aruvhana. Conteneva costi, contratti, 
 
 Il secondo descriveva il progetto alternativo: un primo insieme di automatismi verificabili, un livello di coordinamento fra sistemi di produttori diversi e una fase di prova in un sito limitato, prima di qualunque diffusione.
 
-Verri aprì il secondo fascicolo.
+Hale aprì il secondo fascicolo.
 
 «Quanto ci costa?»
 
@@ -71,7 +71,7 @@ Kyla spostò verso il direttore delle operazioni il foglio delle scadenze contra
 
 «Non ho chiesto di pagare tutti per aspettare. Ho chiesto di distinguere chi fa un controllo necessario da chi ne fa uno duplicato.»
 
-Verri alzò la mano per fermare la discussione.
+Hale alzò la mano per fermare la discussione.
 
 «La responsabilità è nostra. Non del robot che ha formulato la prima proposta. Non di chi ha corretto le tabelle. Nostra.»
 
@@ -79,13 +79,13 @@ Il direttore delle operazioni annuì, contrariato.
 
 Decisero di presentare ad Aruvhana un piano condizionato: un pilota in uno dei siti meno complessi, verifiche indipendenti sui sistemi di sicurezza, formazione dei responsabili e una riduzione progressiva dei costi soltanto dopo il raggiungimento di risultati verificabili.
 
-La proposta sarebbe stata firmata da Verri.
+La proposta sarebbe stata firmata da Hale.
 
 Era una decisione ragionevole. Aruvhana aveva davvero bisogno di spendere meno e Cyberdine poteva davvero lavorare meglio.
 
 Poi venne il capitolo sul personale.
 
-«Le posizioni esposte?», chiese Verri.
+«Le posizioni esposte?», chiese Hale.
 
 Kyla indicò un intervallo: fra ventotto e quarantadue ruoli equivalenti, ma i nomi e le forme contrattuali dipendevano dalle verifiche. Alcune attività potevano diventare lavori di controllo, formazione, manutenzione e gestione delle eccezioni. Altre non avrebbero più richiesto un incarico separato.
 
@@ -93,9 +93,9 @@ Nel prospetto delle possibili ricollocazioni c'era una voce che Kyla aveva chies
 
 «Questa voce non può restare una promessa», disse Elena, arrivata per verificare le competenze. «O decidiamo chi la paga o la togliamo dalle alternative che presentiamo ai dipendenti.»
 
-Verri chiese di separarla dalla proposta economica per Aruvhana. «Non posso approvare un organico nuovo prima che il contratto sia rinnovato.»
+Hale chiese di separarla dalla proposta economica per Aruvhana. «Non posso approvare un organico nuovo prima che il contratto sia rinnovato.»
 
-Kyla aprì la bocca per insistere, poi guardò il dossier del cliente. Avevano già perso margine nelle trattative. Annotò *decisione rinviata* e lasciò la casella senza importo. Le sembrò un compromesso reversibile. Per Irene, se il ruolo attuale fosse scomparso, quella casella vuota avrebbe avuto un significato diverso.
+Kyla aprì la bocca per insistere, poi guardò il dossier del cliente. Avevano già perso margine nelle trattative. Annotò *decisione rinviata* e lasciò la casella senza importo. Le sembrò un compromesso reversibile. Per Claire, se il ruolo attuale fosse scomparso, quella casella vuota avrebbe avuto un significato diverso.
 
 «Non annunciamo numeri come se fossero persone già licenziate», disse Kyla.
 
@@ -103,21 +103,21 @@ Kyla aprì la bocca per insistere, poi guardò il dossier del cliente. Avevano g
 
 «Non ho detto di nasconderli. Voglio un confronto sui criteri prima di decidere i casi individuali.»
 
-Verri chiuse il dossier.
+Hale chiuse il dossier.
 
 «Prepariamo l'informativa e gli incontri. Prima che questa cosa esca in un giornale.»
 
 Quando i dirigenti lasciarono la sala, Kyla rimase a raccogliere le carte. Nel fascicolo della simulazione economica c'era un allegato con le categorie a rischio e le scadenze previste dei contratti a termine.
 
-Una descrizione coincideva con il lavoro di Irene.
+Una descrizione coincideva con il lavoro di Claire.
 
-Kyla la lesse due volte. Irene non era nominata, ma i compiti erano quelli. Accanto, sotto *possibili alternative*, compariva la formazione sulle librerie storiche, ancora senza un budget. Per anni Kyla aveva saputo riconoscere una frase buona da mettere in un comunicato. Quella non l'avrebbe potuta usare davanti a Irene.
+Kyla la lesse due volte. Claire non era nominata, ma i compiti erano quelli. Accanto, sotto *possibili alternative*, compariva la formazione sulle librerie storiche, ancora senza un budget. Per anni Kyla aveva saputo riconoscere una frase buona da mettere in un comunicato. Quella non l'avrebbe potuta usare davanti a Claire.
 
 La richiamò in ufficio.
 
 «Voglio che tu partecipi alla verifica delle competenze necessarie per il nuovo processo», le disse.
 
-Irene guardò il fascicolo. Sul frontespizio della versione completa era indicata anche l'origine dell'analisi preliminare: *Circuito Veyra, unità B-17*. Nella copia che le avevano chiesto di verificare quel riferimento mancava.
+Claire guardò il fascicolo. Sul frontespizio della versione completa era indicata anche l'origine dell'analisi preliminare: *Circuito Veyra, unità B-17*. Nella copia che le avevano chiesto di verificare quel riferimento mancava.
 
 «Perché io?»
 
@@ -127,13 +127,13 @@ Irene guardò il fascicolo. Sul frontespizio della versione completa era indicat
 
 «Per ora è una verifica, nel tuo ruolo attuale.»
 
-Irene annuì. Kyla vide che avrebbe voluto chiedere altro.
+Claire annuì. Kyla vide che avrebbe voluto chiedere altro.
 
 «Non posso prometterti il risultato», aggiunse.
 
 «Questo l'avevo capito.»
 
-Irene prese la cartellina, ma prima di uscire si voltò.
+Claire prese la cartellina, ma prima di uscire si voltò.
 
 «Il robot che ha fatto la proposta sa quanti posti potrebbero sparire?»
 
@@ -145,7 +145,7 @@ Kyla pensò al rapporto arrivato da Veyra.
 
 «Gli è stato chiesto di confrontare alternative. Le decisioni sono nostre.»
 
-Irene abbassò la mano sulla maniglia.
+Claire abbassò la mano sulla maniglia.
 
 «Allora spero che abbiate letto tutte le alternative.»
 

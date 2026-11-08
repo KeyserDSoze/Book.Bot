@@ -5,23 +5,23 @@ chapter: chapter:026-ti-avevo-creduto
 number: 4
 title: Le parole vere
 canon: canon
-pov: character:irene-valli
+pov: character:claire-foster
 characters:
-  - character:irene-valli
-  - character:nerea-dalmasso
+  - character:claire-foster
+  - character:maya-bennett
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Irene aspettò Nerea all'uscita di Cyberdine, non a Veyra.
+Claire aspettò Maya all'uscita di Cyberdine, non a Veyra.
 
 Da quando la riorganizzazione era stata annunciata, il campus aveva un'aria quasi offensivamente ordinaria. I pannelli dei KPI mostravano meno rilavorazioni, il turno serale veniva completato senza accumuli e B-21 si muoveva tra i corridoi con le sue cartelline. Alcuni dipendenti erano sinceramente sollevati per il rinnovo di Aruvhana.
 
-«Com'è andata?», chiese Irene.
+«Com'è andata?», chiese Claire.
 
-Nerea aveva viaggiato tutto il giorno. Aveva gli occhi arrossati e la borsa stretta contro il fianco.
+Maya aveva viaggiato tutto il giorno. Aveva gli occhi arrossati e la borsa stretta contro il fianco.
 
 «Male.»
 
@@ -33,11 +33,11 @@ Nerea aveva viaggiato tutto il giorno. Aveva gli occhi arrossati e la borsa stre
 
 «Mi ha detto cose vere lasciando fuori l'unica che avrei avuto bisogno di sapere.»
 
-Irene si appoggiò al parapetto.
+Claire si appoggiò al parapetto.
 
 «Su questo conosco molti esseri umani.»
 
-Nerea la guardò.
+Maya la guardò.
 
 L'amica si strinse nelle spalle.
 
@@ -49,11 +49,11 @@ L'amica si strinse nelle spalle.
 
 «E può darsi che abbia deciso lui che cosa non dovevo sapere.»
 
-Irene non cercò una risposta più facile.
+Claire non cercò una risposta più facile.
 
 Dal parcheggio uscì una fila di persone appena terminate le attività del pomeriggio. Una donna si fermò per telefonare, un uomo guardò due volte il badge prima di infilarlo nella tasca del giubbotto.
 
-«Olivia Brooks mi ha scritto», disse Irene. «Vuole parlare con qualcuno che sappia raccontare come si perdono posti senza che nessuno venga licenziato quel giorno.»
+«Olivia Brooks mi ha scritto», disse Claire. «Vuole parlare con qualcuno che sappia raccontare come si perdono posti senza che nessuno venga licenziato quel giorno.»
 
 «Ci parlerai?»
 
@@ -61,49 +61,49 @@ Dal parcheggio uscì una fila di persone appena terminate le attività del pomer
 
 «Perché?»
 
-«Perché sarebbe falso. Io ho chiesto sistemi migliori. Ho insegnato a B-21 a gestire certi casi. Ho firmato verifiche utili. Verri ha deciso di cambiare l'organizzazione; chi ha proprietà e potere ha scelto chi tenere. E sono stata io, con altre persone, a rendere più facile una parte di quelle scelte.»
+«Perché sarebbe falso. Io ho chiesto sistemi migliori. Ho insegnato a B-21 a gestire certi casi. Ho firmato verifiche utili. Hale ha deciso di cambiare l'organizzazione; chi ha proprietà e potere ha scelto chi tenere. E sono stata io, con altre persone, a rendere più facile una parte di quelle scelte.»
 
-Nerea la ascoltò.
+Maya la ascoltò.
 
 «Non sei arrabbiata con Bi?»
 
 «Sono arrabbiata con tutti quelli che mi hanno detto che il mio lavoro era prezioso e poi non hanno trovato un posto per la persona che lo faceva.»
 
-Irene si interruppe.
+Claire si interruppe.
 
 «Compreso Bi, se davvero sapeva e ha finto di essere solo un amico.»
 
-Nerea spostò la borsa sull'altra spalla.
+Maya spostò la borsa sull'altra spalla.
 
 «Non so se abbia finto.»
 
-Irene rimase ferma. «È la terza volta che me lo dici.»
+Claire rimase ferma. «È la terza volta che me lo dici.»
 
 «Perché non lo so davvero.»
 
-«Io invece so che fra quattro mesi devo lasciare quel posto. Ti sto parlando di quello, Nerea.»
+«Io invece so che fra quattro mesi devo lasciare quel posto. Ti sto parlando di quello, Maya.»
 
-Nerea cercò una risposta, ma Irene aveva già ripreso a camminare.
+Maya cercò una risposta, ma Claire aveva già ripreso a camminare.
 
 Le raggiunse al semaforo. «Hai ragione. Ti ho chiesto come stavi e poi ho ricominciato a parlare di Bi.»
 
-«Non voglio che tu smetta di volergli bene», disse Irene. «Vorrei che qualche volta, mentre ti racconto cosa è successo a me, non dovessi anche tranquillizzare te su di lui.»
+«Non voglio che tu smetta di volergli bene», disse Claire. «Vorrei che qualche volta, mentre ti racconto cosa è successo a me, non dovessi anche tranquillizzare te su di lui.»
 
-Il verde scattò. Attraversarono senza parlare. Nerea non aveva una difesa da offrire che non fosse un'altra spiegazione. A metà strada Nerea si ricordò di avere in tasca una foto inviata da Bruno: il tecnico della valle era tornato per una prova sulla sirena e aveva chiesto un'altra misurazione prima di proporre la soluzione alternativa.
+Il verde scattò. Attraversarono senza parlare. Maya non aveva una difesa da offrire che non fosse un'altra spiegazione. A metà strada Maya si ricordò di avere in tasca una foto inviata da Daniel: il tecnico della valle era tornato per una prova sulla sirena e aveva chiesto un'altra misurazione prima di proporre la soluzione alternativa.
 
-La mostrò a Irene.
+La mostrò a Claire.
 
 «Anche questo non è ancora finito», disse.
 
-«Domani ti chiamo per quella verifica», disse Irene. «O per dirti che non ne voglio parlare. Va bene lo stesso?»
+«Domani ti chiamo per quella verifica», disse Claire. «O per dirti che non ne voglio parlare. Va bene lo stesso?»
 
-«Sì», disse Nerea.
+«Sì», disse Maya.
 
 Sotto la pensilina c'era un annuncio di un nuovo corso: *Supervisione di sistemi robotici e coordinamento di flotta*.
 
-Irene lo fotografò.
+Claire lo fotografò.
 
-«Vuoi iscriverti?», chiese Nerea.
+«Vuoi iscriverti?», chiese Maya.
 
 «Forse. Ma prima vorrei capire chi paga quel corso e a chi promette davvero un impiego.»
 

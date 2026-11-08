@@ -6,16 +6,16 @@ title: Il consiglio di Bi
 canon: canon
 pov:
   - character:kyla
-  - character:mina-soler
-  - character:irene-valli
+  - character:nina-solis
+  - character:claire-foster
 ---
 
 # Scene
 
 1. La lettera di Aruvhana — Cyberdine rischia di perdere un contratto fondamentale e precisa la dimensione economica del suo lavoro software d'integrazione e continuità di sistemi industriali preesistenti.
 2. Una prova pagata — B-17 in un ambiente isolato propone più automazione e un registro di attestazioni per sistemi eterogenei, con rischi e benefici misurabili.
-3. Le condizioni di Irene — Irene verifica il progetto, corregge errori e lavora per un sistema che potrebbe ridurre il bisogno della sua stessa mansione.
-4. La firma umana — Verri e i responsabili scelgono un pilota e un confronto sul personale: la decisione non appartiene a Bi.
+3. Le condizioni di Claire — Claire verifica il progetto, corregge errori e lavora per un sistema che potrebbe ridurre il bisogno della sua stessa mansione.
+4. La firma umana — Hale e i responsabili scelgono un pilota e un confronto sul personale: la decisione non appartiene a Bi.
 
 # Guardrail
 
@@ -27,17 +27,17 @@ Il settore software di Cyberdine non viene rivelato qui: è già esplicito nel c
 
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
-La lettera di Aruvhana riguarda esplicitamente **licenze, sviluppo software, manutenzione, interfacce e continuità**. La richiesta di riduzione del 17% mette in questione 341 rapporti di lavoro, non equivale a 341 licenziamenti. Kyla e Verri esaminano il costo delle riconciliazioni fra strumenti software eterogenei, senza eliminare le verifiche che servono a comprendere il codice. L'analisi locale di Bi a Veyra usa dati depurati e non entra in nessuna rete produttiva. Passerella viene costruita e adottata attraverso decisioni e test umani.
+La lettera di Aruvhana riguarda esplicitamente **licenze, sviluppo software, manutenzione, interfacce e continuità**. La richiesta di riduzione del 17% mette in questione 341 rapporti di lavoro, non equivale a 341 licenziamenti. Kyla e Hale esaminano il costo delle riconciliazioni fra strumenti software eterogenei, senza eliminare le verifiche che servono a comprendere il codice. L'analisi locale di Bi a Veyra usa dati depurati e non entra in nessuna rete produttiva. Passerella viene costruita e adottata attraverso decisioni e test umani.
 
 
 ## Raccordo della revisione sulla responsabilità di Bi
 
-Nella scena 002, davanti allo scenario aggregato di riduzione delle mansioni, B-17 domanda a chi spetterà comunicare le conseguenze alle persone. Non conosce nomi individuali e non ha il potere di decidere rinnovi o licenziamenti. La scelta di tacere il conflitto nella successiva confidenza con Nerea (cap. 26) ne risulterà più difficile, non meno colpevole.
+Nella scena 002, davanti allo scenario aggregato di riduzione delle mansioni, B-17 domanda a chi spetterà comunicare le conseguenze alle persone. Non conosce nomi individuali e non ha il potere di decidere rinnovi o licenziamenti. La scelta di tacere il conflitto nella successiva confidenza con Maya (cap. 26) ne risulterà più difficile, non meno colpevole.
 
 
 ## Quinta review — cifra, provenienza e responsabilità
 
-Il 17% richiesto da Aruvhana resta il vincolo economico reale, con 341 rapporti di lavoro esposti in misura diversa. In 001 la chiosa generale è stata sostituita dal gesto di Kyla che mette la richiesta accanto all'elenco dei rapporti. In 004 il fascicolo completo consente a Irene di conoscere l'origine della consulenza di B-17; la copia tecnica iniziale in 003 restava anonima. La proposta del caso limite in 002 è ancora **solo un test**, senza accessi o distribuzione ai fornitori. Bi propone; dirigenti e tecnici scelgono.
+Il 17% richiesto da Aruvhana resta il vincolo economico reale, con 341 rapporti di lavoro esposti in misura diversa. In 001 la chiosa generale è stata sostituita dal gesto di Kyla che mette la richiesta accanto all'elenco dei rapporti. In 004 il fascicolo completo consente a Claire di conoscere l'origine della consulenza di B-17; la copia tecnica iniziale in 003 restava anonima. La proposta del caso limite in 002 è ancora **solo un test**, senza accessi o distribuzione ai fornitori. Bi propone; dirigenti e tecnici scelgono.
 
 
 ## Settima review — identità di prova non autorità di produzione
@@ -51,17 +51,17 @@ La richiesta Aruvhana del 17% contiene una nota tecnica firmata da Anika Rao: il
 
 ## Raccordo umano Cyberdine — revisione progressiva
 
-Il rinnovo è letto anche da Kyla nella sua nuova posizione di azionista di minoranza: il conflitto fra sopravvivenza societaria, reputazione e posti di lavoro riguarda ormai anche lei personalmente. Gavin prende parte al confronto tecnico sulle stime, difende gli sviluppatori e inizia a considerare esplicitamente le ore di QA fuori dal proprio perimetro. Non trasformare la revisione finanziaria in una cerimonia di buone intenzioni: nel capitolo 26 Kyla non riesce a evitare a Irene la riunione che le toglie la funzione.
+Il rinnovo è letto anche da Kyla nella sua nuova posizione di azionista di minoranza: il conflitto fra sopravvivenza societaria, reputazione e posti di lavoro riguarda ormai anche lei personalmente. Gavin prende parte al confronto tecnico sulle stime, difende gli sviluppatori e inizia a considerare esplicitamente le ore di QA fuori dal proprio perimetro. Non trasformare la revisione finanziaria in una cerimonia di buone intenzioni: nel capitolo 26 Kyla non riesce a evitare a Claire la riunione che le toglie la funzione.
 
 
 ## Decima review — una scelta economica personalmente riconoscibile
 
-In 004 Elena contesta la voce di ricollocazione sulla formazione legacy non finanziata; Verri rinvia il budget in nome del contratto Aruvhana e Kyla accetta di lasciare l'alternativa fra quelle da valutare. È una scelta umana imperfetta con una motivazione aziendale concreta, non un mandato di Bi. La casella vuota ritorna nella comunicazione individuale a Irene al capitolo 26 e nelle ore finalmente contrattualizzate del capitolo 35: il lavoro esiste, ma l'azienda sceglie quando finanziarlo e non crea retroattivamente il posto perduto.
+In 004 Elena contesta la voce di ricollocazione sulla formazione legacy non finanziata; Hale rinvia il budget in nome del contratto Aruvhana e Kyla accetta di lasciare l'alternativa fra quelle da valutare. È una scelta umana imperfetta con una motivazione aziendale concreta, non un mandato di Bi. La casella vuota ritorna nella comunicazione individuale a Claire al capitolo 26 e nelle ore finalmente contrattualizzate del capitolo 35: il lavoro esiste, ma l'azienda sceglie quando finanziarlo e non crea retroattivamente il posto perduto.
 
 
 ## Dodicesima review — prove e finali meno spiegati
 
-**Dodicesima review — il prezzo della prova.** In 001 Kyla non si limita ad augurarsi che le verifiche storiche sopravvivano al taglio del 17%: chiede a Malik quanto costa indagare una funzione legacy, il quale rimanda alla competenza di Irene. In 002 la prova di B-17 resta isolata e pagata: un'ipotesi sul controllo fisico viene respinta, una proposta di coordinamento passa alla lista dei test futuri, la disponibilità al servizio non è una autorizzazione già convalidata. Il risultato sui 28–42 ruoli equivalenti è aggregato, non licenziamenti decisi; Marta misura anche il poco compenso ricevuto dal Circuito. In 003 la pratica sul terminale resta sospesa con una indicazione reale del test respinto. Il finale non anticipa con un giudizio onnisciente il rinnovo di Irene.
+**Dodicesima review — il prezzo della prova.** In 001 Kyla non si limita ad augurarsi che le verifiche storiche sopravvivano al taglio del 17%: chiede a Malik quanto costa indagare una funzione legacy, il quale rimanda alla competenza di Claire. In 002 la prova di B-17 resta isolata e pagata: un'ipotesi sul controllo fisico viene respinta, una proposta di coordinamento passa alla lista dei test futuri, la disponibilità al servizio non è una autorizzazione già convalidata. Il risultato sui 28–42 ruoli equivalenti è aggregato, non licenziamenti decisi; Amara misura anche il poco compenso ricevuto dal Circuito. In 003 la pratica sul terminale resta sospesa con una indicazione reale del test respinto. Il finale non anticipa con un giudizio onnisciente il rinnovo di Claire.
 
 
 ## Tredicesima review — continuità istituzionale e personaggi
