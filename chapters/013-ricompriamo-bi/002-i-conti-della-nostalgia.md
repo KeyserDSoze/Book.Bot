@@ -31,7 +31,13 @@ Maya lesse il foglio senza parlare.
 
 «Sembra la lista delle ragioni per non farlo.»
 
-«È la lista delle ragioni per non raccontare ai donatori che bastano centomila euro e un corriere.»
+«È LA LISTA DELLE RAGIONI PER NON RACCONTARE AI DONATORI CHE BASTANO CENTOMILA EURO E UN CORRIERE.»
+
+Maya gli fece cenno di abbassare la voce.
+
+«Sto parlando normale.»
+
+«Per te. Non per chi è nella stanza accanto.»
 
 Paul spostò sul banco la cornice magnetica che aveva costruito per Bi. Era rimasta una macchia di colla su un angolo; aveva pensato più volte di rifarla, ma non lo aveva mai fatto. Era la prova materiale che un robot apparentemente molto intelligente poteva ancora avere bisogno di una mano umana per una cosa ridicola come tenere un foglio dritto.
 

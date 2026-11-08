@@ -22,7 +22,7 @@ La lavatrice terminava il ciclo con un suono troppo lungo. Il frigorifero sembra
 
 In ufficio, a quell'ora, ci sarebbe stata la pausa caffè.
 
-Il telefono sul tavolo era capovolto. Ethan lo aveva lasciato così per non controllare continuamente se qualcuno dell'azienda avesse scritto.
+Il telefono sul tavolo era capovolto. Ethan lo aveva lasciato così per non controllare continuamente se qualcuno dell'azienda avesse scritto. Accanto c'era una fotografia di Nora, sua sorella maggiore, su una spiaggia con una maglietta troppo larga e una scarpa in mano. Era morta quattro anni prima, investita mentre tornava dal lavoro. L'incidente non aveva niente a che fare con i robot o con Cyberdine. Il rapporto finale, arrivato mesi dopo, aveva usato tre volte la parola *procedura* e una sola volta il nome di Nora. Ethan si era convinto che ogni organizzazione fosse capace di rendere piccolo ciò che non voleva vedere.
 
 Non era licenziato. Gli avevano detto che doveva restare lontano dal campus durante gli accertamenti. L'accesso operativo era sospeso, così come quello di Marcus. La sicurezza aveva raccolto le dichiarazioni dei presenti e conservato le registrazioni. Il colloquio successivo gli sarebbe stato comunicato formalmente.
 
@@ -30,7 +30,7 @@ La sera dell'aggressione non aveva dormito. Il giorno dopo neppure. Ora erano pa
 
 Il contenitore che cadeva. I fogli sul pavimento. Il braccio di Bi che cercava un appoggio. La voce che chiedeva di non fargli male.
 
-Ethan continuava a ripetersi che Bi era una macchina. Non cambiava il fatto che, quando era rimasto a terra, lui e Marcus avevano fatto una cosa precisa, visibile, scelta da loro.
+Ethan continuava a ripetersi che Bi era una macchina. Non cambiava il fatto che, quando era rimasto a terra, lui e Marcus avevano fatto una cosa precisa, visibile, scelta da loro. Nora non c'entrava. Il dolore che aveva imparato a portare come una protesta non gli aveva dato il diritto di colpire nessuno.
 
 Si alzò per fare il caffè. Aveva due tazzine nel pensile. Ne prese una, la risciacquò, la rimise a posto e prese l'altra senza sapere perché.
 

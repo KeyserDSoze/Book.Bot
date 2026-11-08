@@ -19,6 +19,10 @@ factions:
 
 Sarah Chen aveva imparato a diffidare delle frasi che cominciavano con *sono sicuro*.
 
+Da bambina aveva sentito sua madre promettere che non avrebbe più usato droghe. Era morta quando Sarah aveva dieci anni. Suo padre, che aveva una dipendenza altrettanto grave, era morto due anni dopo. Una zia l'aveva cresciuta senza chiederle di perdonare nessuno al posto suo. Sarah non beveva, non fumava, non aveva mai toccato droghe. Detestava persino la puzza di sigaretta sulle scale, e a volte il disgusto la portava a giudicare chi fumava prima ancora di sapere chi fosse. Se ne accorgeva; non era sempre capace di fermarsi.
+
+Si era data regole anche per le dipendenze meno evidenti. Niente giochi con ricompense continue, niente social a letto, notifiche soltanto per la reperibilità. Ogni domenica controllava il tempo passato sul telefono. Quella settimana aveva superato di quarantatré minuti il proprio limite e aveva perso metà serata a domandarsi perché. Il suo bisogno di non dipendere da nulla stava diventando, a sua volta, un'abitudine difficile da interrompere.
+
 Noah ne pronunciò tre durante il colloquio successivo.
 
 «Sono sicuro che il collegamento non è stato usato da altri.»

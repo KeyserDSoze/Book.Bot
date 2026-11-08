@@ -20,7 +20,11 @@ Il preventivo aveva quattordici pagine e nessuna riportava la parola *Bi*.
 
 Paul lo lesse due volte, cominciando dalla voce che gli sembrava meno convincente: **ripristino dell'integrità meccanica e successiva ricertificazione di sicurezza**. Se ne stava seduto davanti a un banco del laboratorio tecnico, con il telefono rivolto a faccia in giù e una penna che aveva smesso di scrivere.
 
-«A questo prezzo potrebbero venderti anche il tecnico», disse.
+«A QUESTO PREZZO POTREBBERO VENDERTI ANCHE IL TECNICO», disse. Un collega chiuse la porta del laboratorio. Paul la riaprì subito, sorpreso dal rumore.
+
+«Paul, possiamo sentirti anche da qui», disse Taylor.
+
+«Non sto urlando», rispose lui, quasi alla stessa altezza.
 
 Taylor, dall'altra parte del tavolo, non sorrise.
 
@@ -72,7 +76,7 @@ Taylor aspettò.
 
 Paul fece scorrere il documento fino alla sezione sul recupero delle impostazioni. Il centro dichiarava che le funzioni di lavoro certificate potevano essere installate su una nuova unità. Non garantiva la conservazione di tutte le interazioni locali non necessarie al servizio e non prometteva di ricostruire ogni abitudine osservata dai colleghi.
 
-«Una unità dello stesso modello può fare le fotocopie», disse. «Può ritirare i fascicoli. Può preparare i dossier, sotto controllo umano. Tutto vero.»
+«UNA UNITÀ DELLO STESSO MODELLO PUÒ FARE LE FOTOCOPIE», disse. Poi provò ad abbassare la voce, senza riuscire a farne un sussurro. «Può ritirare i fascicoli. Può preparare i dossier, sotto controllo umano. Tutto vero.»
 
 «Ma?»
 

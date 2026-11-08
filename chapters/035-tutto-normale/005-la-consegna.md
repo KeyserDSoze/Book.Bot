@@ -77,7 +77,7 @@ Maya abbassò gli occhi. «Perché mi hai sempre detto che prima o poi l'avresti
 
 «Mandami una foto», disse Maya. Non promise un giorno. Era la prima richiesta semplice che riceveva da quando aveva letto la comunicazione sulla fine di Bi.
 
-Dalla porta si sentì la voce di Paul che chiedeva a B-21 di aspettare una seconda firma. La macchina si fermò, consultò il registro e attese. Una procedura ordinaria, eseguita correttamente.
+Dalla porta esplose la voce di Paul: «B-21, ASPETTA LA SECONDA FIRMA!» Maya e Claire si voltarono insieme. Paul non era arrabbiato; stava comunicando una normale verifica di consegna, sempre con lo stesso volume. La macchina si fermò, consultò il registro e attese. Una procedura ordinaria, eseguita correttamente.
 
 Claire aveva ricevuto una proposta di tre mesi per verificare alcuni processi di continuità presso un cliente di Cyberdine. Non era il posto senior che aveva desiderato, e non era neppure un contratto permanente. L'aveva accettata perché il compenso era adeguato e il lavoro corrispondeva alla sua esperienza.
 

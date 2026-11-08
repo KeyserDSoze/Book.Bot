@@ -38,6 +38,8 @@ Emma abbassò il bicchiere. «Lo hanno appena comunicato?»
 
 «No. È scritto in una lingua che permette di non nominare nessuno.»
 
+Ethan guardò il display del distributore. Dopo la morte di sua sorella Nora aveva ricevuto una lettera che parlava di *sinistro definito*. Non era stata una frase falsa: l'assicurazione aveva davvero chiuso la pratica dell'incidente stradale. Ethan aveva imparato a odiare proprio quel genere di parole, capaci di mettere un punto dove per gli altri la frase continuava.
+
 Marcus appoggiò sul banco un contenitore di bicchieri.
 
 «A me hanno già tolto due giri di consegne. Poi mi hanno spiegato che ho più tempo libero. Vorrei capire chi paga quel tempo.»
@@ -50,9 +52,11 @@ Ethan scosse la testa.
 
 «Io non voglio riavere un giro di consegne. Voglio ancora fare il programmatore. Quando mi hanno assunto, scrivevo i collegamenti fra programmi, conoscevo i protocolli e sapevo perché una funzione era lì. Oggi mi chiedono di dire a un agente cosa fare, poi di controllare il risultato. E quando chiedo chi sa ancora leggere una libreria vecchia, mi mostrano la sua spiegazione automatica.»
 
-Paul soffiò sul caffè.
+Paul soffiò sul caffè. «ALLORA APRI IL CODICE.»
 
-«Allora apri il codice.»
+«Ti ho sentito, Paul», disse Ethan.
+
+«BENE.»
 
 «Lo faccio.»
 

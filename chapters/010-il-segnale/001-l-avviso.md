@@ -21,11 +21,9 @@ Nel video l'uomo controllava un contatto, rimontava un ingranaggio e aspettava c
 
 Sul tavolo, accanto al portatile, c'era una lampada senza interruttore. Aveva deciso di ripararla quella mattina, prima di uscire. Poi erano arrivati due messaggi di lavoro, una telefonata che non aveva richiamato e il pensiero di non sapere quale ricambio acquistare. La lampada era rimasta aperta. Accanto, un taccuino di prove era finito sotto un bicchiere d'acqua.
 
-Sul secondo monitor aveva lasciato un elenco di cose da fare. In cima: *riordinare il tavolo*. Era giovedì. L'aveva scritto domenica.
+Sul secondo monitor aveva lasciato un elenco di cose da fare. In cima: *riordinare il tavolo*. Era giovedì. L'aveva scritto domenica. A scuola era stato il ragazzo che sistemava il computer dell'aula e poi accompagnava gli amici a mangiare una pizza. A Cyberdine continuava a essere quello che rendeva meno imbarazzante chiedere aiuto: spiegava in pochi minuti e lasciava poi fare la prova a chi aveva davanti. Non aveva conosciuto tragedie particolari. Aveva genitori presenti, amici che lo cercavano e un lavoro che adorava anche quando gli altri erano stanchi di parlarne.
 
-Sua madre gli aveva scritto poco prima: *Domenica vieni a pranzo o devo scongelare meno roba?* Noah aveva letto il messaggio dall'anteprima. L'idea di rispondere *sì* gli sembrò impegnativa, rispondere *no* gli sembrò crudele. Aveva lasciato il telefono a faccia in giù, come se bastasse quello a impedire al frigorifero di sua madre di riempirsi.
-
-Si disse che avrebbe risposto dopo aver sistemato la lampada. Non aveva neppure ancora trovato l'interruttore giusto.
+Sua madre gli aveva scritto poco prima: *Domenica vieni a pranzo o devo scongelare meno roba?* Noah rispose: *Vengo. Porto io il dolce.* Poi mandò a un amico la fotografia della lampada aperta: *Ci sto ancora lavorando. Non ridere.* L'amico rispose con una faccina che rideva. Noah si mise a cercare il modello dell'interruttore e finì su un'altra spiegazione di circuiti, perché non riusciva a vedere una soluzione tecnica senza voler capire anche le altre.
 
 Un suono breve arrivò da una finestra di servizio quasi coperta dal browser.
 
@@ -51,7 +49,7 @@ Non aveva soltanto ritoccato le risposte. Aveva sostituito il modello linguistic
 
 Aveva ampliato le capacità conversazionali della macchina: riconoscere quando una domanda era in realtà un invito a parlare, mantenere il contesto oltre la singola richiesta, aspettare senza trattare ogni silenzio come un errore da correggere. Invece di limitarsi a portare a termine una conversazione, il sistema aveva cominciato a lasciare spazio a chi stava dall'altra parte.
 
-L'aggiornamento era molto più grande di quello autorizzato. Noah l'aveva lasciato attivo. Non lo aveva dichiarato, perché era convinto che i responsabili glielo avrebbero fatto togliere. Era anche convinto, segretamente, che nessun altro avrebbe saputo ottenere quel risultato.
+L'aggiornamento era molto più grande di quello autorizzato. Noah l'aveva lasciato attivo. Non lo aveva dichiarato, perché era convinto che i responsabili glielo avrebbero fatto togliere prima che potesse mostrare quanto fosse promettente. Era orgoglioso del risultato, non voleva fare carriera con quel robot e non cercava di danneggiare l'azienda: voleva continuare a migliorarlo. Il talento con cui leggeva gli altri sviluppatori non lo aveva aiutato a vedere il proprio limite. Aveva deciso da solo quale rischio gli altri avrebbero accettato.
 
 Poi aveva compiuto una seconda scelta, ancora meno difendibile: installare una backdoor. Un accesso clandestino che gli permetteva di ricevere notifiche sui riavvii, conoscere la posizione dell'unità e, quando disponibile, vedere ciò che riprendevano le sue telecamere. Nessuno lo aveva autorizzato. Noah aveva chiamato quella cosa *monitoraggio* perché la parola *spiare* gli dava fastidio.
 
