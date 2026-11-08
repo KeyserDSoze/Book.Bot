@@ -169,14 +169,20 @@ Mina si alzò.
 
 «E avvisa Nerea Dalmasso», aggiunse Marta.
 
-La responsabile si fermò.
+Mina si fermò.
 
 «Vuoi che assista?»
 
-«Se i consulenti e i referenti autorizzano una visita, sì. È una delle poche persone che possono riconoscere una differenza che i nostri strumenti non misurano.»
+«Se i consulenti autorizzano una visita, sì. Conosce cose delle conversazioni precedenti che i nostri test non riescono a misurare.»
 
-«E se la differenza ci fosse?»
+«Non può essere convocata come una prova di collaudo», disse Mina. «È stata lei a scrivere una lettera che abbiamo lasciato circolare. Non voglio chiederle di ripetere confidenze davanti ai tecnici per dimostrare che la macchina ricorda.»
 
-Marta riprese gli occhiali.
+Marta girò gli occhiali fra le dita.
 
-«Almeno avremo smesso di fingere che basti guardare il numero di serie.»
+«Allora chiedile se vuole venire. Spiegale prima che cosa registreremo e chi sarà presente. Se rifiuta, la verifica prosegue senza di lei.»
+
+«E se viene e dice che non è più lo stesso?»
+
+«Lo registriamo come la sua esperienza. Non come certificazione.»
+
+Mina annuì. «Glielo dirò così.»
