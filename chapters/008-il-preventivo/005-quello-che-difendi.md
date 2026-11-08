@@ -5,9 +5,9 @@ chapter: chapter:008-il-preventivo
 number: 5
 title: Quello che difendi
 canon: canon
-pov: character:gavin-cole
+pov: character:gavin-shaw
 characters:
-  - character:gavin-cole
+  - character:gavin-shaw
   - character:kyla
 locations:
   - location:cyberdine-campus
@@ -15,7 +15,7 @@ factions:
   - faction:cyberdine
 ---
 
-Gavin Cole aveva aspettato quasi quattro settimane per chiedere quei dieci minuti.
+Gavin Shaw aveva aspettato quasi quattro settimane per chiedere quei dieci minuti.
 
 Il giorno della plenaria, quando Cole aveva annunciato che Kyla era diventata azionista, Gavin non aveva applaudito. Si era promesso che avrebbe parlato con lei una volta raccolti i numeri, non nel momento in cui la gelosia avrebbe trasformato qualsiasi frase in un'offesa.
 

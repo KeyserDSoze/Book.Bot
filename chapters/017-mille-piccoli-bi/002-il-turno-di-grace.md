@@ -5,9 +5,9 @@ chapter: chapter:017-mille-piccoli-bi
 number: 2
 title: Il turno di Grace
 canon: canon
-pov: character:grace-morgan
+pov: character:grace-walker
 characters:
-  - character:grace-morgan
+  - character:grace-walker
   - character:julia-parker
 locations:
   - location:centro-assistenza-grace
@@ -15,7 +15,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-La prima cosa che Grace Morgan notò non fu una conversazione.
+La prima cosa che Grace Walker notò non fu una conversazione.
 
 Fu il carrello delle lenzuola arrivato nel posto giusto.
 

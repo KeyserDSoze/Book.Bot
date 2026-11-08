@@ -18,7 +18,7 @@ Le schede canoniche rimangono in characters/. Un dettaglio grafico non menzionat
 
 **Maya Bennett**: chiave d'ottone, documenti e gesto di stringere la chiave. Il volto, se necessario, deve provenire sempre da una stessa immagine di riferimento approvata. Non ridurre il personaggio a una figura generica che osserva Bi.
 
-**Claire Foster**: prove, cartelle e responsabilità delle eccezioni. **Mei Lin**: verifiche di qualità e impianti. **Grace Morgan**: presenza nella cura. **Helen Rivera**: pomodori e scelta di compagnia, mai ritratto passivo o stereotipato.
+**Claire Foster**: prove, cartelle e responsabilità delle eccezioni. **Mei Lin**: verifiche di qualità e impianti. **Grace Walker**: presenza nella cura. **Helen Rivera**: pomodori e scelta di compagnia, mai ritratto passivo o stereotipato.
 
 ## Coerenza fra illustrazioni generate
 

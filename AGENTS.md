@@ -117,7 +117,7 @@ I blocchi di lavoro emergono da regole di conferma configurate da persone in sit
 
 ## Rilettura editoriale v0.23.0
 
-Non reintrodurre la lavoratrice «Amara» nel centro assistenziale: è **Julia Parker**; Amara Ortiz dirige solo Veyra. Il video virale delle macchine ferme nasce dal bisogno di un autista di documentare un ritardo di cui qualcuno può negare la remunerazione; il montaggio perde l'informazione sulla mappa non approvata. Mei Lin firmò un'estensione condizionata dei piloti e Grace Morgan approvò una regola senza prevedere il sostituto: non sono portavoci infallibili. Noah mette a disposizione una prova sintetica con esito sfavorevole prima occultata nel riepilogo, non una chiave di accesso o una soluzione magica.
+Non reintrodurre la lavoratrice «Amara» nel centro assistenziale: è **Julia Parker**; Amara Ortiz dirige solo Veyra. Il video virale delle macchine ferme nasce dal bisogno di un autista di documentare un ritardo di cui qualcuno può negare la remunerazione; il montaggio perde l'informazione sulla mappa non approvata. Mei Lin firmò un'estensione condizionata dei piloti e Grace Walker approvò una regola senza prevedere il sostituto: non sono portavoci infallibili. Noah mette a disposizione una prova sintetica con esito sfavorevole prima occultata nel riepilogo, non una chiave di accesso o una soluzione magica.
 
 Non trasformare in certezze le ipotesi che il romanzo mantiene aperte: il rischio di B-17 e il destino delle sue capacità, la provenienza dei dati del produttore, l'effetto sociale del modulo, le conseguenze professionali di Noah. Curare scene vissute più ampie invece di replicare nuove riunioni esplicative.
 

@@ -9,7 +9,7 @@ pov:
   - character:paul-turner
   - character:maya-bennett
   - character:claire-foster
-  - character:gavin-cole
+  - character:gavin-shaw
 ---
 
 # Direzione
@@ -24,7 +24,7 @@ La plenaria chiarisce che **Ethan Blake e Marcus Reed**, già allontanati cautel
 2. Quasi quanto uno nuovo — Paul verifica preventivo, alternative e limiti tecnici, sostiene in modo credibile che la scelta può essere razionale, ma non può garantire l'identità del sostituto.
 3. Il numero — Maya riflette sul nome ufficiale lo stesso giorno della plenaria, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
 4. Un mese di mani — nelle settimane successive Claire scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
-5. Quello che difendi — settimane dopo, Gavin Cole affronta privatamente Kyla: ha dato moltissimo al team, ma considera il resto dell'azienda un ostacolo. Lei riconosce i meriti e, solo perché incalzata, definisce tossico il suo modo di gestire; deve riconoscere anche la propria corresponsabilità nei numeri scelti.
+5. Quello che difendi — settimane dopo, Gavin Shaw affronta privatamente Kyla: ha dato moltissimo al team, ma considera il resto dell'azienda un ostacolo. Lei riconosce i meriti e, solo perché incalzata, definisce tossico il suo modo di gestire; deve riconoscere anche la propria corresponsabilità nei numeri scelti.
 
 # Continuità
 

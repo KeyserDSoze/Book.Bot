@@ -12,7 +12,7 @@ characters:
   - character:claire-foster
   - character:kyla
   - character:b-17
-  - character:gavin-cole
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions:
@@ -33,7 +33,7 @@ La terza pagina era una tabella dei costi. Per l'opzione senza il posto senior, 
 
 Elena conosceva già il risultato delle prove. Aveva chiesto che si tenesse aperta una possibilità di confronto, e ora se ne pentiva un poco: sarebbe stato più facile contestare una scelta opaca che una scelta preparata con tanta cura.
 
-Entrarono Kyla, Margaret e due responsabili. Gavin Cole, responsabile Delivery, portava una stampa dei risultati di test con una colonna evidenziata: le ore consumate dal suo gruppo. L'altro aveva il computer aperto sulla matrice delle autorizzazioni.
+Entrarono Kyla, Margaret e due responsabili. Gavin Shaw, responsabile Delivery, portava una stampa dei risultati di test con una colonna evidenziata: le ore consumate dal suo gruppo. L'altro aveva il computer aperto sulla matrice delle autorizzazioni.
 
 «Prima di vedere i numeri», disse Margaret, «vorrei sapere chi si occuperà dei casi che nessuno ha pensato di provare.»
 

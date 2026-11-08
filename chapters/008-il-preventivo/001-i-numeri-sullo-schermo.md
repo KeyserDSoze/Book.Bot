@@ -14,7 +14,7 @@ characters:
   - character:mila-novak
   - character:maya-bennett
   - character:noah-carter
-  - character:gavin-cole
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions:
@@ -77,7 +77,7 @@ Paul fece un piccolo cenno. Kyla lo conosceva abbastanza da sapere che quel punt
 
 Per quaranta minuti Cole parlò di turni, margini, qualità, autorizzazioni e formazione. Rispose a una domanda sulle ore straordinarie: sarebbero state registrate, non date per scontate. A una collega che chiedeva se la formazione avrebbe prodotto nuovi posti senior disse che non poteva promettere un organigramma futuro. Il tono della risposta non piacque a molti; Kyla apprezzò almeno che non si travestisse da promessa.
 
-Gavin Cole, responsabile Delivery, richiuse una cartellina che conteneva tre rilasci completati in anticipo. Aveva tenuto in piedi il proprio gruppo durante due incidenti notturni e difeso le scadenze anche quando un altro reparto chiedeva verifiche ulteriori. Si aspettava, quantomeno, che quel lavoro venisse nominato.
+Gavin Shaw, responsabile Delivery, richiuse una cartellina che conteneva tre rilasci completati in anticipo. Aveva tenuto in piedi il proprio gruppo durante due incidenti notturni e difeso le scadenze anche quando un altro reparto chiedeva verifiche ulteriori. Si aspettava, quantomeno, che quel lavoro venisse nominato.
 
 Cole posò il telecomando.
 
