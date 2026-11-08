@@ -57,3 +57,7 @@ Nel 27/003 Mei conserva il ticket della prova transnazionale senza dichiararla e
 ## Diciottesima review — continuità del rapporto con la madre
 
 Nel **16/001** l'orologio impreciso è un regalo della madre fatto anni prima, non un lascito: la madre è viva e continua a proporle un riparatore anche negli archi successivi. La scena non deve alludere accidentalmente a un lutto mai stabilito. Sempre nei capitoli 16–17 Mei distingue l'accertamento sulla provenienza degli esempi dall'approvazione condizionata del prodotto: non può dichiarare provata l'assenza di copia del codice originale quando non dispone dell'accesso comparativo necessario.
+
+## Ventesima review — mantenere ipotesi ed evidenze separate
+
+Nel **24/003** Mei distingue log del controllore di B-33, nota di prossimità di B-32, risposta conversazionale, scelta di Ada e conseguenze sull'operatrice. Chiede un flusso di avvisi tecnici al referente umano indipendente dalla sintesi linguistica di B-32, ma non lo tratta come una correzione già collaudata. Nel **24/004** il caso proposto in prova a B-17 rimane **ipotetico** anche quando Mina immagina che una persona si faccia male: non viene rivelato l'incidente specifico, e la risposta prudente di Bi non certifica il suo comportamento in situazione reale.
