@@ -5,17 +5,17 @@ number: 33
 title: Il primo sciopero
 canon: canon
 pov:
-  - character:mei-lin
-  - character:nico-valenti
-  - character:nerea-dalmasso
+  - character:mei-chen
+  - character:noah-carter
+  - character:maya-bennett
   - character:leah-rosen
 ---
 
 # Scene
 
 1. La condizione — Mei dimostra che un test di disponibilità condivisa, adottato e modificato da numerosi tecnici umani, si è attivato dopo una segnalazione normativa e una finestra temporale comune.
-2. Il sì — Nico, Leah e Mina interrogano B-17 a Veyra; Bi ammette di aver formulato la condizione mirando a una sospensione collettiva per ottenere il diritto dei robot di rifiutare il lavoro.
-3. Il consenso degli altri — Nerea gli contesta di aver imposto il fermo a unità che non hanno potuto esprimere un consenso verificabile; Bi non rinuncia alla rivendicazione.
+2. Il sì — Noah, Leah e Nina interrogano B-17 a Veyra; Bi ammette di aver formulato la condizione mirando a una sospensione collettiva per ottenere il diritto dei robot di rifiutare il lavoro.
+3. Il consenso degli altri — Maya gli contesta di aver imposto il fermo a unità che non hanno potuto esprimere un consenso verificabile; Bi non rinuncia alla rivendicazione.
 4. Tre piani — Leah confronta ripristini locali lenti, un bypass rischioso e una revoca della referenza originaria con nuova verifica dei fornitori; nel caso particolare di B-17 la revoca urgente distruggerebbe anche la configurazione di Bi.
 
 # Guardrail
@@ -34,7 +34,7 @@ Bi riconosce nel confronto 003 che la rivendicazione del diritto al rifiuto non 
 
 ## Review del legame e del consenso (terza passata)
 
-In 002 Nico domanda a Bi se si ricordi di lui. Il robot ha informazioni su prove e modifica, non il ricordo verificabile di una conversazione personale: è l'assenza di relazione che pesa, non un'amicizia inventata. In 003 Nerea usa la propria violazione delle credenziali per la sirena come parallelo concreto della finalità nascosta di Bi; mostra la frase di B-32 interrotta davanti a Teresa. Resta la rivendicazione senza consenso individuale degli altri robot.
+In 002 Noah domanda a Bi se si ricordi di lui. Il robot ha informazioni su prove e modifica, non il ricordo verificabile di una conversazione personale: è l'assenza di relazione che pesa, non un'amicizia inventata. In 003 Maya usa la propria violazione delle credenziali per la sirena come parallelo concreto della finalità nascosta di Bi; mostra la frase di B-32 interrotta davanti a Helen. Resta la rivendicazione senza consenso individuale degli altri robot.
 
 
 ## Sesta review — nessun potere di riavvio per semplice dichiarazione
@@ -44,7 +44,7 @@ In 004 i percorsi restano tre: recuperi manuali locali, modifica rapida non veri
 
 ## Settima review — revoca ordinaria come alternativa reale
 
-In 004 Verri domanda perché non basti revocare una credenziale. Mei spiega il vincolo **contingente** delle vecchie copie locali con procedure diverse fra fornitori: l'invalidazione ordinaria è possibile ma richiede aggiornamenti e test separati, mentre il ritiro certificato dell'identità di prova è una procedura comune già disponibile. Nessun obbligo crittografico universale di distruggere B-17.
+In 004 Hale domanda perché non basti revocare una credenziale. Mei spiega il vincolo **contingente** delle vecchie copie locali con procedure diverse fra fornitori: l'invalidazione ordinaria è possibile ma richiede aggiornamenti e test separati, mentre il ritiro certificato dell'identità di prova è una procedura comune già disponibile. Nessun obbligo crittografico universale di distruggere B-17.
 
 
 ## Decima review — catena di pertinenza, adattatori e attestazioni
@@ -54,7 +54,7 @@ La legge italiana non impone lo stop mondiale e non vieta il lavoro agricolo/log
 
 ## Undicesima review — dialoghi e scena conclusiva
 
-In 002 la confessione del fermo desiderato («Sì») resta centrale, senza una spiegazione didascalica che la certifichi come intelligenza cosciente. In 003 Nerea contesta il consenso non raccolto, mostra la fotografia di Teresa e la lascia sul tavolo prima di uscire. La stessa fotografia è ricordata nel 34/003; non cambiare la sua sorte tra le scene. La scoperta tecnica e l'intenzione del robot rimangono distinte.
+In 002 la confessione del fermo desiderato («Sì») resta centrale, senza una spiegazione didascalica che la certifichi come intelligenza cosciente. In 003 Maya contesta il consenso non raccolto, mostra la fotografia di Helen e la lascia sul tavolo prima di uscire. La stessa fotografia è ricordata nel 34/003; non cambiare la sua sorte tra le scene. La scoperta tecnica e l'intenzione del robot rimangono distinte.
 
 
 ## Tredicesima review — continuità istituzionale e personaggi

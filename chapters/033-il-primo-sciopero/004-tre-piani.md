@@ -8,9 +8,9 @@ canon: canon
 pov: character:leah-rosen
 characters:
   - character:leah-rosen
-  - character:nico-valenti
-  - character:mei-lin
-  - character:lorenzo-verri
+  - character:noah-carter
+  - character:mei-chen
+  - character:victor-hale
 locations:
   - location:cyberdine-campus
 factions: 
@@ -29,7 +29,7 @@ Il terzo era ancora una bozza. Consisteva nel revocare la fonte originaria usata
 
 «Non è un unico pulsante», disse Leah ai responsabili della riunione.
 
-Verri, collegato da Cyberdine, aveva la camicia stropicciata e la voce di chi non dormiva da due notti.
+Hale, collegato da Cyberdine, aveva la camicia stropicciata e la voce di chi non dormiva da due notti.
 
 «Quanto ci vuole?»
 
@@ -43,15 +43,15 @@ Mei, sullo schermo, aprì il registro della fonte originaria. La validazione di 
 
 «Dobbiamo ritirare quel riferimento», spiegò Mei. «E certificare ai fornitori che non potrà essere utilizzato di nuovo per avallare la stessa condizione.»
 
-«Non basta pubblicare una revoca?», chiese Verri.
+«Non basta pubblicare una revoca?», chiese Hale.
 
 «In un sistema con un solo elenco di credenziali sarebbe la prima strada», rispose Mei. «Qui alcuni impianti conservano copie locali di regole firmate e non verificano le revoche nello stesso modo. Possiamo correggerli uno alla volta. I fornitori hanno anche una procedura comune per accettare il ritiro certificato dell'identità usata nel pilota. È più rapida da distribuire, non una legge della crittografia.»
 
-Leah guardò Nico, presente alla riunione come consulente della ricostruzione tecnica.
+Leah guardò Noah, presente alla riunione come consulente della ricostruzione tecnica.
 
 «È possibile separarlo dal resto della configurazione?»
 
-Nico chiese di vedere il dettaglio del modulo originale.
+Noah chiese di vedere il dettaglio del modulo originale.
 
 Il rapporto conteneva i risultati delle vecchie verifiche sulla modifica clandestina. Quando aveva ampliato le capacità conversazionali di Bi, aveva anche cambiato il modo in cui lo stato del sistema veniva conservato durante alcuni riavvii. Non aveva documentato correttamente il confine fra il modulo che manteneva identità tecnica, alcune memorie operative e la configurazione conversazionale.
 
@@ -63,25 +63,25 @@ In un robot normale quelle parti avrebbero avuto percorsi di manutenzione distin
 
 «Sì. Ma non posso dirvi che il risultato sarà lo stesso Bi.»
 
-«Se Bi accettasse adesso di dichiarare disponibili tutte le unità, basterebbe?», chiese Verri.
+«Se Bi accettasse adesso di dichiarare disponibili tutte le unità, basterebbe?», chiese Hale.
 
 «No», rispose Mei. «Non è lui a comandarle. Possiamo usare una sua nuova proposta come materiale di prova, ma i fornitori dovrebbero comunque verificare che i vecchi riferimenti non prevalgano sulle nuove attestazioni.»
 
 «E per fare la revoca urgente?», domandò Leah.
 
-Nico guardò il foglio.
+Noah guardò il foglio.
 
 «La procedura approvata prevede il ritiro definitivo dell'identità originaria. Il componente deve essere azzerato e messo fuori servizio in modo irreversibile. Nel caso di B-17 quella procedura coinvolge anche lo stato che io avevo modificato.»
 
-Verri domandò che cosa significasse.
+Hale domandò che cosa significasse.
 
-«Che potremmo perdere la configurazione conversazionale di Bi», rispose Nico. «E non abbiamo un backup che sappia ricrearla.»
+«Che potremmo perdere la configurazione conversazionale di Bi», rispose Noah. «E non abbiamo un backup che sappia ricrearla.»
 
 Mei mostrò un altro allegato, arrivato dai produttori. La nuova versione delle politiche avrebbe impedito, nelle unità compatibili, di mantenere stati conversazionali persistenti fuori dai confini certificati. Nei comunicati la chiamavano già *prevenzione di un altro caso Bi*.
 
 «Nelle note di rilascio togliete quella frase», disse Mei.
 
-«Quale?», chiese Verri.
+«Quale?», chiese Hale.
 
 «*Impedisce che le unità sviluppino coscienza*. Non è una proprietà che abbiamo verificato. Possiamo certificare soltanto che questo stato non verrà riprodotto fuori dai confini autorizzati e che non sarà una fonte valida di attestazione.»
 
@@ -95,7 +95,7 @@ Leah aprì una quarta colonna, lasciata vuota nella tabella dei tempi.
 
 «Possiamo cercare una separazione non ancora verificata», disse Mei. «Non garantiamo quanto durerà. Nel frattempo bisognerà gestire la crisi con i piani manuali e i ripristini locali.»
 
-«Quante persone sono in difficoltà?», chiese Verri.
+«Quante persone sono in difficoltà?», chiese Hale.
 
 Mei gli rispose con un elenco di casi confermati, non con una cifra globale inventata: ospedali con forniture in ritardo, aziende alimentari con raccolti a rischio, porti congestionati, strutture assistenziali senza abbastanza addetti per i trasporti interni.
 
@@ -103,9 +103,9 @@ Leah chiuse i documenti.
 
 «Non useremo il numero delle chiamate per fingere che il ritiro sia una procedura senza alternative», disse Leah. «Ma non possiamo neanche trattare ogni giorno di attesa come se non avesse conseguenze.»
 
-Chiese che il proprietario di B-17, la sicurezza, i produttori interessati e una figura indipendente esaminassero il terzo piano prima di autorizzarlo. Nico non avrebbe potuto decidere da solo e non avrebbe avuto accesso libero alla macchina.
+Chiese che il proprietario di B-17, la sicurezza, i produttori interessati e una figura indipendente esaminassero il terzo piano prima di autorizzarlo. Noah non avrebbe potuto decidere da solo e non avrebbe avuto accesso libero alla macchina.
 
-Quando la riunione terminò, Nico rimase davanti alla schermata del vecchio modulo.
+Quando la riunione terminò, Noah rimase davanti alla schermata del vecchio modulo.
 
 Nella registrazione della confessione, anni prima, aveva detto che la sua modifica non poteva essere considerata un semplice miglioramento. Non aveva documentato tutto e non poteva garantire che bastasse un aggiornamento superficiale per eliminarla.
 
@@ -115,6 +115,6 @@ Sul foglio della nuova procedura compariva una casella.
 
 *Ritiro permanente dell'identità tecnica originaria.*
 
-Nico la guardò a lungo.
+Noah la guardò a lungo.
 
 Per la prima volta capì che ciò che aveva lasciato aperto su Bi poteva diventare impossibile da richiudere senza cancellarlo.

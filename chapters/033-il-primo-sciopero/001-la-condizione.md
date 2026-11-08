@@ -5,9 +5,9 @@ chapter: chapter:033-il-primo-sciopero
 number: 1
 title: La condizione
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions: 
@@ -17,7 +17,7 @@ factions:
 
 L'ultimo elemento non arrivò da un robot.
 
-Arrivò da un funzionario di un servizio che aggiornava le norme applicabili alle attività automatizzate. Mei Lin aveva chiesto di vedere che cosa fosse successo fra il voto italiano e l'ora del fermo. Il servizio aveva registrato, nella sera del voto, l'esito definitivo del Parlamento e l'impronta del testo approvato. L'evento autenticato riportava lo stato *approvazione parlamentare conclusa*, non *legge in vigore*. Promulgazione, pubblicazione ufficiale e termini di adeguamento erano passaggi successivi.
+Arrivò da un funzionario di un servizio che aggiornava le norme applicabili alle attività automatizzate. Mei Chen aveva chiesto di vedere che cosa fosse successo fra il voto italiano e l'ora del fermo. Il servizio aveva registrato, nella sera del voto, l'esito definitivo del Parlamento e l'impronta del testo approvato. L'evento autenticato riportava lo stato *approvazione parlamentare conclusa*, non *legge in vigore*. Promulgazione, pubblicazione ufficiale e termini di adeguamento erano passaggi successivi.
 
 Quella comunicazione non ordinava di spegnere nulla, né attestava che fosse già entrato in vigore un divieto.
 
