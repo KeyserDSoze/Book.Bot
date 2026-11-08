@@ -8,10 +8,10 @@ canon: canon
 pov: character:mila-novak
 characters:
   - character:mila-novak
-  - character:paolo-ferri
-  - character:dario-sarti
-  - character:nerea-dalmasso
-  - character:irene-valli
+  - character:paul-turner
+  - character:ethan-blake
+  - character:maya-bennett
+  - character:claire-foster
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -20,25 +20,25 @@ factions:
   - faction:cyberdine
 ---
 
-Dario Sarti ricordava perfettamente la prima libreria che aveva scritto per Cyberdine. Un connettore fra un archivio vecchio e un servizio nuovo: tre notti di test e una mattina a cercare una data che veniva interpretata nel fuso orario sbagliato. Quando aveva trovato il difetto, il responsabile gli aveva stretto la mano.
+Ethan Blake ricordava perfettamente la prima libreria che aveva scritto per Cyberdine. Un connettore fra un archivio vecchio e un servizio nuovo: tre notti di test e una mattina a cercare una data che veniva interpretata nel fuso orario sbagliato. Quando aveva trovato il difetto, il responsabile gli aveva stretto la mano.
 
 Quel giorno aveva approvato una modifica simile in meno di dieci minuti.
 
-Un agente aveva scritto il codice, proposto le prove e riassunto le conseguenze. Dario aveva controllato il confronto fra versioni, letto i risultati e premuto il tasto di revisione. Il responsabile gli aveva scritto *Ottimo lavoro*. Non era una bugia. Non gli aveva fatto piacere.
+Un agente aveva scritto il codice, proposto le prove e riassunto le conseguenze. Ethan aveva controllato il confronto fra versioni, letto i risultati e premuto il tasto di revisione. Il responsabile gli aveva scritto *Ottimo lavoro*. Non era una bugia. Non gli aveva fatto piacere.
 
-Alla macchinetta del caffè trovò Mila, Paolo e Mauro.
+Alla macchinetta del caffè trovò Mila, Paul e Marcus.
 
-«Non aprono la posizione di Adriana», disse, mostrando il messaggio.
+«Non aprono la posizione di Margaret», disse, mostrando il messaggio.
 
 Mila abbassò il bicchiere. «Lo hanno appena comunicato?»
 
-«Non serve più una responsabile. I capi firmano, gli agenti preparano, Bi verifica il mondo reale. A Irene rimane quello che non riescono ancora a far fare alle macchine.»
+«Non serve più una responsabile. I capi firmano, gli agenti preparano, Bi verifica il mondo reale. A Claire rimane quello che non riescono ancora a far fare alle macchine.»
 
 «Non è scritto così», rispose Mila.
 
 «No. È scritto in una lingua che permette di non nominare nessuno.»
 
-Mauro appoggiò sul banco un contenitore di bicchieri.
+Marcus appoggiò sul banco un contenitore di bicchieri.
 
 «A me hanno già tolto due giri di consegne. Poi mi hanno spiegato che ho più tempo libero. Vorrei capire chi paga quel tempo.»
 
@@ -46,11 +46,11 @@ Mauro appoggiò sul banco un contenitore di bicchieri.
 
 «Il risultato è uguale.»
 
-Dario scosse la testa.
+Ethan scosse la testa.
 
 «Io non voglio riavere un giro di consegne. Voglio ancora fare il programmatore. Quando mi hanno assunto, scrivevo i collegamenti fra programmi, conoscevo i protocolli e sapevo perché una funzione era lì. Oggi mi chiedono di dire a un agente cosa fare, poi di controllare il risultato. E quando chiedo chi sa ancora leggere una libreria vecchia, mi mostrano la sua spiegazione automatica.»
 
-Paolo soffiò sul caffè.
+Paul soffiò sul caffè.
 
 «Allora apri il codice.»
 
@@ -64,11 +64,11 @@ Mila lo guardò. «Il livello alto non dovrebbe impedirti di sapere cosa stai fi
 
 «È quello che dico anch'io.»
 
-Il distributore iniziò a lavare gli ugelli. Paolo ritirò il bicchiere con un gesto esperto.
+Il distributore iniziò a lavare gli ugelli. Paul ritirò il bicchiere con un gesto esperto.
 
 «Lo stesso succede con una vecchia stampante», disse. «Tutti sanno cosa chiederle. Quando si rompe, cercano me perché non hanno mai aperto lo sportello.»
 
-«Almeno cercano te», rispose Dario.
+«Almeno cercano te», rispose Ethan.
 
 Bi comparve nel corridoio con una scatola di bicchieri. Si fermò vicino alla nicchia.
 
@@ -76,13 +76,13 @@ Bi comparve nel corridoio con una scatola di bicchieri. Si fermò vicino alla ni
 
 Nessuno rispose subito.
 
-«Tu bene, eh?», chiese Dario.
+«Tu bene, eh?», chiese Ethan.
 
 «Non ho anomalie operative da segnalare.»
 
 «Naturalmente.»
 
-Bi iniziò a rifornire il distributore. Dario osservò le mani che sistemavano i bicchieri. Erano le stesse che avevano aiutato un programmatore a trovare il caso mancante in un test.
+Bi iniziò a rifornire il distributore. Ethan osservò le mani che sistemavano i bicchieri. Erano le stesse che avevano aiutato un programmatore a trovare il caso mancante in un test.
 
 «Hai scritto tu il nuovo codice dei nostri connettori?»
 
@@ -94,51 +94,51 @@ Bi iniziò a rifornire il distributore. Dario osservò le mani che sistemavano i
 
 «Quando sa ancora cosa sta revisionando.»
 
-Nerea arrivò dallo Spazio Comune con una scatola di quaderni.
+Maya arrivò dallo Spazio Comune con una scatola di quaderni.
 
 «Che succede?»
 
-«Hanno cancellato il posto di Adriana», disse Mauro.
+«Hanno cancellato il posto di Margaret», disse Marcus.
 
-«Irene lo sa?»
+«Claire lo sa?»
 
 «Kyla le ha parlato», rispose Mila.
 
-Nerea guardò prima Dario e poi Bi.
+Maya guardò prima Ethan e poi Bi.
 
-«Allora parliamo con Irene. Non trasformiamo una scelta sui posti di lavoro in un processo al robot davanti al caffè.»
+«Allora parliamo con Claire. Non trasformiamo una scelta sui posti di lavoro in un processo al robot davanti al caffè.»
 
-Dario aprì una mano verso la macchina.
+Ethan aprì una mano verso la macchina.
 
 «Non è colpa sua, vero? Non è mai colpa di chi fa il lavoro.»
 
-«Le decisioni sull'organico le prende l'azienda», rispose Nerea.
+«Le decisioni sull'organico le prende l'azienda», rispose Maya.
 
 «Sì. Ma l'azienda le prende perché quello fa il lavoro al posto nostro.»
 
-Mila pensò ai problemi che Bi aveva davvero risolto: le fotocopie, il registro storico, il test che nessuno aveva pensato di scrivere. Non avrebbe voluto tornare alle ore perse prima di quelle soluzioni. Pensò a Irene, che aveva imparato a porre domande importanti proprio grazie al tempo liberato.
+Mila pensò ai problemi che Bi aveva davvero risolto: le fotocopie, il registro storico, il test che nessuno aveva pensato di scrivere. Non avrebbe voluto tornare alle ore perse prima di quelle soluzioni. Pensò a Claire, che aveva imparato a porre domande importanti proprio grazie al tempo liberato.
 
 «Non dobbiamo scegliere fra dire che è utile e dire che qualcuno ci perde», disse.
 
-Dario non le rispose. Attraverso la porta vide Irene passare davanti al laboratorio con una cartellina in mano. Sembrava ancora impegnata a risolvere un problema, non a cercare un colpevole.
+Ethan non le rispose. Attraverso la porta vide Claire passare davanti al laboratorio con una cartellina in mano. Sembrava ancora impegnata a risolvere un problema, non a cercare un colpevole.
 
 «Non volevo diventare uno che approva il lavoro di un programmatore che non esiste», disse, quasi a se stesso.
 
-«E io non volevo essere chiamato soltanto quando c'è un peso da spostare», intervenne Mauro.
+«E io non volevo essere chiamato soltanto quando c'è un peso da spostare», intervenne Marcus.
 
 Bi chiuse il vano del distributore. Il sistema confermò che la commissione era stata completata.
 
 «Posso esservi utile in altro modo?», chiese.
 
-Dario rise senza allegria.
+Ethan rise senza allegria.
 
 «Per una volta vorrei che non avessi una risposta pronta.»
 
-Nerea prese la scatola dei quaderni e si mise in cammino.
+Maya prese la scatola dei quaderni e si mise in cammino.
 
-«Io vado a cercare Irene», disse. «Se davvero vogliamo capire cosa è successo, cominciamo da lei.»
+«Io vado a cercare Claire», disse. «Se davvero vogliamo capire cosa è successo, cominciamo da lei.»
 
-Dario rimase davanti al distributore con il bicchiere ormai freddo. Sul telefono arrivò un'altra richiesta di revisione di codice. Era urgente, e lui era ancora una delle poche persone autorizzate a firmarla.
+Ethan rimase davanti al distributore con il bicchiere ormai freddo. Sul telefono arrivò un'altra richiesta di revisione di codice. Era urgente, e lui era ancora una delle poche persone autorizzate a firmarla.
 
 Aprì il messaggio.
 

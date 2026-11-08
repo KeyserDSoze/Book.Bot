@@ -9,10 +9,10 @@ pov: character:mila-novak
 characters:
   - character:mila-novak
   - character:kyla
-  - character:paolo-ferri
-  - character:irene-valli
-  - character:dario-sarti
-  - character:mauro-lanza
+  - character:paul-turner
+  - character:claire-foster
+  - character:ethan-blake
+  - character:marcus-reed
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -25,11 +25,11 @@ All'incontro del pomeriggio mancavano le sedie.
 
 Mila ne contò ventiquattro e trentadue persone in piedi. Per la prima volta dalla sua apertura, lo Spazio Comune non aveva abbastanza spazio per chi voleva entrarci.
 
-«Ne prendiamo altre?», chiese Paolo.
+«Ne prendiamo altre?», chiese Paul.
 
 «No», rispose Mila a un volume che fece voltare le persone già sedute. «Poi ci mettiamo mezz'ora a rimetterle a posto.»
 
-«Siamo qui», le ricordò Paolo, indicando la fila davanti a lei.
+«Siamo qui», le ricordò Paul, indicando la fila davanti a lei.
 
 «Lo so. Sto parlando con te.»
 
@@ -41,7 +41,7 @@ Bi era dall'altra parte della porta, impegnato in una verifica su documenti auto
 
 Kyla entrò con un portatile e si fermò davanti al tavolo da ping pong, chiuso e coperto da un telo grigio. Mise il computer sul piano.
 
-«Non ho una presentazione», annunciò. «Vorrei capire quali conseguenze state vedendo e quali decisioni dobbiamo rivedere. La posizione di Adriana non è stata riaperta, ma non è l'unica domanda che avete fatto.»
+«Non ho una presentazione», annunciò. «Vorrei capire quali conseguenze state vedendo e quali decisioni dobbiamo rivedere. La posizione di Margaret non è stata riaperta, ma non è l'unica domanda che avete fatto.»
 
 Un uomo vicino alla finestra sollevò la mano.
 
@@ -49,7 +49,7 @@ Un uomo vicino alla finestra sollevò la mano.
 
 «Perché qualcuno deve comunque verificare e decidere», rispose Kyla.
 
-«Qualcuno che è già un responsabile», disse Dario dalla seconda fila. «Non qualcuno che sperava di diventarlo.»
+«Qualcuno che è già un responsabile», disse Ethan dalla seconda fila. «Non qualcuno che sperava di diventarlo.»
 
 Un brusio attraversò la stanza.
 
@@ -57,7 +57,7 @@ Mila riconobbe il problema. Il processo era stato disegnato con cura, le respons
 
 «È una domanda legittima», intervenne. «Dobbiamo costruire percorsi in cui gli esseri umani imparino davvero a prendere quelle decisioni.»
 
-«Con quali posti alla fine?» chiese Mauro, appoggiato alla parete.
+«Con quali posti alla fine?» chiese Marcus, appoggiato alla parete.
 
 Mila non rispose subito.
 
@@ -71,15 +71,15 @@ Un'altra voce si levò dalla porta.
 
 «Nessuno vuole togliere tempo a tua figlia. Vogliamo capire se nel frattempo stiamo togliendo il futuro ai figli degli altri.»
 
-Mila vide formarsi due piccoli gruppi quasi senza spostamenti. Da una parte quelli che annuivano alla prima collega; dall'altra quelli che guardavano Dario. Alcuni rimanevano immobili al centro, con l'espressione sgradevole di chi sa che entrambe le cose possono essere vere.
+Mila vide formarsi due piccoli gruppi quasi senza spostamenti. Da una parte quelli che annuivano alla prima collega; dall'altra quelli che guardavano Ethan. Alcuni rimanevano immobili al centro, con l'espressione sgradevole di chi sa che entrambe le cose possono essere vere.
 
-Paolo si avvicinò al tavolo.
+Paul si avvicinò al tavolo.
 
 «Bi non è un assunto, né un dirigente. Discutiamo delle scelte aziendali, non di lui.»
 
 «È facile per te», disse qualcuno. «A te la manutenzione serve sempre.»
 
-Paolo abbassò la mano.
+Paul abbassò la mano.
 
 «Anche la manutenzione cambia», rispose. «Non sono immune a niente.»
 
@@ -91,13 +91,13 @@ Un'altra, più vicina alla porta, non si mosse.
 
 «Scusate», disse Bi. «Devo attraversare il corridoio.»
 
-Dario si voltò.
+Ethan si voltò.
 
 «Vai pure. Tanto qui dobbiamo sempre farti strada.»
 
 Bi attese. Il passaggio era ristretto da una sedia fuori posizione. Un collega la tirò indietro con il piede e il robot riprese a camminare.
 
-«Non vedete?» chiese Mauro, mentre Bi si allontanava. «Non serve nemmeno che entri. Cambiamo già noi il posto dove stiamo per lasciarlo passare.»
+«Non vedete?» chiese Marcus, mentre Bi si allontanava. «Non serve nemmeno che entri. Cambiamo già noi il posto dove stiamo per lasciarlo passare.»
 
 Mila pensò al carrello che aveva spostato spontaneamente qualche settimana prima. Allora era sembrato un gesto quasi affettuoso. Adesso sentiva nello stesso movimento una questione di potere che nessuno aveva deciso di affrontare.
 
@@ -105,17 +105,17 @@ Kyla rimise il portatile in borsa.
 
 «Vi propongo due cose», disse. «Una verifica indipendente delle conseguenze sui percorsi di carriera e un canale per raccogliere problemi concreti delle unità. Non vi chiedo di essere d'accordo. Vi chiedo soltanto di non trasformare chi lavora qui in un bersaglio.»
 
-«Chi lavora qui?», ripeté Dario. «Vedi che alla fine lo chiami come noi?»
+«Chi lavora qui?», ripeté Ethan. «Vedi che alla fine lo chiami come noi?»
 
 Kyla inspirò.
 
 «Sto parlando delle persone presenti. E di come ci trattiamo tra noi.»
 
-Mauro scuoteva la testa.
+Marcus scuoteva la testa.
 
 L'incontro finì senza una sintesi condivisa. Alcuni ringraziarono Kyla per avere ascoltato, altri uscirono dicendo che non era stato deciso niente. Una collega chiese quando si sarebbe tenuta la prossima riunione; nessuno seppe dirglielo.
 
-Mila restò a rimettere a posto le sedie con Paolo.
+Mila restò a rimettere a posto le sedie con Paul.
 
 «Ti sei accorta di una cosa?» le domandò lui.
 
@@ -127,18 +127,18 @@ Mila sistemò una sedia contro la parete. Il piedino posteriore era consumato e,
 
 «Lo abbiamo detto», rispose. «Le persone.»
 
-«Le persone», ripeté Paolo. «Ma qui ormai le persone vogliono discutere con Bi, non con chi ha firmato i nuovi processi.»
+«Le persone», ripeté Paul. «Ma qui ormai le persone vogliono discutere con Bi, non con chi ha firmato i nuovi processi.»
 
 Dall'esterno giunsero voci più forti. Mila aprì la porta.
 
-Dario e Mauro stavano percorrendo il corridoio di servizio. Non gridavano più. Parlavano fitto, senza guardare chi passava.
+Ethan e Marcus stavano percorrendo il corridoio di servizio. Non gridavano più. Parlavano fitto, senza guardare chi passava.
 
 Bi, una decina di metri avanti, portava lo stesso contenitore di prima verso l'archivio.
 
-«Mila, mi dai una mano?», chiamò Paolo dalla sala. Una delle sedie aveva perso il piedino e rigava il pavimento a ogni spostamento.
+«Mila, mi dai una mano?», chiamò Paul dalla sala. Una delle sedie aveva perso il piedino e rigava il pavimento a ogni spostamento.
 
 «Arrivo.»
 
-Mila guardò ancora il corridoio. Dario e Mauro seguivano la linea gialla a dieci passi da Bi. Non stavano correndo; qualcuno li salutò e Mauro fece un cenno come in un giorno qualunque.
+Mila guardò ancora il corridoio. Ethan e Marcus seguivano la linea gialla a dieci passi da Bi. Non stavano correndo; qualcuno li salutò e Marcus fece un cenno come in un giorno qualunque.
 
-Mila rientrò e prese la sedia dal lato opposto a quello di Paolo. La gamba strisciò ancora sul pavimento.
+Mila rientrò e prese la sedia dal lato opposto a quello di Paul. La gamba strisciò ancora sul pavimento.

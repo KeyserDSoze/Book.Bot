@@ -8,8 +8,8 @@ canon: canon
 pov: character:elena-fischer
 characters:
   - character:elena-fischer
-  - character:adriana-lodi
-  - character:irene-valli
+  - character:margaret-ellis
+  - character:claire-foster
   - character:kyla
   - character:b-17
   - character:gavin-cole
@@ -25,7 +25,7 @@ Elena Fischer lo aprì in sala riunioni, aspettando che si collegasse l'ultimo r
 
 La seconda conteneva due caselle.
 
-**Ripristinare la posizione senior di Adriana Lodi.**
+**Ripristinare la posizione senior di Margaret Ellis.**
 
 **Distribuire le responsabilità fra i coordinatori esistenti e affidare la preparazione dei casi agli strumenti automatici.**
 
@@ -33,11 +33,11 @@ La terza pagina era una tabella dei costi. Per l'opzione senza il posto senior, 
 
 Elena conosceva già il risultato delle prove. Aveva chiesto che si tenesse aperta una possibilità di confronto, e ora se ne pentiva un poco: sarebbe stato più facile contestare una scelta opaca che una scelta preparata con tanta cura.
 
-Entrarono Kyla, Adriana e due responsabili. Gavin Cole, responsabile Delivery, portava una stampa dei risultati di test con una colonna evidenziata: le ore consumate dal suo gruppo. L'altro aveva il computer aperto sulla matrice delle autorizzazioni.
+Entrarono Kyla, Margaret e due responsabili. Gavin Cole, responsabile Delivery, portava una stampa dei risultati di test con una colonna evidenziata: le ore consumate dal suo gruppo. L'altro aveva il computer aperto sulla matrice delle autorizzazioni.
 
-«Prima di vedere i numeri», disse Adriana, «vorrei sapere chi si occuperà dei casi che nessuno ha pensato di provare.»
+«Prima di vedere i numeri», disse Margaret, «vorrei sapere chi si occuperà dei casi che nessuno ha pensato di provare.»
 
-Elena sorrise. Era il modo in cui Adriana iniziava quasi tutte le riunioni importanti.
+Elena sorrise. Era il modo in cui Margaret iniziava quasi tutte le riunioni importanti.
 
 «La matrice prevede un presidio umano per le anomalie fuori soglia», rispose un responsabile.
 
@@ -49,13 +49,13 @@ L'uomo mostrò due nomi e un turno di reperibilità.
 
 «Il calendario va comunicato dopo la riunione.»
 
-Adriana ne indicò uno. «Questo il giovedì è già reperibile per il cliente. Non può stare in due posti.»
+Margaret ne indicò uno. «Questo il giovedì è già reperibile per il cliente. Non può stare in due posti.»
 
 Gavin si sporse per vedere il nome. «È nel mio gruppo. Il giovedì non lo posso liberare.»
 
 Il responsabile cancellò quel nominativo e scrisse *da definire* a fianco della casella. Elena lo guardò mentre continuava a presentare il piano come se nulla fosse cambiato.
 
-Elena proiettò un confronto fra vecchia e nuova organizzazione. In passato il team di Adriana raccoglieva manualmente documenti, ricostruiva versioni, chiedeva verifiche al reparto software, coordinava i collaudi e infine preparava la decisione. Adesso gli agenti producevano patch, casi di prova e sintesi; Bi e altri robot potevano verificare determinati terminali e recuperare originali; le persone restavano titolari delle autorizzazioni e dei rilasci.
+Elena proiettò un confronto fra vecchia e nuova organizzazione. In passato il team di Margaret raccoglieva manualmente documenti, ricostruiva versioni, chiedeva verifiche al reparto software, coordinava i collaudi e infine preparava la decisione. Adesso gli agenti producevano patch, casi di prova e sintesi; Bi e altri robot potevano verificare determinati terminali e recuperare originali; le persone restavano titolari delle autorizzazioni e dei rilasci.
 
 Il tempo risparmiato era reale. Elena lo aveva visto nelle sere finalmente libere, nei richiami fuori turno più rari, nelle pratiche che non aspettavano una firma per giorni.
 
@@ -63,17 +63,17 @@ Il problema si presentò nella terza schermata.
 
 Un connettore storico aveva cambiato nome tre volte. L'agente aveva proposto una correzione plausibile e tutti i test standard erano passati. Una nota della revisione umana mostrava però un caso fuori dal perimetro: un cliente utilizzava ancora il comportamento precedente per distinguere un annullamento da una doppia conferma.
 
-«Chi ha trovato il caso?», chiese Adriana.
+«Chi ha trovato il caso?», chiese Margaret.
 
-«Irene», rispose Elena. «Ha aperto la vecchia libreria e chiesto la prova sul terminale reale. Bi ha preparato i dati in ambiente autorizzato. La correzione finale è passata per la normale revisione del team.»
+«Claire», rispose Elena. «Ha aperto la vecchia libreria e chiesto la prova sul terminale reale. Bi ha preparato i dati in ambiente autorizzato. La correzione finale è passata per la normale revisione del team.»
 
-«Quanto tempo ha impiegato Irene a trovarla?» chiese Adriana.
+«Quanto tempo ha impiegato Claire a trovarla?» chiese Margaret.
 
 Elena controllò il registro. «Due ore e quaranta. Il sistema ne attribuisce venti al collaudo e il resto alla ricerca del registro e della versione precedente.»
 
 Gavin guardò il proprio prospetto. «Nel mio report il collaudo risulta di venti minuti. Gli altri sono a carico di QA e del presidio documentale.»
 
-«Non sono spariti», disse Adriana.
+«Non sono spariti», disse Margaret.
 
 «Non ho detto che siano spariti.»
 
@@ -85,7 +85,7 @@ Kyla si spostò sulla sedia. Aveva seguito il progetto perché la riorganizzazio
 
 «Il piano prevede formazione per i coordinatori», disse.
 
-Adriana prese il quaderno. «Formazione su che cosa? Chiedere all'agente un riepilogo migliore? O seguire il codice quando il riepilogo è incompleto?»
+Margaret prese il quaderno. «Formazione su che cosa? Chiedere all'agente un riepilogo migliore? O seguire il codice quando il riepilogo è incompleto?»
 
 «Entrambe», rispose Elena.
 
@@ -93,9 +93,9 @@ Adriana prese il quaderno. «Formazione su che cosa? Chiedere all'agente un riep
 
 Kyla aprì il calendario preparato da HR. C'erano sei sessioni dedicate agli agenti e una sola sui sistemi precedenti. Quest'ultima non aveva ancora un docente assegnato.
 
-«Irene potrebbe seguirla», disse uno dei responsabili.
+«Claire potrebbe seguirla», disse uno dei responsabili.
 
-«Irene ha un contratto e delle consegne già assegnate», rispose Kyla. «Non basta scrivere il suo nome accanto alla formazione.»
+«Claire ha un contratto e delle consegne già assegnate», rispose Kyla. «Non basta scrivere il suo nome accanto alla formazione.»
 
 «Allora calcoliamo quante ore servono», disse Elena. «Voglio anche una prova periodica senza agente, in cui uno sviluppatore ricostruisca l'anomalia dal sorgente e dai log.»
 
@@ -109,11 +109,11 @@ Kyla guardò le due richieste sul proprio portatile. Poteva chiedere di spostare
 
 «Diamo precedenza alla prova con Aruvhana», disse. «La formazione va programmata dopo la consegna, con ore riconosciute.»
 
-«D'accordo. Chi farà da docente?», chiese Adriana.
+«D'accordo. Chi farà da docente?», chiese Margaret.
 
 «Possiamo definirlo nel piano esecutivo», propose il responsabile.
 
-Adriana richiuse il quaderno. Aveva contribuito a togliere dal processo i controlli inutili e non voleva rimetterli soltanto per difendere il proprio posto.
+Margaret richiuse il quaderno. Aveva contribuito a togliere dal processo i controlli inutili e non voleva rimetterli soltanto per difendere il proprio posto.
 
 «Non sto difendendo il lavoro fatto male», disse. «Sto chiedendo chi avrà il diritto di dire che il lavoro automatico non è stato capito abbastanza.»
 
@@ -121,7 +121,7 @@ Elena aprì la tabella dei costi. La posizione senior avrebbe avuto una responsa
 
 «Scriviamo almeno il rischio nel verbale», disse Elena. «E una scadenza per assegnare i docenti.»
 
-«Con una persona responsabile», aggiunse Adriana.
+«Con una persona responsabile», aggiunse Margaret.
 
 Kyla annotò le due condizioni. Elena tornò alla riga della formazione. «Sul verbale scriviamo che il corso non ha ancora né docente né ore assegnate. Non voglio ritrovarlo fra un mese segnato come formazione completata.»
 
@@ -129,15 +129,15 @@ Kyla riportò la frase quasi per intero. Nel campo *responsabile del seguito* in
 
 Kyla guardò l'ultima pagina.
 
-«Irene ha una valutazione molto positiva», disse. «Nessuno sta decidendo che non sia adatta.»
+«Claire ha una valutazione molto positiva», disse. «Nessuno sta decidendo che non sia adatta.»
 
-«Lo so», rispose Adriana. «È questo che rende la domanda più difficile.»
+«Lo so», rispose Margaret. «È questo che rende la domanda più difficile.»
 
 La scelta venne registrata come approvazione dell'opzione B, con un'integrazione al piano di formazione da consegnare il mese successivo. Il responsabile delle operazioni firmò; Kyla chiese di essere messa in copia sul seguito. Nel campo dedicato al rischio Elena inserì *perdita progressiva della capacità di ricostruzione delle eccezioni storiche*. La matrice non aveva una voce per il costo di quella perdita, soltanto per la probabilità stimata.
 
 La posizione senior non sarebbe stata ricreata. Il calendario delle lezioni, invece, era ancora da completare.
 
-Elena aspettò che gli altri uscissero. Adriana stava ancora chiudendo il quaderno.
+Elena aspettò che gli altri uscissero. Margaret stava ancora chiudendo il quaderno.
 
 «I dati sui tempi sono veri», disse Elena.
 
@@ -145,12 +145,12 @@ Elena aspettò che gli altri uscissero. Adriana stava ancora chiudendo il quader
 
 Elena fissò la casella *posizione non ripristinata*. «Se nel mese prossimo non troviamo chi fa le lezioni, il rischio resterà mio?»
 
-«Ti chiameranno quando qualcosa non torna», disse Adriana. «Ma non sarai tu ad aver scelto i docenti.»
+«Ti chiameranno quando qualcosa non torna», disse Margaret. «Ma non sarai tu ad aver scelto i docenti.»
 
 Elena spense il proiettore. Era stato proprio quello il difetto di tante vecchie procedure: chi veniva chiamato a risolvere un problema non aveva avuto abbastanza potere per evitarlo.
 
-«Quando glielo dite?», chiese Adriana.
+«Quando glielo dite?», chiese Margaret.
 
 «Kyla vuole parlarle oggi, prima della comunicazione generale.»
 
-Adriana annuì e prese il quaderno. Prima di chiuderlo scrisse il nome del tecnico del giovedì che avevano tolto dalla reperibilità. Voleva avvertirlo lei prima che il nuovo piano gli arrivasse come un altro turno impossibile. Poi andò a cercare Irene.
+Margaret annuì e prese il quaderno. Prima di chiuderlo scrisse il nome del tecnico del giovedì che avevano tolto dalla reperibilità. Voleva avvertirlo lei prima che il nuovo piano gli arrivasse come un altro turno impossibile. Poi andò a cercare Claire.
