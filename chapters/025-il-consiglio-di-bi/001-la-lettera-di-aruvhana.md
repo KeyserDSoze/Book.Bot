@@ -103,7 +103,7 @@ Verri rimase qualche secondo in silenzio. Poi scorse il calendario delle scadenz
 
 «D'accordo. Avverti Lea. Ma non useremo B-17 come una garanzia di successo commerciale.»
 
-Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel laboratorio e stava controllando una patch che l'agente aveva prodotto durante la notte. Sul monitor compariva un risultato verde. Malik aprì il codice, lesse due funzioni e rimandò la revisione con una domanda sulla vecchia routine di conferma. Kyla lo aveva visto cercare quel genere di risposta insieme a Irene, dopo l'uscita di Bi.
+Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel laboratorio e stava controllando una patch che l'agente aveva prodotto durante la notte. Sul monitor compariva un risultato verde. Malik aprì il codice, lesse due funzioni e rimandò la revisione con una domanda sulla vecchia routine di conferma. Era il genere di domanda che l'assenza di Bi aveva reso costosa per tutto il reparto.
 
 Kyla si fermò un istante a guardarlo. Sperò che Cyberdine riuscisse a difendere il tempo necessario a fare quella domanda, anche quando avrebbe dovuto vendere il servizio a un prezzo più basso.
 
