@@ -7,7 +7,7 @@ canon: canon
 pov:
   - character:sophie-grant
   - character:omar-haddad
-  - character:grace-morgan
+  - character:grace-walker
   - character:mei-lin
 ---
 

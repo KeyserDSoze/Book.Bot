@@ -5,9 +5,9 @@ chapter: chapter:024-la-prima-bugia
 number: 3
 title: La risposta mancante
 canon: canon
-pov: character:grace-morgan
+pov: character:grace-walker
 characters:
-  - character:grace-morgan
+  - character:grace-walker
   - character:julia-parker
   - character:mei-lin
   - character:helen-rivera

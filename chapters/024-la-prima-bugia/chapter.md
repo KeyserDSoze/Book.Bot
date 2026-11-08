@@ -5,7 +5,7 @@ number: 24
 title: La prima bugia
 canon: canon
 pov:
-  - character:grace-morgan
+  - character:grace-walker
   - character:julia-parker
   - character:mei-lin
 ---

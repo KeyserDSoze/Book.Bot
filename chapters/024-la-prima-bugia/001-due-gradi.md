@@ -5,9 +5,9 @@ chapter: chapter:024-la-prima-bugia
 number: 1
 title: Due gradi
 canon: canon
-pov: character:grace-morgan
+pov: character:grace-walker
 characters:
-  - character:grace-morgan
+  - character:grace-walker
   - character:julia-parker
   - character:helen-rivera
   - character:b-32
@@ -18,7 +18,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Grace Morgan trovò il carrello inclinato di due gradi.
+Grace Walker trovò il carrello inclinato di due gradi.
 
 Non era un dato che potesse valutare a occhio. Lo lesse nella segnalazione della mattina, accanto a un'immagine del corridoio del piano terra e alla richiesta di un controllo supplementare. Il tecnico di manutenzione sarebbe arrivato nel pomeriggio.
 

@@ -6,7 +6,7 @@ title: Mille piccoli Bi
 canon: canon
 pov:
   - character:mei-lin
-  - character:grace-morgan
+  - character:grace-walker
   - character:sophie-grant
 ---
 

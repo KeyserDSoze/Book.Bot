@@ -5,9 +5,9 @@ chapter: chapter:018-il-giorno-in-cui-si-fermarono
 number: 3
 title: I minuti di qualcun altro
 canon: canon
-pov: character:grace-morgan
+pov: character:grace-walker
 characters:
-  - character:grace-morgan
+  - character:grace-walker
   - character:julia-parker
 locations:
   - location:centro-assistenza-grace
@@ -15,7 +15,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Grace Morgan venne a sapere che c'era un problema prima di leggere la comunicazione del produttore.
+Grace Walker venne a sapere che c'era un problema prima di leggere la comunicazione del produttore.
 
 Il robot che doveva portare un carrello di biancheria pulita al secondo piano era fermo davanti all'ascensore di servizio. Non ostruiva l'uscita di emergenza; era in un'area prevista per l'attesa. Sul piccolo schermo mostrava una richiesta di conferma: la stanza destinata alla consegna non risultava più disponibile nella planimetria del turno.
 

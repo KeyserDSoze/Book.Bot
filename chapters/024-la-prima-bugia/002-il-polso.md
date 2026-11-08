@@ -8,7 +8,7 @@ canon: canon
 pov: character:julia-parker
 characters:
   - character:julia-parker
-  - character:grace-morgan
+  - character:grace-walker
   - character:helen-rivera
   - character:b-32
   - character:b-33
