@@ -44,7 +44,7 @@ Un filmato virale non è automaticamente un mistero, e un personaggio non può p
 
 **Intervento:** la ripresa della baia quattro è girata dall'autista per documentare il tempo d'attesa; **nella versione ripubblicata qualcuno aggiunge una voce fuori campo** che parla di robot che «non vogliono lavorare». Il rapporto firmato e la ripresa della movimentazione non compaiono nel video tagliato. Mei confronta il testo del video con l'ora e la firma della pratica. Non serve una cospirazione per produrre una conclusione falsa.
 
-**Guardrail:** Livia Sanna non deve diventare una giornalista infallibile, né tutte le persone che rilanciano il video devono essere cattive. Distinguiamo fonte, montaggio e interpretazione.
+**Guardrail:** Olivia Brooks non deve diventare una giornalista infallibile, né tutte le persone che rilanciano il video devono essere cattive. Distinguiamo fonte, montaggio e interpretazione.
 
 ### 5. La prova viene scoperta troppo facilmente — ALTA
 
