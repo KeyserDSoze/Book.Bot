@@ -53,7 +53,17 @@ Una delle righe recitava: *Assicurare che le segnalazioni rilevanti per la sicur
 
 Ada la conosceva quasi a memoria.
 
-«Teresa ha sentito parlare del divieto», disse Giulia. «Mi ha chiesto se le toglieremo Trentadue.»
+Giulia sfogliò la relazione sull'incidente e fermò il dito dove compariva la sua segnalazione originale.
+
+«Se chiediamo a un'operatrice di restare vicino a Trentadue per tutto il pomeriggio, dobbiamo toglierle un altro turno», disse. «Non voglio che questa scelta sia descritta come una precauzione senza costo, come abbiamo fatto con il servizio leggero di Trentatré.»
+
+Ada non protestò. Non si erano ancora chiarite completamente dopo il giorno del polso. «Nella richiesta di personale scrivo anche le ore di supervisione», disse. «Se non ce le danno, le conversazioni lunghe andranno ripensate.»
+
+«Vorrei poterlo dire io a Teresa. Non lo venga a sapere da un calendario.»
+
+«Glielo diciamo insieme.»
+
+«Teresa ha sentito parlare del divieto», aggiunse Giulia. «Mi ha chiesto se le toglieremo Trentadue.»
 
 «Che cosa le hai risposto?»
 

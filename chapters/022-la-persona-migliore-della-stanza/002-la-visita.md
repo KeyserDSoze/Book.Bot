@@ -187,7 +187,7 @@ Elisa lasciò andare la mano della madre per aprire la scatola della torta. Avev
 
 «Vorrei esserci di più», disse.
 
-Teresa aprì la scatola della torta.
+Teresa pulì con il dito la glassa che era finita sul bordo della scatola.
 
 «Allora vieni. E quando non puoi, non costringermi ad aspettarti senza fare niente.»
 

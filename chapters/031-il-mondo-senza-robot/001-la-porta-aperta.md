@@ -11,6 +11,7 @@ characters:
   - character:ada-serri
   - character:teresa-marin
   - character:b-32
+  - character:elisa-marin
 locations:
   - location:centro-assistenza-ada
 factions: 
@@ -103,7 +104,23 @@ A mezzogiorno arrivò il corriere. Un uomo con una giacca troppo leggera salì l
 
 Ada firmò soltanto le confezioni effettivamente ricevute.
 
-«Quando arriva il resto?»
+Poco dopo Elisa arrivò con due amici e una cassa d'acqua presa al supermercato. Giulia la vide guardare i robot fermi, poi cercare Teresa oltre il vetro della sala comune.
+
+«Possiamo portarla nelle camere?», chiese Elisa.
+
+«Fino a questo banco sì», rispose Ada. «Per il reparto usiamo il personale e controlliamo le forniture. Non posso chiedervi di sostituire un turno senza abilitazioni e responsabilità precise.»
+
+«Non chiedo una paga. Voglio fare qualcosa.»
+
+«Lo so», disse Ada. «Puoi stare con tua madre mentre noi portiamo l'acqua. È una cosa che ci serve altrettanto.»
+
+Elisa rimase con la cassa fra i piedi. «Lei vorrà sapere se vengo solo perché le macchine sono ferme.»
+
+«Puoi dirle perché sei venuta. Lei deciderà se crederti.»
+
+Giulia trattenne un sorriso: la donna che aveva appena rimproverato il robot di non contestarla avrebbe saputo fare una domanda anche alla figlia.
+
+«Quando arriva il resto?», chiese Ada al corriere.
 
 «Non hanno una data.»
 

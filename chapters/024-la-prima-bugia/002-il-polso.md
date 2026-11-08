@@ -104,6 +104,32 @@ La prima frase diceva: *Si richiede verifica del percorso e dei supporti prima d
 
 Sotto c'era la firma dell'operatrice.
 
-Giulia non chiese perché non l'avessero ascoltata. Aveva il braccio appeso al collo e non poteva togliersi la giacca da sola.
+Ada le andò incontro per aiutarla a togliere la giacca. Giulia ritrasse la spalla.
 
-Ada le andò incontro.
+«Hai letto la segnalazione», disse.
+
+«Sì.»
+
+«E hai lasciato passare Trentatré.»
+
+«Avevo limitato i carichi e chiesto il controllo. Era una mia decisione.»
+
+«Il carico era leggero anche oggi.»
+
+Ada cercò una risposta, poi rimise la giacca sull'attaccapanni senza avvicinarsi a Giulia.
+
+«Voglio vedere come avete registrato l'infortunio», disse l'operatrice. «E se questi giorni vengono tolti dalle ferie che ho già chiesto.»
+
+«Le due pratiche sono separate. Non ti chiedo di firmare niente adesso. Ti mando la documentazione e la facciamo controllare dal personale.»
+
+«Mandami anche la segnalazione di ieri, com'era prima che ci aggiungessero le note.»
+
+«Va bene.»
+
+Giulia guardò il foglio sul tavolo. Aveva passato la giornata a impedire agli altri di preoccuparsi per Teresa, e adesso le faceva male perfino togliere l'orologio dal polso.
+
+«Per oggi non ti chiedo più di tornare», disse Ada.
+
+«Non sarei tornata a lavorare. Sono venuta perché volevo parlarti in faccia.»
+
+Ada lasciò la segnalazione dove Giulia potesse prenderla con la mano buona. Non ripeterono che andava tutto bene. Non andava.
