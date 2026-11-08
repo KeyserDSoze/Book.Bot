@@ -10,6 +10,8 @@ characters:
   - character:kyla
   - character:lorenzo-verri
   - character:irene-valli
+  - character:malik-okafor
+  - character:anika-rao
 locations:
   - location:cyberdine-campus
 factions:
@@ -22,6 +24,8 @@ Kyla lesse la lettera di Aruvhana alle sei e quarantotto, in piedi davanti alla 
 Il numero era al centro della pagina, nella sezione economica.
 
 **Diciassette per cento.**
+
+Sotto la percentuale era allegata una nota della direzione tecnica, firmata da Anika Rao. Kyla ricordava la dirigente durante la prima visita, mentre osservava un giardiniere correggere il percorso di B-17. Anika chiedeva di dimostrare il risparmio senza eliminare le verifiche sui casi che i riepiloghi automatici non sapevano descrivere. Lo stesso cliente pretendeva un prezzo inferiore e prove migliori.
 
 Non era un taglio dei costi per qualche singola fornitura. Era la riduzione che il cliente voleva vedere nel rinnovo del contratto triennale di software, integrazione e continuità. Se Cyberdine non fosse stata in grado di presentare una offerta competitiva, Aruvhana avrebbe cercato un'altra azienda.
 
@@ -99,7 +103,7 @@ Verri rimase qualche secondo in silenzio. Poi scorse il calendario delle scadenz
 
 «D'accordo. Avverti Lea. Ma non useremo B-17 come una garanzia di successo commerciale.»
 
-Kyla riprese la lettera e tornò in ufficio. Il primo sviluppatore del turno era arrivato nel laboratorio e stava controllando una patch che l'agente aveva prodotto durante la notte. Sul monitor compariva un risultato verde. L'uomo aprì il codice, lesse due funzioni e rimandò la revisione con una domanda.
+Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel laboratorio e stava controllando una patch che l'agente aveva prodotto durante la notte. Sul monitor compariva un risultato verde. Malik aprì il codice, lesse due funzioni e rimandò la revisione con una domanda sulla vecchia routine di conferma. Kyla lo aveva visto cercare quel genere di risposta insieme a Irene, dopo l'uscita di Bi.
 
 Kyla si fermò un istante a guardarlo. Sperò che Cyberdine riuscisse a difendere il tempo necessario a fare quella domanda, anche quando avrebbe dovuto vendere il servizio a un prezzo più basso.
 
