@@ -49,3 +49,8 @@ In 002 una prova con riferimento vecchio ancora valido **fallisce** al passaggio
 ## Undicesima review — dialoghi e scena conclusiva
 
 In 003 Nerea incontra Nico e gli dice della fotografia lasciata nella stanza di Bi; non ripete tutta la discussione filosofica già pronunciata con B-17. Nico non può certificare l'esperienza emotiva di Nerea né consultare indiscriminatamente i suoi dialoghi privati. Restano il conflitto sulla cancellazione e la domanda «Come devo chiamarlo?», cui Nerea risponde «Io lo chiamavo Bi».
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — prove visibili, non destino inevitabile.** Nel 002 Mei rifiuta di inventare una percentuale di sopravvivenza della configurazione. Una prova con due siti mostra un carrello che si ferma al confine perché la referenza originaria resta valida; una seconda prova usa una credenziale fittizia in laboratorio e riesce dopo la revoca certificata. Non è stata clonata la configurazione di B-17. Nico chiede due giorni per mappare il legame della chiave hardware con lo stato conversazionale, ma una mappa non è una migrazione certificata. Il centro di Ada potrebbe dover ridurre prestazioni o trasferire ospiti; le persone non possono attendere una prova indefinita senza costo. Il piano alternativo di revoche lente rimane praticabile e non collaudato ovunque; Marta e gli altri firmeranno una scelta umana nel 004.

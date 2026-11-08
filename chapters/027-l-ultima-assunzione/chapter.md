@@ -48,3 +48,8 @@ Erik Solberg è l'ingegnere che con Mei verifica a Suzhou i dati del modulo ener
 ## Decima review — catena di pertinenza, adattatori e attestazioni
 
 La diffusione di Passerella deriva anche dagli adattatori commerciali dei cinque produttori firmatari, che servono flotte di marchi diversi. Il servizio di conformità distribuisce notifiche autentiche con ambito nazionale; Mei chiede già il test di un evento pertinente a un altro paese e una prova attraverso adattatore, senza sapere che saranno critici.
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — compatibilità non è collaudo.** Nel 003 Erik misura 4 h 50 min di carico misto e corregge la dicitura commerciale del turno intero. Rimane nella stanza quando Mei affronta Passerella e chiede come una notifica locale possa arrivare a un impianto estero; non assume la direzione delle verifiche software. Due dei cinque produttori vendono anche adattatori per flotte di altri marchi. Mei rifiuta di dichiarare conclusa la prova cross-jurisdiction: esiste un ticket con responsabile provvisorio e senza data. Il rilascio di altre componenti può procedere sotto altre verifiche, ma questo non equivale a test superato. Nel 004 Irene non commenta didatticamente la propria libreria: torna a casa e non riesce ancora a fissare il ritiro dell'usato.

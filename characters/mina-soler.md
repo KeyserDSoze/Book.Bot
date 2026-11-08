@@ -37,3 +37,8 @@ Mina conserva le registrazioni autorizzate dei test analitici di B-17 e separa a
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 32 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo so», la stessa frase che sta scrivendo in tanti verbali. La stanchezza la rende più attenta a verificare i permessi, non eroicamente onnisciente. Il confine delle conversazioni private di Nerea resta distinto dall'audit di B-17.
+
+
+## Dodicesima review — che cosa si può vendere come una prova
+
+Nel capitolo 25 Mina mantiene gli estratti di Aruvhana nel perimetro locale autorizzato; respinge un'ipotesi che anticiperebbe una verifica fisica obbligatoria e distingue il caso limite sulla disponibilità al servizio da una funzione pronta per l'installazione. Il rapporto firmato dal Circuito ne certifica la provenienza, non il successo industriale. Mina autorizza il materiale in uscita soltanto dopo averlo confrontato con ciò che può essere condiviso. È una scelta operativa, non una certificazione dello stato soggettivo di B-17.

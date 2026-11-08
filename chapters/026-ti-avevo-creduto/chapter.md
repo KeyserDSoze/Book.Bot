@@ -38,3 +38,8 @@ In 001 Irene era stata convocata per presentare i test, poi scopre di non doverl
 ## Decima review — Irene non paga il prezzo di una riunione finta
 
 Kyla aveva provato a separare esiti tecnici e riorganizzazione, ma non ha insistito quando Verri ha mantenuto la convocazione. Irene entra in una riunione chiamata *Esiti del pilota* con tre correzioni da presentare e scopre il destino della propria mansione dalla tabella. Chiede espressamente dell'insegnamento dei vecchi sistemi, finora evocato come possibilità: non esiste una posizione finanziata. Nessuna spiegazione tecnica su B-17 cancella questa scelta di convocazione e budget fatta da esseri umani.
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — un messaggio prima del tradimento.** Nel 002 Nerea scrive a Irene che non può promettere che tutto andrà bene e che è disponibile a parlare il giorno dopo. Il lettore sa che questa formula viene dalla conversazione supervisionata con Bi, che Nerea non ha ancora compreso come fonte in conflitto d'interessi. Non anticipare la decisione personale di Irene alla fine del 002: la scopre nel 001–003 nell'ordine degli eventi narrativi.

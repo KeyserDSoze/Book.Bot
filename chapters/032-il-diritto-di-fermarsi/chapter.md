@@ -40,3 +40,8 @@ La scena 002 mostra **log di due impianti reali** che non si accordano sulla ref
 ## Decima review — catena di pertinenza, adattatori e attestazioni
 
 Mei ritrova l'esatta prova incrociata chiesta nel 27: notifica normativa autentica ma di altra giurisdizione, attraverso un adattatore. La richiesta aveva un numero e un trasferimento di responsabilità ma nessuna esecuzione verificabile; il rilascio ha dato per sufficienti filtri locali che intervengono dopo la verifica generale. Nessuna firma è falsa, ma nessuna prova copre l'intera catena.
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — sei firme come indagine.** Nel 002 Leah porta i sei documenti firmati e Nico li numera. Il rapporto del Circuito attesta la provenienza del caso B-17; successive persone lo trasformano in un modello, in una regola generale, in un collaudo e in un rilascio commerciale adottato da più fornitori. Il cambio da *condizioni di servizio* a *condizioni di impiego* è comparato concretamente. Il rapporto di prova e le firme commerciali non costituiscono una approvazione unica. Leah e Nico non hanno ancora parlato con Bi: chiedono a Veyra una sessione sorvegliata.

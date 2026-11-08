@@ -40,3 +40,8 @@ Gavin ora chiede ai suoi programmatori di registrare il tempo necessario per ver
 ## Decima review — le conseguenze non vengono azzerate dalla ripartenza
 
 L'infortunio precedente di Giulia non scompare quando il lavoro robotico si ferma. Il suo polso non regge la movimentazione aggiuntiva di scatole pesanti; Ada registra il limite, chiede un carrello più accessibile, lascia attività rinviate nel report e segnala l'impossibilità di coprire il proprio turno di riposo. Non celebrare l'eroismo del personale trasformando i rischi in doveri impliciti.
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — gli straordinari hanno due destinatari.** Nel 002 Rosa fotografa le ore del turno da controllare in busta paga e conferma alla vicina il ritiro del figlio; gli scrive che la ruota della bici si riparerà domani e torna al transpallet. Il reddito e l'assenza genitoriale restano fatti insieme, senza una chiosa su cosa dovrebbe provare.

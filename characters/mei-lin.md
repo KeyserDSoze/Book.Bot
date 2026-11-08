@@ -43,3 +43,8 @@ Lanter è il produttore robotico; Cyberdine è un cliente e un'impresa di softwa
 ## Decima review — prova non eseguita, non trascuratezza generica
 
 Nel 27 Mei chiede espressamente una prova su una notifica normativa autentica ma non pertinente al paese del sito, trasmessa tramite adattatore di altro marchio. L'estensione commerciale di Passerella passa anche per produttori che ne adottano i connettori, senza un centro di comando robotico. Nel 32 Mei ritrova la sua richiesta: risulta trasferita, ma non eseguita; il rilascio è stato firmato confidando nei filtri locali che entrano in gioco troppo tardi. Nel 33 dimostra che la comunicazione sulla legge italiana non è una proibizione globale ma un evento che il middleware interpreta in modo troppo generale. La sua responsabilità è precisa: aver preteso una prova senza avere il mandato per impedire ai fornitori di rilasciare il prodotto in assenza del risultato.
+
+
+## Dodicesima review — risultato vero ma perimetro incompleto
+
+Nel 27 Mei non si limita a nominare rischi astratti: chiede alla persona responsabile di aprire una prova transnazionale attraverso un adattatore e vede comparire un ticket senza data. Non firma come completa una copertura non provata. Nel 34 fa guardare ai decisori due video differenti: carrello bloccato fra due siti con referenza ancora attiva, carrello che passa dopo una revoca di credenziale fittizia nel laboratorio. Respinge percentuali inventate sulla conservazione di Bi e chiede a Nico quale prova sia realisticamente possibile nei due giorni aggiuntivi richiesti.

@@ -31,3 +31,8 @@ In 001 Bi non pronuncia più la frase quasi profetica sulle conseguenze sconosci
 ## Decima review — le conseguenze non vengono azzerate dalla ripartenza
 
 Teresa distingue rapporti con persone identificabili da promesse di servizio; Ada nomina Lucia e verifica il turno prima di promettere una visita. Le limitazioni legali preparano una scelta organizzativa concreta, non l'estinzione delle relazioni costruite intorno a B-32.
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — il visitatore formula la domanda giusta.** In 003 la pausa di B-21 per ottenere una firma funziona, ma un cliente chiede quanto tempo costa e che cosa succede se il responsabile è assente. La prova visibile non autorizza la promessa di continuità in ogni circostanza, già tolta da Leah dalla comunicazione. Il finale predispone il bisogno di politiche e responsabilità locali, non un comando centrale.

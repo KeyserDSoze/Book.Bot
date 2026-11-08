@@ -57,3 +57,8 @@ Il rinnovo è letto anche da Kyla nella sua nuova posizione di azionista di mino
 ## Decima review — una scelta economica personalmente riconoscibile
 
 In 004 Elena contesta la voce di ricollocazione sulla formazione legacy non finanziata; Verri rinvia il budget in nome del contratto Aruvhana e Kyla accetta di lasciare l'alternativa fra quelle da valutare. È una scelta umana imperfetta con una motivazione aziendale concreta, non un mandato di Bi. La casella vuota ritorna nella comunicazione individuale a Irene al capitolo 26 e nelle ore finalmente contrattualizzate del capitolo 35: il lavoro esiste, ma l'azienda sceglie quando finanziarlo e non crea retroattivamente il posto perduto.
+
+
+## Dodicesima review — prove e finali meno spiegati
+
+**Dodicesima review — il prezzo della prova.** In 001 Kyla non si limita ad augurarsi che le verifiche storiche sopravvivano al taglio del 17%: chiede a Malik quanto costa indagare una funzione legacy, il quale rimanda alla competenza di Irene. In 002 la prova di B-17 resta isolata e pagata: un'ipotesi sul controllo fisico viene respinta, una proposta di coordinamento passa alla lista dei test futuri, la disponibilità al servizio non è una autorizzazione già convalidata. Il risultato sui 28–42 ruoli equivalenti è aggregato, non licenziamenti decisi; Marta misura anche il poco compenso ricevuto dal Circuito. In 003 la pratica sul terminale resta sospesa con una indicazione reale del test respinto. Il finale non anticipa con un giudizio onnisciente il rinnovo di Irene.
