@@ -81,3 +81,8 @@ Nel 25 Kyla, azionista e direttrice HR/Marketing, lascia senza finanziamento la 
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 25/004 Kyla accetta la stima più alta di QA e documenta il ritardo di Delivery. Nel 26/001 ammette a Irene di averla invitata a presentare prove pur sapendo che quella riunione avrebbe comportato comunicazioni sul personale. Non poteva anticipare dati individuali riservati; poteva evitare quell'invito. La sua ammissione non restituisce il posto a Irene.
+
+
+## Diciassettesima passata — comunicare senza anticipare gli esiti
+
+Nel **12/002**, dopo la confessione di Nico, Kyla apre un modello di comunicazione con una formula rassicurante già predisposta per altri incidenti. La cancella: l'assenza di evidenze non equivale all'esclusione di una possibile esposizione. Chiede a Leah una comunicazione riservata per Nerea, lascia alla sicurezza le risposte su accessi e dati e non invia una circolare che farebbe apparire chiusa un'indagine aperta. La scelta mostra competenza e responsabilità, ma non cancella gli istinti di tutela della reputazione e della propria partecipazione azionaria.
