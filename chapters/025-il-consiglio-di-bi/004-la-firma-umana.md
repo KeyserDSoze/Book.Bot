@@ -10,6 +10,8 @@ characters:
   - character:taylor
   - character:victor-cole
   - character:claire-foster
+  - character:olivia-hayes
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions:
@@ -41,7 +43,13 @@ Il responsabile di commessa indicò il costo del pilota, le ore di collaudo e la
 
 Olivia intervenne dopo aver controllato la tabella delle dipendenze. «Il margine previsto non tiene conto di tutte le prove di riconnessione fra fornitori. Non dovremmo promettere un risparmio se poi il supporto dovrà inseguire eccezioni mai testate.»
 
-Cole lasciò aperta la riga e chiese di aggiungere il costo della verifica.
+Gavin Shaw, responsabile di Core Platform, scorse il foglio. «Posso riservare due sviluppatori per la compatibilità delle librerie. Non posso firmare anche il comportamento di ogni impianto cliente.»
+
+«Non te lo sto chiedendo», disse Olivia. «Voglio che supporto e qualità siano presenti alla verifica, prima che il vostro ticket venga considerato chiuso.»
+
+«Allora quelle ore devono stare nel piano. Non possiamo prometterle e poi toglierle dalla settimana di consegna.»
+
+Cole lasciò aperta la riga e chiese di aggiungere il costo della verifica. Gavin non ritirò l'obiezione, ma restò alla riunione per quantificare le ore.
 
 Il direttore delle operazioni intervenne.
 
@@ -124,8 +132,6 @@ Taylor pensò al rapporto arrivato da Veyra.
 Claire abbassò la mano sulla maniglia.
 
 «Allora spero che abbiate letto tutte le alternative.»
-
-Rimasta sola, Taylor prese il primo dossier, quello che descriveva che cosa sarebbe successo perdendo Aruvhana.
 
 Prima di riporre le carte, Taylor scrisse alla madre: *Domenica passo. Non scegliere tu quali fotografie tenere: guardiamole insieme.* Le venne voglia di cancellare il messaggio, come faceva con le risposte all'amica. Lo inviò.
 
