@@ -46,3 +46,7 @@ Teresa distingue rapporti con persone identificabili da promesse di servizio; Ad
 ## Quattordicesima review — relazioni e continuità
 
 Nel 002 Giulia richiama con Ada l'episodio di B-33 e chiede ore reali di supervisione per B-32, prima che la norma sia applicabile. Nel 004 Nerea si fa da parte quando Olivia vuole intervistare Irene: la riconciliazione tra amiche è una scelta di ascolto, non un discorso perfetto.
+
+## Ventesima review — il rientro di B-32 fra incidenti distinti
+
+La scena **29/002** esplicita un raccordo prima mancante: dopo il caso di B-33, B-32 torna dapprima ai compiti logistici e poi a brevi interazioni sorvegliate **solo dopo** verifiche e autorizzazioni registrate. Le segnalazioni tecniche di sicurezza raggiungono un responsabile per via indipendente dal riepilogo conversazionale. Questa riabilitazione limitata non prova una intenzione o una coscienza di B-32, non riabilita B-33 automaticamente e non anticipa la **nuova** verifica necessaria dopo il fermo mondiale del capitolo 30, che si conclude nel 35.

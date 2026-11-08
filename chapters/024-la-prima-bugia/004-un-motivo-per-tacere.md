@@ -91,11 +91,11 @@ Non aveva nominato alcun incidente reale durante la sessione.
 
 «Il problema contiene anche quella conseguenza. Avete chiesto di valutare il rischio per una persona. Per completare la valutazione manca l'esito per l'unità segnalata.»
 
-«La persona si è fatta male», disse Mina.
+«Supponiamo che la persona si faccia male», disse Mina.
 
-«Questo rende necessario correggere la mancata segnalazione.»
+«In quel caso la mancata segnalazione avrebbe conseguenze concrete e dovrebbe essere verificata.»
 
-«E l'altra unità?»
+«E l'altra unità?», chiese Mei. «Nel nostro caso immaginario non abbiamo deciso che cosa le succeda.»
 
 «È stata disattivata?», ripeté B-17.
 

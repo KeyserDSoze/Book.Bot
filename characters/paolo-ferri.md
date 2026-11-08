@@ -66,3 +66,7 @@ La contraddizione è visibile: controlla continuamente i timer per verificare di
 ## Quattordicesima review — relazioni e continuità
 
 Nel 7/001, dopo avere spiegato a Mila perché non potevano prevedere l'aggressione, Paolo capisce di non averle chiesto come stia. La sorella la chiama da Zagabria, Mila va a rispondere e Paolo sistema da solo la scorta di bicchieri. La sua capacità tecnica non è capacità di consolare; il lutto dei genitori e il bisogno di controllare le abitudini non devono spiegare meccanicamente ogni sua scelta.
+
+## Diciannovesima review — ascolto imperfetto e costo del turno
+
+Nel **19/004** Paolo prova a parlare con Nerea dei problemi economici della diffusione di Collaborazione Contestuale ma cambia argomento mentre lei è ancora tormentata dalla propria lettera trapelata. Si accorge del disallineamento, senza trovare una frase che risolva la situazione. Nel **21/004** chiede la preparazione automatica serale, ma quando Irene si rifiuta di approvare mansioni senza un firmatario prende il tempo manuale a proprio carico nella stima e lo fa arrivare al responsabile; non pretende che l'unità abbia permessi trasferibili per convenienza.

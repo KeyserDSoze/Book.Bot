@@ -78,7 +78,21 @@ Paolo alzò gli occhi.
 
 Irene aveva una cartellina piena di stime. Da quando aveva contribuito con venticinque euro si era messa a controllare ogni cifra con un'attenzione che Nerea definiva scherzando *la nostra revisione umana*.
 
-«La metà dei contributi più grandi viene da persone che hanno visto soltanto il video», disse. «Non sanno com'era Bi alla macchinetta del caffè.»
+«Irene, grazie per aver ricontrollato il trasporto», disse Nerea.
+
+«Sì. Però ieri mi hai mandato tre prospetti alle undici di sera.»
+
+«Pensavo che li avresti guardati quando avevi tempo.»
+
+«Mi hai anche scritto che senza la mia risposta non avreste potuto chiudere la lettera.»
+
+Nerea si morse l'interno della guancia. «Hai ragione. Sembrava urgente.»
+
+«Per te lo era. Io vorrei che una sera non ci fosse nessuno ad aspettare un mio controllo, né qui né a casa.» Irene raccolse i fogli in una pila. «Oggi finiamo. Dopo, se serve una revisione, decidiamo insieme quante ore richiede.»
+
+Kyla non offrì di inserire quelle ore nel calendario di Cyberdine: la raccolta non era un progetto aziendale, e Irene non stava chiedendo alla società di pagarla.
+
+«La metà dei contributi più grandi viene da persone che hanno visto soltanto il video», continuò Irene. «Non sanno com'era Bi alla macchinetta del caffè.»
 
 «Non devono saperlo», rispose Nerea. «Non è una prova da esibire.»
 

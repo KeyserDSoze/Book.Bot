@@ -18,7 +18,7 @@ factions:
 
 Rosa scoprì di avere il mercoledì libero mentre stava preparando la cena.
 
-Il telefono le mostrò il nuovo turno proposto dal sistema dell'Hub Levante. Non era ancora definitivo: accanto a ogni settimana compariva la firma elettronica di Sofia e un termine entro il quale segnalare errori.
+Il telefono le mostrò il nuovo turno proposto dal sistema dell'Hub Levante. Non era ancora definitivo: accanto a ogni settimana compariva il nome della persona che l'aveva autorizzata e un termine entro il quale segnalare errori. La prima era firmata da Sofia; per due giorni della settimana successiva figurava una vicecapoturno, designata come sostituta durante l'assenza di Sofia. Le richieste ancora senza firma rimanevano bozze, non turni assegnati.
 
 Per la prima volta dopo mesi avrebbe potuto accompagnare suo figlio a una visita senza chiedere a un collega di coprirla.
 

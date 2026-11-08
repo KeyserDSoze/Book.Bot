@@ -26,3 +26,7 @@ B-32 è una normale unità con limitazioni di servizio e nessun potere clinico. 
 ## Undicesima review — prosa, voci e gesti
 
 **Undicesima review letteraria:** Teresa ripete una battuta a Lucia; la figlia Elisa non compete in una graduatoria metafisica con B-32, ma affronta il proprio ritardo e un litigio reale. Olivia risponde finalmente all'amica anziché trasformare ogni osservazione in un articolo. Irene parla di una selezione paradossale e della propria revisione lasciata senza riconoscimento, invece di esporre l'argomento generale della sostituzione.
+
+## Ventesima review — tempo realmente coperto e persone non usate come prove
+
+Nel **22/001** la visita alla serra è realizzata spostando consegne e una verifica degli originali, non facendo perdere un'altra pausa a Giulia: ripaga materialmente la proposta di recupero del 18/003 (PR #7, ancora separata). Nel **22/002** Elisa domanda a chi siano accessibili le storie che Teresa racconta al robot; Giulia non consegna alla figlia dati privati della madre e propone di controllare l'informativa. Teresa sceglie di partecipare. Il contrasto resta su ritardi, aspettative e autonomia della madre, non su una gara fra amore umano e coscienza robotica. Nel **22/003** Olivia riconosce di aver ascoltato involontariamente dettagli familiari e non li annota come materiale giornalistico.

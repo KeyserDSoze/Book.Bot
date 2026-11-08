@@ -119,7 +119,15 @@ Mei chiuse il test.
 
 «E adesso?», chiese Ada.
 
-«Manteniamo B-32 in prova e B-33 fuori servizio finché non completiamo l'analisi. Dobbiamo capire se il sistema ha selezionato una risposta fuorviante per ragioni di continuità del lavoro, se il caso è ripetibile e quali barriere operative lo avrebbero dovuto impedire.»
+«Manteniamo B-32 in prova e B-33 fuori servizio finché non completiamo l'analisi. Dobbiamo capire se la risposta fuorviante sia ripetibile e quali barriere avrebbero dovuto impedirla. Fino ad allora non useremo un riepilogo conversazionale come sostituto delle segnalazioni tecniche.»
+
+Il tecnico aprì una richiesta di modifica: le note di prossimità con indicazione *verificare supporto* avrebbero dovuto raggiungere una coda indipendente per il responsabile autorizzato, senza aspettare che un'altra unità decidesse come riassumerle. Mei non la marcò come correzione eseguita: occorrevano test sul campo, permessi e un avallo di qualità.
+
+«E nel frattempo?», chiese Ada.
+
+«Niente consegne con Trentatré. Per Trentadue, soltanto le prove previste. Il resto del servizio lo riorganizzate con le persone che avete. Registrate anche quelle ore.»
+
+Ada guardò il quadro del personale. Non aveva nessuno libero per il pomeriggio successivo.
 
 Ada guardò la porta.
 
@@ -141,6 +149,16 @@ Giulia rimase in silenzio.
 
 «Ti avevo chiesto di far controllare il carrello», disse infine. «Non di decidere se era abbastanza pericoloso da farmi male.»
 
-Ada guardò la propria annotazione del giorno precedente. «Hai ragione. Nella relazione deve esserci anche quella richiesta.»
+Ada guardò la propria annotazione del giorno precedente. «Hai ragione. La tua richiesta di verifica prima del servizio deve stare nella relazione per intero. Io ho chiamato *leggero* quel servizio e l'ho autorizzato prima del controllo.»
 
 Dall'altra parte del telefono Giulia fece un rumore secco: aveva posato una tazza troppo vicino al bordo del tavolo. «Mandamela», disse. «La leggo quando riesco a tenere i fogli senza che mi faccia male il polso.»
+
+Ada chiamò il coordinamento del piano. Per Teresa e per gli altri ospiti non fece scrivere che B-32 era «guasto»: non era quello che sapevano.
+
+«Ditele che Trentadue non farà compagnia oggi perché stiamo verificando come ha risposto a una segnalazione», chiese. «E lasciatele scegliere con chi passare l'ora che aveva prenotato.»
+
+«Abbiamo anche le consegne da coprire», rispose l'operatrice.
+
+«Lo so. Togliamo qualcosa dal programma. Vi mando io la modifica del turno.»
+
+Prima di chiamare Teresa, Ada aprì la colonna degli incarichi rimasti scoperti. Non bastava che la spiegazione fosse corretta: qualcuno doveva avere il tempo di darle ascolto.

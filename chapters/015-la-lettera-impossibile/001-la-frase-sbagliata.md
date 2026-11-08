@@ -98,4 +98,4 @@ Leah lesse il documento senza commentare il contenuto personale.
 
 Alle spalle di entrambe, B-21 aspettava istruzioni per liberare la stampante. La sua mano rimase ferma a qualche centimetro dal vassoio.
 
-Nerea rimase accanto al banco. Sul cassetto della stampante Paolo aveva ancora lasciato l'etichetta **CORNICE, QUI**. Il foglio di Veyra era caldo fra le sue dita.
+Nerea rimase accanto al banco. Sul cassetto della stampante Paolo aveva ancora lasciato l'etichetta **CORNICE, QUI**. Il foglio di Veyra era rimasto sul banco, sotto la cartellina trasparente che Leah aveva fatto preparare. Nerea tenne gli occhi su quella prima riga, senza toccarla più.

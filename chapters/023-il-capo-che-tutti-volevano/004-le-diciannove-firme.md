@@ -19,7 +19,7 @@ factions:
 
 La sesta settimana del pilota cominciò con una discussione davanti alla macchinetta dell'acqua.
 
-Rosa aveva scoperto il totale dei suoi straordinari mentre controllava la busta paga provvisoria. Un mese prima aveva superato di poco le venti ore aggiuntive; adesso erano quattro.
+Rosa aveva scoperto il totale dei suoi straordinari mentre controllava la busta paga provvisoria. Nel mese precedente il nuovo sistema di turnazione aveva superato di poco le venti ore aggiuntive, pur facendo già meno straordinari di qualche tempo prima; adesso erano quattro.
 
 Le giornate erano state distribuite meglio. Nessuno la chiamava all'ultimo momento per coprire una baia congestionata. Suo figlio era contento di averla a casa più spesso.
 
@@ -98,6 +98,14 @@ Sofia le propose un colloquio con l'ufficio del personale sulle indennità e sul
 «Non voglio che tu venga soltanto a chiedere perché non guadagni più come prima», aggiunse. «Voglio che sia presente qualcuno della direzione che possa decidere, non soltanto io con il calendario.»
 
 «Allora mandami l'invito quando confermano», rispose Rosa. «Non un altro modulo per spiegare quanto sono contenta dei turni equi.»
+
+Sofia aprì il calendario condiviso e scrisse una richiesta all'ufficio del personale e alla direzione operativa: *Confronto con i rappresentanti, dati aggregati sulle ore, proposta di data entro venerdì.* Mise Rosa in copia soltanto dopo averle chiesto se volesse ricevere le comunicazioni alla mail aziendale.
+
+«Sì. Ma non metterci le mie buste paga», disse Rosa.
+
+«Quelle restano tra noi, se decidi di usarle.»
+
+La richiesta partì senza una data confermata. Rosa la vide arrivare sul telefono, ma non la scambiò per una risposta.
 
 «Voglio anche i dati», disse Rosa. «Le ore aggiuntive che abbiamo fatto negli ultimi dodici mesi e quelle che prevedete per i prossimi tre. Non soltanto il mio turno.»
 

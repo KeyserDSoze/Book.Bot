@@ -72,11 +72,23 @@ Mina non aveva una risposta che cancellasse il problema dei ricavi. Il Circuito 
 
 «Facciamo una prova più difficile sulla coordinazione», propose. «Con ostacoli sicuri e supervisione reale. Non un incidente costruito.»
 
-Marta annuì.
+«Per quando?», chiese Marta.
 
-«Presentami un piano.»
+Mina consultò il turno sul proprio tablet. «Per le riprese, non prima di due giorni. Oggi possiamo fare una verifica interna del percorso. Domani il tecnico che certifica il carico è già assegnato a un altro laboratorio.»
 
-La conversazione finì lì, come molte conversazioni di lavoro. Non si erano accordate sulla filosofia del futuro; avevano trovato un incarico per il pomeriggio.
+«Lo sponsor ha prenotato la troupe per domattina.»
+
+«Con il percorso che ci ha mandato non autorizzo la prova, anche se la troupe fosse già qui.»
+
+Marta appoggiò due dita sulla tabella dei costi. «Allora avviso io lo sponsor. Potrebbe chiedere il rimborso della giornata.»
+
+«Lo so.»
+
+«Mi serve una scheda entro stasera. Se gli chiedo di spostare le riprese, devo poter mostrare che cosa avrà invece della caduta.»
+
+«Te la mando. Ma ci metto anche il nome della persona che deve fermare la prova se il carrello non risponde.»
+
+Marta annuì. Mina avrebbe potuto lasciare a lei la telefonata sgradevole; non poteva lasciare in bianco il responsabile del campo.
 
 Mina tornò da B-17.
 

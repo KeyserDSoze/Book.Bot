@@ -37,19 +37,23 @@ Sul tavolo dello Spazio Comune c'era una lista di corsi da preparare. Paolo sist
 
 Paolo annuì. Da qualche giorno si erano abituati a usare la parola *dicono* prima di ogni notizia su Bi.
 
-Nerea aprì un articolo più lungo. Parlava dei benefici del nuovo modulo in una struttura assistenziale, poi di un ritardo a un centro logistico, poi dei sospetti sulla provenienza di alcuni esempi usati dal produttore. Il testo riportava i risultati tecnici accertati e lasciava aperta la domanda su quali esempi fossero stati riutilizzati. Nerea era arrivata a metà articolo senza trovare una sola riga su chi avesse autorizzato la diffusione del suo messaggio personale.
+Nerea aprì un articolo più lungo. Parlava dei benefici del nuovo modulo in una struttura assistenziale, poi di un ritardo a un centro logistico e di una lavoratrice che, pur essendosi formata a gestire le eccezioni, aveva visto diminuire gli straordinari. Seguivano i sospetti sulla provenienza di alcuni esempi usati dal produttore. Il testo riportava i risultati tecnici accertati e lasciava aperta la domanda su quali esempi fossero stati riutilizzati. Nerea era arrivata a metà articolo senza trovare una sola riga su chi avesse autorizzato la diffusione del suo messaggio personale.
 
-«È possibile che abbia fatto una cosa utile e una cosa sbagliata insieme?», chiese Paolo.
+«Una lavoratrice dell'Hub ha fatto un corso per supervisionare i robot e adesso ha meno straordinari», disse Paolo, indicando l'articolo. «Eppure il nuovo sistema le serve quando una baia è bloccata.»
 
-Nerea lo guardò.
+«Tu vuoi che dica che Nico ha fatto bene?»
 
-«Non sono due cose che si cancellano.»
+Paolo abbassò il telefono. «Volevo sapere se hai letto il pezzo. Non stavo parlando della tua lettera.»
 
-«Non ho detto che si cancellano.»
+«Io ci sto ancora pensando. Alla lettera.»
 
 «Lo so.»
 
-La risposta le uscì più dura del necessario. Paolo non aggiunse niente.
+«No, Paolo. Tu almeno sai che cosa è uscito dalla stampante. Io non so ancora chi altro l'ha vista.»
+
+Paolo richiuse la pagina. «Hai ragione. Ho cambiato argomento prima che tu avessi finito.»
+
+Nerea avrebbe voluto dirgli che non era quello il problema. Si accorse di non sapere ancora quale fosse, fra tutti. Rimase con la mano appoggiata al telefono spento.
 
 Kyla arrivò con una cartellina riservata. Aveva chiesto di incontrare Nerea perché era stata indicata come mittente della lettera consegnata a Veyra. La società proprietaria aveva aggiornato i referenti sul problema di riservatezza e ora comunicava che B-17 doveva affrontare una valutazione tecnica della propria configurazione.
 

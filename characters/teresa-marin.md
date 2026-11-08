@@ -22,3 +22,7 @@ Durante lo stop Teresa parla comunque a B-32 fermo e chiede di tenere aperta la 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Teresa si diverte a raccontare due versioni della stessa storia a B-32, ama i pomodori e chiede di poter mangiare la torta portata da Elisa senza che la figlia ne controlli ogni fetta. La domanda «Chi è migliore?» non la definisce: Teresa vuole entrambe le relazioni, anche quando le complicano la giornata. Durante lo stop chiede la porta aperta per sentire passare persone nel corridoio. Non ridurla a oggetto della cura o a prova dei meriti della robotica.
+
+## Ventesima review — la figlia non è titolare delle sue storie
+
+Nel **22/001** Teresa chiede se sia stato spostato qualcuno per permettere la visita alla serra e riceve una spiegazione sui compiti che hanno liberato l'orario di Giulia. Nel **22/002** Elisa chiede a chi possano arrivare le storie che B-32 ha ascoltato; Teresa chiede a sua volta di essere coinvolta nella risposta. Può raccontare la stessa storia in modo diverso al robot e alla figlia senza dover preferire uno dei due. Nel **24/003** il personale non nasconde la sospensione di B-32 dietro un generico «guasto»: Ada fa spiegare che le risposte sono sotto verifica e chiede a Teresa come trascorrere il tempo alternativo, senza impegnare personale inesistente.

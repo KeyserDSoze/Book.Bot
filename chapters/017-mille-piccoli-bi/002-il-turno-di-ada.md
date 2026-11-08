@@ -88,3 +88,7 @@ Il venditore propose di registrare comunque la richiesta come *estensione progra
 «Prima voglio vedere anche le segnalazioni che avete classificato come inutili», disse. «Poi ne riparliamo.»
 
 Il carrello delle lenzuola passò davanti all'ufficio. La porta, questa volta, era aperta; l'operatrice lo raggiunse con tre passi e proseguì con lui.
+
+Ada riaprì il calendario sul telefono. Il parrucchiere chiedeva una conferma per l'appuntamento del giorno dopo. Premette *conferma* e mandò alla responsabile amministrativa una nota: *Domani alle diciotto esco. Se l'inventario richiede un'altra verifica, va programmata nel turno di chi può fermarsi.*
+
+La collega rispose che avrebbe provato a riorganizzare il controllo, non che ci sarebbe riuscita. Ada lasciò l'appuntamento segnato lo stesso.

@@ -18,7 +18,7 @@ factions:
 
 La proposta italiana arrivò in mezzo a due contratti molto più grossi.
 
-Nel calendario personale aveva segnato un pomeriggio libero, il primo da settimane. Doveva prendere il traghetto e andare sulla terraferma per incontrare un'amica che aveva smesso di chiedere «Quando hai tempo?» e aveva cominciato a scrivere soltanto «Mi fai sapere». Marta non aveva risposto all'ultimo messaggio perché non sapeva che cosa promettere.
+Nel calendario personale aveva segnato un pomeriggio libero, il primo da settimane. Doveva prendere il traghetto fino all'isola maggiore, dove viveva un'amica che aveva smesso di chiedere «Quando hai tempo?» e aveva cominciato a scrivere soltanto «Mi fai sapere». Marta non aveva risposto all'ultimo messaggio perché non sapeva che cosa promettere.
 
 Aveva già comprato il biglietto. Lo teneva nella cartella dove metteva le cose che non voleva trasformare in una voce di bilancio.
 
@@ -90,7 +90,7 @@ La rilesse e la inviò.
 
 Sul tavolo restava un'altra proposta da esaminare: un piano di riprese per la prossima dimostrazione, con le richieste di uno sponsor annotate sul margine. Marta lo inoltrò a Mina con una riga di accompagnamento: *Verifica le condizioni prima che prendiamo impegni su questa sequenza.*
 
-Poi aprì il biglietto del traghetto. La partenza era fra un'ora. Scrisse all'amica: *Posso esserci per cena, non per tutto il pomeriggio. Se non ti basta hai ragione a dirmelo.*
+Poi aprì il biglietto del traghetto per l'isola maggiore. La partenza era fra un'ora. Scrisse all'amica: *Posso esserci per cena, non per tutto il pomeriggio. Se non ti basta hai ragione a dirmelo.*
 
 La risposta arrivò mentre Marta raccoglieva le carte: *Vieni. Però stavolta spegni il telefono quando siamo a tavola.*
 

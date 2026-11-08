@@ -81,19 +81,27 @@ B-17 comparve con una risma di carta sotto il braccio. Sulla giuntura del ginocc
 
 Il robot posò la risma sul banco, controllò la consegna e attese che l'addetto alla sala copie confermasse. Nessuno gli chiese di intervenire nel codice. Nessuno in quella stanza lo considerava parte del reparto sviluppo.
 
-Kyla notò, però, che il foglio bianco aveva richiamato più persone di qualunque grafico della sua presentazione. Paolo aveva risolto un problema di presa meccanica con un accessorio dimenticato. Mila aveva trovato una eccezione nei dati grazie a un registro che non compariva negli indici attuali. Elena aveva difeso il controllo dell'originale quando sarebbe stato facile affidarsi al riepilogo.
+Kyla osservò il foglio bianco. Con una fotografia e una frase ben scritta avrebbe potuto ricavarne una storia perfetta per il prossimo incontro con Aruvhana. Aprì la sezione del tablet dedicata ai casi da mostrare ai clienti, poi guardò Elena, che teneva ancora fra le mani l'elenco delle pratiche da chiudere.
 
-Tutti avevano impiegato meno tempo. Nessuno aveva rinunciato alla parte del lavoro che soltanto lui o lei sapeva fare.
+«Posso portare qui la delegazione, quando torna?», chiese. «Vorrebbero vedere una prova vera, non soltanto un grafico.»
 
-Kyla non provò a trasformare la scena in uno slogan.
+Paolo indicò la fotocopia. «Davanti al capolavoro?»
 
-«La prossima delegazione la porto qui», disse.
+«Davanti alla cornice e al ticket di Mila. Con un documento di prova, naturalmente.»
 
-Paolo la guardò. «Davanti al capolavoro?»
+«Un documento sintetico non si prepara da solo», disse Elena. «Deve contenere la stessa eccezione senza portarsi dietro la firma del cliente. E poi qualcuno deve controllare che la dimostrazione non funzioni soltanto perché conosciamo già il risultato.»
 
-«Davanti alla cornice. E davanti al ticket di Mila, quando avremo finito di provarlo.»
+«Quanto ti serve?»
 
-«Allora avremo tempo di fare una fotocopia presentabile», intervenne Elena.
+«Quaranta minuti, se Mila mi passa i riferimenti. Non oggi: ho tre pratiche da chiudere.»
+
+Kyla stava per proporle di spostare quelle pratiche. Si fermò quando vide l'ora di uscita prevista sul calendario di Elena. Invece creò una richiesta di preparazione del caso sintetico, senza una data confermata, e la collegò al ticket che aveva aperto per Aruvhana.
+
+«La foto del foglio bianco, però, la puoi fare», disse Mila.
+
+«Quando avremo un facsimile riuscito da mettergli accanto», rispose Kyla. «Altrimenti sembra una storia in cui ci basta ridere dell'errore.»
+
+Elena posò il tablet. «Allora sì, avremo qualcosa da mostrare.»
 
 Kyla rimise il tablet in borsa. Sul proprio telefono l'amica del cinema le aveva inviato la fotografia di un biglietto strappato a metà, per scherzo. Kyla sorrise: la sera prima era arrivata puntuale.
 
