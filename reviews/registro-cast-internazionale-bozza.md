@@ -28,7 +28,7 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 | Sofia Rizzi | Hub Levante | Sofia Alvarez | Da approvare |
 | Rosa Fabbri | Hub Levante | Mantenere | Proposto |
 | Elisa Marin | Figlia di Teresa | Mantenere | Proposto |
-| Livia Sanna | Giornalista | Olivia Brooks | Da approvare |
+| Olivia Brooks | Giornalista britannica residente a Roma | Nome approvato e integrato | Canonico |
 | Amir Haddad | Manutenzione | Mantenere | Proposto |
 | Youssef Benali | Lavoratore stagionale | Mantenere | Proposto |
 | Mina Soler | Sicurezza Veyra | Mantenere | Proposto |
@@ -71,3 +71,7 @@ La scheda collettiva characters/visitors.md include due umani parlanti, Sahir Ve
 ## Prossima passata di rinomine
 
 Rinominare soltanto dopo un controllo di tutti i file canonici; evitare di perdere continuità di nome, cognome, famiglia, POV e riferimenti artistici. I personaggi locali di Valle Corta possono conservare identità italiane: internazionalizzazione non significa cancellare il luogo. Le proposte Noah Bennett, Alexander Reed e le altre varianti della tabella sono ancora candidature, non nomi già presenti nei capitoli.
+
+## Prima rinomina applicata
+
+Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei nove file-scena interessati, nelle guide e nei riferimenti correnti. La giornalista britannica abita a Roma, scrive in italiano e mantiene identici arco, etica professionale, rapporti e accessi alle fonti. Le tabelle delle revisioni storiche e gli audit-snapshot di versioni precedenti restano come testimonianza delle versioni pregresse.
