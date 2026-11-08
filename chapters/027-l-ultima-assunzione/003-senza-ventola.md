@@ -8,6 +8,7 @@ canon: canon
 pov: character:mei-lin
 characters:
   - character:mei-lin
+  - character:erik-solberg
 locations:
   - location:uffici-lanter
 factions:
@@ -21,7 +22,7 @@ Il prototipo era sul banco del laboratorio di Suzhou. Il nuovo modulo di elabora
 
 Il miglioramento, però, era abbastanza concreto da cambiare il prezzo di vendita.
 
-«Quattro ore e cinquanta di lavoro misto», disse il tecnico.
+«Quattro ore e cinquanta di lavoro misto», disse Erik Solberg, un ingegnere norvegese incaricato della verifica indipendente dei consumi.
 
 «Con quale batteria?»
 
@@ -34,6 +35,10 @@ Mei controllò il rapporto. Il cambio del modulo energetico richiedeva ancora un
 «Digli di leggere le condizioni.»
 
 «È quello che faccio.»
+
+Erik evidenziò la curva dei consumi, là dove il test sommava movimento e conversazione. «Non firmerò una scheda che prometta un turno intero senza soste. Il progresso c'è, ma il cliente deve sapere quando è necessaria la seconda unità.»
+
+Mei fece conservare quella curva insieme al rapporto, non soltanto al numero di ore da riportare in catalogo.
 
 Il problema più difficile non era sul banco. Era sullo schermo accanto, dove erano elencati gli aggiornamenti compatibili con un nuovo standard di coordinamento che i clienti avevano cominciato a chiamare *Passerella*.
 
