@@ -56,9 +56,9 @@ Leïa guardò la terrazza. «Ma oggi quelle persone sono contente?»
 
 «Alcune moltissimo. Altre chiedono che cosa significhi fare carriera in un'azienda dove sono gli agenti a preparare la prima versione del lavoro.»
 
-Kyla pensò a una riunione recente. Un programmatore giovane aveva chiesto di poter partecipare al collaudo di un vecchio modulo invece di limitarsi a validare i suggerimenti. Il responsabile aveva risposto che non c'era tempo per quel tipo di formazione durante la consegna. Kyla aveva segnato il problema per un confronto successivo e poi l'aveva perso fra gli appunti della visita.
+Kyla ricordò un ragazzo del gruppo sviluppo che, alla riunione del venerdì, aveva chiesto di assistere al collaudo di un vecchio modulo. Sapeva approvare i test preparati dall'agente, aveva spiegato; non aveva ancora visto il terminale sul quale quei test sarebbero stati usati. Gavin gli aveva domandato quale consegna avrebbe lasciato scoperta per andarci. Il ragazzo aveva guardato il proprio calendario, senza trovare una risposta.
 
-Non lo raccontò agli ospiti. Quando Sahir si chinò sul tabellone delle batterie, aprì il calendario e cercò *formazione legacy*. Trovò la richiesta ancora senza un responsabile di budget. La inoltrò a Elena e a Gavin con una domanda precisa: *Quali ore possiamo liberare per una prova sul terminale storico?* Non ricevette una conferma prima che la visita finisse.
+Non lo raccontò agli ospiti. Mentre Sahir si chinava sul tabellone delle batterie, Kyla cercò *formazione legacy*. La richiesta c'era, ma la casella del centro di costo era vuota. Scrisse a Elena per sapere chi potesse mostrare il terminale, a Gavin per chiedere due ore di uno sviluppatore e al responsabile di commessa per sapere dove registrarle. Il calendario le offrì soltanto un promemoria. Non lo trasformò in un appuntamento.
 
 Sul tabellone la batteria in carica raggiunse la soglia prevista. L'unità UNO rientrò con un modulo scarico. DUE verificò che l'area fosse libera, lo prese e iniziò la procedura. Un tecnico comparve alla porta, controllò il registro e firmò la rotazione.
 
