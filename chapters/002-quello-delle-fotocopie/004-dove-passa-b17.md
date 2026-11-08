@@ -99,7 +99,7 @@ Kyla stava per proporle di spostare quelle pratiche. Si fermò quando vide l'ora
 
 «La foto del foglio bianco, però, la puoi fare», disse Mila.
 
-«La farò quando avremo anche la terza copia», rispose Kyla. «Altrimenti sembra una storia in cui ci basta ridere dell'errore.»
+«Quando avremo un facsimile riuscito da mettergli accanto», rispose Kyla. «Altrimenti sembra una storia in cui ci basta ridere dell'errore.»
 
 Elena posò il tablet. «Allora sì, avremo qualcosa da mostrare.»
 
