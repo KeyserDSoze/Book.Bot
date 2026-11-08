@@ -38,3 +38,7 @@ In 25 Marta accetta una consulenza circoscritta per Cyberdine e vede che il rica
 ## Diciottesima review — scelta commerciale, rischio operativo
 
 Nel **14/002**, dopo il rifiuto di Mina di girare una caduta scenica su terreno reale, Marta è quella che deve avvertire lo sponsor della data rinviata e assumere il possibile costo della troupe. Non cede al rischio per evitare la perdita, ma neppure lo liquida con un assenso generico. Nel **14/001** il rifiuto all'acquisto da parte dei vecchi colleghi di Bi non è una controfferta: i contratti già assunti impediscono di avviare quella trattativa. La visita all'amica avviene mediante traghetto per un'isola maggiore vicina a Veyra, non verso una fantomatica massa continentale.
+
+## Diciannovesima review — una scelta precedente cambia prezzo
+
+Nel **20/001** Marta si ricorda della proposta dei dipendenti di Cyberdine come raccolta **condizionata**, non come offerta di acquisto con prezzo ufficiale; l'aveva rifiutata perché il Circuito dipendeva dai contratti già assunti. Ora gli stessi contratti generano penali e giorni da rimborsare quando sospende il programma di B-17. Nel **21/001** ascolta il limite di Mina: Nerea non deve essere trasformata in una prova gratuita dell'identità del robot. Marta autorizza un invito volontario, non una perizia affidata a una persona emotivamente coinvolta.
