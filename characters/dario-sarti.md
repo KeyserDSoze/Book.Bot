@@ -32,3 +32,8 @@ Nel capitolo 6 Dario non riesce a separare la perdita di status dalla propria ra
 ## Revisione v0.32.0 — Software e robot
 
 Le giornate passano dal codice scritto in prima persona a istruzioni impartite agli agenti e approvazioni di proposte: Dario è bravo nel mestiere di ieri e incerto su quello di domani. L'aggressione a Bi resta una scelta volontaria e condannabile. In assenza della macchina, nemmeno i test verdi rivelano le ragioni dei vecchi protocolli: il rimpianto non equivale ad assoluzione.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Capitoli 6–8, quindicesima revisione:** l'aggressione resta deliberata: Dario colpisce nuovamente B-17 dopo una richiesta di fermarsi. Nella scena 6/003 la sua vergogna per la carriera non diventa un nesso causale che annulla la responsabilità. In 7/003 Mauro gli telefona per i colloqui aziendali; Dario rifiuta una ricostruzione comune accomodante, riconosce il proprio colpo successivo alla richiesta e invia una integrazione formale della propria dichiarazione. Il fatto di dire la verità non lo assolve, non lo rimette al lavoro e non implica perdono da parte di Bi o dei colleghi. Nel capitolo 8 il rapporto con Cyberdine cessa.

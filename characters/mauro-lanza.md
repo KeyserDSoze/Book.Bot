@@ -30,3 +30,8 @@ Nel capitolo 6 Mauro avrebbe potuto separarsi da Dario per ritirare un pacco da 
 ## Revisione v0.32.0 — Cyberdine software house
 
 Mauro lavora nelle commissioni e nella movimentazione del campus; **non è uno sviluppatore software**. La perdita di ore derivante dai robot fisici convive con la frustrazione diversa di Dario, che vede svalutarsi la propria competenza di coding. I due malcontenti si sommano senza diventare la stessa causa o una scusa per la violenza.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Capitoli 6–8, quindicesima revisione:** Mauro non è trascinato nell'aggressione: nel 6/003 può lasciare il corridoio, sceglie di restare, strappa la cassetta e colpisce B-17. In 7/003 telefona a Dario prima del secondo colloquio, prova inizialmente a descrivere solo il gesto sulla cassetta e deve confrontarsi con il fatto di aver colpito il robot alla schiena. Dario non parla a nome suo e non preparano una dichiarazione comune. Nessuna scusa inventata, rientro o riconciliazione: il rapporto di lavoro di Mauro cessa nel capitolo 8.

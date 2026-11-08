@@ -38,3 +38,8 @@ Durante la confessione del 12 Leah è affamata, stanca e irritata; se ne accorge
 ## Origini e prospettiva professionale
 
 Leah è britannica, ha lavorato in gruppi di gestione degli incidenti tra Manchester e Amsterdam e si è trasferita in Italia prima dei fatti del romanzo. Il suo rigore non dipende dalla nazionalità: nasce da indagini in cui una risposta prematura ha impedito di ricostruire una violazione. Parla italiano con i colleghi e non è rappresentante di un intero Paese o di una fede.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima revisione:** la sua prudenza ha un prezzo operativo. Nel 12/002 Leah sposta un analista dalla gestione ordinaria di un incidente cliente alla conservazione di tracce degli accessi di B-17 che rischiano di scadere: domani qualcuno dovrà rispondere al cliente. Nel 12/003 registra la richiesta di Nerea di non trasformare la confidenza privata in una prova promozionale/giustificativa, senza garantire impossibili assenze future di consultazione. Nel 31/004 spiega a Nico che un consulente indipendente ha approvato il perimetro della sessione e che la sua testimonianza verrà controllata da altri; lo richiama per distinguere competenza, provenienza e responsabilità, non perché sia stato assolto. La separazione degli incidenti di Nico e Lanter resta invariata.

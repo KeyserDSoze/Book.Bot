@@ -43,3 +43,8 @@ In 003 Nico mostra un diagramma nel quaderno: parte dello stato conversazionale 
 ## Undicesima review — prosa, voci e gesti
 
 **Undicesima review letteraria:** Mei ferma un'estrazione che avrebbe conservato campi personali senza permessi verificati; Nico ritrova l'appunto sulle prove escluse anziché spiegare la propria colpa in una massima; Bruno mostra il relè della sirena e i nuovi controlli sui cavi anziché formulare un'analogia perfetta su Bi. I due casi restano distinti.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** nel 20/003 Nico risponde a un vero bivio di collaudo: analizzare dipendenze senza eseguire la configurazione non certificata oppure provare un riavvio su un'identità nuova che potrebbe ingannare sulla continuità. Sceglie la prima e spiega perché. La sua competenza non ripara il difetto passato, né assicura una futura migrazione della coscienza/configurazione.

@@ -54,3 +54,8 @@ In 003 Nerea incontra Nico e gli dice della fotografia lasciata nella stanza di 
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — prove visibili, non destino inevitabile.** Nel 002 Mei rifiuta di inventare una percentuale di sopravvivenza della configurazione. Una prova con due siti mostra un carrello che si ferma al confine perché la referenza originaria resta valida; una seconda prova usa una credenziale fittizia in laboratorio e riesce dopo la revoca certificata. Non è stata clonata la configurazione di B-17. Nico chiede due giorni per mappare il legame della chiave hardware con lo stato conversazionale, ma una mappa non è una migrazione certificata. Il centro di Ada potrebbe dover ridurre prestazioni o trasferire ospiti; le persone non possono attendere una prova indefinita senza costo. Il piano alternativo di revoche lente rimane praticabile e non collaudato ovunque; Marta e gli altri firmeranno una scelta umana nel 004.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** nel 34/003 Nerea dice a Nico di non presentare le confidenze con Bi come una giustificazione del suo aggiornamento illegittimo, e chiede di **non assimilare collaborazione tecnica al consenso al ritiro**. Nico non promette di decidere al posto della commissione: la richiesta può essere riportata al responsabile del verbale. Nel 34/004 la commissione tiene distinti «collaborazione ai test: sì» e «rinuncia alla rivendicazione: no»; la scelta umana di cancellare Bi resta intatta.

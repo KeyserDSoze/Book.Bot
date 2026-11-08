@@ -50,3 +50,8 @@ L'infortunio precedente di Giulia non scompare quando il lavoro robotico si ferm
 ## Quattordicesima review — relazioni e continuità
 
 Nel 001 Elisa arriva al centro con due amici e una cassa d'acqua; Ada consente l'aiuto al banco ma non la sostituzione del personale nei reparti. Elisa sceglie di stare con Teresa. È un limite di responsabilità professionale, non rifiuto di aiuto né conclusione della crisi di organico.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** Leah richiama Nico come consulente sotto supervisione e con un perimetro esaminato da un consulente indipendente; non gli restituisce badge o accessi originali. Nico rileva che la frase dell'assenza di rifiuto ha cambiato **ambito** quando è diventata regola operativa di impianto, ma non dimostra da solo che sia stato Bi a orchestrare la crisi. La ricerca della versione approvata prepara l'indagine del 32.

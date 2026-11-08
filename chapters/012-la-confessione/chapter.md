@@ -34,3 +34,8 @@ In 003 Nerea chiede se Nico abbia mai parlato davvero con Bi, non semplicemente 
 ## Nona review — confessione e onere della prova
 
 In 001 Nico descrive l'installazione non autorizzata, l'accesso clandestino e anche il test sull'autonomia lasciato incompleto. Leah chiede dati, date e verifiche omesse invece di ripetere la presentazione delle capacità già fornita al lettore nel 10. Kyla, ora azionista, avverte subito il rischio aziendale ma torna al problema concreto delle persone che potrebbero essere state osservate. Non trasformare una confessione in una perizia conclusiva: portata effettiva degli accessi e registrazioni rimangono da verificare.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** nel 12/002 Leah deve distogliere un analista da un incidente ordinario per preservare tracce in scadenza della backdoor: la verifica è concreta e costosa. Nel 12/003 Nerea ottiene che sia registrata la propria richiesta di limitazione del trattamento della confidenza; non riceve una promessa assoluta né diventa testimone obbligata della bontà di Nico. La causa delle capacità di Bi è già rivelata al lettore al capitolo 10; qui si svolge la confessione ai colleghi.

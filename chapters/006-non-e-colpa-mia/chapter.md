@@ -31,3 +31,8 @@ La posizione senior di Adriana Lodi non verrà ricreata, ma Irene mantiene il su
 ## Revisione di continuità v0.32.0
 
 L'aggressione conserva la propria gravità e l'unica responsabilità degli aggressori. Dario è uno sviluppatore di connettori che si sente ridotto a revisore dei risultati degli agenti; Mauro teme la perdita di turni fisici. I due malcontenti sono diversi, nessuno giustifica la violenza. Bi non acquisisce poteri di programmazione senza autorizzazione.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** Dario e Mauro agiscono e colpiscono B-17 dopo richieste di fermarsi: l'incontro teso e la perdita di opportunità lavorative spiegano il contesto, non assolvono. La scena 6/003 chiarisce che Dario intendeva rappresentare Irene senza consenso e che Mauro entra nel passaggio di B-17 con un gesto indipendente. Non scrivere l'aggressione come un semplice incidente improvviso o confondere la responsabilità di B-17 e quella dei manager aziendali.

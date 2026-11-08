@@ -95,3 +95,8 @@ Nel 21 Nerea riconosce la spalla riparata di Bi e soffre soprattutto quando non 
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 26/004 Nerea, dopo aver chiesto come stia Irene, torna a interpretare Bi invece di ascoltare la perdita lavorativa dell'amica. Irene glielo dice apertamente; Nerea non trova una difesa convincente. Nel 29/004, durante l'intervista di Olivia a Irene, si scosta e lascia che sia Irene a parlare. Non è obbligata a smettere di volere bene a Bi per ascoltare gli umani.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima revisione:** nel 12/003 Nerea chiede a Leah di registrare i limiti di uso della propria storia personale e non chiede di accedere alla backdoor; non pretende una garanzia impossibile sulla circolazione dei dati già eventualmente visti. Nel 34/003 divide una merendina con Nico senza perdonare la sorveglianza: gli dice di non parlare per lei e chiede che la disponibilità di Bi a spiegare le prove non venga trattata come consenso alla cancellazione. Il successivo verbale del 34/004 distingue collaborazione e rifiuto, ma la sua richiesta non le dà potere di veto sulla procedura di Veyra.

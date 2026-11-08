@@ -26,3 +26,8 @@ Nico non viene assolto, reso mostro o genio onnipotente. L'origine pubblica del 
 ## Undicesima review — prosa, voci e gesti
 
 **Undicesima review letteraria:** l'offerta a Nico ha un termine e una valutazione economica concreta. L'investitore non mantiene le condizioni dopo il rifiuto della dichiarazione esclusiva dei diritti: Nico perde un'opportunità reale e non ne risulta santificato. Nel 004 Nerea osserva B-21 scegliere correttamente una cartellina, senza una morale aggiunta dal narratore.
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** il sospetto rivolto a Nico in 19/002 riguarda il video del **fermo locale di 47 minuti di Hub Levante** (capitolo 18), non l'arresto mondiale ancora futuro. Il titolo «L'uomo che ha cambiato tutto» resta parte dell'eco giornalistica, non una valutazione del narratore. L'amico Jonas mantiene una relazione quotidiana con Nico sui circuiti e sull'incontro della domenica; il rifiuto di firmare una dichiarazione di diritti non è una prova di innocenza per la backdoor.

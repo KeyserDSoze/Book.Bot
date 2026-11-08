@@ -54,3 +54,8 @@ L'impegno assunto nel capitolo 5 a insegnare la manutenzione delle vecchie libre
 ## Quattordicesima review — relazioni e continuità
 
 Nel 001 Mila risponde alla sorella dopo aver rinviato troppe chiamate, lasciando a Paolo i bicchieri. Nel 002 il dialogo sulla ricostruzione del vecchio registro è stato corretto: Malik avverte Gavin e apre il codice, Irene recupera il cartaceo con Adriana. Non rimettere l'errato «No. Vado a prendere il registro» dopo «Avvisalo».
+
+
+## Quindicesima review — il danno non si assolve da solo
+
+**Quindicesima review:** nel 7/003 Dario riceve da Mauro una telefonata su come raccontare l'aggressione ai colloqui. Rifiuta di presentare come ricordo condiviso una versione che cancella il colpo di Mauro e invia una propria integrazione formale: continua a essere responsabile, non perdonato, sospeso dal servizio. Mauro non compare sul campus. L'HR conclude gli accertamenti prima della plenaria del capitolo 8.
