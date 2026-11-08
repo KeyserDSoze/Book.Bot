@@ -41,7 +41,7 @@ Enrico abbassò lo sguardo.
 
 «No.»
 
-Mina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il problema dell'invio e, come allegato, la lettera in formato leggibile. Una piccola casella, selezionata per impostazione predefinita, autorizzava l'uso dei materiali del ticket nella diagnostica della famiglia di prodotti. Non era una liberatoria valida per Nerea; Enrico aveva semplicemente seguito il percorso più rapido per spiegare al supporto che cosa non funzionasse.
+Mina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il problema dell'invio e, come allegato, la lettera in formato leggibile. Una piccola casella, selezionata per impostazione predefinita, autorizzava l'uso dei materiali del ticket nella diagnostica della famiglia di prodotti. Non era una liberatoria valida per Nerea. Mina gli aveva chiesto un esempio inventato, ma Enrico aveva scelto di inviare la lettera per risolvere più in fretta la richiesta. La casella predefinita aveva allargato ulteriormente il percorso del documento, senza che questo rendesse legittima la sua scelta.
 
 «Dobbiamo correggerlo subito», disse Mina.
 
@@ -55,7 +55,7 @@ Mina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il
 
 Enrico posò finalmente il pacco della mensa. Aprì la cronologia del ticket davanti a lei. Non cercò di cancellare la spunta.
 
-Enrico aprì la bocca, poi la richiuse. Il pacco destinato alla mensa rimase fra loro come un oggetto di troppo.
+Enrico aprì la bocca, poi la richiuse. Il pacco della mensa rimase sul davanzale, ancora da consegnare.
 
 Mina chiamò Marta. La direttrice venne in amministrazione portandosi ancora dietro la giacca del campo.
 
