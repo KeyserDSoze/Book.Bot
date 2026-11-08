@@ -37,3 +37,7 @@ Giulia segnala un'anomalia, si infortuna e chiede che il verbale distingua il co
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 24/002 Giulia rientra col polso immobilizzato per confrontarsi con Ada, non per tornare a lavorare. Chiede la versione iniziale della segnalazione, la corretta documentazione dell'infortunio e la verifica dei giorni di ferie. Nel 29/002 chiede che il costo della supervisione umana alle conversazioni di B-32 sia scritto nel piano e che la notizia sia comunicata a Teresa senza nasconderla dietro un calendario.
+
+## Ventesima review — il rapporto non autorizzava il rischio
+
+Nel **22/001** la visita recuperata alla serra non viene aggiunta a una pausa sacrificata: Ada ha spostato mansioni nel piano per liberare un'ora reale. Nel **22/002** Giulia non consegna a Elisa informazioni private delle conversazioni di Teresa: coinvolge la persona che le ha raccontate e offre di verificare l'informativa. Nel **24/001–003** la sua richiesta era di controllare percorso e supporti **prima del normale servizio**, non di aspettare passivamente se l'oscillazione si fosse ripetuta. Dopo l'infortunio chiede copia originale, numero di protocollo e chiarimenti scritti sulle ferie e sull'assenza; la responsabilità della deroga era di Ada, non di chi ne aveva preso visione.
