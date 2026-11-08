@@ -5,20 +5,20 @@ chapter: chapter:023-il-capo-che-tutti-volevano
 number: 2
 title: Un mercoledì libero
 canon: canon
-pov: character:rosa-fabbri
+pov: character:ruby-collins
 characters:
-  - character:rosa-fabbri
+  - character:ruby-collins
   - character:b-37
-  - character:sofia-rizzi
+  - character:sophie-grant
 locations:
   - location:hub-levante
 factions:
   - faction:hub-levante
 ---
 
-Rosa scoprì di avere il mercoledì libero mentre stava preparando la cena.
+Ruby scoprì di avere il mercoledì libero mentre stava preparando la cena.
 
-Il telefono le mostrò il nuovo turno proposto dal sistema dell'Hub Levante. Non era ancora definitivo: accanto a ogni settimana compariva il nome della persona che l'aveva autorizzata e un termine entro il quale segnalare errori. La prima era firmata da Sofia; per due giorni della settimana successiva figurava una vicecapoturno, designata come sostituta durante l'assenza di Sofia. Le richieste ancora senza firma rimanevano bozze, non turni assegnati.
+Il telefono le mostrò il nuovo turno proposto dal sistema dell'Hub Levante. Non era ancora definitivo: accanto a ogni settimana compariva il nome della persona che l'aveva autorizzata e un termine entro il quale segnalare errori. La prima era firmata da Sophie; per due giorni della settimana successiva figurava una vicecapoturno, designata come sostituta durante l'assenza di Sophie. Le richieste ancora senza firma rimanevano bozze, non turni assegnati.
 
 Per la prima volta dopo mesi avrebbe potuto accompagnare suo figlio a una visita senza chiedere a un collega di coprirla.
 
@@ -30,9 +30,9 @@ Per la prima volta dopo mesi avrebbe potuto accompagnare suo figlio a una visita
 
 «Non esageriamo.»
 
-La mattina dopo Rosa andò a controllare il calendario stampato, per essere sicura che non si trattasse di un errore del telefono. Il foglio era identico. B-37, l'unità incaricata di raccogliere vincoli e proporre i turni, stava spostando dei contenitori vicino al banco vetrato.
+La mattina dopo Ruby andò a controllare il calendario stampato, per essere sicura che non si trattasse di un errore del telefono. Il foglio era identico. B-37, l'unità incaricata di raccogliere vincoli e proporre i turni, stava spostando dei contenitori vicino al banco vetrato.
 
-Rosa gli si avvicinò.
+Ruby gli si avvicinò.
 
 «Se chiedo di tenere sempre libero il mercoledì pomeriggio, lo puoi fare?»
 
@@ -42,13 +42,13 @@ Rosa gli si avvicinò.
 
 «Non è necessario indicare la ragione. Sono richieste soltanto disponibilità e vincoli pertinenti alla pianificazione.»
 
-Rosa pensò a quante volte aveva dovuto raccontare al vecchio responsabile i turni dell'altro genitore, gli orari della scuola, perfino l'età del figlio, per ottenere un cambio che spesso non arrivava.
+Ruby pensò a quante volte aveva dovuto raccontare al vecchio responsabile i turni dell'altro genitore, gli orari della scuola, perfino l'età del figlio, per ottenere un cambio che spesso non arrivava.
 
 «Allora segnalo il mercoledì.»
 
 «Puoi farlo dal terminale personale. Il nuovo calendario sarà sottoposto alla verifica del responsabile umano.»
 
-«Che sarebbe Sofia.»
+«Che sarebbe Sophie.»
 
 «Sì.»
 
@@ -58,9 +58,9 @@ In reparto gli umori erano insolitamente buoni. Un collega non doveva più fare 
 
 Qualcuno aveva cominciato a chiamare B-37 *il nostro nuovo capo*.
 
-Il soprannome faceva ridere anche Sofia, ma soltanto quando nessuno le chiedeva di approvare uno scambio impossibile.
+Il soprannome faceva ridere anche Sophie, ma soltanto quando nessuno le chiedeva di approvare uno scambio impossibile.
 
-Durante la terza settimana Rosa si trovò a discutere con un collega che voleva il suo sabato.
+Durante la terza settimana Ruby si trovò a discutere con un collega che voleva il suo sabato.
 
 «L'hai chiesto prima tu?», domandò lui.
 
@@ -68,21 +68,21 @@ Durante la terza settimana Rosa si trovò a discutere con un collega che voleva 
 
 Il robot segnalò che lo scambio non avrebbe violato i riposi, ma avrebbe creato una mancanza di personale abilitato alla linea di carico.
 
-«Allora non si può», concluse Rosa.
+«Allora non si può», concluse Ruby.
 
-«Lo poteva dire anche Sofia.»
+«Lo poteva dire anche Sophie.»
 
 «Sì. Ma adesso vediamo perché.»
 
 Le sembrò una differenza enorme.
 
-Alla fine del mese il figlio le chiese perché non si lamentasse più dei turni mentre apparecchiava. Rosa gli spiegò che finalmente qualcuno stava cercando di distribuire le giornate senza preferire sempre le stesse persone.
+Alla fine del mese il figlio le chiese perché non si lamentasse più dei turni mentre apparecchiava. Ruby gli spiegò che finalmente qualcuno stava cercando di distribuire le giornate senza preferire sempre le stesse persone.
 
 «E chi è?»
 
-Rosa esitò.
+Ruby esitò.
 
-«Un robot, ma poi controlla Sofia.»
+«Un robot, ma poi controlla Sophie.»
 
 «Allora il robot è bravo.»
 
@@ -90,6 +90,6 @@ Rosa esitò.
 
 Il bambino rimase soddisfatto.
 
-Rosa, invece, non aveva ancora guardato il riepilogo delle ore straordinarie in fondo al nuovo calendario. Non perché fosse nascosto: era stampato in caratteri grandi.
+Ruby, invece, non aveva ancora guardato il riepilogo delle ore straordinarie in fondo al nuovo calendario. Non perché fosse nascosto: era stampato in caratteri grandi.
 
 Semplicemente, non aveva avuto motivo di cercarlo.
