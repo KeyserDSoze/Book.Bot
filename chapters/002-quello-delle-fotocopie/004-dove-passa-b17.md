@@ -9,10 +9,10 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:elena-fischer
-  - character:paolo-ferri
+  - character:paul-turner
   - character:mila-novak
   - character:b-17
-  - character:nico-valenti
+  - character:noah-carter
 locations:
   - location:cyberdine-campus
 factions:
@@ -25,31 +25,31 @@ Sotto, in stampatello, qualcuno aveva scritto: **PRIMO CAPOLAVORO DI B-17**.
 
 Kyla lo trovò il mattino successivo. Era arrivata al quarto piano per raccogliere testimonianze sui benefici delle nuove automazioni. Aveva con sé un piccolo elenco di domande e la convinzione che almeno metà delle risposte si sarebbe potuta prevedere senza intervistare nessuno.
 
-Paolo le indicò la fotocopia.
+Paul le indicò la fotocopia.
 
 «Ecco la vera intelligenza artificiale. Sa far parlare le persone con un foglio vuoto.»
 
 Mila, accanto a lui, mangiava un biscotto. «Ha fatto anche il resto del lavoro, ma non raccontare la parte noiosa.»
 
-Kyla si fece spiegare la storia: il lato sbagliato, il foglio tagliato, la cornice dimenticata nel cassetto, la scheda finalmente leggibile. Ogni volta che Paolo arrivava al proprio intervento, Mila cambiava un dettaglio per dargli fastidio.
+Kyla si fece spiegare la storia: il lato sbagliato, il foglio tagliato, la cornice dimenticata nel cassetto, la scheda finalmente leggibile. Ogni volta che Paul arrivava al proprio intervento, Mila cambiava un dettaglio per dargli fastidio.
 
-Nico Valenti comparve in fondo al corridoio con una custodia di attrezzi. Si fermò soltanto un momento. Guardò il foglio bianco, la scritta di Paolo e l'etichetta appena applicata al cassetto della sala copie.
+Noah Carter comparve in fondo al corridoio con una custodia di attrezzi. Si fermò soltanto un momento. Guardò il foglio bianco, la scritta di Paul e l'etichetta appena applicata al cassetto della sala copie.
 
 «L'accessorio era lì già prima?», chiese.
 
-«Da anni», rispose Paolo.
+«Da anni», rispose Paul.
 
-Nico annuì. «Allora non era un problema nuovo.»
+Noah annuì. «Allora non era un problema nuovo.»
 
 «Era un problema vecchio che avevamo smesso di vedere.»
 
-Nico rise. «Paolo, ci metti un'etichetta anche sulla mia scrivania? Ho tre cavi identici e solo uno funziona.»
+Noah rise. «Paul, ci metti un'etichetta anche sulla mia scrivania? Ho tre cavi identici e solo uno funziona.»
 
 «Se vuoi ti faccio un corso.»
 
 «Ne ho già abbastanza, grazie.»
 
-Salutò anche Mila e proseguì verso gli uffici di sviluppo. Kyla non vi lesse nulla di particolare. Nico faceva spesso domande banali perché lasciava agli altri il piacere di aver risolto qualcosa, anziché arrivare per dimostrare di sapere già tutto.
+Salutò anche Mila e proseguì verso gli uffici di sviluppo. Kyla non vi lesse nulla di particolare. Noah faceva spesso domande banali perché lasciava agli altri il piacere di aver risolto qualcosa, anziché arrivare per dimostrare di sapere già tutto.
 
 Elena li raggiunse con il tablet. «Per favore, la prossima volta mostrate ai clienti anche la pagina firmata correttamente. Altrimenti penseranno che passiamo il giorno a produrre fogli bianchi.»
 
@@ -73,7 +73,7 @@ Il tablet confermò l'invio. Nessuna modifica fu pubblicata; nessun algoritmo ri
 
 B-17 comparve con una risma di carta sotto il braccio. Sulla giuntura del ginocchio c'era ancora una traccia di polvere del giardino. La scatola era troppo grande perché potesse vedere direttamente il pavimento davanti ai piedi; il robot procedeva seguendo il percorso autorizzato, rallentando ogni volta che un collega gli tagliava la strada.
 
-«Ecco l'artista», annunciò Paolo.
+«Ecco l'artista», annunciò Paul.
 
 «Il suo nome è B-17», precisò Elena.
 
@@ -85,7 +85,7 @@ Kyla osservò il foglio bianco. Con una fotografia e una frase ben scritta avreb
 
 «Posso portare qui la delegazione, quando torna?», chiese. «Vorrebbero vedere una prova vera, non soltanto un grafico.»
 
-Paolo indicò la fotocopia. «Davanti al capolavoro?»
+Paul indicò la fotocopia. «Davanti al capolavoro?»
 
 «Davanti alla cornice e al ticket di Mila. Con un documento di prova, naturalmente.»
 

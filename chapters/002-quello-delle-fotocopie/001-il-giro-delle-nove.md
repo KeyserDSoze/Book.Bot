@@ -8,7 +8,7 @@ canon: canon
 pov: character:elena-fischer
 characters:
   - character:elena-fischer
-  - character:paolo-ferri
+  - character:paul-turner
   - character:mila-novak
   - character:b-17
 locations:
@@ -45,15 +45,15 @@ Alla postazione vicina un agente di sviluppo aveva appena proposto una piccola m
 
 Andò a prendere il caffè.
 
-Paolo Ferri era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Aveva il telefono a faccia in giù e un promemoria impostato per la fine della pausa; gli piaceva sapere quanto duravano le cose. Mila Novak teneva in mano il contenitore del pranzo.
+Paul Turner era fermo davanti al distributore, in attesa che una bevanda gli restituisse il resto. Aveva il telefono a faccia in giù e un promemoria impostato per la fine della pausa; gli piaceva sapere quanto duravano le cose. Mila Novak teneva in mano il contenitore del pranzo.
 
-«Paolo ha deciso che il mio frigorifero deve essere ridondante», disse Mila. La voce arrivò fino al fondo del corridoio. «Ha spostato le lasagne accanto al ghiaccio.»
+«Paul ha deciso che il mio frigorifero deve essere ridondante», disse Mila. La voce arrivò fino al fondo del corridoio. «Ha spostato le lasagne accanto al ghiaccio.»
 
 Un collega sporse la testa dalla porta, convinto che stessero litigando. Elena gli fece un cenno: era soltanto la pausa di Mila.
 
-«Era il primo spazio libero», protestò Paolo.
+«Era il primo spazio libero», protestò Paul.
 
-«Nel nostro reparto abbiamo software capaci di trovare una dipendenza in tremila file. Paolo non trova un ripiano.»
+«Nel nostro reparto abbiamo software capaci di trovare una dipendenza in tremila file. Paul non trova un ripiano.»
 
 Elena rise. Attraverso la vetrata vide B-17 avanzare verso l'archivio con un contenitore vuoto.
 
@@ -65,11 +65,11 @@ Elena rise. Attraverso la vetrata vide B-17 avanzare verso l'archivio con un con
 
 «Una commissione», precisò Elena. «Non esageriamo.»
 
-B-17 rallentò davanti al cestino della carta che ostruiva parte del passaggio. Paolo era fermo esattamente sull'altro lato. Il robot misurò lo spazio, trovò il corridoio troppo stretto e attese.
+B-17 rallentò davanti al cestino della carta che ostruiva parte del passaggio. Paul era fermo esattamente sull'altro lato. Il robot misurò lo spazio, trovò il corridoio troppo stretto e attese.
 
 «Hai un collega che vuole passare», disse Elena.
 
-Paolo si spostò con il caffè. «Prego, ingegnere.»
+Paul si spostò con il caffè. «Prego, ingegnere.»
 
 «Non è un ingegnere», replicò Mila.
 
@@ -81,7 +81,7 @@ Non riuscì a staccare il foglio.
 
 Lo riprovò con una diversa pressione. Il bordo scivolò sulle dita opache, poi si riappoggiò alla carta sottostante.
 
-Paolo si sporse. «Quella carta è la peggiore.»
+Paul si sporse. «Quella carta è la peggiore.»
 
 «È quella che accetta il cliente», rispose Elena.
 
@@ -93,7 +93,7 @@ B-17 cambiò la presa, sollevò un angolo e tirò piano. La scheda si incurvò c
 
 Mila guardò la scena. «È buffo sapere che ha un modello linguistico e non sa tenere un foglio.»
 
-«Le mani non sono parole», disse Paolo. «E quello è un foglio difficilissimo.»
+«Le mani non sono parole», disse Paul. «E quello è un foglio difficilissimo.»
 
 Elena osservò il pannello. Il controllo segnava ancora *entro tolleranza*. Non intervenne. Voleva capire fino a che punto il nuovo incarico fosse davvero adatto all'unità.
 
@@ -107,6 +107,6 @@ La voce era quella standard delle unità del campus, ma Elena si accorse che la 
 
 Il robot riprese il cammino.
 
-Paolo bevve finalmente il caffè e fece una smorfia.
+Paul bevve finalmente il caffè e fece una smorfia.
 
 «Quella», disse, «è l'unica macchina del piano che non dovrebbe imparare niente.»

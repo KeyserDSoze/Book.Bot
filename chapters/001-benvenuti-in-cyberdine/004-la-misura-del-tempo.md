@@ -88,7 +88,7 @@ Leïa indicò la parte evidenziata.
 
 Kyla inoltrò il ticket al referente, aggiungendo una domanda: *Nel test voglio vedere almeno un'alternativa esclusa che il revisore decide di recuperare. Altrimenti proveremo soltanto che il sistema sa spiegare se stesso.*
 
-Aveva scritto quella frase pensando al varco che Nico aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
+Aveva scritto quella frase pensando al varco che Noah aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
 
 «Mi sembra che stiate facendo diventare tutti responsabili», disse Sahir.
 

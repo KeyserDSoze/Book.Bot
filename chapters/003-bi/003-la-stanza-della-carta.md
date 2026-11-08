@@ -5,9 +5,9 @@ chapter: chapter:003-bi
 number: 3
 title: La stanza della carta
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
+  - character:maya-bennett
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -17,7 +17,7 @@ factions:
 
 Alle ventuno e otto, al quarto piano di Cyberdine, rimanevano accese soltanto le luci che si accendevano al passaggio.
 
-Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo. Il timbro le ricordava le lettere arrivate dopo che Tessa, sua sorella maggiore, era morta in un incidente stradale nove anni prima. Bruno le aveva conservate in una cartellina azzurra: ciascun ufficio aveva ricostruito una parte degli interventi, nessuno gli aveva dato la storia intera. Non c'era una colpa istituzionale dimostrata. Nerea lo sapeva, ma aveva ancora quella cartellina e a volte la rileggeva come se potesse cambiarne il contenuto.
+Maya Bennett ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo. Il timbro le ricordava le lettere arrivate dopo che Tessa, sua sorella maggiore, era morta in un incidente stradale nove anni prima. Daniel le aveva conservate in una cartellina azzurra: ciascun ufficio aveva ricostruito una parte degli interventi, nessuno gli aveva dato la storia intera. Non c'era una colpa istituzionale dimostrata. Maya lo sapeva, ma aveva ancora quella cartellina e a volte la rileggeva come se potesse cambiarne il contenuto.
 
 Girò lungo il corridoio della sala copie. Il foglio bianco con la scritta sul capolavoro era ancora alla macchinetta del caffè. La cosa le diede una voglia improvvisa e del tutto irragionevole di strapparlo.
 
@@ -25,7 +25,7 @@ Non lo fece.
 
 Raggiunse il locale di preparazione documentale, una stanza stretta che di giorno nessuno ricordava e di sera profumava di carta calda. La porta era accostata. Dentro, sotto una fila di neon, B-17 stava separando fascicoli destinati all'archivio: sollevava il primo da una pila, verificava il codice, appoggiava il foglio nel contenitore corrispondente. Il movimento non era veloce. A ogni presa il robot sistemava il pollice metallico sotto il bordo, come un impiegato che avesse imparato da poco a non fidarsi delle pagine sottili.
 
-Nerea rimase sulla soglia.
+Maya rimase sulla soglia.
 
 Nella tasca del cappotto aveva la vecchia chiave di ottone. La fece ruotare nell'anello, poi la lasciò cadere contro la fodera. Si sentì un piccolo colpo. Il robot continuò il lavoro.
 
@@ -33,7 +33,7 @@ Nella tasca del cappotto aveva la vecchia chiave di ottone. La fece ruotare nell
 
 B-17 terminò il movimento in corso e girò la testa.
 
-«Buonasera, Nerea.»
+«Buonasera, Maya.»
 
 «Già. Buonasera.»
 
@@ -47,9 +47,9 @@ Non entrò. Tolse la mano dalla tasca e la infilò di nuovo. Si accorse di aver 
 
 Il robot rimase rivolto verso di lei.
 
-Nerea si mosse finalmente. Fece due passi, poi tornò indietro per accostare la porta. Ne lasciò una fessura aperta. Non voleva che qualcuno scambiasse quella conversazione per un segreto, benché fosse esattamente ciò che stava per diventare.
+Maya si mosse finalmente. Fece due passi, poi tornò indietro per accostare la porta. Ne lasciò una fessura aperta. Non voleva che qualcuno scambiasse quella conversazione per un segreto, benché fosse esattamente ciò che stava per diventare.
 
-La stanza offriva una sedia di plastica e un banco con un bordo consumato. Nerea trascinò la sedia verso di sé, ma non si sedette. La spostò di nuovo contro la parete, quindi appoggiò la borsa sul sedile.
+La stanza offriva una sedia di plastica e un banco con un bordo consumato. Maya trascinò la sedia verso di sé, ma non si sedette. La spostò di nuovo contro la parete, quindi appoggiò la borsa sul sedile.
 
 B-17 riprese un fascicolo.
 
@@ -65,7 +65,7 @@ Il robot arrestò la mano a pochi centimetri dalla pila. Posò il fascicolo sul 
 
 «Va bene.»
 
-Nerea guardò il fascicolo appoggiato sul banco. Il robot non riprese a prenderne un altro.
+Maya guardò il fascicolo appoggiato sul banco. Il robot non riprese a prenderne un altro.
 
 «Non volevo interromperti.»
 
@@ -75,15 +75,15 @@ Nerea guardò il fascicolo appoggiato sul banco. Il robot non riprese a prendern
 
 «Di cosa hai bisogno?»
 
-Nerea aprì la bocca. Era convinta di avere una risposta pronta, perché ci aveva pensato in macchina, nell'ascensore, camminando tra i corridoi. Invece disse:
+Maya aprì la bocca. Era convinta di avere una risposta pronta, perché ci aveva pensato in macchina, nell'ascensore, camminando tra i corridoi. Invece disse:
 
 «Non lo so.»
 
-B-17 non cercò di riempire subito il silenzio. Nerea vide soltanto il piccolo indicatore sul suo avambraccio cambiare intensità. Nessun motore girò, nessun foglio fu spostato.
+B-17 non cercò di riempire subito il silenzio. Maya vide soltanto il piccolo indicatore sul suo avambraccio cambiare intensità. Nessun motore girò, nessun foglio fu spostato.
 
 «Posso aspettare», disse il robot.
 
-Nerea si mise a ridere. Fu un rumore breve, secco, che non aveva niente a che fare con l'allegria.
+Maya si mise a ridere. Fu un rumore breve, secco, che non aveva niente a che fare con l'allegria.
 
 «No, guarda. Nel mio caso non va bene per niente.»
 
@@ -103,19 +103,19 @@ B-17 arretrò di mezzo passo, lasciandole libero il passaggio verso la porta.
 
 «Vuoi raccontarmi che cosa sta succedendo?»
 
-Nerea fissò il bordo del banco. Era stato riparato con una striscia di nastro grigio. La striscia aveva una bolla minuscola all'estremità. Lei cominciò a premervi sopra con un'unghia.
+Maya fissò il bordo del banco. Era stato riparato con una striscia di nastro grigio. La striscia aveva una bolla minuscola all'estremità. Lei cominciò a premervi sopra con un'unghia.
 
 «Ti è mai capitato di dover dimostrare che un posto esiste?»
 
 «Non nel modo in cui può capitare a una persona. Posso aiutarti a chiarire la domanda.»
 
-«C'è una valle», disse Nerea. «La chiamano Valle Corta. Su una mappa recente è una macchia verde senza niente. Se ci passi, invece, trovi quattordici case abitate, una strada dissestata, un laboratorio dove riparano motori agricoli e un cane che rincorre tutte le automobili tranne quella del postino. Il postino porta sempre dei biscotti. Non so perché te lo sto dicendo.»
+«C'è una valle», disse Maya. «La chiamano Valle Corta. Su una mappa recente è una macchia verde senza niente. Se ci passi, invece, trovi quattordici case abitate, una strada dissestata, un laboratorio dove riparano motori agricoli e un cane che rincorre tutte le automobili tranne quella del postino. Il postino porta sempre dei biscotti. Non so perché te lo sto dicendo.»
 
 «Forse perché ci sei stata.»
 
 «Ci vado da quando sono piccola.»
 
-La chiave di ottone comparve di nuovo nella sua mano. Nerea non ricordava di averla tirata fuori. La posò sul banco e la spinse avanti con un dito. Si fermò vicino a una pila di cartelline.
+La chiave di ottone comparve di nuovo nella sua mano. Maya non ricordava di averla tirata fuori. La posò sul banco e la spinse avanti con un dito. Si fermò vicino a una pila di cartelline.
 
 «Ventidue anni fa una frana fece evacuare la valle. Quelli che vivevano lì furono spostati, almeno per qualche tempo. Dopo tornarono. Alcuni non erano mai andati davvero via. Le case sono in regola, le imposte arrivano, la strada viene riparata quando si rompe. Ma il vecchio sistema che gestisce gli allarmi territoriali non è mai stato aggiornato. In quella banca dati la valle risulta senza abitanti.»
 
@@ -133,7 +133,7 @@ Le venne da sorridere. Era la frase più vera che avesse pronunciato da settiman
 
 «È ancora controllata regolarmente?»
 
-Nerea strinse le labbra. Un angolo della chiave le lasciò un segno rosso sul palmo.
+Maya strinse le labbra. Un angolo della chiave le lasciò un segno rosso sul palmo.
 
 «Ecco il problema.»
 
@@ -163,15 +163,15 @@ B-17 restò fermo, con il braccio piegato accanto al corpo.
 
 «Le persone che abitano lì sanno della rimozione?»
 
-«Alcune. La signora Terenzi mi ha telefonato perché ha visto il furgone della ditta fare un sopralluogo. Mi ha chiesto se doveva portare fuori dalla casetta i secchi della vernice che ci tiene. Ti rendi conto? Sta per perdere l'unico allarme che sente dalla sua cucina e si preoccupa dei secchi.»
+«Alcune. La signora Harper mi ha telefonato perché ha visto il furgone della ditta fare un sopralluogo. Mi ha chiesto se doveva portare fuori dalla casetta i secchi della vernice che ci tiene. Ti rendi conto? Sta per perdere l'unico allarme che sente dalla sua cucina e si preoccupa dei secchi.»
 
-Nerea si passò una mano sul viso e lasciò le dita ferme sugli occhi.
+Maya si passò una mano sul viso e lasciò le dita ferme sugli occhi.
 
 «Non sono una persona che fa queste cose. Di solito sono quella che ricorda a tutti di non usare credenziali altrui. Ho costruito procedure per impedire esattamente quello che ho fatto io.»
 
 «Hai cercato di mantenere un presidio attivo», disse B-17. «E hai usato una procedura che non ti autorizzava a farlo.»
 
-Nerea abbassò la mano.
+Maya abbassò la mano.
 
 «Grazie. Hai appena riassunto la mia vita in due righe.»
 
@@ -187,7 +187,7 @@ Si alzò e prese la borsa. La rimise giù. Camminò fino alla porta, vi appoggi�
 
 «Posso farti una domanda?»
 
-Nerea annuì.
+Maya annuì.
 
 «Che cosa deve succedere entro domani mattina perché tu possa dire di aver evitato il danno più urgente?»
 
@@ -195,7 +195,7 @@ Nerea annuì.
 
 «È necessario risolvere anche la questione del codice entro la stessa ora?»
 
-Nerea rimase in silenzio.
+Maya rimase in silenzio.
 
 «No», disse infine. «Credo di no.»
 
@@ -205,7 +205,7 @@ Nerea rimase in silenzio.
 
 «Rimangono. Ma non credo che una risposta su quelle possa arrivare prima delle sette.»
 
-Nerea guardò l'ora sul telefono. Aveva lasciato squillare Bruno due volte quel pomeriggio. Adesso non era certa di riuscire a chiamarlo.
+Maya guardò l'ora sul telefono. Aveva lasciato squillare Daniel due volte quel pomeriggio. Adesso non era certa di riuscire a chiamarlo.
 
 «E allora che faccio? Scrivo una mail? Ne ho già scritte quattro.»
 
@@ -219,13 +219,13 @@ B-17 attese.
 
 «Forse perché non sono quello che vuoi ottenere.»
 
-Nerea tornò a sedersi. Era stanca in un modo che il sonno non avrebbe sistemato.
+Maya tornò a sedersi. Era stanca in un modo che il sonno non avrebbe sistemato.
 
 «Tu che cosa scriveresti?»
 
 «Non posso decidere per te. Ma possiamo partire dall'ordine che hai ricevuto. È scritto chi può sospendere l'intervento?»
 
-Nerea aprì la busta sul telefono. Dovette ingrandire la seconda pagina, quella che aveva saltato ogni volta perché conteneva soltanto recapiti.
+Maya aprì la busta sul telefono. Dovette ingrandire la seconda pagina, quella che aveva saltato ogni volta perché conteneva soltanto recapiti.
 
 «Qui c'è un numero di reperibilità. È diverso dal centralino che ho chiamato.»
 
@@ -245,7 +245,7 @@ Nerea aprì la busta sul telefono. Dovette ingrandire la seconda pagina, quella 
 
 «Allora non scrivere che non arriva. Chiedi che lo verifichino prima di togliere quello che esiste.»
 
-Nerea spostò la chiave sul banco. «Questa frase riesco a scriverla.»
+Maya spostò la chiave sul banco. «Questa frase riesco a scriverla.»
 
 «Nell'oggetto della mail metterei il numero dell'ordine e l'orario. Chiedi che non smontino la sirena prima di aver controllato la copertura. Per sapere se la richiesta è arrivata, il numero di protocollo può esserti utile.»
 
@@ -253,19 +253,19 @@ Nerea spostò la chiave sul banco. «Questa frase riesco a scriverla.»
 
 «Sì.»
 
-Nerea rise, questa volta senza amarezza. Per ore aveva cercato parole capaci di far vergognare qualcuno. Non aveva controllato il numero del destinatario.
+Maya rise, questa volta senza amarezza. Per ore aveva cercato parole capaci di far vergognare qualcuno. Non aveva controllato il numero del destinatario.
 
 «E il codice di mio padre?»
 
 «Quello non sparisce. Merita di essere affrontato con una consulenza appropriata e una ricostruzione fedele di ciò che è accaduto. Non basare la richiesta di sicurezza su un'identità che non ti appartiene.»
 
-Nerea si sentì arrossire. Sarebbe stata una risposta più comoda se il robot le avesse detto che, per una buona ragione, non aveva fatto niente di male. Non lo disse.
+Maya si sentì arrossire. Sarebbe stata una risposta più comoda se il robot le avesse detto che, per una buona ragione, non aveva fatto niente di male. Non lo disse.
 
 «Quindi devo confessare.»
 
 «Non usare più quelle credenziali», rispose Bi. «Per capire come correggere ciò che hai fatto, ti serve qualcuno che conosca le regole di quell'ente. Io non le conosco tutte.»
 
-Nerea annuì lentamente.
+Maya annuì lentamente.
 
 «Sei molto meno simpatico di quanto sperassi.»
 
@@ -285,9 +285,9 @@ B-17 non riprese il lavoro.
 
 «Lo so.»
 
-Nerea si tirò su le maniche. La seconda frase le riuscì meno bene della prima.
+Maya si tirò su le maniche. La seconda frase le riuscì meno bene della prima.
 
-Nerea abbassò lo sguardo sulle mani. Il segno della chiave era ancora visibile.
+Maya abbassò lo sguardo sulle mani. Il segno della chiave era ancora visibile.
 
 «E se non mi ascoltano?»
 
@@ -297,7 +297,7 @@ Era, pensò lei, una risposta assai migliore di *andrà tutto bene*.
 
 «Però almeno avranno ricevuto la richiesta», continuò il robot. «E tu saprai a chi è stata rivolta. Se non arriva una risposta, avrai un punto preciso da cui chiedere il passo successivo.»
 
-Nerea rimase immobile.
+Maya rimase immobile.
 
 Poi infilò la mano in borsa, prese il telefono e aprì una nuova mail. Questa volta cominciò dal titolo dell'intervento, non dal nome del funzionario che voleva insultare.
 
@@ -309,7 +309,7 @@ Scrisse le prime due frasi. Le cancellò. Ne scrisse un'altra.
 
 «Se vuoi puoi leggerla ad alta voce. Posso dirti se il testo chiede qualcosa di specifico.»
 
-Nerea lo fece, impacciata dalle parole più formali. Alla terza riga sbagliò a pronunciare *copertura alternativa*. Si fermò e si passò il pollice su una macchia inesistente del telefono.
+Maya lo fece, impacciata dalle parole più formali. Alla terza riga sbagliò a pronunciare *copertura alternativa*. Si fermò e si passò il pollice su una macchia inesistente del telefono.
 
 B-17 aspettò.
 
@@ -319,11 +319,11 @@ Non sapeva perché lo avesse chiesto. Se avesse fatto la stessa domanda a una pe
 
 «Ti sto seguendo», rispose il robot. «Hai detto che il postino porta i biscotti al cane. Non è un dettaglio che serve alla mail.»
 
-«No», disse Nerea. «Non serve.»
+«No», disse Maya. «Non serve.»
 
 «Ma è uno dei modi in cui mi hai fatto capire che il posto esiste.»
 
-Nerea sentì salire alle guance un calore che non si aspettava. Lo combatté abbassando la testa e cercando ancora un errore nella mail.
+Maya sentì salire alle guance un calore che non si aspettava. Lo combatté abbassando la testa e cercando ancora un errore nella mail.
 
 «Non sono venuta per una lettera», disse.
 
@@ -341,7 +341,7 @@ Appoggiò la chiave accanto al telefono. Il metallo tintinnò sul banco.
 
 «Per te sembra averne.»
 
-Nerea inspirò. Non trattenne il fiato, come aveva fatto per tutto il pomeriggio; lo lasciò uscire.
+Maya inspirò. Non trattenne il fiato, come aveva fatto per tutto il pomeriggio; lo lasciò uscire.
 
 Rilesse la mail. Tolse due aggettivi, aggiunse l'orario delle sette, elencò le prove che poteva inviare e chiese espressamente un sopralluogo prima di qualsiasi rimozione. Non allegò nomi di residenti né documenti riservati.
 
@@ -373,7 +373,7 @@ Si alzò, infilò il cappotto, prese la borsa. Era pronta a uscire quando notò 
 
 «Posso riferire che ho interrotto un'attività non urgente per una richiesta di assistenza.»
 
-Nerea rimase con la mano sulla maniglia.
+Maya rimase con la mano sulla maniglia.
 
 «Non era una richiesta di assistenza. Non all'inizio.»
 
@@ -385,13 +385,13 @@ Lei aprì la porta. Nel corridoio si accese la prima fila di luci.
 
 «Buonanotte, Bi.»
 
-«Buonanotte, Nerea.»
+«Buonanotte, Maya.»
 
-Dopo qualche passo Nerea si accorse di avere il pugno chiuso. Lo aprì: dentro non c'era niente. La chiave era rimasta sul banco.
+Dopo qualche passo Maya si accorse di avere il pugno chiuso. Lo aprì: dentro non c'era niente. La chiave era rimasta sul banco.
 
 Tornò sui suoi passi, ma quando arrivò alla porta la trovò ancora accostata. B-17 non aveva ripreso a classificare. La chiave giaceva in piena vista, lontana dal bordo, come se qualcuno l'avesse spostata lì per evitare che cadesse.
 
-Nerea la raccolse.
+Maya la raccolse.
 
 «Sapevo che dimenticavo qualcosa.»
 
@@ -403,7 +403,7 @@ Questa volta il robot inclinò appena la testa.
 
 «È importante?»
 
-Nerea fece scorrere il pollice sulla parte consumata dell'ottone.
+Maya fece scorrere il pollice sulla parte consumata dell'ottone.
 
 «Apre la casetta della sirena.»
 
@@ -411,6 +411,6 @@ B-17 guardò l'oggetto senza toccarlo.
 
 «Allora tienila con te.»
 
-Nerea se la mise in tasca e uscì.
+Maya se la mise in tasca e uscì.
 
 La porta si richiuse senza rumore. Per la prima volta da quando aveva ricevuto l'ordine di dismissione, non provò a decidere tutto il resto della propria vita mentre camminava verso l'ascensore. Doveva soltanto arrivare a domani con una richiesta pronta e il numero giusto da chiamare.
