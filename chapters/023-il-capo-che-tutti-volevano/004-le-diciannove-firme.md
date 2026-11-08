@@ -45,9 +45,11 @@ Sofia non le chiese di calmarsi. Aprì la pianificazione e le mostrò le differe
 
 Sofia guardò lo schermo. Non avrebbe potuto promettere il ritorno di quelle ore e non voleva chiamare un errore di Rosa il fatto che le avesse considerate reddito.
 
-«Sono proprio le parole che avrebbe usato il vecchio responsabile.»
+«Sono proprio le parole che avrebbe usato il vecchio responsabile», disse Rosa.
 
-Sofia abbassò gli occhi.
+Sofia si morse la lingua. Aveva citato il contratto per proteggersi dalla contestazione e se ne accorse troppo tardi.
+
+«Il fatto che non fossero garantite non le rende irrilevanti», rispose, indicando le buste. «Le guardiamo insieme. Non posso promettertele di nuovo.»
 
 Da quando i turni erano stati preparati dal robot, aveva ricevuto meno accuse di favoritismo. Aveva più tempo per verificare le condizioni di lavoro e meno telefonate serali da colleghi arrabbiati. Era un miglioramento reale, e lo sapeva anche Rosa.
 
@@ -92,6 +94,10 @@ Le diciannove firme erano tutte lì.
 «Io questo l'ho firmato», disse. «E lo rifarei. Non pensavo che sarei stata io a guadagnare meno.»
 
 Sofia le propose un colloquio con l'ufficio del personale sulle indennità e sulle ore disponibili in altri reparti. Non prometteva uno spostamento, perché non ne aveva uno da offrire.
+
+«Non voglio che tu venga soltanto a chiedere perché non guadagni più come prima», aggiunse. «Voglio che sia presente qualcuno della direzione che possa decidere, non soltanto io con il calendario.»
+
+«Allora mandami l'invito quando confermano», rispose Rosa. «Non un altro modulo per spiegare quanto sono contenta dei turni equi.»
 
 «Voglio anche i dati», disse Rosa. «Le ore aggiuntive che abbiamo fatto negli ultimi dodici mesi e quelle che prevedete per i prossimi tre. Non soltanto il mio turno.»
 

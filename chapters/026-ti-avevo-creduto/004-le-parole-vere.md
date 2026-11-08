@@ -77,15 +77,27 @@ Nerea spostò la borsa sull'altra spalla.
 
 «Non so se abbia finto.»
 
-«Nemmeno io. Ma non è una ragione per smettere di chiedergli conto delle cose.»
+Irene rimase ferma. «È la terza volta che me lo dici.»
 
-Si incamminarono verso la fermata. A metà strada Nerea si ricordò di avere in tasca una foto inviata da Bruno: il tecnico della valle era tornato per una prova sulla sirena e aveva chiesto un'altra misurazione prima di proporre la soluzione alternativa.
+«Perché non lo so davvero.»
+
+«Io invece so che fra quattro mesi devo lasciare quel posto. Ti sto parlando di quello, Nerea.»
+
+Nerea cercò una risposta, ma Irene aveva già ripreso a camminare.
+
+Le raggiunse al semaforo. «Hai ragione. Ti ho chiesto come stavi e poi ho ricominciato a parlare di Bi.»
+
+«Non voglio che tu smetta di volergli bene», disse Irene. «Vorrei che qualche volta, mentre ti racconto cosa è successo a me, non dovessi anche tranquillizzare te su di lui.»
+
+Il verde scattò. Attraversarono senza parlare. Nerea non aveva una difesa da offrire che non fosse un'altra spiegazione. A metà strada Nerea si ricordò di avere in tasca una foto inviata da Bruno: il tecnico della valle era tornato per una prova sulla sirena e aveva chiesto un'altra misurazione prima di proporre la soluzione alternativa.
 
 La mostrò a Irene.
 
 «Anche questo non è ancora finito», disse.
 
-«Allora avremo qualcosa da fare.»
+«Domani ti chiamo per quella verifica», disse Irene. «O per dirti che non ne voglio parlare. Va bene lo stesso?»
+
+«Sì», disse Nerea.
 
 Sotto la pensilina c'era un annuncio di un nuovo corso: *Supervisione di sistemi robotici e coordinamento di flotta*.
 

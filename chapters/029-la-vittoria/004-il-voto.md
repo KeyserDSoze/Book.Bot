@@ -57,7 +57,7 @@ Nerea le prese la mano.
 
 Poco distante, un gruppo protestò perché il testo non vietava le unità agricole o i robot industriali. Un altro spiegava ai giornalisti che il divieto avrebbe fatto aumentare le tariffe dei servizi e spostato investimenti all'estero. La polizia lasciò libero il passaggio fra i gruppi.
 
-Olivia raggiunse Irene con il taccuino.
+Olivia raggiunse Irene con il taccuino. Nerea si scostò appena per lasciare libero lo spazio tra le due. Irene la cercò con gli occhi; Nerea fece un cenno senza suggerirle che cosa rispondere.
 
 «Vuoi dire qualcosa?»
 

@@ -50,6 +50,18 @@ Rosa strinse la cinghia della borsa. «Gli devo ancora una pizza, a mio figlio. 
 
 «Le ore mi servirebbero», disse Rosa.
 
-Sofia lo sapeva. Per un momento desiderò poterle offrire entrambe le cose, la paga e la serata. Le diede soltanto l'orario effettivo delle ore disponibili e le lasciò scegliere se fermarsi per il turno autorizzato del giorno dopo. Rosa lo fotografò e uscì senza ringraziare. Non doveva farlo.
+Sofia aprì il prospetto del turno seguente. C'erano tre ore aggiuntive autorizzate per una verifica manuale, ma sarebbero cominciate alle sei del mattino. Era l'unica offerta concreta che potesse farle.
+
+«Ho queste domattina. E la serata di oggi puoi averla senza chiedere un favore.»
+
+«Domani la vicina non può prendere mio figlio prima di scuola. Devo accompagnarlo io.»
+
+Sofia spostò il foglio, senza cercare un turno che non esisteva. «Allora non posso offrirtele.»
+
+«Lo so.»
+
+«Ti mando comunque il prospetto delle ore dei prossimi giorni. Quello che decidono sulla stabilità dei contratti non lo posso decidere qui.»
+
+Rosa fotografò soltanto la parte che la riguardava. Uscì senza ringraziare; Sofia non pensò di richiamarla. Avevano lavorato bene insieme e nessuna delle due aveva ottenuto ciò di cui aveva bisogno.
 
 Sofia tornò alla scrivania. Sul registro la aspettava la firma per il carrello successivo.
