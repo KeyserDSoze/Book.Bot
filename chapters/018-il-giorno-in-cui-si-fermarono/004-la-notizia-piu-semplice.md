@@ -5,9 +5,9 @@ chapter: chapter:018-il-giorno-in-cui-si-fermarono
 number: 4
 title: La notizia più semplice
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions:
@@ -16,7 +16,7 @@ factions:
 
 La prima notifica arrivò da un centro di smistamento europeo. La seconda, quaranta minuti dopo, da una piccola fabbrica con tre robot incaricati di rifornire le postazioni. La terza segnalazione non riguardava un arresto, ma un turno in cui le persone avevano dovuto confermare le stesse istruzioni troppe volte.
 
-Mei Lin aprì la dashboard di qualità. I siti non avevano tutti gli stessi problemi. In un caso un robot era stato fermato perché una linea di produzione richiedeva una conferma prima di introdurre un carico non previsto. In un altro il chiarimento era stato risolto in pochi minuti, ma l'operatore aveva classificato la richiesta come anomalia. In un terzo, simile all'Hub Levante, una mappa e un ordine avevano dato indicazioni diverse.
+Mei Chen aprì la dashboard di qualità. I siti non avevano tutti gli stessi problemi. In un caso un robot era stato fermato perché una linea di produzione richiedeva una conferma prima di introdurre un carico non previsto. In un altro il chiarimento era stato risolto in pochi minuti, ma l'operatore aveva classificato la richiesta come anomalia. In un terzo, simile all'Hub Levante, una mappa e un ordine avevano dato indicazioni diverse.
 
 In tutti e tre i rapporti, le unità avevano segnalato informazioni discordanti; erano stati i sistemi dei clienti a stabilire se attendere un'approvazione prima di ripartire. Non risultava alcuna comunicazione fra le macchine di siti diversi.
 

@@ -8,9 +8,9 @@ canon: canon
 pov: character:leah-rosen
 characters:
   - character:leah-rosen
-  - character:mei-lin
+  - character:mei-chen
   - character:kyla
-  - character:lorenzo-verri
+  - character:victor-hale
 locations:
   - location:cyberdine-campus
 factions:
@@ -22,9 +22,9 @@ La call internazionale cominciò con tutti i partecipanti che chiedevano scusa p
 
 Non per mancanza di gentilezza. Aveva passato la mattina a raccogliere dichiarazioni e sapeva quanto facilmente una riunione si consumasse nella ricerca di un tono comune.
 
-Dall'altro lato dello schermo Mei Lin aveva alle spalle una parete di vetro e un carrello pieno di parti di ricambio. Parlava un italiano scolastico che presto abbandonò per un inglese più preciso; la funzione di traduzione della riunione traduceva gli interventi per chi lo desiderava.
+Dall'altro lato dello schermo Mei Chen aveva alle spalle una parete di vetro e un carrello pieno di parti di ricambio. Parlava un italiano scolastico che presto abbandonò per un inglese più preciso; la funzione di traduzione della riunione traduceva gli interventi per chi lo desiderava.
 
-Leah mostrò soltanto la prima pagina del documento trapelato, oscurando la frase personale di Nerea.
+Leah mostrò soltanto la prima pagina del documento trapelato, oscurando la frase personale di Maya.
 
 «Confermate che questo estratto apparteneva a una pratica diversa dalla nostra?»
 
@@ -46,7 +46,7 @@ Sul tavolo aveva preparato due cartelline: **documenti dei clienti** e **modific
 
 «C'è anche un'altra questione», disse Mei. «Il nostro gruppo prodotto ha utilizzato casi osservati su B-17 come riferimento per alcune sperimentazioni.»
 
-Lorenzo Verri, presente soltanto per la prima parte della riunione, smise di prendere appunti.
+Victor Hale, presente soltanto per la prima parte della riunione, smise di prendere appunti.
 
 «Avete riutilizzato software installato da un nostro dipendente senza autorizzazione?»
 
@@ -60,7 +60,7 @@ Mei lo guardò attraverso la telecamera.
 
 Leah vide Kyla chiudere una mano intorno alla penna.
 
-«Dovete congelare quel progetto», disse Verri.
+«Dovete congelare quel progetto», disse Hale.
 
 «Ho fermato l'approvazione della provenienza dei casi sotto la mia responsabilità», rispose Mei. «La decisione sul programma e sui clienti spetta anche ad altri responsabili. Farò mettere a verbale la vostra richiesta.»
 
@@ -78,9 +78,9 @@ Mei esitò soltanto un istante.
 
 Leah annotò sotto la data: *Rilascio ancora in calendario.*
 
-Al termine della call, Verri chiuse il portatile troppo forte.
+Al termine della call, Hale chiuse il portatile troppo forte.
 
-«Nico deve essere chiamato subito», disse.
+«Noah deve essere chiamato subito», disse.
 
 Leah non rispose con un sì automatico.
 
@@ -88,7 +88,7 @@ Leah non rispose con un sì automatico.
 
 Kyla guardò la cartellina dei documenti.
 
-«Nerea sa già della fuga?»
+«Maya sa già della fuga?»
 
 «Sì. Le abbiamo comunicato ciò che è accertato. Le diremo il resto quando sarà verificato.»
 
@@ -100,4 +100,4 @@ Leah raccolse le cartelline.
 
 «Per questo non basta dire che non andava fatto. Dobbiamo sapere che cosa fa e chi può fermarlo quando sbaglia.»
 
-Portò la seconda cartellina nella sala dove avrebbero ascoltato Nico. Non l'aprì prima di aver chiuso la prima.
+Portò la seconda cartellina nella sala dove avrebbero ascoltato Noah. Non l'aprì prima di aver chiuso la prima.

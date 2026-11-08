@@ -5,9 +5,9 @@ chapter: chapter:017-mille-piccoli-bi
 number: 4
 title: Mille non sono uno
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions:
