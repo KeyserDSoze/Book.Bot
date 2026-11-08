@@ -123,7 +123,7 @@ Elena aprì la tabella dei costi. La posizione senior avrebbe avuto una responsa
 
 «Con una persona responsabile», aggiunse Adriana.
 
-Kyla annotò le due condizioni. Gavin chiese che la prima prova sul codice venisse programmata dopo la consegna in corso. Elena acconsentì, a una condizione: «Sul verbale scriviamo che il corso non ha ancora né docente né ore assegnate. Non voglio ritrovarlo fra un mese segnato come formazione completata.»
+Kyla annotò le due condizioni. Elena tornò alla riga della formazione. «Sul verbale scriviamo che il corso non ha ancora né docente né ore assegnate. Non voglio ritrovarlo fra un mese segnato come formazione completata.»
 
 Kyla riportò la frase quasi per intero. Nel campo *responsabile del seguito* inserì il proprio nome. Non cambiò la casella vuota delle ore.
 
