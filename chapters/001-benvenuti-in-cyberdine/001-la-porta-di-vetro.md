@@ -10,7 +10,7 @@ characters:
   - character:kyla
   - character:visitors
   - character:anika-rao
-  - character:nico-valenti
+  - character:noah-carter
   - character:gavin-cole
   - character:b-17
 locations:
@@ -28,39 +28,39 @@ Una mezz'ora prima, Gavin Cole le aveva chiesto di non sottrarre due ingegneri a
 
 La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
-«Dove sono le vostre macchine?», chiese Sahir Venn.
+«Dove sono le vostre macchine?», chiese Elias Hart.
 
 «Le state già vedendo. Solo che la maggior parte non ha ruote.»
 
-Sahir si aggiustò il badge. Leïa Orren, al suo fianco, guardava qualcosa fuori dal vetro. Anika Rao, responsabile della delegazione tecnologica di Aruvhana, seguì con gli occhi il giardiniere che correggeva la traiettoria del robot. Annotò quel gesto, non l'erba tagliata.
+Elias si aggiustò il badge. Layla Stone, al suo fianco, guardava qualcosa fuori dal vetro. Anika Rao, responsabile della delegazione tecnologica di Aruvhana, seguì con gli occhi il giardiniere che correggeva la traiettoria del robot. Annotò quel gesto, non l'erba tagliata.
 
 Un robot camminava dietro un tagliaerba elettrico lungo la striscia verde che separava il vialetto dal parcheggio. Si fermò davanti a una piastrella sporgente, arretrò la macchina e la fece passare da un altro lato. La bordura rimase storta per una decina di centimetri. Un giardiniere indicò il punto con la mano; il robot tornò indietro.
 
-Leïa sorrise. «È questa la grande automazione?»
+Layla sorrise. «È questa la grande automazione?»
 
 «Quella è una delle piccole», rispose Kyla. «Unità B-17. Sta imparando le manutenzioni del giardino. I giardinieri hanno chiesto che i robot iniziassero da qui, dove un errore si vede subito e non ferma il lavoro di un cliente.»
 
-Sahir cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, quindi?»
+Elias cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, quindi?»
 
 «No. Arrivano da Lanter, in Cina. Cyberdine è una software house. Noi scriviamo ciò che permette ai sistemi dei nostri clienti di lavorare insieme: quelli nuovi, quelli che nessuno vuole più toccare e quelli che funzionano troppo bene per permettersi di sostituirli.»
 
-All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Nico Valenti, con una custodia di attrezzi e una felpa chiusa fino al collo.
+All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Noah Carter, con una custodia di attrezzi e una felpa chiusa fino al collo.
 
-Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Nico ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
+Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Noah ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
-L'addetto aveva in mano una cartellina da consegnare al piano superiore. Nico gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
+L'addetto aveva in mano una cartellina da consegnare al piano superiore. Noah gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
 
-«Questo è un vostro programmatore?», chiese Sahir.
+«Questo è un vostro programmatore?», chiese Elias.
 
 «Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»
 
-Nico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
+Noah sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
 
-«Non ti scusare con me», gli disse Nico. «Al massimo con la porta. È lei che non fa quello che promette.»
+«Non ti scusare con me», gli disse Noah. «Al massimo con la porta. È lei che non fa quello che promette.»
 
-L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Nico si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
+L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Noah si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
 
-Kyla sapeva che Nico era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
+Kyla sapeva che Noah era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
 
 Il telefono vibrò nella tasca della giacca.
 
@@ -72,7 +72,7 @@ Sotto c'era un messaggio di sua madre, rimasto senza risposta da due giorni: *Ho
 
 Hazel era sua sorella minore, morta cinque anni prima. Kyla provò una rabbia improvvisa per quel *tenga da parte*, come se esistesse un cassetto abbastanza grande per custodire tutte le cose che non sapevano dirsi. Sua madre non le aveva fatto nulla di male. Lasciò il telefono in tasca.
 
-«Da quanto tempo usate i robot?», chiese Leïa.
+«Da quanto tempo usate i robot?», chiese Layla.
 
 «Ventisei giorni nel campus. Gli agenti AI, invece, lavorano con noi da molto più tempo.»
 
@@ -80,7 +80,7 @@ Kyla li accompagnò davanti a una parete su cui scorrevano le attività del repa
 
 «Un tempo lo sviluppatore prendeva un ticket e scriveva il connettore riga per riga. Oggi può chiedere all'agente di predisporre una modifica. Ma deve ancora capire che cosa accadrà quando il codice incontrerà il programma del cliente.»
 
-Sahir guardò un riquadro verde.
+Elias guardò un riquadro verde.
 
 «Questo significa che l'agente aveva ragione?»
 
@@ -88,7 +88,7 @@ Sahir guardò un riquadro verde.
 
 Kyla preferiva quella risposta a qualsiasi promessa d'infallibilità. Era una frase che i tecnici avevano ripetuto abbastanza volte perché anche il Marketing imparasse a usarla senza alterarne il senso.
 
-«E i robot?», domandò Leïa. «Perché dare braccia a un sistema che può scrivere software?»
+«E i robot?», domandò Layla. «Perché dare braccia a un sistema che può scrivere software?»
 
 «Perché il mondo non è soltanto software.»
 

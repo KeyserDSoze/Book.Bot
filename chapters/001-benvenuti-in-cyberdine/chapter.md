@@ -13,11 +13,11 @@ Kyla riceve i rappresentanti del cliente Aruvhana nel campus della **software ho
 
 # Pressione e punto di vista
 
-Kyla vuole concludere una visita credibile e tornare in tempo alla propria vita privata (cinema con una amica). Ammira l'automazione, ne vede vantaggi autentici e non è ancora diventata una critica dei sistemi aziendali. Sahir chiede prove su responsabilità e occupazione; Leïa osserva gli oggetti e le persone. Nico compare soltanto come un bravo sviluppatore alle prese con una porta che non si apre, non come anticipazione visibile di un segreto.
+Kyla vuole concludere una visita credibile e tornare in tempo alla propria vita privata (cinema con una amica). Ammira l'automazione, ne vede vantaggi autentici e non è ancora diventata una critica dei sistemi aziendali. Elias chiede prove su responsabilità e occupazione; Layla osserva gli oggetti e le persone. Noah compare soltanto come un bravo sviluppatore alle prese con una porta che non si apre, non come anticipazione visibile di un segreto.
 
 # Scansione delle scene
 
-1. **La porta di vetro.** Cyberdine è esplicitamente software house; B-17 è un addetto al giardino, Nico testa il varco fisico, i clienti incontrano agenti di sviluppo già in uso.
+1. **La porta di vetro.** Cyberdine è esplicitamente software house; B-17 è un addetto al giardino, Noah testa il varco fisico, i clienti incontrano agenti di sviluppo già in uso.
 2. **Le cose che non parlavano.** Terminali legacy, agenti AI che producono patch e test; una persona trova il caso che non era stato chiesto all'agente. B-17 passa con gli attrezzi del giardino, senza intervenire nel coding.
 3. **La staffetta.** Batterie fisiche, copertura operativa e limiti energetici; miglioramenti reali dell'orario e domanda sui percorsi professionali che si riducono.
 4. **La misura del tempo.** KPI veri per il programma più ampio, non attribuiti ai soli robot; proposta su alternative scartate formulata da un agente software, in attesa di prova e approvazione umana.
@@ -29,11 +29,11 @@ Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdin
 
 ## Raccordo della revisione sull'arco morale
 
-Nella scena 001 Nico lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Kyla e l'entusiasmo della visita.
+Nella scena 001 Noah lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Kyla e l'entusiasmo della visita.
 
 ## Revisione cast internazionale — 2026-11-08
 
-Anika Rao affianca Sahir Venn e Leïa Orren come referente tecnologica della delegazione Aruvhana. Osserva il giardiniere che corregge B-17 e contesta l'equivalenza fra risultato verde e assenza di problemi non cercati. Malik Okafor è il programmatore dietro il vetro che rivede il connettore legacy. Nessuno dei due conosce la futura modifica clandestina di B-17; Kyla resta unico POV del capitolo. L'ingresso dei due non cambia l'esito della visita né la richiesta finale di Sahir.
+Anika Rao affianca Elias Hart e Layla Stone come referente tecnologica della delegazione Aruvhana. Osserva il giardiniere che corregge B-17 e contesta l'equivalenza fra risultato verde e assenza di problemi non cercati. Malik Okafor è il programmatore dietro il vetro che rivede il connettore legacy. Nessuno dei due conosce la futura modifica clandestina di B-17; Kyla resta unico POV del capitolo. L'ingresso dei due non cambia l'esito della visita né la richiesta finale di Elias.
 
 
 ## Tredicesima review — continuità istituzionale e personaggi
