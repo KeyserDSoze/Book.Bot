@@ -33,3 +33,7 @@ Le schede canoniche rimangono in characters/. Un dettaglio grafico non menzionat
 tools/artwork.py genera cover.png e chapter-001.png ... chapter-035.png. tools/build_docx.py realizza il libro 6x9 pollici con copertina, indice, giustificazione, margini, testatine, pagine numerate e tavola a fine capitolo. tools/build.py produce Markdown, EPUB illustrato, DOCX impaginato e archivio ZIP delle 36 immagini. La release converte il nuovo DOCX in PDF.
 
 Controllo visivo obbligatorio: copertina, indice, apertura capitolo, tavola finale, ultimo paragrafo, caporali, accentate, numeri di pagina, assenza di testo tagliato, vedove/orfane e pagine bianche accidentali. Tutte le immagini devono essere coerenti con gli eventi del capitolo.
+
+## Reference visive ancora da fissare — cast internazionale 2026-11-08
+
+Le descrizioni e le origini in characters/malik-okafor.md, characters/anika-rao.md e characters/erik-solberg.md sono canoniche come profili narrativi; i volti non sono ancora approvati. Salvare future schede individuali con riferimenti stabili, rispettivamente in art/characters/malik-okafor.*, art/characters/anika-rao.*, art/characters/erik-solberg.*, scegliendo una sola estensione e aggiornando manifest e pipeline. Non usare ritratti stock di terzi come identità definitive né generare un volto differente per capitolo. L'origine culturale non determina stile, abiti, gesti o ruolo morale.
