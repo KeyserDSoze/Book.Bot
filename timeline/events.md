@@ -23,7 +23,7 @@ canon: canon
 
 Non assegnare date di calendario senza una decisione editoriale: il futuro prossimo deve restare plausibile.
 - **Sabato successivo al capitolo 4**: Nerea gioca una partita vera con Bi, perde 11–6, gli stringe la mano e chiede la rivincita.
-- **Capitolo 5, alcuni giorni dopo**: Adriana Lodi si prepara alla pensione; Irene Valli, collaboratrice a tempo determinato che la affianca, spera nella posizione senior. Un comitato sceglie di non ripristinare il ruolo: avalli a responsabili umani esistenti, preparazione delle pratiche affidata in parte a Bi. Il contratto attuale di Irene non viene revocato, ma la posizione attesa non verrà pubblicata.
+- **Capitolo 5, alcuni giorni dopo**: Adriana Lodi si prepara alla pensione; Irene Valli, collaboratrice a tempo determinato che la affianca, spera nella posizione senior. Un comitato sceglie di non ripristinare il ruolo: avalli a responsabili umani esistenti, preparazione delle pratiche affidata in parte a Bi. Kyla dà precedenza alla prova sul sorgente richiesta da Aruvhana rispetto alla formazione sulle librerie storiche; il corso viene rinviato senza docente e ore assegnate, benché Kyla accetti il compito di seguirne l'organizzazione. Il contratto attuale di Irene non viene revocato, ma la posizione attesa non verrà pubblicata.
 - **Stesso giorno, capitolo 5**: la notizia circola alla macchinetta del caffè. Dario accusa la robotizzazione di portare via anche posti qualificati, Mila, Paolo e Nerea reagiscono in modi diversi. Irene affronta il fatto che l'ufficio di Adriana non avrà una nuova targhetta.
 
 
