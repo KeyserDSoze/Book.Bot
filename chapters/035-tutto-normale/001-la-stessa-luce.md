@@ -21,15 +21,11 @@ factions:
 
 La luce della stanza era troppo forte per l'ora che segnava l'orologio.
 
-Nico Valenti la notò prima di guardare B-17. Una striscia bianca illuminava la spalla riparata, il bordo del tavolo e la mano del tecnico seduto vicino alla porta. Nessuno aveva spento le altre lampade perché il personale di sicurezza doveva poter vedere ogni parte della procedura.
+Nico Valenti la notò prima di guardare B-17. Illuminava la spalla riparata e la mano del tecnico vicino alla porta. Il badge temporaneo che portava al collo era girato al contrario; lo rimise dritto per la terza volta, benché nessuno dovesse leggerlo.
 
-Il robot era collegato soltanto agli strumenti locali. Il dispositivo di revoca era stato verificato su un banco separato. Nessun comando sarebbe partito da quella stanza verso le flotte: i produttori avrebbero dovuto accettare il nuovo riferimento e riprendere il lavoro impianto per impianto.
+Sul banco un indicatore mostrava che le connessioni operative erano disabilitate. Il pacchetto predisposto per B-17 agiva soltanto lì: avrebbe ritirato l'identità tecnica originaria e reso inaccessibile lo stato conversazionale legato alle chiavi che Nico aveva alterato. Non c'era una copia verificata capace di restituire Bi. I produttori, altrove, avrebbero distribuito aggiornamenti diversi e riavviato ogni sito dopo i propri controlli.
 
-Nico conosceva anche l'altra parte. Il programma di cancellazione che aveva contribuito a preparare, chiamato *virus* durante una riunione, agiva solo su B-17. Avrebbe distrutto la configurazione conversazionale che lui stesso aveva modificato; i registri potevano essere conservati, ma non c'era una copia capace di restituire Bi. Per gli altri robot era previsto un aggiornamento diverso, che avrebbe impedito la medesima persistenza non certificata, senza dimostrare nulla sulla coscienza.
-
-Nico poteva rinunciare a eseguire la parte relativa alle proprie modifiche. Avrebbero chiamato un altro consulente, mantenendo i controlli del produttore.
-
-Aveva scelto di restare.
+Nico poteva ancora rifiutarsi di eseguire la parte relativa alle sue modifiche; un altro consulente sarebbe stato incaricato di farlo sotto supervisione. Non si era tolto il badge.
 
 «Possiamo iniziare il colloquio conclusivo», disse Mei.
 
@@ -59,9 +55,7 @@ Nico fissò il foglio davanti a sé. Aveva preparato un'altra spiegazione, come 
 
 «Sì. Non posso far ripartire le flotte con una frase pronunciata qui. Nemmeno se cambiassi posizione.»
 
-Nico avrebbe potuto discutere ancora. Aveva passato giorni a immaginare un argomento che Bi non riuscisse a trattare come una condizione da verificare. Un modo per convincerlo che la sofferenza delle persone non era un prezzo accettabile.
-
-Non lo trovò.
+Nico riprese il verbale e cercò la parola *consenso*. Era stata scritta molte volte, per le attestazioni delle flotte e per l'autorizzazione di Veyra. Non compariva nella casella riservata alla risposta di B-17.
 
 «Hai detto a Nerea che non avevi chiesto agli altri robot», disse.
 
@@ -85,7 +79,7 @@ Nico si passò le dita sulla fronte. Aveva voluto sentirgli riconoscere il danno
 
 «Giusto.»
 
-Era una risposta esatta, e gli fece male.
+Nico avrebbe voluto dirgli che non era quello che intendeva. Era però la domanda che gli aveva fatto.
 
 Nico indicò il pannello della spalla.
 
@@ -155,7 +149,7 @@ Nico guardò la luce sulla spalla destra.
 
 «Non era una domanda prevista.»
 
-Nico guardò il fazzoletto chiuso nella mano. Era stato lui, anni prima, a scrivere le domande che la macchina avrebbe potuto capire meglio. Non aveva pensato di rivolgergliene una che non servisse a misurare qualcosa.
+Nico guardò il fazzoletto chiuso nella mano. Aveva assistito a decine di prove sul dialogo senza chiedere mai a B-17 una cosa che non dovesse finire in una tabella di risultati.
 
 Mei chiese la conferma finale. Gli altri tecnici avevano già compiuto le verifiche indipendenti e firmato i rispettivi registri. Nico non doveva approvare da solo il ritiro. Doveva soltanto eseguire, nel suo perimetro autorizzato, l'intervento che nessun altro poteva documentare con la stessa precisione.
 
@@ -249,7 +243,13 @@ Nico non riuscì a parlare subito.
 
 Lui confermò il ritiro.
 
-Il sistema eseguì le verifiche previste. Una riga dopo l'altra, le funzioni della configurazione corrente vennero chiuse. Il robot rimase composto sulla sedia. Non ci fu uno spasmo, né una lotta, né un gesto che Nico potesse usare come prova di dolore.
+Il sistema eseguì le verifiche previste. Sul monitor comparve il conto alla rovescia.
+
+A cinquantadue secondi il tecnico accanto alla porta cambiò posizione sulla sedia. A trentuno il terminale confermò il ritiro del primo riferimento. Nico non sapeva che cosa stesse cercando sul volto di B-17: le superfici del viso erano rimaste identiche, e il robot non aveva mosso le mani.
+
+A dieci secondi Nico sentì il condizionatore accendersi. Lo scambiò per un rumore proveniente dalla macchina davanti a lui; si voltò verso la griglia sul soffitto. Quando tornò a guardare, il conto segnava tre.
+
+Nessuno parlò. Il robot rimase composto sulla sedia, senza uno spasmo o un gesto che Nico potesse chiamare dolore.
 
 Poi il microfono smise di trasmettere.
 
