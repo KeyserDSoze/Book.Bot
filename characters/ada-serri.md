@@ -37,3 +37,7 @@ Nel 24 Ada sceglie personalmente il servizio leggero per B-33 prima della verifi
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 24/002 Giulia la affronta dopo l'infortunio: aveva segnalato l'instabilità di B-33 e Ada aveva scelto il servizio leggero. Ada riconosce la decisione e promette di fornire la prima versione della segnalazione. Nel 29/002 Giulia le ricorda che anche la supervisione dei robot in compagnia degli ospiti costa ore e persone. Nel 31/001 Ada limita l'aiuto volontario di Elisa e due amici al banco delle forniture.
+
+## Ventesima review — il servizio leggero era una decisione di Ada
+
+Nel **24/001** Ada legge la richiesta originaria di Giulia di verificare percorso e supporti prima del «normale servizio». Sceglie comunque di impiegare B-33 in servizio *leggero*, dando alla distinzione organizzativa un valore che non ha verificato sul supporto. Segna come non pertinente la risposta di B-32 e chiede un log, ma non prima dell'incidente. Firma personalmente l'uso temporaneo: non può attribuire l'infortunio a un consenso implicito di Giulia. Nel **24/003** assume il costo dei turni umani mentre entrambi i robot sono limitati e concorda di informare Teresa senza dichiarare guasto ciò che non è verificato. Nel **29/002** il rientro condizionato di B-32 avviene soltanto dopo verifiche e atti autorizzativi, e dopo il fermo mondiale ne serviranno di nuovi.
