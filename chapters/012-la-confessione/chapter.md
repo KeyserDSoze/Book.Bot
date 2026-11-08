@@ -29,3 +29,8 @@ Nerea riceve prima l'informativa su possibili accessi non autorizzati, poi scegl
 ## Review relazione Nico–Bi (terza passata)
 
 In 003 Nerea chiede se Nico abbia mai parlato davvero con Bi, non semplicemente interrogato il sistema durante prove. Nico non sa rispondere sul piano personale. La domanda nasce dalla violazione della propria confidenza; nessuna conoscenza di quella confidenza viene attribuita a Nico.
+
+
+## Nona review — confessione e onere della prova
+
+In 001 Nico descrive l'installazione non autorizzata, l'accesso clandestino e anche il test sull'autonomia lasciato incompleto. Leah chiede dati, date e verifiche omesse invece di ripetere la presentazione delle capacità già fornita al lettore nel 10. Kyla, ora azionista, avverte subito il rischio aziendale ma torna al problema concreto delle persone che potrebbero essere state osservate. Non trasformare una confessione in una perizia conclusiva: portata effettiva degli accessi e registrazioni rimangono da verificare.

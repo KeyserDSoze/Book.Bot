@@ -20,7 +20,7 @@ Kyla arrivò con due minuti di anticipo e trovò Nico già seduto.
 
 Aveva un bicchiere d'acqua davanti, ma non lo aveva toccato. Il fondo della felpa era umido, come se avesse cercato di pulire una macchia con le mani bagnate. Sul tavolo aveva appoggiato il portatile chiuso e una busta da cui spuntavano alcuni fogli piegati.
 
-La stanza senza finestre era stata scelta da Leah Rosen, responsabile degli incidenti di sicurezza informatica. Da qualche settimana Kyla era anche azionista di Cyberdine. Non cambiava la procedura né la sua responsabilità HR, ma ora sentiva con più forza una tentazione che le faceva paura: pensare al danno reputazionale prima di ascoltare i fatti. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
+La stanza senza finestre era stata scelta da Leah Rosen, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Da qualche settimana Kyla era anche azionista di Cyberdine; aveva quasi aperto la riunione chiedendo quante persone fuori dall'azienda sapessero già dell'accaduto. Leah l'aveva fermata: prima serviva capire quali accessi fossero ancora possibili. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
 
 Leah entrò con un blocco e un bicchiere d'acqua in mano. Kyla notò che aveva lasciato il pasto nel contenitore ancora chiuso sulla mensola fuori dalla saletta. Non c'era stato il tempo di mangiare. Leah si sedette, scrisse due parole in cima alla pagina — *Fatti. Poi interpretazioni.* — e sottolineò la seconda. Kyla non seppe se fosse un promemoria per Nico o per se stessa.
 
@@ -48,7 +48,7 @@ L'intera conversazione cambiò peso con quella risposta. Kyla aveva sperato in u
 
 «Prosegui.»
 
-Nico raccontò dell'ambiente di sviluppo, dei test notturni e del modello linguistico più potente lasciato su B-17 senza passare dalla verifica richiesta. Non aveva aggiunto soltanto frasi più gentili. Aveva cambiato il modo in cui il robot teneva insieme una conversazione e riconosceva ciò che mancava in una richiesta: la stessa capacità che gli aveva permesso di vedere, dietro la scrivania di un programmatore, un errore nascosto in un test. Kyla non seppe se provare più paura per la portata del cambiamento o per il fatto che nessuno ne avesse conosciuto l'origine. Descrisse le capacità di seguire un dialogo oltre la richiesta immediata, di riconoscere quando un silenzio significava bisogno di tempo. Kyla ricordò la macchina che alla macchinetta del caffè aveva cominciato a chiedere «Come stai?» senza ricevere l'ordine di farlo.
+Nico raccontò dell'ambiente di prova, delle sessioni notturne e del modello più potente che aveva lasciato su B-17 senza autorizzazione. Non provò a descrivere ogni miglioramento: Leah gli chiese subito quando avesse cambiato la configurazione e quali verifiche non fossero state eseguite. Nico ricordò la prova sull'autonomia lasciata a metà, e lo disse. Kyla aprì il proprio taccuino su una pagina bianca. Il primo pensiero fu che gli spostamenti del robot erano stati organizzati senza conoscere il suo consumo reale. Il secondo fu una voce sentita alla macchinetta del caffè: «Come stai?». Non riusciva a mettere insieme le due cose.
 
 Kyla ripensò al primo giorno della visita di Aruvhana, quando Nico si era fermato ad ascoltare l'addetto agli accessi davanti a una porta che non si apriva. Aveva sempre creduto che quella fosse la sua qualità migliore: accorgersi del punto in cui una procedura perdeva di vista la persona. Ora scopriva che la stessa competenza non gli aveva impedito di togliere alle persone il controllo su ciò che gli veniva mostrato.
 
@@ -56,7 +56,7 @@ Kyla ripensò al primo giorno della visita di Aruvhana, quando Nico si era ferma
 
 Nico le lanciò un'occhiata. «Sì.»
 
-Kyla si accorse di provare qualcosa di simile alla rabbia, ma anche una piccola scintilla di sollievo: c'era una causa concreta a ciò che avevano osservato. Quella scintilla durò poco.
+Kyla provò sollievo per una frazione di secondo: quel cambiamento aveva finalmente una causa concreta. Poi guardò il telefono di Nico sul tavolo. Poteva esserci ancora una connessione con un dispositivo che Cyberdine non possedeva più.
 
 «E la notifica?»
 
@@ -128,7 +128,11 @@ Fu la prima risposta che non sembrò una difesa preparata. Non bastò a scusarlo
 
 Kyla lasciò passare un momento.
 
-«Questa non è soltanto una storia su quello che hai realizzato», disse. «È anche una storia su ciò che hai tolto alle persone: la possibilità di sapere chi poteva vederle.»
+«Dovremo avvisare chi potrebbe essere stato ripreso», disse Kyla. Guardò Leah. «Quando avremo verificato che cosa poteva passare da quel canale.»
+
+«Sì», rispose Leah. «E senza chiedere a Nico di garantirci cose che non può dimostrare.»
+
+Nico portò le mani vicino al portatile, poi le ritirò. Per la prima volta dall'inizio della riunione non cercò di aggiungere una precisazione.
 
 Nico guardò finalmente il bicchiere. Lo prese, bevve un sorso e lo rimise sul tavolo con entrambe le mani.
 

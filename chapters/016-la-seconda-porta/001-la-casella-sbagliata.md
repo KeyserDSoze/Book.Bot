@@ -20,7 +20,7 @@ A Suzhou erano le otto e mezza del mattino. Sul bordo della scrivania c'era l'or
 
 Mei guardò le lancette, anticipò mentalmente di due minuti l'ora della prossima riunione e lasciò il quadrante dov'era.
 
-Dall'altra parte del vetro due tecnici provavano un braccio robotico con una pinza troppo morbida per sollevare ciò che avrebbe dovuto sollevare. Uno dei due continuava a cambiare la posizione del contenitore; l'altro prendeva appunti. Mei conosceva quella categoria di problema: un oggetto può essere perfettamente a posto e completamente inutile rispetto alla richiesta che gli viene fatta.
+Dall'altra parte del vetro due tecnici provavano un braccio robotico con una pinza troppo morbida per sollevare ciò che avrebbe dovuto sollevare. Uno dei due continuava a cambiare la posizione del contenitore; l'altro prendeva appunti. Mei aveva visto che il report del primo test chiamava la presa *conforme*. Il contenitore era rimasto sul tavolo. Sul secondo foglio, compilato da un tecnico, compariva una frase meno elegante: *non solleva il carico richiesto*. Mei si segnò di chiedere che le due voci restassero nella stessa scheda.
 
 Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberdine.
 

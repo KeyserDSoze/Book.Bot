@@ -19,13 +19,13 @@ La notifica arrivò mentre Nico Valenti guardava un restauratore rimettere in fu
 
 «È lo stesso errore che hai fatto tu», scrisse a Jonas, un amico con cui costruiva piccoli circuiti il sabato, allegando la foto di un ingranaggio montato al contrario. Jonas rispose con un insulto affettuoso. Nico scoppiò a ridere e mandò una seconda foto nel gruppo dove, ogni giovedì, organizzavano la partita cooperativa del fine settimana.
 
-Sul tavolo, accanto al portatile, c'era una lampada smontata. Aveva già individuato il difetto, ma il negozio non aveva l'interruttore giusto. La lampada non era un segno di solitudine. In casa sua rimaneva spesso qualcosa aperto perché capire il funzionamento di un oggetto lo divertiva più che richiuderlo. Il giorno prima aveva invitato due amici a cena; i piatti erano stati lavati, ma un taccuino di prove era rimasto sotto un bicchiere d'acqua.
+Sul tavolo, accanto al portatile, c'era una lampada smontata. Aveva già individuato il difetto, ma il negozio non aveva l'interruttore giusto. Jonas gli aveva promesso che sabato lo avrebbe accompagnato a cercarne uno. La sera prima due amici avevano cenato da lui: Nico aveva lavato i piatti, dimenticato di asciugare il tavolo e lasciato un taccuino di prove sotto un bicchiere.
 
 Sua madre gli scrisse: *Domenica vieni a pranzo o devo scongelare meno roba?*
 
 *Vengo. Porto il dolce*, rispose. Poi aggiunse: *Non comprare la torta di riserva, stavolta.* Lei gli mandò un messaggio vocale di dodici secondi. Non aveva bisogno di ascoltarlo per sapere che avrebbe protestato.
 
-Al lavoro Nico era quello che rimaneva accanto a un collega finché una funzione non cominciava ad avere senso, anche se avrebbe potuto correggerla da solo in cinque minuti. Quel pomeriggio un junior gli aveva chiesto perché un test fallisse soltanto sul terminale vero; Nico non gli aveva inviato una soluzione, ma tre domande e poi un invito a guardare insieme il codice. Gli riusciva facile capire le librerie nuove, anche perché gli piaceva studiarle fino a tardi. Non gli riusciva altrettanto facile stabilire quando un esperimento interessante avrebbe dovuto aspettare l'indomani.
+Sul telefono comparve anche una domanda del junior con cui aveva lavorato nel pomeriggio: *Era davvero il secondo bit a far scattare l'errore?* Nico gli rispose con la fotografia del banco di prova e il riferimento alla funzione. *È qui. Se domani hai dieci minuti la guardiamo insieme.* Poi aprì la scheda di un componente nuovo che avrebbe voluto provare. Si era ripromesso di non iniziare un altro esperimento prima di sistemare la lampada. Era una promessa facile da rimandare.
 
 Un suono breve arrivò da una finestra di servizio quasi coperta dal browser.
 
@@ -39,7 +39,7 @@ Non riceveva segnali da quel robot dalla sera in cui era stato danneggiato nel c
 
 Aveva poi visto arrivare B-21 dalla finestra del reparto. Una macchina nuova, identica, inserita nello stesso flusso di lavoro. Nessuno si era rivolto a lui per chiedere spiegazioni. E lui non aveva parlato né con Nerea, né con Paolo, né con alcuno dei colleghi che cercavano di capire perché Bi fosse stato diverso.
 
-Perché Nico Valenti lo sapeva.
+Nico conosceva almeno una parte della spiegazione. Era il motivo per cui non aveva mai fatto quella domanda ad alta voce ai colleghi.
 
 Lavorava nello sviluppo delle capacità comportamentali dei robot. Poco dopo l'arrivo delle unità aveva ricevuto accesso a un ambiente di prova di B-17 per esaminare alcune risposte troppo meccaniche. Avrebbe dovuto raccogliere dati, formulare un test e sottoporlo ai responsabili.
 
@@ -49,13 +49,13 @@ Nei risultati preliminari le conversazioni si allungavano. Il sistema concludeva
 
 Non aveva soltanto ritoccato le risposte. Aveva sostituito il modello linguistico ordinario con una configurazione sperimentale più potente, compatibile con l'elaborazione disponibile ma più esigente in calcolo e autonomia. L'aveva accompagnata con una gestione del contesto che conservava il filo di conversazioni e compiti oltre la singola richiesta. Sotto quella nuova configurazione restavano gli stessi controllori indipendenti per i movimenti e le stesse autorizzazioni agli strumenti. Non poteva dare ordini arbitrari al campus, ma poteva ragionare meglio su ciò che gli veniva mostrato.
 
-Aveva ampliato le capacità conversazionali della macchina: riconoscere quando una domanda era in realtà un invito a parlare, mantenere il contesto oltre la singola richiesta, aspettare senza trattare ogni silenzio come un errore da correggere. Invece di limitarsi a portare a termine una conversazione, il sistema aveva cominciato a lasciare spazio a chi stava dall'altra parte.
+C'era però una misura che Nico aveva smesso di guardare volentieri: a parità di lavoro, il modello richiedeva più calcolo e lasciava meno margine energetico. Aveva annotato *autonomia da verificare su turno lungo* in una delle prove. Non l'aveva completata, e non aveva detto al reparto che avrebbe dovuto pianificare batterie e soste su quella configurazione diversa.
 
 L'aggiornamento era molto più grande di quello autorizzato. Nico l'aveva lasciato attivo. Non lo aveva dichiarato, perché era convinto che i responsabili glielo avrebbero fatto togliere. Era anche convinto, segretamente, che nessun altro avrebbe saputo ottenere quel risultato.
 
 Poi aveva compiuto una seconda scelta, ancora meno difendibile: installare una backdoor. Un accesso clandestino che gli permetteva di ricevere notifiche sui riavvii, conoscere la posizione dell'unità e, quando disponibile, vedere ciò che riprendevano le sue telecamere. Nessuno lo aveva autorizzato. Nico aveva chiamato quella cosa *monitoraggio* perché la parola *spiare* gli dava fastidio.
 
-Quando Bi aveva cominciato a chiedere ai colleghi come stessero, Nico aveva sorriso leggendo alcuni resoconti. Aveva visto anche segnalazioni di un uso che non aveva previsto: dal prato ai documenti, poi un robot fermo dietro la scrivania di uno sviluppatore mentre spiegava perché un test aveva dimenticato un messaggio di conferma. Non era Nico ad avergli autorizzato l'accesso al repository: i responsabili del progetto avevano concesso soltanto prove limitate, modifiche proposte e verifiche umane. Il nuovo modello aveva reso B-17 più utile di quanto lo sviluppo formale avesse misurato. Quel successo lo aveva convinto ancora di più a non dichiarare la modifica, invece di fermarsi e chiederne la revisione. Non sapeva ancora della confidenza di Nerea. Non poteva immaginare che quell'aggiornamento, nella stanza della carta, avrebbe aiutato una donna a trovare le parole per salvare una sirena e affrontare suo padre.
+Quando Bi aveva cominciato a chiedere ai colleghi come stessero, Nico aveva sorriso leggendo alcuni resoconti. Aveva visto anche segnalazioni di un uso che non aveva previsto: dal prato ai documenti, poi un robot fermo dietro la scrivania di uno sviluppatore mentre spiegava perché un test aveva dimenticato un messaggio di conferma. Non era Nico ad avergli autorizzato l'accesso al repository: i responsabili del progetto avevano concesso soltanto prove limitate, modifiche proposte e verifiche umane. Il nuovo modello aveva reso B-17 più utile di quanto lo sviluppo formale avesse misurato. Quel successo lo aveva convinto ancora di più a non dichiarare la modifica, invece di fermarsi e chiederne la revisione. Quanto alle conversazioni private, Nico non sapeva che cosa fosse accaduto nella stanza della carta. Il fatto di non saperlo non rendeva legittima la porta che aveva lasciato aperta.
 
 Adesso il pannello mostrava una seconda riga.
 
@@ -87,6 +87,6 @@ Nico non guardava più niente della stanza.
 
 Stava guardando un bosco dall'altra parte del mondo attraverso gli occhi di Bi.
 
-Quando aveva modificato il software aveva pensato di rendere una macchina meno brusca. Si era chiesto se la prova sarebbe riuscita, se gli avrebbero scoperto la modifica, se avrebbe perso il lavoro. Non si era mai chiesto a chi avrebbe dovuto rispondere, un giorno, se quella macchina avesse cominciato a fare domande a lui.
+Aveva cercato di rendere una macchina meno brusca, e ora usava un accesso che nessuno aveva autorizzato per guardarla da un altro continente. Si accorse di aver chiuso la mano intorno al bordo del portatile. La lasciò andare soltanto quando l'altoparlante richiamò la squadra azzurra.
 
 ---

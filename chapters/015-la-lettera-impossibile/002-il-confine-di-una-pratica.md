@@ -50,15 +50,15 @@ Leah osservò il campo *origine* del documento: un riferimento di assistenza int
 
 Non c'era una risposta immediata. Le copie stampate potevano essere contate, gli utenti con accesso allo stesso tipo di pratica potevano essere individuati. Nessuno poteva giurare su ciò che fosse già apparso in altre schermate.
 
-«Mi sembra Nico», disse Paolo, senza guardarla. «Dopo quello che ha fatto.»
+«È lo stesso tipo di accesso di Nico?», chiese Paolo, indicando il campo che aveva portato la lettera sul loro terminale. «Non voglio che venga fuori un'altra sorpresa.»
 
 Leah gli mise davanti la prima pagina delle evidenze.
 
-«Nico è sospeso dagli accessi aziendali. La sua modifica non autorizzata è un problema reale. Ma questa scheda arriva da una pratica esterna che non ha creato lui, almeno secondo ciò che abbiamo finora. Se scegliamo una spiegazione per antipatia, smetteremo di cercare quella giusta.»
+«È una verifica che dobbiamo fare», rispose Leah. «Ma qui la richiesta parte dall'assistenza autorizzata di B-21 e la descrizione è arrivata dal fornitore. Prima dobbiamo conservare quell'ordine e la risposta originale.»
 
-«Non è antipatia.»
+«Il canale di Nico potrebbe ancora essere attivo», disse Paolo.
 
-«Allora non ci dispiacerà aspettare di sapere.»
+«È un incidente separato. Non lo considero risolto. E non userò la stessa parola per due accessi diversi soltanto perché ci spaventano entrambi.»
 
 Paolo annuì. Aveva il viso rosso, come gli succedeva quando si sentiva correggere su una questione tecnica davanti ad altri. Leah si accorse della cosa e abbassò il tono.
 

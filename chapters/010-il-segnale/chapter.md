@@ -31,3 +31,8 @@ Il salto di capacità è spiegato ora al **lettore**, non a Nerea o ai colleghi 
 ## Revisione di continuità v0.32.0
 
 Nel cap. 10 Nico rivela al lettore **per la prima volta** che fra le prime commissioni e le conversazioni del cap. 3 aveva montato di nascosto un LLM più potente e una gestione del contesto non validata. È il nodo nascosto della crescita apparente: giardino → fotocopie → conversazioni → contributo ai test software. Nico non ha autorizzato i successivi accessi di sviluppo di B-17 e la modifica non abroga controlli di sicurezza, limiti energetici o permessi.
+
+
+## Nona review — svelare un fatto, non ripetere tre volte la lezione
+
+Nico resta un ingegnere simpatico, inserito in un gruppo di amici e nella vita familiare. Il primo svelamento tecnico della modifica clandestina e della backdoor avviene qui, senza anticipazioni nei capitoli 1–9. In 001 la descrizione delle abilità conversazionali è stata accorciata e compare una prova energetica sul turno lungo rimasta incompleta, coerente con i limiti delle batterie e con l'insufficienza dei test. Nico non conosce il colloquio privato di Nerea; questa ignoranza non attenua la gravità della sorveglianza possibile. Il tema nel 12 sarà la responsabilità, non un secondo catalogo di capacità del modello.
