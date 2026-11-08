@@ -47,6 +47,28 @@ Verri la ricevette prima delle sette e mezza. Aveva già la stessa lettera apert
 
 La prima tabella mostrava un rinnovo senza modifiche sostanziali: margine quasi nullo. La seconda prevedeva di ridurre il servizio e alcune verifiche dedicate: avrebbe esposto l'azienda a rischi contrattuali troppo alti. La terza conservava i costi e provava a giustificarli con la qualità delle prestazioni. La quarta era ancora vuota.
 
+Kyla richiamò il numero in calce alla nota tecnica. Anika rispose in video da una sala riunioni, con il contenitore del pranzo ancora chiuso accanto al portatile. Dietro di lei una collega aspettò che finisse la telefonata, poi tornò al proprio tavolo.
+
+«Hai letto anche la richiesta economica», disse Anika.
+
+«Diciassette per cento. E nella tua nota chiedi più prove sui casi esclusi.»
+
+«Sono due richieste diverse. Non fingiamo che non siano in tensione.»
+
+«Chi dovrà difendere la spesa per i test da voi?»
+
+«Io. E se vi concedo il rinnovo senza poter mostrare quei casi, non avrò nulla da far vedere al mio consiglio quando qualcosa fallirà.»
+
+«Non posso promettere la stessa squadra con meno ricavi.»
+
+«Non ti chiedo di prometterlo. Voglio sapere quali verifiche non potete più permettervi e chi ne assumerebbe la responsabilità. Potrei non ottenere una deroga sul prezzo, ma posso contestare una riduzione di servizio mascherata da efficienza.»
+
+Verri si sporse verso il microfono. «Se il prezzo è vincolante, dovremo presentare alternative che vi facciano scegliere davvero.»
+
+«Allora fatele vedere anche al reparto che userà il software. Non soltanto ai nostri acquisti.»
+
+Anika chiuse la chiamata: aveva una revisione con i tecnici di un altro fornitore. Kyla rimase davanti alle quattro tabelle. La quarta era vuota, ma adesso sapeva quale domanda non avrebbe potuto nascondervi.
+
 «Quante persone dipendono davvero da Aruvhana?», domandò Kyla.
 
 Verri aprì una schermata che lei conosceva. **341 rapporti di lavoro** erano collegati in misura rilevante al contratto, fra sviluppo, collaudo, assistenza, gestione dei rilasci e continuità dei servizi. Non erano 341 persone da licenziare. La perdita dell'accordo, però, avrebbe reso difficile distribuire tutti quei ruoli su commesse diverse.
@@ -110,6 +132,14 @@ Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel labor
 «Quanto ti serve per chiudere la revisione?», chiese Kyla.
 
 «Per capire se quella vecchia conferma si comporta nello stesso modo? Non lo so ancora. Serve Irene, o qualcuno che abbia letto la prima versione.»
+
+«Come va la candidatura per guidare il gruppo?», domandò Kyla.
+
+Malik rimase con la mano sul mouse. «Gavin dice che devo chiudere più revisioni nei tempi previsti. Questa potrebbe restare aperta anche domani.»
+
+«Segna perché. Non voglio che chi ti valuta veda soltanto una scadenza mancata.»
+
+«È quello che sto cercando di imparare a fare», disse Malik. «Dare una stima quando il codice ha più storia di me.»
 
 Kyla tolse il tappo della penna. Nella previsione di Aruvhana il tempo per una domanda del genere era compreso sotto *verifica ordinaria*. Sul margine della tabella aggiunse *ore di ricostruzione legacy da stimare*.
 

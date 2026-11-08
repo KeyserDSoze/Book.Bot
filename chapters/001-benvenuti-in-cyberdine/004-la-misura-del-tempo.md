@@ -44,7 +44,9 @@ Anika Rao indicò la nota sotto il grafico. «E un errore che nessuno ha pensato
 
 «No», rispose Kyla. «Possiamo misurare le mancate rilavorazioni che conosciamo. Quello che non abbiamo verificato deve rimanere una domanda aperta.»
 
-Anika chiuse il taccuino. «È una distinzione che vorrei ritrovare nel rinnovo.»
+Anika chiuse il taccuino. «È una distinzione che vorrei ritrovare nel rinnovo. Non soltanto nella presentazione: voglio anche un caso in cui una verifica vi ha costretti a ritardare una consegna. Dovrò spiegare quelle ore a chi approva il nostro budget.»
+
+Kyla annuì. I visitatori di solito chiedevano quanto si risparmiasse. Anika aveva chiesto quanto costasse dire di no.
 
 «Quanto vale quella categoria?», chiese Sahir.
 

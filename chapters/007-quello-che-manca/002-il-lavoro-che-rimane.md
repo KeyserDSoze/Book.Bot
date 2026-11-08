@@ -78,6 +78,10 @@ Malik guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre 
 
 «Posso seguirti in laboratorio dopo pranzo», disse. «Gavin mi ha chiesto di chiudere due revisioni oggi. Se sposto la seconda, devo avvisarlo.»
 
+Aveva appena chiesto di diventare referente tecnico del gruppo integrazioni. Nell'ultimo colloquio Gavin gli aveva fatto notare che sapeva aiutare tutti, ma spesso lasciava aperti i propri ticket troppo a lungo. Malik non aveva saputo contestargli quella parte: i ticket erano rimasti aperti davvero.
+
+«Gli scrivo io», disse, prima che Irene rispondesse. «Voglio che veda quale caso ci sta fermando.»
+
 «Avvisalo», rispose Irene. «Questa ha un documento che non riusciamo a trovare.»
 
 «No. Vado a prendere il registro e poi torniamo sul codice. Ho bisogno che tu sappia spiegarmi la funzione, non di un'altra sintesi.»

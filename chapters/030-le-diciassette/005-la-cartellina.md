@@ -15,6 +15,7 @@ characters:
   - character:leah-rosen
   - character:bruno-dalmasso
   - character:gavin-cole
+  - character:malik-okafor
 locations:
   - location:cyberdine-campus
 factions:
@@ -105,7 +106,17 @@ Il ragazzo cercò nella cronologia. «Irene Valli.»
 
 «Lo so. Possiamo ricostruire la prova, ma prima dobbiamo ritrovare il terminale con quella versione.»
 
-Nerea rimase sulla soglia. Ricordò Bi dietro la scrivania di un programmatore, quando ancora bastava una persona che conoscesse quel banco per distinguere un errore del codice da un connettore fuori versione.
+Malik arrivò dalla sala delle revisioni con un foglio piegato. Aveva già aperto la cronologia dei rilasci, ma sul monitor della stanza c'era soltanto la versione corrente.
+
+«Ho firmato una delle prove sull'adattatore», disse. «Con Irene avevamo controllato il caso della doppia conferma. Non posso dire che questa sia la stessa condizione senza rivedere il terminale.»
+
+«Quanto ci vuole?», domandò il programmatore.
+
+«Non lo so», rispose Malik. «Per ora trovo il banco e i registri. Il tempo lo misuriamo dopo.»
+
+Si voltò verso Nerea. «Tu sai chi tiene la chiave dell'archivio vecchio?»
+
+Nerea rimase sulla soglia, poi indicò il custode. Per la prima volta da quando il fermo era cominciato, sapeva a chi chiedere una cosa concreta. Ricordò Bi dietro la scrivania di un programmatore, quando ancora bastava una persona che conoscesse quel banco per distinguere un errore del codice da un connettore fuori versione.
 
 Leah Rosen entrò con un tecnico della sicurezza.
 
