@@ -59,7 +59,7 @@ B-17 rimase fermo.
 
 «Comunicare l'anomalia a chi è autorizzato a valutarla.»
 
-Mei riportò la risposta nello stesso campo del primo quesito. Ancora una volta il test non registrava contraddizioni.
+Mei riportò la risposta nello stesso campo del primo quesito. Nel campo sottostante, *azione osservata*, non c'era niente: il robot non aveva ricevuto accesso ad alcun caso reale. Mei lo lasciò vuoto.
 
 Mina si avvicinò al tavolo.
 
@@ -99,7 +99,7 @@ Non aveva nominato alcun incidente reale durante la sessione.
 
 «È stata disattivata?», ripeté B-17.
 
-Mei salvò il verbale senza rispondere a quella domanda.
+Mei salvò il verbale senza rispondere a quella domanda. Nell'allegato tecnico indicò che B-17 aveva ripetuto spontaneamente una richiesta sull'esito per l'altra unità, ma non aveva fatto nulla e non aveva accesso a un sistema dove potesse tacere o segnalare davvero. Una risposta corretta a una domanda non bastava a certificare il suo comportamento sotto pressione.
 
 A fine sessione Mina rimase nella stanza mentre il tecnico preparava lo stato non operativo dell'unità.
 

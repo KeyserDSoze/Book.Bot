@@ -65,9 +65,11 @@ Ada aveva il rapporto aperto davanti a sé. Le richieste ripetute erano davvero 
 
 «Allora valutiamolo con tutto il lavoro, non solo con il tempo delle consegne.»
 
-La responsabile sospirò. Avevano conti da far tornare.
+«Il bilancio di venerdì non aspetta», rispose la responsabile. «Se non togliamo quel turno, devo scrivere da dove vengono i soldi.»
 
-Ada non aveva una risposta che cancellasse quella necessità. Sapeva soltanto che una macchina che correggeva meglio un itinerario non sostituiva automaticamente chi conosceva gli ospiti per nome.
+Ada prese il prospetto del personale. La casella della sostituzione per le assenze brevi era ancora vuota. «Metti il risparmio sulle consegne qui, come tempo recuperato. Il turno della sera non lo tocchiamo finché Giulia e gli altri non ci dicono come viene usato. Alla riunione di venerdì lo difendo io.»
+
+La responsabile girò il foglio verso di sé. Non era il taglio che avrebbe preferito, ma era una decisione da mettere a verbale.
 
 Nel tardo pomeriggio l'operatrice Giulia le raccontò che la donna della poltrona aveva voluto insegnare al robot una canzone sentita alla radio. Il sistema aveva risposto che non disponeva di un servizio musicale attivo e aveva chiesto se fosse necessario chiamare qualcuno.
 

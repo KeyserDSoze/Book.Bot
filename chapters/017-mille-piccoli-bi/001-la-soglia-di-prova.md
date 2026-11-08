@@ -36,7 +36,11 @@ Mei aprì il documento delle eccezioni.
 
 «La configurazione deve essere approvata dal cliente.»
 
-«Appunto. I clienti possono sbagliare.»
+«Chi firma quando il cliente collega il suggerimento al blocco di un'intera corsia?»
+
+L'uomo indicò il campo *referente locale*. Era compilato con il nome dell'azienda, non con quello di chi avrebbe risposto durante il turno di notte.
+
+«Quello non è un referente», disse Mei. «È un indirizzo per la fattura.»
 
 Il responsabile scorse i risultati.
 
@@ -54,7 +58,11 @@ Mei indicò il secondo foglio.
 
 «Un altro ciclo con casi di priorità contraddittorie. Non sto chiedendo che tutto il programma si fermi. Sto chiedendo che non chiamiamo verificato quello che abbiamo studiato solo negli esempi favorevoli.»
 
-La discussione durò due ore. Alla fine la direzione approvò un'estensione controllata a un numero limitato di siti, a condizione che gli arresti di sicurezza rimanessero separati dai suggerimenti linguistici e che i clienti registrassero le proprie regole di conferma. Mei ottenne un controllo aggiuntivo e un periodo di osservazione. Non ottenne l'esclusione di tutti i contesti più complessi.
+La discussione si interruppe quando arrivò una chiamata da uno dei siti interessati. Il capoturno voleva sapere chi avrebbe potuto rimettere in moto il giro se la persona autorizzata a rispondere fosse stata in pausa. Il responsabile prodotto mise la chiamata in viva voce: per quel turno non avevano ancora designato un sostituto.
+
+Mei indicò la casella vuota. «Ecco il caso che dobbiamo provare. Non nel turno in cui tutti sono presenti.»
+
+Dopo due ore la direzione approvò un'estensione controllata a un numero limitato di siti, a condizione che gli arresti di sicurezza rimanessero separati dai suggerimenti linguistici e che i clienti registrassero le proprie regole di conferma e i sostituti autorizzati. Mei ottenne un controllo aggiuntivo e un periodo di osservazione. Non ottenne l'esclusione di tutti i contesti più complessi.
 
 Firmò il documento che descriveva le condizioni, non una dichiarazione generica di sicurezza. Aveva chiesto che fossero verificate anche le configurazioni dei siti pilota, ma il campione sarebbe stato raccolto durante l'estensione, non prima. Il documento lo diceva. Mei firmò ugualmente: i test disponibili mostravano benefici e i clienti coinvolti avevano accettato le restrizioni. Non avrebbe potuto sostenere, in seguito, che la scelta fosse stata presa senza di lei.
 

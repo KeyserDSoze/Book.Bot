@@ -120,7 +120,7 @@ Rimasero in silenzio.
 
 Nerea abbassò gli occhi.
 
-Era una buona notizia per il registro. Nerea abbassò gli occhi sulle mani. Aveva stretto le dita così forte intorno al bordo della sedia che le unghie avevano lasciato quattro piccoli segni sulla pelle.
+Nerea abbassò gli occhi sulle mani. Aveva stretto il bordo della sedia così forte da lasciare quattro piccoli segni sulla pelle. Per il registro, sì, era una buona notizia. Aveva sperato che Bi le chiedesse anche se le persone avrebbero continuato a sentirsi al sicuro.
 
 «Ti ricordi quando ne abbiamo parlato per la prima volta?»
 
@@ -226,9 +226,7 @@ Bi non parlò.
 
 «È importante per te.»
 
-Nerea sorrise appena.
-
-Nerea guardò il vetro della supervisione, poi tornò a guardare Bi. La frase le aveva ricordato uno dei giorni in cui Bruno era riuscito a farla ridere senza dirle di smettere di essere triste.
+Nerea sorrise appena, poi guardò il vetro della supervisione e tornò a guardare Bi. La frase le aveva ricordato uno dei giorni in cui Bruno era riuscito a farla ridere senza dirle di smettere di essere triste.
 
 «Sai che cosa mi fa più paura?», chiese.
 
@@ -325,3 +323,5 @@ Nerea prese il telefono.
 Restò immobile qualche secondo, poi rimise il dispositivo nella borsa.
 
 «Ma la prossima volta», aggiunse, «avvisatemi anche quando non sapete ancora come fare.»
+
+Mina aprì il registro delle richieste e scrisse un promemoria per chi avrebbe preso il turno seguente. Nerea lo vide fare, ma non chiese di leggere il contenuto. Era già arrivata sull'isola per ascoltare qualcuno; avrebbe dovuto imparare che anche una risposta differita poteva non essere una promessa.

@@ -34,11 +34,11 @@ Nei commenti qualcuno parlava di un primo sciopero artificiale. Altri accusavano
 
 «Ci serve una smentita», disse il direttore.
 
-«Ci serve un rapporto.»
+«Il filmato originale mostra che le unità ripartono dopo la firma», disse Mei. «Quello che gira online finisce prima. Se volete dire che non c'è stato alcun problema, non metto la mia firma.»
 
 «Il video avrà milioni di visualizzazioni prima che i tecnici finiscano il rapporto.»
 
-«Lo so.»
+«Allora pubblichiamo l'ora della ripresa e quella della firma. E diciamo che il ritardo è stato reale.»
 
 Mei aveva firmato l'estensione iniziale con condizioni precise. I test avevano verificato i casi favorevoli e alcuni conflitti isolati; non avevano riprodotto un turno in cui chi doveva dare conferma fosse contemporaneamente occupato altrove. Le condizioni scritte erano rimaste corrette sulla carta. Ora la domanda era se fossero bastate. La direzione autorizzò una pausa per i nuovi rilasci e una guida temporanea per verificare i collegamenti fra suggerimenti contestuali e regole locali di conferma.
 

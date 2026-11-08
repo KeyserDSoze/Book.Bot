@@ -32,7 +32,7 @@ La chiamò.
 
 «Quando?»
 
-«Tre volte nell'ultimo mese.»
+Rosa aprì il telefono. «Il dieci dopo il turno, il sedici con la richiesta firmata da quattro persone e lunedì tramite il coordinatore. Ho tenuto i messaggi perché sapevo che me lo avresti chiesto.»
 
 Sofia cercò una risposta. Ricordava le richieste individuali, non una proposta collettiva. Era stata impegnata a correggere le mappe della baia quattro dopo il fermo diventato famoso su internet, e le discussioni sui turni le erano sembrate lamentele ordinarie.
 
@@ -79,3 +79,5 @@ Sofia lo appese accanto al vecchio foglio, ancora coperto di correzioni a penna.
 La mattina seguente qualcuno scrisse una sola parola.
 
 *Finalmente.*
+
+Accanto, con una calligrafia diversa, apparve una domanda: *Chi corregge il turno se la persona che firma è in ferie?* Sofia la fotografò prima che il foglio venisse coperto da altre richieste. Il pilota sarebbe cominciato il lunedì; quella casella del piano non aveva ancora un sostituto.

@@ -60,7 +60,15 @@ Nerea guardò il ponte.
 
 Non era un discorso preparato. Bruno guardava il tetto di lamiera, come se ricordasse ancora dove aveva appoggiato gli attrezzi.
 
-Nerea tirò fuori la propria cartellina. Conteneva anche gli appunti sulle richieste che aveva inviato in passato usando le credenziali tecniche del padre, senza che lui lo sapesse. Avevano già iniziato a parlarne con una persona competente, ma non esisteva una frase capace di trasformare quelle azioni in una procedura corretta a posteriori.
+Nerea tirò fuori la cartellina con gli appunti delle richieste inviate usando le vecchie credenziali di Bruno. Avevano già cominciato a ricostruirle con una persona competente. Fra le copie c'era una ricevuta che Bruno non riconosceva: una richiesta partita dal suo identificativo mentre lui era in pensione e fuori regione.
+
+«Questa è tua?», domandò.
+
+«Sì.»
+
+Bruno la girò sul retro e scrisse la data. La mano gli tremava appena per il freddo. «Allora nella prossima comunicazione devi indicare anche questa. Io non posso firmare di averla mandata.»
+
+«Non te lo chiederò.»
 
 «Ho pensato di fare la cosa giusta», disse.
 
