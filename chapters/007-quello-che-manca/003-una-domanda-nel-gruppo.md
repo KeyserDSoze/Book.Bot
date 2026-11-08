@@ -62,6 +62,38 @@ La chat continuò a muoversi. Qualcuno domandò chi avrebbe rifornito i bicchier
 
 Dario sorrise a sua volta, quasi contro la propria volontà.
 
+Il telefono squillò. Mauro.
+
+Dario rispose senza salutare.
+
+«Mi hanno fissato il secondo colloquio», disse Mauro. «A te?»
+
+«Non ancora.»
+
+«Dobbiamo almeno ricordarci le stesse cose. Io avevo solo preso la cassetta. Tu hai iniziato a spingerlo.»
+
+Dario guardò la mano con cui teneva il telefono. Gli faceva ancora male una nocca.
+
+«Hai preso la cassetta. Poi lo hai colpito alla schiena.»
+
+Dall'altra parte non si sentì niente.
+
+«E tu lo hai spinto dopo che aveva chiesto di smettere», rispose Mauro.
+
+«Sì.»
+
+«Quindi non posso dire che l'ho fermato io.»
+
+«No.»
+
+Mauro espirò vicino al microfono. «Avevo una strada per tornare a casa. Sono rimasto. Adesso mi chiedono perché.»
+
+Dario non trovò una frase che potesse rispondere per lui.
+
+«Ci sentiamo dopo», disse Mauro e chiuse.
+
+Dario rimase con il telefono in mano. Si erano sempre aiutati a ricordare le scadenze, le attese per i turni, le promesse dei responsabili. Questa volta non avrebbero potuto preparare una risposta comune.
+
 Poi lesse un messaggio diverso.
 
 *Nerea ha portato i fascicoli per il corso di scrittura. Dice che Bi li preparava già in ordine di livello. Noi li abbiamo messi in ordine alfabetico e dobbiamo rifare tutto.*
@@ -110,4 +142,8 @@ Cominciò a digitare: *Anche io.*
 
 Guardò quelle due parole, poi le cancellò.
 
-Non aveva ancora il diritto di pretendere una conversazione normale.
+Aprì invece la comunicazione dell'ufficio incaricato degli accertamenti. Il modulo permetteva di integrare le proprie dichiarazioni senza cambiare quelle già raccolte. Scrisse soltanto il fatto che aveva continuato a evitare nei messaggi agli amici: *Dopo che B-17 ha chiesto di fermarci, l'ho colpito ancora.*
+
+La rilesse. Inviò l'integrazione e mise il telefono sul tavolo.
+
+Non sapeva se qualcuno avrebbe creduto a un pentimento arrivato dopo le registrazioni. In quel momento non era la domanda che poteva fare.

@@ -41,9 +41,7 @@ Kyla nominò Nico Valenti.
 
 «Voglio vederlo.»
 
-Leah non le fece subito una domanda sul perché.
-
-Leah non chiamò Nico seduta stante. Spiegò a Nerea che poteva incontrarlo soltanto se lo desiderava, con una persona presente, e che non era tenuta a rispondere alle sue domande né a chiarirgli ciò che aveva confidato a Bi. Nerea chiese un giorno per pensarci.
+Leah non le chiese di giustificare la richiesta e non chiamò Nico seduta stante. Spiegò a Nerea che l'incontro poteva avvenire soltanto se lo desiderava, con una persona presente, e che non era tenuta a rispondere alle domande di Nico né a chiarirgli ciò che aveva confidato a Bi. Nerea chiese un giorno per pensarci.
 
 Il mattino seguente tornò nella stessa saletta. Non aveva preparato un discorso; aveva scritto tre domande sul retro di un foglio che tenne piegato in tasca. Kyla e Leah erano lì. Quando Nerea confermò di voler proseguire, Nico entrò. Aveva un'aria stanca, le mani troppo pulite per il resto dei vestiti e una piccola ferita rimarginata vicino all'unghia del pollice. Nerea lo aveva già incontrato in ascensore senza memorizzarne il volto.
 
@@ -130,6 +128,14 @@ Avrebbe potuto rimproverarlo ancora. Avrebbe potuto chiedergli di mostrare tutte
 «Non ti sto dando un ordine aziendale. Ti sto dicendo che non voglio che tu lo guardi senza il consenso di chi ora ne è responsabile, né che guardi altre persone. Non per me.»
 
 Nico abbassò la testa.
+
+Nerea si rivolse a Leah. «E voglio sapere chi leggerà il mio nome nel rapporto. Non voglio che quello che gli ho raccontato diventi una prova a favore di qualcuno.»
+
+«Possiamo limitare il resoconto di questo incontro ai fatti pertinenti e tenere separati i dati personali», rispose Leah. «Non posso prometterti che nessuno dovrà mai esaminarli durante gli accertamenti. Posso registrare la tua richiesta e dirti quali comunicazioni ti sono dovute.»
+
+«Allora registrala.»
+
+Leah lo fece prima che qualcuno riprendesse a parlare di Bi.
 
 Kyla si avvicinò di un passo.
 
