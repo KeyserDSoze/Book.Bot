@@ -6,7 +6,7 @@ canon: canon
 
 # Registro dei personaggi — canone del romanzo
 
-Questo indice comprende **tutte le schede di `characters/`** e distingue i nomi già canonici dalle proposte di rinomina non applicate. Il nome canonico di Kyla è ora **Kyla Morgan**: l'id `character:kyla` resta per compatibilità. Leah Rosen, Mila Novak, Elena Fischer e Olivia Brooks sono rinomine già applicate; Malik Okafor, Anika Rao ed Erik Solberg sono figure internazionali già integrate. Le eventuali proposte *Noah Bennett* (Noah), *Alexander Reed* (Victor), *Claire Walsh* (Claire), *Paul Carter* (Paul) restano proposte, non alias ufficiali.
+Questo indice definisce i **nomi canonici** dopo l'integrazione delle PR #3–#8. Le rinomine sono state applicate a scene, metadati, biografie, luoghi e documenti di continuità: le vecchie identità non sono alias diegetici. Il nome **Kyla Morgan** resta canonico e conserva l'id storico `character:kyla`; Gavin Cole, Leah Rosen, Mila Novak, Elena Fischer e Olivia Brooks conservano le identità già internazionali. Le corrispondenze con la bozza più vecchia sono tracciate in [`guidelines/cast-rename-map.json`](../guidelines/cast-rename-map.json), e le regole attuali in [`guidelines/cast-internazionale.md`](../guidelines/cast-internazionale.md). Hazel, sorella di Kyla, Nora, sorella di Ethan, e Tessa, sorella di Maya, sono tre persone distinte, ricordate nei rispettivi archi: non confonderle e non introdurre un nesso inventato con l'AI.
 
 ## Cyberdine e famiglia (15 persone)
 
