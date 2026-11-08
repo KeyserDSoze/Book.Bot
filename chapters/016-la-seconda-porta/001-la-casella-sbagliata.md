@@ -16,7 +16,7 @@ factions:
 
 Mei Lin rimase davanti alla schermata di assistenza fino a quando il caffè le diventò freddo.
 
-A Suzhou erano le otto e mezza del mattino. Sul bordo della scrivania c'era l'orologio che sua madre le aveva lasciato anni prima. Perdeva due minuti ogni settimana. Mei era capace di riconoscere uno scarto minimo in un sistema di attestazioni, ma per quell'orologio continuava a dire «lo faccio domenica» da mesi. La madre le aveva mandato il contatto di un riparatore e poi aveva smesso di domandare.
+A Suzhou erano le otto e mezza del mattino. Sul bordo della scrivania c'era l'orologio che sua madre le aveva regalato anni prima. Perdeva due minuti ogni settimana. Mei era capace di riconoscere uno scarto minimo in un sistema di attestazioni, ma per quell'orologio continuava a dire «lo faccio domenica» da mesi. La madre le aveva mandato il contatto di un riparatore e poi aveva smesso di domandare.
 
 Mei guardò le lancette, anticipò mentalmente di due minuti l'ora della prossima riunione e lasciò il quadrante dov'era.
 
