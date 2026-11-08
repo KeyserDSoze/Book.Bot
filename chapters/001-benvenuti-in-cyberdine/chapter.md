@@ -34,3 +34,8 @@ Nella scena 001 Nico lascia passare un collega bloccato da una porta attraverso 
 ## Revisione cast internazionale — 2026-11-08
 
 Anika Rao affianca Sahir Venn e Leïa Orren come referente tecnologica della delegazione Aruvhana. Osserva il giardiniere che corregge B-17 e contesta l'equivalenza fra risultato verde e assenza di problemi non cercati. Malik Okafor è il programmatore dietro il vetro che rivede il connettore legacy. Nessuno dei due conosce la futura modifica clandestina di B-17; Kyla resta unico POV del capitolo. L'ingresso dei due non cambia l'esito della visita né la richiesta finale di Sahir.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (Anika):** nel 004 Anika esige la prova di una verifica che abbia ritardato una consegna, perché deve giustificare il costo delle cautele al reparto acquisti Aruvhana. Non rappresenta un'infallibile auditor neutrale: preparerà anche una richiesta di rinnovo molto aggressiva nel 25.

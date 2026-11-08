@@ -44,3 +44,8 @@ Il programmatore chiamato da Irene nella scena 002 è ora Malik Okafor, già vis
 ## Ottava review — conseguenza della formazione non finanziata
 
 L'impegno assunto nel capitolo 5 a insegnare la manutenzione delle vecchie librerie non ha ancora docente e ore allocate: Malik vede una sessione rinviata, Elena riconosce che il budget non è approvato, Irene non può svolgere un lavoro di formazione invisibile in aggiunta alle consegne. La mancanza non impedisce loro di cercare il codice e fermare una release errata; ne aumenta il costo e rimane aperta nei capitoli 8 e 9.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (Malik):** in 002 Malik ammette la propria candidatura a referente tecnico, ostacolata dai tempi aperti dei suoi ticket e dalla valutazione di Gavin. La sua ambizione prosegue nel 25 e nel recupero di versioni legacy del 30; non è soltanto il collega che aiuta Irene senza un prezzo personale.

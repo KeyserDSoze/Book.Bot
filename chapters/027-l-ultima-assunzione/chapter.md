@@ -53,3 +53,8 @@ La diffusione di Passerella deriva anche dagli adattatori commerciali dei cinque
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — compatibilità non è collaudo.** Nel 003 Erik misura 4 h 50 min di carico misto e corregge la dicitura commerciale del turno intero. Rimane nella stanza quando Mei affronta Passerella e chiede come una notifica locale possa arrivare a un impianto estero; non assume la direzione delle verifiche software. Due dei cinque produttori vendono anche adattatori per flotte di altri marchi. Mei rifiuta di dichiarare conclusa la prova cross-jurisdiction: esiste un ticket con responsabile provvisorio e senza data. Il rilascio di altre componenti può procedere sotto altre verifiche, ma questo non equivale a test superato. Nel 004 Irene non commenta didatticamente la propria libreria: torna a casa e non riesce ancora a fissare il ritiro dell'usato.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (Erik e Mei):** Erik rischia di perdere un nuovo incarico firmando soltanto le 4 h 50 min verificabili. Mei tiene una prova transnazionale aperta, con ticket senza risultato, ma non chiede di fermare tutta la distribuzione: le responsabilità sono frammentate e le prove disponibili non dimostrano un guasto. Un messaggio della madre sul vecchio orologio resta senza risposta. Nessuna intuizione anticipa la volontà nascosta di Bi.

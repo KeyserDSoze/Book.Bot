@@ -19,3 +19,10 @@ Ingegnere norvegese che partecipa alla verifica indipendente del consumo energet
 ## Dodicesima review — misura e responsabilità oltre il proprio test
 
 Nel capitolo 27 Erik contesta con una croce una brochure che chiama *turno intero* le 4 h 50 min di autonomia misurate. Resta nella stanza quando Mei esamina le firme di Passerella e chiede come un avviso di legge nazionale possa arrivare a un sito estero. Il suo sguardo da ingegnere della verifica aiuta a porre la domanda, ma il test sull'interoperabilità spetta agli specialisti e non gli attribuisce un potere sulle scelte dei fornitori.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+## Tredicesima review — l'indipendenza ha un prezzo
+
+Nel 27/003 Erik ha una proposta, non ancora confermata, per un ciclo successivo di prove. Sa che la croce tracciata sulla promessa di autonomia di un turno intero potrebbe fargli perdere il contratto. Preferirebbe continuare quel lavoro: il suo rifiuto non è un gesto senza costi né il segno di una perfezione etica. La domanda su avvisi esteri nasce dalla curiosità di chi controlla condizioni e misure, non gli dà autorità sulle politiche Passerella.

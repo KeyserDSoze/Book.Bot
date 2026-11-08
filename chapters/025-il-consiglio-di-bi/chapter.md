@@ -62,3 +62,8 @@ In 004 Elena contesta la voce di ricollocazione sulla formazione legacy non fina
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — il prezzo della prova.** In 001 Kyla non si limita ad augurarsi che le verifiche storiche sopravvivano al taglio del 17%: chiede a Malik quanto costa indagare una funzione legacy, il quale rimanda alla competenza di Irene. In 002 la prova di B-17 resta isolata e pagata: un'ipotesi sul controllo fisico viene respinta, una proposta di coordinamento passa alla lista dei test futuri, la disponibilità al servizio non è una autorizzazione già convalidata. Il risultato sui 28–42 ruoli equivalenti è aggregato, non licenziamenti decisi; Marta misura anche il poco compenso ricevuto dal Circuito. In 003 la pratica sul terminale resta sospesa con una indicazione reale del test respinto. Il finale non anticipa con un giudizio onnisciente il rinnovo di Irene.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (Aruvhana):** in 001 Anika interviene realmente nella contrattazione e rifiuta di trattare il taglio del 17% come compatibile *per definizione* con verifiche migliori. Deve difendere la spesa QA al proprio consiglio, senza controllare le scelte di personale Cyberdine. Malik chiede il coordinamento tecnico ma il suo giudizio di performance continua a dipendere dai tempi dei rilasci e dalle prove legacy che sa aprire.

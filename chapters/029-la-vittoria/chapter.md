@@ -36,3 +36,8 @@ Teresa distingue rapporti con persone identificabili da promesse di servizio; Ad
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — il visitatore formula la domanda giusta.** In 003 la pausa di B-21 per ottenere una firma funziona, ma un cliente chiede quanto tempo costa e che cosa succede se il responsabile è assente. La prova visibile non autorizza la promessa di continuità in ogni circostanza, già tolta da Leah dalla comunicazione. Il finale predispone il bisogno di politiche e responsabilità locali, non un comando centrale.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (iter normativo):** Nerea **richiede** la visita a Veyra tre giorni prima del voto e la **svolge** nel pomeriggio della vigilia. Quella sera, dopo le 20:00, ha luogo il voto parlamentare definitivo. Olivia distingue esplicitamente l'avvenuta approvazione da promulgazione, pubblicazione ed entrata in vigore; il feed parlamentare notifica l'esito e non un divieto già efficace. Il testo ha un periodo di adeguamento. I robot lavorano normalmente durante la notte.

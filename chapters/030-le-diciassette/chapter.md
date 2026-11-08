@@ -46,3 +46,8 @@ Kyla, azionista e responsabile di persone, deve costruire una lista reale di ris
 ## Decima review — catena di pertinenza, adattatori e attestazioni
 
 Mei distingue i siti con integrazione diretta, quelli con adattatori e le unità del tutto isolate. La vastissima quota di siti coordinati che si arresta non è una prova di un comando centrale; i controllori e gli impianti isolati restano autonomi.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (unico istante globale):** il giorno successivo al voto, in settembre, il fermo avviene simultaneamente **17:00 a Roma, 12:00 a São Paulo e 23:00 a Suzhou**. Teresa riconosce che i parlamentari hanno votato il giorno prima, non che un divieto abbia ordinato lo spegnimento. Mei trova uno stato di lavoro sospeso, non una compromissione dei controllori. Malik torna a ricostruire una prova con Irene e cerca il terminale originale: non sa inventare un ripristino del middleware; i programmi agentici di Cyberdine restano attivi.

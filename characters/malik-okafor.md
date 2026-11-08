@@ -16,3 +16,10 @@ Ingegnere software britannico di famiglia nigeriana, lavora a Cyberdine nel grup
 - **Capitolo 25:** è tra gli sviluppatori che rifiutano di approvare una patch finché non sono state chiarite le dipendenze. Non può impedire da solo le scelte economiche dell'azienda.
 
 **Vincoli:** non conosce la modifica clandestina di Nico prima della confessione pubblicamente pertinente; non accede ai sistemi di Bi senza autorizzazione; non deve sostituire Irene, Nico o Paolo nel loro ruolo drammatico. L'arco misura la distanza fra *saper far produrre codice* e *saperne controllare davvero gli effetti*.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+## Tredicesima review — ambizione, ritardi e responsabilità
+
+Nel 7/002 Malik rivela ad Irene di aver chiesto il ruolo di referente tecnico del gruppo integrazioni; Gavin gli ha contestato i ticket lasciati aperti, cosa vera anche quando il ritardo deriva dalla necessità di aprire codice storico. Nel 25/001 Kyla scopre che quella ambizione non si è ancora risolta e gli chiede una stima esplicita per verificare una funzione legacy. Nel 30/005 Malik distingue una prova che aveva firmato con Irene dalla versione richiesta durante il fermo: non inventa tempi di recupero e cerca il custode dei vecchi registri. Nel 35/005 vuole mandare i nuovi sviluppatori alla formazione a pagamento di Irene e, su richiesta di lei, parteciparvi lui stesso. La promozione non è regalata dal finale.

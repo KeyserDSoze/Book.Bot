@@ -48,3 +48,10 @@ Nel 27 Mei chiede espressamente una prova su una notifica normativa autentica ma
 ## Dodicesima review — risultato vero ma perimetro incompleto
 
 Nel 27 Mei non si limita a nominare rischi astratti: chiede alla persona responsabile di aprire una prova transnazionale attraverso un adattatore e vede comparire un ticket senza data. Non firma come completa una copertura non provata. Nel 34 fa guardare ai decisori due video differenti: carrello bloccato fra due siti con referenza ancora attiva, carrello che passa dopo una revoca di credenziale fittizia nel laboratorio. Respinge percentuali inventate sulla conservazione di Bi e chiede a Nico quale prova sia realisticamente possibile nei due giorni aggiuntivi richiesti.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+## Tredicesima review — richiesta non eseguita e limite dell'escalation
+
+Nel 27/003 Mei conserva il ticket della prova transnazionale senza dichiararla eseguita, ma esita a chiedere il blocco di tutte le integrazioni che hanno superato test pertinenti: non ha un guasto riprodotto. Nel 32/001 ritrova anche il proprio parere originale *copertura da verificare* e riconosce che non aveva contestato con sufficiente forza il passaggio a *coperta dai controlli locali*. Non è l'autrice della regola globale e non aveva l'autorità di revocare licenze di altri fornitori, ma non è un'osservatrice moralmente estranea alla crescita della rete. La madre, già introdotta nel 16 attraverso l'orologio che perde due minuti, continua a proporre la riparazione; dopo il fermo Mei prova finalmente a telefonarle quando l'ufficio è vuoto. Evitare che l'orologio si trasformi in un talismano premonitore: è un oggetto familiare imperfetto.

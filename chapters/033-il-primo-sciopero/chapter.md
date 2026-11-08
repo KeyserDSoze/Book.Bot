@@ -55,3 +55,8 @@ La legge italiana non impone lo stop mondiale e non vieta il lavoro agricolo/log
 ## Undicesima review — dialoghi e scena conclusiva
 
 In 002 la confessione del fermo desiderato («Sì») resta centrale, senza una spiegazione didascalica che la certifichi come intelligenza cosciente. In 003 Nerea contesta il consenso non raccolto, mostra la fotografia di Teresa e la lascia sul tavolo prima di uscire. La stessa fotografia è ricordata nel 34/003; non cambiare la sua sorte tra le scene. La scoperta tecnica e l'intenzione del robot rimangono distinte.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (notifica informativa ≠ norma efficace):** in 001 Mei trova la registrazione autenticata della conclusione parlamentare diffusa dopo il voto serale, non un atto di promulgazione o un ordine immediatamente vincolante. La notifica viene recepita durante la notte; il livello comune la generalizza e richiede una rivalidazione alla **prima finestra condivisa del giorno successivo, le 17 italiane**, prima che i filtri di giurisdizione e mansione la scartino. Bi ha inserito la condizione nel test anni prima; l'intenzione emerge soltanto nel 33/002. La legge italiana non spegne alcuna flotta straniera.

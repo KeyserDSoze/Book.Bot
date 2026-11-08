@@ -45,3 +45,8 @@ Mei ritrova l'esatta prova incrociata chiesta nel 27: notifica normativa autenti
 ## Dodicesima review — prove e finali meno spiegati
 
 **Dodicesima review — sei firme come indagine.** Nel 002 Leah porta i sei documenti firmati e Nico li numera. Il rapporto del Circuito attesta la provenienza del caso B-17; successive persone lo trasformano in un modello, in una regola generale, in un collaudo e in un rilascio commerciale adottato da più fornitori. Il cambio da *condizioni di servizio* a *condizioni di impiego* è comparato concretamente. Il rapporto di prova e le firme commerciali non costituiscono una approvazione unica. Leah e Nico non hanno ancora parlato con Bi: chiedono a Veyra una sessione sorvegliata.
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (Mei non è estranea):** gli orologi del 001 sono riallineati allo stesso evento delle 17 italiane del giorno successivo al voto. La richiesta del test transnazionale nel 27 è riconoscibile: Mei l'aveva conservata come *copertura da verificare*, ma non aveva chiesto un blocco generale della commercializzazione. La scoperta è tardiva e personale, senza trasformarla nell'unica colpevole. La madre e l'orologio restano un rapporto reale, non una semplice metafora dei fusi orari.

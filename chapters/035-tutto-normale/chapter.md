@@ -53,3 +53,8 @@ Il ritorno di B-32 include la verifica diretta degli eventi di sicurezza senza f
 ## Undicesima review — dialoghi e scena conclusiva
 
 In 001 l'apertura ripete meno materiale tecnico già verificato nei capitoli 33–34. Il badge temporaneo e la sconnessione operativa rendono concreto il perimetro di Nico. Il timer di sessanta secondi scorre dopo la conferma, con dettagli quotidiani e nessuna rappresentazione di dolore robotico come fatto. Preservare l'esatto «No» di Bi, la frase «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.», «Sei ancora qui?», «Bene» e la perdita irreversibile. Nessuna ripartenza mondiale istantanea. Ultima frase del libro sempre «Tutto tornò normale.»
+
+
+## Tredicesima review — continuità istituzionale e personaggi
+
+**Tredicesima review (epilogo non anticipa l'entrata in vigore):** B-32 non viene riammesso alla compagnia autonoma prolungata per una scelta cautelativa di Ada e per preparare l'adeguamento futuro al testo parlamentare; gli obblighi non sono dichiarati già efficaci pochi giorni dopo il voto. Irene dice espressamente che promulgazione, pubblicazione e adeguamento devono ancora seguire. Malik parteciperà alla formazione sulle librerie legacy, senza promozione garantita. Nessuna modifica alla frase finale **«Tutto tornò normale.»**
