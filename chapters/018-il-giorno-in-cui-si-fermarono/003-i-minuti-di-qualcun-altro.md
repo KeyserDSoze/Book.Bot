@@ -31,13 +31,17 @@ Quando tornò, la lavanderia le aveva già telefonato due volte.
 
 Ada verificò la richiesta, aggiornò la destinazione, fece riprendere l'unità. Il carrello arrivò al piano previsto con ventidue minuti di ritardo. Giulia non le disse nulla. Ada avrebbe preferito una lamentela: era più facile da affrontare di una collega che aveva imparato a risolvere il problema da sola.
 
-Non era un'emergenza. Nessuno aveva rischiato la vita. Una collega aveva trasportato a mano parte della biancheria; Giulia aveva lasciato in sala comune una donna già vestita per uscire.
+Non era un'emergenza. Nessuno aveva rischiato la vita. Una collega aveva trasportato a mano parte della biancheria; Giulia aveva lasciato in sala comune Teresa, già vestita per uscire.
 
 «Doveva andare in serra», disse Giulia. «Aveva già messo il cardigan. Adesso dobbiamo distribuire il pranzo.»
 
-«Le parlo io», rispose Ada.
+Ada si avviò verso la sala comune. Teresa stava piegando il cardigan senza toglierselo. Quando la vide, chiese: «La serra ha chiuso per ventidue minuti o per tutto il giorno?»
 
-Accanto ai ventidue minuti del ritardo scrisse a mano *visita rinviata*. Il registro delle consegne non aveva una casella per quello.
+«Oggi non riusciamo ad accompagnarti», rispose Ada. «Posso chiedere a Giulia di trovare un altro turno per questa settimana.»
+
+«Chiediglielo. Io non avevo prenotato un ascensore, avevo prenotato del tempo con lei.»
+
+Ada tornò in ufficio e scrisse *visita di Teresa rinviata* accanto ai ventidue minuti. Il registro delle consegne non aveva una casella per quello.
 
 Nel pomeriggio Ada aprì la comunicazione del fornitore. Parlava di segnalazioni in più siti per richieste di conferma persistenti e di una verifica delle configurazioni locali di Collaborazione Contestuale. Suggeriva di non estendere il programma fino al completamento della revisione e di mantenere gli arresti di sicurezza indipendenti dal modulo linguistico.
 
@@ -59,9 +63,7 @@ La donna guardò il rapporto delle consegne.
 
 «Come lo spieghiamo al consiglio?»
 
-Ada guardò il documento e pensò a quanto fosse facile fare una domanda a cui un dato non bastava a rispondere.
-
-«Spieghiamo che stiamo verificando. È una delle ragioni per cui ci pagano.»
+Ada mise il rapporto davanti alla responsabile. «Porto io il dato in consiglio: ventidue minuti di ritardo e una visita alla serra saltata. Se vogliono sapere quanto costa sospendere l'estensione, portiamo anche quel preventivo. Non ne cancello uno per mostrare soltanto l'altro.»
 
 Prima della chiusura, Ada tornò al piano con Giulia. Le mostrò la richiesta rimasta bloccata e si assunse la responsabilità della regola approvata senza una delega per il turno. Concordarono che, per le sole consegne ordinarie, l'operatrice responsabile avrebbe potuto verificare e convalidare un cambio di stanza, lasciandone traccia. Le barriere di sicurezza e le situazioni cliniche restavano fuori da quella delega. Il giorno dopo avrebbero allineato i due elenchi delle camere.
 

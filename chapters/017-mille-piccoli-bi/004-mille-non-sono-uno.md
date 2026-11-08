@@ -62,6 +62,6 @@ La descrizione rimase incompleta. Mancava un esempio di che cosa sarebbe success
 
 Mei scrisse: **Simulare il caso prima dell'estensione successiva.**
 
-L'ora sul monitor cambiò.
+Il sistema le chiese di scegliere un responsabile di prova e una finestra di laboratorio. Il gruppo competente aveva ancora tre test di regressione obbligatori e nessuno slot assegnato alle condizioni di turno senza referente disponibile. Mei inoltrò la richiesta al coordinatore della qualità e lasciò vuota la data.
 
-Da qualche parte, in Italia, stava cominciando un turno in cui la baia quattro non aveva ancora un nome definitivo.
+Dal reparto commerciale arrivò una comunicazione: un cliente aveva confermato altre venti unità sulla configurazione già autorizzata. Non era la nuova estensione che Mei voleva verificare; rientrava nel contratto esistente. Aprì il calendario del laboratorio e segnò a mano *Hub Levante / baia quattro*. Nessuno le aveva confermato quando il test sarebbe stato eseguito.

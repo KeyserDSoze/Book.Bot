@@ -88,3 +88,9 @@ Tornò in ufficio e chiese l'accesso alla proiezione. Questa volta lo fece come 
 Nel documento c'era una riga già compilata.
 
 *Riduzione del ricorso a personale temporaneo nel trimestre successivo.*
+
+Sofia aprì la cronologia. La previsione era stata inoltrata alla direzione del personale prima che lei ne ricevesse una copia. Non riguardava i nomi dei lavoratori, ma il numero di ore che il sistema prevedeva di non richiedere più.
+
+Scrisse al direttore operativo: *Chiedo di partecipare alla valutazione prima che diventi un piano contrattuale. Voglio portare i turni reali e le osservazioni dei lavoratori, non soltanto la proiezione.*
+
+Nella bozza aveva inserito *in particolare Rosa*. Lo cancellò: non avrebbe esposto la situazione personale della collega senza chiederglielo. Inviò la richiesta e lasciò il documento aperto, con la riga sulle ore straordinarie ancora visibile.

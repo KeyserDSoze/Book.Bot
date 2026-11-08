@@ -324,4 +324,4 @@ Restò immobile qualche secondo, poi rimise il dispositivo nella borsa.
 
 «Ma la prossima volta», aggiunse, «avvisatemi anche quando non sapete ancora come fare.»
 
-Mina aprì il registro delle richieste e scrisse un promemoria per chi avrebbe preso il turno seguente. Nerea lo vide fare, ma non chiese di leggere il contenuto. Era già arrivata sull'isola per ascoltare qualcuno; avrebbe dovuto imparare che anche una risposta differita poteva non essere una promessa.
+Mina aprì il registro delle richieste e scrisse un promemoria per chi avrebbe preso il turno seguente. Nerea aspettò che ne salvasse la registrazione, poi ripose il telefono senza chiedere un'altra conferma.

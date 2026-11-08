@@ -87,8 +87,10 @@ L'autista tornò al banco, questa volta senza chiedere quando avrebbe potuto and
 
 Sofia controllò il registro, segnò l'inizio del fermo e firmò **attesa per verifica interna della baia quattro**. Non autorizzò una cifra che non spettava a lei stabilire. Consegnò all'autista una copia: adesso l'attesa avrebbe avuto una causa e una persona a cui chiedere conto. Lui la ripiegò e riprese con il telefono la fila dei mezzi e i robot immobili, dal piazzale dove aspettava. «Così almeno vedono», disse. Sofia pensò che parlasse del suo ufficio paghe.
 
-Non si sentì tradita da una macchina. Si sentì responsabile di una catena di passaggi che aveva lasciato incompleta.
+Sofia riprese la richiesta che Amir aveva lasciato in cima alle consegne del giorno prima. Il numero della pratica era corretto, ma la seconda firma non era arrivata. Scrisse nel registro dell'incidente l'ora dell'ultima verifica, il nome del delegato mancante e il proprio.
 
-Le tornò in mente il messaggio di Amir. L'aveva lasciato in cima alle consegne. Si era detta che sarebbe bastato; aveva pensato che qualcuno, aprendo la lista la mattina, avrebbe riconosciuto l'urgenza.
+Un secondo autista le porse un modulo identico al primo. «Devo indicare il fermo come guasto dei robot?»
 
-Il domani era arrivato insieme a otto unità ferme e a un autista che fotografava il proprio orologio. Sofia scrisse il nome del responsabile mancante sul registro dell'incidente, poi aggiunse il proprio. Aveva approvato il turno senza accertarsi che la correzione fosse entrata nella mappa.
+«No. Scriva *attesa per autorizzazione del percorso*. È quello che sappiamo.»
+
+Gli restituì il documento. Sul monitor erano ancora gialle otto unità. La prima telefonata del giorno dopo sarebbe stata alla persona che avrebbe dovuto chiudere la mappa prima del turno, ma adesso c'erano camion da rimettere in marcia.

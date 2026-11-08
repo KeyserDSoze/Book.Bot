@@ -33,15 +33,19 @@ Nell'accordo di recupero l'uso dei dati per assistenza tecnica era scritto chiar
 
 «Non sappiamo se ci sia una violazione contrattuale.»
 
-«Non ho detto che lo sappiamo. Ho detto che abbiamo usato questi esempi e dobbiamo determinarne la legittimità.»
+Mei girò verso di lui l'accordo di recupero. Evidenziò due righe: *diagnostica e assistenza* erano comprese; *sviluppo di prodotti per altri clienti* non compariva. «Chi ha approvato che questi esempi uscissero dal reparto di assistenza?»
+
+«È passato attraverso il ciclo di prodotto.»
+
+«Ti ho chiesto un nome, non il nome del ciclo.»
+
+Il responsabile aprì la tabella delle firme. Il campo *utilizzo successivo* rinviava a un documento del servizio legale che non era allegato. Mei annotò il riferimento e chiese di conservarne la versione originale.
 
 Il responsabile guardò il grafico delle attivazioni.
 
 «I clienti non ci pagano per discutere la provenienza. Ci pagano perché il modulo funziona.»
 
-Mei pensò alle segnalazioni dei magazzini. Per molti clienti aveva funzionato. La frase, però, lasciava fuori il pezzo più difficile.
-
-«Ci pagano anche perché possiamo spiegare che cosa abbiamo verificato», rispose.
+Mei aprì sul secondo monitor le segnalazioni dei magazzini: molte erano risolte e firmate dai responsabili locali. «E se il cliente ci chiede perché abbiamo usato un caso che potevamo usare soltanto per riparare una macchina?», domandò. «Io so dirgli quali test abbiamo fatto. Non so chi abbia autorizzato quel passaggio.»
 
 Nella riunione successiva decisero di sospendere la distribuzione a nuovi clienti fino alla conclusione dei test sulle conferme persistenti. Non ritirarono immediatamente ogni installazione: nei centri assistenziali e in alcuni magazzini una rimozione senza valutazione avrebbe introdotto altri problemi di continuità e sicurezza. Prepararono una guida per l'uso temporaneo e una versione precedente verificata per chi avesse scelto di tornare indietro.
 

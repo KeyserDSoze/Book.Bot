@@ -87,6 +87,12 @@ Sofia guardò l'orologio. Aveva ancora due autisti in attesa delle attestazioni 
 
 Amir segnò *prima approvazione presente; seconda non disponibile*. Non cancellò il problema dai registri. Sofia sapeva esattamente che cosa sarebbe rimasto in sospeso quando fosse tornata a casa.
 
-Sofia rimase a guardare la linea gialla che separava il banco turno dal pavimento. Un robot la attraversò con un carrello vuoto. Non si fermò, perché non c'era alcun conflitto da risolvere.
+Sofia tornò al piano dei turni e aprì la voce *verifiche straordinarie*. Vi segnò le tre richieste sulla baia quattro e i minuti che Amir aveva impiegato a individuare il referente della mappa. Poi chiese alla direzione chi avrebbe pagato quelle ore e chi poteva firmare quando il responsabile del percorso era assente.
 
-Sofia si domandò quanta parte del nuovo lavoro sarebbe consistita nello spiegare alle macchine cose che gli esseri umani avevano sempre lasciato all'intuizione. Era un lavoro vero. Nessuno, per il momento, aveva deciso quante persone dovessero farlo.
+Rosa passò vicino al banco, con la giacca già chiusa. «Questa conta nelle ore di formazione?» domandò, indicando il test.
+
+«Non ancora», rispose Sofia. «Domani cerco di farmi approvare il tempo.»
+
+«Allora scrivilo prima che passi qualcuno a dire che l'ha già fatto la macchina.»
+
+Sofia aggiunse il nome di Rosa alla richiesta, senza segnarla come completata.
