@@ -102,8 +102,8 @@ Quando la delegazione uscì, Sahir si fermò un'ultima volta.
 
 «Lo troverò», disse Kyla.
 
-Non sapeva ancora chi chiamare. Era una richiesta ragionevole e la sua esitazione le diede fastidio.
+Pensò a Malik, che poco prima aveva fermato una patch davanti al cliente per rileggere una vecchia funzione. Gavin gli aveva già prenotato la settimana per una consegna. Non poteva promettere l'incontro senza controllare con entrambi, e le dava fastidio che persino una conversazione sul codice dovesse passare da una trattativa sulle ore.
 
 Le porte di vetro si richiusero. Kyla controllò l'ora, scoprì di avere finito in anticipo e pensò ai popcorn comprati dall'amica.
 
-Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla lasciò un promemoria per chiedere a Malik come sarebbe andata con il terminale reale. Poi abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.
+Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla inviò a Gavin e Malik una richiesta per un incontro tecnico con Aruvhana, indicando esplicitamente che il cliente voleva aprire il sorgente e vedere una prova sul terminale reale, non una dimostrazione degli agenti. Era una richiesta con un costo, e non lo cancellò dal calendario. Poi abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.

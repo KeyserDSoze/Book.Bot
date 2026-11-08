@@ -116,7 +116,7 @@ Elena lesse il risultato. Era utile. Si rese conto che senza il registro cartace
 
 Aprì la casella delle osservazioni sul robot e aggiunse una seconda riga: *capacità di collegare la conversazione corrente a un precedente concreto; verificare quale contesto sia disponibile e se l'intervento sia previsto dal profilo autorizzato*.
 
-Non immaginò un complotto. Non pensò che qualcuno avesse riscritto B-17. Si limitò a lasciare una domanda aperta, come faceva con i casi che non sapeva ancora classificare.
+Le altre anomalie minori osservate durante le prime settimane di impiego delle unità erano passate dal registro di collaudo. Elena inviò anche questa osservazione allo stesso canale, chiedendo di verificare il comportamento conversazionale rispetto al profilo approvato. Non attribuì una causa e non propose di modificare i permessi. Aspettò la presa in carico; la schermata mostrò soltanto *segnalazione ricevuta*.
 
 Sul vetro del corridoio il riflesso del robot passò con una pila di cartelline.
 

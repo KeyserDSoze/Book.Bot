@@ -35,3 +35,8 @@ La maggiore capacità di ascolto di B-17 sorprende dipendenti che lo ricordano g
 ## Aggiornamento della riscrittura narrativa v0.33.0
 
 Le scene 1 e 2 sono state riscritte per far avvertire il cambiamento conversazionale di B-17 attraverso Paolo, Mila, Elena e Nerea. Nessuno sa perché le risposte siano diventate più attenti. Elena registra un comportamento non richiesto e ne chiede verifica senza classificarlo come minaccia. La lunga prima confidenza di Nerea nella stanza della carta e la scena del soprannome rimangono centrali e sono preservate. Non dire chi ha cambiato il modello, non descriverne gli strumenti e non attribuire al robot un accesso non autorizzato.
+
+
+## Ottava review — la confidenza non è una consulenza perfetta
+
+La scena 003 preserva le quattordici case, la frana, la sirena prevista per la rimozione alle sette, l'uso improprio delle credenziali di Bruno e il primo nome «Bi», ma taglia parte della sequenza di consigli procedurali, lasciando a Nerea la scoperta del recapito di reperibilità e la formulazione della richiesta. Il lutto di Tessa è un ricordo concreto, non una spiegazione automatica di ogni giudizio di Nerea. B-17 non risolve il caso, non conosce tutte le norme, non certifica empatia o coscienza. In 002 Elena registra la conversazione imprevista come anomalia da verificare, senza attribuirne la causa a Nico o rivelarla al lettore.

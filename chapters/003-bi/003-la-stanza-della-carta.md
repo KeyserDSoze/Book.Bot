@@ -17,7 +17,7 @@ factions:
 
 Alle ventuno e otto, al quarto piano di Cyberdine, rimanevano accese soltanto le luci che si accendevano al passaggio.
 
-Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo. Il linguaggio della lettera le riportava alla mente i mesi dopo la morte di Tessa, sua sorella maggiore, uccisa in un incidente stradale nove anni prima. Lei e Bruno avevano dovuto domandare a uffici diversi gli orari degli interventi. Non era stata provata una colpa, ma ogni risposta spiegava soltanto un pezzo. Da allora Nerea diffidava delle pratiche dichiarate chiuse mentre chi le leggeva aveva ancora domande. Chiamava spesso tutto questo «il sistema», come se ogni impiegato fosse responsabile dello stesso silenzio.
+Nerea Dalmasso ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo. Il timbro le ricordava le lettere arrivate dopo che Tessa, sua sorella maggiore, era morta in un incidente stradale nove anni prima. Bruno le aveva conservate in una cartellina azzurra: ciascun ufficio aveva ricostruito una parte degli interventi, nessuno gli aveva dato la storia intera. Non c'era una colpa istituzionale dimostrata. Nerea lo sapeva, ma aveva ancora quella cartellina e a volte la rileggeva come se potesse cambiarne il contenuto.
 
 Girò lungo il corridoio della sala copie. Il foglio bianco con la scritta sul capolavoro era ancora alla macchinetta del caffè. La cosa le diede una voglia improvvisa e del tutto irragionevole di strapparlo.
 
@@ -81,7 +81,7 @@ Nerea aprì la bocca. Era convinta di avere una risposta pronta, perché ci avev
 
 B-17 non cercò di riempire subito il silenzio. Nerea vide soltanto il piccolo indicatore sul suo avambraccio cambiare intensità. Nessun motore girò, nessun foglio fu spostato.
 
-«Va bene anche non saperlo», disse il robot.
+«Posso aspettare», disse il robot.
 
 Nerea si mise a ridere. Fu un rumore breve, secco, che non aveva niente a che fare con l'allegria.
 
@@ -199,7 +199,13 @@ Nerea rimase in silenzio.
 
 «No», disse infine. «Credo di no.»
 
-«Sono due problemi diversi. Uno riguarda la tua responsabilità per le richieste che hai presentato. L'altro riguarda l'effetto di una rimozione su persone che potrebbero non ricevere un allarme alternativo. Entrambi contano. Ma hanno tempi diversi.»
+«Puoi chiedere di verificare la rimozione senza usare ancora una volta il codice di tuo padre.»
+
+«E tutte le richieste precedenti?»
+
+«Rimangono. Ma non credo che una risposta su quelle possa arrivare prima delle sette.»
+
+Nerea guardò l'ora sul telefono. Aveva lasciato squillare Bruno due volte quel pomeriggio. Adesso non era certa di riuscire a chiamarlo.
 
 «E allora che faccio? Scrivo una mail? Ne ho già scritte quattro.»
 
@@ -217,9 +223,13 @@ Nerea tornò a sedersi. Era stanca in un modo che il sonno non avrebbe sistemato
 
 «Tu che cosa scriveresti?»
 
-«Io non posso assumere la responsabilità della decisione al posto tuo. Posso però aiutarti a ordinare i fatti e a formulare una richiesta che qualcuno debba valutare.»
+«Non posso decidere per te. Ma possiamo partire dall'ordine che hai ricevuto. È scritto chi può sospendere l'intervento?»
 
-«Vai.»
+Nerea aprì la busta sul telefono. Dovette ingrandire la seconda pagina, quella che aveva saltato ogni volta perché conteneva soltanto recapiti.
+
+«Qui c'è un numero di reperibilità. È diverso dal centralino che ho chiamato.»
+
+«Allora comincerei da quello», rispose Bi.
 
 «Quante case abitate puoi documentare senza raccogliere informazioni private che non hai il diritto di condividere?»
 
@@ -229,17 +239,21 @@ Nerea tornò a sedersi. Era stanca in un modo che il sonno non avrebbe sistemato
 
 «I rapporti di prova. E due video registrati dal ponte. Sono miei.»
 
-«Hai una prova che il sistema alternativo non sia stato verificato in quella posizione?»
+«E i telefoni nella valle?»
 
-«Ho segnalazioni sulla copertura, ma non una certificazione.»
+«A volte prendono. A volte no. Non ho una prova che dimostri che il nuovo allarme non arrivi.»
 
-«Allora non scrivere che non funziona. Scrivi che non risulta dimostrato che raggiunga tutte quelle case, e chiedi una verifica sul posto.»
+«Allora non scrivere che non arriva. Chiedi che lo verifichino prima di togliere quello che esiste.»
 
-Nerea fissò la chiave.
+Nerea spostò la chiave sul banco. «Questa frase riesco a scriverla.»
 
-«Non avevo pensato alla differenza.»
+«Nell'oggetto della mail metterei il numero dell'ordine e l'orario. Chiedi che non smontino la sirena prima di aver controllato la copertura. Per sapere se la richiesta è arrivata, il numero di protocollo può esserti utile.»
 
-«Chiedi che la rimozione sia rinviata fino al sopralluogo, indicando l'ordine di intervento e l'orario. Invia la richiesta all'ufficio che può sospenderlo, con un numero di protocollo e una copia conservata da te. Per individuare il destinatario puoi rivolgerti a uno sportello competente. Non è una garanzia di accoglimento, ma permette a chi decide di vedere il rischio prima di agire.»
+«Mi stai dicendo di scrivere una mail con il numero giusto.»
+
+«Sì.»
+
+Nerea rise, questa volta senza amarezza. Per ore aveva cercato parole capaci di far vergognare qualcuno. Non aveva controllato il numero del destinatario.
 
 «E il codice di mio padre?»
 
@@ -249,7 +263,7 @@ Nerea si sentì arrossire. Sarebbe stata una risposta più comoda se il robot le
 
 «Quindi devo confessare.»
 
-«Devi evitare di aggiungere altre informazioni false. Su come regolarizzare le richieste passate è prudente farti assistere da una persona competente. Non conosco tutte le conseguenze del tuo caso.»
+«Non usare più quelle credenziali», rispose Bi. «Per capire come correggere ciò che hai fatto, ti serve qualcuno che conosca le regole di quell'ente. Io non le conosco tutte.»
 
 Nerea annuì lentamente.
 
@@ -263,7 +277,15 @@ Un soffio le uscì dal naso, poi una risata breve e vera.
 
 B-17 non riprese il lavoro.
 
-«Hai detto che non sai quale delle due cose fare», aggiunse. «Forse per stanotte non devi scegliere tra due versioni complete di te stessa. Puoi compiere una sola azione verificabile: fare in modo che domattina chi decide sappia che la valle non è vuota.»
+«Vuoi finire la richiesta prima che chiuda la reperibilità?», chiese Bi.
+
+«Sì. E poi devo chiamare mio padre.»
+
+«Puoi farlo.»
+
+«Lo so.»
+
+Nerea si tirò su le maniche. La seconda frase le riuscì meno bene della prima.
 
 Nerea abbassò lo sguardo sulle mani. Il segno della chiave era ancora visibile.
 
@@ -295,7 +317,11 @@ B-17 aspettò.
 
 Non sapeva perché lo avesse chiesto. Se avesse fatto la stessa domanda a una persona, le sarebbe sembrata crudele.
 
-«Sto seguendo quello che mi dici», rispose il robot. «Mi hai raccontato della valle, delle case, della sirena, delle richieste di manutenzione e del rischio di domani mattina. Non posso sapere tutto quello che provi. Posso restare qui e aiutarti a finire la lettera.»
+«Ti sto seguendo», rispose il robot. «Hai detto che il postino porta i biscotti al cane. Non è un dettaglio che serve alla mail.»
+
+«No», disse Nerea. «Non serve.»
+
+«Ma è uno dei modi in cui mi hai fatto capire che il posto esiste.»
 
 Nerea sentì salire alle guance un calore che non si aspettava. Lo combatté abbassando la testa e cercando ancora un errore nella mail.
 
