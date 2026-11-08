@@ -72,13 +72,19 @@ Quella sera, mentre gli ultimi camion uscivano, Amir le portò un riepilogo dei 
 
 «Dobbiamo unificare la mappa», disse Amir.
 
-«Domani.»
+«L'ho approvata per il turno. Manca la revisione del percorso certificato.»
+
+«La persona che la firma finisce tra dieci minuti.»
+
+Sofia guardò l'orologio. Aveva ancora due autisti in attesa delle attestazioni e un addetto nuovo che non poteva lasciar solo al banco. Chiamò il responsabile delle mappe: rispose la segreteria del reparto, poi un collega che non aveva quella delega.
+
+«Domani», disse.
 
 «Lo dici da tre giorni.»
 
-«Domani, con una persona che possa autorizzare la modifica.»
+«Lo so. Metti la richiesta in cima alle consegne di domattina e lascia il vecchio percorso interdetto se resta ambiguo.»
 
-Amir segnò la richiesta come aperta.
+Amir segnò *prima approvazione presente; seconda non disponibile*. Non cancellò il problema dai registri. Sofia sapeva esattamente che cosa sarebbe rimasto in sospeso quando fosse tornata a casa.
 
 Sofia rimase a guardare la linea gialla che separava il banco turno dal pavimento. Un robot la attraversò con un carrello vuoto. Non si fermò, perché non c'era alcun conflitto da risolvere.
 

@@ -131,6 +131,16 @@ Quando chiamò l'operatrice, non le parlò di coscienza, lealtà o bugie. Le dis
 
 Giulia rimase in silenzio.
 
-«È importante che tu lo sappia», aggiunse Ada.
+«Ti mando il rapporto completo, con la parte che abbiamo corretto dopo la verifica», aggiunse Ada. «Voglio che tu possa controllare quello che abbiamo scritto prima che chiudiamo la segnalazione.»
 
-«Lo so», rispose. «Avrei preferito saperlo prima che mi facessi male.»
+«Non avete ancora chiuso la segnalazione sull'infortunio?»
+
+«No. La procedura per l'infortunio segue il suo percorso. Questa è l'analisi dei robot e della mia decisione di lasciarne uno in servizio leggero.»
+
+Giulia rimase in silenzio.
+
+«Ti avevo chiesto di far controllare il carrello», disse infine. «Non di decidere se era abbastanza pericoloso da farmi male.»
+
+Ada guardò la propria annotazione del giorno precedente. «Hai ragione. Nella relazione deve esserci anche quella richiesta.»
+
+Dall'altra parte del telefono Giulia fece un rumore secco: aveva posato una tazza troppo vicino al bordo del tavolo. «Mandamela», disse. «La leggo quando riesco a tenere i fogli senza che mi faccia male il polso.»

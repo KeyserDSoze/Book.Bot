@@ -23,7 +23,7 @@ Rosa aveva scoperto il totale dei suoi straordinari mentre controllava la busta 
 
 Le giornate erano state distribuite meglio. Nessuno la chiamava all'ultimo momento per coprire una baia congestionata. Suo figlio era contento di averla a casa più spesso.
 
-Il conto sul frigorifero, però, non era cambiato.
+Il conto sul frigorifero, però, non era cambiato. Gli straordinari non erano scritti nel contratto, ma per undici mesi Rosa aveva usato le cifre delle buste precedenti per decidere quali spese poteva permettersi. La rata del motorino con cui arrivava al turno delle sei non diminuiva perché il magazzino finalmente funzionava meglio.
 
 Rosa andò da Sofia con due buste stampate.
 
@@ -41,7 +41,9 @@ Sofia non le chiese di calmarsi. Aprì la pianificazione e le mostrò le differe
 
 «Non erano garantite.»
 
-Rosa guardò le buste.
+«Da quasi un anno le pagate ogni mese. Mi è stato chiesto di essere disponibile anche quando mio figlio aveva bisogno di me. Ora scopro che non posso farci conto, ma la rata l'ho firmata io.»
+
+Sofia guardò lo schermo. Non avrebbe potuto promettere il ritorno di quelle ore e non voleva chiamare un errore di Rosa il fatto che le avesse considerate reddito.
 
 «Sono proprio le parole che avrebbe usato il vecchio responsabile.»
 
@@ -90,6 +92,12 @@ Le diciannove firme erano tutte lì.
 «Io questo l'ho firmato», disse. «E lo rifarei. Non pensavo che sarei stata io a guadagnare meno.»
 
 Sofia le propose un colloquio con l'ufficio del personale sulle indennità e sulle ore disponibili in altri reparti. Non prometteva uno spostamento, perché non ne aveva uno da offrire.
+
+«Voglio anche i dati», disse Rosa. «Le ore aggiuntive che abbiamo fatto negli ultimi dodici mesi e quelle che prevedete per i prossimi tre. Non soltanto il mio turno.»
+
+«Posso chiedere il prospetto», rispose Sofia. «E possiamo parlarne con i rappresentanti dei lavoratori.»
+
+Rosa annuì. Avrebbe preferito una cifra certa per la rata del mese. Non era ancora una risposta, ma almeno non chiedeva di tornare ai turni ingiusti.
 
 Quando Rosa uscì, B-37 arrivò per la verifica del calendario successivo.
 

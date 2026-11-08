@@ -72,7 +72,9 @@ Ci fu una pausa.
 
 Ada non insistette. Era in ritardo per il colloquio con la famiglia di un'altra ospite. Il tecnico sarebbe arrivato e avrebbe avuto accesso ai registri più completi.
 
-Segnò sul foglio che non risultavano incidenti e decise di mantenere B-33 nel servizio leggero fino alla verifica, escludendo i carichi più pesanti. La modifica venne controfirmata da Giulia, che non aveva osservato altri episodi dalla sua prima segnalazione.
+Segnò sul foglio che non risultavano incidenti e decise di mantenere B-33 nel servizio leggero fino alla verifica, escludendo i carichi più pesanti. Annotò anche il controllo del supporto ancora da eseguire. Giulia ricevette la nuova assegnazione e ne confermò la lettura, senza assumere la responsabilità tecnica della macchina: quella decisione era stata di Ada.
+
+La responsabile prese per un momento in mano il telefono. Avrebbe potuto chiedere al manutentore di anticipare il sopralluogo o togliere B-33 da quel corridoio. Ma la consegna della mattina sarebbe rimasta a un'operatrice che aveva già un turno pieno. Ada rimise giù il telefono.
 
 A pranzo Teresa chiese perché B-32 fosse rimasto tanto tempo fermo vicino all'ufficio.
 

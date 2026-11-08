@@ -31,3 +31,8 @@ In 002 il chiarimento di Amir sulla differenza fra mappa della baia e arresto an
 ## Quarta review: costo misurato e costo vissuto
 
 In 003 un ritardo documentale di ventidue minuti porta Giulia a rinviare la visita alla serra di una donna già vestita per uscire; Ada aggiunge `visita rinviata` a mano nel registro che prevede solo ritardi di consegna. La decisione prepara il rifiuto di Teresa di perdere un'altra visita nel 22. In 004 Mei confronta il video virale tagliato con la ripresa dell'attività documentata, senza una doppia spiegazione finale. Questo blocco **non è** quello simultaneo del capitolo 30.
+
+
+## Decima review — responsabilità dimostrata nei gesti
+
+Il fermo locale è la conseguenza di un passaggio di consegne che tratta come pratica differibile la seconda firma sulla mappa. Sofia registra sia l'autorizzazione incompleta sia la propria responsabilità di aver dato per buona una lista aperta. È un fermo autorizzativo locale, non il prodromo operativo di un telecomando globale.

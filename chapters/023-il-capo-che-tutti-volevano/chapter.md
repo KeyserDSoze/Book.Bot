@@ -20,3 +20,8 @@ pov:
 # Guardrail
 
 B-37 pianifica e propone, non è un datore di lavoro e non assume o licenzia. Sofia firma i turni, la direzione decide i rinnovi. Diminuiscono straordinari non garantiti; i lavoratori conservano il normale orario contrattuale. I benefici e i costi sono entrambi reali. Il progetto non implica una rete universale di robot né un rifiuto di lavorare.
+
+
+## Decima review — responsabilità dimostrata nei gesti
+
+Rosa aveva incorporato straordinari ripetuti nel bilancio famigliare e paga una rata di motorino che non diminuisce. Domanda il prospetto dei turni e il confronto coi rappresentanti dei lavoratori: il beneficio della pianificazione equa e la perdita di reddito sono simultaneamente veri; non nasce il desiderio semplicistico di tornare a una gestione ingiusta.

@@ -25,3 +25,8 @@ Niente diffusione virale automatica del codice, replica di coscienza o accessi m
 ## Quarta review: le persone che il report non nomina
 
 In 004 Mei affianca due classificazioni opposte della stessa tipologia di conferma contestuale e vede che nessuna registra la persona chiamata a rispondere durante il turno. La diffusione del modulo non attribuisce a Lanter il potere di arrestare da sola tutte le macchine; sono i clienti e i controllori autorizzati a dare effetti alle condizioni. Conservare i numeri canonici dei piloti e delle unità adottanti.
+
+
+## Decima review — responsabilità dimostrata nei gesti
+
+La baia 4 ha già una prima approvazione del turno; manca la seconda firma sulla mappa certificata. Sofia prova a cercare il responsabile e non lo trova alla chiusura del turno. Il rinvio deriva da vincoli e passaggi reali, non da stupidità dell'organizzazione.

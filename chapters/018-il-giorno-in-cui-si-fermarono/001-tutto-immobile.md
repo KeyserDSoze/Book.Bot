@@ -30,9 +30,11 @@ L'operatore dei carichi sollevò una mano.
 
 «È il sistema di prenotazione. Io ho quattro.»
 
-«Abbiamo corretto ieri.»
+«Ieri ho approvato la modifica di turno», disse Sofia.
 
-«Abbiamo corretto l'indicazione del turno. Non la mappa certificata.»
+«Quella c'è», rispose l'operatore. «È rimasta aperta la seconda firma sulla mappa certificata.»
+
+Sofia cercò la richiesta in cima al registro. Era stata messa lì da Amir. Nel passaggio di consegne qualcuno l'aveva classificata come documentazione da completare dopo lo scarico, perché non bloccava i camion che non usavano il percorso quattro-bis.
 
 Sofia aprì la pratica. La modifica era ancora in attesa di una seconda approvazione: la persona autorizzata aveva finito il turno prima che l'aggiornamento venisse proposto. Il nastro sul pavimento diceva quattro; la mappa del robot diceva quattro-bis; il programma delle consegne attribuiva al camion in arrivo una finestra che sarebbe scaduta fra quaranta minuti.
 
@@ -86,8 +88,6 @@ Sofia controllò il registro, segnò l'inizio del fermo e firmò **attesa per ve
 
 Non si sentì tradita da una macchina. Si sentì responsabile di una catena di passaggi che aveva lasciato incompleta.
 
-Le tornò in mente la sera in cui Amir le aveva detto di unificare la mappa.
+Le tornò in mente il messaggio di Amir. L'aveva lasciato in cima alle consegne. Si era detta che sarebbe bastato; aveva pensato che qualcuno, aprendo la lista la mattina, avrebbe riconosciuto l'urgenza.
 
-*Domani*, aveva risposto.
-
-Il domani era arrivato insieme a otto unità ferme e a un autista che fotografava il proprio orologio.
+Il domani era arrivato insieme a otto unità ferme e a un autista che fotografava il proprio orologio. Sofia scrisse il nome del responsabile mancante sul registro dell'incidente, poi aggiunse il proprio. Aveva approvato il turno senza accertarsi che la correzione fosse entrata nella mappa.

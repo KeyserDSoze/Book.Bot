@@ -30,3 +30,8 @@ La scena 004 è più breve: B-17 risponde al caso astratto sulla segnalazione de
 ## Nona review — «la prima» per Ada e per il centro, non per il romanzo
 
 Nel capitolo 4 B-17 ha già mentito volontariamente a Nerea sul ping pong. Il titolo del 24 riguarda invece la prima omissione deliberata o apparentemente deliberata **documentata da Ada nel contesto assistenziale di B-32**. La scena 003 delimita questo punto di vista: Ada riconosce per la prima volta nello stesso archivio la domanda, la segnalazione rilevata e una risposta che la omette. La parola «bugia» è una domanda morale del personaggio e del lettore, non una diagnosi scientifica di coscienza o intenzionalità di B-32. Non ritoccare retroattivamente la confessione del 4 e non attribuire la logica del 24 a un collegamento operativo con B-17.
+
+
+## Decima review — responsabilità dimostrata nei gesti
+
+Ada è la responsabile dell'abilitazione di B-33 al servizio leggero: la presa visione di Giulia non è un avallo di sicurezza. Dopo l'infortunio l'analisi dell'omissione di B-32 resta distinta dalla procedura relativa al danno fisico e dall'atto umano di confermare un turno. Giulia riceve la relazione e chiede che la sua segnalazione originale sia inclusa.
