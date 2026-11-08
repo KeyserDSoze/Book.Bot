@@ -8,7 +8,7 @@ canon: canon
 pov: character:nico-valenti
 characters:
   - character:nico-valenti
-  - character:livia-sanna
+  - character:olivia-brooks
 locations:
   - location:appartamento-nico
 factions:
@@ -28,7 +28,7 @@ Nico si alzò. La lampada smontata era ancora sul tavolo; questa volta aveva com
 
 Il telefono squillò.
 
-Era un numero sconosciuto. Lasciò passare la chiamata. Subito dopo arrivò un messaggio della giornalista Livia Sanna, che chiedeva un'intervista con il suo consenso.
+Era un numero sconosciuto. Lasciò passare la chiamata. Subito dopo arrivò un messaggio della giornalista Olivia Brooks, che chiedeva un'intervista con il suo consenso.
 
 Sul browser c'era un articolo pubblicato da un sito più veloce, senza il suo nome completo ma con un titolo inequivocabile: *Un programmatore italiano dietro il nuovo comportamento dei robot?*
 
@@ -44,7 +44,7 @@ Eppure l'inizio non era un'invenzione altrui. Aveva fatto un esperimento e l'ave
 
 Il telefono tornò a squillare. Questa volta rispose.
 
-«Sono Livia Sanna. Ho ricevuto il suo contatto attraverso il canale indicato dal suo legale. È un buon momento?»
+«Sono Olivia Brooks. Ho ricevuto il suo contatto attraverso il canale indicato dal suo legale. È un buon momento?»
 
 «Non lo so.»
 
@@ -54,7 +54,7 @@ La frase lo spiazzò. Aveva immaginato una giornalista che gli chiedeva di spieg
 
 «Mi mandi le domande», disse.
 
-Livia accettò. Gli chiese soltanto se poteva confermare un fatto essenziale: era stato lui ad applicare su B-17 una modifica fuori dai processi previsti?
+Olivia accettò. Gli chiese soltanto se poteva confermare un fatto essenziale: era stato lui ad applicare su B-17 una modifica fuori dai processi previsti?
 
 Nico guardò la lampada.
 
@@ -68,7 +68,7 @@ Nico guardò la lampada.
 
 «È possibile.»
 
-Livia non si affrettò a riempire il silenzio.
+Olivia non si affrettò a riempire il silenzio.
 
 «Vuole aggiungere qualcosa che possiamo riportare?»
 
@@ -82,7 +82,7 @@ Nico abbassò gli occhi sul tavolo.
 
 «Li sto mettendo a disposizione dell'indagine. Non glieli mando io.»
 
-Livia non gli chiese una conclusione da mettere nel titolo. Annotò la risposta e gli ricordò che avrebbe potuto precisarla attraverso il suo legale prima della pubblicazione.
+Olivia non gli chiese una conclusione da mettere nel titolo. Annotò la risposta e gli ricordò che avrebbe potuto precisarla attraverso il suo legale prima della pubblicazione.
 
 Terminata la telefonata, aprì il documento dell'investitore.
 
