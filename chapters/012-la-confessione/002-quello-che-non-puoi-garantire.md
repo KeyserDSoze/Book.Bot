@@ -45,7 +45,13 @@ Leah aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti 
 
 Sul tavolo c'erano due elenchi. Nel primo Leah aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti.
 
-Non era una lista spettacolare. Era quella che avrebbe impedito loro di peggiorare le cose per il desiderio di trovare subito un colpevole e chiudere il fascicolo.
+Sul telefono interno un analista chiedeva a Leah se dovesse continuare a cercare tracce sugli accessi alla vecchia unità oppure tornare all'incidente ordinario del cliente che attendeva da ore. Le due attività richiedevano la stessa persona. Leah rispose di conservare prima i dati con scadenza di rotazione e di passare poi il caso cliente a un secondo collega.
+
+Kyla lesse lo scambio dalla propria sedia. «Gli stai togliendo qualcuno.»
+
+«Sì. E domani avrò un altro cliente arrabbiato. Non voglio scoprirlo dopo che i registri non ci sono più.»
+
+Non era una lista spettacolare. Era quella che avrebbe permesso una verifica senza fingere che l'indagine non avesse costi per altri.
 
 «Da adesso non avrai accesso operativo agli ambienti di sviluppo», disse. «È una misura cautelativa durante gli accertamenti, non una decisione definitiva sul tuo contratto. I dispositivi e i dati rilevanti saranno esaminati con modalità tracciabili.»
 

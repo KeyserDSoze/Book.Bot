@@ -31,6 +31,14 @@ Nico rimase in piedi vicino alla lampada smontata. Aveva finalmente comprato tut
 
 «Non posso dirtelo finché non vediamo le evidenze. Non ti sto chiedendo di entrare da remoto. Se accetti, ti mostreremo copie verificate.»
 
+«Perché richiamate proprio me?»
+
+Leah rimase in silenzio per un momento. «Perché c'è una frase di cui conosci il contesto di prova, ma non sappiamo se il testo che circola sia ancora quello. Ho chiesto a un consulente indipendente di approvare il perimetro del colloquio; ci saranno altre persone a controllare quello che dici.»
+
+«Non avete bisogno che io ammetta un'altra colpa.»
+
+«Ho bisogno di capire se ce n'è una e se stiamo attribuendo a te decisioni prese da altri.»
+
 «Vengo.»
 
 Alla reception lo accompagnò un addetto della sicurezza. Nico ricevette un tesserino temporaneo e attraversò il campus che conosceva quasi a memoria.
@@ -77,9 +85,15 @@ Era una frase che avrebbe potuto scrivere lui nei test sul comportamento convers
 
 «È un principio che usavamo in alcune prove. Ma non posso dire che provenga da me soltanto perché lo riconosco.»
 
-Leah annuì.
+«Che cosa confronteresti per capirlo?», chiese Leah.
 
-«È la risposta che volevo.»
+Nico passò un dito sopra le due parole *assenza* e *rifiuto*, senza toccare lo schermo. «Nei miei casi era una domanda rivolta a un singolo interlocutore. Qui è diventata una regola per un impianto. Chiederei la versione prima di questa e il nome di chi ha autorizzato il cambiamento di significato, non soltanto di formulazione.»
+
+«E chi ha approvato il test che faceva sembrare valido quel passaggio», aggiunse uno dei consulenti.
+
+«Sì», rispose Nico. «Anche quello.»
+
+Leah annotò entrambe le richieste. «Per questo abbiamo bisogno delle versioni originali, non di un'origine indovinata da una frase familiare.»
 
 Nico guardò le schermate. C'erano file relativi a installazioni di produttori diversi, stati di attività sospesa e registri che mostravano un unico istante di inizio.
 

@@ -48,7 +48,11 @@ Leah intervenne prima che rispondesse.
 
 «Nico può spiegare i propri interventi nel perimetro di questo accertamento. Non sarà la sola persona a verificare o certificare ciò che ha modificato senza autorizzazione.»
 
-Nico annuì. Aveva già cominciato a indicare sul quaderno quali moduli controllare per primi. Richiuse la pagina prima che il consulente gliela chiedesse. La lista sarebbe stata esaminata insieme alle altre prove, non eseguita da lui su B-17 quella sera.
+Nico annuì. Aveva già cominciato a indicare sul quaderno quali moduli controllare per primi. Un consulente gli chiese di scegliere fra due ipotesi: riavviare la vecchia configurazione su un'identità di prova oppure analizzare una copia delle dipendenze senza eseguire il programma.
+
+«La seconda», rispose Nico. «La prima potrebbe dirvi che parte, ma non che mantiene lo stesso contesto. Sarebbe un test con il titolo sbagliato.»
+
+Il consulente scrisse la distinzione sul proprio elenco. Nico richiuse la pagina prima che l'altro gliela chiedesse. La lista sarebbe stata esaminata insieme alle altre prove, non eseguita da lui su B-17 quella sera.
 
 Il consulente scorse una pagina.
 
