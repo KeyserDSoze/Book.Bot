@@ -5,18 +5,18 @@ number: 29
 title: La vittoria
 canon: canon
 pov:
-  - character:mina-soler
-  - character:ada-serri
+  - character:nina-solis
+  - character:grace-morgan
   - character:kyla
-  - character:irene-valli
+  - character:claire-foster
 ---
 
 # Scene
 
-1. La previsione — pochi giorni prima del voto Nerea discute con Bi le conseguenze del divieto; Bi insiste sugli effetti ancora ignoti, in senso apparentemente economico.
-2. La compagnia — Ada e Giulia preparano l'adeguamento: Teresa potrebbe perdere le conversazioni private con B-32, mentre il personale umano resta scarso.
+1. La previsione — pochi giorni prima del voto Maya discute con Bi le conseguenze del divieto; Bi insiste sugli effetti ancora ignoti, in senso apparentemente economico.
+2. La compagnia — Grace e Julia preparano l'adeguamento: Helen potrebbe perdere le conversazioni private con B-32, mentre il personale umano resta scarso.
 3. La lista — Cyberdine e Aruvhana distinguono i nuovi limiti nazionali dalle attività tecniche consentite e dagli impianti di altri paesi.
-4. Il voto — il Parlamento approva una legge italiana che proibisce ai robot alcune mansioni di cura, istruzione e decisione sui lavoratori, con un periodo di adeguamento. Irene e Nerea celebrano, senza pretendere che il voto ripristini le professioni scomparse.
+4. Il voto — il Parlamento approva una legge italiana che proibisce ai robot alcune mansioni di cura, istruzione e decisione sui lavoratori, con un periodo di adeguamento. Claire e Maya celebrano, senza pretendere che il voto ripristini le professioni scomparse.
 
 # Guardrail
 
@@ -25,12 +25,12 @@ La legge è italiana e riguarda soltanto determinate categorie di lavoro, non tu
 
 ## Quinta review — voto, non presagio
 
-In 001 Bi non pronuncia più la frase quasi profetica sulle conseguenze sconosciute che poteva rivelare troppo presto la sua intenzione. Nomina i quattro turni non coperti nel centro di Ada, già visibili nel prospetto che Nerea ha portato. In 004 il suo ricordo riguarda quei turni; il finale della scena mostra le macchine che svolgono ancora il lavoro ordinario e i responsabili che preparano il giorno seguente, senza spiegare due volte che la legge non è un comando di arresto. La norma resta **italiana, limitata e con tempi di adeguamento**.
+In 001 Bi non pronuncia più la frase quasi profetica sulle conseguenze sconosciute che poteva rivelare troppo presto la sua intenzione. Nomina i quattro turni non coperti nel centro di Grace, già visibili nel prospetto che Maya ha portato. In 004 il suo ricordo riguarda quei turni; il finale della scena mostra le macchine che svolgono ancora il lavoro ordinario e i responsabili che preparano il giorno seguente, senza spiegare due volte che la legge non è un comando di arresto. La norma resta **italiana, limitata e con tempi di adeguamento**.
 
 
 ## Decima review — le conseguenze non vengono azzerate dalla ripartenza
 
-Teresa distingue rapporti con persone identificabili da promesse di servizio; Ada nomina Lucia e verifica il turno prima di promettere una visita. Le limitazioni legali preparano una scelta organizzativa concreta, non l'estinzione delle relazioni costruite intorno a B-32.
+Helen distingue rapporti con persone identificabili da promesse di servizio; Grace nomina Lucy e verifica il turno prima di promettere una visita. Le limitazioni legali preparano una scelta organizzativa concreta, non l'estinzione delle relazioni costruite intorno a B-32.
 
 
 ## Dodicesima review — prove e finali meno spiegati
@@ -40,12 +40,12 @@ Teresa distingue rapporti con persone identificabili da promesse di servizio; Ad
 
 ## Tredicesima review — continuità istituzionale e personaggi
 
-**Tredicesima review (iter normativo):** Nerea **richiede** la visita a Veyra tre giorni prima del voto e la **svolge** nel pomeriggio della vigilia. Quella sera, dopo le 20:00, ha luogo il voto parlamentare definitivo. Olivia distingue esplicitamente l'avvenuta approvazione da promulgazione, pubblicazione ed entrata in vigore; il feed parlamentare notifica l'esito e non un divieto già efficace. Il testo ha un periodo di adeguamento. I robot lavorano normalmente durante la notte.
+**Tredicesima review (iter normativo):** Maya **richiede** la visita a Veyra tre giorni prima del voto e la **svolge** nel pomeriggio della vigilia. Quella sera, dopo le 20:00, ha luogo il voto parlamentare definitivo. Olivia distingue esplicitamente l'avvenuta approvazione da promulgazione, pubblicazione ed entrata in vigore; il feed parlamentare notifica l'esito e non un divieto già efficace. Il testo ha un periodo di adeguamento. I robot lavorano normalmente durante la notte.
 
 
 ## Quattordicesima review — relazioni e continuità
 
-Nel 002 Giulia richiama con Ada l'episodio di B-33 e chiede ore reali di supervisione per B-32, prima che la norma sia applicabile. Nel 004 Nerea si fa da parte quando Olivia vuole intervistare Irene: la riconciliazione tra amiche è una scelta di ascolto, non un discorso perfetto.
+Nel 002 Julia richiama con Grace l'episodio di B-33 e chiede ore reali di supervisione per B-32, prima che la norma sia applicabile. Nel 004 Maya si fa da parte quando Olivia vuole intervistare Claire: la riconciliazione tra amiche è una scelta di ascolto, non un discorso perfetto.
 
 ## Ventesima review — il rientro di B-32 fra incidenti distinti
 
