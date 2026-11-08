@@ -1,5 +1,5 @@
 {
-  "policy": "Mappatura EDITORIALE RICONCILIATA con main. Vengono adottate le proposte internazionali per le identità ancora italiane; Kyla Morgan, Mei Lin, Leah Rosen, Mila Novak, Elena Fischer, Gavin Shaw, Malik Okafor, Anika Rao ed Erik Solberg conservano i nomi multiculturali già canonici. Le scene aggiornate nelle PR #4–#8 non vengono sostituite con vecchie versioni della PR #3.",
+  "policy": "Cast internazionale riconciliato con main dopo le PR #3–#8. Si migrano le identità ancora italiane, senza riesumare la vecchia prosa della PR #3. Kyla Morgan, Mei Lin, Leah Rosen, Mila Novak, Elena Fischer, Malik Okafor, Anika Rao, Erik Solberg e Olivia Brooks restano canonici; Gavin viene disambiguato come Gavin Shaw e la responsabile del centro diventa Grace Walker.",
   "people": [
     {
       "oldName": "Ada Serri",
@@ -187,5 +187,19 @@
       "il-pomodoro-carlo",
       "il-pomodoro-charlie"
     ]
+  ],
+  "sourceBranch": "editorial/seconda-passata-capitoli-03-04",
+  "reconciliation": "La PR #3 è un ramo storico divergente. I sei documenti obsoleti sono in reviews/archive/pr3/, non nel canone. Nuovi nomi, metadati e guide sostituiscono le vecchie proposte senza sostituire le scene riviste.",
+  "finalDisambiguation": [
+    {
+      "before": "Gavin Cole",
+      "after": "Gavin Shaw",
+      "reason": "Separare il Delivery manager dall'AD Victor Cole, non parenti."
+    },
+    {
+      "before": "Grace Morgan",
+      "after": "Grace Walker",
+      "reason": "Separare la responsabile assistenziale da Kyla Morgan, non parenti."
+    }
   ]
 }
