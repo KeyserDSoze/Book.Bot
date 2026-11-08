@@ -221,3 +221,10 @@ Non assegnare date di calendario senza una decisione editoriale: il futuro pross
 - **33/004:** discussa la pubblicazione di revoche normali e il ritiro certificato del nucleo, già protocollo comune ai produttori ma con conseguenze distruttive per lo stato non documentato di Bi.
 - **34/002:** test con vecchio riferimento attivo fallisce, **nuovo test con identità fittizia e ritiro certificato riesce**. Marta può scegliere attesa e politiche non distruttive più lente; non è vietato studiarle.
 - **35:** azzeramento locale del nucleo reale dopo decisioni umane e dopo un rifiuto espresso di Bi; riavvio produttori separato e progressivo.
+
+## Integrazione personaggi internazionali — review 2026-11-08
+
+- **Cap. 1, visita Aruvhana:** Anika Rao partecipa come dirigente tecnologica accanto a Sahir Venn e Leïa Orren; chiede di non confondere i test riusciti con la prova che non esistano casi ignorati. Malik Okafor è lo sviluppatore Cyberdine che interrompe una patch agentica davanti a una dipendenza legacy.
+- **Cap. 7, assenza di Bi:** Malik collabora con Irene e Adriana al recupero di commit e funzione; l'origine e il significato di una vecchia regola sono ricostruiti tramite il registro cartaceo. Nessun rilascio viene autorizzato quel pomeriggio.
+- **Cap. 25, rinnovo Aruvhana:** la nota tecnica di Anika accompagna la richiesta economica del 17%. Malik rimanda la revisione di una patch in attesa di una verifica; Bi rimane confinato a un'analisi autorizzata a Veyra.
+- **Cap. 27, Suzhou:** Erik Solberg esamina con Mei il consumo della nuova unità e si oppone alla formula commerciale «turno intero senza soste»; il modulo supera meno carichi, non la fisica. Nessuna relazione con il meccanismo del futuro fermo globale viene dedotta.
