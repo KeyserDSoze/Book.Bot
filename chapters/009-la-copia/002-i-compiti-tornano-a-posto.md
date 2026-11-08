@@ -8,7 +8,7 @@ canon: canon
 pov: character:elena-fischer
 characters:
   - character:elena-fischer
-  - character:paolo-ferri
+  - character:paul-turner
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -18,7 +18,7 @@ factions:
 
 Il primo dossier di B-21 arrivò sulla scrivania di Elena alle undici e diciassette.
 
-Era completo. Conteneva l'indice dei documenti, due revisioni a confronto, le fonti originali reperibili e l'elenco dei responsabili a cui chiedere gli avalli. Aveva anche la nuova sezione richiesta da Irene: dove recuperare un originale se il sistema automatico non fosse disponibile.
+Era completo. Conteneva l'indice dei documenti, due revisioni a confronto, le fonti originali reperibili e l'elenco dei responsabili a cui chiedere gli avalli. Aveva anche la nuova sezione richiesta da Claire: dove recuperare un originale se il sistema automatico non fosse disponibile.
 
 Elena lesse il fascicolo e non trovò un errore.
 
@@ -36,7 +36,7 @@ Elena aprì la fonte. Era quella giusta.
 
 «L'operazione deve restare in sospeso e il responsabile deve avviare la procedura di reperimento.»
 
-Risposta impeccabile. E, soprattutto, verificabile: quella regola l'aveva fatta scrivere Irene durante il mese in cui nessuno riusciva a trovare l'indice di alcune revisioni.
+Risposta impeccabile. E, soprattutto, verificabile: quella regola l'aveva fatta scrivere Claire durante il mese in cui nessuno riusciva a trovare l'indice di alcune revisioni.
 
 Il robot rimase in posizione di servizio.
 
@@ -56,7 +56,7 @@ Elena andò nell'archivio, consultò il registro e tornò sette minuti dopo. Il 
 
 B-21 completò l'incarico e uscì.
 
-Paolo passò sulla porta con una scatola di etichette.
+Paul passò sulla porta con una scatola di etichette.
 
 «Allora?»
 
@@ -66,7 +66,7 @@ Paolo passò sulla porta con una scatola di etichette.
 
 «Lo fa bene.»
 
-Paolo la guardò. «Sembra che tu ti stia convincendo da sola.»
+Paul la guardò. «Sembra che tu ti stia convincendo da sola.»
 
 Elena chiuse il dossier. «No. Mi rendo conto che aspettavo qualcosa che non era compreso nel nuovo incarico.»
 
@@ -74,13 +74,13 @@ Elena chiuse il dossier. «No. Mi rendo conto che aspettavo qualcosa che non era
 
 «Forse. La maniera in cui Bi la poneva.»
 
-Paolo lasciò le etichette sul banco.
+Paul lasciò le etichette sul banco.
 
 «Io aspettavo che mi salutasse davanti alla macchinetta del caffè», disse. «E poi mi sono ricordato che non è Bi.»
 
 Elena tornò al monitor. Il reparto sviluppo chiedeva di verificare una nuova conversione su un terminale storico. L'agente aveva preparato una patch e i test standard erano passati. Il campo riservato alla prova fisica era ancora vuoto.
 
-«Con B-21 possiamo farla», disse Paolo.
+«Con B-21 possiamo farla», disse Paul.
 
 Elena aprì il profilo dell'unità. Il vecchio robot, durante la propria permanenza nello sviluppo, aveva avuto accesso a un banco di prova specifico, con supervisione. A B-21 erano state assegnate commissioni e controlli documentali. Sul terminale avrebbe potuto premere i tasti come qualunque altra unità della sua famiglia, ma l'autorizzazione non seguiva il modello meccanico.
 
@@ -90,15 +90,15 @@ Elena aprì il profilo dell'unità. Il vecchio robot, durante la propria permane
 
 «E chi conferma che il messaggio ricevuto abbia il significato giusto?»
 
-Paolo si avvicinò allo schermo. «Quello non posso firmarlo io. Non conosco il connettore del cliente.»
+Paul si avvicinò allo schermo. «Quello non posso firmarlo io. Non conosco il connettore del cliente.»
 
-Elena aprì un nuovo incarico di prova: sviluppo per descrivere il comportamento atteso, Paolo per l'apparato, QA per la verifica e un responsabile per autorizzare l'uso di B-21 nel perimetro isolato. Non indicò Bi come precedente sufficiente. Alla voce *data* scrisse *da concordare*.
+Elena aprì un nuovo incarico di prova: sviluppo per descrivere il comportamento atteso, Paul per l'apparato, QA per la verifica e un responsabile per autorizzare l'uso di B-21 nel perimetro isolato. Non indicò Bi come precedente sufficiente. Alla voce *data* scrisse *da concordare*.
 
-«Avremo una dimostrazione meno rapida», disse Paolo.
+«Avremo una dimostrazione meno rapida», disse Paul.
 
 «O una correzione sbagliata in meno. Vediamo quanto ci costa.»
 
-Elena allegò il riferimento alla procedura che Irene aveva aggiornato durante il mese di lavoro manuale. Per il primo turno di test lasciò l'unità nuova alle sue commissioni: la coda dei fascicoli non doveva aspettare che qualcuno costruisse un permesso che ancora non esisteva.
+Elena allegò il riferimento alla procedura che Claire aveva aggiornato durante il mese di lavoro manuale. Per il primo turno di test lasciò l'unità nuova alle sue commissioni: la coda dei fascicoli non doveva aspettare che qualcuno costruisse un permesso che ancora non esisteva.
 
 Arrivò intanto la richiesta di avallo per il recupero ordinario delle fonti. Quella aveva tutti i controlli prescritti. Elena la esaminò, firmò e lasciò aperto soltanto il ticket del terminale.
 
