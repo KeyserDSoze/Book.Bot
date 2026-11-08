@@ -40,7 +40,15 @@ Mina la aspettava.
 
 «Lo immaginavo.»
 
-«La sessione è autorizzata soltanto per un periodo limitato. Bi non ha accesso alle funzioni ordinarie. Ci saranno persone di sicurezza in una stanza adiacente. La conversazione non sarà usata per pubblicità o dimostrazioni.»
+«La sessione è autorizzata soltanto per un periodo limitato. Bi non ha accesso alle funzioni ordinarie. Nella stanza accanto ci saranno i tecnici che controllano la sicurezza. Conserviamo il verbale necessario a documentare la sessione, secondo i limiti che ti abbiamo mandato. La conversazione non sarà usata per pubblicità o dimostrazioni.»
+
+«E chi leggerà le mie risposte?»
+
+«I referenti autorizzati alla verifica. Non chiediamo che tu ci racconti altre cose private per provare che lui ricorda. Puoi ancora scegliere di non entrare.»
+
+Nerea guardò la custodia numerata per il telefono vicino alla porta. «Non ho attraversato mezzo mondo per diventare un test. Voglio parlargli.»
+
+«Va bene.»
 
 «Posso parlargli normalmente?»
 
@@ -52,11 +60,13 @@ Nerea annuì.
 
 Mina esitò.
 
-«Non devi decidere tu che cosa fare della configurazione.»
+«Non ti chiederemo di certificarci che sia lo stesso. E non sarà una tua risposta a decidere il ripristino.»
 
-«Non intendevo quello.»
+«Non era quello che ti stavo chiedendo.»
 
-«Lo so.»
+«Hai ragione», disse Mina. «Non so che cosa proverai trovandolo diverso.»
+
+Nerea avrebbe voluto una promessa. Quella risposta, almeno, non la obbligava a riconoscersi in un giudizio tecnico.
 
 Percorsero un corridoio con il pavimento segnato da strisce chiare. Dietro un vetro alcune unità si esercitavano nella movimentazione di contenitori. Un tecnico passava tra loro verificando le distanze. Era quasi rassicurante vedere dei robot fare lavori noiosi.
 
