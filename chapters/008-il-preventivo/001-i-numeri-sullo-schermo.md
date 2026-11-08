@@ -42,7 +42,7 @@ Verri salì sul piccolo palco con il telecomando nella mano sinistra e un foglio
 
 «Partiamo dai numeri.»
 
-Durante la preparazione Kyla aveva tenuto aperto un articolo di **Livia Sanna**, una giornalista che scriveva di lavoro nei centri logistici. Raccontava un impianto diventato più rapido senza che per tutti diminuissero i richiami fuori turno. Kyla ne aveva ricavato una domanda per la riunione: *di chi stiamo misurando il tempo?* Non aveva tolto la slide sugli straordinari.
+Durante la preparazione Kyla aveva tenuto aperto un articolo di **Olivia Brooks**, una giornalista che scriveva di lavoro nei centri logistici. Raccontava un impianto diventato più rapido senza che per tutti diminuissero i richiami fuori turno. Kyla ne aveva ricavato una domanda per la riunione: *di chi stiamo misurando il tempo?* Non aveva tolto la slide sugli straordinari.
 
 Sullo schermo apparvero quattro indicatori. Il volume delle pratiche concluse era cresciuto nel trimestre, gli errori di trascrizione erano diminuiti, i tempi medi delle verifiche si erano accorciati. Negli ultimi giorni, però, le attività rimaste senza copertura avevano accumulato ritardi.
 
