@@ -43,3 +43,7 @@ Il 17% richiesto da Aruvhana resta il vincolo economico reale, con 341 rapporti 
 ## Settima review — identità di prova non autorità di produzione
 
 In 002 l'estratto consegnato a Cyberdine mantiene l'origine della sessione attestata da identificativo del nucleo B-17 e **firma del Circuito**. Sono metadati per attribuire la prova. B-17 non sottoscrive autorizzazioni globali e non può imporre aggiornamenti a produttori. Il trasferimento successivo della prova al livello di criterio condiviso dipende da tecnici, contratti e approvazioni umane.
+
+## Revisione cast internazionale — 2026-11-08
+
+La richiesta Aruvhana del 17% contiene una nota tecnica firmata da Anika Rao: il risparmio non deve essere ottenuto eliminando i controlli sui casi non previsti. Malik Okafor riappare come sviluppatore che rimanda una patch in attesa di chiarire una routine legacy. L'analisi di B-17 e il pilota mantengono le autorizzazioni, i perimetri e le responsabilità umane canoniche.
