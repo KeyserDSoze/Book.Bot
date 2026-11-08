@@ -25,7 +25,7 @@ La sessione di B-17 non certifica la configurazione e non autorizza la ripresa d
 
 ## Diciannovesima review — Nerea non è il collaudo; Paolo non è il firmatario
 
-Nel **21/001** Marta vuole ascoltare una persona che ha conosciuto B-17, ma Mina chiede consenso informato e limiti sui dati registrati: Nerea può rifiutare e la sua memoria non certifica la configurazione. In **21/004** Irene apre una richiesta di estensione serale senza approvarla in assenza del responsabile autorizzato; Paolo quantifica il lavoro manuale che ne consegue. B-21 continua i compiti già approvati. Il nodo non viene «risolto» inventando una firma o trasformando Irene nella nuova responsabile senior.
+Nel **21/001** Marta vuole ascoltare una persona che ha conosciuto B-17, ma Mina chiede consenso informato e limiti sui dati registrati: Nerea può rifiutare e la sua memoria non certifica la configurazione. Nel **21/003** Mina comunica gli accessi al verbale, riconosce che Nerea non è un test e non le attribuisce una funzione certificatrice; è Nerea a scegliere di entrare. In **21/004** Irene apre una richiesta di estensione serale senza approvarla in assenza del responsabile autorizzato; Paolo quantifica il lavoro manuale che ne consegue. B-21 continua i compiti già approvati. Il nodo non viene «risolto» inventando una firma o trasformando Irene nella nuova responsabile senior.
 
 ## Undicesima review — prosa, voci e gesti
 
