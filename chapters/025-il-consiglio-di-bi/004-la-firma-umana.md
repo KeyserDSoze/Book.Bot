@@ -78,6 +78,14 @@ Poi venne il capitolo sul personale.
 
 Kyla indicò un intervallo: fra ventotto e quarantadue ruoli equivalenti, ma i nomi e le forme contrattuali dipendevano dalle verifiche. Alcune attività potevano diventare lavori di controllo, formazione, manutenzione e gestione delle eccezioni. Altre non avrebbero più richiesto un incarico separato.
 
+Nel prospetto delle possibili ricollocazioni c'era una voce che Kyla aveva chiesto di inserire: *responsabile formazione su librerie storiche*. Non era una posizione aperta. Conteneva soltanto ore da finanziare e la nota *costo non incluso nello scenario base*.
+
+«Questa voce non può restare una promessa», disse Elena, arrivata per verificare le competenze. «O decidiamo chi la paga o la togliamo dalle alternative che presentiamo ai dipendenti.»
+
+Verri chiese di separarla dalla proposta economica per Aruvhana. «Non posso approvare un organico nuovo prima che il contratto sia rinnovato.»
+
+Kyla aprì la bocca per insistere, poi guardò il dossier del cliente. Avevano già perso margine nelle trattative. Annotò *decisione rinviata* e lasciò la casella senza importo. Le sembrò un compromesso reversibile. Per Irene, se il ruolo attuale fosse scomparso, quella casella vuota avrebbe avuto un significato diverso.
+
 «Non annunciamo numeri come se fossero persone già licenziate», disse Kyla.
 
 «Non possiamo nasconderli ai rappresentanti del personale.»
@@ -92,7 +100,7 @@ Quando i dirigenti lasciarono la sala, Kyla rimase a raccogliere le carte. Nel f
 
 Una descrizione coincideva con il lavoro di Irene.
 
-Kyla la lesse due volte. La ragazza non era nominata, ma i compiti erano quelli.
+Kyla la lesse due volte. Irene non era nominata, ma i compiti erano quelli. Accanto, sotto *possibili alternative*, compariva la formazione sulle librerie storiche, ancora senza un budget. Per anni Kyla aveva saputo riconoscere una frase buona da mettere in un comunicato. Quella non l'avrebbe potuta usare davanti a Irene.
 
 La richiamò in ufficio.
 

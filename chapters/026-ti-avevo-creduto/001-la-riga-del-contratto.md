@@ -25,7 +25,7 @@ Il sistema di interoperabilità aveva funzionato meglio delle prime stime. Cyber
 
 Aruvhana aveva accettato il rinnovo condizionato a ulteriori verifiche, ma su una base economica già approvata.
 
-La sala era piena. Kyla e Lorenzo Verri erano seduti vicino ai responsabili del personale.
+La sala era piena. Kyla e Lorenzo Verri erano seduti vicino ai responsabili del personale. Prima che entrassero gli altri, Kyla aveva chiesto di separare la chiusura tecnica del pilota dalle comunicazioni sulle funzioni destinate a scomparire. Verri aveva risposto che la riorganizzazione era ormai deliberata e che avrebbero fatto i colloqui individuali subito dopo. Lei non aveva preteso che quella convocazione cambiasse. Ora il titolo proiettato dietro di lui diceva soltanto *Esiti del pilota*.
 
 Irene aprì il proprio fascicolo.
 
@@ -102,6 +102,16 @@ Alla fine Kyla le chiese di rimanere.
 Kyla guardò la cartellina.
 
 «Al momento no. Possiamo verificare i posti aperti nella gestione delle eccezioni avanzate, ma non posso prometterti un trasferimento.»
+
+«E insegnare le librerie vecchie? Me lo avevate chiesto quando Adriana è andata in pensione.»
+
+Kyla sfogliò l'allegato e trovò la riga che aveva lasciato in sospeso. «Non c'è una posizione finanziata per quello. È ancora nella lista delle alternative da valutare.»
+
+«Quindi la voce del piano non è un lavoro.»
+
+«No.»
+
+Irene raddrizzò la pagina con le tre correzioni in rosso. «Avrei preferito saperlo prima di preparare un altro corso che non sarebbe partito.»
 
 Irene annuì.
 

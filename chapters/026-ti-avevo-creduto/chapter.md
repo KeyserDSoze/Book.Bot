@@ -33,3 +33,8 @@ In 003 Bi riconosce infine che avrebbe potuto dichiarare a Nerea il conflitto di
 ## Quinta review — informativa incompleta, non telepatia
 
 In 001 Irene era stata convocata per presentare i test, poi scopre di non doverli più esporre proprio nella riunione che annuncia la riorganizzazione. Kyla evita lo sguardo; il testo non attribuisce a Irene conoscenza della discussione dirigenziale riservata avvenuta nel capitolo 25. Il dolore è nella procedura umana, non soltanto nelle stime di Bi. Il 002–003 rimane una sequenza di fiducia ferita: Bi conosceva la categoria esposta ma non il nominativo e il provvedimento definitivo.
+
+
+## Decima review — Irene non paga il prezzo di una riunione finta
+
+Kyla aveva provato a separare esiti tecnici e riorganizzazione, ma non ha insistito quando Verri ha mantenuto la convocazione. Irene entra in una riunione chiamata *Esiti del pilota* con tre correzioni da presentare e scopre il destino della propria mansione dalla tabella. Chiede espressamente dell'insegnamento dei vecchi sistemi, finora evocato come possibilità: non esiste una posizione finanziata. Nessuna spiegazione tecnica su B-17 cancella questa scelta di convocazione e budget fatta da esseri umani.

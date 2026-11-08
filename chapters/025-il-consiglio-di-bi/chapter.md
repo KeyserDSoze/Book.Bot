@@ -52,3 +52,8 @@ La richiesta Aruvhana del 17% contiene una nota tecnica firmata da Anika Rao: il
 ## Raccordo umano Cyberdine — revisione progressiva
 
 Il rinnovo è letto anche da Kyla nella sua nuova posizione di azionista di minoranza: il conflitto fra sopravvivenza societaria, reputazione e posti di lavoro riguarda ormai anche lei personalmente. Gavin prende parte al confronto tecnico sulle stime, difende gli sviluppatori e inizia a considerare esplicitamente le ore di QA fuori dal proprio perimetro. Non trasformare la revisione finanziaria in una cerimonia di buone intenzioni: nel capitolo 26 Kyla non riesce a evitare a Irene la riunione che le toglie la funzione.
+
+
+## Decima review — una scelta economica personalmente riconoscibile
+
+In 004 Elena contesta la voce di ricollocazione sulla formazione legacy non finanziata; Verri rinvia il budget in nome del contratto Aruvhana e Kyla accetta di lasciare l'alternativa fra quelle da valutare. È una scelta umana imperfetta con una motivazione aziendale concreta, non un mandato di Bi. La casella vuota ritorna nella comunicazione individuale a Irene al capitolo 26 e nelle ore finalmente contrattualizzate del capitolo 35: il lavoro esiste, ma l'azienda sceglie quando finanziarlo e non crea retroattivamente il posto perduto.
