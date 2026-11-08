@@ -8,7 +8,7 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lorenzo-verri
+  - character:victor-hale
   - character:leah-rosen
 locations:
   - location:cyberdine-campus
@@ -20,9 +20,9 @@ factions:
 
 Kyla tolse dal comunicato la frase *Cyberdine sostiene ogni forma di innovazione responsabile*.
 
-L'aveva scritta lei, tre anni prima, per una conferenza aziendale. Adesso non rispondeva alla domanda che tutti facevano: che cosa avrebbe fatto Cyberdine se il Parlamento avesse limitato il lavoro dei robot in alcune professioni? Kyla non parlava più soltanto da responsabile della comunicazione. Possedeva una piccola quota della società e conosceva i costi che Verri avrebbe difeso; non le piaceva che la propria firma sembrasse automaticamente un voto a favore di qualsiasi scelta.
+L'aveva scritta lei, tre anni prima, per una conferenza aziendale. Adesso non rispondeva alla domanda che tutti facevano: che cosa avrebbe fatto Cyberdine se il Parlamento avesse limitato il lavoro dei robot in alcune professioni? Kyla non parlava più soltanto da responsabile della comunicazione. Possedeva una piccola quota della società e conosceva i costi che Hale avrebbe difeso; non le piaceva che la propria firma sembrasse automaticamente un voto a favore di qualsiasi scelta.
 
-Lorenzo Verri aveva chiesto una riunione breve. Quando Kyla entrò, sul tavolo c'erano nove pagine di osservazioni al progetto di legge e un elenco di telefonate ricevute dai clienti.
+Victor Hale aveva chiesto una riunione breve. Quando Kyla entrò, sul tavolo c'erano nove pagine di osservazioni al progetto di legge e un elenco di telefonate ricevute dai clienti.
 
 «Aruvhana è preoccupata», disse lui.
 
@@ -40,7 +40,7 @@ Leah Rosen, invitata per valutare i profili di sicurezza, indicò una riga.
 
 «Qui c'è una distinzione che possiamo chiedere di precisare. Una cosa è proporre un piano, altra è adottare una decisione che determina diritti o condizioni di lavoro. Non dovrebbero confondere un'attestazione tecnica con un ordine sul personale.»
 
-«Non è la sola ambiguità», rispose Verri. «Le unità robotiche non sono tutte umanoidi. Se vietano una mansione, un programma su un server può continuarla?»
+«Non è la sola ambiguità», rispose Hale. «Le unità robotiche non sono tutte umanoidi. Se vietano una mansione, un programma su un server può continuarla?»
 
 Kyla raccolse la domanda. La legge poteva essere aggirata da chi aveva denaro per cambiare l'etichetta al sistema; gli altri avrebbero rispettato il divieto e perso contratti.
 
@@ -50,7 +50,7 @@ Leah annuì.
 
 «E non basta chiamare supervisione una firma messa ogni venerdì senza leggere niente.»
 
-Verri le guardò entrambe.
+Hale le guardò entrambe.
 
 «Mi state proponendo di sostenere il testo o di combatterlo?»
 
@@ -58,9 +58,9 @@ Verri le guardò entrambe.
 
 «Abbiamo mantenuto il contratto Aruvhana.»
 
-«Sì. Lo dico ogni volta che mi chiedono se il piano ha avuto senso. Ma Irene Valli ha dovuto cercare lavoro altrove. Non posso usare i trecento posti salvati per cancellare il suo nome.»
+«Sì. Lo dico ogni volta che mi chiedono se il piano ha avuto senso. Ma Claire Foster ha dovuto cercare lavoro altrove. Non posso usare i trecento posti salvati per cancellare il suo nome.»
 
-Verri si appoggiò allo schienale.
+Hale si appoggiò allo schienale.
 
 «Se questa legge ci impedisce di essere competitivi, quanti altri posti salviamo?»
 
@@ -74,7 +74,7 @@ Sul foglio c'era anche una voce sulle persone riqualificate. Era più piccola di
 
 «Posti mantenuti, posti non più richiesti e posti nuovi creati. Se nascondiamo uno, qualcuno verrà a cercarlo.»
 
-Verri prese la penna.
+Hale prese la penna.
 
 «D'accordo. Ma non faremo una dichiarazione di colpa per avere continuato a lavorare.»
 

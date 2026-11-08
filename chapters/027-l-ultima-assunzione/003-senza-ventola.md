@@ -5,9 +5,9 @@ chapter: chapter:027-l-ultima-assunzione
 number: 3
 title: Senza ventola
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
   - character:erik-solberg
 locations:
   - location:uffici-lanter
@@ -16,7 +16,7 @@ factions:
   - faction:cyberdine
 ---
 
-Mei Lin capì che la nuova generazione di robot aveva raggiunto un risultato importante quando vide sparire una ventola.
+Mei Chen capì che la nuova generazione di robot aveva raggiunto un risultato importante quando vide sparire una ventola.
 
 Il prototipo era sul banco del laboratorio di Suzhou. Il nuovo modulo di elaborazione consumava meno energia per le funzioni conversazionali e per una parte della pianificazione locale. Non era in grado di eseguire senza limiti i modelli più grandi: quando il compito lo richiedeva, il sistema doveva attendere, semplificare il piano o richiedere una risorsa esterna autorizzata.
 

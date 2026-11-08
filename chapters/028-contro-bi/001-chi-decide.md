@@ -5,10 +5,10 @@ chapter: chapter:028-contro-bi
 number: 1
 title: Chi decide
 canon: canon
-pov: character:irene-valli
+pov: character:claire-foster
 characters:
-  - character:irene-valli
-  - character:nerea-dalmasso
+  - character:claire-foster
+  - character:maya-bennett
   - character:olivia-brooks
 locations:
   - location:cyberdine-campus
@@ -16,7 +16,7 @@ factions:
   - faction:cyberdine
 ---
 
-Irene arrivò davanti ai cancelli di Cyberdine con un cartello che non aveva scritto lei.
+Claire arrivò davanti ai cancelli di Cyberdine con un cartello che non aveva scritto lei.
 
 Glielo aveva consegnato un ragazzo della rete dei lavoratori temporanei, insieme a un pennarello nero. Sul cartone compariva una frase stampata: *BASTA MACCHINE*. Qualcuno ne aveva preparati cinquanta.
 
@@ -26,7 +26,7 @@ Il ragazzo la guardò.
 
 «Puoi girarlo.»
 
-Irene lo girò e scrisse: *CHI DECIDE CHI LAVORA?*
+Claire lo girò e scrisse: *CHI DECIDE CHI LAVORA?*
 
 C'era già molta gente. Una parte era arrivata con i pullman dalle zone industriali vicine; altri erano ex dipendenti di imprese che avevano automatizzato i magazzini, il servizio clienti o gli uffici amministrativi. C'erano lavoratori ancora occupati, persone che da mesi alternavano contratti brevi, studenti convinti che il lavoro per cui si stavano formando sarebbe scomparso prima della laurea.
 
@@ -34,7 +34,7 @@ Alcuni chiedevano di fermare la vendita dei robot. Altri volevano una tassa sull
 
 Non erano d'accordo quasi su nulla, tranne sul fatto di voler essere ascoltati.
 
-Nerea la raggiunse vicino alla recinzione, portando due bottigliette d'acqua.
+Maya la raggiunse vicino alla recinzione, portando due bottigliette d'acqua.
 
 «Hai trovato il pennarello», disse.
 
@@ -42,9 +42,9 @@ Nerea la raggiunse vicino alla recinzione, portando due bottigliette d'acqua.
 
 «Quale?»
 
-Irene glielo mostrò dal lato stampato.
+Claire glielo mostrò dal lato stampato.
 
-Nerea fece una smorfia.
+Maya fece una smorfia.
 
 «Non è per questo che sono qui.»
 
@@ -52,11 +52,11 @@ Nerea fece una smorfia.
 
 Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita. Olivia Brooks stava intervistando una donna con una divisa da magazzino, mentre un operatore le teneva il microfono appena sotto il mento.
 
-«Sei tornata per il servizio?», domandò Irene alla giornalista quando le passò accanto.
+«Sei tornata per il servizio?», domandò Claire alla giornalista quando le passò accanto.
 
 «Sono qui per sentire cosa chiedono. E cosa non chiedono.»
 
-Olivia guardò il cartello di Irene.
+Olivia guardò il cartello di Claire.
 
 «Ti posso fare una domanda?»
 
@@ -64,7 +64,7 @@ Olivia guardò il cartello di Irene.
 
 «Perché protesti davanti all'azienda in cui lavoravi, se hai contribuito tu stessa a migliorare le procedure automatizzate?»
 
-Irene pensò alle trentaquattro prove che conservava ancora in una cartella. Alle riunioni in cui le avevano detto di avere fatto un ottimo lavoro. Al fatto che le proposte migliori erano diventate moduli acquistabili, mentre lei passava da una consulenza a un incarico a giornata.
+Claire pensò alle trentaquattro prove che conservava ancora in una cartella. Alle riunioni in cui le avevano detto di avere fatto un ottimo lavoro. Al fatto che le proposte migliori erano diventate moduli acquistabili, mentre lei passava da una consulenza a un incarico a giornata.
 
 «Perché funzionano», disse.
 
@@ -76,7 +76,7 @@ Un uomo dietro di loro applaudì. Un altro fischiò.
 
 «Tutte chiacchiere», disse. «Bisogna spegnerli.»
 
-Irene si voltò.
+Claire si voltò.
 
 «Quali?»
 
@@ -96,7 +96,7 @@ L'uomo la fissò.
 
 L'uomo abbassò lo sguardo. Non le chiese scusa, ma smise di discutere.
 
-Nerea le sfiorò il gomito.
+Maya le sfiorò il gomito.
 
 «Non devi convincere tutti.»
 
@@ -104,11 +104,11 @@ Nerea le sfiorò il gomito.
 
 Sul grande schermo che una troupe aveva montato per seguire gli interventi comparve un video registrato mesi prima. B-17 era seduto nel laboratorio di Veyra. Un sottotitolo lo presentava come *il robot che consiglia le imprese di tagliare i dipendenti*.
 
-Irene riconobbe la frase che seguiva. Era parte di una risposta tecnica sulle alternative per il contratto Aruvhana. Nel filmato non comparivano i controlli umani, né il rischio di perdere tutto il contratto. La fonte integrale era stata diffusa legalmente in seguito alla discussione pubblica, ma la versione sullo schermo durava diciassette secondi.
+Claire riconobbe la frase che seguiva. Era parte di una risposta tecnica sulle alternative per il contratto Aruvhana. Nel filmato non comparivano i controlli umani, né il rischio di perdere tutto il contratto. La fonte integrale era stata diffusa legalmente in seguito alla discussione pubblica, ma la versione sullo schermo durava diciassette secondi.
 
 Qualcuno cominciò a gridare «Contro Bi!». Altri raccolsero il coro.
 
-Nerea guardò il robot sullo schermo senza pronunciare una parola.
+Maya guardò il robot sullo schermo senza pronunciare una parola.
 
 Un uomo a pochi passi da loro, che portava al collo un tesserino da manutentore, mormorò:
 
@@ -116,18 +116,18 @@ Un uomo a pochi passi da loro, che portava al collo un tesserino da manutentore,
 
 Nessuno lo ascoltò.
 
-Nerea le mostrò il fondo della bottiglia d'acqua. «Dopo mangiamo qualcosa? Non ho pranzato.»
+Maya le mostrò il fondo della bottiglia d'acqua. «Dopo mangiamo qualcosa? Non ho pranzato.»
 
-«Se scegli tu il posto», rispose Irene.
+«Se scegli tu il posto», rispose Claire.
 
 «L'ultima volta hai detto che la pizza era troppo cara.»
 
 «Perché lo era. Diciotto euro per una margherita non sono una questione di principi, sono una truffa.»
 
-Nerea rise, sorpresa di riuscirci in mezzo ai cori.
+Maya rise, sorpresa di riuscirci in mezzo ai cori.
 
 «Va bene. Ma stasera non mi chiedi di parlare di Bi.»
 
-«Non prometto niente», disse Irene. «Puoi chiedermi di non cominciare io.»
+«Non prometto niente», disse Claire. «Puoi chiedermi di non cominciare io.»
 
-Irene abbassò il cartello per riposare il braccio. Poi lo rialzò, dal lato su cui aveva scritto lei.
+Claire abbassò il cartello per riposare il braccio. Poi lo rialzò, dal lato su cui aveva scritto lei.
