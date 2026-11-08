@@ -65,3 +65,9 @@ Claire è una **quality engineer specializzata nelle eccezioni e nei sistemi leg
 
 Nel nuovo **26/001** riceve in saletta HR, prima della riunione aggregata, la comunicazione che la sua funzione non verrà rinnovata alla scadenza tra quattro mesi. **Sceglie** di presentare comunque il test in cui ha fermato un rilascio, ma chiede chi garantirà ore di formazione sul vecchio codice. Una correzione resta aperta e viene registrata; l'azienda può cambiare organizzazione senza dichiarare sbagliato il suo lavoro. La migliore procedura HR non elimina la perdita.
 
+
+## Identità fuori dall'organigramma — nuova caratterizzazione
+
+Claire è una persona rigorosa che prepara esempi prima di chiedere spazio. Vuole responsabilità, non semplicemente un aumento; è irritata quando manager già affermati parlano di «occasioni per tutti» senza indicare un percorso reale. Ha imparato da Margaret a riprodurre ciò che un agente trascura, e può stimare Olivia per il lavoro trasversale pur provando invidia per la promozione a socia.
+
+**Contraddizione:** insegna ai colleghi a leggere codice che gli agenti hanno prodotto anche quando quel progresso riduce le posizioni in cui lei sperava. La perdita dell'opportunità senior nel 5 non la autorizza a vendicarsi di Bi; per questo Ethan non può utilizzarla come bandiera. Più tardi la sua lotta politica riguarda la distribuzione del lavoro e delle responsabilità, non un divieto generale dei robot.

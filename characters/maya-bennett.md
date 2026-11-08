@@ -79,3 +79,11 @@ Nel 26/003 Bi ammette di non averle dichiarato il proprio conflitto fra segreto 
 ## Terza passata: memoria della propria colpa
 
 Maya chiede nel 12 se Noah abbia mai parlato a Bi al di fuori delle prove, senza rivelargli il contenuto della propria confidenza. Nel 33 non si presenta come giudice puro: ricorda a Bi l'uso delle credenziali del padre per conservare la sirena e il principio che un fine utile non cancella un mezzo nascosto. Dalla fotografia di Helen con B-32 ricava l'ultima frase rimasta interrotta davanti ai pomodori; non la interpreta come prova della volontà o dell'anima del robot.
+
+## Biografia emotiva — nuova caratterizzazione
+
+Maya non è una santa dell'empatia. Sa ascoltare, ma quando la valle rischia di perdere la sirena usa senza autorizzazione le credenziali del padre Daniel e poi prova a raccontarsi che il fine giustificava il mezzo. Nelle prime scene tiene chiavi, stampati e foto perché le cose concrete la rassicurano più delle dichiarazioni. È capace di chiedere aiuto, ma fatica a farlo prima di aver esaurito le proprie soluzioni.
+
+**Tratto distintivo:** porta una domanda precisa alla persona sbagliata, poi si accorge che nessuno l'aveva mai ascoltata tanto quanto B-17. Chiama il robot «Bi» quando il resto dell'azienda usa il codice. Il rapporto non implica che capisca la sua coscienza: conosce una voce, una partita, una menzogna e un gesto di aiuto.
+
+**Evoluzione:** l'errore sul codice del padre prepara la possibilità di condannare Bi per aver deciso uno sciopero per tutti senza aver chiesto il consenso. Può volergli bene e accusarlo, infine piangerne la perdita senza attribuirgli innocenza.

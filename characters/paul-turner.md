@@ -55,3 +55,11 @@ Nel 2 Paul continua a spiegare la macchinetta del caffè a chi non glielo ha chi
 ## Revisione v0.32.0 — Cyberdine software house
 
 È un tecnico di vecchi dispositivi, armadi di controllo, reti e terminali usati per provare i software di Cyberdine. Sa leggere uno stato elettrico e capire perché un emulatore non riproduce un terminale vero; non è necessariamente uno sviluppatore di LLM. Dopo Bi può aiutare i programmatori a recuperare il comportamento reale dei dispositivi, ma occorre qualcuno che legga anche le librerie software. Non trasformarlo in un salvatore universale.
+
+## Carattere riconoscibile — nuova caratterizzazione
+
+**Paul parla sempre troppo forte.** Non è necessariamente arrabbiato, prepotente o sordo: la sua intensità vocale è rimasta quella dei laboratori rumorosi e delle officine dove ha imparato a riparare i dispositivi. In mensa, in riunione, davanti a una stampante o quando propone una battuta la sua voce supera sempre di molto il volume della stanza. Se gli chiedono di sussurrare, crede di averlo fatto; gli altri lo sentono ugualmente dall'altra parte della porta. La reazione abituale non è il terrore, ma il sorriso di chi lo conosce da anni.
+
+**Punto cieco:** confonde talvolta l'essere ascoltato con l'essere utile e può sovrastare chi sta ancora formulando una domanda. **Cosa sa fare davvero:** trova guasti materiali, distingue un emulatore da un terminale reale e dice la verità sui costi anche quando preferirebbe una riparazione. Il suo volume non lo rende incompetente né ridicolizza il dolore per Bi. In scene intime può fare silenzio o intervenire poco, ma quando parla **la voce resta alta**.
+
+**Arco:** dai piccoli attriti con Emma su frigorifero e fotocopie → guida materiale per B-17 → difesa della documentazione umana → conteggio onesto del tentativo di ricomprare Bi → consegna corretta di B-21. Il personaggio può essere generoso e irritante nella stessa scena.

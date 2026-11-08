@@ -37,3 +37,15 @@ Nel **8/001** Olivia Hayes viene presentata in una nuova veste dopo aver seguito
 
 Nel **8/005** discute con **Gavin Shaw**: lui protegge il team Core Platform, ma confonde il suo alto tasso di ticket chiusi con la qualità complessiva del servizio. Olivia riconosce il merito tecnico, contesta il comportamento svalutante verso QA e assistenza e ammette la propria corresponsabilità nella riorganizzazione che ha eliminato l'occasione senior di Claire. **Non idealizzarla come dirigente nuova e infallibile**. Dopo la quota di minoranza deve essere più esposta a contratti, limiti, compromessi e verifiche con altri reparti, non meno.
 
+
+## Background, leadership e promozione a socia — nuova caratterizzazione
+
+Olivia ha iniziato dalle pratiche di qualità dei clienti e si è guadagnata, un rilascio alla volta, la responsabilità di **Delivery e qualità del servizio**: segue ciò che avviene dopo che sviluppo, QA, supporto e commerciale hanno chiuso i propri ticket. Non è la più brillante nella scrittura di un algoritmo; sa però quando un sistema «corretto» costringe un altro reparto a pagare il costo dell'errore. Conosce i clienti personalmente, richiama chi ha fatto una promessa azzardata e non lascia sola la persona che deve spiegarne il ritardo.
+
+**Difetto:** si fida a volte troppo di un processo ben misurato e ha approvato insieme agli altri la riorganizzazione che non apre il ruolo senior per Claire. Quando ottiene potere non può fingere di non aver partecipato alle decisioni impopolari. È esigente, talvolta impaziente, e diventa davvero autorevole quando accetta di far emergere una prova che rallenta la consegna.
+
+**Evoluzione e status:** nei capitoli 1–7 il lettore la vede difendere il cliente, coordinare funzioni diverse e assumersi una escalation non prevista dal proprio team. Nel capitolo 8 i soci approvano il suo ingresso nel capitale con una **partecipazione di minoranza acquistata tramite un accordo**: non un premio simbolico, non l'intera azienda. Diventa socia e mantiene responsabilità operative sulle consegne. Nel discorso alla plenaria rifiuta la formula «basta lavorare tanto»: contano rischio, risultati e capacità di agire oltre il proprio perimetro.
+
+**Conflitto con Gavin Shaw:** apprezza i risultati del suo reparto, ma gli contesta di definire sempre incompetenti QA, assistenza e altri sviluppatori. Quando lui le chiede se lo reputa un manager tossico, risponde **sì, in quei comportamenti**. Non lo umilia davanti ai colleghi e non garantisce che, cambiando, diventerà socio.
+
+**Segnali narrativi:** usa il registro delle dipendenze fra reparti, sposta le pratiche fra chi deve davvero decidere, porta un blocco di note a più colori, sa chiedere scusa a un collega senza sacrificare il cliente. La promozione non la rende un'eroina aziendale: più potere significa maggiore responsabilità nei capitoli Aruvhana.

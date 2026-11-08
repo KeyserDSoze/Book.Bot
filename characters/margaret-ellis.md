@@ -33,3 +33,9 @@ Il pensionamento coincide con la perdita di un ruolo formativo: chi si limiterà
 
 Margaret ha guidato il coordinamento delle eccezioni e conosce i motivi delle procedure storiche. La decisione di non riaprire il ruolo non significa che nessuno ne faccia più il lavoro: il compito passa a responsabili e team differenti, mentre QA e sviluppo rischiano di perdere tempo protetto per apprendere gli errori dei vecchi sistemi. La vita privata (il nuoto, il desiderio di non tornare ogni mercoledì in ufficio) non è una nota decorativa. Evitare che la consulente pensionata risolva da sola la crisi successiva.
 
+
+## Un personaggio che sa uscire di scena — nuova caratterizzazione
+
+Margaret ha costruito procedure perché nessuno dipendesse per sempre dalla sua memoria, eppure lascia un reparto dove tutti sanno chiedere agli agenti un riepilogo e sempre meno persone sanno verificare la ragione di una vecchia eccezione. Non rimpiange il tempo in cui si faceva tutto a mano. È ironica, si è iscritta a nuoto da principiante, e vuole una pensione che non sia fatta di telefonate dal vecchio ufficio.
+
+**Rapporto con Claire:** la incoraggia senza promettere un posto; può insegnare dove cercare un registro ma non firmare al suo posto una carriera. Non torna come salvatore dopo lo sciopero: può lasciarsi alle spalle il lavoro e amare comunque gli ex colleghi.

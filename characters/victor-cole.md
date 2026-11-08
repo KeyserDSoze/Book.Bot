@@ -35,3 +35,11 @@ Gestisce una software house, quindi margini, contratti, licenze, sviluppo, QA, c
 
 Dal **8/001** Cole presenta in plenaria ricavi ricorrenti in crescita del 12%, margine operativo sceso dal 9% al 3% e cash flow trimestrale negativo. Non falsifica le cifre, ma sceglie un ordine rassicurante. Comunica anche l'ingresso di Olivia nel capitale come socia di minoranza; **non** sostiene che sia una ricompensa morale per il lavoro svolto. Nel 25 il vincolo Aruvhana del 17% viene trattato da direzione, account e delivery, con Taylor responsabile di rendere leggibili le conseguenze sulle persone. Cole non dirige da solo tutti i team tecnici.
 
+
+## Stile di governo e verità selettiva — nuova caratterizzazione
+
+Victor è un amministratore delegato capace di leggere il conto economico e di raccontarlo in modo che la sala guardi prima dove indica lui. Non falsifica i numeri, ma presenta **+12% di ricavi ricorrenti** prima di rivelare che il margine operativo è sceso **dal 9% al 3%** e il flusso di cassa del trimestre è negativo. I ritardi nei pagamenti di due clienti e le rilavorazioni dopo i rilasci non sono dettagli: mostrano che Cyberdine vende un lavoro reale, costoso e sempre più difficile da governare.
+
+**Virtù:** mantiene la società aperta, ammette i limiti della manutenzione di B-17, prende decisioni sul personale senza accusare i robot e non nasconde l'aggressione. **Difetto:** considera le persone capaci di sopportare una notizia terribile purché i numeri la rendano difendibile. L'ordine del giorno della plenaria 8/001 lo racconta: prima andamento finanziario presentato in modo favorevole, poi nuovo socio, infine il destino di Bi come postilla operativa.
+
+**Ingresso di Olivia nel capitale:** approvato dai soci, con quota di minoranza; il ruolo di Olivia è trasversale alla delivery e al servizio, diverso dal responsabile di un singolo team. Victor non crea una competizione fittizia fra Gavin e Olivia e non promette partecipazioni automatiche agli altri.

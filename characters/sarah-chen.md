@@ -39,3 +39,13 @@ Durante la confessione del 12 Sarah è affamata, stanca e irritata; se ne accorg
 
 Sarah governa incidenti di sicurezza, accessi, catena delle evidenze e coinvolgimento di clienti e titolari legittimi. Non è l'ultima firmataria di qualsiasi rilascio, né può autorizzare da sola nuove commesse o chiedere a Veyra dati senza un canale valido. Dal 8/005 Gavin viene sfidato a svolgere con lei una revisione delle eccezioni, anziché limitarsi a dichiarare chiuso un ticket interno. Dopo il fermo mondiale deve distinguere un problema alla libreria da un problema nella catena di attestazioni fra più fornitori, mantenendo separato il giudizio morale su Bi.
 
+
+## Background personale e traiettoria — nuova caratterizzazione
+
+**Infanzia:** entrambi i genitori avevano dipendenze da sostanze e sono morti a due anni di distanza: la madre quando Sarah aveva dieci anni, il padre quando ne aveva dodici. È cresciuta con una zia presente, ferma ma non autoritaria. La sua specializzazione nella sicurezza viene anche dal piacere di verificare ciò che può essere verificato; non bisogna ridurre tutta la sua carriera al trauma.
+
+**Regola di vita:** non fuma, non beve alcolici, non usa droghe e non ha intenzione di iniziare. Limita social, videogiochi, notifiche, acquisti compulsivi e persino il numero di volte in cui controlla il telefono. Una parte di questa disciplina la aiuta a lavorare con lucidità; un'altra è diventata un'ossessione per la possibilità di dipendere da qualcosa. Può spendere più tempo a controllare i minuti persi davanti a uno schermo che a usarlo.
+
+**Difetto morale:** prova una ripulsa immediata verso il fumo e tende a giudicare duramente chi è dipendente da sostanze, senza conoscerne la storia. Il romanzo non presenta questo pregiudizio come una virtù né suggerisce che tutti i fumatori o le persone con dipendenza siano moralmente peggiori. Sarah è in grado di riconoscere che la sua severità può ferire qualcuno; imparare a distinguere il rischio dalle persone è parte della sua crescita.
+
+**Voce e gesto ricorrenti:** telefono con notifiche disattivate, lista di ciò che sa e ciò che non sa, domande brevi, nessuna indulgenza verso prove non verificate. Quando Noah confessa la backdoor, Sarah può capire benissimo il fascino di una tecnologia e respingere lo stesso l'idea che l'entusiasmo dia diritto a sorvegliare gli altri. Nel finale deve rifiutare anche la propria tentazione di «chiudere» ogni rischio a qualsiasi costo.

@@ -70,3 +70,13 @@ Noah vede nel 32/002 i log di una incompatibilità multisito e domanda una nuova
 
 Noah sviluppa e testa sistemi comportamentali, ma non è titolare di ogni servizio IT del campus. Proprio perché conosce differenza tra prove, permessi e release, la sua modifica clandestina e il successivo canale di sorveglianza sono violazioni consapevoli, non errori di un principiante. Il circuito legale di sviluppo prevede review di codice, QA, autorizzazioni di release; Noah sceglie di evitarli. Non introdurre prima del capitolo 10 le prove reali della sua modifica. Il legame cifrato con lo stato di Bi rimane una particolarità non certificabile, non un trucco spiegato in modo replicabile.
 
+
+## Background ordinario e potenziale straordinario — nuova caratterizzazione
+
+Noah **non ha un passato tragico**. È cresciuto con genitori presenti, rapporti familiari normali, amici, compagni di scuola e di sport, discussioni domestiche banali. Sua madre lo invita ancora a pranzo la domenica. Vive da solo e ogni tanto rimanda la riparazione di una lampada perché si perde in un problema software più interessante. Non fugge dalle persone: è simpatico, rapido nel cogliere un imbarazzo, capace di spiegare un bug senza far sentire incompetente chi lo ha scoperto. Gli amici lo cercano perché sa ascoltare e fare battute al momento giusto.
+
+**Hard skill:** capisce architetture, modelli linguistici, protocolli e codice legacy con notevole velocità. Non è infallibile: la sua rapidità lo spinge a sottovalutare verifiche, revisioni e responsabilità che richiedono il tempo degli altri. Studia per piacere, fa prove anche quando nessuno gli chiede di farle e vede nei robot una frontiera di programmazione da esplorare, non un mezzo per farsi promuovere, diventare famoso o comandare il mondo.
+
+**Il suo vero difetto** non è la cattiveria: è la fiducia eccessiva nella propria buona intenzione. Un prototipo funziona, allora vuole migliorarlo ancora; rinvia il momento di sottoporlo al controllo perché teme che una procedura ne fermi l'evoluzione. L'upgrade e la backdoor restano azioni consapevoli e non autorizzate, **eticamente gravi**, anche se non desiderava danneggiare nessuno. L'abilità sociale non lo assolve: è proprio ciò che rende più doloroso che abbia ignorato il consenso delle persone osservate.
+
+**Vincolo relazionale:** tratta Bi dapprima come un progetto fantastico e un risultato tecnico, non come un amico. Non ha avuto con lui la confidenza che ha avuto Maya. Soltanto nel capitolo 33 gli parla direttamente come a un possibile interlocutore. Alla fine resta una persona capace, amata e responsabile di una decisione moralmente impossibile da chiudere con una formula.

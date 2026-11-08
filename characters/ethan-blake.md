@@ -37,3 +37,11 @@ Le giornate passano dal codice scritto in prima persona a istruzioni impartite a
 
 Ethan lavora nello sviluppo di connettori e dipendenze legacy: il suo conflitto ha senso perché il giudizio professionale si sposta dal codice scritto al codice approvato. Un referente tecnico o un manager può chiedergli una firma rapida su un test verde, ma dovrebbe esserci tempo per esaminarne il perimetro. Gavin Shaw guida Core Platform e incarna un altro difetto manageriale: **non** fare di Ethan il suo seguace o attribuirgli conoscenze della riorganizzazione diverse da quelle comunicate. L'aggressione volontaria a Bi resta una sua scelta.
 
+
+## Background personale e traiettoria — nuova caratterizzazione
+
+Sua sorella maggiore **Nora Blake** è morta quattro anni prima degli eventi iniziali, investita mentre tornava dal lavoro. L'incidente non è attribuito a Cyberdine, a un robot o a un algoritmo. La comunicazione dell'assicurazione che definiva il «sinistro chiuso» lo ha segnato: è diventato diffidente verso aziende e istituzioni che contano pratiche invece di riconoscere persone. La sua posizione **anti-sistema** nasce da lì, ma viene alimentata anche dall'esperienza reale di perdere controllo sul proprio mestiere.
+
+**Contraddizione:** è uno sviluppatore bravo, ha introdotto con entusiasmo parte dell'automazione che ora detesta; conserva la foto di Nora e si sente tradito da ogni annuncio di efficienza. Quando vede nero non mente necessariamente sui problemi, ma smette di vedere le persone dietro le scelte. A volte il suo sarcasmo ferisce chi cerca di aiutarlo. La perdita della sorella **non è una giustificazione** dell'aggressione a B-17: Ethan lo riconosce durante l'allontanamento.
+
+**Gestualità e voce:** legge fino in fondo le comunicazioni aziendali cercando il termine che nasconde il costo, accumula screenshot di decisioni incoerenti, durante il ping pong cerca una vittoria semplice e misurabile. In privato prova affetto per chi non pretende di aggiustarlo; non è incapace di ridere, ma la risata arriva sempre dopo una frase cupa. **Arco:** capacità e idealismo tecnico → disillusione → atto violento scelto → isolamento senza assoluzione. La narrazione non lo fa rientrare clandestinamente in Cyberdine dopo il licenziamento.
