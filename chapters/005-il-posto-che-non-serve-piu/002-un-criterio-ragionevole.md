@@ -99,15 +99,21 @@ Kyla aprì il calendario preparato da HR. C'erano sei sessioni dedicate agli age
 
 «Allora calcoliamo quante ore servono», disse Elena. «Voglio anche una prova periodica senza agente, in cui uno sviluppatore ricostruisca l'anomalia dal sorgente e dai log.»
 
-Gavin fece scorrere un dito sulle date della consegna. «Se sono ore di Delivery devono entrare nella pianificazione. Posso togliere una giornata di lavoro alla sprint, ma non posso dire al cliente che non ce ne siamo accorti.»
+Gavin fece scorrere un dito sulle date della consegna. «Se sono ore di Delivery devono entrare nella pianificazione. Posso togliere una giornata alla sprint, ma ditemi quale attività rimane indietro.»
 
-«E chi farà da docente?», chiese Adriana.
+«Malik deve ancora mostrare ad Aruvhana il codice sotto il riepilogo», disse Kyla. Aveva promesso al cliente una prova sul terminale reale. La richiesta era ancora senza data, e non voleva ammettere di averla lasciata in quella condizione. «Le ore per quell'incontro sono già contestate fra Delivery e commessa.»
+
+«E adesso volete usare lo stesso tempo per insegnare ai junior a leggere le vecchie librerie», disse Gavin. «Io posso metterlo in calendario. Non posso far diventare otto ore quattro.»
+
+Kyla guardò le due richieste sul proprio portatile. Poteva chiedere di spostare l'incontro con Aruvhana, oppure la formazione. Se rinviavano la seconda, nessun cliente avrebbe chiamato per sapere perché.
+
+«Diamo precedenza alla prova con Aruvhana», disse. «La formazione va programmata dopo la consegna, con ore riconosciute.»
+
+«D'accordo. Chi farà da docente?», chiese Adriana.
 
 «Possiamo definirlo nel piano esecutivo», propose il responsabile.
 
-Adriana richiuse il quaderno. Non approvò quella risposta, ma non si mise a difendere la propria poltrona. Aveva passato anni a eliminare doppie verifiche inutili. Le prove migliori del progetto erano state anche sue.
-
-Adriana non aveva chiesto che il proprio posto venisse preservato per sentimentalismo. Aveva passato anni a chiedere che si automatizzassero le operazioni inutili. Conosceva bene quanto costasse avere tre persone che ricontrollavano lo stesso campo perché due sistemi non si fidavano l'uno dell'altro.
+Adriana richiuse il quaderno. Aveva contribuito a togliere dal processo i controlli inutili e non voleva rimetterli soltanto per difendere il proprio posto.
 
 «Non sto difendendo il lavoro fatto male», disse. «Sto chiedendo chi avrà il diritto di dire che il lavoro automatico non è stato capito abbastanza.»
 
@@ -117,7 +123,9 @@ Elena aprì la tabella dei costi. La posizione senior avrebbe avuto una responsa
 
 «Con una persona responsabile», aggiunse Adriana.
 
-Kyla annotò le due condizioni. Gavin chiese che la prima prova sul codice venisse programmata dopo la consegna in corso. Elena acconsentì: sarebbe stato imprudente chiamare quella rinuncia *nessun costo*, ma non potevano neppure interrompere il lavoro del cliente per vincere una discussione.
+Kyla annotò le due condizioni. Gavin chiese che la prima prova sul codice venisse programmata dopo la consegna in corso. Elena acconsentì, a una condizione: «Sul verbale scriviamo che il corso non ha ancora né docente né ore assegnate. Non voglio ritrovarlo fra un mese segnato come formazione completata.»
+
+Kyla riportò la frase quasi per intero. Nel campo *responsabile del seguito* inserì il proprio nome. Non cambiò la casella vuota delle ore.
 
 Kyla guardò l'ultima pagina.
 
