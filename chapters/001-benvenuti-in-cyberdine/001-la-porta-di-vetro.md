@@ -66,7 +66,11 @@ Il telefono vibrò nella tasca della giacca.
 
 *Stasera cinema. Ti ricordi?*, aveva scritto l'amica che le aveva comprato due biglietti dopo tre inviti rimandati.
 
-*Mi ricordo*, rispose. Non era del tutto vero: non ricordava il titolo del film. Ricordava soltanto di aver promesso che stavolta non avrebbe lavorato dopo le sette. Lasciò il telefono in tasca.
+*Mi ricordo*, rispose. Non era del tutto vero: non ricordava il titolo del film. Ricordava soltanto di aver promesso che stavolta non avrebbe lavorato dopo le sette.
+
+Sotto c'era un messaggio di sua madre, rimasto senza risposta da due giorni: *Ho trovato delle fotografie di Hazel. Vuoi che le tenga da parte?*
+
+Hazel era sua sorella minore, morta cinque anni prima. Kyla provò una rabbia improvvisa per quel *tenga da parte*, come se esistesse un cassetto abbastanza grande per custodire tutte le cose che non sapevano dirsi. Sua madre non le aveva fatto nulla di male. Lasciò il telefono in tasca.
 
 «Da quanto tempo usate i robot?», chiese Leïa.
 
