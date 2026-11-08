@@ -51,7 +51,17 @@ Gavin Cole posò il prospetto delle ore accanto al dossier. Era entrato per disc
 
 «Hai già chiesto a Elena di quantificare le prove?», domandò Kyla.
 
-«Stiamo confrontando i tempi», rispose. Non erano ancora d'accordo su quali ore contare. Un tempo Gavin avrebbe portato soltanto la propria stima; adesso almeno ne esisteva una seconda, scomoda, scritta da qualcuno fuori dal suo reparto.
+«Sì. Per una verifica end-to-end lei mette due giornate dove noi avevamo previsto quattro ore», rispose Gavin. «Mi ha mostrato la lista degli originali che devono essere recuperati. Non tutti i passaggi sono ripetibili con l'agente.»
+
+«Quindi che cifra hai portato?»
+
+Gavin spostò la propria tabella. Accanto alle quattro ore di Delivery aveva riportato anche le due giornate stimate da Elena, in una colonna separata. Il totale rendeva meno favorevole il confronto con l'offerta automatica.
+
+«La mia scadenza slitta se facciamo quella prova», disse. «Voglio che sia scritto. Non voglio che venerdì mi venga chiesto perché la squadra non ha chiuso tutto.»
+
+«Lo scrivo nel piano comune», disse Kyla.
+
+Gavin non la ringraziò. Il ritardo rimaneva sotto il suo nome, e non gli piaceva. Aveva portato la tabella intera lo stesso.
 
 Kyla spostò verso il direttore delle operazioni il foglio delle scadenze contrattuali.
 

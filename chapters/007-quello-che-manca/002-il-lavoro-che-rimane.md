@@ -84,9 +84,13 @@ Aveva appena chiesto di diventare referente tecnico del gruppo integrazioni. Nel
 
 «Avvisalo», rispose Irene. «Questa ha un documento che non riusciamo a trovare.»
 
-«No. Vado a prendere il registro e poi torniamo sul codice. Ho bisogno che tu sappia spiegarmi la funzione, non di un'altra sintesi.»
+«Gli scrivo adesso. E non gli mando la sintesi dell'agente: gli dico che dobbiamo aprire la vecchia funzione.»
 
-Chiuse la chiamata e aprì il manuale.
+«Io recupero il registro con Adriana», disse Irene. «Quando torniamo sul codice, voglio che tu sappia spiegarmi quella condizione senza leggere un riassunto.»
+
+«È quello che voglio anch'io.»
+
+Malik chiuse la chiamata. Irene aprì il manuale. Il messaggio a Gavin non le restituiva il pomeriggio; almeno non sarebbe stata l'unica a dover spiegare perché lo avrebbero speso così.
 
 Quarantasette pagine. Una nota rimandava alla vecchia appendice cartacea, senza indicare dove fosse conservata. Irene aveva scritto quella stessa osservazione nel mese di prova del nuovo archivio, poi si era fidata del fatto che Bi sapesse raggiungere gli originali.
 

@@ -113,9 +113,17 @@ Kyla sfogliò l'allegato e trovò la riga che aveva lasciato in sospeso. «Non c
 
 Irene raddrizzò la pagina con le tre correzioni in rosso. «Avrei preferito saperlo prima di preparare un altro corso che non sarebbe partito.»
 
-Irene annuì.
+Kyla guardò il foglio. «Ti ho chiesto io di prepararle. Sapevo che la riunione sul personale era stata fissata.»
 
-«Sai che cosa mi sarebbe piaciuto?», chiese.
+«E hai pensato che avrei lavorato meglio se non me lo dicevi.»
+
+«Ho pensato che non potevo anticipare una comunicazione individuale prima dell'incontro previsto.»
+
+«Potevi non invitarmi a presentare dei test che non avrei presentato.»
+
+Kyla non rispose.
+
+«Sai che cosa mi sarebbe piaciuto?», chiese Irene.
 
 «Dimmi.»
 

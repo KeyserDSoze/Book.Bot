@@ -103,4 +103,6 @@ Non gli piacque la risposta. Sapeva tuttavia che se avesse chiesto a Elena i tem
 
 Uscì con il fascicolo sotto il braccio. Due dei suoi sviluppatori lo aspettavano per una revisione. Poco più avanti Elena attraversava il corridoio con un registro. Gavin pensò di fermarla. Non lo fece.
 
-Tornò verso la sua squadra, e nella cartellina la colonna delle dipendenze esterne rimase vuota.
+Nella tasca gli vibrò il telefono. Suo figlio gli aveva mandato la fotografia di una pizza tagliata in due: *Non ti ho aspettato. Te ne ho lasciata una fetta.* Gavin ingrandì la foto e per un attimo cercò di ricordare se avesse promesso di tornare presto oppure soltanto di chiamare. Non ricordava più quale delle due.
+
+Tornò verso la sua squadra. Disse ai due sviluppatori che avrebbe esaminato la loro revisione dopo cena, da casa. Nessuno gli aveva chiesto di farlo. Nella cartellina la colonna delle dipendenze esterne rimase vuota.
