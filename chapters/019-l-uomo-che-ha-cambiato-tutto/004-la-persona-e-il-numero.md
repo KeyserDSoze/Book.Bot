@@ -37,9 +37,9 @@ Sul tavolo dello Spazio Comune c'era una lista di corsi da preparare. Paolo sist
 
 Paolo annuì. Da qualche giorno si erano abituati a usare la parola *dicono* prima di ogni notizia su Bi.
 
-Nerea aprì un articolo più lungo. Parlava dei benefici del nuovo modulo in una struttura assistenziale, poi di un ritardo a un centro logistico, poi dei sospetti sulla provenienza di alcuni esempi usati dal produttore. Il testo riportava i risultati tecnici accertati e lasciava aperta la domanda su quali esempi fossero stati riutilizzati. Nerea era arrivata a metà articolo senza trovare una sola riga su chi avesse autorizzato la diffusione del suo messaggio personale.
+Nerea aprì un articolo più lungo. Parlava dei benefici del nuovo modulo in una struttura assistenziale, poi di un ritardo a un centro logistico e di una lavoratrice che, pur essendosi formata a gestire le eccezioni, aveva visto diminuire gli straordinari. Seguivano i sospetti sulla provenienza di alcuni esempi usati dal produttore. Il testo riportava i risultati tecnici accertati e lasciava aperta la domanda su quali esempi fossero stati riutilizzati. Nerea era arrivata a metà articolo senza trovare una sola riga su chi avesse autorizzato la diffusione del suo messaggio personale.
 
-«Il corso di Rosa, all'Hub, sembra averle fatto perdere degli straordinari», disse Paolo, indicando l'articolo. «Eppure la funzione le serve quando una baia è bloccata.»
+«Una lavoratrice dell'Hub ha fatto un corso per supervisionare i robot e adesso ha meno straordinari», disse Paolo, indicando l'articolo. «Eppure il nuovo sistema le serve quando una baia è bloccata.»
 
 «Tu vuoi che dica che Nico ha fatto bene?»
 
