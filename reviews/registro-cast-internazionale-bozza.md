@@ -74,4 +74,4 @@ Rinominare soltanto dopo un controllo di tutti i file canonici; evitare di perde
 
 ## Prima rinomina applicata
 
-Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei nove file-scena interessati, nelle guide e nei riferimenti correnti. La giornalista britannica abita a Roma, scrive in italiano e mantiene identici arco, etica professionale, rapporti e accessi alle fonti. Le tabelle delle revisioni storiche e gli audit-snapshot di versioni precedenti restano come testimonianza delle versioni pregresse.
+Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei nove file-scena interessati, nelle guide e nei riferimenti correnti. La giornalista britannica abita a Roma, scrive in italiano e mantiene identici arco, etica professionale, rapporti e accessi alle fonti. Le revisioni storiche pubblicate e la cronologia Git conservano le denominazioni precedenti come testimonianza delle vecchie versioni.
