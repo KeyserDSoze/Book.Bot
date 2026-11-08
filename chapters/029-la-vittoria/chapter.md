@@ -6,7 +6,7 @@ title: La vittoria
 canon: canon
 pov:
   - character:nina-solis
-  - character:grace-morgan
+  - character:grace-walker
   - character:kyla
   - character:claire-foster
 ---

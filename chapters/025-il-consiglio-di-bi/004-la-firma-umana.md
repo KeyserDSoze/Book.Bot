@@ -10,7 +10,7 @@ characters:
   - character:kyla
   - character:victor-cole
   - character:claire-foster
-  - character:gavin-cole
+  - character:gavin-shaw
   - character:elena-fischer
 locations:
   - location:cyberdine-campus
@@ -45,7 +45,7 @@ Il direttore delle operazioni intervenne.
 
 «Possiamo tagliare prima parte dei costi del personale.»
 
-Gavin Cole posò il prospetto delle ore accanto al dossier. Era entrato per discutere delle consegne, non delle assunzioni.
+Gavin Shaw posò il prospetto delle ore accanto al dossier. Era entrato per discutere delle consegne, non delle assunzioni.
 
 «Con quali persone faremo le verifiche?» chiese. «Il mio gruppo ha già perso due senior che leggevano le librerie storiche. Se il pilota si allarga a tre siti, nessuno può promettervi le stesse date con due junior e un agente.»
 

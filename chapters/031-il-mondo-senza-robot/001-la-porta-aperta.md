@@ -8,7 +8,7 @@ canon: canon
 pov: character:julia-parker
 characters:
   - character:julia-parker
-  - character:grace-morgan
+  - character:grace-walker
   - character:helen-rivera
   - character:b-32
   - character:chloe-rivera
@@ -22,7 +22,7 @@ La prima notte Julia era riuscita a portare le lenzuola al secondo piano usando 
 
 Erano rimasti dov'erano quando le macchine si erano fermate: all'imbocco dei corridoi, davanti alla lavanderia, nella zona d'accesso all'infermeria. Gli addetti alla sicurezza ne avevano liberati due dopo aver verificato che i bracci non potessero muoversi all'improvviso. Per gli altri mancavano i tecnici e una procedura approvata.
 
-Grace Morgan aveva passato la notte a fare telefonate.
+Grace Walker aveva passato la notte a fare telefonate.
 
 «Helen ha chiesto Trentadue di nuovo», disse Julia, entrando con un vassoio.
 

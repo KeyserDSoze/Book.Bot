@@ -87,7 +87,7 @@ Kyla si ricordò il mese in cui Claire aveva ricostruito dipendenze fra vecchie 
 
 «Non dobbiamo tagliare la parte che ci permette di capire il software», disse.
 
-Sapeva che Gavin Cole avrebbe presentato una tabella dei costi di Delivery. Anni prima sarebbe stata felice di trovarvi meno ore impegnate. Ora voleva sapere anche dove fossero finite quelle che il team non aveva più svolto.
+Sapeva che Gavin Shaw avrebbe presentato una tabella dei costi di Delivery. Anni prima sarebbe stata felice di trovarvi meno ore impegnate. Ora voleva sapere anche dove fossero finite quelle che il team non aveva più svolto.
 
 «Allora trovami un modo per ridurre il costo di tutto il resto.»
 

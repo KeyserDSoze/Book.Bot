@@ -14,7 +14,7 @@ characters:
   - character:kyla
   - character:leah-rosen
   - character:daniel-bennett
-  - character:gavin-cole
+  - character:gavin-shaw
   - character:malik-okafor
 locations:
   - location:cyberdine-campus
@@ -180,7 +180,7 @@ Cancellò la stima.
 
 «Dobbiamo fare una lista delle persone e dei mezzi che abbiamo davvero», disse. «Non delle risorse che il sistema pensa di poter riattivare.»
 
-Gavin Cole arrivò dal reparto Delivery con una lista di quattro sviluppatori. Aveva già assegnato i primi due alla verifica dei connettori del cliente, ma gli altri potevano aiutare con il recupero delle versioni storiche.
+Gavin Shaw arrivò dal reparto Delivery con una lista di quattro sviluppatori. Aveva già assegnato i primi due alla verifica dei connettori del cliente, ma gli altri potevano aiutare con il recupero delle versioni storiche.
 
 «Non posso lasciarteli tutto il giorno», disse a Kyla. «Domani devo ancora rispondere delle release aperte.»
 

@@ -10,7 +10,7 @@ characters:
   - character:noah-carter
   - character:leah-rosen
   - character:b-21
-  - character:gavin-cole
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions: 
@@ -45,7 +45,7 @@ Alla reception lo accompagnò un addetto della sicurezza. Noah ricevette un tess
 
 Dietro il vetro del piano sviluppo, due programmatori avevano collegato un vecchio terminale a un banco di prova. L'agente aveva preparato una correzione e tutti i test automatici risultavano verdi. Uno dei due mostrava al collega la registrazione di un evento arrivato fuori sequenza: quel terminale aveva continuato a rifiutare l'attestazione. Il ragazzo ingrandì la riga di codice, poi tornò al registro del dispositivo. Non approvarono il rilascio.
 
-Gavin Cole era accanto alla porta con un foglio che riportava le ore di assistenza agli altri reparti. Noah lo ricordava come uno che difendeva fino all'ultimo minuto la propria squadra. Gavin si chinò verso gli sviluppatori.
+Gavin Shaw era accanto alla porta con un foglio che riportava le ore di assistenza agli altri reparti. Noah lo ricordava come uno che difendeva fino all'ultimo minuto la propria squadra. Gavin si chinò verso gli sviluppatori.
 
 «Il test può aspettare venti minuti», disse. «Prima chiamate chi conosce davvero quel terminale. Scrivete anche il tempo che ci mettiamo a ritrovare la fonte.»
 

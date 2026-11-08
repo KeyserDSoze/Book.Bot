@@ -5,9 +5,9 @@ chapter: chapter:029-la-vittoria
 number: 2
 title: La compagnia
 canon: canon
-pov: character:grace-morgan
+pov: character:grace-walker
 characters:
-  - character:grace-morgan
+  - character:grace-walker
   - character:julia-parker
   - character:helen-rivera
   - character:b-32
@@ -17,7 +17,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Grace Morgan aveva cominciato a rifare i turni prima che la legge fosse approvata.
+Grace Walker aveva cominciato a rifare i turni prima che la legge fosse approvata.
 
 Non sapeva ancora quale formulazione sarebbe arrivata in fondo al procedimento parlamentare, ma quella discussa dalle commissioni prevedeva di riservare alle persone l'assistenza relazionale continuativa a ospiti fragili quando non vi fosse una presenza umana effettiva. Le attività logistiche sarebbero rimaste autorizzabili; un carrello per la biancheria non sarebbe diventato improvvisamente illegale.
 
