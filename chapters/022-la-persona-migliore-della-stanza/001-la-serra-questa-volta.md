@@ -133,10 +133,12 @@ Teresa batté una mano sul ginocchio.
 
 Giulia, appoggiata alla porta, sorrise.
 
-Quella battuta non sembrava un miracolo. Era il genere di risposta che un buon assistente conversazionale avrebbe dovuto saper dare. Ma Teresa la ripeté a Lucia quando finalmente arrivò, e poi ad Ada durante il pranzo.
+Quando Lucia arrivò, Teresa le ripeté la battuta sui pomodori e pretese che Trentadue la pronunciasse di nuovo. Il robot la ripeté con le stesse parole.
 
-Nel rapporto di fine turno Giulia registrò la visita effettuata e il cambio di accompagnatrice.
+«Ecco», disse Teresa. «Vedi che non è difficile?»
 
-Non registrò la battuta sui pomodori.
+«Lo dici a me o a lui?», chiese Lucia.
 
-Non c'era nessuna casella per quello.
+«A tutti e due.»
+
+A pranzo Teresa raccontò ad Ada soltanto che erano finalmente andate nella serra. Giulia compilò il rapporto di fine turno: visita effettuata, accompagnatrice sostituita alle undici e venti, nessuna richiesta di assistenza rimasta aperta. Poi mise via la penna. Lucia, che doveva ancora uscire, si fermò a chiederle se qualcuno avesse davvero parlato ai pomodori.

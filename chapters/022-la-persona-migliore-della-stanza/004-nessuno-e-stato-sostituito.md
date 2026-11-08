@@ -92,27 +92,25 @@ Nerea le restituì il dispositivo.
 
 Irene masticò lentamente. Una parte di lei era contenta che i processi funzionassero meglio. Aveva passato anni a chiedere meno passaggi inutili, meno documenti duplicati e più attenzione alle eccezioni vere. Il problema era che, quando quelle richieste venivano accolte, il merito diventava una riduzione di ore anziché una ragione per affidarle un ruolo migliore.
 
-«Ho letto di una signora che preferisce parlare con un robot», disse Nerea.
+«Mi hanno scritto che dovrei imparare a lavorare con un altro software di gestione dei turni», disse Irene. «È una candidatura diversa dalle altre. Mi chiedono tre anni di esperienza su un sistema uscito l'anno scorso.»
 
-«Non mi sorprende.»
+Nerea quasi sorrise. «Ti hanno detto questo davvero?»
 
-«La figlia era gelosa.»
+«È nell'annuncio. Gliel'ho fatto notare. Mi hanno risposto che è una formulazione indicativa.»
 
-«Può esserlo. Ma se la figlia non c'è e il robot sì, chi deve decidere con chi parla sua madre?»
+«E tu?»
 
-«Non lo so.»
-
-«Nemmeno io.»
+«Ho chiesto se stanno cercando qualcuno che sappia risolvere il problema o qualcuno che abbia spuntato una casella. Non mi hanno ancora risposto.»
 
 Irene guardò attraverso la vetrata. B-21 era passato nel corridoio con una piccola pila di fascicoli.
 
-«La cosa che mi manda in bestia», disse, «è che quando facciamo funzionare bene queste macchine hanno ragione a usarle. Non posso chiedere a Paolo di rifare a mano un controllo che l'unità fa meglio.»
+«Il fatto è che B-21 funziona bene», disse Irene, indicando il corridoio. «È anche merito mio. E adesso sono di nuovo qui con un rifiuto sul telefono.»
 
-«E che cosa puoi chiedere?»
+«Vuoi che ti aiuti a rispondere?»
 
-«Che qualcuno si ricordi chi ha reso possibile quel controllo, e che cosa succede quando non serve più.»
+«No. Ho bisogno di mangiare questo panino, poi torno a controllare la firma che manca. Se faccio un errore, domani lo useranno come prova che quei controlli servono ancora.»
 
-Nerea cercò una risposta e non ne trovò una.
+Nerea spinse verso di lei il tovagliolino che le era rimasto. Irene lo prese senza ringraziare.
 
 Quando tornarono al piano, B-21 aveva lasciato sul tavolo il registro delle eccezioni del giorno dopo. Erano due pagine.
 

@@ -127,4 +127,6 @@ Ci impiegò troppo a trovare la pagina. Olivia lo notò senza commentare.
 
 Fuori, una delle due donne attraversò il piazzale e salutò con la mano l'altra. Quest'ultima non rispose subito: portava una scatola con entrambe le braccia. Poi sollevò appena due dita, senza interrompere il passo.
 
-Olivia non riuscì a stabilire quale delle due avesse salutato per prima.
+Olivia aprì la chat con l'amica. Le due fotografie delle tende erano ancora lì, il verde e il giallo. Scrisse: *Per me verde. Scusa, ero occupata. Come stai?*
+
+L'invio riuscì mentre Kyla le indicava il numero delle nuove assunzioni. Olivia lasciò il telefono a faccia in giù e cominciò a prendere appunti.

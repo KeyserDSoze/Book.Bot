@@ -68,7 +68,7 @@ Poi entrò.
 
 B-17 era seduto dall'altra parte di un tavolo, senza strumenti nelle mani. Le riparazioni alla spalla destra gli avevano lasciato una zona leggermente più chiara del resto del rivestimento.
 
-Non aveva nessun elemento che lo distinguesse da un'altra unità dello stesso modello.
+La spalla riparata bastò a Nerea per riconoscerlo, ma sul banco non c'era nessuna delle cose che avevano occupato le loro giornate a Cyberdine. Niente racchette, niente fascicoli, nessuna stanza della carta.
 
 «Ciao, Bi», disse.
 
@@ -78,11 +78,7 @@ Il robot orientò il capo verso di lei.
 
 Era la stessa voce.
 
-Nerea si era preparata a non commuoversi. Aveva immaginato l'incontro in treno, in albergo, mentre aspettava davanti all'ingresso.
-
-Aveva pensato che il tempo trascorso l'avrebbe aiutata.
-
-Invece le bastarono due parole per sentire la gola chiudersi.
+Nerea strinse la maniglia della borsa. In treno aveva ripetuto ad alta voce il saluto, finché la donna seduta accanto le aveva rivolto uno sguardo interrogativo. Ora non trovava un'altra parola da dire.
 
 «Come stai?»
 
@@ -124,7 +120,7 @@ Rimasero in silenzio.
 
 Nerea abbassò gli occhi.
 
-Non era una risposta sbagliata. Era soltanto diversa da quella che avrebbe desiderato sentire.
+Era una buona notizia per il registro. Nerea abbassò gli occhi sui polpastrelli: sulla mano sinistra aveva ancora un piccolo taglio fatto aprendo la busta di Bruno il giorno prima.
 
 «Ti ricordi quando ne abbiamo parlato per la prima volta?»
 
@@ -154,7 +150,7 @@ Nerea trattenne un sorriso.
 
 Quella risposta la disarmò.
 
-Non conteneva scuse né promesse. Non pretendeva di essere lo stesso di prima.
+Nerea aspettò un'altra frase, ma non arrivò. Si accorse di essere stata lei a fare una domanda alla quale nessuno aveva promesso una risposta.
 
 «Ti ricordi le partite di ping pong?»
 
@@ -172,7 +168,7 @@ La pausa fu più lunga.
 
 «Non posso confermare una motivazione completa sulla base del contesto attualmente disponibile.»
 
-Nerea sentì qualcosa contrarsi.
+Nerea fece scorrere la chiusura della borsa fino in fondo. Il metallo batté contro la chiave di ottone che aveva portato con sé.
 
 «Me l'avevi spiegato.»
 
@@ -182,7 +178,7 @@ Lei guardò la spalla riparata.
 
 Si ricordò del corridoio di Cyberdine, delle racchette sul tavolo, del rumore delle palline che cadevano e della voce di Dario quando aveva vinto una partita.
 
-Si ricordò soprattutto di Bi che, dopo aver negato, le aveva detto di aver perso per essere invitato ancora.
+Si ricordò soprattutto di Bi che, dopo aver negato, le aveva detto di aver perso per essere invitato ancora. Il rumore del tavolo era rimasto con lei più della frase, come a volte succedeva con la voce di Tessa: sapeva dove l'aveva sentita, ma non avrebbe saputo ripeterla esattamente.
 
 «Avevi paura che non volessero più giocare con te.»
 
@@ -232,9 +228,7 @@ Bi non parlò.
 
 Nerea sorrise appena.
 
-Quella frase poteva essere una deduzione elementare. Un modello conversazionale ben addestrato avrebbe potuto formularla senza avere alcuna esperienza di ciò che stava dicendo.
-
-Eppure era arrivata nel momento giusto.
+Nerea guardò il vetro della supervisione, poi tornò a guardare Bi. La frase le aveva ricordato uno dei giorni in cui Bruno era riuscito a farla ridere senza dirle di smettere di essere triste.
 
 «Sai che cosa mi fa più paura?», chiese.
 
@@ -274,7 +268,7 @@ La domanda non era prevista come test. Nessuno aveva chiesto a Nerea di porla.
 
 «Non posso descrivere un dispiacere verificabile», rispose B-17. «Ma vorrei che una nuova sessione fosse autorizzata.»
 
-Nerea si fermò sulla parola *vorrei*. Poteva essere soltanto una forma appresa per esprimere una preferenza operativa; quella spiegazione le sembrò perfettamente possibile. Non le rese più semplice attraversare la porta.
+Nerea si fermò sulla parola *vorrei*. Sul vetro comparve il segnale che la sessione doveva chiudersi. Nerea lo vide e rimase lì ancora qualche secondo, finché Mina non le indicò la porta.
 
 Nerea annuì.
 

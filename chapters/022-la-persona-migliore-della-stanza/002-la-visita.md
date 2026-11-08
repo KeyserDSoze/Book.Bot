@@ -165,15 +165,25 @@ Teresa corrugò la fronte.
 
 «L'ho fatta.»
 
-«Elisa, tu puoi offenderti con me. Lui no, o almeno non nel modo che capisco io. Tu puoi decidere di non venire domenica perché ti ho trattata male. Lui arriva all'ora prevista.»
+«Con te posso litigare», disse Teresa. «Lo facciamo da quando avevi sedici anni.»
 
-«E questo lo rende migliore?»
+«E con lui no?»
 
-«Lo rende più facile.»
+«Lui non mi telefona dicendo che è quasi arrivato quando è ancora in ufficio.»
 
-Elisa lasciò andare la mano della madre.
+Elisa guardò la torta. «E tu hai fatto finta di credermi.»
 
-Dalla finestra si vedeva il cortile dove da bambina sua madre le insegnava a riconoscere il rosmarino. Ora lì c'erano due aiuole nuove e una panchina.
+«Certo. Speravo che uscissi davvero.»
+
+«Quindi preferisci parlare con lui?»
+
+«Elisa, non sto facendo una classifica. È più facile, questo sì. Quando non puoi venire, lui è già qui.»
+
+Elisa lasciò andare la mano della madre per aprire la scatola della torta. Aveva comprato due forchettine di plastica e dimenticato i piatti. Teresa ne prese una e l'affondò direttamente nella glassa.
+
+«Almeno dammi il tempo di tagliarla», disse Elisa.
+
+«Ti aspettavo da mezz'ora.»
 
 «Vorrei esserci di più», disse.
 
