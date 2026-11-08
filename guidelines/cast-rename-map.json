@@ -1,0 +1,247 @@
+{
+  "policy": "Integrazione selettiva della PR #3 nel canone successivo alla 20ª review. Nomi internazionali e multiculturali; azienda e toponimi invariati; riconciliazione completa di ID, nomi di file e riferimenti; preservazione di volti, biografie e trama successive.",
+  "people": [
+    {
+      "oldName": "Ada Serri",
+      "newName": "Grace Mercer",
+      "oldSlug": "ada-serri",
+      "newSlug": "grace-mercer"
+    },
+    {
+      "oldName": "Adriana Lodi",
+      "newName": "Margaret Ellis",
+      "oldSlug": "adriana-lodi",
+      "newSlug": "margaret-ellis"
+    },
+    {
+      "oldName": "Amir Haddad",
+      "newName": "Omar Haddad",
+      "oldSlug": "amir-haddad",
+      "newSlug": "omar-haddad"
+    },
+    {
+      "oldName": "Bruno Dalmasso",
+      "newName": "Daniel Bennett",
+      "oldSlug": "bruno-dalmasso",
+      "newSlug": "daniel-bennett"
+    },
+    {
+      "oldName": "Dario Sarti",
+      "newName": "Ethan Blake",
+      "oldSlug": "dario-sarti",
+      "newSlug": "ethan-blake"
+    },
+    {
+      "oldName": "Elisa Marin",
+      "newName": "Chloe Rivera",
+      "oldSlug": "elisa-marin",
+      "newSlug": "chloe-rivera"
+    },
+    {
+      "oldName": "Giulia Orsini",
+      "newName": "Julia Parker",
+      "oldSlug": "giulia-orsini",
+      "newSlug": "julia-parker"
+    },
+    {
+      "oldName": "Irene Valli",
+      "newName": "Claire Foster",
+      "oldSlug": "irene-valli",
+      "newSlug": "claire-foster"
+    },
+    {
+      "oldName": "Lorenzo Verri",
+      "newName": "Victor Hale",
+      "oldSlug": "lorenzo-verri",
+      "newSlug": "victor-hale"
+    },
+    {
+      "oldName": "Marta Ledesma",
+      "newName": "Amara Ortiz",
+      "oldSlug": "marta-ledesma",
+      "newSlug": "amara-ortiz"
+    },
+    {
+      "oldName": "Mauro Lanza",
+      "newName": "Marcus Reed",
+      "oldSlug": "mauro-lanza",
+      "newSlug": "marcus-reed"
+    },
+    {
+      "oldName": "Mei Lin",
+      "newName": "Mei Chen",
+      "oldSlug": "mei-lin",
+      "newSlug": "mei-chen"
+    },
+    {
+      "oldName": "Mina Soler",
+      "newName": "Nina Solis",
+      "oldSlug": "mina-soler",
+      "newSlug": "nina-solis"
+    },
+    {
+      "oldName": "Nerea Dalmasso",
+      "newName": "Maya Bennett",
+      "oldSlug": "nerea-dalmasso",
+      "newSlug": "maya-bennett"
+    },
+    {
+      "oldName": "Nico Valenti",
+      "newName": "Noah Carter",
+      "oldSlug": "nico-valenti",
+      "newSlug": "noah-carter"
+    },
+    {
+      "oldName": "Paolo Ferri",
+      "newName": "Paul Turner",
+      "oldSlug": "paolo-ferri",
+      "newSlug": "paul-turner"
+    },
+    {
+      "oldName": "Rosa Fabbri",
+      "newName": "Ruby Collins",
+      "oldSlug": "rosa-fabbri",
+      "newSlug": "ruby-collins"
+    },
+    {
+      "oldName": "Sergio Lolli",
+      "newName": "Samuel Price",
+      "oldSlug": "sergio-lolli",
+      "newSlug": "samuel-price"
+    },
+    {
+      "oldName": "Sofia Rizzi",
+      "newName": "Sophie Grant",
+      "oldSlug": "sofia-rizzi",
+      "newSlug": "sophie-grant"
+    },
+    {
+      "oldName": "Teresa Marin",
+      "newName": "Helen Rivera",
+      "oldSlug": "teresa-marin",
+      "newSlug": "helen-rivera"
+    },
+    {
+      "oldName": "Youssef Benali",
+      "newName": "Yusuf Karim",
+      "oldSlug": "youssef-benali",
+      "newSlug": "yusuf-karim"
+    },
+    {
+      "oldName": "Sahir Venn",
+      "newName": "Elias Hart",
+      "oldSlug": "sahir-venn",
+      "newSlug": "elias-hart"
+    },
+    {
+      "oldName": "Leïa Orren",
+      "newName": "Layla Stone",
+      "oldSlug": "leïa-orren",
+      "newSlug": "layla-stone"
+    }
+  ],
+  "preserved": [
+    {
+      "name": "Kyla Morgan",
+      "reason": "Nome già apprezzato dall'autore e ruolo aggiornato: HR/Marketing e socia 1,5%, non Taylor"
+    },
+    {
+      "name": "Gavin Cole",
+      "reason": "Già canonico, manager Delivery con arco autonomo"
+    },
+    {
+      "name": "Mila Novak",
+      "reason": "Identità croata e caratteristiche di voce già stabilizzate"
+    },
+    {
+      "name": "Elena Fischer",
+      "reason": "Identità tedesca e competenze sulla documentazione già stabilizzate"
+    },
+    {
+      "name": "Leah Rosen",
+      "reason": "Security incident officer, distinta dalla delegata Aruvhana Layla Stone"
+    },
+    {
+      "name": "Olivia Brooks",
+      "reason": "Giornalista, non quality manager del ramo vecchio"
+    },
+    {
+      "name": "Anika Rao",
+      "reason": "Delegazione Aruvhana"
+    },
+    {
+      "name": "Malik Okafor",
+      "reason": "Delivery/release"
+    },
+    {
+      "name": "Erik Solberg",
+      "reason": "Persona già internazionalizzata"
+    }
+  ],
+  "secondary": [
+    {
+      "oldName": "Terenzi",
+      "newName": "Harper"
+    },
+    {
+      "oldName": "Enrico",
+      "newName": "Henry"
+    },
+    {
+      "oldName": "Luciana",
+      "newName": "Lauren"
+    },
+    {
+      "oldName": "Lucia",
+      "newName": "Lucy"
+    },
+    {
+      "oldName": "Carlo",
+      "newName": "Charlie"
+    }
+  ],
+  "locationSlugs": [
+    [
+      "appartamento-dario",
+      "appartamento-ethan"
+    ],
+    [
+      "appartamento-nico",
+      "appartamento-noah"
+    ],
+    [
+      "centro-assistenza-ada",
+      "centro-assistenza-grace"
+    ]
+  ],
+  "sceneFilenameSlugs": [
+    [
+      "001-la-finestra-di-adriana",
+      "001-la-finestra-di-margaret"
+    ],
+    [
+      "003-il-turno-di-irene",
+      "003-il-turno-di-claire"
+    ],
+    [
+      "002-il-turno-di-ada",
+      "002-il-turno-di-grace"
+    ],
+    [
+      "003-le-condizioni-di-irene",
+      "003-le-condizioni-di-claire"
+    ],
+    [
+      "003-il-pomodoro-carlo",
+      "003-il-pomodoro-charlie"
+    ]
+  ],
+  "exceptions": [
+    "Grace Mercer instead of Grace Morgan: avoid unintended shared surname with Kyla Morgan",
+    "Victor Hale instead of Victor Cole: avoid unintended shared surname with Gavin Cole",
+    "Layla Stone instead of Leah Stone: avoid collision with Leah Rosen",
+    "No new identity for the Hub worker: the canonical person is Rosa Fabbri→Ruby Collins, not Avery",
+    "Tessa (sister of Maya) retained; Nora Blake (sister of Ethan) and Hazel Morgan (sister of Kyla) are separate deaths",
+    "Review reports written before integration are historical documents and may cite the old cast."
+  ]
+}
