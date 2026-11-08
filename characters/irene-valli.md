@@ -68,3 +68,15 @@ L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 26/001 Irene contesta a Kyla una convocazione evitabile. Nel 26/004 dice a Nerea che non vuole doverla rassicurare continuamente sul significato delle intenzioni di Bi mentre lei perderà il contratto in quattro mesi. Nel 29/004 Nerea lascia all'amica lo spazio per raccontare a Olivia la propria esperienza del voto. L'amicizia continua senza annullare quella ferita.
+
+
+## Diciassettesima passata — attribuzione non equivale a carriera
+
+Nel **7/002**, la ricerca di una funzione legacy richiede a Malik di sospendere un rilascio e rendere visibile l'impatto nella consegna. Elena condivide la responsabilità della verifica, ma non può ancora finanziare il corso. Nel **8/004**, Irene insegna a uno sviluppatore una condizione del connettore durante una prova concreta: la mezz'ora è registrata nel ticket del cliente, perché non esiste un centro di costo attivo per la formazione legacy. Nel **9/003**, quando B-21 ripristina i tempi delle commissioni, Irene chiede che il rapporto sulle prestazioni contenga un collegamento alla procedura e ai test da lei ricostruiti. Ottiene un riconoscimento verificabile, non il ruolo senior né un contratto migliore.
+## Diciottesima review — un'amica non è un ufficio revisioni gratuito
+
+Nei capitoli **13/004** e **14/003** Irene rimane critica verso la raccolta di Nerea e Paolo, dona 25 euro di impegno condizionato e partecipa alla verifica dei preventivi. Ma racconta a Nerea che gli invii notturni e l'attesa di una sua risposta consumano tempo personale già negato dal lavoro. Chiede che i prossimi controlli siano concordati e, chiusa la raccolta, mette fine alla propria funzione volontaria. L'amicizia continua, ma il costo di essere la persona competente che gli altri chiamano sempre è reale: questo prepara il conflitto più esplicito del capitolo 26 senza una conversione improvvisa di Irene né un perdono istantaneo di Nerea.
+
+## Diciannovesima review — il turno serale senza un approvatore
+
+Nel **21/004** Irene vede che l'estensione automatizzata alle pratiche serali di Cyberdine non ha nominato un responsabile degli avalli e non presta il proprio nome a una firma anticipata. Apre una richiesta di autorizzazione lasciando operativa B-21 sulle mansioni già consentite. Il lavoro manuale ricade su Paolo ed entra nella stima dei costi. Questa scelta professionale non ripristina la posizione senior soppressa: prepara le richieste di ore riconosciute e di continuità nel 25–26.
