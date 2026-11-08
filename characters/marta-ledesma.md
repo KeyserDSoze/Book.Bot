@@ -34,3 +34,7 @@ Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto per v
 ## Dodicesima review — la proprietà paga anche i tentativi
 
 In 25 Marta accetta una consulenza circoscritta per Cyberdine e vede che il ricavo copre solo una parte delle giornate di sospensione del Circuito. In 34 è messa davanti a consegne assistenziali che non può risolvere con il proprio denaro: un furgone è inutile se il magazzino non può confermare quali scatole ritirare. Non può accettare acriticamente una cancellazione irreversibile né promettere una data per le revoche lente. Decide sul bene di cui è proprietaria, senza sapere se quel bene abbia esperienza soggettiva.
+
+## Diciannovesima review — una scelta precedente cambia prezzo
+
+Nel **20/001** Marta si ricorda della proposta dei dipendenti di Cyberdine come raccolta **condizionata**, non come offerta di acquisto con prezzo ufficiale; l'aveva rifiutata perché il Circuito dipendeva dai contratti già assunti. Ora gli stessi contratti generano penali e giorni da rimborsare quando sospende il programma di B-17. Nel **21/001** ascolta il limite di Mina: Nerea non deve essere trasformata in una prova gratuita dell'identità del robot. Marta autorizza un invito volontario, non una perizia affidata a una persona emotivamente coinvolta.
