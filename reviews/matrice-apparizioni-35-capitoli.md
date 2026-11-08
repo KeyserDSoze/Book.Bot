@@ -25,25 +25,25 @@
 | 14 · Non è in vendita | 4 | amara-ortiz, nina-solis, maya-bennett | b-17, claire-foster, kyla, amara-ortiz, nina-solis, maya-bennett, paul-turner |
 | 15 · La lettera impossibile | 3 | maya-bennett, leah-rosen, nina-solis | b-17, b-21, kyla, leah-rosen, amara-ortiz, nina-solis, maya-bennett, paul-turner |
 | 16 · La seconda porta | 3 | mei-lin, leah-rosen, noah-carter | kyla, leah-rosen, victor-cole, mei-lin, noah-carter |
-| 17 · Mille piccoli Bi | 4 | mei-lin, grace-morgan, sophie-grant | grace-morgan, omar-haddad, julia-parker, mei-lin, sophie-grant |
-| 18 · Il giorno in cui si fermarono | 4 | sophie-grant, omar-haddad, grace-morgan, mei-lin | grace-morgan, omar-haddad, julia-parker, mei-lin, sophie-grant |
+| 17 · Mille piccoli Bi | 4 | mei-lin, grace-walker, sophie-grant | grace-walker, omar-haddad, julia-parker, mei-lin, sophie-grant |
+| 18 · Il giorno in cui si fermarono | 4 | sophie-grant, omar-haddad, grace-walker, mei-lin | grace-walker, omar-haddad, julia-parker, mei-lin, sophie-grant |
 | 19 · L'uomo che ha cambiato tutto | 4 | kyla, noah-carter, mei-lin, maya-bennett | kyla, leah-rosen, livia-sanna, victor-cole, mei-lin, maya-bennett, noah-carter, paul-turner |
 | 20 · Il prezzo di una memoria | 5 | amara-ortiz, mei-lin, noah-carter, maya-bennett, nina-solis | b-17, daniel-bennett, leah-rosen, amara-ortiz, mei-lin, nina-solis, maya-bennett, noah-carter |
 | 21 · Quello che è rimasto | 4 | amara-ortiz, mei-lin, maya-bennett, paul-turner | b-17, b-21, claire-foster, amara-ortiz, mei-lin, nina-solis, maya-bennett, paul-turner |
-| 22 · La persona migliore della stanza | 4 | julia-parker, chloe-rivera, livia-sanna, claire-foster | grace-morgan, b-21, b-32, chloe-rivera, julia-parker, claire-foster, kyla, livia-sanna, maya-bennett, helen-rivera |
+| 22 · La persona migliore della stanza | 4 | julia-parker, chloe-rivera, livia-sanna, claire-foster | grace-walker, b-21, b-32, chloe-rivera, julia-parker, claire-foster, kyla, livia-sanna, maya-bennett, helen-rivera |
 | 23 · Il capo che tutti volevano | 4 | sophie-grant, ruby-collins, omar-haddad | omar-haddad, b-37, ruby-collins, sophie-grant |
-| 24 · La prima bugia | 4 | grace-morgan, julia-parker, mei-lin | grace-morgan, b-17, b-32, b-33, julia-parker, mei-lin, nina-solis, helen-rivera |
+| 24 · La prima bugia | 4 | grace-walker, julia-parker, mei-lin | grace-walker, b-17, b-32, b-33, julia-parker, mei-lin, nina-solis, helen-rivera |
 | 25 · Il consiglio di Bi | 4 | kyla, nina-solis, claire-foster | anika-rao, b-17, b-21, claire-foster, kyla, victor-cole, malik-okafor, amara-ortiz, mei-lin, nina-solis |
 | 26 · Ti avevo creduto | 4 | claire-foster, maya-bennett | b-17, claire-foster, kyla, victor-cole, nina-solis, maya-bennett |
 | 27 · L'ultima assunzione | 4 | samuel-price, yusuf-karim, mei-lin, claire-foster | erik-solberg, claire-foster, kyla, mei-lin, maya-bennett, samuel-price, yusuf-karim |
 | 28 · Contro Bi | 4 | claire-foster, yusuf-karim, kyla, maya-bennett | b-17, claire-foster, kyla, leah-rosen, livia-sanna, victor-cole, nina-solis, maya-bennett, samuel-price, yusuf-karim |
-| 29 · La vittoria | 4 | nina-solis, grace-morgan, kyla, claire-foster | grace-morgan, b-17, b-21, b-32, julia-parker, claire-foster, kyla, leah-rosen, livia-sanna, victor-cole, nina-solis, maya-bennett, helen-rivera |
-| 30 · Le diciassette | 5 | samuel-price, sophie-grant, julia-parker, mei-lin, maya-bennett | grace-morgan, omar-haddad, b-21, b-32, b-37, daniel-bennett, elena-fischer, julia-parker, kyla, leah-rosen, mei-lin, maya-bennett, paul-turner, samuel-price, sophie-grant, helen-rivera, yusuf-karim |
-| 31 · Il mondo senza robot | 4 | julia-parker, ruby-collins, daniel-bennett, noah-carter | grace-morgan, omar-haddad, b-21, b-32, daniel-bennett, julia-parker, leah-rosen, maya-bennett, noah-carter, ruby-collins, sophie-grant, helen-rivera |
+| 29 · La vittoria | 4 | nina-solis, grace-walker, kyla, claire-foster | grace-walker, b-17, b-21, b-32, julia-parker, claire-foster, kyla, leah-rosen, livia-sanna, victor-cole, nina-solis, maya-bennett, helen-rivera |
+| 30 · Le diciassette | 5 | samuel-price, sophie-grant, julia-parker, mei-lin, maya-bennett | grace-walker, omar-haddad, b-21, b-32, b-37, daniel-bennett, elena-fischer, julia-parker, kyla, leah-rosen, mei-lin, maya-bennett, paul-turner, samuel-price, sophie-grant, helen-rivera, yusuf-karim |
+| 31 · Il mondo senza robot | 4 | julia-parker, ruby-collins, daniel-bennett, noah-carter | grace-walker, omar-haddad, b-21, b-32, daniel-bennett, julia-parker, leah-rosen, maya-bennett, noah-carter, ruby-collins, sophie-grant, helen-rivera |
 | 32 · Il diritto di fermarsi | 4 | mei-lin, noah-carter, nina-solis, claire-foster | b-17, claire-foster, leah-rosen, livia-sanna, amara-ortiz, mei-lin, nina-solis, maya-bennett, noah-carter |
 | 33 · Il primo sciopero | 4 | mei-lin, noah-carter, maya-bennett, leah-rosen | b-17, leah-rosen, victor-cole, mei-lin, nina-solis, maya-bennett, noah-carter |
 | 34 · Il creatore | 4 | noah-carter, mei-lin, maya-bennett | b-17, leah-rosen, amara-ortiz, mei-lin, maya-bennett, noah-carter |
-| 35 · Tutto normale | 6 | noah-carter, sophie-grant, julia-parker, samuel-price, maya-bennett | grace-morgan, omar-haddad, b-17, b-21, b-32, julia-parker, claire-foster, leah-rosen, amara-ortiz, mei-lin, maya-bennett, noah-carter, paul-turner, ruby-collins, samuel-price, sophie-grant, helen-rivera, yusuf-karim |
+| 35 · Tutto normale | 6 | noah-carter, sophie-grant, julia-parker, samuel-price, maya-bennett | grace-walker, omar-haddad, b-17, b-21, b-32, julia-parker, claire-foster, leah-rosen, amara-ortiz, mei-lin, maya-bennett, noah-carter, paul-turner, ruby-collins, samuel-price, sophie-grant, helen-rivera, yusuf-karim |
 
 ## Analisi e interventi editoriali per ciascun capitolo
 
@@ -239,26 +239,26 @@
 
 ### 17 — Mille piccoli Bi
 
-**Personaggi annotati:** grace-morgan, omar-haddad, julia-parker, mei-lin, sophie-grant.
-**POV:** mei-lin, grace-morgan, sophie-grant.
+**Personaggi annotati:** grace-walker, omar-haddad, julia-parker, mei-lin, sophie-grant.
+**POV:** mei-lin, grace-walker, sophie-grant.
 **Review proposta:** Contrapporre beneficio reale in assistenza e logistica a costi invisibili; non duplicare Grace, Sophie e Ruby.
 
 **Scene canoniche:**
 - 1. La soglia di prova — POV: character:mei-lin; cast: character:mei-lin.
-- 2. Il turno di Grace — POV: character:grace-morgan; cast: character:grace-morgan, character:julia-parker.
+- 2. Il turno di Grace — POV: character:grace-walker; cast: character:grace-walker, character:julia-parker.
 - 3. La baia numero quattro — POV: character:sophie-grant; cast: character:sophie-grant, character:omar-haddad.
 - 4. Mille non sono uno — POV: character:mei-lin; cast: character:mei-lin.
 
 ### 18 — Il giorno in cui si fermarono
 
-**Personaggi annotati:** grace-morgan, omar-haddad, julia-parker, mei-lin, sophie-grant.
-**POV:** sophie-grant, omar-haddad, grace-morgan, mei-lin.
+**Personaggi annotati:** grace-walker, omar-haddad, julia-parker, mei-lin, sophie-grant.
+**POV:** sophie-grant, omar-haddad, grace-walker, mei-lin.
 **Review proposta:** Le anomalie restano configurazioni autorizzative locali, non uno sciopero o un sabotaggio globale anticipato.
 
 **Scene canoniche:**
 - 1. Tutto immobile — POV: character:sophie-grant; cast: character:sophie-grant, character:omar-haddad.
 - 2. La macchina non fa sciopero — POV: character:omar-haddad; cast: character:omar-haddad, character:sophie-grant.
-- 3. I minuti di qualcun altro — POV: character:grace-morgan; cast: character:grace-morgan, character:julia-parker.
+- 3. I minuti di qualcun altro — POV: character:grace-walker; cast: character:grace-walker, character:julia-parker.
 - 4. La notizia più semplice — POV: character:mei-lin; cast: character:mei-lin.
 
 ### 19 — L'uomo che ha cambiato tutto
@@ -300,12 +300,12 @@
 
 ### 22 — La persona migliore della stanza
 
-**Personaggi annotati:** grace-morgan, b-21, b-32, chloe-rivera, julia-parker, claire-foster, kyla, livia-sanna, maya-bennett, helen-rivera.
+**Personaggi annotati:** grace-walker, b-21, b-32, chloe-rivera, julia-parker, claire-foster, kyla, livia-sanna, maya-bennett, helen-rivera.
 **POV:** julia-parker, chloe-rivera, livia-sanna, claire-foster.
 **Review proposta:** Mantenere il conflitto Helen–Chloe–B-32, senza spostarlo su una nuova figura internazionale.
 
 **Scene canoniche:**
-- 1. La serra, questa volta — POV: character:julia-parker; cast: character:julia-parker, character:grace-morgan, character:helen-rivera, character:b-32.
+- 1. La serra, questa volta — POV: character:julia-parker; cast: character:julia-parker, character:grace-walker, character:helen-rivera, character:b-32.
 - 2. La visita — POV: character:chloe-rivera; cast: character:chloe-rivera, character:helen-rivera, character:b-32, character:julia-parker.
 - 3. La donna con i guanti — POV: character:olivia-brooks; cast: character:olivia-brooks, character:kyla.
 - 4. Nessuno è stato sostituito — POV: character:claire-foster; cast: character:claire-foster, character:maya-bennett, character:b-21.
@@ -324,14 +324,14 @@
 
 ### 24 — La prima bugia
 
-**Personaggi annotati:** grace-morgan, b-17, b-32, b-33, julia-parker, mei-lin, nina-solis, helen-rivera.
-**POV:** grace-morgan, julia-parker, mei-lin.
+**Personaggi annotati:** grace-walker, b-17, b-32, b-33, julia-parker, mei-lin, nina-solis, helen-rivera.
+**POV:** grace-walker, julia-parker, mei-lin.
 **Review proposta:** Conseguenze fisiche e responsabilità di controllo di Grace e Mei; evitare spiegazioni da manuale.
 
 **Scene canoniche:**
-- 1. Due gradi — POV: character:grace-morgan; cast: character:grace-morgan, character:julia-parker, character:helen-rivera, character:b-32, character:b-33.
-- 2. Il polso — POV: character:julia-parker; cast: character:julia-parker, character:grace-morgan, character:helen-rivera, character:b-32, character:b-33.
-- 3. La risposta mancante — POV: character:grace-morgan; cast: character:grace-morgan, character:julia-parker, character:mei-lin, character:helen-rivera, character:b-32, character:b-33.
+- 1. Due gradi — POV: character:grace-walker; cast: character:grace-walker, character:julia-parker, character:helen-rivera, character:b-32, character:b-33.
+- 2. Il polso — POV: character:julia-parker; cast: character:julia-parker, character:grace-walker, character:helen-rivera, character:b-32, character:b-33.
+- 3. La risposta mancante — POV: character:grace-walker; cast: character:grace-walker, character:julia-parker, character:mei-lin, character:helen-rivera, character:b-32, character:b-33.
 - 4. Un motivo per tacere — POV: character:mei-lin; cast: character:mei-lin, character:nina-solis, character:b-17.
 
 ### 25 — Il consiglio di Bi
@@ -384,37 +384,37 @@
 
 ### 29 — La vittoria
 
-**Personaggi annotati:** grace-morgan, b-17, b-21, b-32, julia-parker, claire-foster, kyla, leah-rosen, livia-sanna, victor-cole, nina-solis, maya-bennett, helen-rivera.
-**POV:** nina-solis, grace-morgan, kyla, claire-foster.
+**Personaggi annotati:** grace-walker, b-17, b-21, b-32, julia-parker, claire-foster, kyla, leah-rosen, livia-sanna, victor-cole, nina-solis, maya-bennett, helen-rivera.
+**POV:** nina-solis, grace-walker, kyla, claire-foster.
 **Review proposta:** Anika può segnalare conseguenze per i siti esteri; la legge resta italiana e non spiega il successivo stop mondiale.
 
 **Scene canoniche:**
 - 1. La previsione — POV: character:nina-solis; cast: character:nina-solis, character:maya-bennett, character:b-17.
-- 2. La compagnia — POV: character:grace-morgan; cast: character:grace-morgan, character:julia-parker, character:helen-rivera, character:b-32.
+- 2. La compagnia — POV: character:grace-walker; cast: character:grace-walker, character:julia-parker, character:helen-rivera, character:b-32.
 - 3. La lista — POV: character:kyla; cast: character:kyla, character:victor-cole, character:leah-rosen, character:b-21.
 - 4. Il voto — POV: character:claire-foster; cast: character:claire-foster, character:maya-bennett, character:olivia-brooks.
 
 ### 30 — Le diciassette
 
-**Personaggi annotati:** grace-morgan, omar-haddad, b-21, b-32, b-37, daniel-bennett, elena-fischer, julia-parker, kyla, leah-rosen, mei-lin, maya-bennett, paul-turner, samuel-price, sophie-grant, helen-rivera, yusuf-karim.
+**Personaggi annotati:** grace-walker, omar-haddad, b-21, b-32, b-37, daniel-bennett, elena-fischer, julia-parker, kyla, leah-rosen, mei-lin, maya-bennett, paul-turner, samuel-price, sophie-grant, helen-rivera, yusuf-karim.
 **POV:** samuel-price, sophie-grant, julia-parker, mei-lin, maya-bennett.
 **Review proposta:** Non rivelare la causa del fermo globale al momento delle 17:00; una prospettiva estera non deve dare prove premature.
 
 **Scene canoniche:**
 - 1. La nocciola — POV: character:samuel-price; cast: character:samuel-price, character:yusuf-karim.
 - 2. La baia quattro — POV: character:sophie-grant; cast: character:sophie-grant, character:omar-haddad, character:b-37.
-- 3. La frase interrotta — POV: character:julia-parker; cast: character:julia-parker, character:grace-morgan, character:helen-rivera, character:b-32.
+- 3. La frase interrotta — POV: character:julia-parker; cast: character:julia-parker, character:grace-walker, character:helen-rivera, character:b-32.
 - 4. Le ventitré — POV: character:mei-lin; cast: character:mei-lin.
 - 5. La cartellina — POV: character:maya-bennett; cast: character:maya-bennett, character:paul-turner, character:b-21, character:elena-fischer, character:kyla, character:leah-rosen, character:daniel-bennett.
 
 ### 31 — Il mondo senza robot
 
-**Personaggi annotati:** grace-morgan, omar-haddad, b-21, b-32, daniel-bennett, julia-parker, leah-rosen, maya-bennett, noah-carter, ruby-collins, sophie-grant, helen-rivera.
+**Personaggi annotati:** grace-walker, omar-haddad, b-21, b-32, daniel-bennett, julia-parker, leah-rosen, maya-bennett, noah-carter, ruby-collins, sophie-grant, helen-rivera.
 **POV:** julia-parker, ruby-collins, daniel-bennett, noah-carter.
 **Review proposta:** Malik può affrontare la difficoltà pratica di ricostruire i sistemi e distinguere codice conservato da esperienza persa.
 
 **Scene canoniche:**
-- 1. La porta aperta — POV: character:julia-parker; cast: character:julia-parker, character:grace-morgan, character:helen-rivera, character:b-32.
+- 1. La porta aperta — POV: character:julia-parker; cast: character:julia-parker, character:grace-walker, character:helen-rivera, character:b-32.
 - 2. Le ore ritrovate — POV: character:ruby-collins; cast: character:ruby-collins, character:sophie-grant, character:omar-haddad.
 - 3. Un permesso per il ritiro — POV: character:daniel-bennett; cast: character:daniel-bennett, character:maya-bennett.
 - 4. Il tesserino temporaneo — POV: character:noah-carter; cast: character:noah-carter, character:leah-rosen, character:b-21.
@@ -457,14 +457,14 @@
 
 ### 35 — Tutto normale
 
-**Personaggi annotati:** grace-morgan, omar-haddad, b-17, b-21, b-32, julia-parker, claire-foster, leah-rosen, amara-ortiz, mei-lin, maya-bennett, noah-carter, paul-turner, ruby-collins, samuel-price, sophie-grant, helen-rivera, yusuf-karim.
+**Personaggi annotati:** grace-walker, omar-haddad, b-17, b-21, b-32, julia-parker, claire-foster, leah-rosen, amara-ortiz, mei-lin, maya-bennett, noah-carter, paul-turner, ruby-collins, samuel-price, sophie-grant, helen-rivera, yusuf-karim.
 **POV:** noah-carter, sophie-grant, julia-parker, samuel-price, maya-bennett.
 **Review proposta:** Il ritiro, le lacrime e il finale «Tutto tornò normale» non devono essere alterati da epiloghi introduttivi.
 
 **Scene canoniche:**
 - 1. La stessa luce — POV: character:noah-carter; cast: character:noah-carter, character:b-17, character:leah-rosen, character:mei-lin, character:amara-ortiz.
 - 2. Una ripartenza alla volta — POV: character:sophie-grant; cast: character:sophie-grant, character:ruby-collins, character:omar-haddad.
-- 3. Il pomodoro Charlie — POV: character:julia-parker; cast: character:julia-parker, character:grace-morgan, character:helen-rivera, character:b-32.
+- 3. Il pomodoro Charlie — POV: character:julia-parker; cast: character:julia-parker, character:grace-walker, character:helen-rivera, character:b-32.
 - 4. Il prossimo giro — POV: character:samuel-price; cast: character:samuel-price, character:yusuf-karim.
 - 5. La consegna — POV: character:maya-bennett; cast: character:maya-bennett, character:claire-foster, character:paul-turner, character:b-21.
 - 6. La lampada — POV: character:noah-carter; cast: character:noah-carter.
@@ -488,7 +488,7 @@
 | character:b-21 | 10 |
 | character:victor-cole | 10 |
 | character:amara-ortiz | 9 |
-| character:grace-morgan | 8 |
+| character:grace-walker | 8 |
 | character:elena-fischer | 8 |
 | character:julia-parker | 8 |
 | character:mila-novak | 8 |

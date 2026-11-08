@@ -11,7 +11,7 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 | Kyla Morgan | HR e marketing | Nome e cognome canonici | Canonico |
 | Mei Lin | Qualità robotica | Mantenere | Proposto |
 | Leah Rosen | Sicurezza e privacy | Nome adottato | Canonico |
-| Grace Morgan | Centro assistenziale | Mantenere | Proposto |
+| Grace Walker | Centro assistenziale | Mantenere | Proposto |
 | Samuel Price | Agricoltore | Mantenere | Proposto |
 | Helen Rivera | Ospite centro | Mantenere | Proposto |
 | Amara Ortiz | Direttrice Veyra | Mantenere; valutare origine colombiana | Da verificare |
@@ -82,4 +82,4 @@ Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei 
 
 ## Aggiornamento personaggi — 8 novembre 2026, revisione successiva
 
-Kyla è diventata **Kyla Morgan** nel canone; il suo ID tecnico `character:kyla` è stato conservato. Aggiunto **Gavin Cole**, responsabile Delivery, con scene nei capitoli 1, 5 e 8 e menzione nel 7. Il cast umano nominato passa a 32 persone; il registro completo e aggiornato è `characters/README.md`. Le rinomine ipotetiche Noah Bennett, Alexander Reed, Claire Walsh e Paul Carter **non** sono state applicate. Nuovi background per Maya, Paul, Mila e Noah, definiti nelle schede e fatti emergere nelle scene.
+Kyla è diventata **Kyla Morgan** nel canone; il suo ID tecnico `character:kyla` è stato conservato. Aggiunto **Gavin Shaw**, responsabile Delivery, con scene nei capitoli 1, 5 e 8 e menzione nel 7. Il cast umano nominato passa a 32 persone; il registro completo e aggiornato è `characters/README.md`. Le rinomine ipotetiche Noah Bennett, Alexander Reed, Claire Walsh e Paul Carter **non** sono state applicate. Nuovi background per Maya, Paul, Mila e Noah, definiti nelle schede e fatti emergere nelle scene.

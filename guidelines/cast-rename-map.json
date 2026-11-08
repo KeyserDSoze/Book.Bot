@@ -1,11 +1,11 @@
 {
-  "policy": "Mappatura EDITORIALE RICONCILIATA con main. Vengono adottate le proposte internazionali per le identità ancora italiane; Kyla Morgan, Mei Lin, Leah Rosen, Mila Novak, Elena Fischer, Gavin Cole, Malik Okafor, Anika Rao ed Erik Solberg conservano i nomi multiculturali già canonici. Le scene aggiornate nelle PR #4–#8 non vengono sostituite con vecchie versioni della PR #3.",
+  "policy": "Mappatura EDITORIALE RICONCILIATA con main. Vengono adottate le proposte internazionali per le identità ancora italiane; Kyla Morgan, Mei Lin, Leah Rosen, Mila Novak, Elena Fischer, Gavin Shaw, Malik Okafor, Anika Rao ed Erik Solberg conservano i nomi multiculturali già canonici. Le scene aggiornate nelle PR #4–#8 non vengono sostituite con vecchie versioni della PR #3.",
   "people": [
     {
       "oldName": "Ada Serri",
-      "newName": "Grace Morgan",
+      "newName": "Grace Walker",
       "oldSlug": "ada-serri",
-      "newSlug": "grace-morgan"
+      "newSlug": "grace-walker"
     },
     {
       "oldName": "Adriana Lodi",

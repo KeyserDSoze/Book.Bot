@@ -7,7 +7,7 @@ canon: canon
 
 # Julia Parker
 
-Operatrice del turno del mattino nel centro assistenziale coordinato da Grace Morgan. Conosce le persone ospitate e beneficia delle consegne più ordinate, ma quando un robot attende l'approvazione della coordinatrice deve interrompere il lavoro di assistenza per compensare il ritardo. Dopo un incidente di ventidue minuti Grace coinvolge Julia nella definizione di una delega limitata per confermare le sole variazioni logistiche ordinarie. Non è la direttrice Amara Ortiz del Circuito Veyra.
+Operatrice del turno del mattino nel centro assistenziale coordinato da Grace Walker. Conosce le persone ospitate e beneficia delle consegne più ordinate, ma quando un robot attende l'approvazione della coordinatrice deve interrompere il lavoro di assistenza per compensare il ritardo. Dopo un incidente di ventidue minuti Grace coinvolge Julia nella definizione di una delega limitata per confermare le sole variazioni logistiche ordinarie. Non è la direttrice Amara Ortiz del Circuito Veyra.
 
 
 ## Capitoli 22 e 24

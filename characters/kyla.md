@@ -66,7 +66,7 @@ Kyla Morgan è entrata in Cyberdine in comunicazione e selezione, ed è cresciut
 
 Prima della plenaria Cole le trasferisce, con un accordo societario già perfezionato, **l'1,5% delle proprie azioni**: diventa realmente azionista di minoranza, non una dirigente «promossa a socia» con una targhetta. Nel suo discorso spiega come si cresce in responsabilità e influenza: lavoro verificabile, capacità di migliorare processi altrui, formazione dei sostituti e attenzione ai clienti; non promette azioni a tutti. La quota non la rende infallibile né le restituisce i posti eliminati dalla riorganizzazione.
 
-Il responsabile Delivery Gavin Cole la accusa di essere stata premiata senza i sacrifici del suo gruppo. Kyla riconosce il merito dei suoi risultati ma gli mostra i costi che scarica sugli altri. Incalzata, definisce «tossico» il suo modo di guidare: **è il giudizio di Kyla, non una diagnosi del narratore**. Lei stessa ammette di avere favorito una lettura troppo ottimistica dei conti.
+Il responsabile Delivery Gavin Shaw la accusa di essere stata premiata senza i sacrifici del suo gruppo. Kyla riconosce il merito dei suoi risultati ma gli mostra i costi che scarica sugli altri. Incalzata, definisce «tossico» il suo modo di guidare: **è il giudizio di Kyla, non una diagnosi del narratore**. Lei stessa ammette di avere favorito una lettura troppo ottimistica dei conti.
 
 ## Conflitto da azionista — capitoli 12, 25–30
 
