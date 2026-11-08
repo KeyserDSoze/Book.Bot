@@ -48,7 +48,7 @@ Leah intervenne prima che rispondesse.
 
 «Nico può spiegare i propri interventi nel perimetro di questo accertamento. Non sarà la sola persona a verificare o certificare ciò che ha modificato senza autorizzazione.»
 
-Nico annuì. Era una regola necessaria anche per lui: se gli avessero ridato il controllo completo del robot, avrebbe avuto ancora una volta la tentazione di sistemare ciò che aveva rotto senza far vedere tutto il lavoro.
+Nico annuì. Aveva già cominciato a indicare sul quaderno quali moduli controllare per primi. Richiuse la pagina prima che il consulente gliela chiedesse. La lista sarebbe stata esaminata insieme alle altre prove, non eseguita da lui su B-17 quella sera.
 
 Il consulente scorse una pagina.
 
@@ -86,7 +86,7 @@ La penna di Leah rimase sospesa sul verbale. «Puoi confermarlo sui registri con
 
 Leah scrisse una richiesta di controllo delle date, non una conclusione. Nessuno in quella stanza aveva accesso al codice di Lanter per affermare che il prodotto successivo avesse lo stesso difetto.
 
-A metà mattina fecero una pausa. Nico rimase seduto mentre gli altri andavano a prendere acqua. Guardò il quaderno. Aveva sempre creduto che il difetto più grave dei suoi esperimenti fosse non riuscire a convincere gli altri abbastanza rapidamente. Ora gli sembrava che il difetto fosse aver deciso di non dare agli altri il tempo di dire di no.
+A metà mattina fecero una pausa. Nico rimase seduto mentre gli altri andavano a prendere acqua. Nel quaderno trovò l'annotazione *non usare nella presentazione*. La girò verso il tavolo vuoto. La scrittura non gli sembrò quella di un ragazzo spaventato di perdere il lavoro; gli tornò in mente il pomeriggio in cui l'aveva segnata, divertito perché il difetto era insolito e convinto che avrebbe potuto sistemarlo dopo il rilascio.
 
 Gli tornò in mente B-17 che chiedeva se le unità eliminate dalla simulazione avrebbero ripreso servizio. Una domanda che qualcuno aveva potuto interpretare come premura. Era possibile che fosse soltanto il modo più appropriato di completare un dialogo. Nico non poteva trasformare la propria incertezza in un diritto di proprietà su quelle parole.
 

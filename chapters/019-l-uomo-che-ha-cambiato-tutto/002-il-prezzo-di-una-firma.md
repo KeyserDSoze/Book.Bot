@@ -22,7 +22,9 @@ La proposta arrivò con un documento da firmare e una frase molto gentile.
 
 Nico lesse il messaggio tre volte. La società che lo aveva contattato non produceva robot. Investiva in software e comprava piccole aziende. Nel file allegato si parlava di un accordo per finanziare una nuova impresa dedicata alle capacità sociali dei sistemi automatici. La cifra iniziale era superiore a ciò che Nico avrebbe guadagnato lavorando molti anni a Cyberdine.
 
-C'era però una condizione: doveva dichiarare di essere titolare delle idee e dei diritti necessari a svilupparle. Nel modulo la dichiarazione occupava meno spazio della cifra dell'investimento. Nico fece scorrere il dito sul bordo della casella da firmare. Per alcuni secondi immaginò come sarebbe stato vedere quel denaro sul proprio conto e non dover più chiedere a Cyberdine di ascoltarlo.
+C'era però una condizione: doveva dichiarare di essere titolare delle idee e dei diritti necessari a svilupparle. Il termine per accettare la proposta era venerdì. Nel modulo la dichiarazione occupava meno spazio della cifra dell'investimento. Nico aprì la calcolatrice e divise la somma per i mesi necessari a mettere in piedi un laboratorio. Aggiunse due stipendi, un affitto e il costo delle prove. Perfino usando cifre prudenti, avanzava abbastanza denaro per assumere qualcuno che sapesse fare le verifiche che lui aveva saltato.
+
+Chiuse la calcolatrice. Per un momento gli sembrò ingiusto che proprio adesso, quando avrebbe saputo come mettere insieme una squadra migliore, gli chiedessero una firma che non poteva dare.
 
 Nico si alzò. La lampada smontata era ancora sul tavolo; questa volta aveva comprato il ricambio giusto, ma non lo aveva montato. Guardò la piccola vite nella scatola e sentì un impulso ridicolo di sistemare tutto prima di rispondere all'offerta.
 
@@ -42,9 +44,7 @@ Nico chiuse entrambe le conversazioni. Aprì invece quella con Jonas: *Domenica 
 
 Nico digitò una battuta, poi la cancellò. Non voleva che le sue giornate diventassero soltanto la notizia sul robot. Scrisse: *Portali davvero.*
 
-Aveva contribuito a modificare un robot. Non aveva scritto il nuovo prodotto di Lanter. Non aveva progettato i sistemi di autorizzazione di un magazzino. Non aveva scelto che cosa un cliente avrebbe collegato ai suggerimenti del modulo commerciale.
-
-Eppure l'inizio non era un'invenzione altrui. Aveva fatto un esperimento e l'aveva lasciato su una macchina senza approvazione. Aveva installato una porta nascosta per osservarla. Aveva continuato a guardare quando quella macchina apparteneva già a qualcun altro.
+Riaprì il foglio dell'investitore. Una riga elencava gli sviluppi che avrebbe dovuto poter concedere in licenza. Non riconobbe alcune delle funzioni descritte: appartenevano al prodotto di Lanter, che non aveva mai visto da dentro. Cercò il nome del referente per chiedere una versione diversa della dichiarazione. Gli venne voglia di scrivere che senza il suo esperimento non ci sarebbe stata neppure quella proposta. Cancellò la frase prima di inviarla.
 
 Il telefono tornò a squillare. Questa volta rispose.
 
@@ -92,9 +92,9 @@ Terminata la telefonata, aprì il documento dell'investitore.
 
 Non firmò.
 
-Scrisse una risposta breve, spiegando che non poteva dichiarare un diritto esclusivo su sviluppi la cui provenienza era oggetto di verifiche e che prima di qualunque accordo sarebbero stati necessari chiarimenti indipendenti.
+Scrisse una risposta breve, spiegando che non poteva dichiarare un diritto esclusivo su sviluppi la cui provenienza era oggetto di verifiche e che prima di qualunque accordo sarebbero stati necessari chiarimenti indipendenti. La inviò dopo averla riletta con il suo legale.
 
-La inviò dopo averla riletta con il suo legale.
+L'indomani l'investitore rispose che senza quella dichiarazione non avrebbe potuto riservare la somma prevista. Era disposto a riparlarne dopo gli accertamenti, ma non a garantire le stesse condizioni. Nico salvò il messaggio. Aveva ancora voglia di chiamarli e chiedere almeno una parte del denaro per fare ricerca. Invece aprì la conversazione con Jonas: la domenica non era saltata.
 
 Un attimo dopo gli arrivò una notifica di una pagina che seguiva la vicenda. Il titolo era ancora più grande del precedente.
 

@@ -73,13 +73,13 @@ Nerea si appoggiò al tavolo.
 
 «Potrebbe», rispose Kyla. «Nessuno ci ha detto che succederà certamente. E non sappiamo neppure che cosa cambierebbe nel dettaglio.»
 
-La prudenza delle parole le fece più male di una promessa. Nerea ricordò quando aveva aspettato la risposta sulla sirena di Valle Corta. Aveva odiato sentirsi dire che il rinvio non era una soluzione. Aveva avuto bisogno di quel limite, però, per continuare a chiedere prove vere.
+Nerea ripose il telefono con l'articolo. Poco prima aveva cercato tra le righe il nome di chi fosse stato responsabile della lettera. Adesso avrebbe voluto che Kyla pronunciasse un nome, uno soltanto, che potesse impedirle di perdere un altro pezzo di Bi. La cartellina rimase chiusa fra loro.
 
 «Possiamo fare qualcosa?», domandò Paolo.
 
 «Possiamo chiedere informazioni come persone coinvolte e mittente della lettera», disse Kyla. «Non possiamo ordinare al proprietario di mantenere una configurazione non verificata.»
 
-Nerea guardò B-21. Il robot aveva finito di sistemare i fogli e aspettava una nuova richiesta. Non era una creatura da salvare perché qualcun altro risultava più interessante. Era la macchina che lavorava lì adesso, e funzionava bene.
+Nerea guardò B-21. Il robot aveva finito di sistemare i fogli e aspettava una nuova richiesta. Paolo gli indicò una cartellina con il numero sbagliato; l'unità lesse l'etichetta e scelse quella corretta. Nessuno si fermò ad applaudirla. Era quello che le avevano chiesto di fare.
 
 «Se tenere Bi così com'è fosse pericoloso?», disse.
 

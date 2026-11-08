@@ -90,13 +90,19 @@ Bruno conosceva la storia per frammenti. Aveva ascoltato la figlia raccontare il
 
 Bruno aspettò.
 
-Nerea strinse la cartellina.
+«Anche quando non sanno che cosa è rimasto aperto», aggiunse Nerea. «L'accesso di quel programmatore, per esempio. Continuo a pensare alla stanza della carta e a chi poteva sentirci.»
 
-«Ma non vorrei che qualcun altro venisse spiato, o che qualcuno si facesse male, perché io voglio sentire una voce familiare.»
+«Hai chiesto se possono chiuderlo senza cancellare tutto?»
 
-Bruno guardò la vecchia sirena.
+«Sì. Non mi hanno ancora risposto.»
 
-«Io vorrei che questa restasse qui per sempre», disse. «Ma se domani mi dimostrano che non suona quando deve, non posso chiedere a quattordici famiglie di fidarsi solo perché ci sono affezionato.»
+Bruno estrasse dalla busta una fotografia del quadro elettrico della sirena. «Questo è il relè che abbiamo trovato corroso anni fa. Quando l'abbiamo cambiato, ho scritto la data sullo sportello. Qui il tecnico vuole verificare anche i cavi: dice che cambiare un pezzo non basta a garantire tutta la linea.»
+
+Nerea guardò la fotografia. Aveva riconosciuto il relè dalla forma, non avrebbe saputo dire se il cavo fosse sano.
+
+«Quindi aspettate ancora.»
+
+«Facciamo una prova in più. E se non passa, bisognerà trovare un'altra cosa che suoni.»
 
 Nerea non rispose. Bruno chiuse la busta con i risultati del sopralluogo e infilò la mano nella tasca della giacca.
 

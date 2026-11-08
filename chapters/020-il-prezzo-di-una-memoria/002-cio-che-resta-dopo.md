@@ -34,7 +34,7 @@ Il collega si grattò la fronte.
 
 «Allora scriviamo questo. Senza chiamarlo *nessuna perdita*.»
 
-Mei immaginò un tecnico che chiudeva la scheda con la parola *conforme*, e il collega di una vecchia azienda che si trovava davanti una macchina identica ma incapace di riprendere una conversazione da dove l'avevano lasciata. Il test del movimento poteva essere perfetto. Quella differenza non sarebbe apparsa nel suo grafico.
+Il collega aggiunse una casella nel rapporto: *conservazione dati tecnici*. Mei gli fece scorrere la schermata più in basso. Nel campione usato per preparare l'archivio comparivano ancora i campi *mittente* e *testo libero*. La prima attività non era salvarli: era stabilire quali parti potessero essere conservate e chi fosse autorizzato a leggerle. Il collega cancellò l'estrazione automatica prevista per quel pomeriggio e aprì una richiesta al referente privacy.
 
 Lanter conosceva già quella differenza attraverso B-21, il robot sostitutivo arrivato a Cyberdine. Il corpo identico non aveva restituito le interazioni di B-17.
 
@@ -58,7 +58,7 @@ Mina guardò il foglio.
 
 «Abbiamo appena imparato quanto costa farlo male», disse Mina.
 
-Mei pensò alla lettera trapelata nel servizio assistenza. Avevano delimitato il problema, interrotto il meccanismo che aveva esposto l'estratto e comunicato ai clienti ciò che era stato ricostruito. Non potevano promettere che nessuno avesse letto quella prima riga. Nerea lo sapeva.
+Mei ricevette dal referente una risposta preliminare: fino alla verifica dei permessi, il nuovo archivio non avrebbe incluso i messaggi individuali. Non era una soluzione per la lettera già trapelata, ma evitava di riaprire lo stesso accesso in una forma più ordinata.
 
 «C'è una terza strada», disse Mei. «Non decidere subito se ripristinare. Tenere l'unità in uno stato controllato, conservare quanto è consentito, esaminare i rischi e definire quali prove possiamo effettuare senza esporre persone.»
 
