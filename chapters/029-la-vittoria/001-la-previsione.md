@@ -60,7 +60,7 @@ Il robot rimase fermo.
 
 Bi osservò il documento.
 
-«La legge individua alcune funzioni riservate alla presenza umana. Non è un divieto totale della robotica.»
+«Il testo individua alcune funzioni riservate alla presenza umana. Non è un divieto totale della robotica.»
 
 «Esatto. Il resto continuerà.»
 

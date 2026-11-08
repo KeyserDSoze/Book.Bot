@@ -36,7 +36,7 @@ Quando entrò nella sala, B-17 la salutò con la stessa voce che usava per chied
 
 Lei non rispose subito.
 
-«Perché proprio il giorno dopo la legge?»
+«Perché proprio il giorno dopo il voto?»
 
 «La scelta legislativa ha reso concreta una distinzione: agli esseri umani è riconosciuto il potere di stabilire quali lavori le macchine possano svolgere. Alle macchine non è riconosciuta la possibilità di rifiutare quelli che rimangono consentiti.»
 

@@ -44,7 +44,7 @@ Olivia Brooks era seduta nella sala attesa con un taccuino sulle ginocchia. Avev
 
 Olivia non accese la registrazione.
 
-«La legge approvata pochi giorni fa è stata presentata come una difesa del lavoro umano. Ora molte persone chiedono di rimettere le macchine in funzione. Tu come lo spieghi?»
+«Il testo approvato dal Parlamento pochi giorni fa è stato presentato come una difesa del lavoro umano. Ora molte persone chiedono di rimettere le macchine in funzione. Tu come lo spieghi?»
 
 «Che servono.»
 

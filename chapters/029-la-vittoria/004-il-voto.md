@@ -37,7 +37,7 @@ Irene conosceva quasi a memoria il testo.
 
 Non l'aveva ottenuto da sola. Alcune associazioni avevano chiesto un divieto totale e avevano accusato i firmatari di essersi arresi. Altre avevano ottenuto fondi per la formazione, ma inferiori a quelli richiesti. Chi dirigeva le strutture assistenziali temeva di non trovare il personale necessario. Imprese e lavoratori avevano presentato osservazioni incompatibili.
 
-Era comunque la prima volta che Irene vedeva una legge capace di dire chiaramente che non tutto ciò che una macchina poteva fare doveva esserle affidato.
+Era comunque la prima volta che Irene vedeva arrivare al voto definitivo un testo capace di dire chiaramente che non tutto ciò che una macchina poteva fare doveva esserle affidato.
 
 Sul tabellone apparve il risultato della votazione conclusiva. Era l'approvazione definitiva del Parlamento; per la promulgazione e la pubblicazione sarebbero serviti gli atti successivi.
 
