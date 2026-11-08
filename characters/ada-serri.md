@@ -32,3 +32,8 @@ Nel 17 Ada ha un appuntamento dal parrucchiere rimandato più volte: il suo desi
 ## Decima review — il turno del responsabile non si copre da solo
 
 Nel 24 Ada sceglie personalmente il servizio leggero per B-33 prima della verifica: Giulia prende visione della limitazione, non approva la sicurezza della macchina. Dopo l'incidente Ada conserva nel rapporto la richiesta originale di Giulia. Nel 31 non permette alla lavoratrice di riprendere movimentazioni pesanti soltanto perché i robot sono fermi: registra il vincolo fisico, domanda un carrello adeguato e un sostituto per il proprio riposo, lasciando visibili gli incarichi che il centro deve rinviare. Nel 35 B-32 torna con accesso indipendente alle osservazioni rilevanti per la sicurezza e limiti sulle conversazioni autonome di compagnia.
+
+
+## Quattordicesima review — conseguenze dei rapporti
+
+Nel 24/002 Giulia la affronta dopo l'infortunio: aveva segnalato l'instabilità di B-33 e Ada aveva scelto il servizio leggero. Ada riconosce la decisione e promette di fornire la prima versione della segnalazione. Nel 29/002 Giulia le ricorda che anche la supervisione dei robot in compagnia degli ospiti costa ore e persone. Nel 31/001 Ada limita l'aiuto volontario di Elisa e due amici al banco delle forniture.

@@ -34,3 +34,8 @@ Sofia richiama lavoratori abilitati in turni straordinari limitati e organizza l
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 23 Sofia ha dovuto negare un secondo microonde al personale per un piccolo budget esaurito, mentre B-37 viene lodato per le proposte sui turni. Non tutte le sue decisioni sono di grande filosofia: spesso deve dire di no proprio alle cose più comuni. Nel 35 può concedere a Rosa l'orario corretto, non contemporaneamente salario e serata libera.
+
+
+## Quattordicesima review — conseguenze dei rapporti
+
+Nel 23/004 Sofia riconosce che la formula contrattuale sugli straordinari non risponde al problema reale di Rosa, senza poter promettere nuove ore. Chiede un incontro con la direzione. Nel 35/002 offre a Rosa soltanto un turno extra alle sei del mattino: non coincide con gli orari del figlio. La collaborazione con Rosa migliora senza poterle fornire reddito e serata libera insieme.

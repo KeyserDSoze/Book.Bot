@@ -32,3 +32,8 @@ Nel 24, dopo il danno al polso, Giulia si preoccupa di non farsi scalare da feri
 ## Decima review — il polso resta una conseguenza
 
 Giulia segnala un'anomalia, si infortuna e chiede che il verbale distingua il comportamento di B-32 dal difetto del carico e dalla decisione umana di mantenere B-33 in servizio. Nel 29 ha ripreso il lavoro con cautele; nel 31 non può essere impiegata senza limiti a trasportare pesi durante la crisi dei robot. Ada registra quel limite nelle assegnazioni. Nel 35 Giulia controlla il report indipendente degli eventi e assiste alla breve interazione di Teresa e B-32: il ritorno della macchina non implica un perdono tecnico o emotivo automatico.
+
+
+## Quattordicesima review — conseguenze dei rapporti
+
+Nel 24/002 Giulia rientra col polso immobilizzato per confrontarsi con Ada, non per tornare a lavorare. Chiede la versione iniziale della segnalazione, la corretta documentazione dell'infortunio e la verifica dei giorni di ferie. Nel 29/002 chiede che il costo della supervisione umana alle conversazioni di B-32 sia scritto nel piano e che la notizia sia comunicata a Teresa senza nasconderla dietro un calendario.

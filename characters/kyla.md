@@ -76,3 +76,8 @@ La partecipazione all'1,5% non sparisce dopo gli applausi. Alla confessione di N
 ## Decima review — il costo della casella non finanziata
 
 Nel 25 Kyla, azionista e direttrice HR/Marketing, lascia senza finanziamento la possibile posizione di formazione sulle vecchie librerie per non appesantire subito il rinnovo Aruvhana. Non approva personalmente i collaudi tecnici, ma partecipa al compromesso di bilancio. Nel 26 Irene la costringe a distinguere una futura valutazione da una posizione aperta. Solo dopo il fermo, nel 35, le ore per insegnare quelle librerie entrano in un contratto temporaneo: questo non cancella la decisione del 25.
+
+
+## Quattordicesima review — conseguenze dei rapporti
+
+Nel 25/004 Kyla accetta la stima più alta di QA e documenta il ritardo di Delivery. Nel 26/001 ammette a Irene di averla invitata a presentare prove pur sapendo che quella riunione avrebbe comportato comunicazioni sul personale. Non poteva anticipare dati individuali riservati; poteva evitare quell'invito. La sua ammissione non restituisce il posto a Irene.

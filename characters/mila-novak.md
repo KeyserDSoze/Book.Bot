@@ -43,3 +43,8 @@ Mila è croata, cresciuta a Zagabria, e lavora in Italia da diversi anni. Il suo
 ## Una voce che si riconosce da lontano
 
 Mila parla **sempre a voce molto alta**, anche quando è felice, dolce o prova a confidarsi. Chi lavora con lei non scambia automaticamente il volume per rabbia; chi non la conosce talvolta sì. Fa domande fortissime, ride fortissimo, tenta di sussurrare ma la stanza accanto la sente. L'imbarazzo che causa può essere comico oppure doloroso. Non scrivere tutte le sue battute in maiuscolo: lo si capisca dalle reazioni degli altri e da ciò che Mila vorrebbe non far sentire. Il volume è una sua caratteristica, non un sinonimo di maleducazione.
+
+
+## Quattordicesima review — conseguenze dei rapporti
+
+Nel 7/001 Mila interrompe la gestione informale dell'ufficio e risponde alla sorella da Zagabria invece di rimandare a dopo mezzanotte. Parla ancora forte, perfino quando tenta di proteggere una conversazione privata; Paolo gestisce i bicchieri senza di lei. Il volume non è rabbia e il legame familiare non è un tratto folkloristico.

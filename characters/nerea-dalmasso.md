@@ -90,3 +90,8 @@ La sirena di Valle Corta non ha rapporto causale con l'incidente di Tessa: Nerea
 ## Undicesima review — la lacuna del ricordo e la fotografia lasciata
 
 Nel 21 Nerea riconosce la spalla riparata di Bi e soffre soprattutto quando non sa ripetere il motivo per cui perdeva a ping pong; il ricordo della voce di Tessa, morta nove anni prima in un incidente stradale distinto da Valle Corta, rende il problema concreto e non un generico dubbio filosofico. Nel 33 Nerea lascia nella stanza di Bi la fotografia di Teresa davanti a B-32. Nel 34 dice a Nico di averla lasciata lì: è la traccia di una decisione e di una relazione ferita, non un oggetto simbolico introdotto dal narratore per spiegare i diritti dei robot.
+
+
+## Quattordicesima review — conseguenze dei rapporti
+
+Nel 26/004 Nerea, dopo aver chiesto come stia Irene, torna a interpretare Bi invece di ascoltare la perdita lavorativa dell'amica. Irene glielo dice apertamente; Nerea non trova una difesa convincente. Nel 29/004, durante l'intervista di Olivia a Irene, si scosta e lascia che sia Irene a parlare. Non è obbligata a smettere di volere bene a Bi per ascoltare gli umani.
