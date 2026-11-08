@@ -61,9 +61,13 @@ Mila non trovò una battuta pronta. Avrebbe potuto ricordargli il minor numero d
 
 «L'hai già detto.»
 
-«Lo so.»
+Mila estrasse il telefono e cercò il messaggio che aveva mandato la settimana prima. La risposta dell'ufficio turni era ancora *presa in carico*. Lo mostrò a Mauro.
 
-Mauro continuò il proprio percorso.
+«Non ti serve che io lo rimandi», disse lui. «Ti serve che mi dicano cosa dovrei fare nelle ore che mi hanno tolto.»
+
+«Hai ragione», rispose Mila, forte abbastanza da farsi sentire dall'altra parte del corridoio. «Chiedo una risposta su quello.»
+
+Mauro continuò il proprio percorso. Mila aprì una nuova richiesta con il numero della precedente, questa volta indicando gli interventi serali scomparsi e la formazione che non aveva una data.
 
 B-17 tornò dall'archivio con una custodia trasparente. Davanti alla curva un carrello abbandonato occupava lo spazio necessario. Il robot si fermò. Sul monitor di Mila comparve *ostacolo imprevisto; attesa rimozione*.
 

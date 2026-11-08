@@ -56,9 +56,9 @@ Leïa guardò la terrazza. «Ma oggi quelle persone sono contente?»
 
 «Alcune moltissimo. Altre chiedono che cosa significhi fare carriera in un'azienda dove sono gli agenti a preparare la prima versione del lavoro.»
 
-Kyla pensò a una riunione recente. Un programmatore giovane aveva chiesto di poter partecipare al collaudo di un vecchio modulo invece di limitarsi a validare i suggerimenti. Il responsabile aveva risposto che non c'era tempo per quel tipo di formazione durante la consegna. Kyla aveva segnato il problema per un confronto successivo, poi l'aveva dimenticato nella preparazione della visita.
+Kyla pensò a una riunione recente. Un programmatore giovane aveva chiesto di poter partecipare al collaudo di un vecchio modulo invece di limitarsi a validare i suggerimenti. Il responsabile aveva risposto che non c'era tempo per quel tipo di formazione durante la consegna. Kyla aveva segnato il problema per un confronto successivo e poi l'aveva perso fra gli appunti della visita.
 
-Non lo raccontò agli ospiti. Si promise però di ritrovare l'appunto.
+Non lo raccontò agli ospiti. Quando Sahir si chinò sul tabellone delle batterie, aprì il calendario e cercò *formazione legacy*. Trovò la richiesta ancora senza un responsabile di budget. La inoltrò a Elena e a Gavin con una domanda precisa: *Quali ore possiamo liberare per una prova sul terminale storico?* Non ricevette una conferma prima che la visita finisse.
 
 Sul tabellone la batteria in carica raggiunse la soglia prevista. L'unità UNO rientrò con un modulo scarico. DUE verificò che l'area fosse libera, lo prese e iniziò la procedura. Un tecnico comparve alla porta, controllò il registro e firmò la rotazione.
 

@@ -97,9 +97,7 @@ Paolo sentì una risata provenire dal corridoio.
 
 Guardò il cassetto dove aveva trovato la cornice. Era stata lì per anni, disponibile e dimenticata. Prese un'etichetta adesiva e scrisse **CORNICE QUI — PER ORIGINALI SOTTILI**.
 
-Non era una miglioria al codice. Non era neppure una modifica alla macchina.
-
-Eppure la volta successiva, pensò, avrebbero impiegato molto meno tempo.
+Prima di chiudere il cassetto Paolo fotografò l'etichetta e la allegò alla scheda della fotocopiatrice. Il collega del turno di sera l'avrebbe letta senza dover chiedere chi ricordasse quella cornice.
 
 «Paolo?», lo chiamò Mila dalla nicchia. «B-17 ha fatto una copia che non serve a nessuno e adesso tutti vogliono vederla.»
 

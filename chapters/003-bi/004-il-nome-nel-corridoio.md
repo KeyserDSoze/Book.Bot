@@ -160,7 +160,7 @@ Chiuse la cartellina.
 
 «Come mai?» chiese Mila.
 
-«Perché non voglio trasformare ogni momento in una domanda del Marketing.»
+Kyla girò la cartellina in modo che nessuno potesse leggere la pagina con il nome di Nerea. «Ho abbastanza dati per oggi. A lei non ho chiesto il permesso di usare questa conversazione.»
 
 Paolo sollevò il suo bicchiere. «Questa la incornicio.»
 
