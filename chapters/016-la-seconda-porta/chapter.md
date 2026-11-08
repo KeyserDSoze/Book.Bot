@@ -7,14 +7,14 @@ canon: canon
 pov:
   - character:mei-lin
   - character:leah-rosen
-  - character:nico-valenti
+  - character:noah-carter
 ---
 
 # Scene
 
 1. La casella sbagliata — Mei Lin ricostruisce il confine documentale violato e si accorge di un progetto comportamentale alimentato da dati di B-17.
-2. Due incidenti diversi — Leah impone di non confondere la backdoor di Nico con la fuga degli allegati, mentre la verifica della modifica solleva un rischio separato.
-3. La versione pulita — Nico scopre che il produttore non ha copiato Bi, ma sta commercializzando un comportamento ricostruito a partire da casi di prova.
+2. Due incidenti diversi — Leah impone di non confondere la backdoor di Noah con la fuga degli allegati, mentre la verifica della modifica solleva un rischio separato.
+3. La versione pulita — Noah apprende che Lanter sta sperimentando una funzione ricostruita anche da comportamenti osservati su B-17; non dispone però di prove per escludere o certificare una copia di codice, né può attribuirsi da solo il nuovo prodotto.
 
 # Guardrail
 

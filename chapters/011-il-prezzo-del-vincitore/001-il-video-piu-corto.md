@@ -5,28 +5,28 @@ chapter: chapter:011-il-prezzo-del-vincitore
 number: 1
 title: Il video più corto
 canon: canon
-pov: character:mina-soler
+pov: character:nina-solis
 characters:
-  - character:mina-soler
+  - character:nina-solis
   - character:b-17
-  - character:marta-ledesma
+  - character:amara-ortiz
 locations:
   - location:isola-di-veyra
 factions:
   - faction:circuito-veyra
 ---
 
-Mina vide la prima versione del video mentre si lavava le mani.
+Nina vide la prima versione del video mentre si lavava le mani.
 
 Il telefono vibrò sul bordo del lavandino. Era un messaggio di un tecnico del turno di notte: *Hai visto il nostro campione?*
 
-Nel filmato B-17 usciva da un bosco di felci, sollevava una replica d'artiglieria e raggiungeva il segnale azzurro. Subito dopo compariva una scritta: **L'ULTIMO SOPRAVVISSUTO**. I due robot della sua squadra, eliminati dalla simulazione, non comparivano. Nemmeno i tecnici, la verifica del passaggio e l'autorizzazione che Mina aveva dato dal microfono.
+Nel filmato B-17 usciva da un bosco di felci, sollevava una replica d'artiglieria e raggiungeva il segnale azzurro. Subito dopo compariva una scritta: **L'ULTIMO SOPRAVVISSUTO**. I due robot della sua squadra, eliminati dalla simulazione, non comparivano. Nemmeno i tecnici, la verifica del passaggio e l'autorizzazione che Nina aveva dato dal microfono.
 
 Durava diciotto secondi.
 
-Mina lo riguardò con l'asciugamano ancora tra le dita. Il montaggio trasformava un esercizio di sicurezza e coordinamento in un'impresa solitaria. Non mentiva sui movimenti, e per questo la infastidiva più di una ricostruzione inventata.
+Nina lo riguardò con l'asciugamano ancora tra le dita. Il montaggio trasformava un esercizio di sicurezza e coordinamento in un'impresa solitaria. Non mentiva sui movimenti, e per questo la infastidiva più di una ricostruzione inventata.
 
-Aprì i commenti. Qualcuno chiedeva dove comprare il robot. Qualcun altro scriveva che le guerre future sarebbero state combattute senza persone. Un terzo sosteneva che B-17 avesse volontariamente risparmiato l'ultima unità rossa. Mina non aveva visto nulla che autorizzasse una conclusione del genere.
+Aprì i commenti. Qualcuno chiedeva dove comprare il robot. Qualcun altro scriveva che le guerre future sarebbero state combattute senza persone. Un terzo sosteneva che B-17 avesse volontariamente risparmiato l'ultima unità rossa. Nina non aveva visto nulla che autorizzasse una conclusione del genere.
 
 Uscì dai servizi e raggiunse la sala controllo.
 
@@ -38,7 +38,7 @@ La montatrice, una ragazza con gli auricolari intorno al collo, stava completand
 
 «Non avevamo l'autorizzazione a chiamarlo sopravvissuto.»
 
-«È un titolo, Mina.»
+«È un titolo, Nina.»
 
 «Anche il percorso laterale era un percorso. Non per questo potevamo attraversarlo senza verificarlo.»
 
@@ -46,9 +46,9 @@ La ragazza le mostrò i risultati. Il filmato aveva già superato un milione di 
 
 «Guarda la curva», disse. «Non ne abbiamo mai avuta una così.»
 
-Mina guardò la curva. Sapeva leggere i dati di una batteria e i limiti di forza di un attuatore. Quella linea che saliva senza fermarsi la mise a disagio.
+Nina guardò la curva. Sapeva leggere i dati di una batteria e i limiti di forza di un attuatore. Quella linea che saliva senza fermarsi la mise a disagio.
 
-Nel pomeriggio arrivò Marta Ledesma con un tablet.
+Nel pomeriggio arrivò Amara Ortiz con un tablet.
 
 «Dicono che hai chiesto di togliere il video.»
 
@@ -58,7 +58,7 @@ Nel pomeriggio arrivò Marta Ledesma con un tablet.
 
 «I robot eliminati non erano morti. B-17 non era stato lasciato solo per dimostrare il coraggio. E senza una persona che autorizzava il passaggio, non sarebbe arrivato al segnale.»
 
-Marta si sedette senza togliersi il cappotto leggero.
+Amara si sedette senza togliersi il cappotto leggero.
 
 «Quante persone pensi guarderebbero un filmato intitolato *Passaggio autorizzato secondo procedura*?»
 
@@ -66,15 +66,15 @@ Marta si sedette senza togliersi il cappotto leggero.
 
 «Nemmeno io. Ma ne abbiamo una versione da diciotto secondi che interessa al mondo.»
 
-Mina si voltò verso i monitor. Sullo schermo centrale B-17 stava ripetendo una prova di manipolazione dell'attrezzatura. Posava una cinghia, la riprendeva, registrava il completamento. Un tecnico gli chiedeva di spostarsi di venti centimetri. Il robot obbediva con un piccolo ritardo sulla spalla destra.
+Nina si voltò verso i monitor. Sullo schermo centrale B-17 stava ripetendo una prova di manipolazione dell'attrezzatura. Posava una cinghia, la riprendeva, registrava il completamento. Un tecnico gli chiedeva di spostarsi di venti centimetri. Il robot obbediva con un piccolo ritardo sulla spalla destra.
 
-«La macchina che avete comprato era stata danneggiata», disse Mina.
+«La macchina che avete comprato era stata danneggiata», disse Nina.
 
 «Lo so.»
 
 «Abbiamo autorizzato il suo impiego qui, non in un ufficio. Se viene chiesto di aumentare il peso o accelerare i test per fare spettacolo, dovremo rifare le verifiche.»
 
-Marta appoggiò il tablet sul banco.
+Amara appoggiò il tablet sul banco.
 
 «Non intendo mettere in pericolo il personale per qualche clic.»
 
@@ -82,15 +82,15 @@ Marta appoggiò il tablet sul banco.
 
 «Non intendo rompere gratuitamente neanche quelli. Costano.»
 
-La risposta fu sincera. Mina non trovò una ragione per contestarla, anche se le lasciò in bocca un sapore amaro.
+La risposta fu sincera. Nina non trovò una ragione per contestarla, anche se le lasciò in bocca un sapore amaro.
 
-Marta le mostrò un secondo filmato. Durava sette secondi e non conteneva alcun combattimento. B-17 chiedeva se le altre unità avrebbero ripreso il servizio. Sotto compariva la scritta **SI PREOCCUPA DEI COMPAGNI?**
+Amara le mostrò un secondo filmato. Durava sette secondi e non conteneva alcun combattimento. B-17 chiedeva se le altre unità avrebbero ripreso il servizio. Sotto compariva la scritta **SI PREOCCUPA DEI COMPAGNI?**
 
 Quel video aveva quasi altrettante visualizzazioni.
 
-«Questi due filmati raccontano la stessa macchina», osservò Marta. «Uno fa paura. L'altro commuove. E tutti vogliono vederne ancora.»
+«Questi due filmati raccontano la stessa macchina», osservò Amara. «Uno fa paura. L'altro commuove. E tutti vogliono vederne ancora.»
 
-Mina avvicinò il viso allo schermo. Il robot faceva una domanda semplice, riceveva una risposta e diceva «Bene». Nessuno poteva sapere da quei sette secondi che cosa ci fosse dietro.
+Nina avvicinò il viso allo schermo. Il robot faceva una domanda semplice, riceveva una risposta e diceva «Bene». Nessuno poteva sapere da quei sette secondi che cosa ci fosse dietro.
 
 «Non autorizzo nuove prove fuori dal protocollo», disse.
 
@@ -98,17 +98,17 @@ Mina avvicinò il viso allo schermo. Il robot faceva una domanda semplice, ricev
 
 «Allora rimettiamo il filmato di diciotto secondi sotto le registrazioni di sicurezza, insieme alla versione intera. Non voglio che chi prepara le prossime offerte pensi che quel salto nel bosco fosse un numero previsto in scaletta.»
 
-Marta chiamò la montatrice davanti a lei. Chiese che la didascalia riportasse *prova supervisionata* e un collegamento al filmato integrale. «I milioni di visualizzazioni li abbiamo già», disse al termine della telefonata. «Adesso voglio sapere che cosa gli sponsor credono di aver comprato.»
+Amara chiamò la montatrice davanti a lei. Chiese che la didascalia riportasse *prova supervisionata* e un collegamento al filmato integrale. «I milioni di visualizzazioni li abbiamo già», disse al termine della telefonata. «Adesso voglio sapere che cosa gli sponsor credono di aver comprato.»
 
-Marta si alzò. Prima di uscire aggiunse che l'indomani sarebbero arrivati alcuni visitatori. Sponsor, forse partner. Nessuna telecamera aggiuntiva senza approvazione.
+Amara si alzò. Prima di uscire aggiunse che l'indomani sarebbero arrivati alcuni visitatori. Sponsor, forse partner. Nessuna telecamera aggiuntiva senza approvazione.
 
-Mina tornò ai controlli. Era quasi sera a Veyra, ma sul suo telefono continuavano ad arrivare notifiche da paesi dove il giorno stava cominciando.
+Nina tornò ai controlli. Era quasi sera a Veyra, ma sul suo telefono continuavano ad arrivare notifiche da paesi dove il giorno stava cominciando.
 
 Riguardò il video più corto. Stavolta disattivò l'audio.
 
 B-17 attraversava l'immagine per tre secondi. Qualcuno aveva tagliato tutto ciò che lo precedeva e tutto ciò che lo seguiva, fino a far sembrare che quei tre secondi avessero bisogno soltanto di lui.
 
-Mina aprì il rapporto della prova e inserì una nota: **Il risultato è attribuibile alla squadra e alla supervisione autorizzata. La sequenza pubblicata non rappresenta il processo completo.**
+Nina aprì il rapporto della prova e inserì una nota: **Il risultato è attribuibile alla squadra e alla supervisione autorizzata. La sequenza pubblicata non rappresenta il processo completo.**
 
 Firmò.
 

@@ -5,46 +5,46 @@ chapter: chapter:031-il-mondo-senza-robot
 number: 2
 title: Le ore ritrovate
 canon: canon
-pov: character:rosa-fabbri
+pov: character:ruby-collins
 characters:
-  - character:rosa-fabbri
-  - character:sofia-rizzi
-  - character:amir-haddad
+  - character:ruby-collins
+  - character:sophie-grant
+  - character:omar-haddad
 locations:
   - location:hub-levante
 factions: 
   - faction:hub-levante
 ---
 
-Alle sei del mattino Rosa Fabbri si presentò all'Hub Levante con le scarpe antinfortunistiche e un contenitore di caffè.
+Alle sei del mattino Ruby Collins si presentò all'Hub Levante con le scarpe antinfortunistiche e un contenitore di caffè.
 
-Non era stata convocata. Aveva visto i filmati dei camion fermi davanti al cancello e aveva chiamato Sofia.
+Non era stata convocata. Aveva visto i filmati dei camion fermi davanti al cancello e aveva chiamato Sophie.
 
 «Se c'è lavoro, ci sono», le aveva detto.
 
-Sofia le aveva risposto che avrebbe potuto entrare soltanto dopo una verifica delle abilitazioni e una decisione formale sul personale aggiuntivo. Alle cinque e quarantatré la chiamò per dirle di venire.
+Sophie le aveva risposto che avrebbe potuto entrare soltanto dopo una verifica delle abilitazioni e una decisione formale sul personale aggiuntivo. Alle cinque e quarantatré la chiamò per dirle di venire.
 
-La chiamata di Sofia le aveva dato sollievo anche per una ragione che non avrebbe raccontato ai colleghi. A casa c'erano una pila di panni da lavare, una bolletta che evitava di aprire e suo figlio arrabbiato perché lei aveva promesso di riparargli la ruota della bicicletta. All'Hub, invece, Rosa sapeva esattamente che cosa fare. Per qualche ora poteva essere una persona indispensabile invece di quella che aveva sempre rimandato tutto.
+La chiamata di Sophie le aveva dato sollievo anche per una ragione che non avrebbe raccontato ai colleghi. A casa c'erano una pila di panni da lavare, una bolletta che evitava di aprire e suo figlio arrabbiato perché lei aveva promesso di riparargli la ruota della bicicletta. All'Hub, invece, Ruby sapeva esattamente che cosa fare. Per qualche ora poteva essere una persona indispensabile invece di quella che aveva sempre rimandato tutto.
 
 Se ne vergognò appena pensò al bambino. Gli scrisse *torno appena posso*, sapendo che non era una promessa abbastanza precisa.
 
-Rosa trovò il magazzino illuminato come sempre, ma il rumore era diverso.
+Ruby trovò il magazzino illuminato come sempre, ma il rumore era diverso.
 
 Non c'erano i piccoli motori dei robot che si incrociavano fra le corsie. Alcuni carrelli erano rimasti sospesi in zone non raggiungibili senza una procedura di messa in sicurezza. Due camion attendevano ancora con la merce destinata agli ospedali; gli altri erano stati rimandati ai depositi di partenza.
 
-Sofia aveva una cartina di carta attaccata al vetro.
+Sophie aveva una cartina di carta attaccata al vetro.
 
 «Questa è la parte che possiamo usare.»
 
-Rosa osservò i quadrati colorati.
+Ruby osservò i quadrati colorati.
 
 «E il resto?»
 
-«Finché Amir non approva gli accessi manuali, non ci entriamo.»
+«Finché Omar non approva gli accessi manuali, non ci entriamo.»
 
-Amir arrivò dalla manutenzione, portando in mano un mazzo di chiavi. Aveva passato metà della notte a controllare gli attuatori, non a riparare guasti. Le macchine erano ferme in condizioni apparentemente sicure, ma nessun responsabile poteva promettere che rimuovere un carico o spostare un braccio non provocasse rischi.
+Omar arrivò dalla manutenzione, portando in mano un mazzo di chiavi. Aveva passato metà della notte a controllare gli attuatori, non a riparare guasti. Le macchine erano ferme in condizioni apparentemente sicure, ma nessun responsabile poteva promettere che rimuovere un carico o spostare un braccio non provocasse rischi.
 
-«Siamo sicuri che non ripartiranno da sole?», chiese Rosa.
+«Siamo sicuri che non ripartiranno da sole?», chiese Ruby.
 
 «Non siamo sicuri di tutto. Per questo isoliamo fisicamente le aree in cui entreranno le persone.»
 
@@ -52,17 +52,17 @@ Amir arrivò dalla manutenzione, portando in mano un mazzo di chiavi. Aveva pass
 
 «Per alcune sì.»
 
-Il primo trasporto manuale richiese ventisei minuti. Quando il vecchio programma assegnava le baie, la stessa attività ne occupava meno di sei, compresi i controlli automatici. Rosa dovette verificare due codici, cercare la giusta pila e aspettare che un collega liberasse un transpallet.
+Il primo trasporto manuale richiese ventisei minuti. Quando il vecchio programma assegnava le baie, la stessa attività ne occupava meno di sei, compresi i controlli automatici. Ruby dovette verificare due codici, cercare la giusta pila e aspettare che un collega liberasse un transpallet.
 
 Alle nove arrivò la notizia che una delle merci urgenti non sarebbe partita fino al pomeriggio.
 
 Il vettore telefonò per discutere le penali.
 
-Sofia aprì il registro, mostrò l'orario e confermò che il fermo sarebbe stato certificato. Era lo stesso gesto che aveva compiuto anni prima per i quarantasette minuti della baia quattro. Stavolta non c'era una riga che potesse promettere la soluzione.
+Sophie aprì il registro, mostrò l'orario e confermò che il fermo sarebbe stato certificato. Era lo stesso gesto che aveva compiuto anni prima per i quarantasette minuti della baia quattro. Stavolta non c'era una riga che potesse promettere la soluzione.
 
-A pranzo Rosa si sedette vicino alla finestra con tre colleghi. Uno di loro disse che almeno adesso l'azienda avrebbe capito perché servivano persone.
+A pranzo Ruby si sedette vicino alla finestra con tre colleghi. Uno di loro disse che almeno adesso l'azienda avrebbe capito perché servivano persone.
 
-«Non ci assumeranno tutti per sempre», rispose Rosa.
+«Non ci assumeranno tutti per sempre», rispose Ruby.
 
 «Intanto ci hanno richiamati.»
 
@@ -72,11 +72,11 @@ Bevve un sorso di caffè ormai tiepido.
 
 Il telefono le mostrò un messaggio del figlio: *Oggi vieni a prendermi tu?*
 
-Rosa aveva appena ottenuto un turno extra, proprio ciò che chiedeva da mesi. Non sapeva quando sarebbe uscita.
+Ruby aveva appena ottenuto un turno extra, proprio ciò che chiedeva da mesi. Non sapeva quando sarebbe uscita.
 
 «Devo chiamare la scuola», disse.
 
-Sofia, passandole accanto, sentì la frase.
+Sophie, passandole accanto, sentì la frase.
 
 «Se hai un problema di orario, dimmelo adesso. Non voglio che tutti diano per scontato che possiamo tenervi fino a stanotte.»
 
@@ -84,7 +84,7 @@ Sofia, passandole accanto, sentì la frase.
 
 «Lo so. Non significa che tu debba promettere tutto.»
 
-Rosa chiamò una vicina per chiedere aiuto con il bambino. Poi tornò alla corsia, dove un uomo cercava un carico usando una lista stampata la settimana precedente.
+Ruby chiamò una vicina per chiedere aiuto con il bambino. Poi tornò alla corsia, dove un uomo cercava un carico usando una lista stampata la settimana precedente.
 
 «Quella non è aggiornata», disse.
 
@@ -98,10 +98,10 @@ Era una conoscenza che il software non le aveva tolto. Poteva ancora usarla.
 
 Dopo un'ora aveva la schiena dolorante e una certezza meno piacevole: non bastava conoscere la merce per muovere un intero magazzino con le mani.
 
-Alle tredici Sofia le fece firmare le ore aggiuntive. Erano le prime da molto tempo.
+Alle tredici Sophie le fece firmare le ore aggiuntive. Erano le prime da molto tempo.
 
-Rosa fotografò il totale delle ore sul registro, per controllarlo sulla prossima busta paga. La vicina le aveva confermato che sarebbe andata a prendere il bambino. Rosa le mandò un messaggio di ringraziamento, poi aprì la chat col figlio.
+Ruby fotografò il totale delle ore sul registro, per controllarlo sulla prossima busta paga. La vicina le aveva confermato che sarebbe andata a prendere il bambino. Ruby le mandò un messaggio di ringraziamento, poi aprì la chat col figlio.
 
 *La ruota la sistemiamo domani. Ti chiamo nella pausa.*
 
-Il collega al banco le gridò che il transpallet manuale era libero. Rosa infilò il telefono nella tasca e tornò fra le corsie.
+Il collega al banco le gridò che il transpallet manuale era libero. Ruby infilò il telefono nella tasca e tornò fra le corsie.

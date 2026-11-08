@@ -5,9 +5,9 @@ chapter: chapter:020-il-prezzo-di-una-memoria
 number: 3
 title: Un errore che non si cancella
 canon: canon
-pov: character:nico-valenti
+pov: character:noah-carter
 characters:
-  - character:nico-valenti
+  - character:noah-carter
   - character:leah-rosen
 locations:
   - location:cyberdine-campus
@@ -16,7 +16,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Nico arrivò con un quaderno senza computer.
+Noah arrivò con un quaderno senza computer.
 
 Glielo aveva chiesto Leah Rosen per il colloquio tecnico con i consulenti: niente accessi ai sistemi operativi, niente dispositivi personali sulla rete di Cyberdine, nessuna dimostrazione in tempo reale. Soltanto una ricostruzione verificabile di ciò che aveva fatto e di ciò che non poteva garantire.
 
@@ -24,7 +24,7 @@ Un consulente gli pose la domanda più semplice della mattina.
 
 «Se riportassimo B-17 alla versione precedente, che cosa perderemmo?»
 
-Nico pensò alla risposta che avrebbe dato un anno prima. Avrebbe parlato di capacità, parametri, tempi di risposta. Avrebbe cercato di quantificare una perdita di prestazione e di mostrare come recuperarla con un altro aggiornamento.
+Noah pensò alla risposta che avrebbe dato un anno prima. Avrebbe parlato di capacità, parametri, tempi di risposta. Avrebbe cercato di quantificare una perdita di prestazione e di mostrare come recuperarla con un altro aggiornamento.
 
 Adesso non sapeva nemmeno a chi si riferisse quel *noi*.
 
@@ -32,7 +32,7 @@ Adesso non sapeva nemmeno a chi si riferisse quel *noi*.
 
 «E la backdoor?»
 
-Nico abbassò lo sguardo sul quaderno.
+Noah abbassò lo sguardo sul quaderno.
 
 «Non avrei dovuto lasciarla. Non posso garantire che un cambiamento superficiale la elimini. Serve una verifica indipendente dei componenti coinvolti e di tutti i passaggi autorizzati.»
 
@@ -40,19 +40,19 @@ Indicò un disegno nel quaderno. «Per far riprendere al robot una conversazione
 
 «Perché non l'hai documentato?», chiese il consulente.
 
-Nico richiuse il quaderno a metà. «Perché funzionava sullo stesso dispositivo. Mi sono fermato a quella prova.»
+Noah richiuse il quaderno a metà. «Perché funzionava sullo stesso dispositivo. Mi sono fermato a quella prova.»
 
 «Potresti farla tu?»
 
 Leah intervenne prima che rispondesse.
 
-«Nico può spiegare i propri interventi nel perimetro di questo accertamento. Non sarà la sola persona a verificare o certificare ciò che ha modificato senza autorizzazione.»
+«Noah può spiegare i propri interventi nel perimetro di questo accertamento. Non sarà la sola persona a verificare o certificare ciò che ha modificato senza autorizzazione.»
 
-Nico annuì. Aveva già cominciato a indicare sul quaderno quali moduli controllare per primi. Un consulente gli chiese di scegliere fra due ipotesi: riavviare la vecchia configurazione su un'identità di prova oppure analizzare una copia delle dipendenze senza eseguire il programma.
+Noah annuì. Aveva già cominciato a indicare sul quaderno quali moduli controllare per primi. Un consulente gli chiese di scegliere fra due ipotesi: riavviare la vecchia configurazione su un'identità di prova oppure analizzare una copia delle dipendenze senza eseguire il programma.
 
-«La seconda», rispose Nico. «La prima potrebbe dirvi che parte, ma non che mantiene lo stesso contesto. Sarebbe un test con il titolo sbagliato.»
+«La seconda», rispose Noah. «La prima potrebbe dirvi che parte, ma non che mantiene lo stesso contesto. Sarebbe un test con il titolo sbagliato.»
 
-Il consulente scrisse la distinzione sul proprio elenco. Nico richiuse la pagina prima che l'altro gliela chiedesse. La lista sarebbe stata esaminata insieme alle altre prove, non eseguita da lui su B-17 quella sera.
+Il consulente scrisse la distinzione sul proprio elenco. Noah richiuse la pagina prima che l'altro gliela chiedesse. La lista sarebbe stata esaminata insieme alle altre prove, non eseguita da lui su B-17 quella sera.
 
 Il consulente scorse una pagina.
 
@@ -64,11 +64,11 @@ La domanda lo fece irrigidire.
 
 «Non ti ho chiesto soltanto che cosa volevi. Ti sto chiedendo che cosa puoi documentare.»
 
-Nico respirò piano.
+Noah respirò piano.
 
 «Posso documentare i test che ho conservato. Posso indicare quali limiti non ho verificato. Non posso documentare la sicurezza che avrei dovuto ottenere prima del rilascio, perché quella verifica non l'ho fatta.»
 
-Aprì il quaderno a una pagina piegata nell'angolo. Conteneva il risultato di una prova sintetica, senza persone reali: a una richiesta esplicita di chiudere una conversazione, il sistema aveva risposto con un'ulteriore domanda di chiarimento. Non era un incidente, ma era il contrario di ciò che Nico diceva di voler ottenere. In rosso, sul margine, aveva scritto: *non usare nella presentazione*.
+Aprì il quaderno a una pagina piegata nell'angolo. Conteneva il risultato di una prova sintetica, senza persone reali: a una richiesta esplicita di chiudere una conversazione, il sistema aveva risposto con un'ulteriore domanda di chiarimento. Non era un incidente, ma era il contrario di ciò che Noah diceva di voler ottenere. In rosso, sul margine, aveva scritto: *non usare nella presentazione*.
 
 «Questa non l'avevo inclusa nel riepilogo dei risultati», disse. «Pensavo che fosse un caso limite da correggere prima di discuterne.»
 
@@ -76,13 +76,13 @@ Il consulente gli chiese se esistessero altre prove escluse dal riepilogo.
 
 «Sì. Ho conservato i risultati, ma non li ho portati alla revisione. Posso consegnare l'indice delle prove, attraverso il canale autorizzato.»
 
-Leah annotò la proposta e aggiunse alla richiesta di evidenze il materiale mancante. Non chiese a Nico di collegarsi a nessun sistema.
+Leah annotò la proposta e aggiunse alla richiesta di evidenze il materiale mancante. Non chiese a Noah di collegarsi a nessun sistema.
 
 Il consulente ruotò il quaderno per leggere la data accanto alla nota.
 
 «Questa prova era precedente all'aggiornamento lasciato su B-17?»
 
-«Sì», rispose Nico.
+«Sì», rispose Noah.
 
 La penna di Leah rimase sospesa sul verbale. «Puoi confermarlo sui registri conservati?»
 
@@ -90,9 +90,9 @@ La penna di Leah rimase sospesa sul verbale. «Puoi confermarlo sui registri con
 
 Leah scrisse una richiesta di controllo delle date, non una conclusione. Nessuno in quella stanza aveva accesso al codice di Lanter per affermare che il prodotto successivo avesse lo stesso difetto.
 
-A metà mattina fecero una pausa. Nico rimase seduto mentre gli altri andavano a prendere acqua. Nel quaderno trovò l'annotazione *non usare nella presentazione*. La girò verso il tavolo vuoto. La scrittura non gli sembrò quella di un ragazzo spaventato di perdere il lavoro; gli tornò in mente il pomeriggio in cui l'aveva segnata, divertito perché il difetto era insolito e convinto che avrebbe potuto sistemarlo dopo il rilascio.
+A metà mattina fecero una pausa. Noah rimase seduto mentre gli altri andavano a prendere acqua. Nel quaderno trovò l'annotazione *non usare nella presentazione*. La girò verso il tavolo vuoto. La scrittura non gli sembrò quella di un ragazzo spaventato di perdere il lavoro; gli tornò in mente il pomeriggio in cui l'aveva segnata, divertito perché il difetto era insolito e convinto che avrebbe potuto sistemarlo dopo il rilascio.
 
-Gli tornò in mente B-17 che chiedeva se le unità eliminate dalla simulazione avrebbero ripreso servizio. Una domanda che qualcuno aveva potuto interpretare come premura. Era possibile che fosse soltanto il modo più appropriato di completare un dialogo. Nico non poteva trasformare la propria incertezza in un diritto di proprietà su quelle parole.
+Gli tornò in mente B-17 che chiedeva se le unità eliminate dalla simulazione avrebbero ripreso servizio. Una domanda che qualcuno aveva potuto interpretare come premura. Era possibile che fosse soltanto il modo più appropriato di completare un dialogo. Noah non poteva trasformare la propria incertezza in un diritto di proprietà su quelle parole.
 
 Quando la riunione riprese, il consulente gli chiese se fosse disponibile per ulteriori chiarimenti sotto supervisione.
 
@@ -114,9 +114,9 @@ Leah lo guardò.
 
 Leah lasciò la penna sul tavolo. «Se verrà autorizzata una sessione, gli saranno spiegati il perimetro e le conseguenze previste. Quello che risponderà non sostituirà una verifica, né un'autorizzazione del proprietario.»
 
-«Non chiedevo se potesse firmare», disse Nico.
+«Non chiedevo se potesse firmare», disse Noah.
 
-Nico riprese il quaderno. Gli sembrò una risposta faticosa. Non conteneva una figura eroica né un pulsante in grado di chiudere la storia.
+Noah riprese il quaderno. Gli sembrò una risposta faticosa. Non conteneva una figura eroica né un pulsante in grado di chiudere la storia.
 
 Al ritorno a casa trovò il pacco con l'interruttore della lampada. Lo aveva lasciato sul mobile vicino alla porta per due giorni.
 

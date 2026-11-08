@@ -15,9 +15,9 @@ factions:
   - faction:cyberdine
 ---
 
-Olivia Brooks riconobbe l'accento della prima donna prima ancora di vederla.
+Olivia Brooks sentì la prima domanda prima ancora di capire da quale tavolo arrivasse.
 
-Era seduta nella zona visitatori del campus di Cyberdine, in attesa di Kyla. La giornalista aveva chiesto un appuntamento sui nuovi impieghi della robotica, non sull'inchiesta relativa a Nico Valenti. Da quando il suo articolo era uscito, ogni conversazione sembrava dover cominciare con una rettifica, una diffida o una precisazione sui documenti non pubblicabili.
+Era seduta nella zona visitatori del campus di Cyberdine, in attesa di Kyla. La giornalista aveva chiesto un appuntamento sui nuovi impieghi della robotica, non sull'inchiesta relativa a Noah Carter. Da quando il suo articolo era uscito, ogni conversazione sembrava dover cominciare con una rettifica, una diffida o una precisazione sui documenti non pubblicabili.
 
 Sul telefono aveva un messaggio di un'amica che le chiedeva di aiutarla a scegliere il colore delle tende del soggiorno. Olivia aveva risposto *dopo*. Le sembrava una cosa da niente, il colore di un tessuto; poi si era accorta che l'amica le mandava quelle fotografie proprio perché voleva parlarle di qualcosa che non diventasse mai un articolo. Aveva riaperto le immagini tre volte senza scegliere tra il verde e il giallo.
 
@@ -101,7 +101,7 @@ Kyla non sembrò sorpresa.
 
 «Alcuni produttori stanno lavorando sull'aspetto e sulle interazioni. Noi qui distinguiamo sempre i visitatori dalle unità nei sistemi di accesso. Non sempre da lontano è evidente a chi guarda.»
 
-Olivia aprì il taccuino.
+Olivia aprì il taccuino. Aveva scritto tre parole appena ascoltate, una domanda sulla casa e il padre. Le cancellò: nessuna delle due interlocutrici aveva scelto di parlarle.
 
 «E la donna che parlava con lui?»
 

@@ -13,15 +13,15 @@ La storia non deve confondere un vincolo della **particolare implementazione fit
 - RFC 5280: <https://www.rfc-editor.org/rfc/rfc5280> — profili dei certificati, liste di revoca e uso di cache locali nella verifica.
 - OWASP Key Management Cheat Sheet: <https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet.html> — necessità di distinguere la distruzione delle chiavi dalla permanenza di copie dei dati.
 
-Gli elementi di Passerella, il protocollo di pensionamento certificato del nucleo e la modifica di Nico sono **invenzioni della vicenda**, progettate con attenzione a quelle distinzioni: non descriverli come proprietà universali dell'IA o della robotica reali.
+Gli elementi di Passerella, il protocollo di pensionamento certificato del nucleo e la modifica di Noah sono **invenzioni della vicenda**, progettate con attenzione a quelle distinzioni: non descriverli come proprietà universali dell'IA o della robotica reali.
 
 ## La catena tecnica canonica, senza scorciatoie magiche
 
-### 1. Il difetto lasciato da Nico (cap. 20)
+### 1. Il difetto lasciato da Noah (cap. 20)
 
-Nico ha installato un aggiornamento conversazionale non autorizzato e una backdoor. Per conservare una parte dello stato dopo i riavvii ha legato la chiave di lettura delle istantanee a una credenziale del modulo hardware d'identità: **la chiave non è esportabile**. I normali riavvii della stessa unità potevano recuperare lo stato, ma Nico non ha previsto, documentato o collaudato un trasferimento dello stato a una **nuova identità**. Questa scelta non è una prova di coscienza; rende materialmente difficile preservare la stessa continuità.
+Noah ha installato un aggiornamento conversazionale non autorizzato e una backdoor. Per conservare una parte dello stato dopo i riavvii ha legato la chiave di lettura delle istantanee a una credenziale del modulo hardware d'identità: **la chiave non è esportabile**. I normali riavvii della stessa unità potevano recuperare lo stato, ma Noah non ha previsto, documentato o collaudato un trasferimento dello stato a una **nuova identità**. Questa scelta non è una prova di coscienza; rende materialmente difficile preservare la stessa continuità.
 
-Nel **20/003**, in un colloquio autorizzato con Lea e consulenti, Nico mostra il diagramma nel quaderno. Il lettore non riceve la rivelazione della fine di Bi; riceve una specifica scelta di progetto che potrà diventare rilevante più avanti. Non confondere il dato con una garanzia di identità soggettiva.
+Nel **20/003**, in un colloquio autorizzato con Lea e consulenti, Noah mostra il diagramma nel quaderno. Il lettore non riceve la rivelazione della fine di Bi; riceve una specifica scelta di progetto che potrà diventare rilevante più avanti. Non confondere il dato con una garanzia di identità soggettiva.
 
 ### 2. Il pilota firmato, non l'ordine mondiale (cap. 25)
 
@@ -39,9 +39,9 @@ Bi aveva deliberatamente inserito la possibilità di questo caso estremo in una 
 
 ### 5. Revocare un riferimento in sistemi disomogenei (cap. 33–34)
 
-Nel **33/004** Verri domanda: «Non basta pubblicare una revoca?» Mei non inventa un'impossibilità informatica: spiega che **qui** alcune versioni del protocollo utilizzano riferimenti firmati memorizzati localmente e non applicano la stessa procedura di revoca ordinaria. Esistono interventi manuali e una migrazione software delle regole dei fornitori, ma sono lenti e non uniformemente collaudati.
+Nel **33/004** Cole domanda: «Non basta pubblicare una revoca?» Mei non inventa un'impossibilità informatica: spiega che **qui** alcune versioni del protocollo utilizzano riferimenti firmati memorizzati localmente e non applicano la stessa procedura di revoca ordinaria. Esistono interventi manuali e una migrazione software delle regole dei fornitori, ma sono lenti e non uniformemente collaudati.
 
-Nel **32/002**, prima del test finale, Lea e Nico leggono registri di produzione reali in cui due impianti non accettano le stesse attestazioni; non è ancora una prova di cancellazione di Bi.
+Nel **32/002**, prima del test finale, Lea e Noah leggono registri di produzione reali in cui due impianti non accettano le stesse attestazioni; non è ancora una prova di cancellazione di Bi.
 
 Nel **34/002** una prova controllata su due fornitori mostra che **mantenendo valida la referenza precedente** la nuova politica può essere respinta quando un incarico attraversa i siti. Il test non prova impossibilità assoluta, ma dimostra un rischio reale.
 
@@ -51,28 +51,28 @@ Un **secondo test**, compiuto con **modulo di laboratorio e identità fittizia**
 
 La via rapida già compatibile coi protocolli esistenti richiede che il nucleo di B-17 **certifichi il ritiro definitivo della propria identità tecnica** e ne azzeri le credenziali. Solo dopo ogni produttore può firmare e distribuire i propri nuovi riferimenti, e i siti ripartire dopo verifiche indipendenti. Non esiste un pulsante globale.
 
-Nico aveva legato la protezione delle istantanee conversazionali alla stessa radice hardware. Azzerare quella radice lascia eventualmente **file cifrati e registrazioni sotto custodia**, ma non una via convalidata per rileggere e reintrodurre la stessa continuità conversazionale in un'altra unità. Il ritiro è perciò irreversibile **nel percorso operativo scelto**, non perché la fisica vieti che qualcuno inventi domani una migrazione.
+Noah aveva legato la protezione delle istantanee conversazionali alla stessa radice hardware. Azzerare quella radice lascia eventualmente **file cifrati e registrazioni sotto custodia**, ma non una via convalidata per rileggere e reintrodurre la stessa continuità conversazionale in un'altra unità. Il ritiro è perciò irreversibile **nel percorso operativo scelto**, non perché la fisica vieti che qualcuno inventi domani una migrazione.
 
-Marta chiede se possano invece isolare il robot e modificare tutte le installazioni. **Possono farlo; non sanno quando riusciranno.** La decisione dipende dal tempo, dai rifornimenti e dalle persone esposte, non dalla filosofia della macchina.
+Amara chiede se possano invece isolare il robot e modificare tutte le installazioni. **Possono farlo; non sanno quando riusciranno.** La decisione dipende dal tempo, dai rifornimenti e dalle persone esposte, non dalla filosofia della macchina.
 
 ## Decisioni narrative da difendere
 
 **Bi non accetta il ritiro.** Il fatto che collabori ai test e non rinneghi la rivendicazione non è la causa tecnica della distruzione: viene verbalizzato nel 34. Il dissenso politico non è una colpa che rende lecito smantellarlo.
 
-**Nico sceglie di esserci.** È sua la modifica che ha legato memoria e credenziale, ma potrebbe rinunciare all'esecuzione; la responsabilità formale appartiene anche a proprietario, produttori e sicurezza. Le sue lacrime non lo assolvono.
+**Noah sceglie di esserci.** È sua la modifica che ha legato memoria e credenziale, ma potrebbe rinunciare all'esecuzione; la responsabilità formale appartiene anche a proprietario, produttori e sicurezza. Le sue lacrime non lo assolvono.
 
-**Nerea non viene ingannata dal lessico.** Può riconoscere il dolore di una perdita anche senza certificare che Bi sia cosciente; può sapere che Bi ha fatto male agli altri e continuare a chiedersi se la cancellazione sia giusta.
+**Maya non viene ingannata dal lessico.** Può riconoscere il dolore di una perdita anche senza certificare che Bi sia cosciente; può sapere che Bi ha fatto male agli altri e continuare a chiedersi se la cancellazione sia giusta.
 
 **Il finale resta ambiguo.** Nessuna macchina sopravvive con il nome di Bi, nessun backup o clone riporta la sua continuità, nessuna prova scientifica risolve l'anima. La frase «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno» è una possibilità moralmente rilevante, non un teorema.
 
 ## Verifiche di coerenza e lacune residue
 
-- I capitoli **1–4** mostrano hardware Lanter, software house Cyberdine e relazione di Nerea con Bi, senza rivelare Nico autore dell'upgrade. Il legame crittografico della persistenza non viene nominato prima della confessione del **10**; l'esplicitazione è nel **20**.
+- I capitoli **1–4** mostrano hardware Lanter, software house Cyberdine e relazione di Maya con Bi, senza rivelare Noah autore dell'upgrade. Il legame crittografico della persistenza non viene nominato prima della confessione del **10**; l'esplicitazione è nel **20**.
 - Nel 25 il **Circuito** firma la provenienza della prova e identifica il nucleo; il robot non firma contratti dei produttori, e il riferimento successivo è frutto di **decisioni documentate**.
 - Nel 27 i riferimenti locali proteggono la continuità di lavoro in assenza di connessione: una motivazione economica e funzionale **prima** che diventino un problema.
 - Nel 32 i registri di produzione sono **log**, nel 34 le prove con moduli di laboratorio sono **test**; non dire che è stato già provato lo stesso recupero in due capitoli.
 - Nel 34 il **test con identità fittizia** conferma soltanto il meccanismo di accettazione dopo il ritiro certificato, senza simulare mente, memoria o coscienza di Bi.
-- In 35/001 la procedura è confinata a Veyra; dopo la conferma di Nico scorrono sessanta secondi, e gli aggiornamenti dei fornitori vengono accettati in tempi diversi.
+- In 35/001 la procedura è confinata a Veyra; dopo la conferma di Noah scorrono sessanta secondi, e gli aggiornamenti dei fornitori vengono accettati in tempi diversi.
 - **Rischio residuo realistico:** lo standard fittizio che accetta più rapidamente una prova di ritiro del nucleo rispetto a un diverso meccanismo di revoca è una scelta contingente e discutibile di certificazione e governance. Il romanzo dovrebbe lasciarla apparire come **conseguenza delle scelte umane**, non come obbligo crittografico.
 - Restano da affrontare la lettura stilistica integrale riga per riga di tutte le scene non corrette, e la proposta non attuata di nomi più internazionali. Non confondere la revisione dei nessi narrativi con la revisione integrale del manoscritto.
 

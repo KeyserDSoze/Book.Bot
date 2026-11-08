@@ -6,32 +6,32 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 
 | Nome canonico attuale | Funzione | Proposta | Stato |
 |---|---|---|---|
-| Nico Valenti | Ingegnere software | Noah Bennett, britannico | Da approvare |
-| Nerea Dalmasso | Responsabile Hub | Mantenere | Proposto |
+| Noah Carter | Ingegnere software | Noah Bennett, britannico | Da approvare |
+| Maya Bennett | Responsabile Hub | Mantenere | Proposto |
 | Kyla Morgan | HR e marketing | Nome e cognome canonici | Canonico |
 | Mei Lin | Qualità robotica | Mantenere | Proposto |
 | Leah Rosen | Sicurezza e privacy | Nome adottato | Canonico |
-| Ada Serri | Centro assistenziale | Mantenere | Proposto |
-| Sergio Lolli | Agricoltore | Mantenere | Proposto |
-| Teresa Marin | Ospite centro | Mantenere | Proposto |
-| Marta Ledesma | Direttrice Veyra | Mantenere; valutare origine colombiana | Da verificare |
-| Irene Valli | Eccezioni | Irene Walsh | Da approvare |
-| Lorenzo Verri | CEO Cyberdine | Alexander Reed | Da approvare |
-| Adriana Lodi | Mentore | Mantenere | Proposto |
+| Grace Walker | Centro assistenziale | Mantenere | Proposto |
+| Samuel Price | Agricoltore | Mantenere | Proposto |
+| Helen Rivera | Ospite centro | Mantenere | Proposto |
+| Amara Ortiz | Direttrice Veyra | Mantenere; valutare origine colombiana | Da verificare |
+| Claire Foster | Eccezioni | Claire Walsh | Da approvare |
+| Victor Cole | CEO Cyberdine | Alexander Reed | Da approvare |
+| Margaret Ellis | Mentore | Mantenere | Proposto |
 | Elena Fischer | Documentazione | Nome adottato | Canonico |
-| Paolo Ferri | Sistemi legacy | Paul Carter | Da approvare |
+| Paul Turner | Sistemi legacy | Paul Carter | Da approvare |
 | Mila Novak | Spazio Comune | Nome adottato | Canonico |
-| Dario Sarti | Lavoratore Cyberdine | Mantenere | Proposto |
-| Mauro Lanza | Lavoratore Cyberdine | Mantenere | Proposto |
-| Bruno Dalmasso | Padre di Nerea | Mantenere | Proposto |
-| Giulia Orsini | Assistenza | Julia Costa | Da approvare |
-| Sofia Rizzi | Hub Levante | Sofia Alvarez | Da approvare |
-| Rosa Fabbri | Hub Levante | Mantenere | Proposto |
-| Elisa Marin | Figlia di Teresa | Mantenere | Proposto |
+| Ethan Blake | Lavoratore Cyberdine | Mantenere | Proposto |
+| Marcus Reed | Lavoratore Cyberdine | Mantenere | Proposto |
+| Daniel Bennett | Padre di Maya | Mantenere | Proposto |
+| Julia Parker | Assistenza | Julia Costa | Da approvare |
+| Sophie Grant | Hub Levante | Sophie Alvarez | Da approvare |
+| Ruby Collins | Hub Levante | Mantenere | Proposto |
+| Chloe Rivera | Figlia di Helen | Mantenere | Proposto |
 | Olivia Brooks | Giornalista britannica residente a Roma | Nome approvato e integrato | Canonico |
-| Amir Haddad | Manutenzione | Mantenere | Proposto |
-| Youssef Benali | Lavoratore stagionale | Mantenere | Proposto |
-| Mina Soler | Sicurezza Veyra | Mantenere | Proposto |
+| Omar Haddad | Manutenzione | Mantenere | Proposto |
+| Yusuf Karim | Lavoratore stagionale | Mantenere | Proposto |
+| Nina Solis | Sicurezza Veyra | Mantenere | Proposto |
 
 ## Robot esistenti (5)
 
@@ -54,7 +54,7 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 ## Vincoli editoriali
 
 - Non attribuire nazionalità, origini o biografie come fatti canonici senza scene e schede coerenti.
-- Conservare i legami Nerea–Bruno e Teresa–Elisa.
+- Conservare i legami Maya–Daniel e Helen–Chloe.
 - Preservare il mistero del potenziamento di Bi fino al capitolo 10 per il lettore, e le diverse conoscenze dei personaggi.
 - Distinguere le apparizioni effettive dalle sole menzioni e dalle schede personaggio.
 - Aggiornare in modo atomico scene, characters/, timeline/, state/current.md, riferimenti grafici e controlli automatici solo dopo approvazione delle rinomine.
@@ -82,4 +82,4 @@ Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei 
 
 ## Aggiornamento personaggi — 8 novembre 2026, revisione successiva
 
-Kyla è diventata **Kyla Morgan** nel canone; il suo ID tecnico `character:kyla` è stato conservato. Aggiunto **Gavin Cole**, responsabile Delivery, con scene nei capitoli 1, 5 e 8 e menzione nel 7. Il cast umano nominato passa a 32 persone; il registro completo e aggiornato è `characters/README.md`. Le rinomine ipotetiche Noah Bennett, Alexander Reed, Irene Walsh e Paul Carter **non** sono state applicate. Nuovi background per Nerea, Paolo, Mila e Nico, definiti nelle schede e fatti emergere nelle scene.
+Kyla è diventata **Kyla Morgan** nel canone; il suo ID tecnico `character:kyla` è stato conservato. Aggiunto **Gavin Shaw**, responsabile Delivery, con scene nei capitoli 1, 5 e 8 e menzione nel 7. Il cast umano nominato passa a 32 persone; il registro completo e aggiornato è `characters/README.md`. Le rinomine ipotetiche Noah Bennett, Alexander Reed, Claire Walsh e Paul Carter **non** sono state applicate. Nuovi background per Maya, Paul, Mila e Noah, definiti nelle schede e fatti emergere nelle scene.

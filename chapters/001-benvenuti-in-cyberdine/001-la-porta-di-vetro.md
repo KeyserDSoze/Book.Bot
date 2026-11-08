@@ -10,8 +10,8 @@ characters:
   - character:kyla
   - character:visitors
   - character:anika-rao
-  - character:nico-valenti
-  - character:gavin-cole
+  - character:noah-carter
+  - character:gavin-shaw
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -24,7 +24,7 @@ factions:
 
 Kyla Morgan aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
 
-Una mezz'ora prima, Gavin Cole le aveva chiesto di non sottrarre due ingegneri alla consegna per verificare un vecchio terminale durante la visita. «Il mio team ha già promesso venerdì», aveva detto. Kyla gli aveva proposto quindici minuti con Malik e la persona che seguiva il collaudo, senza cambiare la scadenza. Gavin aveva accettato solo quando Kyla gli aveva assicurato che il tempo sarebbe comparso nel ticket. Lei non lo biasimava per aver difeso la squadra, ma aveva annotato anche il nome di chi avrebbe firmato la prova.
+Una mezz'ora prima, Gavin Shaw le aveva chiesto di non sottrarre due ingegneri alla consegna per verificare un vecchio terminale durante la visita. «Il mio team ha già promesso venerdì», aveva detto. Kyla gli aveva proposto quindici minuti con Malik e la persona che seguiva il collaudo, senza cambiare la scadenza. Gavin aveva accettato solo quando Kyla gli aveva assicurato che il tempo sarebbe comparso nel ticket. Lei non lo biasimava per aver difeso la squadra, ma aveva annotato anche il nome di chi avrebbe firmato la prova.
 
 La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
@@ -44,23 +44,23 @@ Sahir cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, q
 
 «No. Arrivano da Lanter, in Cina. Cyberdine è una software house. Noi scriviamo ciò che permette ai sistemi dei nostri clienti di lavorare insieme: quelli nuovi, quelli che nessuno vuole più toccare e quelli che funzionano troppo bene per permettersi di sostituirli.»
 
-All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Nico Valenti, con una custodia di attrezzi e una felpa chiusa fino al collo.
+All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Noah Carter, con una custodia di attrezzi e una felpa chiusa fino al collo.
 
-Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Nico ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
+Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Noah ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
-L'addetto aveva in mano una cartellina da consegnare al piano superiore. Nico gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
+L'addetto aveva in mano una cartellina da consegnare al piano superiore. Noah gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
 
 «Questo è un vostro programmatore?», chiese Sahir.
 
 «Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»
 
-Nico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
+Noah sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
 
-«Non ti scusare con me», gli disse Nico. «Al massimo con la porta. È lei che non fa quello che promette.»
+«Non ti scusare con me», gli disse Noah. «Al massimo con la porta. È lei che non fa quello che promette.»
 
-L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Nico si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
+L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Noah si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
 
-Kyla sapeva che Nico era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
+Kyla sapeva che Noah era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
 
 Il telefono vibrò nella tasca della giacca.
 

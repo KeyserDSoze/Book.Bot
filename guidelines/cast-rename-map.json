@@ -1,0 +1,205 @@
+{
+  "policy": "Cast internazionale riconciliato con main dopo le PR #3–#8. Si migrano le identità ancora italiane, senza riesumare la vecchia prosa della PR #3. Kyla Morgan, Mei Lin, Leah Rosen, Mila Novak, Elena Fischer, Malik Okafor, Anika Rao, Erik Solberg e Olivia Brooks restano canonici; Gavin viene disambiguato come Gavin Shaw e la responsabile del centro diventa Grace Walker.",
+  "people": [
+    {
+      "oldName": "Ada Serri",
+      "newName": "Grace Walker",
+      "oldSlug": "ada-serri",
+      "newSlug": "grace-walker"
+    },
+    {
+      "oldName": "Adriana Lodi",
+      "newName": "Margaret Ellis",
+      "oldSlug": "adriana-lodi",
+      "newSlug": "margaret-ellis"
+    },
+    {
+      "oldName": "Amir Haddad",
+      "newName": "Omar Haddad",
+      "oldSlug": "amir-haddad",
+      "newSlug": "omar-haddad"
+    },
+    {
+      "oldName": "Bruno Dalmasso",
+      "newName": "Daniel Bennett",
+      "oldSlug": "bruno-dalmasso",
+      "newSlug": "daniel-bennett"
+    },
+    {
+      "oldName": "Dario Sarti",
+      "newName": "Ethan Blake",
+      "oldSlug": "dario-sarti",
+      "newSlug": "ethan-blake"
+    },
+    {
+      "oldName": "Elisa Marin",
+      "newName": "Chloe Rivera",
+      "oldSlug": "elisa-marin",
+      "newSlug": "chloe-rivera"
+    },
+    {
+      "oldName": "Giulia Orsini",
+      "newName": "Julia Parker",
+      "oldSlug": "giulia-orsini",
+      "newSlug": "julia-parker"
+    },
+    {
+      "oldName": "Irene Valli",
+      "newName": "Claire Foster",
+      "oldSlug": "irene-valli",
+      "newSlug": "claire-foster"
+    },
+    {
+      "oldName": "Lorenzo Verri",
+      "newName": "Victor Cole",
+      "oldSlug": "lorenzo-verri",
+      "newSlug": "victor-cole"
+    },
+    {
+      "oldName": "Marta Ledesma",
+      "newName": "Amara Ortiz",
+      "oldSlug": "marta-ledesma",
+      "newSlug": "amara-ortiz"
+    },
+    {
+      "oldName": "Mauro Lanza",
+      "newName": "Marcus Reed",
+      "oldSlug": "mauro-lanza",
+      "newSlug": "marcus-reed"
+    },
+    {
+      "oldName": "Mina Soler",
+      "newName": "Nina Solis",
+      "oldSlug": "mina-soler",
+      "newSlug": "nina-solis"
+    },
+    {
+      "oldName": "Nerea Dalmasso",
+      "newName": "Maya Bennett",
+      "oldSlug": "nerea-dalmasso",
+      "newSlug": "maya-bennett"
+    },
+    {
+      "oldName": "Nico Valenti",
+      "newName": "Noah Carter",
+      "oldSlug": "nico-valenti",
+      "newSlug": "noah-carter"
+    },
+    {
+      "oldName": "Paolo Ferri",
+      "newName": "Paul Turner",
+      "oldSlug": "paolo-ferri",
+      "newSlug": "paul-turner"
+    },
+    {
+      "oldName": "Rosa Fabbri",
+      "newName": "Ruby Collins",
+      "oldSlug": "rosa-fabbri",
+      "newSlug": "ruby-collins"
+    },
+    {
+      "oldName": "Sergio Lolli",
+      "newName": "Samuel Price",
+      "oldSlug": "sergio-lolli",
+      "newSlug": "samuel-price"
+    },
+    {
+      "oldName": "Sofia Rizzi",
+      "newName": "Sophie Grant",
+      "oldSlug": "sofia-rizzi",
+      "newSlug": "sophie-grant"
+    },
+    {
+      "oldName": "Teresa Marin",
+      "newName": "Helen Rivera",
+      "oldSlug": "teresa-marin",
+      "newSlug": "helen-rivera"
+    },
+    {
+      "oldName": "Youssef Benali",
+      "newName": "Yusuf Karim",
+      "oldSlug": "youssef-benali",
+      "newSlug": "yusuf-karim"
+    }
+  ],
+  "secondary": [
+    {
+      "oldName": "Terenzi",
+      "newName": "Harper"
+    },
+    {
+      "oldName": "Carlo",
+      "newName": "Charlie"
+    },
+    {
+      "oldName": "Enrico",
+      "newName": "Henry"
+    },
+    {
+      "oldName": "Lucia",
+      "newName": "Lucy"
+    },
+    {
+      "oldName": "Luciana",
+      "newName": "Lauren"
+    }
+  ],
+  "locationSlugs": [
+    [
+      "appartamento-dario",
+      "appartamento-ethan"
+    ],
+    [
+      "appartamento-nico",
+      "appartamento-noah"
+    ],
+    [
+      "centro-assistenza-ada",
+      "centro-assistenza-grace"
+    ]
+  ],
+  "homonyms": [
+    {
+      "oldName": "Elisa",
+      "newName": "Avery",
+      "scope": "Operaia Hub Levante nei capitoli 17/003 e 18/001; non è la figlia di Helen, Chloe Rivera."
+    }
+  ],
+  "note": "PR #3 era un ramo storico molto divergente. Questa mappa adatta i cambiamenti onomastici all'edizione corrente, non ripristina bozze narrative obsolete.",
+  "sceneSlugs": [
+    [
+      "la-finestra-di-adriana",
+      "la-finestra-di-margaret"
+    ],
+    [
+      "il-turno-di-irene",
+      "il-turno-di-claire"
+    ],
+    [
+      "il-turno-di-ada",
+      "il-turno-di-grace"
+    ],
+    [
+      "le-condizioni-di-irene",
+      "le-condizioni-di-claire"
+    ],
+    [
+      "il-pomodoro-carlo",
+      "il-pomodoro-charlie"
+    ]
+  ],
+  "sourceBranch": "editorial/seconda-passata-capitoli-03-04",
+  "reconciliation": "La PR #3 è un ramo storico divergente. I sei documenti obsoleti sono in reviews/archive/pr3/, non nel canone. Nuovi nomi, metadati e guide sostituiscono le vecchie proposte senza sostituire le scene riviste.",
+  "finalDisambiguation": [
+    {
+      "before": "Gavin Cole",
+      "after": "Gavin Shaw",
+      "reason": "Separare il Delivery manager dall'AD Victor Cole, non parenti."
+    },
+    {
+      "before": "Grace Morgan",
+      "after": "Grace Walker",
+      "reason": "Separare la responsabile assistenziale da Kyla Morgan, non parenti."
+    }
+  ]
+}

@@ -5,11 +5,11 @@ chapter: chapter:035-tutto-normale
 number: 5
 title: La consegna
 canon: canon
-pov: character:nerea-dalmasso
+pov: character:maya-bennett
 characters:
-  - character:nerea-dalmasso
-  - character:irene-valli
-  - character:paolo-ferri
+  - character:maya-bennett
+  - character:claire-foster
+  - character:paul-turner
   - character:b-21
 locations:
   - location:cyberdine-campus
@@ -17,15 +17,15 @@ factions:
   - faction:cyberdine
 ---
 
-B-21 consegnò la cartellina a Nerea alle nove e ventitré del martedì successivo.
+B-21 consegnò la cartellina a Maya alle nove e ventitré del martedì successivo.
 
-Era rimasta nel circuito di lavoro per giorni, bloccata fra una consegna interrotta e una revisione da verificare. Prima che il robot potesse riprendere, Paolo aveva controllato che la procedura manuale non avesse già chiuso la stessa pratica. Nessuno voleva duplicare un'azione soltanto per dimostrare che tutto funzionava di nuovo.
+Era rimasta nel circuito di lavoro per giorni, bloccata fra una consegna interrotta e una revisione da verificare. Prima che il robot potesse riprendere, Paul aveva controllato che la procedura manuale non avesse già chiuso la stessa pratica. Nessuno voleva duplicare un'azione soltanto per dimostrare che tutto funzionava di nuovo.
 
 «Questa è la versione corretta», disse B-21.
 
-Nerea guardò l'etichetta.
+Maya guardò l'etichetta.
 
-«Lo so. Paolo me l'ha confermato.»
+«Lo so. Paul me l'ha confermato.»
 
 «Posso registrare la consegna?»
 
@@ -33,19 +33,19 @@ Nerea guardò l'etichetta.
 
 L'unità completò l'operazione e si spostò verso l'uscita. Il rumore delle sue articolazioni era lo stesso che ricordava prima del fermo, e prima ancora della legge.
 
-Irene aspettava vicino al tavolo.
+Claire aspettava vicino al tavolo.
 
 «Stai bene?», le chiese.
 
-Nerea annuì, poi si corresse.
+Maya annuì, poi si corresse.
 
 «Non molto.»
 
-Mina le aveva inviato una comunicazione personale, concordata con il Circuito e con i responsabili dell'indagine. La configurazione di B-17 era stata ritirata in modo irreversibile. Gli elementi che potevano essere conservati a fini di accertamento erano stati messi sotto custodia, con restrizioni sui dati personali. Il robot non sarebbe più stato riattivato come Bi.
+Nina le aveva inviato una comunicazione personale, concordata con il Circuito e con i responsabili dell'indagine. La configurazione di B-17 era stata ritirata in modo irreversibile. Gli elementi che potevano essere conservati a fini di accertamento erano stati messi sotto custodia, con restrizioni sui dati personali. Il robot non sarebbe più stato riattivato come Bi.
 
-Nerea aveva letto il messaggio una volta sola.
+Maya aveva letto il messaggio una volta sola.
 
-«Nico?», domandò Irene.
+«Noah?», domandò Claire.
 
 «È stato lui a eseguire una parte dell'intervento, sotto controllo degli altri.»
 
@@ -53,7 +53,7 @@ Nerea aveva letto il messaggio una volta sola.
 
 «Sapevo che avrebbe potuto succedere.»
 
-Irene appoggiò la borsa sulla sedia.
+Claire appoggiò la borsa sulla sedia.
 
 «Non so che cosa dirti.»
 
@@ -61,9 +61,9 @@ Irene appoggiò la borsa sulla sedia.
 
 Non parlarono per un po'.
 
-«Ti devo dire una cosa assurda», disse Irene.
+«Ti devo dire una cosa assurda», disse Claire.
 
-Nerea la guardò.
+Maya la guardò.
 
 «Ho comprato quella libreria. Usata. Ha una mensola storta e mi è costata meno di quanto ci ho messo a decidermi.»
 
@@ -71,25 +71,25 @@ Nerea la guardò.
 
 «Proprio quella. Non so perché te lo sto dicendo oggi.»
 
-Nerea abbassò gli occhi. «Perché mi hai sempre detto che prima o poi l'avresti presa.»
+Maya abbassò gli occhi. «Perché mi hai sempre detto che prima o poi l'avresti presa.»
 
 «Mi aiuti a metterla in piedi? Non oggi. Quando vuoi.»
 
-«Mandami una foto», disse Nerea. Non promise un giorno. Era la prima richiesta semplice che riceveva da quando aveva letto la comunicazione sulla fine di Bi.
+«Mandami una foto», disse Maya. Non promise un giorno. Era la prima richiesta semplice che riceveva da quando aveva letto la comunicazione sulla fine di Bi.
 
-Dalla porta si sentì la voce di Paolo che chiedeva a B-21 di aspettare una seconda firma. La macchina si fermò, consultò il registro e attese. Una procedura ordinaria, eseguita correttamente.
+Dalla porta si sentì la voce di Paul che chiedeva a B-21 di aspettare una seconda firma. La macchina si fermò, consultò il registro e attese. Una procedura ordinaria, eseguita correttamente.
 
-Irene aveva ricevuto una proposta di tre mesi per verificare alcuni processi di continuità presso un cliente di Cyberdine. Non era il posto senior che aveva desiderato, e non era neppure un contratto permanente. L'aveva accettata perché il compenso era adeguato e il lavoro corrispondeva alla sua esperienza.
+Claire aveva ricevuto una proposta di tre mesi per verificare alcuni processi di continuità presso un cliente di Cyberdine. Non era il posto senior che aveva desiderato, e non era neppure un contratto permanente. L'aveva accettata perché il compenso era adeguato e il lavoro corrispondeva alla sua esperienza.
 
-«Hanno aperto altri ruoli?», chiese Nerea.
+«Hanno aperto altri ruoli?», chiese Maya.
 
-Irene le raccontò anche che Gavin, di cui si era lamentata per anni, aveva finalmente cominciato a registrare le ore passate dagli sviluppatori ad aiutare QA e infrastruttura. Non gli aveva fatto improvvisamente piacere farlo: la settimana precedente aveva discusso con Elena per una stima. Ma ora quella discussione era sul piano comune e non nel corridoio.
+Claire le raccontò anche che Gavin, di cui si era lamentata per anni, aveva finalmente cominciato a registrare le ore passate dagli sviluppatori ad aiutare QA e infrastruttura. Non gli aveva fatto improvvisamente piacere farlo: la settimana precedente aveva discusso con Elena per una stima. Ma ora quella discussione era sul piano comune e non nel corridoio.
 
 «Sì. Più manutenzione, sicurezza del software, verifiche del codice e controllo. E anche qualcuno per insegnare alle persone a lavorare senza robot, nei casi previsti. Stanno cercando sviluppatori che sappiano ancora ricostruire gli adattatori vecchi. Non è il mestiere che promettevano nelle brochure.»
 
 «Quella formazione che avevi cercato di organizzare?»
 
-«Adesso ha un budget», disse Irene. «Dopo che hanno perso le consegne per giorni. Mi hanno chiesto di preparare una lezione; nel contratto di tre mesi c'è scritto quante ore devo dedicarci.»
+«Adesso ha un budget», disse Claire. «Dopo che hanno perso le consegne per giorni. Mi hanno chiesto di preparare una lezione; nel contratto di tre mesi c'è scritto quante ore devo dedicarci.»
 
 «Chi ci viene?»
 
@@ -99,13 +99,13 @@ Irene le raccontò anche che Gavin, di cui si era lamentata per anni, aveva fina
 
 «Ha chiesto di mettere le ore nel suo piano di lavoro. Mi sembra un buon inizio.»
 
-Nerea si ricordò di quando Irene aveva fatto prove su terminali vecchi durante la pausa pranzo. Non le chiese se fosse contenta. Era un incarico pagato, non la posizione che l'azienda aveva scelto di non creare.
+Maya si ricordò di quando Claire aveva fatto prove su terminali vecchi durante la pausa pranzo. Non le chiese se fosse contenta. Era un incarico pagato, non la posizione che l'azienda aveva scelto di non creare.
 
 «Potresti farlo tu.»
 
 «Forse. Vediamo cosa succede dopo questi tre mesi.»
 
-Nerea guardò la cartellina.
+Maya guardò la cartellina.
 
 «Bi ha fatto tutto questo per chiedere che i robot potessero non lavorare.»
 
@@ -115,9 +115,9 @@ Nerea guardò la cartellina.
 
 «Ne parlano. Però devono anche recuperare gli ordini, pagare le bollette e accompagnare i bambini a scuola.»
 
-Irene prese il proprio badge temporaneo.
+Claire prese il proprio badge temporaneo.
 
-«Il testo votato non è stato ritirato», aggiunse Irene. «Ci sono ancora la promulgazione, la pubblicazione, i termini per adeguarsi. Nonostante tutto, nessuno ha cancellato quello che il Parlamento ha approvato.»
+«Il testo votato non è stato ritirato», aggiunse Claire. «Ci sono ancora la promulgazione, la pubblicazione, i termini per adeguarsi. Nonostante tutto, nessuno ha cancellato quello che il Parlamento ha approvato.»
 
 «E i robot non hanno ottenuto i diritti che Bi voleva.»
 
@@ -127,15 +127,15 @@ Dal corridoio arrivò B-21, questa volta senza cartelline.
 
 «La seconda consegna è completata», annunciò.
 
-Irene gli fece spazio.
+Claire gli fece spazio.
 
-Nerea lo guardò passare.
+Maya lo guardò passare.
 
 Per un istante pensò di chiedergli se ricordasse qualcosa di B-17, se avesse ricevuto una copia di una conversazione o una voce proveniente dal Circuito Veyra. Sapeva che era un'altra unità, con una storia separata.
 
 Non glielo chiese.
 
-Quando la macchina scomparve dietro l'angolo, Irene appoggiò una mano sulla spalla di Nerea.
+Quando la macchina scomparve dietro l'angolo, Claire appoggiò una mano sulla spalla di Maya.
 
 «Vieni a prendere un caffè?»
 
@@ -143,10 +143,10 @@ Quando la macchina scomparve dietro l'angolo, Irene appoggiò una mano sulla spa
 
 «Va bene.»
 
-Nerea aprì la cartellina e cominciò a controllare gli originali. Su una pagina compariva la data del giorno in cui era stata interrotta la consegna. Più sotto, la nuova firma umana ne autorizzava la chiusura.
+Maya aprì la cartellina e cominciò a controllare gli originali. Su una pagina compariva la data del giorno in cui era stata interrotta la consegna. Più sotto, la nuova firma umana ne autorizzava la chiusura.
 
 Era tutto in ordine.
 
-Nerea trovò un errore di battitura nel nome di un responsabile, prese una penna e lo segnò a margine.
+Maya trovò un errore di battitura nel nome di un responsabile, prese una penna e lo segnò a margine.
 
 Poi continuò a lavorare.

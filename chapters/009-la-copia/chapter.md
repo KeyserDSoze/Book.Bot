@@ -5,10 +5,10 @@ number: 9
 title: La copia
 canon: canon
 pov:
-  - character:paolo-ferri
+  - character:paul-turner
   - character:elena-fischer
-  - character:irene-valli
-  - character:nerea-dalmasso
+  - character:claire-foster
+  - character:maya-bennett
 ---
 
 # Direzione
@@ -17,14 +17,14 @@ Circa un mese dopo la plenaria, arriva **B-21**, unità nuova esternamente indis
 
 # Beat
 
-1. Stessa faccia — Paolo partecipa all'arrivo e mette in servizio B-21; lo trova tecnicamente impeccabile e socialmente estraneo.
+1. Stessa faccia — Paul partecipa all'arrivo e mette in servizio B-21; lo trova tecnicamente impeccabile e socialmente estraneo.
 2. I compiti tornano a posto — Elena verifica i dossier; il flusso recupera efficienza, ma c'è un posto vuoto nelle conversazioni che nessuna dashboard vede.
-3. Il turno di Irene — Irene usa il robot nuovo, riconosce i vantaggi e si accorge che può essere efficace senza che questo restituisca né il posto senior né Bi.
-4. Non chiamarlo così — Nerea raggiunge la stanza della carta di sera; davanti alla copia prova il soprannome «Bi», ma la risposta rivela che sta parlando a un'altra unità.
+3. Il turno di Claire — Claire usa il robot nuovo, riconosce i vantaggi e si accorge che può essere efficace senza che questo restituisca né il posto senior né Bi.
+4. Non chiamarlo così — Maya raggiunge la stanza della carta di sera; davanti alla copia prova il soprannome «Bi», ma la risposta rivela che sta parlando a un'altra unità.
 
 # Continuità
 
-Dario e Mauro non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Nerea restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti.
+Ethan e Marcus non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Maya restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti.
 
 ## Revisione di continuità v0.32.0
 
@@ -37,4 +37,4 @@ La scena 2 è stata riscritta: B-21 ricostruisce correttamente dossier, fonti e 
 
 ## Ottava review — il lavoro che torna facile non riapre la carriera
 
-B-21 riprende mansioni ordinarie e fa bene il proprio lavoro. Irene prova che la procedura per recuperare le fonti funziona anche senza il proprio appunto, ma la formazione su larga scala è ancora fuori dal calendario definitivo per mancanza di ore formalmente allocate. Il nodo del posto senior resta irrisolto; distinguere successo operativo, competenza e riconoscimento organizzativo.
+B-21 riprende mansioni ordinarie e fa bene il proprio lavoro. Claire prova che la procedura per recuperare le fonti funziona anche senza il proprio appunto, ma la formazione su larga scala è ancora fuori dal calendario definitivo per mancanza di ore formalmente allocate. Il nodo del posto senior resta irrisolto; distinguere successo operativo, competenza e riconoscimento organizzativo.

@@ -14,11 +14,11 @@ Le schede canoniche rimangono in characters/. Un dettaglio grafico non menzionat
 
 **B-21**: stessa forma di base di B-17, ma è una diversa unità senza le sue memorie; **nessuna spalla riparata come quella di Bi**. L'eventuale codice identificativo deve rispettare la scena.
 
-**Nico Valenti**: postura concentrata, mani, quaderno di prove, lampada smontata. Non inventare una fisionomia diversa per ogni capitolo o attribuirgli come canoniche età e caratteristiche non dichiarate. Se appare un volto realistico, va fissato prima con una tavola approvata.
+**Noah Carter**: postura concentrata, mani, quaderno di prove, lampada smontata. Non inventare una fisionomia diversa per ogni capitolo o attribuirgli come canoniche età e caratteristiche non dichiarate. Se appare un volto realistico, va fissato prima con una tavola approvata.
 
-**Nerea Dalmasso**: chiave d'ottone, documenti e gesto di stringere la chiave. Il volto, se necessario, deve provenire sempre da una stessa immagine di riferimento approvata. Non ridurre il personaggio a una figura generica che osserva Bi.
+**Maya Bennett**: chiave d'ottone, documenti e gesto di stringere la chiave. Il volto, se necessario, deve provenire sempre da una stessa immagine di riferimento approvata. Non ridurre il personaggio a una figura generica che osserva Bi.
 
-**Irene Valli**: prove, cartelle e responsabilità delle eccezioni. **Mei Lin**: verifiche di qualità e impianti. **Ada Serri**: presenza nella cura. **Teresa Marin**: pomodori e scelta di compagnia, mai ritratto passivo o stereotipato.
+**Claire Foster**: prove, cartelle e responsabilità delle eccezioni. **Mei Lin**: verifiche di qualità e impianti. **Grace Walker**: presenza nella cura. **Helen Rivera**: pomodori e scelta di compagnia, mai ritratto passivo o stereotipato.
 
 ## Coerenza fra illustrazioni generate
 

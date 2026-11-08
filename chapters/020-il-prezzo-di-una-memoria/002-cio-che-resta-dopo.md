@@ -8,7 +8,7 @@ canon: canon
 pov: character:mei-lin
 characters:
   - character:mei-lin
-  - character:mina-soler
+  - character:nina-solis
 locations:
   - location:uffici-lanter
 factions:
@@ -38,9 +38,9 @@ Il collega aggiunse una casella nel rapporto: *conservazione dati tecnici*. Mei 
 
 Lanter conosceva già quella differenza attraverso B-21, il robot sostitutivo arrivato a Cyberdine. Il corpo identico non aveva restituito le interazioni di B-17.
 
-Sul monitor si aprì la connessione con Mina.
+Sul monitor si aprì la connessione con Nina.
 
-«Abbiamo sospeso le dimostrazioni», disse la coordinatrice. «Marta ha accettato di perdere la prossima sessione. Ma ci serve sapere quali verifiche possiamo fare senza distruggere l'unica configurazione che abbiamo.»
+«Abbiamo sospeso le dimostrazioni», disse la coordinatrice. «Amara ha accettato di perdere la prossima sessione. Ma ci serve sapere quali verifiche possiamo fare senza distruggere l'unica configurazione che abbiamo.»
 
 Mei le mostrò le tre colonne.
 
@@ -50,13 +50,13 @@ Mei le mostrò le tre colonne.
 
 «Ci darebbe un riferimento verificabile per le funzioni standard, ma non promette la conservazione delle capacità conversazionali osservate. Né possiamo semplicemente copiarle su un altro robot, come si copia un elenco di contatti.»
 
-Mina guardò il foglio.
+Nina guardò il foglio.
 
 «Possiamo almeno salvare ciò che è legittimo conservare?»
 
 «Possiamo definire una procedura di conservazione delle evidenze tecniche, separando i dati personali e coinvolgendo chi ne ha titolo. Non voglio che una pratica di sicurezza diventi un altro trasferimento di materiale senza consenso.»
 
-«Abbiamo appena imparato quanto costa farlo male», disse Mina.
+«Abbiamo appena imparato quanto costa farlo male», disse Nina.
 
 Mei ricevette dal referente una risposta preliminare: fino alla verifica dei permessi, il nuovo archivio non avrebbe incluso i messaggi individuali. Non era una soluzione per la lettera già trapelata, ma evitava di riaprire lo stesso accesso in una forma più ordinata.
 
@@ -66,7 +66,7 @@ Mei ricevette dal referente una risposta preliminare: fino alla verifica dei per
 
 «No.»
 
-Mina annuì. Sullo schermo, alle sue spalle, un tecnico stava spostando un contenitore nel corridoio del campo. La vita del centro continuava anche con la sua macchina più famosa sospesa.
+Nina annuì. Sullo schermo, alle sue spalle, un tecnico stava spostando un contenitore nel corridoio del campo. La vita del centro continuava anche con la sua macchina più famosa sospesa.
 
 «Quanto durerà?», chiese.
 
@@ -74,7 +74,7 @@ Mei guardò la terza colonna, quella quasi vuota.
 
 «Non posso darti una data affidabile oggi.»
 
-Prima di chiudere, Mina le chiese se potevano autorizzare un'ultima comunicazione privata da B-17. La lettera di Nerea era stata consegnata, e il robot aveva chiesto di rispondere prima della nuova sospensione.
+Prima di chiudere, Nina le chiese se potevano autorizzare un'ultima comunicazione privata da B-17. La lettera di Maya era stata consegnata, e il robot aveva chiesto di rispondere prima della nuova sospensione.
 
 Mei separò subito le questioni.
 
@@ -84,7 +84,7 @@ Mei separò subito le questioni.
 
 «Sì, come interazione mediata e documentata, se le persone responsabili lo approvano. Non come nuovo servizio di messaggistica del robot.»
 
-Mina ringraziò.
+Nina ringraziò.
 
 Mei chiuse la chiamata e tornò alle colonne. Un collega le suggerì di aggiungere una riga al rapporto: *Impatto potenziale sulle capacità non standard*.
 

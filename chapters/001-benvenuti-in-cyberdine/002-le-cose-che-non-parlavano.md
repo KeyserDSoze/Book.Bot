@@ -92,6 +92,6 @@ Uscendo dal laboratorio incrociarono B-17. Veniva dal giardino con un contenitor
 
 B-17 attraversò il corridoio senza voltarsi. Dietro di lui una porta si chiuse con il piccolo rumore di una serratura in funzione.
 
-Nico, davanti al vecchio varco che stavano ancora riparando, aveva ottenuto finalmente una apertura corretta. Non celebrò. Chiese all'addetto di ripetere l'operazione, questa volta senza il suo intervento.
+Noah, davanti al vecchio varco che stavano ancora riparando, aveva ottenuto finalmente una apertura corretta. Non celebrò. Chiese all'addetto di ripetere l'operazione, questa volta senza il suo intervento.
 
 Kyla lo osservò per un istante prima di seguire gli ospiti.

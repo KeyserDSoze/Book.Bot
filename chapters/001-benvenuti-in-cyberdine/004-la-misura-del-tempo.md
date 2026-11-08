@@ -88,7 +88,7 @@ Leïa indicò la parte evidenziata.
 
 Kyla inoltrò il ticket al referente, aggiungendo una domanda: *Nel test voglio vedere almeno un'alternativa esclusa che il revisore decide di recuperare. Altrimenti proveremo soltanto che il sistema sa spiegare se stesso.*
 
-Aveva scritto quella frase pensando al varco che Nico aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
+Aveva scritto quella frase pensando al varco che Noah aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
 
 «Mi sembra che stiate facendo diventare tutti responsabili», disse Sahir.
 
@@ -108,4 +108,8 @@ Pensò a Malik, che poco prima aveva fermato una patch davanti al cliente per ri
 
 Le porte di vetro si richiusero. Kyla controllò l'ora, scoprì di avere finito in anticipo e pensò ai popcorn comprati dall'amica.
 
-Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla inviò a Gavin e Malik una richiesta per un incontro tecnico con Aruvhana, indicando esplicitamente che il cliente voleva aprire il sorgente e vedere una prova sul terminale reale, non una dimostrazione degli agenti. Era una richiesta con un costo, e non lo cancellò dal calendario. Poi abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.
+Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla aprì la richiesta per l'incontro tecnico con Aruvhana. Indicò due ore di Malik sul sorgente e un'ora per preparare il terminale e la prova, senza chiamarle «visita commerciale»: non avrebbe potuto farle comparire come tempo risparmiato. Il sistema segnalò che le ore di Delivery disponibili prima di venerdì erano già impegnate.
+
+Inviò comunque la richiesta a Gavin e Malik, lasciando visibile il conflitto con la consegna. Nel campo *data confermata* non scrisse nulla. Si appuntò di chiedere al responsabile di commessa come coprire la prova; era la stessa voce di costo che le mancava per la formazione sul codice storico.
+
+Poi abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.

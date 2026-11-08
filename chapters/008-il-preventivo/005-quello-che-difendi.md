@@ -5,9 +5,9 @@ chapter: chapter:008-il-preventivo
 number: 5
 title: Quello che difendi
 canon: canon
-pov: character:gavin-cole
+pov: character:gavin-shaw
 characters:
-  - character:gavin-cole
+  - character:gavin-shaw
   - character:kyla
 locations:
   - location:cyberdine-campus
@@ -15,9 +15,9 @@ factions:
   - faction:cyberdine
 ---
 
-Gavin Cole aveva aspettato quasi quattro settimane per chiedere quei dieci minuti.
+Gavin Shaw aveva aspettato quasi quattro settimane per chiedere quei dieci minuti.
 
-Il giorno della plenaria, quando Verri aveva annunciato che Kyla era diventata azionista, Gavin non aveva applaudito. Si era promesso che avrebbe parlato con lei una volta raccolti i numeri, non nel momento in cui la gelosia avrebbe trasformato qualsiasi frase in un'offesa.
+Il giorno della plenaria, quando Cole aveva annunciato che Kyla era diventata azionista, Gavin non aveva applaudito. Si era promesso che avrebbe parlato con lei una volta raccolti i numeri, non nel momento in cui la gelosia avrebbe trasformato qualsiasi frase in un'offesa.
 
 Ora la sua cartellina portava un titolo scelto con cura: *Contributo Delivery — impatto interfunzionale*. Tre rilasci puntuali, due incidenti notturni risolti, centoventi ore aggiuntive coperte dalla sua squadra. C'erano nomi, non solo grafici. Gavin conosceva i problemi di ciascun collega e, quando un giovane sviluppatore doveva tornare a casa per il compleanno di sua figlia, gli copriva personalmente il turno.
 
@@ -33,7 +33,7 @@ Lei stava correggendo una comunicazione sui turni temporanei di continuità. Non
 
 Gavin aprì la cartellina. «Questo è quello che abbiamo consegnato. Il mio gruppo è più rapido di un anno fa, commette meno errori e non abbandona i clienti alle sei. Voglio sapere come si diventa soci di questa azienda. Se dipende da quanto uno dà, che cosa non ho dato?»
 
-«Il lavoro che avete fatto è vero», rispose Kyla. «Ma diventare azionisti non è una promozione decisa dall'HR. Lorenzo ha ceduto a me delle azioni che possedeva. Nessun grafico obbliga un azionista a fare la stessa cosa per altri.»
+«Il lavoro che avete fatto è vero», rispose Kyla. «Ma diventare azionisti non è una promozione decisa dall'HR. Victor ha ceduto a me delle azioni che possedeva. Nessun grafico obbliga un azionista a fare la stessa cosa per altri.»
 
 «D'accordo. Ma perché tu?»
 
@@ -51,15 +51,15 @@ Kyla girò la cartellina verso di sé. Gavin la riprese, poi esitò e la lasciò
 
 «Diventa un problema se del resto dell'azienda non ti importa niente.»
 
-Gavin chiuse gli occhi per un momento. «Non è vero. Mi importa che il resto non faccia perdere tempo ai miei. L'altro giorno Irene voleva una prova aggiuntiva su un registro vecchio. Malik aveva una release da completare. Il ticket era verde.»
+Gavin chiuse gli occhi per un momento. «Non è vero. Mi importa che il resto non faccia perdere tempo ai miei. L'altro giorno Claire voleva una prova aggiuntiva su un registro vecchio. Malik aveva una release da completare. Il ticket era verde.»
 
-«Il ticket era verde per i casi previsti. Il documento che Irene cercava non c'era. Lei, Malik e Paolo hanno dovuto riaprire il codice e provare un terminale vero per capire un'identificazione sbagliata.»
+«Il ticket era verde per i casi previsti. Il documento che Claire cercava non c'era. Lei, Malik e Paul hanno dovuto riaprire il codice e provare un terminale vero per capire un'identificazione sbagliata.»
 
 «E dovrei gestire io anche gli archivi?»
 
 «No. Vorrei che non chiamassi inefficienza altrui il costo che la tua stima non aveva incluso.»
 
-Kyla mostrò le ore di continuità: Elena aveva recuperato originali, Paolo aveva verificato apparati, Irene aveva corretto il caso di prova. Il gruppo di Gavin aveva consegnato puntualmente, ma il problema non era finito al passaggio di consegne.
+Kyla mostrò le ore di continuità: Elena aveva recuperato originali, Paul aveva verificato apparati, Claire aveva corretto il caso di prova. Il gruppo di Gavin aveva consegnato puntualmente, ma il problema non era finito al passaggio di consegne.
 
 «I miei lavorano bene», disse Gavin.
 
@@ -95,7 +95,7 @@ Gavin riaprì il fascicolo. Una colonna riportava *Dipendenze esterne*. L'aveva 
 
 «Puoi cominciare da lì. Poi lasciargli contestare i numeri. Come hai fatto tu con i miei.»
 
-Non gli piacque la risposta. Sapeva tuttavia che se avesse chiesto a Elena i tempi del recupero degli originali, Elena glieli avrebbe dati. Se avesse chiesto a Paolo di mostrargli il terminale, Paolo avrebbe spiegato perché il test verde non bastava.
+Non gli piacque la risposta. Sapeva tuttavia che se avesse chiesto a Elena i tempi del recupero degli originali, Elena glieli avrebbe dati. Se avesse chiesto a Paul di mostrargli il terminale, Paul avrebbe spiegato perché il test verde non bastava.
 
 «Non ti prometto che sarò d'accordo», disse.
 

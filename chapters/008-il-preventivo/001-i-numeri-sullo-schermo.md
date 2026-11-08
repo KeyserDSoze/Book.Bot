@@ -8,20 +8,20 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:lorenzo-verri
-  - character:irene-valli
-  - character:paolo-ferri
+  - character:victor-cole
+  - character:claire-foster
+  - character:paul-turner
   - character:mila-novak
-  - character:nerea-dalmasso
-  - character:nico-valenti
-  - character:gavin-cole
+  - character:maya-bennett
+  - character:noah-carter
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Lorenzo Verri aveva la pessima abitudine di lasciare la slide più importante per ultima.
+Victor Cole aveva la pessima abitudine di lasciare la slide più importante per ultima.
 
 Kyla lo sapeva perché lavorava con lui da abbastanza tempo da riconoscere il momento in cui smetteva di guardare le righe e cominciava a guardare la sala. Alla plenaria di quel giovedì c'erano duecento sedie, centottantasei persone e una fila di colleghi in piedi lungo la parete. Al centro, sotto lo schermo, una brocca d'acqua che nessuno aveva toccato.
 
@@ -29,17 +29,17 @@ Non c'era un robot in vista.
 
 Era passato abbastanza tempo dall'aggressione perché l'azienda avesse riaperto regolarmente il corridoio di servizio e distribuito i fascicoli che Bi trasportava quella sera. Non abbastanza perché tutti smettessero di abbassare la voce quando ne parlavano.
 
-Cinque minuti prima, dietro il telo che separava il palco dalla sala, Verri aveva chiesto a Kyla se la camicia gli si fosse macchiata di caffè. Lei aveva controllato il colletto.
+Cinque minuti prima, dietro il telo che separava il palco dalla sala, Cole aveva chiesto a Kyla se la camicia gli si fosse macchiata di caffè. Lei aveva controllato il colletto.
 
 «È pulita.»
 
 «Sei sicura?»
 
-«Lorenzo, nessuno è venuto per vedere il tuo colletto.»
+«Victor, nessuno è venuto per vedere il tuo colletto.»
 
 «Io sì», aveva risposto lui, e aveva cercato di sorridere. Kyla aveva capito che era nervoso. Le era parso quasi rassicurante, poi si era irritata perché toccava a lei tranquillizzarlo proprio nella giornata in cui avrebbe dovuto spiegare ai colleghi decisioni dure.
 
-Verri salì sul piccolo palco con il telecomando nella mano sinistra e un foglio piegato nella destra.
+Cole salì sul piccolo palco con il telecomando nella mano sinistra e un foglio piegato nella destra.
 
 «Partiamo dai numeri.»
 
@@ -47,11 +47,11 @@ Durante la preparazione Kyla aveva tenuto aperto un articolo di **Olivia Brooks*
 
 Sullo schermo apparvero quattro indicatori. Il primo occupava quasi metà slide: **ricavi di competenza +11%** nel trimestre rispetto al confronto. Seguivano l'aumento degli ordini, il calo degli errori di trascrizione e tempi medi più brevi.
 
-«Un trimestre di crescita», disse Verri. «E non soltanto perché i robot fanno le commissioni: il nostro prodotto è software, e il software lo stiamo vendendo.»
+«Un trimestre di crescita», disse Cole. «E non soltanto perché i robot fanno le commissioni: il nostro prodotto è software, e il software lo stiamo vendendo.»
 
 Kyla ricordava la pagina che avevano tolto dalla presentazione principale. Gli **incassi erano scesi del nove per cento** nello stesso confronto, diversi clienti pagavano tardi e il costo delle rilavorazioni sui connettori storici superava le previsioni. Nessuna cifra sullo schermo era inventata. Le altre esistevano nel fascicolo completo, raggiungibile da un collegamento piccolo in fondo alla pagina. Lei aveva accettato quella gerarchia dei numeri senza discutere abbastanza.
 
-«Non è una catastrofe», aggiunse Verri. «Ma non intendo chiamare normalità un arretrato solo perché abbiamo imparato a conviverci.»
+«Non è una catastrofe», aggiunse Cole. «Ma non intendo chiamare normalità un arretrato solo perché abbiamo imparato a conviverci.»
 
 Kyla annotò la frase. Era precisa, e i colleghi avrebbero potuto riconoscere in essa la propria fatica.
 
@@ -61,25 +61,25 @@ Il risultato era stato buono. La slide sui difetti riaperti dopo il rilascio, pe
 
 Il grafico successivo misurava il tempo speso a verificare allegati, recuperare versioni precedenti e accertare che una firma corrispondesse alla revisione corretta. Kyla ricordava le discussioni necessarie per costruire quei dati: ciò che compariva sullo schermo era una sintesi, non tutto il lavoro che serviva a renderla attendibile.
 
-«Abbiamo risparmiato molto lavoro ripetitivo», proseguì Verri. «Questo ci ha dato margine per attività più qualificate. Alcuni di voi hanno potuto chiudere prima, tornare in famiglia, concentrarsi su problemi veri. Non intendo fingere che non sia un risultato.»
+«Abbiamo risparmiato molto lavoro ripetitivo», proseguì Cole. «Questo ci ha dato margine per attività più qualificate. Alcuni di voi hanno potuto chiudere prima, tornare in famiglia, concentrarsi su problemi veri. Non intendo fingere che non sia un risultato.»
 
-Un mormorio attraversò la sala. Kyla riconobbe la testa di Mila tra le persone sedute in seconda fila. Paolo era più indietro, appoggiato alla parete con le braccia incrociate.
+Un mormorio attraversò la sala. Kyla riconobbe la testa di Mila tra le persone sedute in seconda fila. Paul era più indietro, appoggiato alla parete con le braccia incrociate.
 
-«Il risultato ha avuto anche dei costi», disse Verri. «Abbiamo ridisegnato alcuni ruoli. Alcune opportunità non sono nate dove pensavamo sarebbero nate. Di questo dobbiamo continuare a rispondere.»
+«Il risultato ha avuto anche dei costi», disse Cole. «Abbiamo ridisegnato alcuni ruoli. Alcune opportunità non sono nate dove pensavamo sarebbero nate. Di questo dobbiamo continuare a rispondere.»
 
-Irene Valli guardava lo schermo senza muoversi. Kyla la vide dall'angolo della sala e trattenne l'impulso di cercare nel suo volto un segno di approvazione. Irene non era lì per rassicurare il Marketing.
+Claire Foster guardava lo schermo senza muoversi. Kyla la vide dall'angolo della sala e trattenne l'impulso di cercare nel suo volto un segno di approvazione. Claire non era lì per rassicurare il Marketing.
 
-Verri passò alla tabella successiva.
+Cole passò alla tabella successiva.
 
 «Abbiamo anche un problema di continuità operativa. Quando una unità non è disponibile, non possiamo scoprire in quel momento che nessuno sa più dove si trova il registro originale di una pratica. Abbiamo avviato controlli incrociati e nuove procedure di recupero manuale. Li dovremo completare.»
 
-Paolo fece un piccolo cenno. Kyla lo conosceva abbastanza da sapere che quel punto gli sembrava finalmente concreto.
+Paul fece un piccolo cenno. Kyla lo conosceva abbastanza da sapere che quel punto gli sembrava finalmente concreto.
 
-Per quaranta minuti Verri parlò di turni, margini, qualità, autorizzazioni e formazione. Rispose a una domanda sulle ore straordinarie: sarebbero state registrate, non date per scontate. A una collega che chiedeva se la formazione avrebbe prodotto nuovi posti senior disse che non poteva promettere un organigramma futuro. Il tono della risposta non piacque a molti; Kyla apprezzò almeno che non si travestisse da promessa.
+Per quaranta minuti Cole parlò di turni, margini, qualità, autorizzazioni e formazione. Rispose a una domanda sulle ore straordinarie: sarebbero state registrate, non date per scontate. A una collega che chiedeva se la formazione avrebbe prodotto nuovi posti senior disse che non poteva promettere un organigramma futuro. Il tono della risposta non piacque a molti; Kyla apprezzò almeno che non si travestisse da promessa.
 
-Gavin Cole, responsabile Delivery, richiuse una cartellina che conteneva tre rilasci completati in anticipo. Aveva tenuto in piedi il proprio gruppo durante due incidenti notturni e difeso le scadenze anche quando un altro reparto chiedeva verifiche ulteriori. Si aspettava, quantomeno, che quel lavoro venisse nominato.
+Gavin Shaw, responsabile Delivery, richiuse una cartellina che conteneva tre rilasci completati in anticipo. Aveva tenuto in piedi il proprio gruppo durante due incidenti notturni e difeso le scadenze anche quando un altro reparto chiedeva verifiche ulteriori. Si aspettava, quantomeno, che quel lavoro venisse nominato.
 
-Verri posò il telecomando.
+Cole posò il telecomando.
 
 «Prima delle ultime comunicazioni operative ho una notizia societaria.»
 
@@ -87,77 +87,77 @@ Kyla abbassò gli occhi sulla penna. Aveva firmato gli atti una settimana prima,
 
 «Ho trasferito a Kyla Morgan l'uno virgola cinque per cento delle azioni che possedevo. L'accordo è perfezionato. Kyla rimane responsabile HR e Marketing e, da oggi, è anche azionista della società.»
 
-Gli applausi partirono in punti diversi. Mila si alzò con un «Era ora!» tanto forte che alcune persone in ultima fila si voltarono prima di capire il motivo. Paolo applaudì ridendo. Gavin non mosse le mani.
+Gli applausi partirono in punti diversi. Mila si alzò con un «Era ora!» tanto forte che alcune persone in ultima fila si voltarono prima di capire il motivo. Paul applaudì ridendo. Gavin non mosse le mani.
 
-Verri invitò Kyla a dire qualche parola.
+Cole invitò Kyla a dire qualche parola.
 
-«Non sono diventata più brava questa mattina», esordì lei. «E non sono stata promossa a un titolo nuovo: ho acquisito una partecipazione che Lorenzo ha deciso di cedermi. Sono due cose diverse.»
+«Non sono diventata più brava questa mattina», esordì lei. «E non sono stata promossa a un titolo nuovo: ho acquisito una partecipazione che Victor ha deciso di cedermi. Sono due cose diverse.»
 
 Aspettò che cessassero i mormorii.
 
 «Molti mi chiedono come si cresca in Cyberdine. Posso dirvi che cosa mi ha aiutata, ma non posso promettere azioni a ogni persona che lavora bene. La proprietà è un atto distinto dalle valutazioni, e la decisione spetta agli azionisti. Sul lavoro, invece, possiamo avere criteri chiari. Fare bene la propria parte è il punto di partenza. Poi viene il momento in cui il problema del gruppo accanto diventa anche il nostro, perché un cliente non compra le nostre scuse organizzative: compra un programma che deve funzionare.»
 
-Kyla raccontò della visita Aruvhana, del terminale reale che avrebbe smentito un test verde, del tempo che Malik aveva dovuto chiedere per fermare una consegna, del registro recuperato da Irene e delle attività che Paolo svolgeva senza comparire mai nelle slide commerciali.
+Kyla raccontò della visita Aruvhana, del terminale reale che avrebbe smentito un test verde, del tempo che Malik aveva dovuto chiedere per fermare una consegna, del registro recuperato da Claire e delle attività che Paul svolgeva senza comparire mai nelle slide commerciali.
 
 «Se volete crescere, imparate a capire che cosa consegnate agli altri. Documentate una decisione in modo che un collega possa rifarla. Formate chi un giorno potrebbe sostituirvi. Non usate il vostro indicatore verde per dichiarare chiuso un rischio che è finito soltanto sulla scrivania di qualcun altro. Si può riconoscere quel contributo anche quando non produce nuove azioni.»
 
-Irene la ascoltava dalla fila centrale senza sorridere. Kyla avvertì che un discorso sulla crescita detto da chi aveva dovuto comunicarle la soppressione del posto senior poteva suonare crudele. Non trovò una frase che lo rendesse meno vero.
+Claire la ascoltava dalla fila centrale senza sorridere. Kyla avvertì che un discorso sulla crescita detto da chi aveva dovuto comunicarle la soppressione del posto senior poteva suonare crudele. Non trovò una frase che lo rendesse meno vero.
 
 Tornò al suo posto. Gavin guardò la pagina dei risultati del proprio team e riprese la penna.
 
-Verri riaccese il microfono.
+Cole riaccese il microfono.
 
 «Restano due comunicazioni di servizio, poi vi lascio tornare al lavoro.»
 
 La sala cambiò postura. Non era un movimento simultaneo. Qualcuno smise di far scorrere il telefono. Una donna nell'ultima fila appoggiò i piedi a terra e raddrizzò la schiena.
 
-«La prima riguarda i fatti avvenuti nel corridoio di servizio e il danneggiamento di una unità robotica. Gli accertamenti interni, con l'ascolto delle persone coinvolte e la verifica delle registrazioni, si sono conclusi. Dario Sarti e Mauro Lanza, già allontanati cautelativamente, non faranno più parte di Cyberdine.»
+«La prima riguarda i fatti avvenuti nel corridoio di servizio e il danneggiamento di una unità robotica. Gli accertamenti interni, con l'ascolto delle persone coinvolte e la verifica delle registrazioni, si sono conclusi. Ethan Blake e Marcus Reed, già allontanati cautelativamente, non faranno più parte di Cyberdine.»
 
 Un colpo secco venne dal fondo. Una bottiglietta di plastica era caduta sotto una sedia; il rumore sembrò assurdamente forte.
 
-Verri aspettò.
+Cole aspettò.
 
 «Non discuterò qui le loro posizioni personali», continuò. «Gli eventuali profili esterni agli accertamenti aziendali seguono percorsi distinti, sui quali questa plenaria non deve pronunciarsi. Voglio però che una cosa sia chiarissima. Le divergenze sulle scelte aziendali, anche le più dure, sono legittime. L'aggressione e il danneggiamento violento non lo sono. Non li accetteremo. La sicurezza sul lavoro non dipende da quale opinione ciascuno di noi ha dell'automazione.»
 
-Kyla sentì la gravità della frase senza il sollievo che qualcuno aveva forse sperato di provare. Dario era stato un collega capace di far ridere un'intera stanza durante una pausa. Mauro aveva passato anni a spostare materiali che nessuno voleva spostare. Ora due scrivanie sarebbero rimaste vuote per una decisione che entrambi avevano preso e che non poteva più essere disfatta.
+Kyla sentì la gravità della frase senza il sollievo che qualcuno aveva forse sperato di provare. Ethan era stato un collega capace di far ridere un'intera stanza durante una pausa. Marcus aveva passato anni a spostare materiali che nessuno voleva spostare. Ora due scrivanie sarebbero rimaste vuote per una decisione che entrambi avevano preso e che non poteva più essere disfatta.
 
 Una donna applaudì una volta, poi smise. Non la seguì nessuno.
 
-Verri riprese il telecomando.
+Cole riprese il telecomando.
 
 «L'ultima comunicazione è operativa. La trovate nel verbale.»
 
 Apparve una schermata dal titolo **UNITÀ B-17 — ESITO VALUTAZIONE TECNICA**.
 
-Dall'ultima fila Nico Valenti si alzò proprio mentre il codice appariva sullo schermo. Kyla lo riconobbe dalla felpa scura; era venuto alla plenaria senza sedersi con il resto del gruppo di sviluppo. Si infilò nella porta laterale con il telefono in mano. Non fu il solo a uscire durante una riunione così lunga, e Kyla tornò subito a guardare il palco.
+Dall'ultima fila Noah Carter si alzò proprio mentre il codice appariva sullo schermo. Kyla lo riconobbe dalla felpa scura; era venuto alla plenaria senza sedersi con il resto del gruppo di sviluppo. Si infilò nella porta laterale con il telefono in mano. Non fu il solo a uscire durante una riunione così lunga, e Kyla tornò subito a guardare il palco.
 
-Il nome sembrò tagliare la sala in due, ma soltanto a Kyla. Per il resto delle persone probabilmente era un codice, come gli altri codici dei robot. Le dita di Nerea, seduta a pochi posti da Irene, si serrarono intorno a un foglio piegato.
+Il nome sembrò tagliare la sala in due, ma soltanto a Kyla. Per il resto delle persone probabilmente era un codice, come gli altri codici dei robot. Le dita di Maya, seduta a pochi posti da Claire, si serrarono intorno a un foglio piegato.
 
 «La valutazione del centro assistenza conferma danni importanti ai sensori, agli attuatori della spalla e alla struttura. Il preventivo per il ripristino completo è arrivato.»
 
-Verri si fermò davanti a una tabella molto semplice. Una colonna per riparare B-17. Una per acquistare una unità nuova, con certificazione e garanzia di funzionamento.
+Cole si fermò davanti a una tabella molto semplice. Una colonna per riparare B-17. Una per acquistare una unità nuova, con certificazione e garanzia di funzionamento.
 
 «Riparare B-17 costerebbe quasi quanto comprarne uno nuovo», disse. «E il centro non è in grado di garantirci che i tempi e il risultato siano migliori. Lo dico senza girarci intorno: penso che non lo ripareremo. Anzi, ho deciso di non autorizzare questa spesa.»
 
 Una sedia scricchiolò. Qualcuno tossì.
 
-Kyla guardò Nerea.
+Kyla guardò Maya.
 
 Le vide scivolare il foglio dalle dita, poi piegarsi a raccoglierlo prima che toccasse terra.
 
-«Per l'azienda sarebbe una decisione difficile da giustificare», continuò Verri. «Non abbiamo un margine infinito. Abbiamo già costi aggiuntivi di assistenza e di riorganizzazione. La soluzione è acquistare un'unità sostitutiva che possa prendere in carico i compiti assegnati a B-17.»
+«Per l'azienda sarebbe una decisione difficile da giustificare», continuò Cole. «Non abbiamo un margine infinito. Abbiamo già costi aggiuntivi di assistenza e di riorganizzazione. La soluzione è acquistare un'unità sostitutiva che possa prendere in carico i compiti assegnati a B-17.»
 
 Alcuni annuirono. Altri rimasero immobili.
 
-«Nel frattempo», disse Verri, «per qualche settimana, forse un paio di mesi per completare tutto il riassetto, dovremo rimboccarci le maniche. So che molti lo state già facendo. I responsabili riassegneranno i compiti, il lavoro straordinario sarà autorizzato quando necessario, e i processi che dipendevano da una sola unità verranno ripensati.»
+«Nel frattempo», disse Cole, «per qualche settimana, forse un paio di mesi per completare tutto il riassetto, dovremo rimboccarci le maniche. So che molti lo state già facendo. I responsabili riassegneranno i compiti, il lavoro straordinario sarà autorizzato quando necessario, e i processi che dipendevano da una sola unità verranno ripensati.»
 
-Kyla conosceva bene quel linguaggio: il linguaggio di chi doveva tenere aperta un'azienda senza permettersi sentimentalismi. Verri non stava punendo Bi, non provava disprezzo. Stava decidendo che una macchina rotta costava troppo.
+Kyla conosceva bene quel linguaggio: il linguaggio di chi doveva tenere aperta un'azienda senza permettersi sentimentalismi. Cole non stava punendo Bi, non provava disprezzo. Stava decidendo che una macchina rotta costava troppo.
 
 Fu questo a renderle difficile ascoltarlo.
 
-Alla fine Verri aprì lo spazio alle domande.
+Alla fine Cole aprì lo spazio alle domande.
 
-Paolo alzò la mano.
+Paul alzò la mano.
 
 «La vecchia unità sarà conservata fino alla chiusura di tutte le verifiche?»
 
@@ -167,7 +167,7 @@ Paolo alzò la mano.
 
 «Avrà le capacità necessarie ai compiti che svolgiamo. Le specifiche operative saranno certificate.»
 
-Era una risposta corretta. Non era una risposta alla domanda che Paolo avrebbe voluto fare.
+Era una risposta corretta. Non era una risposta alla domanda che Paul avrebbe voluto fare.
 
 Dal centro della sala si alzò una voce.
 
@@ -175,7 +175,7 @@ Dal centro della sala si alzò una voce.
 
 Kyla non vide chi avesse parlato.
 
-Verri fece scorrere gli occhi sulle file.
+Cole fece scorrere gli occhi sulle file.
 
 «Sarà un'unità equivalente per i servizi assegnati.»
 
