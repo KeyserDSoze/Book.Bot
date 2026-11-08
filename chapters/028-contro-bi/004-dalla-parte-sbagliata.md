@@ -51,7 +51,7 @@ La pausa durò pochi secondi.
 
 «Ci sono attività in cui una responsabilità umana effettiva è necessaria. Ci sono anche persone che desiderano un servizio svolto da un robot e altre che lo rifiutano.»
 
-«Teresa aspetta ogni pomeriggio una macchina che le racconti dei pomodori. Irene manda curriculum e aspetta risposte che non arrivano. Ho parlato con tutte e due. Non mi sembrano due caselle da sommare.»
+«Teresa aspetta ogni pomeriggio una macchina con cui parlare dei pomodori. Irene manda curriculum e aspetta risposte che non arrivano. Ho parlato con tutte e due. Non mi sembrano due caselle da sommare.»
 
 «Non sono situazioni equivalenti.»
 

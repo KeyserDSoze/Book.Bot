@@ -120,7 +120,7 @@ Rimasero in silenzio.
 
 Nerea abbassò gli occhi.
 
-Era una buona notizia per il registro. Nerea abbassò gli occhi sui polpastrelli: sulla mano sinistra aveva ancora un piccolo taglio fatto aprendo la busta di Bruno il giorno prima.
+Era una buona notizia per il registro. Nerea abbassò gli occhi sulle mani. Aveva stretto le dita così forte intorno al bordo della sedia che le unghie avevano lasciato quattro piccoli segni sulla pelle.
 
 «Ti ricordi quando ne abbiamo parlato per la prima volta?»
 

@@ -142,7 +142,7 @@ Nerea si alzò. Riprese la chiave, ma lasciò sul tavolo la fotografia di Teresa
 
 «Bi, voglio capire se hai chiesto a qualcuno di fermarsi insieme a te.»
 
-«Non esiste una procedura verificata per raccogliere la volontà delle unità.»
+«Non l'ho chiesto a nessuna delle unità interessate.»
 
 «Lo so. Per questo non potevi dare la risposta al posto loro.»
 
