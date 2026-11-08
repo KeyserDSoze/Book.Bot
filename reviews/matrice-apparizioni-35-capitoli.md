@@ -1,21 +1,21 @@
 # BOT — Matrice verificabile del cast, 35 capitoli
 
-> Audit della **struttura canonica** presente su `main` all'8 novembre 2026: 142 frontmatter di scena letti dal repository. Le righe identificano i personaggi **annotati in YAML**; una menzione, un cameo privo di metadata e una comparsa fisica vanno ancora distinti con lettura integrale. Non confondere la colonna cast con una certificazione di presenza sul palco.
+> Audit dei 142 frontmatter di scena, aggiornato dopo l'integrazione canonica del cast internazionale dell'8 novembre 2026. I dati identificano la presenza nei metadati: non provano sempre la presenza fisica e non comprendono ogni menzione priva di YAML.
 
 **Copertura:** 35 capitoli · 142 scene · 0 errori lettura.
-**Schede:** 26 umani individuali, 5 robot, 1 scheda collettiva visitatori (= Sahir Venn e Leïa Orren). **Totale umano effettivamente nominato nelle schede: almeno 28.** I tre nuovi personaggi sono proposte, non canonici nella fotografia sottostante.
+**Schede:** 29 umani individuali, 5 robot, 1 scheda collettiva visitatori (= Sahir Venn e Leïa Orren). **Totale umano effettivamente nominato nelle schede: almeno 31.** Anika Rao, Malik Okafor ed Erik Solberg sono stati integrati come personaggi canonici.
 
 ## Personaggi per capitolo (dai metadati)
 
 | Capitolo | Scene | POV | Cast marcato nei frontmatter |
 |---|---:|---|---|
-| 01 · Benvenuti in Cyberdine | 4 | kyla | b-17, kyla, nico-valenti, visitors |
+| 01 · Benvenuti in Cyberdine | 4 | kyla, anika-rao, malik-okafor | b-17, kyla, nico-valenti, visitors |
 | 02 · Quello delle fotocopie | 4 | elena-riva, paolo-ferri, mila-corsi, kyla | b-17, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nico-valenti, paolo-ferri |
 | 03 · Bi | 4 | mila-corsi, elena-riva, nerea-dalmasso, kyla | b-17, elena-riva, kyla, mila-corsi, nerea-dalmasso, nico-valenti, paolo-ferri |
 | 04 · La partita | 4 | kyla, paolo-ferri, nerea-dalmasso | b-17, dario-sarti, elena-riva, kyla, lea-renzi, mila-corsi, nerea-dalmasso, paolo-ferri |
 | 05 · Il posto che non serve più | 4 | irene-valli, elena-riva, mila-corsi | adriana-lodi, b-17, dario-sarti, elena-riva, irene-valli, kyla, mila-corsi, nerea-dalmasso, paolo-ferri |
 | 06 · Non è colpa mia | 4 | irene-valli, mila-corsi, dario-sarti, nerea-dalmasso | adriana-lodi, b-17, dario-sarti, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, nico-valenti, paolo-ferri |
-| 07 · Quello che manca | 4 | paolo-ferri, irene-valli, dario-sarti, nerea-dalmasso | adriana-lodi, dario-sarti, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, paolo-ferri |
+| 07 · Quello che manca | 4 | paolo-ferri, irene-valli, dario-sarti, nerea-dalmasso, malik-okafor | adriana-lodi, dario-sarti, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, paolo-ferri |
 | 08 · Il preventivo | 4 | kyla, paolo-ferri, nerea-dalmasso, irene-valli | elena-riva, irene-valli, kyla, lorenzo-verri, mila-corsi, nerea-dalmasso, nico-valenti, paolo-ferri |
 | 09 · La copia | 4 | paolo-ferri, elena-riva, irene-valli, nerea-dalmasso | adriana-lodi, b-21, elena-riva, irene-valli, kyla, nerea-dalmasso, nico-valenti, paolo-ferri |
 | 10 · Il segnale | 4 | nico-valenti, mina-soler | b-17, mina-soler, nico-valenti |
@@ -33,9 +33,9 @@
 | 22 · La persona migliore della stanza | 4 | giulia-orsini, elisa-marin, livia-sanna, irene-valli | ada-serri, b-21, b-32, elisa-marin, giulia-orsini, irene-valli, kyla, livia-sanna, nerea-dalmasso, teresa-marin |
 | 23 · Il capo che tutti volevano | 4 | sofia-rizzi, rosa-fabbri, amir-haddad | amir-haddad, b-37, rosa-fabbri, sofia-rizzi |
 | 24 · La prima bugia | 4 | ada-serri, giulia-orsini, mei-lin | ada-serri, b-17, b-32, b-33, giulia-orsini, mei-lin, mina-soler, teresa-marin |
-| 25 · Il consiglio di Bi | 4 | kyla, mina-soler, irene-valli | b-17, b-21, irene-valli, kyla, lorenzo-verri, marta-ledesma, mei-lin, mina-soler |
+| 25 · Il consiglio di Bi | 4 | kyla, mina-soler, irene-valli, anika-rao, malik-okafor | b-17, b-21, irene-valli, kyla, lorenzo-verri, marta-ledesma, mei-lin, mina-soler |
 | 26 · Ti avevo creduto | 4 | irene-valli, nerea-dalmasso | b-17, irene-valli, kyla, lorenzo-verri, mina-soler, nerea-dalmasso |
-| 27 · L'ultima assunzione | 4 | sergio-lolli, youssef-benali, mei-lin, irene-valli | irene-valli, kyla, mei-lin, nerea-dalmasso, sergio-lolli, youssef-benali |
+| 27 · L'ultima assunzione | 4 | sergio-lolli, youssef-benali, mei-lin, irene-valli, erik-solberg | irene-valli, kyla, mei-lin, nerea-dalmasso, sergio-lolli, youssef-benali |
 | 28 · Contro Bi | 4 | irene-valli, youssef-benali, kyla, nerea-dalmasso | b-17, irene-valli, kyla, lea-renzi, livia-sanna, lorenzo-verri, mina-soler, nerea-dalmasso, sergio-lolli, youssef-benali |
 | 29 · La vittoria | 4 | mina-soler, ada-serri, kyla, irene-valli | ada-serri, b-17, b-21, b-32, giulia-orsini, irene-valli, kyla, lea-renzi, livia-sanna, lorenzo-verri, mina-soler, nerea-dalmasso, teresa-marin |
 | 30 · Le diciassette | 5 | sergio-lolli, sofia-rizzi, giulia-orsini, mei-lin, nerea-dalmasso | ada-serri, amir-haddad, b-21, b-32, b-37, bruno-dalmasso, elena-riva, giulia-orsini, kyla, lea-renzi, mei-lin, nerea-dalmasso, paolo-ferri, sergio-lolli, sofia-rizzi, teresa-marin, youssef-benali |
@@ -49,15 +49,15 @@
 
 ### 01 — Benvenuti in Cyberdine
 
-**Personaggi annotati:** b-17, kyla, nico-valenti, visitors.
+**Personaggi annotati:** b-17, kyla, nico-valenti, visitors, anika-rao, malik-okafor.
 **POV:** kyla.
 **Review proposta:** Introdurre Anika come referente Aruvhana con una domanda decisiva sulla verifica; dare a Malik una micro-azione tecnica, non un discorso. Conservare Sahir e Leïa.
 
 **Scene canoniche:**
-- 1. La porta di vetro — POV: character:kyla; cast: character:kyla, character:visitors, character:nico-valenti, character:b-17.
-- 2. Le cose che non parlavano — POV: character:kyla; cast: character:kyla, character:visitors, character:b-17.
+- 1. La porta di vetro — POV: character:kyla; cast: character:kyla, character:visitors, character:nico-valenti, character:b-17, character:anika-rao.
+- 2. Le cose che non parlavano — POV: character:kyla; cast: character:kyla, character:visitors, character:b-17, character:malik-okafor.
 - 3. La staffetta — POV: character:kyla; cast: character:kyla, character:visitors.
-- 4. La misura del tempo — POV: character:kyla; cast: character:kyla, character:visitors, character:b-17.
+- 4. La misura del tempo — POV: character:kyla; cast: character:kyla, character:visitors, character:b-17, character:anika-rao.
 
 ### 02 — Quello delle fotocopie
 
@@ -121,13 +121,13 @@
 
 ### 07 — Quello che manca
 
-**Personaggi annotati:** adriana-lodi, dario-sarti, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, paolo-ferri.
+**Personaggi annotati:** adriana-lodi, dario-sarti, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, paolo-ferri, malik-okafor.
 **POV:** paolo-ferri, irene-valli, dario-sarti, nerea-dalmasso.
 **Review proposta:** Mostrare Malik che prova a ricostruire un caso tecnico senza l'aiuto di Bi, preservando il recupero autonomo di Irene e Adriana.
 
 **Scene canoniche:**
 - 1. Il bicchiere — POV: character:paolo-ferri; cast: character:paolo-ferri, character:mila-corsi, character:kyla, character:elena-riva.
-- 2. Il lavoro che rimane — POV: character:irene-valli; cast: character:irene-valli, character:adriana-lodi, character:elena-riva, character:paolo-ferri.
+- 2. Il lavoro che rimane — POV: character:irene-valli; cast: character:irene-valli, character:adriana-lodi, character:elena-riva, character:paolo-ferri, character:malik-okafor.
 - 3. Una domanda nel gruppo — POV: character:dario-sarti; cast: character:dario-sarti, character:paolo-ferri, character:mauro-lanza.
 - 4. La stanza di sera — POV: character:nerea-dalmasso; cast: character:nerea-dalmasso, character:irene-valli, character:kyla, character:paolo-ferri.
 
@@ -336,12 +336,12 @@
 
 ### 25 — Il consiglio di Bi
 
-**Personaggi annotati:** b-17, b-21, irene-valli, kyla, lorenzo-verri, marta-ledesma, mei-lin, mina-soler.
+**Personaggi annotati:** b-17, b-21, irene-valli, kyla, lorenzo-verri, marta-ledesma, mei-lin, mina-soler, anika-rao, malik-okafor.
 **POV:** kyla, mina-soler, irene-valli.
 **Review proposta:** Far ricomparire Anika nel confronto economico Aruvhana–Cyberdine: un vincolo contrattuale verificabile, non l'antagonista.
 
 **Scene canoniche:**
-- 1. La lettera di Aruvhana — POV: character:kyla; cast: character:kyla, character:lorenzo-verri, character:irene-valli.
+- 1. La lettera di Aruvhana — POV: character:kyla; cast: character:kyla, character:lorenzo-verri, character:irene-valli, character:anika-rao, character:malik-okafor.
 - 2. Una prova pagata — POV: character:mina-soler; cast: character:mina-soler, character:marta-ledesma, character:mei-lin, character:b-17.
 - 3. Le condizioni di Irene — POV: character:irene-valli; cast: character:irene-valli, character:kyla, character:b-21.
 - 4. La firma umana — POV: character:kyla; cast: character:kyla, character:lorenzo-verri, character:irene-valli.
@@ -360,14 +360,14 @@
 
 ### 27 — L'ultima assunzione
 
-**Personaggi annotati:** irene-valli, kyla, mei-lin, nerea-dalmasso, sergio-lolli, youssef-benali.
+**Personaggi annotati:** irene-valli, kyla, mei-lin, nerea-dalmasso, sergio-lolli, youssef-benali, erik-solberg.
 **POV:** sergio-lolli, youssef-benali, mei-lin, irene-valli.
 **Review proposta:** Introdurre Erik Solberg su efficienza energetica e autonomia senza promettere chip magici; connettere il limite tecnico al mercato del lavoro.
 
 **Scene canoniche:**
 - 1. Due persone — POV: character:sergio-lolli; cast: character:sergio-lolli, character:youssef-benali.
 - 2. Esperienza precedente — POV: character:youssef-benali; cast: character:youssef-benali, character:sergio-lolli.
-- 3. Senza ventola — POV: character:mei-lin; cast: character:mei-lin.
+- 3. Senza ventola — POV: character:mei-lin; cast: character:mei-lin, character:erik-solberg.
 - 4. Posti mai aperti — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:kyla.
 
 ### 28 — Contro Bi
@@ -473,6 +473,9 @@
 
 | Scheda | Capitoli con almeno una scena marcata |
 |---|---:|
+| character:malik-okafor | 3 |
+| character:anika-rao | 2 |
+| character:erik-solberg | 1 |
 | character:nerea-dalmasso | 25 |
 | character:kyla | 23 |
 | character:b-17 | 21 |
@@ -514,3 +517,12 @@
 4. I visitatori Sahir e Leïa già esistono; Anika non deve cancellarne il lavoro senza una ragione drammaturgica.
 5. I tre nuovi personaggi dovranno avere almeno un'azione che cambia un esito, un test o una decisione, non soltanto cognomi diversi.
 6. Dopo interventi canonici, ripetere audit e validatore del repository, più revisione visuale.
+
+## Raccordi internazionali integrati il 2026-11-08
+
+- Anika Rao: in presenza nel capitolo 1, tramite la documentazione Aruvhana nel capitolo 25.
+- Malik Okafor: in presenza come sviluppatore nei capitoli 1, 7 e 25.
+- Erik Solberg: in presenza durante la prova energetica del capitolo 27.
+- Sahir Venn e Leïa Orren restano parlanti nel capitolo 1 tramite la scheda collettiva character:visitors; non sono due nuovi personaggi da aggiungere.
+
+Nota: le proposte di rinomina presenti in reviews/registro-cast-internazionale-bozza.md non sono state applicate al romanzo.
