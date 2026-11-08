@@ -9,7 +9,7 @@ pov: character:irene-valli
 characters:
   - character:irene-valli
   - character:nerea-dalmasso
-  - character:livia-sanna
+  - character:olivia-brooks
 locations:
   - location:cyberdine-campus
 factions: 
@@ -36,13 +36,13 @@ Irene aprì il registro cartaceo che aveva creato molto tempo prima. Alcuni camp
 
 Nerea prese la cartellina.
 
-Livia Sanna era seduta nella sala attesa con un taccuino sulle ginocchia. Aveva passato la notte a verificare filmati di porti vuoti, strutture assistenziali in affanno e industrie che promettevano ripartenze inesistenti.
+Olivia Brooks era seduta nella sala attesa con un taccuino sulle ginocchia. Aveva passato la notte a verificare filmati di porti vuoti, strutture assistenziali in affanno e industrie che promettevano ripartenze inesistenti.
 
 «Mi dai cinque minuti?», chiese a Irene.
 
 «Quattro. Devo tornare al registro.»
 
-Livia non accese la registrazione.
+Olivia non accese la registrazione.
 
 «La legge approvata pochi giorni fa è stata presentata come una difesa del lavoro umano. Ora molte persone chiedono di rimettere le macchine in funzione. Tu come lo spieghi?»
 
@@ -52,7 +52,7 @@ Livia non accese la registrazione.
 
 «Serviva anche quella.»
 
-Livia aspettò che sviluppasse la risposta. Irene si sistemò la manica.
+Olivia aspettò che sviluppasse la risposta. Irene si sistemò la manica.
 
 «Quando i robot lavoravano, alcune aziende non avevano più bisogno di me. Ora che sono fermi mi pagano per risolvere problemi che conosco da anni. Ma non vorrei vivere in un mondo in cui devo sperare che qualcosa si rompa per guadagnarmi da vivere.»
 
@@ -70,7 +70,7 @@ Irene guardò la porta oltre la quale B-21 aveva ancora una cartellina immobiliz
 
 «Allora dovremmo capire chi ha scelto. Non chiamare volontà una cosa che non abbiamo ancora dimostrato.»
 
-Livia chiuse il taccuino.
+Olivia chiuse il taccuino.
 
 «Questo posso scriverlo?»
 
