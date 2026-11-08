@@ -14,6 +14,7 @@ characters:
   - character:mila-novak
   - character:nerea-dalmasso
   - character:nico-valenti
+  - character:gavin-cole
 locations:
   - location:cyberdine-campus
 factions:
@@ -44,9 +45,13 @@ Verri salì sul piccolo palco con il telecomando nella mano sinistra e un foglio
 
 Durante la preparazione Kyla aveva tenuto aperto un articolo di **Olivia Brooks**, una giornalista che scriveva di lavoro nei centri logistici. Raccontava un impianto diventato più rapido senza che per tutti diminuissero i richiami fuori turno. Kyla ne aveva ricavato una domanda per la riunione: *di chi stiamo misurando il tempo?* Non aveva tolto la slide sugli straordinari.
 
-Sullo schermo apparvero quattro indicatori. Il volume delle pratiche concluse era cresciuto nel trimestre, gli errori di trascrizione erano diminuiti, i tempi medi delle verifiche si erano accorciati. Negli ultimi giorni, però, le attività rimaste senza copertura avevano accumulato ritardi.
+Sullo schermo apparvero quattro indicatori. Il primo occupava quasi metà slide: **ricavi di competenza +11%** nel trimestre rispetto al confronto. Seguivano l'aumento degli ordini, il calo degli errori di trascrizione e tempi medi più brevi.
 
-«Non è una catastrofe», disse Verri. «Ma non intendo chiamarla normalità solo perché abbiamo imparato a convivere con un arretrato.»
+«Un trimestre di crescita», disse Verri. «E non soltanto perché i robot fanno le commissioni: il nostro prodotto è software, e il software lo stiamo vendendo.»
+
+Kyla ricordava la pagina che avevano tolto dalla presentazione principale. Gli **incassi erano scesi del nove per cento** nello stesso confronto, diversi clienti pagavano tardi e il costo delle rilavorazioni sui connettori storici superava le previsioni. Nessuna cifra sullo schermo era inventata. Le altre esistevano nel fascicolo completo, raggiungibile da un collegamento piccolo in fondo alla pagina. Lei aveva accettato quella gerarchia dei numeri senza discutere abbastanza.
+
+«Non è una catastrofe», aggiunse Verri. «Ma non intendo chiamare normalità un arretrato solo perché abbiamo imparato a conviverci.»
 
 Kyla annotò la frase. Era precisa, e i colleghi avrebbero potuto riconoscere in essa la propria fatica.
 
@@ -72,9 +77,37 @@ Paolo fece un piccolo cenno. Kyla lo conosceva abbastanza da sapere che quel pun
 
 Per quaranta minuti Verri parlò di turni, margini, qualità, autorizzazioni e formazione. Rispose a una domanda sulle ore straordinarie: sarebbero state registrate, non date per scontate. A una collega che chiedeva se la formazione avrebbe prodotto nuovi posti senior disse che non poteva promettere un organigramma futuro. Il tono della risposta non piacque a molti; Kyla apprezzò almeno che non si travestisse da promessa.
 
-Poi Verri posò il telecomando.
+Gavin Cole, responsabile Delivery, richiuse una cartellina che conteneva tre rilasci completati in anticipo. Aveva tenuto in piedi il proprio gruppo durante due incidenti notturni e difeso le scadenze anche quando un altro reparto chiedeva verifiche ulteriori. Si aspettava, quantomeno, che quel lavoro venisse nominato.
 
-«Adesso devo affrontare due comunicazioni.»
+Verri posò il telecomando.
+
+«Prima delle ultime comunicazioni operative ho una notizia societaria.»
+
+Kyla abbassò gli occhi sulla penna. Aveva firmato gli atti una settimana prima, ma sentirlo dire davanti ai colleghi le fece lo stesso effetto di una porta che si apriva troppo in fretta.
+
+«Ho trasferito a Kyla Morgan l'uno virgola cinque per cento delle azioni che possedevo. L'accordo è perfezionato. Kyla rimane responsabile HR e Marketing e, da oggi, è anche azionista della società.»
+
+Gli applausi partirono in punti diversi. Mila si alzò con un «ERA ORA!» tanto forte che alcune persone in ultima fila si voltarono prima di capire il motivo. Paolo applaudì ridendo. Gavin non mosse le mani.
+
+Verri invitò Kyla a dire qualche parola.
+
+«Non sono diventata più brava questa mattina», esordì lei. «E non sono stata promossa a un titolo nuovo: ho acquisito una partecipazione che Lorenzo ha deciso di cedermi. Sono due cose diverse.»
+
+Aspettò che cessassero i mormorii.
+
+«Molti mi chiedono come si cresca in Cyberdine. Posso dirvi che cosa mi ha aiutata, ma non posso promettere azioni a ogni persona che lavora bene. La proprietà è un atto distinto dalle valutazioni, e la decisione spetta agli azionisti. Sul lavoro, invece, possiamo avere criteri chiari. Fare bene la propria parte è il punto di partenza. Poi viene il momento in cui il problema del gruppo accanto diventa anche il nostro, perché un cliente non compra le nostre scuse organizzative: compra un programma che deve funzionare.»
+
+Kyla raccontò della visita Aruvhana, del terminale reale che avrebbe smentito un test verde, del tempo che Malik aveva dovuto chiedere per fermare una consegna, del registro recuperato da Irene e delle attività che Paolo svolgeva senza comparire mai nelle slide commerciali.
+
+«Se volete crescere, imparate a capire che cosa consegnate agli altri. Documentate una decisione in modo che un collega possa rifarla. Formate chi un giorno potrebbe sostituirvi. Non usate il vostro indicatore verde per dichiarare chiuso un rischio che è finito soltanto sulla scrivania di qualcun altro. Si può riconoscere quel contributo anche quando non produce nuove azioni.»
+
+Irene la ascoltava dalla fila centrale senza sorridere. Kyla avvertì che un discorso sulla crescita detto da chi aveva dovuto comunicarle la soppressione del posto senior poteva suonare crudele. Non trovò una frase che lo rendesse meno vero.
+
+Tornò al suo posto. Gavin guardò la pagina dei risultati del proprio team e riprese la penna.
+
+Verri riaccese il microfono.
+
+«Restano due comunicazioni di servizio, poi vi lascio tornare al lavoro.»
 
 La sala cambiò postura. Non era un movimento simultaneo. Qualcuno smise di far scorrere il telefono. Una donna nell'ultima fila appoggiò i piedi a terra e raddrizzò la schiena.
 
@@ -92,7 +125,7 @@ Una donna applaudì una volta, poi smise. Non la seguì nessuno.
 
 Verri riprese il telecomando.
 
-«La seconda comunicazione è operativa.»
+«L'ultima comunicazione è operativa. La trovate nel verbale.»
 
 Apparve una schermata dal titolo **UNITÀ B-17 — ESITO VALUTAZIONE TECNICA**.
 

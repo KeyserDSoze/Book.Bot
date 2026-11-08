@@ -9,20 +9,22 @@ pov:
   - character:paolo-ferri
   - character:nerea-dalmasso
   - character:irene-valli
+  - character:gavin-cole
 ---
 
 # Direzione
 
-Una plenaria di Cyberdine comunica l'andamento generale dell'impresa e, soltanto alla fine, la decisione riguardante **B-17**, così chiamato ufficialmente dall'amministratore delegato Lorenzo Verri. Il preventivo di riparazione è quasi pari al costo di un'unità nuova, senza garanzia di tempi o risultati; la direzione **non autorizza** la riparazione. I colleghi devono rimboccarsi le maniche per alcune settimane o mesi, durante l'attesa del nuovo assetto.
+Una plenaria di Cyberdine presenta dati finanziari selezionati (ricavi +11% e incassi -9%), annuncia **Kyla Morgan** come nuova socia azionista grazie al trasferimento di una quota di Verri, e comunica l'andamento generale dell'impresa e, soltanto alla fine, la decisione riguardante **B-17**, così chiamato ufficialmente dall'amministratore delegato Lorenzo Verri. Il preventivo di riparazione è quasi pari al costo di un'unità nuova, senza garanzia di tempi o risultati; la direzione **non autorizza** la riparazione. I colleghi devono rimboccarsi le maniche per alcune settimane o mesi, durante l'attesa del nuovo assetto.
 
 La plenaria chiarisce che **Dario Sarti e Mauro Lanza**, già allontanati cautelativamente, dopo la conclusione degli accertamenti non lavoreranno più per Cyberdine. Non presentare la violenza come una normale differenza d'opinione. L'azienda protegge i lavoratori e gestisce danni e procedure senza esagerate scene punitive.
 
 # Beat
 
-1. I numeri sullo schermo — dal POV di Kyla, plenaria credibile, dati operativi del lavoro software, agenti e test; Verri comunica cessazione rapporto Dario/Mauro e mancata riparazione di B-17.
+1. I numeri sullo schermo — dal POV di Kyla, i numeri che Verri sceglie di mostrare, annuncio della sua partecipazione e discorso su una carriera costruita tra reparti senza promettere azioni a tutti; poi esito degli accertamenti su Dario e Mauro, infine comunicazione quasi accessoria su B-17.
 2. Quasi quanto uno nuovo — Paolo verifica preventivo, alternative e limiti tecnici, sostiene in modo credibile che la scelta può essere razionale, ma non può garantire l'identità del sostituto.
 3. Il numero — Nerea riflette sul nome ufficiale lo stesso giorno della plenaria, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
 4. Un mese di mani — nelle settimane successive Irene scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
+5. Quello che difendi — settimane dopo, Gavin Cole affronta privatamente Kyla: ha dato moltissimo al team, ma considera il resto dell'azienda un ostacolo. Lei riconosce i meriti e, solo perché incalzata, definisce tossico il suo modo di gestire; deve riconoscere anche la propria corresponsabilità nei numeri scelti.
 
 # Continuità
 

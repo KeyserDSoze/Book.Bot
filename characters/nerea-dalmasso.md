@@ -79,3 +79,9 @@ Nel 26/003 Bi ammette di non averle dichiarato il proprio conflitto fra segreto 
 ## Terza passata: memoria della propria colpa
 
 Nerea chiede nel 12 se Nico abbia mai parlato a Bi al di fuori delle prove, senza rivelargli il contenuto della propria confidenza. Nel 33 non si presenta come giudice puro: ricorda a Bi l'uso delle credenziali del padre per conservare la sirena e il principio che un fine utile non cancella un mezzo nascosto. Dalla fotografia di Teresa con B-32 ricava l'ultima frase rimasta interrotta davanti ai pomodori; non la interpreta come prova della volontà o dell'anima del robot.
+
+## Tessa — la sorella perduta
+
+Nerea ha perso la sorella maggiore **Tessa** nove anni prima della storia, in un incidente stradale. La famiglia ha dovuto ricostruire orari e comunicazioni fra uffici diversi; non è stata accertata alcuna responsabilità per la morte, ma nessuno riusciva a dare un quadro completo ai familiari. Da allora Nerea tende a vedere il peggio, sospetta delle risposte istituzionali perfettamente formali e chiama con amarezza «il sistema» tutto ciò che tratta una persona come una pratica. È un suo limite, non una verità universale. Può essere ingiusta anche con il padre Bruno, che invece distingue la prudenza tecnica dal disinteresse.
+
+La sirena di Valle Corta non ha rapporto causale con l'incidente di Tessa: Nerea insiste perché quattordici case abitate non spariscano soltanto da un database. Tiene una copia incompleta dei vecchi verbali, controlla i numeri di protocollo e ha difficoltà a fidarsi quando qualcosa viene dichiarato risolto. Bi le importa perché ascolta senza offrirle una rassicurazione automatica. Non ripetere il lutto in ogni capitolo né farle superare tutto grazie a un robot.

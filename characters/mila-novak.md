@@ -39,3 +39,7 @@ Mila coordina processi e miglioramenti operativi in una software house, non in u
 ## Origini e relazioni
 
 Mila è croata, cresciuta a Zagabria, e lavora in Italia da diversi anni. Il suo sarcasmo non deriva dalle origini: è un modo personale di difendersi da richieste continue. Tiene legami con familiari e amici rimasti in Croazia, con cui qualche volta fatica a trovare tempo per parlare; non va trasformata in una figura folcloristica o in una portavoce nazionale.
+
+## Una voce che si riconosce da lontano
+
+Mila parla **sempre a voce molto alta**, anche quando è felice, dolce o prova a confidarsi. Chi lavora con lei non scambia automaticamente il volume per rabbia; chi non la conosce talvolta sì. Fa domande fortissime, ride fortissimo, tenta di sussurrare ma la stanza accanto la sente. L'imbarazzo che causa può essere comico oppure doloroso. Non scrivere tutte le sue battute in maiuscolo: lo si capisca dalle reazioni degli altri e da ciò che Mila vorrebbe non far sentire. Il volume è una sua caratteristica, non un sinonimo di maleducazione.

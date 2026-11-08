@@ -30,3 +30,9 @@ Prima della plenaria del capitolo 8 Verri domanda a Kyla, più di una volta, se 
 ## Revisione v0.32.0 — Software e robot
 
 Gestisce una software house, quindi margini, contratti, licenze, sviluppo, QA, continuità e assistenza. Il contratto Aruvhana da ridurre del 17% riguarda software e integrazione, non produzione di macchine. La crescita degli agenti riduce il bisogno di ruoli di sviluppo e collaudo senza cancellare la responsabilità dell'AD.
+
+## Azionariato e comunicazione dei conti
+
+Verri è AD e azionista di maggioranza di una S.p.A., non il proprietario onnipotente di tutte le decisioni tecniche. Prima della plenaria del capitolo 8 trasferisce formalmente a Kyla Morgan **l'1,5% delle azioni che detiene**. La partecipazione è reale e minoritaria, diversa da un titolo o da un aumento salariale. La cessione riconosce un contributo interfunzionale; non costituisce un piano automatico per rendere azionisti tutti i dipendenti.
+
+Nella plenaria sceglie le cifre che fanno apparire solida la situazione: ricavi di competenza trimestrali **+11%** nel confronto, ma incassi **-9%**, crediti da recuperare e costi di rilavorazione lasciati dietro la slide principale. Non inventa un bilancio falso: presenta in modo interessato dati veri. Vuole conservare fiducia di clienti e dipendenti. Dopo l'annuncio societario e la comunicazione sulle conseguenze dell'aggressione, parla di B-17 soltanto quasi in postilla operativa, usando la matricola.

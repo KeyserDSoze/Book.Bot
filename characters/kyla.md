@@ -1,11 +1,11 @@
 ---
 type: character
 id: character:kyla
-name: Kyla
+name: Kyla Morgan
 canon: canon
 ---
 
-# Kyla
+# Kyla Morgan
 
 Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la visita del cliente Aruvhana. È preparata, brillante nel leggere una stanza, fiera delle ore che l'automazione ha restituito ai colleghi. Non finge entusiasmo e non possiede informazioni che il suo ruolo non giustifica.
 
@@ -59,3 +59,11 @@ Nel capitolo 1 Kyla promette a un'amica di non rimandare più una serata al cine
 ## Revisione v0.32.0 — Software e robot
 
 Nella visita inaugurale Kyla accompagna Aruvhana dentro una software house: gli agenti AI lavorano sul codice, i robot fisici sul campus. B-17 taglia inizialmente il prato e non propone software nel primo capitolo. Kyla gioisce sinceramente della produttività, pur sottovalutando quanto l'azienda stia spostando le competenze dalla comprensione del codice alla verifica sintetica dei risultati.
+
+## Partecipazione e crescita — capitolo 8
+
+Kyla Morgan è entrata in Cyberdine in comunicazione e selezione, ed è cresciuta assumendosi i problemi che attraversano HR, marketing, sviluppo e rapporto coi clienti. Nel capitolo 1 tiene insieme la visita Aruvhana, un collaudo reale e il tempo dei programmatori; nel 5 deve comunicare l'eliminazione del ruolo a cui Irene aspirava; nel 6–7 coordina le persone e la comunicazione durante la crisi di B-17. Non è CTO, non scrive codice al posto degli ingegneri e non possiede un talento magico per risolvere i conflitti. È brava a far collaborare chi usa indicatori diversi, ma a volte rende presentabile una decisione che non ha avuto il coraggio di contestare.
+
+Prima della plenaria Verri le trasferisce, con un accordo societario già perfezionato, **l'1,5% delle proprie azioni**: diventa realmente azionista di minoranza, non una dirigente «promossa a socia» con una targhetta. Nel suo discorso spiega come si cresce in responsabilità e influenza: lavoro verificabile, capacità di migliorare processi altrui, formazione dei sostituti e attenzione ai clienti; non promette azioni a tutti. La quota non la rende infallibile né le restituisce i posti eliminati dalla riorganizzazione.
+
+Il responsabile Delivery Gavin Cole la accusa di essere stata premiata senza i sacrifici del suo gruppo. Kyla riconosce il merito dei suoi risultati ma gli mostra i costi che scarica sugli altri. Incalzata, definisce «tossico» il suo modo di guidare: **è il giudizio di Kyla, non una diagnosi del narratore**. Lei stessa ammette di avere favorito una lettura troppo ottimistica dei conti.

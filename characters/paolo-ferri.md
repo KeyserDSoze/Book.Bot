@@ -55,3 +55,9 @@ Nel 2 Paolo continua a spiegare la macchinetta del caffè a chi non glielo ha ch
 ## Revisione v0.32.0 — Cyberdine software house
 
 È un tecnico di vecchi dispositivi, armadi di controllo, reti e terminali usati per provare i software di Cyberdine. Sa leggere uno stato elettrico e capire perché un emulatore non riproduce un terminale vero; non è necessariamente uno sviluppatore di LLM. Dopo Bi può aiutare i programmatori a recuperare il comportamento reale dei dispositivi, ma occorre qualcuno che legga anche le librerie software. Non trasformarlo in un salvatore universale.
+
+## Un uomo che teme ogni dipendenza
+
+Paolo ha perso entrambi i genitori, segnati da dipendenze da sostanze e morti quando lui era adolescente. È cresciuto con una zia che lo ha accudito con concretezza. Da allora non fuma, non assume droghe, controlla il tempo sul telefono e interrompe deliberatamente i giochi prima che diventino un'abitudine. È duro, talvolta ingiusto, con chi fuma o usa sostanze: la sua ostilità nasce dal lutto e non viene approvata come giudizio sulle persone dipendenti.
+
+La contraddizione è visibile: controlla continuamente i timer per verificare di non essere «dipendente», pretende di riparare tutto da solo e difende la pausa caffè quotidiana come se fosse necessaria. Dopo l'assenza di Bi scopre quante attività aveva affidato senza accorgersene a una routine robotica. È diventato quasi dipendente dall'idea di non dipendere. Mostrare il tratto in gesti e discussioni, senza monologhi esplicativi.
