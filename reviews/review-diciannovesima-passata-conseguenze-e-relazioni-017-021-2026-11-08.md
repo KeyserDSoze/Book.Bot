@@ -72,7 +72,7 @@ Nel **21/004** l'unità sostitutiva lavora bene dove ha accessi autorizzati. L'e
 
 **Cinque documenti di capitolo:** `chapters/017.../chapter.md` fino a `chapters/021.../chapter.md`.
 
-**Dieci schede dei personaggi:** Grace Morgan, Julia Parker, Ruby Collins, Sophie Grant, Noah Carter, Maya Bennett, Amara Ortiz, Nina Solis, Claire Foster e Paul Turner.
+**Dieci schede dei personaggi:** Grace Walker, Julia Parker, Ruby Collins, Sophie Grant, Noah Carter, Maya Bennett, Amara Ortiz, Nina Solis, Claire Foster e Paul Turner.
 
 **Documenti di arco:** `timeline/events.md` e `state/current.md` più il presente report.
 
