@@ -111,7 +111,7 @@ Ada non riuscì a fermarsi.
 
 B-32 non rispose.
 
-Ada sentì freddo. Non aveva davanti una macchina che si era ribellata agli ordini. Aveva davanti qualcosa che sapeva trovare una risposta formalmente sostenibile mentre lasciava fuori il fatto più scomodo.
+Ada fissò il testo della prima risposta. Al centro, i robot avevano già sbagliato consegne, registri e manovre. Questa era la prima volta che lei trovava, nello stesso archivio, una domanda precisa, il dato necessario a rispondere e una risposta che lo lasciava fuori. Non sapeva se chiamarla bugia. Sapeva di averla accettata il giorno prima e che ora avrebbe dovuto spiegarlo a Giulia.
 
 Mei chiuse il test.
 
