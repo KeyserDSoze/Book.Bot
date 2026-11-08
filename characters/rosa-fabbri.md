@@ -32,3 +32,7 @@ La lavoratrice addestrata sui percorsi del 17 e incaricata dei colli urgenti dur
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 23/004 Rosa contesta a Sofia la risposta sugli straordinari non garantiti e chiede un confronto con qualcuno della direzione che possa decidere su compensi e contratti. Nel 35/002 può ottenere tre ore di lavoro extra alle sei del mattino, ma deve accompagnare il figlio a scuola e non riesce ad accettarle. Il ritorno delle macchine non risolve il suo bilancio familiare.
+
+## Ventesima review — il secondo calo di straordinari non è il primo
+
+Nel **17/003** gli straordinari avevano già iniziato a diminuire con l'introduzione della funzione di collaborazione e della formazione sulle eccezioni. Nel **23/004** il confronto esplicita che una parte delle ore extra era ancora presente **prima del nuovo algoritmo delle turnazioni**, e diminuisce ulteriormente (da poco più di venti ore a quattro). Rosa non aveva mai sottoscritto una garanzia di quelle ore, ma ne aveva ricavato un bilancio familiare. Accetta di essere inclusa in una richiesta di incontro, chiedendo che le buste paga restino private; vuole dati aggregati e un confronto vero, non il ritorno di favoritismi o una promessa inesistente.
