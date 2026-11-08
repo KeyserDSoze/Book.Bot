@@ -268,9 +268,9 @@
 **Review proposta:** Reazioni pubbliche fondate su fatti incompleti; non sfruttare nuove identità culturali come cliché mediatici.
 
 **Scene canoniche:**
-- 1. Un nome in una bozza — POV: character:kyla; cast: character:kyla, character:lea-renzi, character:lorenzo-verri, character:livia-sanna.
-- 2. Il prezzo di una firma — POV: character:nico-valenti; cast: character:nico-valenti, character:livia-sanna.
-- 3. La provenienza — POV: character:mei-lin; cast: character:mei-lin, character:livia-sanna.
+- 1. Un nome in una bozza — POV: character:kyla; cast: character:kyla, character:lea-renzi, character:lorenzo-verri, character:olivia-brooks.
+- 2. Il prezzo di una firma — POV: character:nico-valenti; cast: character:nico-valenti, character:olivia-brooks.
+- 3. La provenienza — POV: character:mei-lin; cast: character:mei-lin, character:olivia-brooks.
 - 4. La persona e il numero — POV: character:nerea-dalmasso; cast: character:nerea-dalmasso, character:paolo-ferri, character:kyla.
 
 ### 20 — Il prezzo di una memoria
@@ -307,7 +307,7 @@
 **Scene canoniche:**
 - 1. La serra, questa volta — POV: character:giulia-orsini; cast: character:giulia-orsini, character:ada-serri, character:teresa-marin, character:b-32.
 - 2. La visita — POV: character:elisa-marin; cast: character:elisa-marin, character:teresa-marin, character:b-32, character:giulia-orsini.
-- 3. La donna con i guanti — POV: character:livia-sanna; cast: character:livia-sanna, character:kyla.
+- 3. La donna con i guanti — POV: character:olivia-brooks; cast: character:olivia-brooks, character:kyla.
 - 4. Nessuno è stato sostituito — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:b-21.
 
 ### 23 — Il capo che tutti volevano
@@ -377,7 +377,7 @@
 **Review proposta:** Mostrare la scala internazionale tramite dati e personaggi già radicati; Anika può contrastare una lettura esclusivamente italiana della legge.
 
 **Scene canoniche:**
-- 1. Chi decide — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:livia-sanna.
+- 1. Chi decide — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:olivia-brooks.
 - 2. Più minuti — POV: character:youssef-benali; cast: character:youssef-benali, character:sergio-lolli.
 - 3. Le parole che non bastano — POV: character:kyla; cast: character:kyla, character:lorenzo-verri, character:lea-renzi.
 - 4. Dalla parte sbagliata — POV: character:nerea-dalmasso; cast: character:nerea-dalmasso, character:b-17, character:mina-soler.
@@ -392,7 +392,7 @@
 - 1. La previsione — POV: character:mina-soler; cast: character:mina-soler, character:nerea-dalmasso, character:b-17.
 - 2. La compagnia — POV: character:ada-serri; cast: character:ada-serri, character:giulia-orsini, character:teresa-marin, character:b-32.
 - 3. La lista — POV: character:kyla; cast: character:kyla, character:lorenzo-verri, character:lea-renzi, character:b-21.
-- 4. Il voto — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:livia-sanna.
+- 4. Il voto — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:olivia-brooks.
 
 ### 30 — Le diciassette
 
@@ -429,7 +429,7 @@
 - 1. Quattro orologi — POV: character:mei-lin; cast: character:mei-lin.
 - 2. Sei firme — POV: character:nico-valenti; cast: character:nico-valenti, character:lea-renzi.
 - 3. Il caso limite — POV: character:mina-soler; cast: character:mina-soler, character:marta-ledesma, character:b-17.
-- 4. La parola sciopero — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:livia-sanna.
+- 4. La parola sciopero — POV: character:irene-valli; cast: character:irene-valli, character:nerea-dalmasso, character:olivia-brooks.
 
 ### 33 — Il primo sciopero
 
@@ -496,7 +496,7 @@
 | character:b-32 | 6 |
 | character:sofia-rizzi | 6 |
 | character:teresa-marin | 6 |
-| character:livia-sanna | 5 |
+| character:olivia-brooks | 5 |
 | character:adriana-lodi | 4 |
 | character:dario-sarti | 4 |
 | character:sergio-lolli | 4 |
