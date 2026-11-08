@@ -51,7 +51,7 @@ Mina non rispose con una frase memorabile. Aprì il rapporto al punto sui colleg
 
 Mina osservò il foglio senza interromperla.
 
-Era la prima volta che Marta sentiva la propria voce formulare il problema senza poterlo spostare su un contratto o una tabella. Le venne in mente l'offerta dei dipendenti di Cyberdine: centomila euro per acquistare una macchina che aveva ormai un valore commerciale molto più alto. All'epoca aveva rifiutato senza esitazione.
+Era la prima volta che Marta sentiva la propria voce formulare il problema senza poterlo spostare su un contratto o una tabella. Le venne in mente la richiesta dei dipendenti di Cyberdine: centomila euro di impegni condizionati per tentare un acquisto, senza che nessuno avesse mai concordato un prezzo. Aveva rifiutato di aprire la trattativa. Allora i contratti già firmati sembravano una ragione sufficiente; adesso quegli stessi contratti comparivano tra i costi del fermo.
 
 Avrebbe preso la stessa decisione anche adesso. Una trattativa non avrebbe cancellato l'aggiornamento clandestino, né la responsabilità di chi la macchina l'avesse rimessa in servizio.
 
