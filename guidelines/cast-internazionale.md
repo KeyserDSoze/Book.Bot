@@ -61,3 +61,7 @@ Il nome **Bi** resta il soprannome scelto da Maya per **B-17**. Restano invariat
 - Non attribuire retroattivamente nazionalità a un personaggio soltanto per giustificare il suo nome: bastano un'impresa e relazioni internazionali già presenti nella trama.
 - Conservarne una corrispondenza reversibile in `cast-rename-map.json` per le modifiche editoriali; i vecchi nomi **non** sono alias diegetici. Un personaggio non viene presentato con due identità.
 - Controllare a ogni revisione `python tools/audit_cast.py`, `python tools/validate.py` e `python tools/build.py`.
+
+## Nuove figure con nome canonico
+
+**Gavin Shaw** è il manager di Core Platform che guida tredici programmatori e, dopo la nomina di Olivia a socia, la affronta sulla differenza fra fedeltà alla propria squadra e responsabilità verso l'intera azienda. **Nora Blake** è la sorella maggiore deceduta di Ethan, presente come memoria e non nella cronologia attuale. In questa passata tutti i file `characters/` sono arricchiti con background, punti ciechi, segni quotidiani e traiettorie.
