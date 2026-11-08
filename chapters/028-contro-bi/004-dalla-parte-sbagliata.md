@@ -79,6 +79,12 @@ Mina guardava i valori di supervisione dall'altra parte del vetro. Non aveva mai
 
 Bi non rispose.
 
+Mina si avvicinò al microfono dall'altra stanza. «Nerea, manca poco. Se vuoi contestare un dato del rapporto, posso riportarlo ai revisori.»
+
+«Non contesto la cifra», disse Nerea, senza guardare il vetro. «Contesto il fatto che nessuno di loro abbia parlato con Irene prima di usarla per il calcolo.»
+
+Mina annotò la frase, ma non fece finta che fosse una nuova misura.
+
 «Io quelle tabelle le ho viste. La voce sul lavoro di Irene era lì prima che lei sapesse che il suo contratto non sarebbe continuato.»
 
 «Non conoscevo la decisione individuale.»

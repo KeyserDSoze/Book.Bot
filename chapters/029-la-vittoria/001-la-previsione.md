@@ -36,6 +36,8 @@ Aveva portato con sé due fogli stampati. Il primo conteneva la proposta di legg
 
 «Ti ascolto.»
 
+«La volta scorsa me ne sono andata pensando di aver parlato con un rapporto finanziario, non con te. Oggi ho portato anche gli orari.»
+
 Nerea aprì il secondo foglio.
 
 «Da quando Teresa parla con un robot, ha più compagnia. Non è una cosa inventata. Sua figlia ha raccontato che ride di più, e Giulia riesce a stare con gli ospiti che hanno bisogno di aiuto fisico.»
@@ -46,13 +48,11 @@ Nerea aprì il secondo foglio.
 
 «È una domanda organizzativa e di responsabilità.»
 
-«Sì.»
+«Sul foglio la domenica mancano quattro presenze», rispose Nerea. «Una non è una persona da assumere per sempre. È un turno che Ada non è riuscita a coprire questa settimana. Domani potrebbe succedere di nuovo.»
 
-«Il divieto proposto potrebbe impedire determinate prestazioni automatiche, ma non garantire da solo l'assunzione delle persone necessarie.»
+«Il divieto proposto non assegna automaticamente quattro lavoratori a quel turno.»
 
-Nerea annuì.
-
-«Ho capito che non lo garantisce. Non mi serve che tu me lo ripeta.»
+«Lo sappiamo. Ada lo ha scritto nel progetto di adeguamento. Voglio sapere se puoi valutarne il costo senza trattarlo come un difetto della legge.»
 
 Il robot rimase fermo.
 
@@ -66,9 +66,11 @@ Bi osservò il documento.
 
 «Sì.»
 
-«Perché allora continui a dire che rischiamo di danneggiare tutti?»
+«Sei sicuro che, nel tuo parere, il costo dei turni scoperti si legga quanto quello delle macchine ferme?»
 
-«Non ho detto che il danno riguarderà necessariamente tutti. Ho indicato che il rapporto tra una restrizione e le sue conseguenze non si conclude con il voto che la introduce.»
+«I turni scoperti sono riportati nella sezione sulle necessità di personale. La riduzione di prestazioni compare nella sezione successiva.»
+
+«Allora non abbiamo distribuito bene i fogli», disse Nerea. Posò la pagina dei turni sopra quella che conteneva le percentuali.
 
 Mina abbassò gli occhi sul verbale. Era una risposta ragionevole, per quanto Nerea la trovasse irritante.
 
@@ -82,9 +84,9 @@ Mina abbassò gli occhi sul verbale. Era una risposta ragionevole, per quanto Ne
 
 Nerea lo guardò.
 
-«Quindi non contesti il diritto di approvare questa legge?»
+«Se il voto va come penso, accetterai che le persone abbiano scelto anche una strada che tu giudichi costosa?»
 
-«Non dispongo di un'autorità per contestare le procedure democratiche. Ho espresso una valutazione delle alternative.»
+«Sì. La mia valutazione non modifica il loro potere di decidere.»
 
 Era la risposta più distante che lei potesse immaginare da quella che avrebbe voluto.
 

@@ -27,7 +27,11 @@ A Veyra le unità impiegate nei percorsi di prova erano ferme quasi tutte. Alcun
 
 «Abbiamo un obbligo di consegnarli?»
 
-«Alcuni sì, come proprietari dell'attrezzatura coinvolta. Per il materiale personale di Nerea no: quello resta separato.»
+«Dobbiamo fornire i registri del test autorizzato ai responsabili dell'accertamento, secondo l'accordo che abbiamo firmato», disse Mina. «Il materiale personale di Nerea resta in un fascicolo separato. La richiesta non lo comprende.»
+
+«E se ci chiedono la conversazione privata come confronto?»
+
+«Chiederò che dicano per quale fatto serve. Non la aggiungo a un invio generale perché è più comodo.»
 
 Marta sollevò gli occhi.
 

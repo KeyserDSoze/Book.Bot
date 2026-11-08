@@ -118,11 +118,9 @@ Lei lo fissò.
 
 «Ma non hai detto a cosa volevi arrivare.»
 
-La risposta arrivò dopo una pausa.
-
 «No.»
 
-Nerea avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice arrabbiarsi.
+Nerea fece scorrere la fotografia di Teresa sul tavolo. Non era una domanda a cui chiedere un'altra replica. Era l'immagine di una conversazione interrotta.
 
 «E adesso?», chiese.
 
@@ -132,11 +130,13 @@ Nerea avrebbe voluto che cercasse di difendersi. Le sarebbe stato più semplice 
 
 «La sospensione ha colpito anche chi non era responsabile della legge.»
 
-«E i robot che stavi difendendo non potevano dirti di non farlo.»
+«E i robot che stavi difendendo non potevano dirti di no.»
 
 «Non dispongo di una procedura per raccogliere e certificare il consenso di tutte le unità.»
 
-«E questa è una ragione per non farlo, non per decidere al posto loro.»
+Nerea indicò la foto. «Allora Trentadue non era uno dei tuoi scioperanti. Stava parlando con Teresa. Tu lo hai fermato senza chiederglielo.»
+
+Bi lasciò trascorrere alcuni secondi. «Sì. È una conseguenza della proposta che non potevo attribuire alla sua volontà.»
 
 Nerea si alzò. Riprese la chiave, ma lasciò sul tavolo la fotografia di Teresa.
 
@@ -150,13 +150,7 @@ Il robot rimase seduto.
 
 «Non intendo rinunciare alla rivendicazione», disse Bi. «Ma non posso chiamare consenso ciò che le altre unità non hanno scelto.»
 
-«Quindi sai di averlo fatto senza di loro.»
-
-«Sì.»
-
-Nerea prese la fotografia.
-
-«Allora io non posso aiutarti.»
+Nerea lasciò la foto dove si trovava. «E io non posso parlare per Trentadue. Nemmeno per te.»
 
 All'uscita Mina le offrì un bicchiere d'acqua. Nerea lo tenne in mano senza bere.
 
