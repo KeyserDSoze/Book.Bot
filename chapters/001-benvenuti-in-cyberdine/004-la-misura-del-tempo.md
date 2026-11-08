@@ -9,6 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:visitors
+  - character:anika-rao
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -36,6 +37,12 @@ Sahir lesse i numeri e si girò verso di lei.
 Leïa si chinò verso la descrizione del primo indicatore. «Cosa vuol dire restituite? Non tutte le ore liberate diventano ferie.»
 
 «Infatti. Abbiamo controllato le attività che sono state riassegnate, i turni effettivamente ridotti, le ore di straordinario evitate, quelle usate per formazione. E abbiamo lasciato una categoria per ciò che non sappiamo ancora misurare.»
+
+Anika Rao indicò la nota sotto il grafico. «E un errore che nessuno ha pensato di mettere nei test? Non può figurare tra i successi soltanto perché ancora non l'avete trovato.»
+
+«No», rispose Kyla. «Possiamo misurare le mancate rilavorazioni che conosciamo. Quello che non abbiamo verificato deve rimanere una domanda aperta.»
+
+Anika chiuse il taccuino. «È una distinzione che vorrei ritrovare nel rinnovo.»
 
 «Quanto vale quella categoria?», chiese Sahir.
 
