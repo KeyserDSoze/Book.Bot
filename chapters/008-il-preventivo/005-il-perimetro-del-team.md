@@ -15,15 +15,15 @@ factions:
   - faction:cyberdine
 ---
 
-Alle diciannove Gavin Shaw trovò Olivia in una sala riunioni con il cartone di una pizza aperto accanto al portatile.
+Tre settimane dopo la plenaria, alle diciannove, Gavin Shaw trovò Olivia in una sala riunioni con il cartone di una pizza aperto accanto al portatile.
 
-Aveva aspettato che finissero le congratulazioni. Non voleva parlare davanti a Taylor o a Victor. Prima di bussare, aveva controllato tre volte sul telefono il grafico dei ticket risolti dal suo team. Era il numero più alto dell'anno.
+Aveva evitato per giorni di parlarle della quota, perché non voleva farlo davanti a Taylor o a Victor. Il rinvio non aveva reso la domanda meno sgradevole. Prima di bussare, aveva controllato tre volte sul telefono il grafico dei ticket risolti dal suo team. Era il numero più alto dell'anno.
 
 «Posso?»
 
 Olivia chiuse il foglio delle consegne. «Sì.»
 
-«Ti faccio gli auguri. Per la quota.»
+«Non ti ho ancora fatto gli auguri. Per la quota.»
 
 «Grazie.»
 
@@ -69,7 +69,7 @@ Gavin posò il telefono con lo schermo rivolto in basso.
 
 «Quindi il problema sono io.»
 
-«Il problema è il modo in cui guidi», rispose Olivia. «Mi hai chiesto di essere precisa. Una squadra può sentirsi protetta dal proprio responsabile e nello stesso tempo diventare impossibile da aiutare. Quando convincI tredici persone che fuori dalla loro stanza ci sono solo incapaci, le rendi più deboli. E trascini gli altri a lavorare intorno a voi.»
+«Il problema è il modo in cui guidi», rispose Olivia. «Mi hai chiesto di essere precisa. Una squadra può sentirsi protetta dal proprio responsabile e nello stesso tempo diventare impossibile da aiutare. Quando convinci tredici persone che fuori dalla loro stanza ci sono solo incapaci, le rendi più deboli. E trascini gli altri a lavorare intorno a voi.»
 
 «Mi stai chiamando un manager tossico?»
 
