@@ -39,3 +39,7 @@ In 003 il nuovo modulo di calcolo è più efficiente, non onnipotente: meno vent
 ## Settima review — comodità delle copie locali
 
 In 003 Passerella conserva presso i siti riferimenti firmati per poter lavorare con connessioni intermittenti. I produttori non condividono una modalità uniforme di aggiornamento e revoca di quelle copie. È una scelta di resilienza locale con debito tecnico futuro, **non un modo per un robot di comandare gli altri**. Mei continua a richiedere collaudi multisito.
+
+## Revisione cast internazionale — 2026-11-08
+
+Erik Solberg è l'ingegnere che con Mei verifica a Suzhou i dati del modulo energetico. Rifiuta una formula commerciale che trasformerebbe 4 ore e 50 di lavoro misto in un intero turno senza soste. L'efficienza del modulo è reale, non annulla il limite di batteria, calore, attuatori e tempi di ricarica. Mei conserva il proprio controllo sul rilascio e sulle condizioni di interoperabilità di Passerella.
