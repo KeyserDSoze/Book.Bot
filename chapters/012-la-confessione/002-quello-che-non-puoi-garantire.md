@@ -75,7 +75,7 @@ Kyla aprì il modello della comunicazione interna. Nell'intestazione c'era già 
 
 «Posso preparare un testo che distingua la modifica accertata dalle esposizioni ancora da verificare», disse. «Però non vorrei che Nerea lo scoprisse leggendo una circolare.»
 
-«Allora registriamo un contatto riservato», rispose Leah. «Le dirò io che cosa possiamo e non possiamo affermare. Tu puoi esserci, se lei lo desidera.»
+«Allora registriamo un contatto riservato», rispose Leah. «Tu puoi occuparti dell'incontro. Sui dati e sugli accessi risponderò io, con quello che avremo verificato.»
 
 Kyla salvò la bozza senza inviarla.
 
