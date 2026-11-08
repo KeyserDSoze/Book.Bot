@@ -38,3 +38,8 @@ In 002 Mei conserva l'avvertenza verificabile sulla possibile perdita delle inte
 ## Settima review — persistenza legata all'identità
 
 In 003 Nico mostra un diagramma nel quaderno: parte dello stato conversazionale è stata conservata con una chiave legata al modulo hardware d'identità non esportabile. Il ripristino sullo **stesso** robot era stato provato, la migrazione verso una **nuova identità** no. Non descrivere la perdita di continuità come inevitabilità metafisica né anticipare un esito di ritiro già deciso nel 20.
+
+
+## Undicesima review — prosa, voci e gesti
+
+**Undicesima review letteraria:** Mei ferma un'estrazione che avrebbe conservato campi personali senza permessi verificati; Nico ritrova l'appunto sulle prove escluse anziché spiegare la propria colpa in una massima; Bruno mostra il relè della sirena e i nuovi controlli sui cavi anziché formulare un'analogia perfetta su Bi. I due casi restano distinti.

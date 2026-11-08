@@ -69,3 +69,8 @@ Nico vede nel 32/002 i log di una incompatibilità multisito e domanda una nuova
 ## Motivazione ordinaria, conseguenze straordinarie
 
 Non ha un passato tragico né un piano di dominio. Ama aggiustare e migliorare: un test in più, una libreria nuova, una conversazione resa meno meccanica. È simpatico a quasi tutti, organizza giochi cooperativi con gli amici e non vede i colleghi come ostacoli. Il limite non è la cattiveria ma il fatto di scambiare il proprio entusiasmo per il diritto di sperimentare senza autorizzazione. L'aggiornamento clandestino di B-17 e la backdoor **rimangono violazioni serie**: non aver voluto fare del male non significa non averlo fatto. Fino al capitolo 10 il lettore osserva soltanto un bravo collega competente; non anticipare né la causa delle capacità di Bi né le prove del collegamento segreto.
+
+
+## Undicesima review — il rifiuto ha un prezzo
+
+Nel capitolo 19 Nico non è soltanto un inventore che rifiuta eroicamente una firma: calcola gli stipendi e le prove che potrebbe finanziare con l'investimento, prova invidia per l'opportunità, nota una clausola di diritti su sviluppi non suoi e rifiuta. L'investitore risponde che non garantisce più la somma e le condizioni. La domenica con Jonas rimane concreta; il suo talento sociale non si riduce all'accesso clandestino di B-17.

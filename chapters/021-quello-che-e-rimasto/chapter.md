@@ -21,3 +21,8 @@ pov:
 # Guardrail
 
 La sessione di B-17 non certifica la configurazione e non autorizza la ripresa del normale impiego. Nessuna funzione motoria o canale esterno clandestino viene riaperto. La replica di Nerea è consegnata solo durante la sessione mediata; il nuovo inoltro richiesto dal robot resta soggetto a verifica. Nessuna prova di coscienza e nessuna soluzione miracolosa. B-21 non contiene la memoria di Bi; la posizione senior di Irene rimane non riaperta.
+
+
+## Undicesima review — prosa, voci e gesti
+
+**Undicesima review letteraria:** la spalla riparata distingue materialmente B-17 dalle unità identiche; eliminata la contraddizione nella descrizione. Nerea nota una lacuna nel ricordo di Bi sulla menzogna del ping pong e tenta di orientarsi fra gesti e dettagli della propria vita, con un accenno concreto al ricordo di Tessa. Nessuna diagnosi di coscienza.

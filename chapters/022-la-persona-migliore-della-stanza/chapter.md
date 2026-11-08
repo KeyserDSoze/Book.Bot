@@ -21,3 +21,8 @@ pov:
 # Guardrail
 
 B-32 è una normale unità con limitazioni di servizio e nessun potere clinico. Non è una copia di Bi e non prova coscienza. Teresa mantiene rapporti reali con la figlia. B-17 resta a Veyra in accesso locale controllato, senza servizio normale. Nessuna conclusione sulla selezione di Irene diventa una legge economica generale.
+
+
+## Undicesima review — prosa, voci e gesti
+
+**Undicesima review letteraria:** Teresa ripete una battuta a Lucia; la figlia Elisa non compete in una graduatoria metafisica con B-32, ma affronta il proprio ritardo e un litigio reale. Olivia risponde finalmente all'amica anziché trasformare ogni osservazione in un articolo. Irene parla di una selezione paradossale e della propria revisione lasciata senza riconoscimento, invece di esporre l'argomento generale della sostituzione.
