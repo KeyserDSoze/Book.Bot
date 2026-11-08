@@ -39,3 +39,7 @@ Nel 23 Sofia ha dovuto negare un secondo microonde al personale per un piccolo b
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 23/004 Sofia riconosce che la formula contrattuale sugli straordinari non risponde al problema reale di Rosa, senza poter promettere nuove ore. Chiede un incontro con la direzione. Nel 35/002 offre a Rosa soltanto un turno extra alle sei del mattino: non coincide con gli orari del figlio. La collaborazione con Rosa migliora senza poterle fornire reddito e serata libera insieme.
+
+## Ventesima review — la seconda firma non può sparire dal pilota
+
+Nel **23/001** Sofia vede sul foglio delle diciannove firme una domanda su chi autorizzi un turno in sua assenza: pubblica soltanto i calendari che può verificare e chiede una persona sostituta abilitata per il periodo scoperto. Nel **23/004** non finge che il calo di reddito di Rosa sia già risolto: manda una richiesta formale di incontro alla direzione e ai rappresentanti, con dati aggregati, senza esporre le buste paga della collega né garantire un guadagno futuro. La decisione sui due contratti a termine resta della direzione, non del robot.
