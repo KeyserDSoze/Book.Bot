@@ -107,6 +107,10 @@ Verri rimase qualche secondo in silenzio. Poi scorse il calendario delle scadenz
 
 Kyla riprese la lettera e tornò in ufficio. Malik Okafor era arrivato nel laboratorio e stava controllando una patch che l'agente aveva prodotto durante la notte. Sul monitor compariva un risultato verde. Malik aprì il codice, lesse due funzioni e rimandò la revisione con una domanda sulla vecchia routine di conferma. Era il genere di domanda che l'assenza di Bi aveva reso costosa per tutto il reparto.
 
-Kyla si fermò un istante a guardarlo. Sperò che Cyberdine riuscisse a difendere il tempo necessario a fare quella domanda, anche quando avrebbe dovuto vendere il servizio a un prezzo più basso.
+«Quanto ti serve per chiudere la revisione?», chiese Kyla.
 
-Sul foglio di Aruvhana il numero restava lo stesso: **17%**. Kyla lo ripiegò e lo infilò nella cartellina del contratto, accanto all'elenco dei 341 rapporti di lavoro.
+«Per capire se quella vecchia conferma si comporta nello stesso modo? Non lo so ancora. Serve Irene, o qualcuno che abbia letto la prima versione.»
+
+Kyla tolse il tappo della penna. Nella previsione di Aruvhana il tempo per una domanda del genere era compreso sotto *verifica ordinaria*. Sul margine della tabella aggiunse *ore di ricostruzione legacy da stimare*.
+
+Il **17%** richiesto dal cliente rimase dov'era. Anche l'elenco dei 341 rapporti di lavoro. Malik riaprì la funzione e cominciò a cercare il primo commit.

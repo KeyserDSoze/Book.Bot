@@ -76,8 +76,10 @@ Nell'atrio, una delegazione di clienti stava guardando B-21 spostare una cartell
 
 Il robot si fermò perché mancava un'autorizzazione a consultare il documento originale. Un operatore chiamò il responsabile, ottenne la firma e lo rimise al lavoro.
 
-Nessuno dei visitatori trovò insolita quella pausa.
+Nessuno dei visitatori trovò insolita quella pausa. Uno di loro chiese soltanto quanto tempo venisse contabilizzato per ottenere la firma.
 
-Kyla pensò al primo giorno in cui tutti si erano fermati a guardare una macchina che faticava a prendere un foglio. Ora non erano più le mani del robot a sembrare importanti.
+«Dipende dall'eccezione», rispose l'operatore.
 
-Era il numero di attività che il resto dell'azienda gli aveva costruito intorno.
+«E quando la persona che deve firmare non c'è?»
+
+L'operatore cercò Kyla con gli occhi. Lei guardò il registro della dimostrazione. Quella era una delle domande a cui, per il momento, avevano una procedura soltanto per alcuni turni.

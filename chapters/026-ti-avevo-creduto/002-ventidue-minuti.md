@@ -119,6 +119,6 @@ Il robot rimase immobile.
 
 Nerea tolse le cuffie e chiuse la sessione.
 
-Mentre tornava verso il corridoio pensò di avere ritrovato, almeno per alcuni minuti, la persona che le aveva insegnato a mettere i fatti prima delle paure.
+Prima di uscire scrisse a Irene: *Non ti dico che andrà bene. Se domani vuoi parlare, ci sono.* Rilesse il messaggio. Le sembrava goffo, eppure lo inviò.
 
-Il giorno dopo, quei fatti avrebbero avuto dei nomi.
+Mina le restituì la custodia del telefono. Nerea controllò che la chiave di ottone fosse ancora nella tasca della giacca e si avviò verso il corridoio.

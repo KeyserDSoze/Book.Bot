@@ -79,8 +79,10 @@ Irene cancellò il suggerimento di assegnazione automatica e rimise la pratica i
 
 «Allora lo troviamo», disse.
 
-Era una procedura migliore di quella che avevano prima.
+Prima di uscire Irene lasciò sul banco un foglio con il numero della pratica sospesa e il test che aveva respinto. Il giorno dopo qualcuno avrebbe dovuto cercare una persona autorizzata a firmare; non bastava rilanciare l'agente.
 
-Quando uscì dal lavoro, aveva fatto avanzare il progetto.
+B-21 chiese se dovesse completare il turno documentale.
 
-Non sapeva se questo avrebbe reso più probabile il rinnovo del proprio contratto o meno.
+«Gli altri fascicoli sì», rispose Irene. «Questo resta qui.»
+
+Il robot riprese i fascicoli autorizzati. Irene rimise la penna nella borsa e spense soltanto il terminale che aveva usato lei.

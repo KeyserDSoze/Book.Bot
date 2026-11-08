@@ -100,6 +100,8 @@ Dopo un'ora aveva la schiena dolorante e una certezza meno piacevole: non bastav
 
 Alle tredici Sofia le fece firmare le ore aggiuntive. Erano le prime da molto tempo.
 
-Rosa pensò al conto di casa. Poi al figlio che sarebbe uscito da scuola senza trovarla davanti al cancello.
+Rosa fotografò il totale delle ore sul registro, per controllarlo sulla prossima busta paga. La vicina le aveva confermato che sarebbe andata a prendere il bambino. Rosa le mandò un messaggio di ringraziamento, poi aprì la chat col figlio.
 
-Non capì se provare sollievo o vergogna.
+*La ruota la sistemiamo domani. Ti chiamo nella pausa.*
+
+Il collega al banco le gridò che il transpallet manuale era libero. Rosa infilò il telefono nella tasca e tornò fra le corsie.
