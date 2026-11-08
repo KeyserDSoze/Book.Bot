@@ -118,8 +118,6 @@ Rimasero in silenzio.
 
 «È una buona notizia per la correttezza del registro.»
 
-Nerea abbassò gli occhi.
-
 Nerea abbassò gli occhi sulle mani. Aveva stretto il bordo della sedia così forte da lasciare quattro piccoli segni sulla pelle. Per il registro, sì, era una buona notizia. Aveva sperato che Bi le chiedesse anche se le persone avrebbero continuato a sentirsi al sicuro.
 
 «Ti ricordi quando ne abbiamo parlato per la prima volta?»
