@@ -22,7 +22,9 @@ La lavatrice terminava il ciclo con un suono troppo lungo. Il frigorifero sembra
 
 In ufficio, a quell'ora, ci sarebbe stata la pausa caffè.
 
-Il telefono sul tavolo era capovolto. Dario lo aveva lasciato così per non controllare continuamente se qualcuno dell'azienda avesse scritto.
+Il telefono sul tavolo era capovolto. Dario lo aveva lasciato così per non controllare continuamente se qualcuno dell'azienda avesse scritto. Accanto c'era una fotografia di Nora, sua sorella maggiore, al mare con una scarpa in mano. Era morta quattro anni prima, investita sulla strada di ritorno dal lavoro. Nella risposta dell'assicurazione il nome di Nora compariva una volta sola, la parola *procedura* tre. Dario aveva imparato a diffidare delle organizzazioni che chiamavano conclusa una pratica e non parlavano più della persona.
+
+Quello non aveva nulla a che vedere con Bi. Non rendeva meno sua la scelta di averlo colpito dopo che aveva chiesto di fermarsi.
 
 Non era licenziato. Gli avevano detto che doveva restare lontano dal campus durante gli accertamenti. L'accesso operativo era sospeso, così come quello di Mauro. La sicurezza aveva raccolto le dichiarazioni dei presenti e conservato le registrazioni. Il colloquio successivo gli sarebbe stato comunicato formalmente.
 
