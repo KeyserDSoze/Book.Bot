@@ -14,142 +14,135 @@ characters:
   - character:emma-walsh
   - character:maya-bennett
   - character:noah-carter
+  - character:olivia-hayes
+  - character:gavin-shaw
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
-
 Victor Cole aveva la pessima abitudine di lasciare la slide più importante per ultima.
 
-Taylor lo sapeva perché lavorava con lui da abbastanza tempo da riconoscere il momento in cui smetteva di guardare le righe e cominciava a guardare la sala. Alla plenaria di quel giovedì c'erano duecento sedie, centottantasei persone e una fila di colleghi in piedi lungo la parete. Al centro, sotto lo schermo, una brocca d'acqua che nessuno aveva toccato.
+Taylor lo sapeva perché lavorava con lui da abbastanza tempo da riconoscere il momento in cui smetteva di controllare le cifre e cominciava a controllare la sala. Duecento sedie, centottantasei persone e una fila in piedi lungo la parete. Sotto il palco c'era una brocca d'acqua ancora piena.
 
-Non c'era un robot in vista.
+Nessun robot in vista.
 
-Era passato abbastanza tempo dall'aggressione perché l'azienda avesse riaperto regolarmente il corridoio di servizio e distribuito i fascicoli che Bi trasportava quella sera. Non abbastanza perché tutti smettessero di abbassare la voce quando ne parlavano.
+Cinque minuti prima, dietro il telo, Cole le aveva chiesto se avesse una macchia di caffè sul colletto.
 
-Cinque minuti prima, dietro il telo che separava il palco dalla sala, Cole aveva chiesto a Taylor se la camicia gli si fosse macchiata di caffè. Lei aveva controllato il colletto.
-
-«È pulita.»
+«È pulito.»
 
 «Sei sicura?»
 
-«Victor, nessuno è venuto per vedere il tuo colletto.»
+«Victor, i colleghi guarderanno i numeri.»
 
-«Io sì», aveva risposto lui, e aveva cercato di sorridere. Taylor aveva capito che era nervoso. Le era parso quasi rassicurante, poi si era irritata perché toccava a lei tranquillizzarlo proprio nella giornata in cui avrebbe dovuto spiegare ai colleghi decisioni dure.
+«È proprio quello che mi preoccupa.»
 
-Cole salì sul piccolo palco con il telecomando nella mano sinistra e un foglio piegato nella destra.
+Sul tavolino delle presentazioni Taylor aveva lasciato due versioni dello stesso prospetto economico. Quella per la plenaria iniziava dai ricavi ricorrenti. Quella preparata per il consiglio cominciava dalla liquidità.
 
-«Partiamo dai numeri.»
+Cole salì sul palco.
 
-Durante la preparazione Taylor aveva tenuto aperto un articolo di **Hannah Brooks**, una giornalista che scriveva di lavoro nei centri logistici. Raccontava un impianto diventato più rapido senza che per tutti diminuissero i richiami fuori turno. Taylor ne aveva ricavato una domanda per la riunione: *di chi stiamo misurando il tempo?* Non aveva tolto la slide sugli straordinari.
+«Partiamo dalle cose che stanno funzionando. I ricavi ricorrenti sono cresciuti del dodici per cento rispetto allo stesso periodo dell'anno scorso. Abbiamo rinnovato contratti importanti e gli agenti di sviluppo ci permettono di consegnare in meno tempo parti di software che prima richiedevano settimane.»
 
-Sullo schermo apparvero quattro indicatori. Il volume delle pratiche concluse era cresciuto nel trimestre, gli errori di trascrizione erano diminuiti, i tempi medi delle verifiche si erano accorciati. Negli ultimi giorni, però, le attività rimaste senza copertura avevano accumulato ritardi.
+Il grafico mostrava una curva regolare che saliva. Qualcuno applaudì. Cole lasciò che l'applauso finisse.
 
-«Non è una catastrofe», disse Cole. «Ma non intendo chiamarla normalità solo perché abbiamo imparato a convivere con un arretrato.»
+«Non dobbiamo vergognarci di essere diventati più efficienti. Cyberdine non costruisce robot. Sviluppiamo e manteniamo software per far lavorare insieme sistemi che i nostri clienti non possono spegnere solo perché sono vecchi.»
 
-Taylor annotò la frase. Era precisa, e i colleghi avrebbero potuto riconoscere in essa la propria fatica.
+Sullo schermo comparvero le commesse di integrazione, i contratti di assistenza applicativa, le licenze della piattaforma e i rilasci approvati dai clienti. Gli agenti avevano scritto adattatori, documentazione e batterie di test; architetti, sviluppatori e QA ne firmavano gli esiti. B-17, prima di essere danneggiato, aveva aiutato a osservare un terminale reale durante una prova. Non aveva sostituito chi era responsabile del rilascio.
 
-Il grafico successivo riguardava il lavoro che Cyberdine vendeva davvero: progettazione e manutenzione di software capace di integrare sistemi di clienti con generazioni diverse di macchine. Un tempo i team scrivevano adattatori e test uno per uno. Poi erano arrivati gli agenti di sviluppo. Gli ingegneri definivano requisiti, autorizzavano strumenti, esaminavano proposte e firmavano rilasci. B-17 aveva aggiunto qualcosa che nessun agente senza corpo poteva offrire: osservare una risposta del vecchio terminale, confrontarla col codice e tornare dal programmatore con un caso non previsto.
+«Anche gli indicatori di produzione sono migliorati», continuò Cole. «Meno errori di trascrizione, più pratiche chiuse, tempi medi di verifica inferiori.»
 
-Il risultato era stato buono. La slide sui difetti riaperti dopo il rilascio, però, era meno soddisfacente: alcuni bug erano tornati proprio quando mancava chi sapeva ricostruire il funzionamento dei vecchi moduli.
+Taylor conosceva quei numeri. Conosceva anche la slide che sarebbe arrivata dopo.
 
-Il grafico successivo misurava il tempo speso a verificare allegati, recuperare versioni precedenti e accertare che una firma corrispondesse alla revisione corretta. Taylor ricordava le discussioni necessarie per costruire quei dati: ciò che compariva sullo schermo era una sintesi, non tutto il lavoro che serviva a renderla attendibile.
+Un dipendente dal fondo chiese se questo significasse che l'azienda era tornata a fare utili.
 
-«Abbiamo risparmiato molto lavoro ripetitivo», proseguì Cole. «Questo ci ha dato margine per attività più qualificate. Alcuni di voi hanno potuto chiudere prima, tornare in famiglia, concentrarsi su problemi veri. Non intendo fingere che non sia un risultato.»
+«Significa che il nostro lavoro ha un mercato», rispose Cole. «E che abbiamo spazio per sistemare ciò che non funziona.»
 
-Un mormorio attraversò la sala. Taylor riconobbe la testa di Emma tra le persone sedute in seconda fila. Paul era più indietro, appoggiato alla parete con le braccia incrociate.
+Non era una risposta alla domanda.
 
-«Il risultato ha avuto anche dei costi», disse Cole. «Abbiamo ridisegnato alcuni ruoli. Alcune opportunità non sono nate dove pensavamo sarebbero nate. Di questo dobbiamo continuare a rispondere.»
+La slide successiva mostrava il margine operativo, sceso dal nove al tre per cento. I costi di assistenza erano cresciuti, due clienti avevano rinviato pagamenti importanti e le ore di rilavorazione sui vecchi connettori aumentavano dopo i rilasci. Il flusso di cassa del trimestre era negativo.
 
-Claire Foster guardava lo schermo senza muoversi. Taylor la vide dall'angolo della sala e trattenne l'impulso di cercare nel suo volto un segno di approvazione. Claire non era lì per rassicurare il Marketing.
+Cole indicò soprattutto la barra azzurra dei ricavi.
 
-Cole passò alla tabella successiva.
+«Stiamo investendo nella crescita. Il margine va difeso, non è un motivo per fermarci.»
 
-«Abbiamo anche un problema di continuità operativa. Quando una unità non è disponibile, non possiamo scoprire in quel momento che nessuno sa più dove si trova il registro originale di una pratica. Abbiamo avviato controlli incrociati e nuove procedure di recupero manuale. Li dovremo completare.»
+Taylor sapeva che non mentiva sulle cifre. Sceglieva in quale ordine farle pesare. Dal quarto piano le erano arrivate richieste di formazione non ancora autorizzate, sostituzioni rimandate e persone che completavano di sera verifiche per le quali il piano aveva previsto meno ore. Le venne in mente la domanda annotata dopo un articolo di Hannah Brooks: *di chi stiamo misurando il tempo?*
 
-Paul fece un piccolo cenno. Taylor lo conosceva abbastanza da sapere che quel punto gli sembrava finalmente concreto.
+«Quando dici che il margine va difeso», chiese una donna in seconda fila, «vuol dire che verranno tolte altre posizioni?»
 
-Per quaranta minuti Cole parlò di turni, margini, qualità, autorizzazioni e formazione. Rispose a una domanda sulle ore straordinarie: sarebbero state registrate, non date per scontate. A una collega che chiedeva se la formazione avrebbe prodotto nuovi posti senior disse che non poteva promettere un organigramma futuro. Il tono della risposta non piacque a molti; Taylor apprezzò almeno che non si travestisse da promessa.
+«Non ho un piano di esuberi da annunciare oggi», rispose Cole. «Significa che non possiamo promettere ogni assunzione richiesta dai reparti. E che continueremo a decidere quali attività producono valore.»
 
-Poi Cole posò il telecomando.
+Claire Foster abbassò gli occhi sul foglio che teneva sulle ginocchia. Taylor non cercò di intercettarne lo sguardo.
 
-«Adesso devo affrontare due comunicazioni.»
+Cole posò il telecomando.
 
-La sala cambiò postura. Non era un movimento simultaneo. Qualcuno smise di far scorrere il telefono. Una donna nell'ultima fila appoggiò i piedi a terra e raddrizzò la schiena.
+«Oggi però c'è anche una comunicazione importante sul futuro dell'azienda. I soci hanno approvato l'ingresso nel capitale di una persona che già conoscete. Non viene da un fondo e non arriva con un titolo nuovo per dirci come lavorare. Olivia Hayes diventa nostra socia, con una quota di minoranza e responsabilità di direzione sulle consegne ai clienti.»
 
-«La prima riguarda i fatti avvenuti nel corridoio di servizio e il danneggiamento di una unità robotica. Gli accertamenti interni, con l'ascolto delle persone coinvolte e la verifica delle registrazioni, si sono conclusi. Ethan Blake e Marcus Reed, già allontanati cautelativamente, non faranno più parte di Cyberdine.»
+Olivia era seduta di lato, con il proprio blocco segnato da tre colori. Per un momento sembrò più contrariata che emozionata: qualcuno le aveva appoggiato una bottiglietta aperta sopra le note. La spostò, poi salì sul palco.
 
-Un colpo secco venne dal fondo. Una bottiglietta di plastica era caduta sotto una sedia; il rumore sembrò assurdamente forte.
+Taylor la conosceva dalle pratiche cartacee, dai collaudi e dalle discussioni con gli sviluppatori. Nel semestre precedente Olivia aveva fermato un rilascio che avrebbe duplicato una conferma su un terminale reale; il giorno dopo aveva parlato con il cliente per recuperare una finestra di installazione, senza imputare il ritardo a chi aveva scoperto il difetto. Aveva rimesso allo stesso tavolo commerciale, supporto, QA e sviluppo, anche quando nessuno di loro aveva voglia di andarci.
 
-Cole aspettò.
+«Grazie, Victor», disse Olivia. «Inizio con una precisazione: non ho ricevuto una parte dell'azienda come premio per aver lavorato fino a mezzanotte. Ho acquistato una partecipazione attraverso un accordo approvato dai soci e ho assunto un rischio. Se un progetto va male, non posso dire che era il problema di un altro reparto.»
 
-«Non discuterò qui le loro posizioni personali», continuò. «Gli eventuali profili esterni agli accertamenti aziendali seguono percorsi distinti, sui quali questa plenaria non deve pronunciarsi. Voglio però che una cosa sia chiarissima. Le divergenze sulle scelte aziendali, anche le più dure, sono legittime. L'aggressione e il danneggiamento violento non lo sono. Non li accetteremo. La sicurezza sul lavoro non dipende da quale opinione ciascuno di noi ha dell'automazione.»
+Qualche risata breve.
 
-Taylor sentì la gravità della frase senza il sollievo che qualcuno aveva forse sperato di provare. Ethan era stato un collega capace di far ridere un'intera stanza durante una pausa. Marcus aveva passato anni a spostare materiali che nessuno voleva spostare. Ora due scrivanie sarebbero rimaste vuote per una decisione che entrambi avevano preso e che non poteva più essere disfatta.
+«Mi avete chiesto in questi giorni come si diventa soci. Non ho una ricetta e non posso promettere quote a tutti. Però posso dirvi che cosa è cambiato nel modo in cui lavoro. Per anni ho pensato che il mio mestiere fosse consegnare una pratica perfetta. Poi ho capito che potevo avere una pratica perfetta, un rilascio verde e un cliente furioso perché nessuno aveva avvisato il supporto. Una firma non ripara quel passaggio.»
 
-Una donna applaudì una volta, poi smise. Non la seguì nessuno.
+Olivia guardò gli sviluppatori in fondo alla sala.
 
-Cole riprese il telecomando.
+«Se gestite una squadra, difendetela quando ha ragione. Ma chiedetevi anche chi deve lavorare dopo di voi. Non basta dire che il nostro team ha chiuso tutti i ticket se per farlo ha lasciato cinquanta eccezioni sul tavolo degli altri. E non serve lavorare tutte le sere per dimostrare di appartenere all'azienda: serve vedere il problema intero, portarlo a chi può decidere e assumersi la parte che ci riguarda.»
 
-«La seconda comunicazione è operativa.»
+Gavin Shaw, responsabile di Core Platform, aveva fatto scivolare il badge sotto il palmo della mano. Taylor notò quel movimento perché lo conosceva dalle riunioni in cui Olivia chiedeva di lasciare aperta una segnalazione finché anche il supporto non avesse potuto verificarla.
 
-Apparve una schermata dal titolo **UNITÀ B-17 — ESITO VALUTAZIONE TECNICA**.
+«Ho avuto colleghi che mi hanno detto di no», continuò Olivia. «Claire mi ha costretta più di una volta a riaprire una prova che consideravo chiusa. Paul mi ha mostrato che il terminale reale non leggeva quello che noi gli avevamo detto di leggere. Emma ha impedito che un corso venisse cancellato per recuperare due ore di lavoro. Non è una gara a chi ha il team migliore. E questa azienda non appartiene solo alle persone che hanno azioni.»
 
-Dall'ultima fila Noah Carter si alzò proprio mentre il codice appariva sullo schermo. Taylor lo riconobbe dalla felpa scura; era venuto alla plenaria senza sedersi con il resto del gruppo di sviluppo. Si infilò nella porta laterale con il telefono in mano. Non fu il solo a uscire durante una riunione così lunga, e Taylor tornò subito a guardare il palco.
+Taylor applaudì. Olivia scese dal palco senza aspettare le foto che il Marketing aveva preparato.
 
-Il nome sembrò tagliare la sala in due, ma soltanto a Taylor. Per il resto delle persone probabilmente era un codice, come gli altri codici dei robot. Le dita di Maya, seduta a pochi posti da Claire, si serrarono intorno a un foglio piegato.
+Cole riprese il microfono. Comunicarono la chiusura degli accertamenti sull'aggressione nel corridoio: Ethan Blake e Marcus Reed, già allontanati cautelativamente, non avrebbero più lavorato a Cyberdine. Le contestazioni sulla strategia aziendale erano legittime; gli atti violenti no. Cole non fornì dettagli personali né pretese un applauso. Una bottiglietta cadde sotto una sedia. Nessuno si mosse per raccoglierla finché il discorso non fu finito.
 
-«La valutazione del centro assistenza conferma danni importanti ai sensori, agli attuatori della spalla e alla struttura. Il preventivo per il ripristino completo è arrivato.»
+Seguì una domanda sui turni straordinari. Paul rispose dalla parete, troppo forte per una sala con il microfono aperto:
 
-Cole si fermò davanti a una tabella molto semplice. Una colonna per riparare B-17. Una per acquistare una unità nuova, con certificazione e garanzia di funzionamento.
+«GLI STRAORDINARI LI SCRIVIAMO, NON LI INVENTIAMO!»
 
-«Riparare B-17 costerebbe quasi quanto comprarne uno nuovo», disse. «E il centro non è in grado di garantirci che i tempi e il risultato siano migliori. Lo dico senza girarci intorno: penso che non lo ripareremo. Anzi, ho deciso di non autorizzare questa spesa.»
+La metà vicina della sala rise. Taylor fece un segno al tecnico per non alzare ulteriormente il volume.
 
-Una sedia scricchiolò. Qualcuno tossì.
+Dopo quasi un'ora e un quarto, quando molti avevano già richiuso i portatili, Cole guardò il foglio piegato che teneva accanto al telecomando.
 
-Taylor guardò Maya.
+«Mi resta un'ultima comunicazione. Operativa, ma necessaria.»
 
-Le vide scivolare il foglio dalle dita, poi piegarsi a raccoglierlo prima che toccasse terra.
+Comparve la schermata **UNITÀ B-17 — ESITO VALUTAZIONE TECNICA**.
 
-«Per l'azienda sarebbe una decisione difficile da giustificare», continuò Cole. «Non abbiamo un margine infinito. Abbiamo già costi aggiuntivi di assistenza e di riorganizzazione. La soluzione è acquistare un'unità sostitutiva che possa prendere in carico i compiti assegnati a B-17.»
+Noah Carter, seduto verso il fondo, si alzò alla comparsa del codice e uscì dalla porta laterale col telefono in mano. Taylor lo riconobbe, senza attribuire alla sua uscita un significato particolare: nella riunione erano andate e venute altre persone.
 
-Alcuni annuirono. Altri rimasero immobili.
+Maya teneva un foglio fra le dita. Quando vide la fotografia della spalla danneggiata, smise di piegarlo.
 
-«Nel frattempo», disse Cole, «per qualche settimana, forse un paio di mesi per completare tutto il riassetto, dovremo rimboccarci le maniche. So che molti lo state già facendo. I responsabili riassegneranno i compiti, il lavoro straordinario sarà autorizzato quando necessario, e i processi che dipendevano da una sola unità verranno ripensati.»
+«I sensori, gli attuatori e la ricertificazione necessari per riportare l'unità in servizio costerebbero quasi quanto un esemplare nuovo», disse Cole. «Il centro assistenza non può darci una garanzia equivalente sui tempi. Ho deciso di non autorizzare la riparazione. Acquisteremo una unità sostitutiva per i compiti che B-17 svolgeva.»
 
-Taylor conosceva bene quel linguaggio: il linguaggio di chi doveva tenere aperta un'azienda senza permettersi sentimentalismi. Cole non stava punendo Bi, non provava disprezzo. Stava decidendo che una macchina rotta costava troppo.
+Lo disse con il tono usato poco prima per un contratto da rinnovare. Sembrava davvero una nota lasciata in fondo a un ordine del giorno troppo pieno.
 
-Fu questo a renderle difficile ascoltarlo.
-
-Alla fine Cole aprì lo spazio alle domande.
+«Nel frattempo i responsabili riassegneranno le commissioni e le verifiche manuali. Lo straordinario sarà autorizzato quando necessario. Dovremo evitare che un processo dipenda da una sola unità e da informazioni non documentate.»
 
 Paul alzò la mano.
 
-«La vecchia unità sarà conservata fino alla chiusura di tutte le verifiche?»
+«IL VECCHIO ROBOT RESTA IN CUSTODIA FINO ALLA CHIUSURA DI TUTTE LE VERIFICHE?»
 
-«Sì. I materiali necessari alle verifiche rimarranno in custodia tecnica. Non è stata autorizzata una distruzione immediata.»
+Cole guardò il microfono, inutile.
 
-«E la nuova unità avrà la stessa configurazione?»
+«Sì. Non è stato autorizzato lo smantellamento immediato.»
 
-«Avrà le capacità necessarie ai compiti che svolgiamo. Le specifiche operative saranno certificate.»
+«E IL NUOVO AVRA' LA STESSA CONFIGURAZIONE?»
 
-Era una risposta corretta. Non era una risposta alla domanda che Paul avrebbe voluto fare.
+«Avrà le capacità certificate per gli stessi servizi.»
 
-Dal centro della sala si alzò una voce.
+Dal centro della sala qualcuno domandò:
 
 «Ma sarà Bi?»
 
-Taylor non vide chi avesse parlato.
+Cole sembrò cercare il punto da cui era arrivata la voce.
 
-Cole fece scorrere gli occhi sulle file.
+«Sarà equivalente per le mansioni assegnate.»
 
-«Sarà un'unità equivalente per i servizi assegnati.»
+Maya lasciò scivolare il foglio e lo raccolse prima che toccasse terra. Taylor non prese appunti. Aveva appena ascoltato per quasi un'ora parole come *crescita*, *responsabilità*, *diventare soci*. All'ultimo minuto l'azienda aveva deciso che un robot nuovo sarebbe bastato.
 
-Taylor annotò anche quella frase. Sul taccuino, subito sotto, aveva scritto senza accorgersene una parola di due lettere.
+Cole chiuse la plenaria. Alcune persone si avvicinarono a Olivia per congratularsi. Altre uscirono senza fermarsi.
 
-*Bi.*
-
-Guardò lo schermo, dove il codice **B-17** occupava ancora il centro della slide.
-
-Per l'intera plenaria nessuno aveva pronunciato il suo nome come lo pronunciavano nei corridoi.
+Taylor guardò la slide ancora accesa: **B-17**. Nessuno aveva pronunciato quel nome nella forma in cui Maya lo usava la sera, nella stanza della carta.
