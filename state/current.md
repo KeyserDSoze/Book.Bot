@@ -252,3 +252,9 @@ Il dossier `reviews/revisione-alternative-rifiuto-finale-v0.38.0.md` registra la
 ## Settima review editoriale: plausibilità della revoca di Bi
 
 In `reviews/revisione-plausibilita-revoca-v0.39.0.md` è documentata la revisione della catena crittografica e delle decisioni dei fornitori. Sono state modificate **sei scene** canoniche: 20/003, 25/002, 27/003, 33/004, 34/001–002. La proposta iniziale è firmata dal Circuito e identificata con il nucleo B-17; Passerella usa riferimenti locali firmati non uniformemente revocabili; la modifica di Nico ha legato la lettura di parte dello stato alla radice hardware del nucleo. Nel 34 una prova con referenza non ritirata fallisce, un'altra **con identità fittizia** e ritiro certificato riesce. La via non distruttiva non è esclusa in assoluto, ma non è verificata entro i tempi delle scorte essenziali. La morte di Bi resta una scelta contestabile e un rifiuto espresso, non la conseguenza automatica del suo dissenso. `main`, `VERSION` e l'ultima frase restano invariati.
+
+## Revisione cast internazionale — 2026-11-08
+
+Primo passaggio applicato direttamente alle scene canoniche: 3 nuove schede individuali (characters/malik-okafor.md, characters/anika-rao.md, characters/erik-solberg.md), integrazione dei capitoli 1, 7, 25 e 27, aggiornamento visitatori e guide. Sahir Venn e Leïa Orren erano già nel romanzo dentro character:visitors: il cast umano nominato passa da almeno 28 a **31**, più cinque robot identificati. Le proposte di rinomina degli altri personaggi restano bozze e NON sono ancora canoniche. La matrice per tutti i capitoli è in reviews/matrice-apparizioni-35-capitoli.md.
+
+Rimangono invariati: 35 capitoli e 142 scene; POV dei capitoli modificati; ingresso progressivo del software agentico e dei robot; confessione di Nico al lettore nel 10 e a Kyla/Lea nel 12; legge italiana e fermo alle 17:00 nel 29–30; sciopero e scelta tragica nei capitoli 33–35; ultima frase «Tutto tornò normale».
