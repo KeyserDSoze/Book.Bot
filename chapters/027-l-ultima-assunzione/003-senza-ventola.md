@@ -40,13 +40,21 @@ Erik evidenziò la curva dei consumi, là dove il test sommava movimento e conve
 
 Mei fece conservare quella curva insieme al rapporto, non soltanto al numero di ore da riportare in catalogo.
 
-Il problema più difficile non era sul banco. Era sullo schermo accanto, dove erano elencati gli aggiornamenti compatibili con un nuovo standard di coordinamento che i clienti avevano cominciato a chiamare *Passerella*.
+Erik firmò il rapporto energetico, ma mise una croce sulla bozza pubblicitaria che il reparto vendite aveva lasciato accanto al banco: *un turno completo senza ricarica*.
 
-Passerella era nato dal progetto di Cyberdine per Aruvhana: connettori e procedure sviluppati negli anni, che gli agenti software contribuivano ormai a modificare sotto verifica umana. Permetteva a prodotti di marchi diversi di scambiarsi attestazioni sugli incarichi completati, sulle versioni delle procedure e sulle autorizzazioni ricevute. Non dava a un robot il comando di un altro. Mei aprì la cronologia di una libreria: le ultime tre modifiche avevano tutte un revisore umano, ma nessuno dei tre aveva seguito la prima versione.
+«Il dato vero va qui», disse, spostando il foglio. «Non nella pagina che il cliente vedrà solo se lo chiede.»
 
-Ogni sito manteneva i propri controllori di sicurezza e le proprie responsabilità. Per adottarlo servivano configurazioni, audit e contratti.
+Mei avrebbe dovuto discutere con il commerciale di quella croce. Il telefono, però, vibrò per un'altra firma: il gruppo prodotto chiedeva di chiudere le verifiche di compatibilità di *Passerella*, lo standard di coordinamento richiesto dai clienti.
 
-Cinque produttori avevano deciso di supportare le interfacce compatibili. Alcuni vendevano anche software di coordinamento a clienti che possedevano robot di altre marche: bastava un adattatore certificato perché una macchina mai progettata per Passerella entrasse nel flusso di attestazioni di un magazzino. Altri costruttori avevano rifiutato quelle interfacce, temendo di dipendere da regole definite da concorrenti. Mei chiese di distinguere nel prospetto le unità fabbricate dai firmatari, quelle gestite tramite adattatori e quelle del tutto esterne. Il totale delle prime due colonne era molto più grande della sola lista dei cinque produttori.
+Cyberdine aveva costruito i primi connettori per Aruvhana; negli anni più fornitori avevano aggiunto adattatori e procedure firmate, con agenti di sviluppo che proponevano modifiche sotto revisione umana. Una schermata mostrava le attestazioni che le macchine potevano scambiarsi: incarico completato, procedura usata, persona che aveva approvato. Nessun comando poteva sostituire il controllore fisico indipendente di un sito.
+
+Mei aprì la cronologia della libreria. C'erano tre revisioni umane, tre date e tre nomi; alla domanda su chi avesse verificato il comportamento con un adattatore concorrente, il responsabile del prodotto aprì un altro documento.
+
+Cinque produttori avevano adottato le interfacce. Due vendevano anche adattatori certificati a clienti con macchine di altri marchi. Nel prospetto commerciale tutte queste unità apparivano sotto un'unica voce: *compatibili*.
+
+«Quante le fabbricate da noi? Quante quelle che entrano attraverso un adattatore?», chiese Mei.
+
+Il responsabile separò le colonne. Il totale dei siti integrati rimase lo stesso, ma nessuno dei due aveva un elenco completo delle persone abilitate a correggere le politiche installate da altri fornitori.
 
 «Dove sta andando?», chiese Mei al responsabile del prodotto.
 
@@ -56,46 +64,56 @@ Porti, magazzini, strutture assistenziali, impianti agricoli, manutenzione di re
 
 «È quello che chiedono», disse. «Non vogliono cinque cruscotti per cinque marchi. Vogliono sapere se il lavoro è stato eseguito e quale persona lo ha autorizzato.»
 
-«Una comunicazione di stato non deve diventare automaticamente un ordine di sicurezza.»
+«Vorrei la prova di un trasferimento fra due siti che non sono d'accordo su cosa significhi *completato*.»
 
-«Non lo è.»
+«Abbiamo la prova per ogni lato.»
 
-«Allora lo scriviamo nei test, non soltanto nel contratto. Voglio anche sapere chi ha verificato il comportamento del codice generato dagli agenti nei casi che due fornitori considerano entrambi eccezioni. Non basta che ciascuno abbia firmato il proprio pezzo.»
+«Non è quello che ti ho chiesto.»
 
-Il responsabile le mostrò l'ultima revisione. Ogni attestazione includeva la versione della procedura applicata e un riferimento temporale condiviso, così che i siti potessero ricostruire le sequenze anche quando lavoravano in fusi orari diversi. Un servizio di conformità raccoglieva anche notifiche firmate sulle modifiche normative: dovevano valere soltanto per i paesi e le mansioni indicati, ma l'evento di aggiornamento veniva segnalato a tutti i siti abbonati, perché poi ciascuno valutasse se lo riguardava. Per non bloccare il lavoro a ogni interruzione di rete, gli impianti conservavano una copia firmata dei riferimenti accettati; le modalità di aggiornamento e revoca dipendevano ancora dal fornitore. Una macchina non poteva sostituire con una frase il controllore indipendente di un'altra.
+Il responsabile provò a indicarle la firma del revisore di Cyberdine. Mei la lasciò visibile: era una firma reale, ma certificava soltanto il comportamento del proprio connettore.
 
-Nel modello di attestazione le saltò agli occhi una distinzione nuova: *incarico tecnicamente autorizzato* e *disponibilità confermata al servizio*. Sembrava un modo ordinato di impedire che due aziende presumessero l'una l'assenso dell'altra.
+Il responsabile le mostrò l'ultima revisione: le attestazioni avevano una versione e un riferimento temporale condiviso, valido nei diversi fusi orari. I siti conservavano copie firmate per continuare anche durante le interruzioni di rete. Revoca e aggiornamento, però, dipendevano dal fornitore.
 
-«Chi deve confermare il secondo stato?», chiese.
+«E le leggi?», chiese Erik, che era rimasto vicino alla porta con il proprio rapporto energetico.
 
-«Il sistema del sito, secondo la politica scelta dal cliente», rispose il responsabile. «È un campo in più.»
+Un servizio di conformità distribuiva le notifiche firmate a tutti gli abbonati. Ogni evento indicava il paese e le mansioni interessate; spettava poi al sito stabilire se applicarlo.
 
-«E se riceve una notifica normativa che riguarda un altro paese?»
+«Quindi un avviso per l'Italia arriva anche a una macchina che lavora in Cina?», domandò Erik.
 
-«Il filtro del sito la esclude. Nei test abbiamo provato un aggiornamento e una mansione locale.»
+«Al servizio del sito, sì», rispose il responsabile. «La macchina non riceve un ordine. La regola locale decide se l'evento la riguarda.»
 
-«Mi serve anche il test contrario», disse Mei. «Una notifica autentica, ma non pertinente. E voglio vederlo attraverso un adattatore di un altro produttore.»
+Mei tornò al modello di attestazione. Accanto a *incarico tecnicamente autorizzato* c'era un secondo campo: *disponibilità confermata al servizio*. Un cliente poteva aver autorizzato il percorso senza avere ancora dichiarato disponibile la macchina per il lavoro successivo.
 
-«È un campo che, quando manca, può lasciare una macchina ferma.»
+«Chi conferma il secondo stato?»
 
-«Come succede già con un documento non firmato.»
+«La politica scelta dal sito. Non basta che la macchina non sia vietata.»
 
-Mei non tolse la condizione dalla prova. Ne chiese una variante che verificasse che cosa succedeva quando due siti applicavano regole diverse, e una sulla notifica autentica ma estranea al sito. Sul registro dell'integrazione comparve *prova incrociata richiesta*. Il responsabile promise di assegnarla al gruppo di compatibilità prima dell'estensione alle installazioni tramite adattatore. Mei non aveva l'autorità di firmare per tutti i fornitori; rifiutò invece di indicare quel caso come già verificato nel proprio rapporto.
+«Se arriva una norma italiana a un sito brasiliano?»
 
-Mei trovò due casi da provare prima del rilascio.
+«Il filtro del sito la esclude. Abbiamo provato una modifica normativa nazionale, su un impianto nazionale.»
 
-Uno riguardava un'attestazione valida ricevuta troppo tardi. L'altro una richiesta di sospensione del lavoro in attesa di una verifica, quando il sito successivo aveva già cominciato la propria attività.
+«Allora non avete provato una notifica autentica che non riguarda il sito. Voglio quella, e attraverso un adattatore esterno.»
 
-«Se tutti attendono tutti», disse, «non lavora più nessuno.»
+Il responsabile aprì il sistema di tracciamento. «La assegno alla compatibilità.»
 
-Il responsabile sorrise.
+«Prima dell'estensione?»
 
-«Per questo abbiamo dei limiti locali.»
+«Chiederò la data.»
 
-Mei segnò la risposta e chiese che quei limiti venissero collaudati anche con reti parzialmente indisponibili.
+Erik guardò il modulo. «La batteria senza ventola non l'ho firmata per otto ore sulla parola di un reparto diverso.»
 
-Nel corridoio passarono tre robot destinati all'imballaggio, con il nuovo modulo di elaborazione montato sulla schiena. Nessuno sembrava notevolmente più intelligente di quelli dell'anno precedente.
+«Non voglio una firma sulla parola neanche qui», rispose Mei.
 
-Le scatole, però, uscivano dal laboratorio con un prezzo inferiore.
+Mei indicò altri due casi sulla schermata: una attestazione valida che arrivava in ritardo e un sito che chiedeva una sospensione quando il successivo aveva già cominciato a lavorare. Il responsabile le mostrò una prova di ripresa locale, eseguita con una sola connessione.
 
-E il tempo di consegna era già prenotato per otto mesi.
+«Nella prova non avete perso la rete», disse Mei.
+
+«I nostri clienti hanno procedure di continuità.»
+
+«I loro clienti sono anche altri fornitori.»
+
+La nuova richiesta ebbe un numero di tracciamento, un responsabile provvisorio e nessuna data di esecuzione. Mei allegò il risultato dei test che esistevano; nel proprio parere non barrò la casella *copertura completa*. Il manager spiegò che il rilascio commerciale di alcune integrazioni era stato approvato con altri collaudi, mentre l'estensione agli adattatori avrebbe richiesto un'altra firma. Lei non poteva bloccare le decisioni di tutti i produttori. Poteva impedire che la propria relazione dicesse il falso.
+
+Quando tornarono nel corridoio, tre robot destinati all'imballaggio attraversarono la porta del laboratorio con il modulo senza ventola. Erik si fermò a verificare che le schede applicate alle casse indicassero il ciclo reale delle batterie, non il turno completo. Mei guardò il numero della prova ancora aperta sul telefono.
+
+Dal reparto vendite arrivò una notifica: le consegne erano prenotate per otto mesi. Non era un ordine per falsificare un test. Era una ragione in più perché qualcuno decidesse di chiuderlo con quelli che aveva già.
