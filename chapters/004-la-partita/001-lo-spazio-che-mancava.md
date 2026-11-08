@@ -10,7 +10,7 @@ characters:
   - character:kyla
   - character:mila-novak
   - character:elena-fischer
-  - character:paolo-ferri
+  - character:paul-turner
   - character:b-17
   - character:leah-rosen
 locations:
@@ -40,7 +40,7 @@ Mila aveva proposto di farne un luogo per scambiare libri, prestare piccoli attr
 
 Leah Rosen aveva approvato la scelta. «Non raccogliamo dati che non ci servono per far funzionare la stanza», aveva detto.
 
-Ora il pavimento era pieno di scatole. Paolo era alla ricerca di un cacciavite, Mila litigava con uno scaffale e due colleghi cercavano di decidere se ordinare i libri per argomento oppure per dimensione.
+Ora il pavimento era pieno di scatole. Paul era alla ricerca di un cacciavite, Mila litigava con uno scaffale e due colleghi cercavano di decidere se ordinare i libri per argomento oppure per dimensione.
 
 Il telefono di Mila vibrò sopra una scatola. Lo guardò e fece una smorfia. «Mia sorella da Zagabria. Le avevo promesso che l'avrei chiamata prima di pranzo.» Lo disse a un volume che raggiunse perfino la persona intenta a sistemare i libri nell'altra stanza.
 
@@ -54,11 +54,11 @@ Il telefono di Mila vibrò sopra una scatola. Lo guardò e fece una smorfia. «M
 
 La richiesta arrivò mentre un programmatore del reparto integrazioni si affacciava sulla porta. Aveva il telefono in una mano e una vecchia tastiera nell'altra. Si chiamava da solo «quello delle urgenze inutili», ma quella mattina non sembrava in vena di scherzi.
 
-«Qualcuno ha visto Paolo?»
+«Qualcuno ha visto Paul?»
 
 «Lo trovi sotto lo scaffale, probabilmente», rispose Mila.
 
-Paolo riemerse, con il cacciavite fra i denti. «Che cosa si è rotto?»
+Paul riemerse, con il cacciavite fra i denti. «Che cosa si è rotto?»
 
 «Niente. È questo il problema. I test dicono che va tutto bene e il terminale continua a inviare due conferme.»
 
@@ -66,7 +66,7 @@ Paolo riemerse, con il cacciavite fra i denti. «Che cosa si è rotto?»
 
 «Quello che usiamo per il connettore delle vecchie revisioni. L'agente ha preparato una correzione, ho letto il confronto, i test sono passati. Quando stacco e riattacco la connessione di prova, però, il registro si riempie due volte.»
 
-Paolo lasciò il cacciavite sul banco. «Avete simulato l'interruzione con la macchina vera?»
+Paul lasciò il cacciavite sul banco. «Avete simulato l'interruzione con la macchina vera?»
 
 «Con il simulatore. Non riesco a farlo succedere sempre sul banco.»
 
@@ -76,7 +76,7 @@ Kyla avrebbe lasciato andare Bi con le sedie. Ma il programmatore, vedendo il ro
 
 «B-17 può guardare lo schermo del terminale mentre facciamo la prova?»
 
-Paolo controllò il pannello dei permessi dell'unità. La lettura visiva dell'ambiente di prova era consentita nel laboratorio, con un responsabile presente; non lo erano la modifica del codice e l'accesso al sistema del cliente.
+Paul controllò il pannello dei permessi dell'unità. La lettura visiva dell'ambiente di prova era consentita nel laboratorio, con un responsabile presente; non lo erano la modifica del codice e l'accesso al sistema del cliente.
 
 «Solo il banco isolato», precisò. «E niente modifiche alla macchina senza autorizzazione.»
 
@@ -100,7 +100,7 @@ Alla seconda prova l'unità rimase in attesa, senza muovere le mani. Il collegam
 
 «Puoi ripetere il caso mantenendo aperto il registro grezzo degli eventi?», chiese Bi.
 
-Il programmatore selezionò la modalità di sola osservazione. Paolo controllò che non inviasse comandi al cliente reale. La terza prova iniziò.
+Il programmatore selezionò la modalità di sola osservazione. Paul controllò che non inviasse comandi al cliente reale. La terza prova iniziò.
 
 Sul pannello del terminale una luce cambiò due volte, a distanza di un intervallo troppo breve per sembrare importante. Nel registro arrivò una prima conferma. Subito dopo, con un identificativo leggermente diverso, ne comparve una seconda.
 
@@ -128,7 +128,7 @@ Kyla guardò l'ora. Erano passati ventidue minuti. Il problema che aveva visto t
 
 L'uomo indicò una vecchia funzione. «Perché tutti, io compreso, abbiamo creduto che il simulatore facesse quello che fa la macchina. Il codice nuovo era quasi giusto. Ci mancava una cosa che non avevamo messo nella prova.»
 
-La seconda patch superò i test. Paolo chiese una ripetizione sul banco reale. Il registro non duplicò l'operazione.
+La seconda patch superò i test. Paul chiese una ripetizione sul banco reale. Il registro non duplicò l'operazione.
 
 «Adesso possiamo proporla al responsabile del rilascio», disse il programmatore.
 
@@ -138,7 +138,7 @@ La seconda patch superò i test. Paolo chiese una ripetizione sul banco reale. I
 
 Bi rimase in attesa, senza chiedere di pubblicare nulla. Il suo ruolo in quella stanza era terminato. Il programmatore tornò al proprio schermo e prese nota di un'eccezione ancora da testare.
 
-Kyla e Bi rientrarono allo Spazio Comune. Paolo rimase nel laboratorio per ricontrollare il terminale.
+Kyla e Bi rientrarono allo Spazio Comune. Paul rimase nel laboratorio per ricontrollare il terminale.
 
 Mila li accolse alzando uno scaffale di qualche centimetro.
 
@@ -152,7 +152,7 @@ Bi riprese a portarle vicino alla finestra. Nessuno lo accolse come una star. Un
 
 Kyla osservò le persone tornare alle proprie attività. Le piaceva che un robot potesse essere utile nella stessa mattina a una macchina complicata e a un tavolo troppo largo. Ma ripensò al programmatore che aveva chiesto a Bi di vedere il suo schermo. Quel gesto era sembrato naturale, come fare spazio a un collega. La parte difficile era cominciata quando il codice aveva richiesto una domanda che nessun test precedente si era fatto.
 
-«È pronto!», annunciò Paolo dalla porta, tornando con una vecchia custodia azzurra.
+«È pronto!», annunciò Paul dalla porta, tornando con una vecchia custodia azzurra.
 
 Tolse il telo da un tavolo da ping pong dimenticato sotto il materiale dello Spazio Comune. Il piano aveva due graffi e una macchia rotonda lasciata da un bicchiere. Mila trovò una pallina.
 
@@ -160,15 +160,15 @@ Tolse il telo da un tavolo da ping pong dimenticato sotto il materiale dello Spa
 
 «No», rispose Kyla. «Il motivo era poterci entrare tutti senza inciampare.»
 
-Paolo fece rimbalzare la pallina. La mandò sotto lo scaffale.
+Paul fece rimbalzare la pallina. La mandò sotto lo scaffale.
 
-Bi attese che Paolo si scostasse, si chinò con cautela e la recuperò. Le sue dita la trattennero soltanto al secondo tentativo.
+Bi attese che Paul si scostasse, si chinò con cautela e la recuperò. Le sue dita la trattennero soltanto al secondo tentativo.
 
 «Grazie, Bi.»
 
 «Prego.»
 
-Paolo prese una racchetta, controllò lo spazio intorno al tavolo e guardò il robot.
+Paul prese una racchetta, controllò lo spazio intorno al tavolo e guardò il robot.
 
 «Tu sai giocare?»
 
@@ -176,10 +176,10 @@ Paolo prese una racchetta, controllò lo spazio intorno al tavolo e guardò il r
 
 Mila rise. «Ha imparato a fare il controllo dei programmi. Vuoi vedere se sa batterti?»
 
-«Non siamo a una gara di informatica», rispose Paolo. «Qui conta come colpisci la pallina.»
+«Non siamo a una gara di informatica», rispose Paul. «Qui conta come colpisci la pallina.»
 
 Kyla si avviò verso la porta.
 
 «Prima tendete bene la rete», disse. «E non rompete la lampada.»
 
-Dal corridoio sentì il primo colpo e subito dopo la voce di Paolo che protestava per un rimbalzo sul bordo. Rimase un istante a sorridere, poi riprese la strada per il proprio ufficio.
+Dal corridoio sentì il primo colpo e subito dopo la voce di Paul che protestava per un rimbalzo sul bordo. Rimase un istante a sorridere, poi riprese la strada per il proprio ufficio.

@@ -9,7 +9,7 @@ pov: character:elena-fischer
 characters:
   - character:elena-fischer
   - character:b-17
-  - character:nerea-dalmasso
+  - character:maya-bennett
 locations:
   - location:cyberdine-campus
 factions:
@@ -64,7 +64,7 @@ Il suo primo impulso fu aprire una segnalazione di sicurezza. Non aveva visto un
 
 Un colpo alla porta interruppe il lavoro.
 
-Nerea Dalmasso entrò con una cartellina stretta al petto.
+Maya Bennett entrò con una cartellina stretta al petto.
 
 «Cerco il modello per una richiesta di sospensione.»
 
@@ -72,11 +72,11 @@ Nerea Dalmasso entrò con una cartellina stretta al petto.
 
 «No. Una cosa fuori dall'azienda.»
 
-Elena indicò una sedia. Nerea rimase in piedi.
+Elena indicò una sedia. Maya rimase in piedi.
 
 «Allora il modello interno non ti aiuterà. Devi parlare con qualcuno che conosca l'ente competente.»
 
-«Lo so.» Nerea guardò verso la porta. «Il robot delle fotocopie è passato di qui?»
+«Lo so.» Maya guardò verso la porta. «Il robot delle fotocopie è passato di qui?»
 
 «B-17?»
 
@@ -84,7 +84,7 @@ Elena indicò una sedia. Nerea rimase in piedi.
 
 «Lo ha chiesto a metà piano.»
 
-Nerea continuò a rigirare la chiave di ottone fra le dita.
+Maya continuò a rigirare la chiave di ottone fra le dita.
 
 «A me non ha fatto ridere.»
 
@@ -98,11 +98,11 @@ Dall'ufficio vicino si sentì una stampante iniziare a trascinare una pagina. L'
 
 «Se ti serve parlarne con qualcuno», disse Elena, «possiamo trovare una persona che capisca il problema. Non devi raccontarlo a me.»
 
-Nerea si sedette, poi si rialzò subito.
+Maya si sedette, poi si rialzò subito.
 
 «Non so ancora nemmeno se il problema esiste nel modo in cui lo sto raccontando.»
 
-Elena pensò alla propria prova. Aveva appena rimproverato a un agente di attribuire troppo peso a un riassunto convincente. Le sarebbe piaciuto suggerire alla collega lo stesso metodo: cercare la fonte, ricostruire le versioni, trovare chi aveva titolo per decidere. Ma quella non era una pratica aziendale e Nerea non le aveva chiesto una procedura.
+Elena pensò alla propria prova. Aveva appena rimproverato a un agente di attribuire troppo peso a un riassunto convincente. Le sarebbe piaciuto suggerire alla collega lo stesso metodo: cercare la fonte, ricostruire le versioni, trovare chi aveva titolo per decidere. Ma quella non era una pratica aziendale e Maya non le aveva chiesto una procedura.
 
 «Vuoi il nome di uno sportello che possa dirti a chi rivolgerti?», chiese.
 
@@ -110,7 +110,7 @@ Elena pensò alla propria prova. Aveva appena rimproverato a un agente di attrib
 
 Elena scrisse il contatto su un foglio e glielo porse senza chiedere altro.
 
-Quando Nerea fu uscita, arrivò la notifica del gruppo sviluppo. Il nuovo caso sintetico era stato accettato per il test, non per il rilascio. Un file mostrava come una fonte esclusa potesse cambiare la decisione di un revisore umano.
+Quando Maya fu uscita, arrivò la notifica del gruppo sviluppo. Il nuovo caso sintetico era stato accettato per il test, non per il rilascio. Un file mostrava come una fonte esclusa potesse cambiare la decisione di un revisore umano.
 
 Elena lesse il risultato. Era utile. Si rese conto che senza il registro cartaceo recuperato da Mila e trasportato da B-17 avrebbero probabilmente scritto una prova meno precisa.
 

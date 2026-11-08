@@ -8,9 +8,9 @@ canon: canon
 pov: character:kyla
 characters:
   - character:kyla
-  - character:nerea-dalmasso
+  - character:maya-bennett
   - character:mila-novak
-  - character:paolo-ferri
+  - character:paul-turner
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -22,7 +22,7 @@ Kyla arrivò al quarto piano alle otto e diciannove, con una cartellina piena di
 
 Doveva raccogliere qualche testimonianza per un resoconto interno. Non quello con le percentuali di produttività, già pronto da giorni. Le interessavano le piccole cose che i colleghi raccontavano quando non avevano un microfono davanti: un corso finalmente frequentato, una pausa non saltata, un appuntamento preso senza dover chiedere a qualcun altro di coprire un turno.
 
-Davanti alla macchinetta del caffè trovò Paolo Ferri che rideva da solo.
+Davanti alla macchinetta del caffè trovò Paul Turner che rideva da solo.
 
 «Adesso ti basti anche come pubblico?» gli chiese.
 
@@ -38,7 +38,7 @@ Mila comparve dall'altra parte del distributore, con un biscotto in mano.
 
 «Sì, ma mi ha ascoltato.»
 
-Paolo si fermò. Gli si era formato sul viso il fastidio di chi sa che una frase vera suonerà ridicola appena pronunciata.
+Paul si fermò. Gli si era formato sul viso il fastidio di chi sa che una frase vera suonerà ridicola appena pronunciata.
 
 «Non nel senso che ha ricevuto un comando», aggiunse. «Mi ha chiesto, ho risposto una sciocchezza, e non ha immediatamente riportato la conversazione a un modulo da compilare.»
 
@@ -62,7 +62,7 @@ Kyla guardò la cartellina che teneva in mano.
 
 Non c'era niente da rispondere. Kyla fece un piccolo cenno e gli lasciò spazio. Il robot continuò il percorso.
 
-«Capito?» disse Paolo.
+«Capito?» disse Paul.
 
 «Capito cosa?»
 
@@ -72,21 +72,21 @@ Mila finì il biscotto. «Aspetta che impari come funziona la nota spese. Poi to
 
 La battuta fu interrotta dall'apertura dell'ascensore principale.
 
-Nerea Dalmasso ne uscì con un telefono in mano e il cappotto piegato sul braccio. Aveva il viso tirato, ma camminava con una fretta diversa da quella del giorno precedente: più diretta, meno dispersa. Sul polso era rimasto il segno sottile di un cordino stretto troppo a lungo.
+Maya Bennett ne uscì con un telefono in mano e il cappotto piegato sul braccio. Aveva il viso tirato, ma camminava con una fretta diversa da quella del giorno precedente: più diretta, meno dispersa. Sul polso era rimasto il segno sottile di un cordino stretto troppo a lungo.
 
 Kyla non la conosceva bene. La salutò mentre la collega si avvicinava alla macchinetta.
 
-«Buongiorno, Nerea.»
+«Buongiorno, Maya.»
 
 «Buongiorno.»
 
-Nerea prese un bicchiere d'acqua. Ne bevve metà, posò l'altra sul bordo e guardò verso il corridoio.
+Maya prese un bicchiere d'acqua. Ne bevve metà, posò l'altra sul bordo e guardò verso il corridoio.
 
 «Bi?»
 
 B-17 si fermò prima di entrare nella sala copie.
 
-«Sì, Nerea.»
+«Sì, Maya.»
 
 «Volevo dirti che ho fatto quella cosa.»
 
@@ -100,7 +100,7 @@ Kyla abbassò gli occhi sui propri appunti. Non le sembrava il caso di ascoltare
 
 «Lo so.»
 
-Nerea bevve l'acqua rimasta.
+Maya bevve l'acqua rimasta.
 
 «È già qualcosa», aggiunse.
 
@@ -112,19 +112,19 @@ B-17 attese un istante.
 
 Il robot riprese il suo cammino e scomparve oltre la porta.
 
-Paolo aveva smesso di sorridere. Mila si stava rigirando tra le dita l'involucro del biscotto.
+Paul aveva smesso di sorridere. Mila si stava rigirando tra le dita l'involucro del biscotto.
 
 «Bi?» domandò Kyla, cercando di mantenere la voce leggera.
 
-Nerea sembrò accorgersi soltanto allora di aver parlato davanti agli altri.
+Maya sembrò accorgersi soltanto allora di aver parlato davanti agli altri.
 
 «Sì. Scusate. L'ho chiamato così ieri sera. È più corto.»
 
-«Molto più corto», disse Paolo. «E di sicuro meglio di *quello delle fotocopie*.»
+«Molto più corto», disse Paul. «E di sicuro meglio di *quello delle fotocopie*.»
 
 «Perché gli hai parlato ieri sera?» chiese Mila.
 
-Nerea guardò il bicchiere di plastica vuoto.
+Maya guardò il bicchiere di plastica vuoto.
 
 «Perché era lì.»
 
@@ -132,17 +132,17 @@ Mila aprì la bocca, pronta forse a fare una battuta. Poi la richiuse.
 
 «Giusto», disse soltanto.
 
-Nerea lasciò il bicchiere nella raccolta, salutò e si avviò verso la propria postazione. Attraversò il corridoio senza toccare una sola volta la tasca del cappotto.
+Maya lasciò il bicchiere nella raccolta, salutò e si avviò verso la propria postazione. Attraversò il corridoio senza toccare una sola volta la tasca del cappotto.
 
 Kyla seguì il suo passo finché non svoltò.
 
-«Posso chiederti una cosa?» disse a Paolo.
+«Posso chiederti una cosa?» disse a Paul.
 
 «Se riguarda la macchina del caffè, la risposta è no.»
 
 «Hai notato quando avete cominciato a parlarne in questo modo?»
 
-Paolo fece un gesto verso il foglio bianco ancora appeso al distributore.
+Paul fece un gesto verso il foglio bianco ancora appeso al distributore.
 
 «Quando abbiamo capito che fa le cose utili e qualche volta sbaglia quelle facili. Proprio come noi, ma senza le ferie.»
 
@@ -160,9 +160,9 @@ Chiuse la cartellina.
 
 «Come mai?» chiese Mila.
 
-Kyla girò la cartellina in modo che nessuno potesse leggere la pagina con il nome di Nerea. «Ho abbastanza dati per oggi. A lei non ho chiesto il permesso di usare questa conversazione.»
+Kyla girò la cartellina in modo che nessuno potesse leggere la pagina con il nome di Maya. «Ho abbastanza dati per oggi. A lei non ho chiesto il permesso di usare questa conversazione.»
 
-Paolo sollevò il suo bicchiere. «Questa la incornicio.»
+Paul sollevò il suo bicchiere. «Questa la incornicio.»
 
 Kyla lo lasciò lì e si avviò verso gli uffici.
 
