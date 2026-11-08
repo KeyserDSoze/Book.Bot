@@ -9,13 +9,13 @@
 
 | Capitolo | Scene | POV | Cast marcato nei frontmatter |
 |---|---:|---|---|
-| 01 · Benvenuti in Cyberdine | 4 | kyla, anika-rao, malik-okafor | b-17, kyla, nico-valenti, visitors |
+| 01 · Benvenuti in Cyberdine | 4 | kyla | anika-rao, b-17, kyla, malik-okafor, nico-valenti, visitors |
 | 02 · Quello delle fotocopie | 4 | elena-riva, paolo-ferri, mila-corsi, kyla | b-17, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nico-valenti, paolo-ferri |
 | 03 · Bi | 4 | mila-corsi, elena-riva, nerea-dalmasso, kyla | b-17, elena-riva, kyla, mila-corsi, nerea-dalmasso, nico-valenti, paolo-ferri |
 | 04 · La partita | 4 | kyla, paolo-ferri, nerea-dalmasso | b-17, dario-sarti, elena-riva, kyla, lea-renzi, mila-corsi, nerea-dalmasso, paolo-ferri |
 | 05 · Il posto che non serve più | 4 | irene-valli, elena-riva, mila-corsi | adriana-lodi, b-17, dario-sarti, elena-riva, irene-valli, kyla, mila-corsi, nerea-dalmasso, paolo-ferri |
 | 06 · Non è colpa mia | 4 | irene-valli, mila-corsi, dario-sarti, nerea-dalmasso | adriana-lodi, b-17, dario-sarti, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, nico-valenti, paolo-ferri |
-| 07 · Quello che manca | 4 | paolo-ferri, irene-valli, dario-sarti, nerea-dalmasso, malik-okafor | adriana-lodi, dario-sarti, elena-riva, irene-valli, kyla, mauro-lanza, mila-corsi, nerea-dalmasso, paolo-ferri |
+| 07 · Quello che manca | 4 | paolo-ferri, irene-valli, dario-sarti, nerea-dalmasso | adriana-lodi, dario-sarti, elena-riva, irene-valli, kyla, malik-okafor, mauro-lanza, mila-corsi, nerea-dalmasso, paolo-ferri |
 | 08 · Il preventivo | 4 | kyla, paolo-ferri, nerea-dalmasso, irene-valli | elena-riva, irene-valli, kyla, lorenzo-verri, mila-corsi, nerea-dalmasso, nico-valenti, paolo-ferri |
 | 09 · La copia | 4 | paolo-ferri, elena-riva, irene-valli, nerea-dalmasso | adriana-lodi, b-21, elena-riva, irene-valli, kyla, nerea-dalmasso, nico-valenti, paolo-ferri |
 | 10 · Il segnale | 4 | nico-valenti, mina-soler | b-17, mina-soler, nico-valenti |
@@ -33,9 +33,9 @@
 | 22 · La persona migliore della stanza | 4 | giulia-orsini, elisa-marin, livia-sanna, irene-valli | ada-serri, b-21, b-32, elisa-marin, giulia-orsini, irene-valli, kyla, livia-sanna, nerea-dalmasso, teresa-marin |
 | 23 · Il capo che tutti volevano | 4 | sofia-rizzi, rosa-fabbri, amir-haddad | amir-haddad, b-37, rosa-fabbri, sofia-rizzi |
 | 24 · La prima bugia | 4 | ada-serri, giulia-orsini, mei-lin | ada-serri, b-17, b-32, b-33, giulia-orsini, mei-lin, mina-soler, teresa-marin |
-| 25 · Il consiglio di Bi | 4 | kyla, mina-soler, irene-valli, anika-rao, malik-okafor | b-17, b-21, irene-valli, kyla, lorenzo-verri, marta-ledesma, mei-lin, mina-soler |
+| 25 · Il consiglio di Bi | 4 | kyla, mina-soler, irene-valli | anika-rao, b-17, b-21, irene-valli, kyla, lorenzo-verri, malik-okafor, marta-ledesma, mei-lin, mina-soler |
 | 26 · Ti avevo creduto | 4 | irene-valli, nerea-dalmasso | b-17, irene-valli, kyla, lorenzo-verri, mina-soler, nerea-dalmasso |
-| 27 · L'ultima assunzione | 4 | sergio-lolli, youssef-benali, mei-lin, irene-valli, erik-solberg | irene-valli, kyla, mei-lin, nerea-dalmasso, sergio-lolli, youssef-benali |
+| 27 · L'ultima assunzione | 4 | sergio-lolli, youssef-benali, mei-lin, irene-valli | erik-solberg, irene-valli, kyla, mei-lin, nerea-dalmasso, sergio-lolli, youssef-benali |
 | 28 · Contro Bi | 4 | irene-valli, youssef-benali, kyla, nerea-dalmasso | b-17, irene-valli, kyla, lea-renzi, livia-sanna, lorenzo-verri, mina-soler, nerea-dalmasso, sergio-lolli, youssef-benali |
 | 29 · La vittoria | 4 | mina-soler, ada-serri, kyla, irene-valli | ada-serri, b-17, b-21, b-32, giulia-orsini, irene-valli, kyla, lea-renzi, livia-sanna, lorenzo-verri, mina-soler, nerea-dalmasso, teresa-marin |
 | 30 · Le diciassette | 5 | sergio-lolli, sofia-rizzi, giulia-orsini, mei-lin, nerea-dalmasso | ada-serri, amir-haddad, b-21, b-32, b-37, bruno-dalmasso, elena-riva, giulia-orsini, kyla, lea-renzi, mei-lin, nerea-dalmasso, paolo-ferri, sergio-lolli, sofia-rizzi, teresa-marin, youssef-benali |
