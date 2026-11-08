@@ -36,3 +36,7 @@ Nel 23/004 Rosa contesta a Sofia la risposta sugli straordinari non garantiti e 
 ## Diciannovesima review — formazione utile, reddito incerto
 
 Nel **17/003** Sofia assegna a Rosa verifiche più difficili per un mese, ma Rosa domanda quante ore siano realmente riconosciute: la formazione non le procura automaticamente né straordinari né una promozione. Sofia non chiude la domanda con un'etichetta positiva nel report. Nel 18 Rosa continua a conoscere la baia abbastanza da organizzare un recupero manuale; nel 23 chiederà dati sulla distribuzione dei turni senza voler tornare a un sistema di favori.
+
+## Ventesima review — il secondo calo di straordinari non è il primo
+
+Nel **17/003** gli straordinari avevano già iniziato a diminuire con l'introduzione della funzione di collaborazione e della formazione sulle eccezioni. Nel **23/004** il confronto esplicita che una parte delle ore extra era ancora presente **prima del nuovo algoritmo delle turnazioni**, e diminuisce ulteriormente (da poco più di venti ore a quattro). Rosa non aveva mai sottoscritto una garanzia di quelle ore, ma ne aveva ricavato un bilancio familiare. Accetta di essere inclusa in una richiesta di incontro, chiedendo che le buste paga restino private; vuole dati aggregati e un confronto vero, non il ritorno di favoritismi o una promessa inesistente.
