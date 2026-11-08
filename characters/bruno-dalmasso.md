@@ -24,3 +24,7 @@ Bruno coordina con Nerea un'autorizzazione regolare per il ritiro fisico di medi
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 31 Bruno recupera medicinali con un furgone e autorizzazioni regolari, senza fare del ritorno alle vecchie procedure un ideale. Prima di salutare Nerea la invita a mangiare il sugo che conserva nel congelatore, **anche se la sirena non sarà ancora sistemata**. Vorrebbe ritrovare la figlia fuori dalle emergenze; la richiesta semplice mette in luce la sua fierezza e l'incapacità di formulare affetto senza sembrare pratico.
+
+## La famiglia dopo Tessa
+
+Bruno ha perso la figlia maggiore Tessa, sorella di Nerea, nove anni prima dell'inizio della vicenda. La ricostruzione dell'incidente stradale è stata faticosa: i diversi uffici gli hanno fornito informazioni spezzate, senza che fosse accertata una responsabilità per la morte. Bruno non confonde il limite di un archivio con la prova che chiunque vi lavori sia indifferente. Nerea talvolta interpreta quella prudenza come una resa. Il disaccordo fra loro è reale, ma non spezza il legame né giustifica l'uso non autorizzato delle credenziali di Bruno per Valle Corta.

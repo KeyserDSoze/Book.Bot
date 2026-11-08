@@ -76,7 +76,7 @@ Malik trovò un commit antico, poi un commento che rimandava a un'appendice non 
 
 Malik guardò l'orologio. Aveva una revisione da firmare nel pomeriggio e altre due patch in attesa.
 
-«Posso seguirti in laboratorio dopo pranzo.»
+«Posso seguirti in laboratorio dopo pranzo. Gavin mi ha chiesto di chiudere due revisioni oggi, ma questa viene prima.»
 
 «No. Vado a prendere il registro e poi torniamo sul codice. Ho bisogno che tu sappia spiegarmi la funzione, non di un'altra sintesi.»
 

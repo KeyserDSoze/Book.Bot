@@ -30,13 +30,15 @@ Non accadde.
 
 Mila, dietro di lui, sporse la testa.
 
-«Che hai fatto?»
+«Che hai fatto?», chiese Mila a una voce tanto alta da far girare due colleghi dall'altra parte del corridoio.
 
 «Niente. Sono finiti i bicchieri.»
 
 «E tu hai selezionato il caffè lo stesso.»
 
 «Per abitudine.»
+
+La parola gli rimase in gola. Non fumava e non aveva mai toccato droghe; interrompeva i giochi dopo un tempo stabilito e la sera controllava i minuti trascorsi sul telefono. Aveva perso entrambi i genitori quand'era adolescente, dopo anni segnati dalle loro dipendenze, ed era cresciuto con una zia. Aveva imparato a sospettare di ogni cosa che si ripetesse senza una decisione. Eppure aveva premuto il tasto del caffè senza guardare se ci fosse il bicchiere.
 
 Paolo premette il tasto di arresto. Il getto continuò per due secondi, poi si fermò. Sul display comparve **EROGAZIONE COMPLETATA**.
 
@@ -82,7 +84,7 @@ Paolo aveva annuito. Era una risposta onesta. Se l'unità fosse stata una stampa
 
 Eppure era andato a letto chiedendosi se avrebbe dovuto fare qualche cosa di più.
 
-«Stanno controllando anche le registrazioni?», domandò Mila, abbassando la voce.
+«Stanno controllando anche le registrazioni?», domandò Mila, provando ad abbassare la voce. Paolo indicò la porta aperta: l'avrebbero sentita anche dal tavolo vicino.
 
 «Sì.»
 

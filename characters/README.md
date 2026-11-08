@@ -1,3 +1,9 @@
+---
+type: index
+id: register:characters
+canon: canon
+---
+
 # Registro dei personaggi — canone del romanzo
 
 Questo indice comprende **tutte le schede di `characters/`** e distingue i nomi già canonici dalle proposte di rinomina non applicate. Il nome canonico di Kyla è ora **Kyla Morgan**: l'id `character:kyla` resta per compatibilità. Leah Rosen, Mila Novak, Elena Fischer e Olivia Brooks sono rinomine già applicate; Malik Okafor, Anika Rao ed Erik Solberg sono figure internazionali già integrate. Le eventuali proposte *Noah Bennett* (Nico), *Alexander Reed* (Lorenzo), *Irene Walsh* (Irene), *Paul Carter* (Paolo) restano proposte, non alias ufficiali.

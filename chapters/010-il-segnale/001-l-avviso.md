@@ -17,15 +17,15 @@ factions:
 
 La notifica arrivò mentre Nico Valenti guardava un restauratore rimettere in funzione l'orologio elettrico di una vecchia stazione.
 
-Nel video l'uomo controllava un contatto, rimontava un ingranaggio e aspettava che la lancetta avanzasse. Nico aveva aperto quella registrazione per curiosità; dopo venti minuti si era accorto di averne lasciate partire altre tre. Gli piacevano quei lavori nei quali un guasto poteva essere indicato con il dito e un risultato non dipendeva da come veniva raccontato.
+«È lo stesso errore che hai fatto tu», scrisse a Jonas, un amico con cui costruiva piccoli circuiti il sabato, allegando la foto di un ingranaggio montato al contrario. Jonas rispose con un insulto affettuoso. Nico scoppiò a ridere e mandò una seconda foto nel gruppo dove, ogni giovedì, organizzavano la partita cooperativa del fine settimana.
 
-Sul tavolo, accanto al portatile, c'era una lampada senza interruttore. Aveva deciso di ripararla quella mattina, prima di uscire. Poi erano arrivati due messaggi di lavoro, una telefonata che non aveva richiamato e il pensiero di non sapere quale ricambio acquistare. La lampada era rimasta aperta. Accanto, un taccuino di prove era finito sotto un bicchiere d'acqua.
+Sul tavolo, accanto al portatile, c'era una lampada smontata. Aveva già individuato il difetto, ma il negozio non aveva l'interruttore giusto. La lampada non era un segno di solitudine. In casa sua rimaneva spesso qualcosa aperto perché capire il funzionamento di un oggetto lo divertiva più che richiuderlo. Il giorno prima aveva invitato due amici a cena; i piatti erano stati lavati, ma un taccuino di prove era rimasto sotto un bicchiere d'acqua.
 
-Sul secondo monitor aveva lasciato un elenco di cose da fare. In cima: *riordinare il tavolo*. Era giovedì. L'aveva scritto domenica.
+Sua madre gli scrisse: *Domenica vieni a pranzo o devo scongelare meno roba?*
 
-Sua madre gli aveva scritto poco prima: *Domenica vieni a pranzo o devo scongelare meno roba?* Nico aveva letto il messaggio dall'anteprima. L'idea di rispondere *sì* gli sembrò impegnativa, rispondere *no* gli sembrò crudele. Aveva lasciato il telefono a faccia in giù, come se bastasse quello a impedire al frigorifero di sua madre di riempirsi.
+*Vengo. Porto il dolce*, rispose. Poi aggiunse: *Non comprare la torta di riserva, stavolta.* Lei gli mandò un messaggio vocale di dodici secondi. Non aveva bisogno di ascoltarlo per sapere che avrebbe protestato.
 
-Si disse che avrebbe risposto dopo aver sistemato la lampada. Non aveva neppure ancora trovato l'interruttore giusto.
+Al lavoro Nico era quello che rimaneva accanto a un collega finché una funzione non cominciava ad avere senso, anche se avrebbe potuto correggerla da solo in cinque minuti. Quel pomeriggio un junior gli aveva chiesto perché un test fallisse soltanto sul terminale vero; Nico non gli aveva inviato una soluzione, ma tre domande e poi un invito a guardare insieme il codice. Gli riusciva facile capire le librerie nuove, anche perché gli piaceva studiarle fino a tardi. Non gli riusciva altrettanto facile stabilire quando un esperimento interessante avrebbe dovuto aspettare l'indomani.
 
 Un suono breve arrivò da una finestra di servizio quasi coperta dal browser.
 

@@ -8,7 +8,7 @@ Stato: registro misto. I nomi nella prima tabella sono quelli canonici attuali; 
 |---|---|---|---|
 | Nico Valenti | Ingegnere software | Noah Bennett, britannico | Da approvare |
 | Nerea Dalmasso | Responsabile Hub | Mantenere | Proposto |
-| Kyla | HR e marketing | Kyla Morgan | Da approvare |
+| Kyla Morgan | HR e marketing | Nome e cognome canonici | Canonico |
 | Mei Lin | Qualità robotica | Mantenere | Proposto |
 | Leah Rosen | Sicurezza e privacy | Nome adottato | Canonico |
 | Ada Serri | Centro assistenziale | Mantenere | Proposto |
@@ -79,3 +79,7 @@ Livia Sanna è stata rinominata **Olivia Brooks** nella scheda individuale, nei 
 ## Seconda passata di rinomine canoniche — 8 novembre 2026
 
 **Leah Rosen** (già Lea Renzi), britannica e responsabile sicurezza; **Mila Novak** (già Mila Corsi), croata e coordinatrice dello Spazio Comune; **Elena Fischer** (già Elena Riva), tedesca e responsabile della documentazione. Le schede, i riferimenti di scena e i file canonici sono aggiornati; non cambiano eventi, conoscenze, responsabilità o POV dei personaggi. Le revisioni storiche restano immutate nella storia Git.
+
+## Aggiornamento personaggi — 8 novembre 2026, revisione successiva
+
+Kyla è diventata **Kyla Morgan** nel canone; il suo ID tecnico `character:kyla` è stato conservato. Aggiunto **Gavin Cole**, responsabile Delivery, con scene nei capitoli 1, 5 e 8 e menzione nel 7. Il cast umano nominato passa a 32 persone; il registro completo e aggiornato è `characters/README.md`. Le rinomine ipotetiche Noah Bennett, Alexander Reed, Irene Walsh e Paul Carter **non** sono state applicate. Nuovi background per Nerea, Paolo, Mila e Nico, definiti nelle schede e fatti emergere nelle scene.

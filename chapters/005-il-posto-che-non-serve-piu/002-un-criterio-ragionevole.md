@@ -12,6 +12,7 @@ characters:
   - character:irene-valli
   - character:kyla
   - character:b-17
+  - character:gavin-cole
 locations:
   - location:cyberdine-campus
 factions:
@@ -30,7 +31,7 @@ La seconda conteneva due caselle.
 
 Elena conosceva già il risultato delle prove. Aveva chiesto che si tenesse aperta una possibilità di confronto, e ora se ne pentiva un poco: sarebbe stato più facile contestare una scelta opaca che una scelta preparata con tanta cura.
 
-Entrarono Kyla, Adriana e due responsabili di prodotto. Uno portava una stampa dei risultati di test, l'altro il computer aperto sulla matrice delle autorizzazioni.
+Entrarono Kyla, Adriana e due responsabili. Gavin Cole, responsabile Delivery, portava una stampa dei risultati di test con una colonna evidenziata: le ore consumate dal suo gruppo. L'altro aveva il computer aperto sulla matrice delle autorizzazioni.
 
 «Prima di vedere i numeri», disse Adriana, «vorrei sapere chi si occuperà dei casi che nessuno ha pensato di provare.»
 
@@ -76,7 +77,7 @@ La domanda rimase sospesa. Il calendario dei corsi presentato dal reparto HR con
 
 «Aggiungiamo un obbligo di revisione del sorgente sui casi critici», propose Elena. «E una prova periodica senza agente, in cui il responsabile deve ricostruire una anomalia con i log e le procedure.»
 
-Uno dei responsabili guardò la tabella. «Possiamo farlo. Non richiede una posizione senior dedicata, però.»
+Uno dei responsabili guardò la tabella. «Possiamo farlo», disse Gavin, indicando le ore previste dal gruppo Delivery. «Ma i nuovi controlli vanno pianificati con i responsabili che li useranno. Non richiede una posizione senior dedicata, però.»
 
 Era la frase decisiva.
 
