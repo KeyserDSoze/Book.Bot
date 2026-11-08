@@ -15,7 +15,7 @@ Ha una famiglia e un figlio adolescente, a cui promette di non aprire il canale 
 
 ## Dopo la promozione di Kyla: cambiamento incompleto
 
-Nel capitolo 25 Gavin rifiuta che il pilota Aruvhana venga valutato contando soltanto la capacità automatica senza i costi di chi verifica davvero. Ha cominciato a raccogliere le ore di Elena e QA, benché continui a discutere le stime. Nel 30 concede un aiuto limitato a un altro gruppo durante lo stop, registrandolo nel piano comune anziché come favore personale; nel 31 chiede agli sviluppatori di documentare il tempo necessario per recuperare una funzione prima di segnare verde un ticket. Nel 35 Irene riferisce che le riunioni con Elena sono ancora conflittuali, ma avvengono su dati condivisi. **Non è una redenzione completa:** continua a difendere i propri, solo con una concezione un poco più ampia di chi sia «dei suoi».
+Nel capitolo 25 Gavin rifiuta che il pilota Aruvhana venga valutato contando soltanto la capacità automatica senza i costi di chi verifica davvero. Ha cominciato a raccogliere le ore di Elena e QA, benché continui a discutere le stime. Nel 30 concede un aiuto limitato a un altro gruppo durante lo stop, registrandolo nel piano comune anziché come favore personale; nel 31 chiede agli sviluppatori di documentare il tempo necessario per recuperare una funzione prima di segnare verde un ticket. Nel 35 Claire riferisce che le riunioni con Elena sono ancora conflittuali, ma avvengono su dati condivisi. **Non è una redenzione completa:** continua a difendere i propri, solo con una concezione un poco più ampia di chi sia «dei suoi».
 
 
 ## Quattordicesima review — conseguenze dei rapporti
