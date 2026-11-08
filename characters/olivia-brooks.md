@@ -12,7 +12,7 @@ Giornalista britannica residente da anni a Roma, dove lavora come freelance e sc
 
 ## Capitoli 28–29
 
-Olivia documenta proteste eterogenee e l'approvazione della legge sulle mansioni riservate agli umani senza attribuire ai robot un'unica colpa per la perdita di lavoro. Rileva che il video breve di Bi sul contratto Aruvhana omette la parte sulle decisioni umane e sul rischio di perdere il cliente. Intervista Irene, che rifiuta una storia semplicistica sul robot che «ruba il lavoro». In Piazza Montecitorio raccoglie la sua reazione al voto; la legge non restituisce posti automaticamente.
+Olivia documenta proteste eterogenee e l'approvazione della legge sulle mansioni riservate agli umani senza attribuire ai robot un'unica colpa per la perdita di lavoro. Rileva che il video breve di Bi sul contratto Aruvhana omette la parte sulle decisioni umane e sul rischio di perdere il cliente. Intervista Claire, che rifiuta una storia semplicistica sul robot che «ruba il lavoro». In Piazza Montecitorio raccoglie la sua reazione al voto; la legge non restituisce posti automaticamente.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
