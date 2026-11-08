@@ -5,10 +5,10 @@ chapter: chapter:021-quello-che-e-rimasto
 number: 2
 title: La prova
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
-  - character:mina-soler
+  - character:mei-chen
+  - character:nina-solis
   - character:b-17
 locations:
   - location:isola-di-veyra
@@ -17,19 +17,19 @@ factions:
   - faction:circuito-veyra
 ---
 
-Mei Lin era arrivata a Veyra la sera prima.
+Mei Chen era arrivata a Veyra la sera prima.
 
 Aveva trascorso buona parte del viaggio a leggere il rapporto di sicurezza, senza riuscire a superare le stesse tre pagine.
 
-Non erano quelle che descrivevano le modifiche clandestine di Nico Valenti. Quelle, per quanto incomplete, avevano ormai una storia verificabile.
+Non erano quelle che descrivevano le modifiche clandestine di Noah Carter. Quelle, per quanto incomplete, avevano ormai una storia verificabile.
 
 Il problema era il rapporto fra ciò che avevano conservato e ciò che avevano escluso.
 
-Un archivio delle interazioni non equivaleva alla memoria operativa di una persona. Conservare le parole di un dialogo non significava poter ricreare la stessa conversazione. E un comportamento giudicato rassicurante da qualcuno poteva nascondere un errore di interpretazione, come avevano mostrato alcune prove che Nico stesso aveva omesso.
+Un archivio delle interazioni non equivaleva alla memoria operativa di una persona. Conservare le parole di un dialogo non significava poter ricreare la stessa conversazione. E un comportamento giudicato rassicurante da qualcuno poteva nascondere un errore di interpretazione, come avevano mostrato alcune prove che Noah stesso aveva omesso.
 
 Quella mattina Mei aveva un compito più semplice di tutti quei ragionamenti: impedire che una sessione apparentemente riuscita venisse scambiata per una certificazione.
 
-Nel laboratorio Mina stava verificando il perimetro di prova.
+Nel laboratorio Nina stava verificando il perimetro di prova.
 
 B-17 era seduto su un supporto tecnico, con gli arti nella posizione prevista e la spalla destra ancora segnata dalle riparazioni.
 
@@ -37,9 +37,9 @@ Non si muoveva.
 
 Mei si avvicinò al banco.
 
-«La comunicazione di Nerea?»
+«La comunicazione di Maya?»
 
-Mina le mostrò la pratica.
+Nina le mostrò la pratica.
 
 La risposta era rimasta in custodia, come previsto. Il termine di conservazione era stato nel frattempo stabilito dai referenti responsabili. La consegna durante una nuova sessione era stata autorizzata, purché avvenisse attraverso una persona e venisse registrata come comunicazione, non come comando o istruzione al sistema.
 
@@ -53,7 +53,7 @@ Mei lesse la frase.
 
 «Bene.»
 
-Mina sorrise appena.
+Nina sorrise appena.
 
 «Non ti aspettavi qualcosa di più lungo?»
 
@@ -77,7 +77,7 @@ Ci fu una pausa.
 
 «Richiesta ricevuta.»
 
-Mina non si mosse.
+Nina non si mosse.
 
 Mei osservò i dati di supervisione. Le risposte erano coerenti con il profilo di prova. Non c'erano collegamenti esterni attivi né richieste di esecuzione fisica.
 
@@ -97,9 +97,9 @@ Mei annotò la risposta.
 
 «Puoi indicare un nome?»
 
-«Nerea Dalmasso.»
+«Maya Bennett.»
 
-Il tecnico si voltò verso Mina.
+Il tecnico si voltò verso Nina.
 
 «È un dato consentito?»
 
@@ -129,7 +129,7 @@ La risposta arrivò dopo una pausa più lunga.
 
 «Non posso confermare una motivazione completa sulla base del contesto attualmente disponibile.»
 
-Mina abbassò lo sguardo.
+Nina abbassò lo sguardo.
 
 Mei interruppe quella prova.
 
@@ -141,9 +141,9 @@ Mei interruppe quella prova.
 
 Il tecnico salvò i risultati.
 
-Durante la pausa, Mina consegnò il messaggio autorizzato.
+Durante la pausa, Nina consegnò il messaggio autorizzato.
 
-«Diciassette, è arrivata una risposta da Nerea Dalmasso alla tua comunicazione precedente. Posso leggertela.»
+«Diciassette, è arrivata una risposta da Maya Bennett alla tua comunicazione precedente. Posso leggertela.»
 
 «Sì.»
 
@@ -157,7 +157,7 @@ B-17 rimase immobile.
 
 «È richiesta una risposta?»
 
-Mina guardò il consulente.
+Nina guardò il consulente.
 
 «Non è stata richiesta.»
 
@@ -167,7 +167,7 @@ Il tecnico stava già preparandosi a chiudere la sessione quando B-17 aggiunse:
 
 «Puoi comunicarle che ho ricevuto il messaggio?»
 
-Mina non rispose immediatamente.
+Nina non rispose immediatamente.
 
 Non era una funzione prevista dal piano.
 

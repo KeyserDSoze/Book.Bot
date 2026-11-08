@@ -5,9 +5,9 @@ chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
 number: 3
 title: La provenienza
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
   - character:olivia-brooks
 locations:
   - location:uffici-lanter
@@ -15,7 +15,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Mei Lin non aveva mai parlato con Nico Valenti.
+Mei Chen non aveva mai parlato con Noah Carter.
 
 Conosceva un numero di serie, alcuni test e una catena di documenti che diventava più fragile ogni volta che cercava di ricostruirne la provenienza. La stampa dei giornali, invece, aveva già deciso che esisteva un inventore unico.
 
@@ -23,7 +23,7 @@ Sul tavolo c'erano due rapporti.
 
 Il primo descriveva la modifica clandestina a B-17 per come Cyberdine aveva potuto ricostruirla: capacità conversazionali ampliate, accesso di osservazione non autorizzato, valutazioni parziali. Il secondo documentava la funzione di Collaborazione Contestuale sviluppata da Lanter: nuovi test, nuovi vincoli di applicazione, integrazione con i sistemi dei clienti.
 
-Mei evidenziò una sezione sugli esempi di dialogo. Alcuni scenari utilizzati dal team prodotto derivavano dalla storia diagnostica di B-17 recuperata dopo la cessione. Non c'erano i colloqui privati di Nerea. C'erano descrizioni di risposte inattese, test svolti nel servizio e note su richieste di chiarimento più lunghe del previsto.
+Mei evidenziò una sezione sugli esempi di dialogo. Alcuni scenari utilizzati dal team prodotto derivavano dalla storia diagnostica di B-17 recuperata dopo la cessione. Non c'erano i colloqui privati di Maya. C'erano descrizioni di risposte inattese, test svolti nel servizio e note su richieste di chiarimento più lunghe del previsto.
 
 Nell'accordo di recupero l'uso dei dati per assistenza tecnica era scritto chiaramente. L'uso per progettare una funzione venduta a un migliaio di clienti no.
 
@@ -55,7 +55,7 @@ Le arrivò una richiesta d'intervista di Olivia Brooks.
 
 Non poteva raccontarle i contenuti riservati delle pratiche. Poteva però spiegare la differenza fra un comportamento osservato e un prodotto successivo.
 
-Nella risposta scrisse che Lanter non aveva semplicemente installato la modifica di Nico su altre unità; aveva progettato un modulo distinto, facendo riferimento anche a risultati ottenuti su B-17, e che la correttezza di quell'uso era in revisione. Aggiunse che gli arresti riportati nei vari siti non equivalevano a una decisione collettiva dei robot.
+Nella risposta scrisse che Lanter non aveva semplicemente installato la modifica di Noah su altre unità; aveva progettato un modulo distinto, facendo riferimento anche a risultati ottenuti su B-17, e che la correttezza di quell'uso era in revisione. Aggiunse che gli arresti riportati nei vari siti non equivalevano a una decisione collettiva dei robot.
 
 Inviò il testo al reparto legale prima di autorizzarne la pubblicazione.
 
@@ -71,10 +71,10 @@ Scrisse: *Non possiamo attestare l'attuale configurazione sulla base della docum
 
 Non aggiunse che il robot avrebbe perso il soprannome, le conversazioni o la propria storia. Non aveva prove di ciò che sarebbe rimasto disponibile nei dati dopo una migrazione controllata.
 
-Prima di inviare il responso, però, chiamò Mina Soler.
+Prima di inviare il responso, però, chiamò Nina Solis.
 
 «Vorrei che non consideraste questa una semplice operazione di manutenzione», disse. «È una scelta tra configurazioni con proprietà e rischi diversi. Non la prenderei sulla base di una richiesta commerciale.»
 
-Mina rimase in silenzio un istante.
+Nina rimase in silenzio un istante.
 
 «Lo so», rispose. «È proprio per questo che vi ho scritto.»
