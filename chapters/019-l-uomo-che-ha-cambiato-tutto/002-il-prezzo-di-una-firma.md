@@ -36,7 +36,7 @@ Sul browser c'era un articolo pubblicato da un sito più veloce, senza il suo no
 
 La foto mostrava B-17 in un bosco, con la pesante replica da addestramento. Nico non riuscì a capire perché avessero scelto quella immagine per parlare di un aggiornamento conversazionale.
 
-Il telefono vibrò ancora. Un ex collega gli aveva scritto che forse adesso tutti avrebbero capito quanto fosse stato bravo. Un altro gli aveva chiesto se fosse vero che i robot avevano cominciato a scioperare per colpa sua.
+Il telefono vibrò ancora. Un ex collega gli aveva scritto che forse adesso tutti avrebbero capito quanto fosse stato bravo. Un altro gli aveva chiesto se il fermo di quarantasette minuti dei robot all'Hub Levante fosse davvero colpa sua. Nico non aveva mai lavorato sui controllori di quella baia; non sapeva chi avesse suggerito quella spiegazione.
 
 Nico chiuse entrambe le conversazioni. Aprì invece quella con Jonas: *Domenica ci sei per sistemare quel circuito?*
 
@@ -95,6 +95,10 @@ Non firmò.
 Scrisse una risposta breve, spiegando che non poteva dichiarare un diritto esclusivo su sviluppi la cui provenienza era oggetto di verifiche e che prima di qualunque accordo sarebbero stati necessari chiarimenti indipendenti. La inviò dopo averla riletta con il suo legale.
 
 L'indomani l'investitore rispose che senza quella dichiarazione non avrebbe potuto riservare la somma prevista. Era disposto a riparlarne dopo gli accertamenti, ma non a garantire le stesse condizioni. Nico salvò il messaggio. Aveva ancora voglia di chiamarli e chiedere almeno una parte del denaro per fare ricerca. Invece aprì la conversazione con Jonas: la domenica non era saltata.
+
+*Porta la pinza piccola, non comprare altri pezzi*, scrisse l'amico. *Il circuito non funziona ma almeno sappiamo dov'è il difetto.*
+
+Nico rispose che avrebbe portato la pinza. Jonas gli mandò la fotografia di un connettore montato al contrario, con una freccia disegnata sul tavolo di carta. Per qualche minuto discussero del verso della presa. Nico rise, poi tornò a guardare il contratto che non aveva firmato.
 
 Un attimo dopo gli arrivò una notifica di una pagina che seguiva la vicenda. Il titolo era ancora più grande del precedente.
 

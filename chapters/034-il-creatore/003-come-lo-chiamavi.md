@@ -61,7 +61,13 @@ Nerea si voltò.
 
 «Non te l'ho chiesto.»
 
-«Lo so.»
+«Lo so. E non voglio che quello che ho raccontato a Bi venga citato come prova che avevi ragione a modificarlo.»
+
+«Non ho le tue conversazioni», disse Nico.
+
+«Non ti ho chiesto di averle. Ti sto chiedendo di non parlare per me.»
+
+Nico annuì. Nerea non gli diede la soddisfazione di una risposta più semplice.
 
 «Hai mangiato?», chiese Nerea.
 
@@ -102,6 +108,14 @@ Una raffica spinse la porta contro il fermo. Nico andò a bloccarla. Tornò al s
 Nico la guardò.
 
 «Non posso prometterti di salvare Bi. Posso prometterti che non ho nascosto nessuna prova favorevole a un'altra soluzione.»
+
+«E quando gli chiedete aiuto per fare i test, non lo chiamerete consenso alla cancellazione?»
+
+«Le due cose saranno registrate separatamente.»
+
+«Voglio che questo resti scritto. Anche se non cambia quello che farete domani.»
+
+«Lo chiederò al responsabile del verbale», disse Nico. «Non sono io a poterlo certificare da solo.»
 
 Nerea sentì gli occhi bruciare, ma non abbassò il capo.
 
