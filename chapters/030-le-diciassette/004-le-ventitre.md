@@ -5,16 +5,16 @@ chapter: chapter:030-le-diciassette
 number: 4
 title: Le ventitré
 canon: canon
-pov: character:mei-lin
+pov: character:mei-chen
 characters:
-  - character:mei-lin
+  - character:mei-chen
 locations:
   - location:uffici-lanter
 factions:
   - faction:lanter-robotics
 ---
 
-A Suzhou erano le ventitré quando Mei Lin ricevette la prima chiamata.
+A Suzhou erano le ventitré quando Mei Chen ricevette la prima chiamata.
 
 Non era una segnalazione automatica. Era il responsabile del turno di qualità europeo, che parlava così in fretta da costringerla a chiedergli di ricominciare.
 
