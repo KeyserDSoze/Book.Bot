@@ -8,7 +8,7 @@ canon: canon
 pov: character:mei-lin
 characters:
   - character:mei-lin
-  - character:livia-sanna
+  - character:olivia-brooks
 locations:
   - location:uffici-lanter
 factions:
@@ -47,7 +47,7 @@ Nella riunione successiva decisero di sospendere la distribuzione a nuovi client
 
 Mei chiese che i clienti ricevessero anche il limite più scomodo: il prodotto non poteva essere considerato autorizzato a decidere autonomamente quando interrompere un processo. Se un'impresa aveva collegato i suggerimenti a condizioni obbligatorie, doveva verificare quel collegamento con le persone responsabili.
 
-Le arrivò una richiesta d'intervista di Livia Sanna.
+Le arrivò una richiesta d'intervista di Olivia Brooks.
 
 Non poteva raccontarle i contenuti riservati delle pratiche. Poteva però spiegare la differenza fra un comportamento osservato e un prodotto successivo.
 
