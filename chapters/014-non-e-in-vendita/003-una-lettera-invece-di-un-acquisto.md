@@ -117,6 +117,12 @@ In fondo aggiunse:
 
 Firmò soltanto **Nerea**.
 
-Paolo chiuse la raccolta. Irene controllò per l'ultima volta che tutti i contribuenti ricevessero una comunicazione chiara. Kyla si offrì di verificare, con i referenti autorizzati di Veyra, se fosse possibile inoltrare una lettera personale senza usarla per promozione.
+Paolo chiuse la raccolta. Irene controllò per l'ultima volta che tutti i contribuenti ricevessero una comunicazione chiara.
+
+«Con questo la mia parte finisce», disse, girando il portatile verso Paolo. «Se nasce un altro progetto, ditemelo prima di mandarmi le tabelle di sera.»
+
+«Te lo diciamo», rispose Nerea. Aveva quasi aggiunto che questa volta era diverso, ma sarebbe stata un'altra richiesta di comprensione fatta a Irene.
+
+Kyla si offrì di verificare, con i referenti autorizzati di Veyra, se fosse possibile inoltrare una lettera personale senza usarla per promozione.
 
 Sul tavolo il riepilogo dei contributi stava già scomparendo dalla pagina della raccolta. Nerea rilesse l'ultima riga della lettera. Non c'era nessuna cifra da correggere.
