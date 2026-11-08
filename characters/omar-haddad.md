@@ -27,3 +27,7 @@ Omar impedisce manovre manuali senza verifica nelle zone dell'Hub occupate dai r
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 18 Omar scopre di aver perso una partita di calcetto con gli amici perché ha sostituito un collega; quelli hanno vinto senza di lui e continuano a prenderlo in giro. È esperto nel distinguere un arresto fisico da un'approvazione mancante, ma talvolta è insofferente verso chi chiama tutto «solo un pulsante». Nei capitoli 30–35 il costo umano della sua competenza è essere il tecnico che tutti chiamano proprio quando aveva promesso di esserci per qualcosa di ordinario.
+
+## Profilo umano — review dei personaggi
+
+Omar ha imparato a riparare oggetti prima di poterne comprare altri. All'Hub Levante si è guadagnato fiducia fermando percorsi quando software e pavimento non concordano. **Virtù:** preferisce camminare fino alla baia e guardare. **Difetto:** detesta le riunioni e comunica troppo tardi perché pensa che gli altri dovrebbero aver già riconosciuto il problema. La sua voce è fatta di domande pratiche su chi possa autorizzare il prossimo passo.

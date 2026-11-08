@@ -24,3 +24,7 @@ Daniel coordina con Maya un'autorizzazione regolare per il ritiro fisico di medi
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 31 Daniel recupera medicinali con un furgone e autorizzazioni regolari, senza fare del ritorno alle vecchie procedure un ideale. Prima di salutare Maya la invita a mangiare il sugo che conserva nel congelatore, **anche se la sirena non sarà ancora sistemata**. Vorrebbe ritrovare la figlia fuori dalle emergenze; la richiesta semplice mette in luce la sua fierezza e l'incapacità di formulare affetto senza sembrare pratico.
+
+## Profilo umano — review dei personaggi
+
+Daniel conosce vecchi impianti d'allarme e procedure territoriali. È orgoglioso del quaderno dei cavi e degli orari della sirena di Valle Corta. Quando Maya usa senza titolo le sue credenziali è ferito anche perché lei non gli ha chiesto aiuto. **Difetto:** tace a lungo e il silenzio sembra una condanna. **Arco:** collabora alla regolarizzazione senza fingere che la buona intenzione renda lecito l'accesso.

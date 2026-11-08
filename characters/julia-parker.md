@@ -27,3 +27,7 @@ Julia sostiene materialmente il centro assistenziale durante il fermo, perde pau
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 24, dopo il danno al polso, Julia si preoccupa di non farsi scalare da ferie già prenotate i giorni di riposo per l'infortunio. È una preoccupazione legittima e anche egoista, accanto al timore che Helen si facesse male. Nel 31 vuole cinque minuti veri per ascoltare Helen e, insieme, tornare a casa a dormire.
+
+## Profilo umano — review dei personaggi
+
+Julia conosce meglio di un prospetto il tempo necessario a cambiare la biancheria e accompagnare Helen alla serra. **Virtù:** si accorge di chi aspetta già con il cappotto. **Difetto:** per non gravare su Grace minimizza la stanchezza e, dopo l'incidente con B-33, tende a sottovalutare il dolore al polso. Il suo lavoro è fatto di dettagli corporei e turni, non solo di discorsi sulla cura.

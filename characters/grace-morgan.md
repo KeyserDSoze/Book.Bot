@@ -27,3 +27,7 @@ Grace organizza il centro assistenziale senza le unità logistiche per giorni, a
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 17 Grace ha un appuntamento dal parrucchiere rimandato più volte: il suo desiderio di uscire dal centro è piccolo e non scompare perché è una direttrice seria. Nel 31 trova scorte di materiali essenziali insufficienti senza una consegna garantita e deve pensare a eventuali trasferimenti degli ospiti; questa difficoltà torna nella riunione del 34. La normale vita di Helen rimane una responsabilità distinta dall'economia di bilancio.
+
+## Profilo umano — review dei personaggi
+
+Grace ha gestito turni assistenziali prima di dirigere il centro. Sa che un ritardo nei materiali significa una persona già vestita per uscire e rimasta ad aspettare. **Virtù:** vede le persone dietro i tempi. **Difetto:** tenta di coprire personalmente ogni turno scoperto, e tratta l'aiuto astratto come un intralcio. Tiene le chiavi in un elastico al polso, perché durante un'emergenza non vuole cercarle nel cassetto.

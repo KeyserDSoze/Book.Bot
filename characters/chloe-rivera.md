@@ -12,3 +12,7 @@ Figlia di Helen, lavora molto e visita la madre quando può. È gelosa della paz
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 22 Chloe arriva tardi con una torta, prova gelosia per B-32 e chiede alla madre se il robot le piaccia più di lei. È una domanda infantile e credibile che nasce da stanchezza, amore e vergogna. Nel 31 arriva con amici per aiutare a portare l'acqua al centro: l'affetto non cancella la difficoltà di trovare tempo né trasforma Chloe nella sostituta gratuita del personale. Vorrebbe potersi comportare da figlia senza dover gestire ogni scelta della madre.
+
+## Profilo umano — review dei personaggi
+
+Chloe è la figlia adulta di Helen: lavora, è spesso di fretta e compra una torta quando non trova tempo per sedersi. È grata a B-32 per la compagnia offerta alla madre e insieme la irrita la sua cortesia inesauribile. **Difetto:** controlla il telefono durante una visita e se ne accorge troppo tardi. Non è l'operatrice Avery dell'Hub Levante.

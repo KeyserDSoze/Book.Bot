@@ -17,3 +17,7 @@ Hannah documenta proteste eterogenee e l'approvazione della legge sulle mansioni
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel 22 Hannah evita per giorni di rispondere a un'amica che chiede se siano più belle tende verdi o gialle: una richiesta sciocca a cui lei non sa trovare dieci minuti, mentre sa intervistare persone in crisi. Hannah desidera una grande storia e sa che un titolo netto avrebbe più lettori di un'incertezza verificata. Non renderla una giornalista impeccabile o una giornalista cinica: il conflitto tra ambizione e precisione deve avere conseguenze su come lavora.
+
+## Profilo umano — review dei personaggi
+
+Hannah racconta il lavoro e i robot seguendo ciò che non entra nelle presentazioni aziendali. Non odia le macchine, ma diffida dei titoli che attribuiscono intenzioni a un video tagliato. **Difetto:** cerca a volte la frase efficace prima di ascoltare tutta la testimonianza; deve correggersi se scopre di aver semplificato. Le sue fonti non la rendono onnisciente sulle lettere private di Maya o sui segreti di Noah.
