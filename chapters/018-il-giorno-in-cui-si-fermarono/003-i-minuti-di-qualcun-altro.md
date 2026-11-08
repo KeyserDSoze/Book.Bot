@@ -67,6 +67,18 @@ Ada mise il rapporto davanti alla responsabile. «Porto io il dato in consiglio:
 
 Prima della chiusura, Ada tornò al piano con Giulia. Le mostrò la richiesta rimasta bloccata e si assunse la responsabilità della regola approvata senza una delega per il turno. Concordarono che, per le sole consegne ordinarie, l'operatrice responsabile avrebbe potuto verificare e convalidare un cambio di stanza, lasciandone traccia. Le barriere di sicurezza e le situazioni cliniche restavano fuori da quella delega. Il giorno dopo avrebbero allineato i due elenchi delle camere.
 
+«Per Teresa», disse Ada, «possiamo recuperare la visita alla serra giovedì?»
+
+Giulia aprì il prospetto sul proprio telefono. «Giovedì sono assegnata alle consegne di metà mattina. Se mi togli quelle, sì. Se ci aggiungi la serra, salto di nuovo la pausa.»
+
+Ada cercò la riga delle consegne. Alcune erano ordinarie, già coperte dal robot. Spostò soltanto quelle, assegnando a se stessa la verifica degli originali rimasta scoperta. Non voleva promettere a Teresa un'ora che sarebbe esistita soltanto se Giulia avesse lavorato più in fretta.
+
+«Chiedile se giovedì le va bene», disse. «Se dice di no, ne scegliamo un altro.»
+
+«Glielo chiedo io. Non mandarle un messaggio sul tablet del reparto.»
+
+Ada annuì. Aveva pensato proprio a quello.
+
 Quella sera arrivò un ospite nuovo. Ada lo accompagnò al tavolo comune e gli indicò la persona a cui chiedere aiuto, poi la porta del giardino. Lui guardò un robot che passava lungo il corridoio con un contenitore di asciugamani.
 
 «Quello ci aiuta?», chiese.

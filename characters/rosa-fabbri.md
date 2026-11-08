@@ -32,3 +32,7 @@ La lavoratrice addestrata sui percorsi del 17 e incaricata dei colli urgenti dur
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 23/004 Rosa contesta a Sofia la risposta sugli straordinari non garantiti e chiede un confronto con qualcuno della direzione che possa decidere su compensi e contratti. Nel 35/002 può ottenere tre ore di lavoro extra alle sei del mattino, ma deve accompagnare il figlio a scuola e non riesce ad accettarle. Il ritorno delle macchine non risolve il suo bilancio familiare.
+
+## Diciannovesima review — formazione utile, reddito incerto
+
+Nel **17/003** Sofia assegna a Rosa verifiche più difficili per un mese, ma Rosa domanda quante ore siano realmente riconosciute: la formazione non le procura automaticamente né straordinari né una promozione. Sofia non chiude la domanda con un'etichetta positiva nel report. Nel 18 Rosa continua a conoscere la baia abbastanza da organizzare un recupero manuale; nel 23 chiederà dati sulla distribuzione dei turni senza voler tornare a un sistema di favori.

@@ -32,6 +32,10 @@ In 004 Mei affianca due classificazioni opposte della stessa tipologia di confer
 La baia 4 ha già una prima approvazione del turno; manca la seconda firma sulla mappa certificata. Sofia prova a cercare il responsabile e non lo trova alla chiusura del turno. Il rinvio deriva da vincoli e passaggi reali, non da stupidità dell'organizzazione.
 
 
+## Diciannovesima review — una formazione non è una retribuzione
+
+In **17/002**, Ada conserva il valore delle nuove automazioni ma conferma un proprio appuntamento fuori dal lavoro senza garantire che l'organizzazione riesca a coprirla: la cura dei processi non deve far scomparire la sua vita personale. In **17/003**, Rosa chiede se il mese di verifiche difficili proposto da Sofia si traduca in ore pagate; la formazione e il lavoro più qualificato non coincidono automaticamente con una promozione o con straordinari. Sofia annota la domanda e non inventa il compenso. Il nodo ritorna nel 23.
+
 ## Decima review — continuità della voce di Rosa
 
 La lavoratrice che Sofia incontra nella scena 003 è Rosa Fabbri, non una seconda Elisa confondibile con Elisa Marin. Rosa ha già completato il corso di eccezioni e sperimenta la perdita di straordinari prima di chiedere turni più equi nel 23. La sua presenza nei capitoli 17, 18, 23, 31 e 35 costruisce un'unica trasformazione lavorativa.

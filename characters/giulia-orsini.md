@@ -37,3 +37,7 @@ Giulia segnala un'anomalia, si infortuna e chiede che il verbale distingua il co
 ## Quattordicesima review — conseguenze dei rapporti
 
 Nel 24/002 Giulia rientra col polso immobilizzato per confrontarsi con Ada, non per tornare a lavorare. Chiede la versione iniziale della segnalazione, la corretta documentazione dell'infortunio e la verifica dei giorni di ferie. Nel 29/002 chiede che il costo della supervisione umana alle conversazioni di B-32 sia scritto nel piano e che la notizia sia comunicata a Teresa senza nasconderla dietro un calendario.
+
+## Diciannovesima review — una visita non si recupera con una pausa saltata
+
+Nel **18/003** Giulia precisa ad Ada che accompagnare Teresa alla serra il giovedì è possibile soltanto cambiando le sue consegne ordinarie, non aggiungendo ore a una giornata già piena. Chiede di rivolgere la nuova proposta direttamente a Teresa. La visita completata nel 22 conserva un'origine organizzativa, ma Giulia non diventa per questo disponibile illimitatamente nel 24 o durante il fermo globale.

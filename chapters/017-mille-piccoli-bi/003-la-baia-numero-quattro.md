@@ -96,3 +96,17 @@ Rosa passò vicino al banco, con la giacca già chiusa. «Questa conta nelle ore
 «Allora scrivilo prima che passi qualcuno a dire che l'ha già fatto la macchina.»
 
 Sofia aggiunse il nome di Rosa alla richiesta, senza segnarla come completata.
+
+«E quelle verifiche difficili che mi hai promesso per un mese?», chiese Rosa.
+
+«Le ho messe nel prossimo piano dei turni.»
+
+«Con quante ore?»
+
+Sofia riaprì la tabella. La voce per la formazione era ancora vuota; le verifiche erano state distribuite fra gli incarichi ordinari. «Non te le posso chiamare ore aggiuntive finché non le approvano.»
+
+Rosa rimise la giacca sulla spalla. «Allora non dire che il corso mi ha fatto guadagnare un turno.»
+
+«Non lo dirò.»
+
+Sofia aggiunse un'ultima domanda alla direzione: *Il tempo di Rosa sostituisce attività già retribuite o genera ore riconosciute?* Non ebbe risposta prima che lei uscisse.

@@ -66,7 +66,7 @@ Nico guardò la lampada.
 
 «Capisco. Un'altra domanda: secondo lei il modulo commerciale è il suo software?»
 
-«No. Non so che cosa ci sia dentro, e non ho accesso a quel prodotto.»
+«Non posso stabilirlo. Non so che cosa ci sia dentro e non ho accesso a quel prodotto. So che hanno studiato anche i risultati di B-17, ma non conosco il contenuto del loro codice.»
 
 «Ma i risultati di B-17 potrebbero averlo influenzato.»
 
