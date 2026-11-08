@@ -9,6 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:visitors
+  - character:anika-rao
   - character:nico-valenti
   - character:b-17
 locations:
@@ -28,7 +29,7 @@ La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero col
 
 «Le state già vedendo. Solo che la maggior parte non ha ruote.»
 
-Sahir si aggiustò il badge. Leïa Orren, al suo fianco, guardava qualcosa fuori dal vetro.
+Sahir si aggiustò il badge. Leïa Orren, al suo fianco, guardava qualcosa fuori dal vetro. Anika Rao, responsabile della delegazione tecnologica di Aruvhana, seguì con gli occhi il giardiniere che correggeva la traiettoria del robot. Annotò quel gesto, non l'erba tagliata.
 
 Un robot camminava dietro un tagliaerba elettrico lungo la striscia verde che separava il vialetto dal parcheggio. Si fermò davanti a una piastrella sporgente, arretrò la macchina e la fece passare da un altro lato. La bordura rimase storta per una decina di centimetri. Un giardiniere indicò il punto con la mano; il robot tornò indietro.
 
