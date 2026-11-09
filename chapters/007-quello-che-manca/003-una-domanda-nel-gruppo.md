@@ -102,7 +102,7 @@ Nessuno aggiunse un commento.
 
 Ethan aprì la galleria del telefono. C'era una fotografia del tavolo da ping pong scattata il giorno in cui aveva vinto la prima partita contro Bi. Sullo sfondo si vedevano due colleghi che ridevano. Il robot era appena fuori dall'inquadratura: si distingueva soltanto un frammento della sua mano vicino al bordo del tavolo.
 
-Aveva conservato quella foto per mostrare a tutti il punteggio.
+Aveva conservato quella foto per mostrare a tutti il punteggio. Da quando Maya aveva raccontato che Bi aveva lasciato vincere alcune partite, Ethan sapeva che quel numero non raccontava ciò che aveva voluto dimostrare. Gli altri avevano continuato a giocare per migliorare; lui aveva smesso di presentarsi al tavolo.
 
 Riguardandola, si accorse che non ricordava più il punteggio con la stessa chiarezza con cui ricordava la propria voce alzata davanti agli altri.
 
