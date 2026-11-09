@@ -17,9 +17,9 @@ factions:
 
 L'ultimo elemento non arrivò da un robot.
 
-Arrivò da un funzionario di un servizio che aggiornava le norme applicabili alle attività automatizzate. Mei Lin aveva chiesto di vedere che cosa fosse successo fra il voto italiano e l'ora del fermo. Il servizio aveva registrato, nella sera del voto, l'esito definitivo del Parlamento e l'impronta del testo approvato. L'evento autenticato riportava lo stato *approvazione parlamentare conclusa*, non *legge in vigore*. Promulgazione, pubblicazione ufficiale e termini di adeguamento erano passaggi successivi.
+Arrivò da un funzionario di un servizio che aggiornava le norme applicabili alle attività automatizzate. Nel registro il provvedimento italiano aveva il titolo formale *Tutela delle mansioni umane* e quello breve, diventato comune nella campagna politica: **Bot Act II**. Era il testo sostenuto da Ethan Blake e dal gruppo parlamentare Lavoro Prima, non un nuovo regolamento europeo. Mei Lin aveva chiesto di vedere che cosa fosse successo fra il voto italiano e l'ora del fermo. Il servizio aveva registrato, nella sera del voto, l'esito definitivo del Parlamento e l'impronta del testo approvato. L'evento autenticato riportava lo stato *approvazione parlamentare conclusa*, non *legge in vigore*. Promulgazione, pubblicazione ufficiale e termini di adeguamento erano passaggi successivi.
 
-Quella comunicazione non ordinava di spegnere nulla, né attestava che fosse già entrato in vigore un divieto.
+Quella comunicazione non ordinava di spegnere nulla, né attestava che fosse già entrato in vigore un divieto. L'atto approvato non chiedeva e non spiegava un fermo mondiale; il problema era nato dalle condizioni di coordinamento che avevano reagito alla notizia.
 
 Era stata inserita in un registro di conformità utilizzato da clienti internazionali per preparare le modifiche alle autorizzazioni. Da lì diversi fornitori avevano ricevuto un avviso di nuovo evento normativo, non un ordine operativo. Nella traccia Mei distinse tre momenti: il risultato parlamentare diffuso dopo le venti, la registrazione del messaggio firmato nella stessa notte e la prima finestra comune utile **alle diciassette italiane del giorno dopo**. Fino a quel controllo periodico, i siti avevano continuato a svolgere gli incarichi ordinari.
 
