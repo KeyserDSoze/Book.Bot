@@ -18,9 +18,9 @@ Versione editoriale **0.33.3**, 9 novembre 2026. Canon principale: scene su `mai
 
 **07. Quello che manca.** Senza Bi si spezzano abitudini minute, capacità operative date per scontate e il gioco: i colleghi sono migliorati a ping pong ma perdono l'avversario che dava senso ai progressi. Claire e Paul riscoprono procedure manuali e competenze dimenticate. Maya sente la mancanza di una presenza capace di ascoltarla e cerca di ascoltare Claire.
 
-**08. Il preventivo.** Victor Cole annuncia il licenziamento degli aggressori e la scelta economica di non riparare B-17, il cui ripristino costerebbe quasi quanto un'unità nuova. Paul comprende il calcolo ma non lo scambia per una valutazione della relazione con Bi. L'azienda si prepara a sostituirlo, senza garantirne il ritorno.
+**08. Il preventivo.** Victor Cole apre la plenaria con **ricavi di competenza +11%**, che presenta con convinzione come un successo. Gavin e Claire sussurrano che gli **incassi sono -9%**, le nuove commesse calano e aziende più giovani, organizzate con agenti AI fin dall'inizio, stanno vincendo le gare. La liquidità è troppo bassa per riparare B-17 o comprarne uno completo, sebbene le cifre di Victor siano vere. Dopo il licenziamento degli aggressori, Victor annuncia la scelta di **noleggiare a basso costo un robot base ricondizionato**. Paul comprende i conti, non la perdita di Bi.
 
-**09. La copia.** Arriva B-21, esteticamente identico e competente nei compiti, ma privo della storia di Bi. Maya lo chiama «Bi» senza ottenere risposta; solo pronunciando «B-21» lo fa voltare. La risposta fredda cita l'articolo 4 del Bot Act europeo immaginario, che nega legalmente anima e personalità ai robot e vieta nomi alternativi all'identificativo.
+**09. La copia.** Arriva B-21, **economico, ricondizionato e di fascia base**, esteticamente identico ma capace soltanto di consegne, rifornimenti e semplici fotocopie. Gli agenti software e gli umani devono gestire il resto del lavoro, che il robot non comprende. È inoltre privo della storia di Bi. Maya lo chiama «Bi» senza ottenere risposta; solo pronunciando «B-21» lo fa voltare. La risposta fredda cita l'articolo 4 del Bot Act europeo immaginario, che nega legalmente anima e personalità ai robot e vieta nomi alternativi all'identificativo.
 
 ## Atto II — Il ritorno, il segreto e la lettera
 
@@ -87,7 +87,7 @@ Versione editoriale **0.33.3**, 9 novembre 2026. Canon principale: scene su `mai
 ## Modifiche che riscrivono i vecchi riassunti
 
 - **Capitoli 4–7:** da semplici partite con un robot invincibile a una vera cultura competitiva, fondata sull'obiettivo di migliorare contro Bi, e al lutto per la perdita di quell'obiettivo.
-- **Capitolo 9:** B-21 non risponde a «Bi» e applica l'articolo 4 del Bot Act europeo immaginario.
+- **Capitoli 8–9:** dietro ricavi +11% ci sono incassi -9%, crisi di liquidità, meno commesse e concorrenza AI-native; per questo B-21 è un modello economico ricondizionato a noleggio, non un equivalente di Bi. Non risponde a «Bi» e applica l'articolo 4 del Bot Act europeo immaginario.
 - **Capitoli 10–12:** la mail rimane non inviata; il video virale è un atto anonimo di Noah svelato soltanto nella confessione agli amici Paul e Mila, che lo segnalano.
 - **Capitolo 13:** il licenziamento di Noah è stato anticipato dal capitolo 16 per rendere possibile il sospetto del capitolo 15.
 - **Capitoli 15–16:** richiesta da IP esterno e sospetti su Noah senza prova immediata; Henry e Lanter sono responsabili di passaggi documentali distinti.
