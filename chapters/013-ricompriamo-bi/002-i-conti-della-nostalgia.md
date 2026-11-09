@@ -51,7 +51,7 @@ Paul sorrise, poi tornò serio.
 
 La frase li fece ridere entrambi. Fu un sollievo breve.
 
-Nel pomeriggio Paul parlò con Kyla. Lei non aveva l'autorità per offrire a un'associazione di colleghi uno spazio dell'azienda né accessi ai sistemi. Gli spiegò che Victor Cole era stato informato dell'iniziativa privata, ma non l'aveva approvata come progetto Cyberdine. Il costo di B-17 era già stato contabilizzato; B-21 lavorava bene, e le responsabilità sull'incidente informatico restavano aperte.
+Nel pomeriggio Paul parlò con Kyla. Lei non aveva l'autorità per offrire a un'associazione di colleghi uno spazio dell'azienda né accessi ai sistemi. Gli spiegò che Victor Cole era stato informato dell'iniziativa privata, ma non l'aveva approvata come progetto Cyberdine. Il costo di B-17 era già stato contabilizzato; B-21 svolgeva correttamente le poche consegne del contratto economico, e le responsabilità sull'incidente informatico restavano aperte.
 
 «Posso capire perché lo fate», disse Kyla. «Non posso promettervi un posto di lavoro per lui.»
 
