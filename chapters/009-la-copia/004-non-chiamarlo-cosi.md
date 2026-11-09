@@ -193,11 +193,11 @@ Maya abbassò la mano.
 
 «Ti ho chiamato Bi. Due volte.»
 
-«“Bi” non è un identificativo riconosciuto.»
+«Bi non è un identificativo riconosciuto.»
 
 «Non puoi rispondere a un altro nome?»
 
-«No. Bot Act, regolamento dell'Unione europea sulle unità robotiche autonome, articolo 4, Identificazione delle unità: “I robot non hanno un'anima né personalità giuridica. È vietato attribuire, registrare o far riconoscere alle unità nomi propri, soprannomi o alias diversi dall'identificativo certificato. L'identificazione operativa deve avvenire esclusivamente mediante tale codice”.»
+«No. Bot Act, regolamento dell'Unione europea sulle unità robotiche autonome, articolo 4, Identificazione delle unità. Il testo recita: *I robot non hanno un'anima né personalità giuridica. È vietato attribuire, registrare o far riconoscere alle unità nomi propri, soprannomi o alias diversi dall'identificativo certificato. L'identificazione operativa deve avvenire esclusivamente mediante tale codice*.»
 
 B-21 rimase immobile il tempo necessario a completare la risposta.
 
