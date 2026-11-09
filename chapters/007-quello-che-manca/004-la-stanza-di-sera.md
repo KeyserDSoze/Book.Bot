@@ -118,7 +118,7 @@ Quando Kyla se ne andò, Maya rimase ancora qualche minuto seduta. Poi raccolse 
 
 Passò davanti allo Spazio Comune.
 
-La porta era aperta e il tavolo da ping pong era coperto. Il piano azzurro sporgeva sotto il telo, una forma riconoscibile anche senza vedere la rete. Sul bordo qualcuno aveva lasciato una pallina bianca.
+La porta era aperta e il tavolo da ping pong era coperto. Il piano azzurro sporgeva sotto il telo, una forma riconoscibile anche senza vedere la rete. Sul muro era rimasta una tabella con punteggi e tentativi: alcuni avevano migliorato il proprio risultato di un punto alla volta. Nelle caselle per la sfida successiva non c'era niente. Sul bordo qualcuno aveva lasciato una pallina bianca.
 
 Maya la prese.
 
