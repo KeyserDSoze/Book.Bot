@@ -18,132 +18,90 @@ factions:
 
 Ethan Blake non aveva mai sentito tanti rumori nel proprio appartamento.
 
-La lavatrice terminava il ciclo con un suono troppo lungo. Il frigorifero sembrava aprirsi una conversazione da solo. Dal cortile salivano le voci dei vicini che si passavano una busta dal balcone al piano di sotto.
+La lavatrice terminava il ciclo con un segnale troppo lungo. Dal cortile arrivavano voci di persone che si passavano una busta da un balcone all'altro. Ogni mattina gli sembrava di essere in ritardo per andare in ufficio, finché non ricordava che non gli era consentito entrarci.
 
-In ufficio, a quell'ora, ci sarebbe stata la pausa caffè.
+Non era ancora licenziato. Cyberdine aveva sospeso i suoi accessi e quelli di Marcus durante gli accertamenti sull'aggressione. Avevano acquisito le registrazioni e ascoltato i testimoni. Ethan avrebbe dovuto presentarsi a un secondo colloquio.
 
-Il telefono sul tavolo era capovolto. Ethan lo aveva lasciato così per non controllare continuamente se qualcuno dell'azienda avesse scritto.
+Sul telefono arrivò una notifica dal gruppo delle partite di ping pong. Lo aveva silenziato dopo che Mila aveva chiesto a tutti di non discutere lì di ciò che era accaduto nel corridoio.
 
-Non era licenziato. Gli avevano detto che doveva restare lontano dal campus durante gli accertamenti. L'accesso operativo era sospeso, così come quello di Marcus. La sicurezza aveva raccolto le dichiarazioni dei presenti e conservato le registrazioni. Il colloquio successivo gli sarebbe stato comunicato formalmente.
+Paul scriveva: *Qualcuno ricorda dove Bi recuperava il registro delle vecchie conversioni? È un'ora che cerchiamo.*
 
-La sera dell'aggressione non aveva dormito. Il giorno dopo neppure. Ora erano passate alcune giornate, e continuava a ricordare cose che non aveva voluto guardare quando erano accadute.
+Mila aveva risposto: *Claire l'ha trovato. Dovremmo farci una lista delle cose che possiamo sapere anche senza di lui.*
 
-Il contenitore che cadeva. I fogli sul pavimento. Il braccio di Bi che cercava un appoggio. La voce che chiedeva di non fargli male.
+Ethan sorrise. Per lui era la dimostrazione che aveva ragione.
 
-Ethan continuava a ripetersi che Bi era una macchina. Non cambiava il fatto che, quando era rimasto a terra, lui e Marcus avevano fatto una cosa precisa, visibile, scelta da loro.
+*Finalmente devono aprire le cartelle senza farsi spiegare tutto dalla macchina*, pensò. Non ricordava il colore di quel registro, ma conosceva il codice del programma che ne leggeva i riferimenti; lo aveva scritto in una delle prime versioni, prima degli agenti di sviluppo.
 
-Si alzò per fare il caffè. Aveva due tazzine nel pensile. Ne prese una, la risciacquò, la rimise a posto e prese l'altra senza sapere perché.
+Aprì la conversazione privata con Marcus.
 
-Il telefono vibrò.
+*Hai visto? Finalmente possono lavorare in santa pace. Niente Bi in mezzo a ogni decisione.*
 
-Era un messaggio nel gruppo personale delle partite del venerdì. Ethan lo aveva silenziato dopo che alcuni colleghi gli avevano chiesto come stesse. Non voleva rispondere a nessuno e soprattutto non voleva leggere la parola *incidente* usata al posto di quello che era successo.
+Marcus rispose dopo qualche minuto: *Io in pace non sono. Ho un altro colloquio domani.*
 
-Aprì comunque la conversazione.
+*Nemmeno io. Parlo del lavoro. Adesso si vedrà che gli umani lo fanno meglio.*
 
-Paul aveva scritto: *Ragazzi, qualcuno ricorda come si chiamava il registro vecchio che Bi prendeva quando mancavano i riferimenti? Oggi abbiamo cercato un'ora.*
+La chiamata arrivò poco dopo. Ethan rispose dal tavolo della cucina.
 
-Sotto, Mila aveva risposto: *Claire lo ha trovato, ma sarebbe meglio se qualcuno facesse un elenco delle cose che dobbiamo sapere anche senza il robot.*
+«Hai letto quello che scrivono?», chiese a Marcus.
 
-Un altro collega: *Siamo diventati bravissimi a chiedere. Molto meno a sapere dove si trova la risposta.*
+«Ho letto che non trovano un registro.»
 
-Ethan guardò la schermata.
+«Appunto. Era diventato tutto: chiedi a Bi, aspetta Bi, fatti portare il risultato da Bi. Adesso almeno possono ragionare.»
 
-Conosceva quel registro. O meglio, conosceva la procedura che ne aveva sostituito la ricerca. Bastava aprire la conversazione di servizio con Bi, scrivere il riferimento della pratica e aspettare un riepilogo con gli allegati. Lo aveva fatto decine di volte. Più volte senza neppure controllare da dove arrivassero i documenti.
+«Lo dici come se ti fossero riconoscenti.»
 
-Al lavoro era stato lui a proporre che anche i casi del proprio reparto passassero attraverso il nuovo flusso. Aveva anche promosso l'uso degli agenti per generare automaticamente test e correzioni ai connettori, e di Bi per confrontarli con i vecchi terminali. Quando gli avevano chiesto se il gruppo conoscesse ancora tutte le dipendenze, aveva risposto che la documentazione era completa. Ora si chiedeva se conoscesse davvero ciò che aveva autorizzato. Aveva detto che il sistema non aveva senso se gli esseri umani continuavano a perdere tempo a cercare faldoni.
+«Non me ne importa se mi ringraziano. Il codice che scrivevo io era migliore di quello prodotto da quegli agenti. E Bi non sapeva neanche da dove cominciare: faceva domande, proponeva un test e gli altri gli attribuivano il merito. Non ha mai scritto davvero un connettore da solo.»
 
-Ricordò di averlo scritto in una mail con entusiasmo. Aveva ricevuto tre risposte di approvazione.
+«Lui diceva di non aver pubblicato codice», osservò Marcus.
 
-Ora il gruppo cercava il registro e lui non sapeva descriverne il colore.
+«Perché non lo sapeva fare», rispose Ethan. «Io quei protocolli li conoscevo. Ci ho passato notti intere. Adesso hanno smesso di fingere che una macchina possa sostituire un programmatore.»
 
-Mise giù il telefono.
+Marcus rimase in silenzio.
 
-La chat continuò a muoversi. Qualcuno domandò chi avrebbe rifornito i bicchieri della macchinetta, un altro rispose che Paul si era già offerto volontario. Una battuta sulle sue capacità di distinguere il caffè buono da quello cattivo ricevette due faccine sorridenti.
+«Tu non torni domani in ufficio», disse infine.
 
-Ethan sorrise a sua volta, quasi contro la propria volontà.
+«Lo so benissimo.»
 
-Il telefono squillò. Marcus.
+«E nemmeno io.»
 
-Ethan rispose senza salutare.
+«È quello che stanno decidendo i capi. Ma Bi non c'è più. Finalmente Cyberdine potrà tornare alla normalità, anche se nessuno vuole dirlo.»
 
-«Mi hanno fissato il secondo colloquio», disse Marcus. «A te?»
+Il telefono di Ethan aveva ancora la fotografia della sua prima vittoria a ping pong: undici a nove. Il braccio di Bi era appena fuori dall'inquadratura. Quando Maya aveva raccontato delle sconfitte deliberate, Ethan aveva protestato finché lei aveva continuato a parlare agli altri, come se lui non fosse presente. Non le aveva perdonato quel gesto e non aveva mai accettato che il punto vincente fosse stato regalato.
 
-«Non ancora.»
+«Non possiamo prepararci una versione comune per domani?», chiese Marcus. «Io avevo preso il contenitore, tu avevi cominciato a spingerlo.»
 
-«Dobbiamo almeno ricordarci le stesse cose. Io avevo solo preso la cassetta. Tu hai iniziato a spingerlo.»
+Ethan passò una mano sul tavolo.
 
-Ethan guardò la mano con cui teneva il telefono. Gli faceva ancora male una nocca.
+«No. Tu hai colpito la schiena. Io l'ho spinto dopo che ci aveva chiesto di smettere. Le telecamere lo mostrano.»
 
-«Hai preso la cassetta. Poi lo hai colpito alla schiena.»
+«Allora ci mandano via.»
 
-Dall'altra parte non si sentì niente.
+«Probabile.»
 
-«E tu lo hai spinto dopo che aveva chiesto di smettere», rispose Marcus.
+«E tu parli della normalità.»
 
-«Sì.»
+«Parlo di ciò per cui valeva la pena protestare. Non ho detto che dovevamo colpirlo.»
 
-«Quindi non posso dire che l'ho fermato io.»
+Non era vero fino in fondo: aveva colpito anche dopo quella richiesta. Lo sapeva. Lo ricordava con una precisione che lo infastidiva più del dolore alle nocche.
 
-«No.»
+Marcus chiuse la chiamata senza salutare.
 
-Marcus espirò vicino al microfono. «Avevo una strada per tornare a casa. Sono rimasto. Adesso mi chiedono perché.»
+Ethan aprì il gruppo dei colleghi contrari alla sostituzione robotica. Era nato durante le discussioni sul posto senior di Margaret; qualcuno aveva conservato lo screenshot della battuta di Noah e aveva ribattezzato il gruppo *Bot-piattisti — secondo loro*. La parola, pensata per ridicolizzarli, era diventata una specie di distintivo.
 
-Ethan non trovò una frase che potesse rispondere per lui.
+Una collega scriveva: *Almeno qualcuno ha detto ad alta voce che i nostri lavori contano. Dobbiamo continuare, anche se Ethan non può più entrare.*
 
-«Ci sentiamo dopo», disse Marcus e chiuse.
+Ethan digitò: *Non ho intenzione di smettere. Non basta togliere un robot dal corridoio. Bisogna impedire che ci sostituiscano con altri.*
 
-Ethan rimase con il telefono in mano. Si erano sempre aiutati a ricordare le scadenze, le attese per i turni, le promesse dei responsabili. Questa volta non avrebbero potuto preparare una risposta comune.
+Lesse la frase. La inviò.
 
-Poi lesse un messaggio diverso.
+La risposta arrivò quasi subito: *Dovresti parlarne fuori da Cyberdine. Non siamo gli unici.*
 
-*Maya ha portato i fascicoli per il corso di scrittura. Dice che Bi li preparava già in ordine di livello. Noi li abbiamo messi in ordine alfabetico e dobbiamo rifare tutto.*
+Ethan fissò quelle parole più a lungo dei messaggi sulle fotocopie. Gli sembrò la prima proposta concreta ricevuta da giorni. Rispose che ci avrebbe pensato, poi aprì l'informativa dell'ufficio incaricato degli accertamenti.
 
-Nessuno aggiunse un commento.
+Il modulo permetteva di integrare le dichiarazioni già raccolte. Ethan scrisse: *Dopo che B-17 ha chiesto di fermarci, l'ho colpito ancora.*
 
-Ethan aprì la galleria del telefono. C'era una fotografia del tavolo da ping pong scattata il giorno in cui aveva vinto la prima partita contro Bi. Sullo sfondo si vedevano due colleghi che ridevano. Il robot era appena fuori dall'inquadratura: si distingueva soltanto un frammento della sua mano vicino al bordo del tavolo.
+Non modificò il fatto. Non chiese di essere perdonato. Inviò l'integrazione e lasciò il telefono sul tavolo.
 
-Aveva conservato quella foto per mostrare a tutti il punteggio. Continuava a ripetersi che l'undici a nove era una vittoria vera: le palline erano cadute dalla parte giusta, Bi aveva sbagliato davanti a tutti. Non aveva accettato la spiegazione delle sconfitte deliberate neppure quando l'aveva confermata il robot stesso. Gli altri avevano continuato a giocare per migliorare; lui aveva smesso di presentarsi al tavolo. E ricordava ancora il sabato in cui Maya, mentre lui protestava, aveva continuato a parlare con Paul e Mila senza neppure guardarlo.
+La lavatrice emise il segnale di fine ciclo. Ethan andò a ritirare i panni, convinto che, prima o poi, anche gli altri avrebbero ammesso che il lavoro funzionava meglio senza Bi.
 
-Riguardandola, si accorse che non ricordava più il punteggio con la stessa chiarezza con cui ricordava la propria voce alzata davanti agli altri.
-
-*Sei solo una stupida macchina.*
-
-Si sedette.
-
-Avrebbe voluto chiedere a Paul come stesse Bi. Non lo fece. Gli sembrò una domanda che avrebbe cercato di ottenere un'assoluzione senza aver fatto niente per meritarla.
-
-Il gruppo mandò un'altra notifica.
-
-*Ethan, so che leggerai. Per favore non commentare qui la vicenda. Ci sono persone che ancora non riescono a parlarne.*
-
-Era Mila.
-
-Ethan restò a fissare le parole. Poi appoggiò il telefono sul tavolo.
-
-Aveva passato giorni a dire che Bi stava portando via il lavoro di tutti. Ora, senza Bi, vedeva persone che si arrangiavano a recuperare compiti di cui avevano smesso di tenere traccia.
-
-Non era una smentita della sua paura. Se i robot tornavano, l'organizzazione avrebbe potuto continuare a rinunciare a posti che prima esistevano. Se non tornavano, qualcuno avrebbe dovuto recuperare in fretta competenze che nel frattempo erano state lasciate indietro.
-
-Entrambe le cose erano vere.
-
-La lavatrice emise di nuovo il segnale di fine ciclo.
-
-Ethan si alzò, aprì lo sportello e tirò fuori una maglietta ancora umida. La piegò male. La distese sul tavolo e riprovò.
-
-Il telefono vibrò ancora, ma questa volta non lo guardò subito.
-
-Quando lo fece, trovò una foto mandata da Paul. Ritraeva la macchinetta del caffè con una scatola di bicchieri posata sul pavimento.
-
-Sotto c'era scritto: *Risolto. Però è incredibile quante volte non me ne accorgevo più.*
-
-Ethan appoggiò la maglietta sulla sedia.
-
-Cominciò a digitare: *Anche io.*
-
-Guardò quelle due parole, poi le cancellò.
-
-Aprì invece la comunicazione dell'ufficio incaricato degli accertamenti. Il modulo permetteva di integrare le proprie dichiarazioni senza cambiare quelle già raccolte. Scrisse soltanto il fatto che aveva continuato a evitare nei messaggi agli amici: *Dopo che B-17 ha chiesto di fermarci, l'ho colpito ancora.*
-
-La rilesse. Inviò l'integrazione e mise il telefono sul tavolo.
-
-Non sapeva se qualcuno avrebbe creduto a un pentimento arrivato dopo le registrazioni. In quel momento non era la domanda che poteva fare.
+Sul telefono continuavano ad arrivare richieste di partecipare a un incontro fuori dall'azienda.
