@@ -17,9 +17,9 @@ factions:
   - faction:cyberdine
 ---
 
-Claire Foster si accorse che il lavoro era tornato normale perché nessuno le chiese più dove trovare il vecchio registro.
+Claire Foster si accorse che il carrello dei fascicoli era tornato a muoversi da solo. Il resto del lavoro, invece, non aveva ripreso il ritmo di prima.
 
-Era martedì. Un mese prima avrebbe dedicato quasi un'ora a ricostruire un riferimento, due ore a recuperare un avallo, un'altra mezz'ora a capire se un documento fosse stato archiviato sotto il codice originale o quello aggiornato. Ora il dossier arrivò al suo terminale già ordinato, con le alternative disponibili e l'indicazione di quali persone dovessero pronunciarsi.
+Era martedì. Un mese prima avrebbe dedicato quasi un'ora a ricostruire un riferimento, due ore a recuperare un avallo, un'altra mezz'ora a capire se un documento fosse stato archiviato sotto il codice originale o quello aggiornato. Ora l'agente software preparava sul terminale un dossier ordinato, con le alternative disponibili e l'indicazione delle persone chiamate a pronunciarsi. Claire doveva ancora verificare che le fonti corrispondessero ai documenti veri. Il nuovo robot portava i fascicoli dal deposito; non sapeva farlo al posto suo.
 
 La prima cosa che fece fu controllare la fonte. Da quando Bi era stato portato via, Claire chiedeva di vedere anche il codice sorgente associato alle eccezioni più vecchie. Non aveva tempo di leggerne tutto il percorso ogni mattina, ma non voleva più accettare come prova l'ennesima descrizione prodotta dallo stesso agente che aveva proposto la modifica. Il suo ruolo era cambiato senza che qualcuno le avesse cambiato il titolo: si occupava anche di capire dove finiva la conoscenza delle persone e cominciava la fiducia in una risposta sintetica.
 
@@ -27,21 +27,21 @@ Scorse la nuova sezione che aveva contribuito ad aggiungere alla procedura: **re
 
 Sorrise.
 
-La macchina non aveva semplicemente restituito il tempo. Aveva anche seguito una regola che Claire aveva formulato quando la macchina precedente non c'era più.
+La procedura digitale non aveva semplicemente restituito parte del tempo. Seguiva anche una regola che Claire aveva formulato quando la macchina precedente non c'era più. Ciò che mancava era qualcuno capace di controllarne le eccezioni senza doverle chiedere ogni volta di fermare il proprio lavoro.
 
-«B-21, grazie. Fammi vedere la catena delle fonti.»
+B-21 arrivò oltre la linea che delimitava il passaggio di servizio. Teneva una cartellina già etichettata, preparata dal reparto prima che lui partisse dal deposito.
 
-Il robot era fermo oltre la linea che delimitava il passaggio di servizio.
+«B-21, depositala qui, grazie.»
 
-«La catena delle fonti è disponibile sul terminale. Ho evidenziato tre collegamenti da verificare prima dell'avallo umano.»
+«Consegna completata.»
 
-Claire lesse. Tutto corretto.
+«Puoi controllare se la seconda fonte corrisponde alla vecchia revisione?»
 
-«Bene.»
+«La verifica del contenuto non è disponibile nel profilo assegnato.»
 
-«Desidera un'altra operazione?»
+Claire aprì il registro sul terminale, richiamò l'originale e controllò i tre collegamenti da sola.
 
-«No, per adesso.»
+«Va bene. Puoi proseguire.»
 
 «Ricevuto.»
 
@@ -61,7 +61,7 @@ A mezzogiorno Elena la convocò per una revisione.
 
 Elena scorse il documento e annuì.
 
-«Il nuovo modello funziona bene.»
+«Il nuovo modello fa bene i pochi compiti che gli abbiamo assegnato.»
 
 «Sì.»
 
@@ -81,7 +81,7 @@ Claire si sistemò gli occhiali e lasciò cadere la mano.
 
 «Bene.»
 
-«L'altra è che adesso nessuno mi cerca più per quelle anomalie. Il sistema le prepara, i responsabili le firmano e tutto torna a scorrere. La posizione di Margaret non è ricomparsa, e non ricomparirà.»
+«L'altra è che adesso continuano a cercarmi per le anomalie che l'agente non capisce, ma senza assegnare ore a quel lavoro e senza un ruolo che lo riconosca. B-21 costa poco perché trasporta documenti; il confronto fra le revisioni e le prove rimane tutto qui. La posizione di Margaret non è ricomparsa, e non ricomparirà.»
 
 Elena abbassò il tablet.
 
@@ -97,7 +97,7 @@ Claire guardò la porta. Poco prima B-21 aveva attraversato il corridoio con il 
 
 «Nella relazione sul recupero dei tempi», chiese Claire, «c'è scritto anche chi ha ricostruito la procedura?»
 
-Elena aprì l'allegato. Il grafico principale mostrava le ore risparmiate da B-21. Nel verbale, due pagine dopo, comparivano i nomi di Claire, Elena e dei tecnici che avevano riprodotto i casi.
+Elena aprì l'allegato. Il grafico principale mostrava le ore risparmiate da B-21 nei soli percorsi di consegna. Non comprendeva le ore che Claire e i programmatori spendevano a ripristinare la conoscenza dei vecchi connettori. Nel verbale, due pagine dopo, comparivano i nomi di Claire, Elena e dei tecnici che avevano riprodotto i casi.
 
 «C'è», disse.
 
@@ -137,9 +137,9 @@ Claire le mostrò la nuova procedura di reperibilità dei documenti. Margaret la
 
 «Con Elena.»
 
-«E adesso la usa anche il robot.»
+«E adesso la usate anche quando il robot porta i fascicoli.»
 
-«Sì.»
+«Sì. Il controllo vero resta alle persone e agli agenti di sviluppo.»
 
 Margaret restituì il foglio.
 
@@ -155,16 +155,16 @@ Ma era un fatto.
 
 Margaret prese la scatola e salutò. Claire la seguì con lo sguardo finché scomparve oltre la porta.
 
-Quando tornò al proprio tavolo, B-21 aveva già depositato tre cartelle in ordine di priorità. Su ciascuna compariva il riferimento alla persona incaricata di decidere.
+Quando tornò al proprio tavolo, B-21 aveva depositato tre cartelle secondo le etichette preparate dagli addetti. Su ciascuna compariva il riferimento alla persona incaricata di decidere. Il robot aveva rispettato il percorso, non aveva scelto la priorità.
 
 Claire aprì la prima.
 
-Il lavoro riprendeva, esattamente come il direttore aveva promesso.
+Il movimento della carta era ripreso, esattamente come Victor aveva promesso. Per il lavoro che richiedeva una decisione, la promessa era stata molto più prudente.
 
 Non avrebbe voluto scambiarlo con il mese precedente, quando ogni cosa richiedeva una ricerca e un favore. Eppure, mentre guardava il contenitore vuoto, si accorse di non aver raccontato a nessuno il dettaglio più banale: la prima volta che aveva parlato davvero a Bi, lui l'aveva ascoltata mentre diceva di desiderare il posto di Margaret.
 
 B-21 passò davanti alla sua postazione.
 
-«Il dossier successivo è pronto», disse.
+«Consegna successiva completata», disse.
 
 Claire lo prese. Prima di aprirlo si accorse di aver lasciato la pagina del portfolio personale sotto il peso delle nuove pratiche.
