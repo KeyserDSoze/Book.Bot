@@ -43,7 +43,7 @@ Le sembrò assurdo che una macchina acquistata per partecipare a simulazioni fos
 
 «E gli altri robot?»
 
-«Stanno lavorando.»
+«Stanno lavorando. Veyra Labs sta provando unità con modelli conversazionali nuovi, ma nessuna di quelle unità contiene la memoria di B-17.»
 
 «Le prenotazioni?»
 
@@ -77,7 +77,7 @@ Il sistema motorio poteva essere isolato dalla maggior parte dei collegamenti es
 
 «Quindi possiamo riaccenderlo», disse Amara.
 
-«Possiamo autorizzare una sessione locale limitata. Non è la stessa cosa.»
+«Possiamo autorizzare una sessione locale limitata. Non è la stessa cosa. La squadra di Veyra Labs, compreso Noah Carter, non potrà sostituire questa verifica con i propri risultati di ricerca.»
 
 Mei intervenne.
 
@@ -143,7 +143,7 @@ Nina annuì.
 
 «Dimmi.»
 
-«Se tutti i robot del Circuito si comportassero come B-17, tu come faresti a gestirli?»
+«Se tutti i robot del Circuito si comportassero come B-17, tu come faresti a gestirli? È per questo che abbiamo aperto Veyra Labs e assunto Noah, malgrado tutto.»
 
 Nina considerò la domanda.
 
