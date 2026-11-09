@@ -82,7 +82,7 @@ Olivia richiamò verso le dodici. Kyla le rispose insieme a Leah, dal numero del
 
 «Non posso certificare l'assenza di collegamenti, né trasformarli in un'attribuzione totale.»
 
-Olivia annotò la risposta. Chiese poi se Noah fosse ancora dipendente e se avesse diritto di replica.
+Olivia annotò la risposta. Chiese poi se Noah fosse ancora dipendente e se avesse diritto di replica. Kyla ricordò la lettera che aveva visto consegnargli al termine del procedimento: Cyberdine aveva già chiuso il rapporto di lavoro. Non poteva trasformare una decisione disciplinare in una diagnosi sulle sue capacità.
 
 Leah non rispose per lui. Si limitò a dire che avrebbero trasmesso la richiesta attraverso i canali appropriati, senza fornire dati personali oltre quanto fosse legittimo comunicare.
 
