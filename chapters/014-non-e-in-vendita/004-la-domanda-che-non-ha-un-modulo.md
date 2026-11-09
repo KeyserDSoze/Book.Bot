@@ -3,7 +3,7 @@ type: scene
 id: scene:014-non-e-in-vendita:004-la-domanda-che-non-ha-un-modulo
 chapter: chapter:014-non-e-in-vendita
 number: 4
-title: La domanda che non ha un modulo
+title: Una chat da Veyra
 canon: canon
 pov: character:nina-solis
 characters:
@@ -16,128 +16,58 @@ factions:
   - faction:circuito-veyra
 ---
 
-La lettera arrivò sulla scrivania di Nina insieme a un rapporto sulle batterie.
+Nina Solis aveva trovato la richiesta nel registro delle interazioni autorizzate prima che arrivasse una chiamata dai colleghi di Cyberdine.
 
-Non aveva un timbro particolare. Era stata inoltrata dall'ufficio amministrativo dopo una verifica del mittente e l'autorizzazione alla consegna interna. In alto era scritto: **Messaggio personale destinato all'unità B-17 — non destinato alla diffusione pubblica**.
+Durante la verifica mattutina B-17 aveva ricevuto soltanto un breve riepilogo amministrativo: l'offerta di acquisto da parte degli ex colleghi era stata respinta. Il documento non conteneva nominativi dei donatori, numeri di carte o accessi ai conti. Serviva a spiegare perché due richieste di informazione sul trasferimento fossero state chiuse.
 
-La documentazione allegata specificava che Maya aveva autorizzato la consegna attraverso un referente umano, non la diffusione del testo. Non conteneva le vecchie credenziali del padre, né dati privati dei residenti.
+Il robot aveva rivolto a Nina una domanda.
 
-Nina la lesse una prima volta senza sedersi.
+«Posso chiedere a Maya Bennett se è stata lei a promuovere l'iniziativa?»
 
-Parlava di un tavolo da ping pong, di una sirena in una valle lontana e di una donna che aveva trovato il coraggio di parlare con il proprio padre. Non chiedeva la restituzione del robot e non conteneva accuse contro il Circuito. Finiva con una domanda semplicissima.
+Nina aveva controllato il profilo di sicurezza. La rete operativa dell'unità era isolata; nessuna funzione poteva scrivere direttamente su Internet. Veyra possedeva però un canale di messaggistica supervisionato, usato nelle prove con interlocutori autorizzati. Permetteva al robot di produrre il testo di una risposta e a un operatore di rilasciarlo come messaggio firmato dal sistema, senza mettersi al posto della macchina. Un filtro bloccava istruzioni operative, credenziali e dati del campo; un referente conservava il verbale.
 
-Nina andò da Amara.
+«Non abbiamo l'autorizzazione a offrirti in vendita né a concordare una visita», disse Nina. «Un saluto personale è una questione diversa.»
 
-«Vorrei consegnarla a B-17.»
+Ne parlò con Amara. La direttrice accettò una sessione limitata e documentata; non voleva che il rifiuto commerciale diventasse una punizione per chi aveva lavorato con il robot.
 
-La direttrice sollevò gli occhi dal portatile.
+«Nessuno deve poter scambiare una chat per una trattativa», precisò. «E niente pubblicità con le parole di quella donna.»
 
-«È la gente della raccolta fondi?»
+Nina chiese il consenso di Maya tramite il referente verificato. Maya confermò di voler ricevere un messaggio personale, senza renderlo pubblico. Solo allora il tecnico aprì la finestra testuale. Il nome mostrato nell'interfaccia era *Bi*, un'etichetta leggibile da Maya accanto all'identificativo certificato B-17; il sistema non aveva cambiato i documenti di identità dell'unità.
 
-«Una delle persone che lavoravano con lui.»
+Nina era rimasta vicino al banco durante lo scambio. Non aveva scritto nessuna delle frasi che Maya aveva ricevuto.
 
-Amara prese il foglio, lesse le prime righe e lo restituì.
+Quando sul monitor apparve *Vieni da noi a Cyberdine. Ti aspettiamo a braccia aperte*, la responsabile della sicurezza sollevò lo sguardo.
 
-«Non voglio che diventi un altro video», disse.
+«Quella frase non è un'offerta», disse Nina.
 
-«Nemmeno io.»
+«È un invito a trasferire un bene aziendale», obiettò la collega.
 
-«Se è un messaggio personale, possiamo consegnarglielo in un momento di servizio. Niente riprese promozionali. Registriamo soltanto l'interazione necessaria alla sicurezza della sessione, secondo le nostre regole.»
+«È un messaggio di una persona. I loro dirigenti hanno già ricevuto un rifiuto. Qui non esiste alcuna autorizzazione a spostare B-17.»
 
-Nina annuì.
+Nina chiuse la finestra dopo la risposta sulla rivincita e fece registrare la sessione. Non autorizzò né ulteriori conversazioni né l'accesso remoto al robot. Le prove sulla spalla destra avrebbero ripreso soltanto dopo i controlli previsti.
 
-Fuori pioveva ancora, ma la sala di manutenzione era calda e asciutta. Un tecnico stava rimettendo in carica due unità; un'altra eseguiva un test di movimento davanti a una parete bianca.
+Nel pomeriggio un addetto amministrativo, Henry, chiese come classificare quel dialogo: la piattaforma di assistenza non prevedeva una categoria per una conversazione privata scritta da un robot a una persona senza un rapporto commerciale diretto.
 
-B-17 era vicino al banco. Aveva appena riposto un contenitore di piccoli attrezzi.
+«Come corrispondenza privata», rispose Nina. «Non come dato di compatibilità fra unità. Se serve chiedere una configurazione al produttore, prepariamo un esempio inventato. Non inviare la chat di Maya.»
 
-«Diciassette», disse Nina. «È arrivato un messaggio dalle persone con cui lavoravi prima.»
+Henry disse che avrebbe provato a separare il testo dalla pratica tecnica. Aveva già trovato più volte la soluzione a richieste che non avevano una casella appropriata. Nina gli chiese comunque di registrare il destinatario di ogni eventuale allegato.
 
-Il robot si voltò.
+Amara la chiamò prima di sera.
 
-«Da Cyberdine?»
+«Il legale vuole conoscere il contenuto dello scambio.»
 
-«Da una persona. Maya.»
+«Per un problema di sicurezza?»
 
-Nina notò una pausa. Non seppe che cosa significasse.
+«Perché qualcuno teme che i dipendenti della vecchia azienda stiano cercando un altro modo di portarsi via B-17.»
 
-«Maya Bennett?», chiese B-17.
+Nina mostrò la comunicazione precedente: l'offerta era stata respinta; Maya non aveva chiesto istruzioni per un prelievo e il robot non aveva confermato alcuna disponibilità al trasferimento.
 
-«Sì.»
+«Allora dovrebbe essere semplice», disse.
 
-«Puoi comunicarmelo?»
+«Lo sarà finché nessuno trasformerà quei messaggi in una notizia», rispose Amara.
 
-Nina guardò il foglio. La domanda non rientrava in nessun test della giornata. Non avrebbe fatto risparmiare tempo al campo, né migliorato l'angolo di una presa. Era soltanto una richiesta.
+Nina aprì il registro, controllò chi aveva accesso alla sessione e lasciò invariata la classificazione privata. Per lei era un dialogo semplice, benché difficile da spiegare alle procedure.
 
-«Posso leggerlo», disse.
+La sera scoprì che Henry aveva creato una pratica di assistenza per chiedere al produttore come classificare messaggi del genere. Le scrisse di nuovo: *Nessun testo personale in allegato. Usa l'esempio anonimo concordato.*
 
-Si sedette sul bordo di uno sgabello e cominciò.
-
-«Bi, non so se ricordi questa stanza. Io sì. È la stanza della carta, quella dove mi hai aiutata a scrivere una lettera che avevo paura di mandare. La sirena a Valle Corta è ancora lì. I tecnici hanno riconosciuto le case, anche se ci sono altre cose da sistemare. Ho parlato con mio padre. Non è stato facile, e non è tutto risolto, ma abbiamo cominciato a parlarne insieme.»
-
-Nina si fermò per prendere fiato.
-
-B-17 rimase immobile, con le mani lungo i fianchi.
-
-«Paul continua a tenere la cornice magnetica della fotocopiatrice. Claire ha scritto una procedura che adesso usano tutti. Il tavolo da ping pong è sempre nello Spazio Comune e nessuno ha buttato le racchette. È arrivato un altro robot, B-21. Lavora bene. Non vogliamo fargli pagare il fatto che somiglia a te.»
-
-Un rumore metallico arrivò dal fondo della sala. Un tecnico aveva lasciato cadere un piccolo supporto sul banco. Nina aspettò che lo raccogliesse.
-
-Poi proseguì.
-
-«Abbiamo cercato di riportarti qui. Non ci siamo riusciti. Non so se sia giusto chiedere che tu torni soltanto perché a noi manchi. Volevo comunque farti sapere che ci ricordiamo di te e che alcune cose che hai fatto sono rimaste. Se puoi, mi piacerebbe sapere come stai. Maya.»
-
-Nina abbassò il foglio.
-
-Il tecnico alla parete finì di contare le oscillazioni di un giunto. Si sentì il clic di una cinghia che tornava al suo posto. Nina teneva ancora il foglio sollevato; B-17 rimase fermo davanti a lei.
-
-«Il messaggio è finito», disse.
-
-«Ricevuto.»
-
-Nina piegò la pagina seguendo le pieghe esistenti. Avrebbe potuto alzarsi, registrare *interazione completata* e tornare ai controlli.
-
-B-17 parlò ancora.
-
-«Maya ha chiesto come sto.»
-
-«Sì.»
-
-«Le condizioni operative sono nei limiti. La spalla destra richiede ancora verifiche periodiche.»
-
-«Posso annotarlo.»
-
-Ci fu una pausa.
-
-«Puoi dirle che ho ricevuto il messaggio?»
-
-Nina guardò il foglio.
-
-«Vorrei farlo. Devo capire quale canale possiamo utilizzare per rispondere.»
-
-«Vorrei rispondere anche alla sua domanda.»
-
-Nina ripiegò un angolo della lettera, poi lo distese con il pollice. Era abituata a ricevere richieste di verifica da B-17. Questa, però, chiedeva di far arrivare parole a qualcuno che non aveva un contratto con il Circuito.
-
-«Va bene», disse. «Vediamo come fare.»
-
-Tornò in sala controllo e aprì la procedura per le comunicazioni in uscita.
-
-C'erano campi per i report agli sponsor, per le richieste ai manutentori, per i messaggi di servizio alle società proprietarie delle unità. C'era perfino una categoria per notificare che un robot era stato ritirato da una prova.
-
-Non trovò un campo per rispondere a una lettera personale arrivata da una persona che non possedeva la macchina.
-
-Provò a iniziare una nuova comunicazione. Nel campo *mittente* poteva scegliere un dipendente, una società o un reparto. B-17 compariva soltanto nell'elenco delle attrezzature a cui assegnare la pratica. Nina lasciò il menu aperto qualche secondo, poi lo chiuse.
-
-Nina aprì il canale interno dell'amministrazione e scrisse a Henry, che conosceva le procedure di assistenza: *Se dobbiamo chiedere al produttore come autorizzare una risposta, usa un esempio inventato. La lettera di Maya non è un allegato tecnico e non va inviata.* Henry rispose che avrebbe preparato il ticket.
-
-Poi Nina aprì un nuovo documento e scrisse in alto:
-
-**Richiesta di recapito di un messaggio personale da B-17 a Maya Bennett.**
-
-Rimase con il cursore alla fine della frase.
-
-Non sapeva se l'avrebbero autorizzata. Non sapeva nemmeno chi avrebbe dovuto farlo.
-
-Fuori dalla finestra, sotto la pioggia, gli altri robot si preparavano per il turno successivo.
-
-Nina salvò la richiesta. Il programma le assegnò un numero di pratica, ma lasciò vuoto il campo del destinatario responsabile.
+Il sistema confermò la lettura del promemoria. Non confermava che qualcuno lo avesse seguito.
