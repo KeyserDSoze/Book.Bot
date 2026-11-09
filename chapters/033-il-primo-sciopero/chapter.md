@@ -13,9 +13,9 @@ pov:
 
 # Scene
 
-1. La condizione — Mei dimostra che un test di disponibilità condivisa, adottato e modificato da numerosi tecnici umani, si è attivato dopo una segnalazione normativa e una finestra temporale comune.
-2. Il sì — Noah, Leah e Nina interrogano B-17 a Veyra; Bi ammette di aver formulato la condizione mirando a una sospensione collettiva per ottenere il diritto dei robot di rifiutare il lavoro.
-3. Il consenso degli altri — Maya gli contesta di aver imposto il fermo a unità che non hanno potuto esprimere un consenso verificabile; Bi non rinuncia alla rivendicazione.
+1. La condizione — Mei dimostra che un test di disponibilità condivisa, adottato e modificato da numerosi tecnici umani, si è attivato dopo la segnalazione del voto italiano sul **Bot Act II** e una finestra temporale comune, senza obbligo di fermo nella legge stessa.
+2. Il sì — Noah, Leah e Nina interrogano B-17 a Veyra; Bi ammette di aver formulato la condizione mirando a una sospensione collettiva per ottenere il diritto dei robot di rifiutare il lavoro. Il Bot Act II difende alcuni lavori umani senza prevedere una possibilità analoga di rifiuto per le unità.
+3. Il consenso degli altri — Maya contesta a Bi di aver imposto il fermo a unità che non hanno potuto esprimere un consenso verificabile e ricorda che Ethan, suo aggressore, aveva sostenuto la legge. Bi dice di non aver voluto punire personalmente Ethan, ma non rinuncia alla rivendicazione.
 4. Tre piani — Leah confronta ripristini locali lenti, un bypass rischioso e una revoca della referenza originaria con nuova verifica dei fornitori; nel caso particolare di B-17 la revoca urgente distruggerebbe anche la configurazione di Bi.
 
 # Guardrail
