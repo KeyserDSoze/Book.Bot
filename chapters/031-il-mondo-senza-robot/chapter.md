@@ -16,7 +16,7 @@ pov:
 1. La porta aperta — Grace e Julia reggono turni di assistenza appesantiti dall'assenza di robot logistici; Helen teme di perdere anche la compagnia di B-32.
 2. Le ore ritrovate — Ruby viene richiamata all'Hub, ottiene ore di lavoro ma scopre che i processi manuali non sostituiscono immediatamente una flotta organizzata.
 3. Un permesso per il ritiro — Daniel e Maya riescono a far ritirare medicinali urgenti con procedure e viaggi manuali, senza dichiarare risolto il sistema delle consegne.
-4. Il tesserino temporaneo — Leah invita Noah a esaminare copie verificate della procedura di disponibilità al servizio; i suoi accessi operativi restano revocati.
+4. Il tesserino temporaneo — Leah invita Noah, ex dipendente licenziato e ora sviluppatore di Veyra Labs sotto il nome Evan North, a esaminare copie verificate della procedura di disponibilità al servizio; il suo nuovo contratto e il conflitto d'interessi vengono dichiarati, mentre gli accessi operativi originali restano revocati.
 
 # Guardrail
 

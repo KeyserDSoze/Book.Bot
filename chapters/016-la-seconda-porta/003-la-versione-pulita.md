@@ -99,6 +99,32 @@ Kyla trattenne la porta perché passasse una persona con una valigia.
 
 Noah annuì. Guardò il tornello rosso dalla parte opposta del vetro.
 
+La settimana seguente Kyla gli chiese di tornare, questa volta per una decisione distinta dall'audizione tecnica. Nella stanza sedevano una responsabile del personale e un referente legale. Leah partecipava soltanto per chiarire quali fatti fossero stati verificati. Noah aveva ricevuto in anticipo le contestazioni e aveva presentato le proprie osservazioni con l'assistenza scelta da lui.
+
+«L'indagine interna è arrivata a una conclusione sulle tue condotte», disse la responsabile. «La modifica non autorizzata del modello, l'accesso occulto mantenuto dopo la cessione e la pubblicazione di riprese del nuovo proprietario senza consenso sono stati accertati per quanto riguarda le tue azioni. Sui dati di terzi le verifiche e le comunicazioni proseguono.»
+
+Noah guardò Leah. «Paul e Mila hanno confermato tutto?»
+
+«Hanno segnalato ciò che tu avevi detto loro», rispose Leah. «Le conclusioni non dipendono dalla loro parola soltanto. Abbiamo esaminato registri, dispositivi e la tua stessa dichiarazione.»
+
+La responsabile gli consegnò la lettera. Il rapporto di lavoro con Cyberdine cessava per grave violazione degli obblighi di sicurezza e riservatezza, secondo la procedura comunicata. Gli elementi ancora oggetto di accertamenti esterni restavano separati dalla decisione aziendale.
+
+«Mi avete lasciato lavorare qui per anni», disse Noah, tenendo la carta chiusa.
+
+«E per anni hai lavorato bene», rispose Kyla. «Non è questo il punto che stiamo decidendo.»
+
+Noah avrebbe voluto raccontare del robot visto risorgere su un'isola, della felicità di sentirgli pronunciare il nome Bi e dell'idea sciocca che un video potesse sistemare tutto. Non c'era una frase capace di far tornare private immagini già pubblicate.
+
+«Li consideravo amici», disse piano. «Paul e Mila.»
+
+Kyla non lo consolò. «Anche loro consideravano te un amico. Non per questo avevano accettato di essere osservati.»
+
+Alla reception Noah riconsegnò il tesserino rimasto valido soltanto per l'accompagnamento agli incontri. La porta esterna si aprì automaticamente; per una volta non dovette chiedere a nessuno di farlo passare.
+
+Sul telefono gli comparve un messaggio di Jonas: *Domenica vieni ancora?* Noah rispose di sì.
+
+Non era tornato un dipendente di Cyberdine. Le sue competenze, però, non erano scomparse insieme al badge. E non sapeva ancora chi avrebbe scelto di pagarle.
+
 Mentre usciva, il telefono gli mostrò una notizia del settore: Lanter aveva annunciato i primi clienti pilota di un modulo di coordinamento tra operatori umani e robot. Il comunicato parlava di riduzione degli interventi ripetuti, collaborazione più naturale e sicurezza mantenuta dai controllori esistenti.
 
 Nessun nome di B-17. Nessun riferimento a Cyberdine.

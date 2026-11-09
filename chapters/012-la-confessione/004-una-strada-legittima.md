@@ -50,15 +50,15 @@ Kyla annuì.
 
 «E Noah?»
 
-«Non prendiamo oggi decisioni sul suo futuro senza gli accertamenti. Gli accessi operativi restano sospesi.»
+«Non prendiamo oggi decisioni sul suo futuro senza gli accertamenti. Gli accessi operativi restano sospesi. La pubblicazione non autorizzata dei video è una voce distinta del procedimento disciplinare.»
 
 Quando uscirono, Kyla trovò Paul davanti alla sala copie. Stava sistemando la cornice magnetica che aveva costruito per B-17. Il nuovo robot non ne aveva quasi bisogno, ma Paul continuava a controllare che fosse lì.
 
-«Ho saputo che state verificando un problema con il vecchio modello», disse.
+«So che state verificando il problema che abbiamo segnalato», disse.
 
 Kyla scelse le parole.
 
-«Sì. Riguarda anche chi poteva accedere a certe informazioni. Non posso ancora raccontarti tutto.»
+«Sì. Ora dobbiamo capire fin dove poteva arrivare quell'accesso. Tu e Mila avete fatto una segnalazione importante, ma non è giusto chiedervi di condurre l'indagine.»
 
 Paul guardò la cornice.
 
@@ -70,7 +70,7 @@ Paul si voltò verso di lei.
 
 «È operativa?»
 
-«Stiamo ottenendo una conferma ufficiale. Non voglio basarmi sulle sole osservazioni non autorizzate.»
+«Stiamo ottenendo una conferma ufficiale. Il video che Noah ha pubblicato non equivale alla conferma del proprietario.»
 
 Paul rimase in silenzio. Poi fece una cosa che Kyla non si aspettava: prese un foglio e scrisse il numero di telefono di una persona che lavorava nella manutenzione internazionale della stessa famiglia di robot.
 

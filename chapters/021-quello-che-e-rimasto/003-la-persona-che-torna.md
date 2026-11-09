@@ -42,6 +42,22 @@ Nina la aspettava.
 
 «La sessione è autorizzata soltanto per un periodo limitato. Bi non ha accesso alle funzioni ordinarie. Nella stanza accanto ci saranno i tecnici che controllano la sicurezza. Conserviamo il verbale necessario a documentare la sessione, secondo i limiti che ti abbiamo mandato. La conversazione non sarà usata per pubblicità o dimostrazioni.»
 
+Maya notò una targhetta sulla porta del laboratorio accanto. **VEYRA LABS — EVAN NORTH**. Sotto, in caratteri più piccoli, c'era una responsabilità di sviluppo conversazionale.
+
+«Chi è Evan North?», domandò.
+
+Nina si fermò. «È il nome professionale usato da Noah Carter qui a Veyra. L'azienda conosce la sua identità, e lui non ha accesso a questa sessione.»
+
+Maya guardò la targhetta una seconda volta.
+
+«Avete assunto l'uomo che mi ha detto di potermi ascoltare senza che lo sapessi?»
+
+«Sì. Dopo che Cyberdine l'ha licenziato. La direzione ha accettato il rischio per le sue competenze, con verifiche e limiti. Non ti chiedo di approvare la scelta. Se vuoi interrompere la visita, puoi farlo.»
+
+Maya sentì la chiave di ottone premere contro il palmo. «Voglio parlare con Bi. Ma non voglio che Noah abbia accesso alla registrazione della mia visita.»
+
+«Non è tra i destinatari autorizzati», disse Nina. «Lo registriamo anche come tua condizione.»
+
 «E chi leggerà le mie risposte?»
 
 «I referenti autorizzati alla verifica. Non chiediamo che tu ci racconti altre cose private per provare che lui ricorda. Puoi ancora scegliere di non entrare.»

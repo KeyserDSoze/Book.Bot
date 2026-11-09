@@ -20,7 +20,7 @@ Nina vide la prima versione del video mentre si lavava le mani.
 
 Il telefono vibrò sul bordo del lavandino. Era un messaggio di un tecnico del turno di notte: *Hai visto il nostro campione?*
 
-Nel filmato B-17 usciva da un bosco di felci, sollevava una replica d'artiglieria e raggiungeva il segnale azzurro. Subito dopo compariva una scritta: **L'ULTIMO SOPRAVVISSUTO**. I due robot della sua squadra, eliminati dalla simulazione, non comparivano. Nemmeno i tecnici, la verifica del passaggio e l'autorizzazione che Nina aveva dato dal microfono.
+Il video cominciava con un'inquadratura instabile, all'altezza degli occhi di B-17: felci, una spalla metallica sul bordo e il passaggio che portava al segnale azzurro. Poi veniva una ripresa più distante, tratta da una telecamera del campo, che mostrava il robot raggiungere l'obiettivo. Qualcuno aveva aggiunto la scritta **L'ULTIMO SOPRAVVISSUTO**. I due robot della sua squadra, eliminati dalla simulazione, non comparivano. Nemmeno i tecnici, la verifica del passaggio e l'autorizzazione che Nina aveva dato dal microfono.
 
 Durava diciotto secondi.
 
@@ -34,9 +34,19 @@ Uscì dai servizi e raggiunse la sala controllo.
 
 La montatrice, una ragazza con gli auricolari intorno al collo, stava completando il caricamento del rapporto della giornata.
 
-«Il reparto comunicazione. Avevamo l'autorizzazione alle riprese della prova.»
+«Non noi», rispose la montatrice. «È uscito su un account che non riconosco. Il reparto comunicazione sta cercando di capire da dove venga.»
 
-«Non avevamo l'autorizzazione a chiamarlo sopravvissuto.»
+Nina le indicò il primo fotogramma. «Quella non è una delle telecamere che abbiamo autorizzato per la comunicazione.»
+
+«La seconda inquadratura sì. È materiale del circuito, ma la prima sembra una visuale dell'unità.»
+
+«Quindi qualcuno potrebbe aver avuto accesso a un flusso che non era destinato alla pubblicazione.»
+
+La montatrice smise di sorridere.
+
+«Non lo sappiamo ancora. I responsabili hanno chiesto di conservare la copia e i dati di provenienza.»
+
+«Bene. E nessuno lo chiami *sopravvissuto* nei nostri canali ufficiali.»
 
 «È un titolo, Nina.»
 
@@ -64,7 +74,7 @@ Amara si sedette senza togliersi il cappotto leggero.
 
 «Non lo so.»
 
-«Nemmeno io. Ma ne abbiamo una versione da diciotto secondi che interessa al mondo.»
+«Nemmeno io. Ma adesso c'è una versione da diciotto secondi che interessa al mondo. Non l'abbiamo pubblicata noi e qualcuno potrebbe averla ottenuta senza permesso.»
 
 Nina si voltò verso i monitor. Sullo schermo centrale B-17 stava ripetendo una prova di manipolazione dell'attrezzatura. Posava una cinghia, la riprendeva, registrava il completamento. Un tecnico gli chiedeva di spostarsi di venti centimetri. Il robot obbediva con un piccolo ritardo sulla spalla destra.
 
@@ -84,7 +94,7 @@ Amara appoggiò il tablet sul banco.
 
 La risposta fu sincera. Nina non trovò una ragione per contestarla, anche se le lasciò in bocca un sapore amaro.
 
-Amara le mostrò un secondo filmato. Durava sette secondi e non conteneva alcun combattimento. B-17 chiedeva se le altre unità avrebbero ripreso il servizio. Sotto compariva la scritta **SI PREOCCUPA DEI COMPAGNI?**
+Amara le mostrò un secondo filmato, ripubblicato dallo stesso account e poi copiato ovunque. Durava sette secondi e non conteneva alcun combattimento. La ripresa veniva ancora dalla visuale del robot: B-17 chiedeva se le altre unità avrebbero ripreso il servizio, mentre nel video restavano il banco e le mani di un tecnico. Sotto compariva la scritta **SI PREOCCUPA DEI COMPAGNI?**
 
 Quel video aveva quasi altrettante visualizzazioni.
 
@@ -96,9 +106,9 @@ Nina avvicinò il viso allo schermo. Il robot faceva una domanda semplice, ricev
 
 «Non te le ho chieste.»
 
-«Allora rimettiamo il filmato di diciotto secondi sotto le registrazioni di sicurezza, insieme alla versione intera. Non voglio che chi prepara le prossime offerte pensi che quel salto nel bosco fosse un numero previsto in scaletta.»
+«Allora conserviamo entrambe le copie virali come possibile incidente, separandole dalla registrazione ufficiale completa. Non voglio che chi prepara le prossime offerte pensi che quel salto nel bosco fosse un numero previsto in scaletta.»
 
-Amara chiamò la montatrice davanti a lei. Chiese che la didascalia riportasse *prova supervisionata* e un collegamento al filmato integrale. «I milioni di visualizzazioni li abbiamo già», disse al termine della telefonata. «Adesso voglio sapere che cosa gli sponsor credono di aver comprato.»
+Amara chiamò la montatrice davanti a lei. Chiese di pubblicare una versione autorizzata dalle telecamere del circuito, con la dicitura *prova supervisionata* e un collegamento alla registrazione completa. La pubblicazione non avrebbe sanato l'origine ignota dei primi due filmati. «I milioni di visualizzazioni li hanno già fatti altri», disse al termine della telefonata. «Adesso voglio sapere che cosa gli sponsor credono di aver comprato.»
 
 Amara si alzò. Prima di uscire aggiunse che l'indomani sarebbero arrivati alcuni visitatori. Sponsor, forse partner. Nessuna telecamera aggiuntiva senza approvazione.
 

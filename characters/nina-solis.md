@@ -14,7 +14,7 @@ Nel capitolo 10 controlla la squadra azzurra durante una simulazione tra robot: 
 
 ## Capitoli 11–14
 
-Nina vede diffondersi un montaggio virale della prova nel bosco, più spettacolare della sequenza completa, e annota che il risultato dipende dalla squadra e dalla sua autorizzazione di sicurezza. Interviene contro proposte di spettacoli che inducano cadute o rischi non controllati. In capitolo 14, con autorizzazione di Amara Ortiz, legge a B-17 una lettera personale di Maya. B-17 chiede di rispondere. Non esistendo una procedura apposita per corrispondenza personale del robot verso esterni non proprietari, Nina apre una richiesta, ancora in attesa.
+Nina vede diffondersi un montaggio virale della prova nel bosco, più spettacolare della sequenza completa. Nota fotogrammi provenienti dalla visuale sensoriale di B-17, non riconosciuti come materiale pubblicato dal reparto comunicazione, e chiede la conservazione delle evidenze. Solo successivamente emerge che Noah lo ha registrato e pubblicato senza permesso. Nina annota che la vittoria dipende dalla squadra e dalla sua autorizzazione di sicurezza. Interviene contro proposte di spettacoli che inducano cadute o rischi non controllati. In capitolo 14, con autorizzazione di Amara Ortiz, legge a B-17 una lettera personale di Maya. B-17 chiede di rispondere. Non esistendo una procedura apposita per corrispondenza personale del robot verso esterni non proprietari, Nina apre una richiesta, ancora in attesa.
 
 ## Regola della simulazione, capitolo 10
 
@@ -24,6 +24,10 @@ Il punteggio della prova di Veyra è verificabile: il controllo rosso del punto 
 
 Il Circuito riceve l'avviso di Cyberdine su possibili accessi non autorizzati al modulo originario di B-17. Durante gli accertamenti limita temporaneamente il programma alle prove locali supervisionate. Nina non interpreta la misura come attestazione che ogni problema passato sia risolto. La lettera di Maya è consegnata tramite un referente umano con il consenso della mittente, senza sfruttamento promozionale.
 
+
+## Veyra Labs e Noah
+
+Nina accetta la nascita della nuova società di ricerca Veyra Labs ma contesta l'idea che la competenza di Noah possa sanare la vecchia backdoor. Impone ambienti separati, autorizzazioni tracciate e revisione indipendente: il laboratorio può creare unità conversazionali migliori, ma non copiare B-17 o modificare la sua identità originaria senza il consenso dei titolari e verifiche specifiche. Per la visita di Maya nel 21 Nina dichiara che Noah, noto anche come Evan North, non accederà al colloquio o ai relativi dati personali.
 
 ## Capitoli 25–29
 

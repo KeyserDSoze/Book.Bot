@@ -20,11 +20,13 @@ Cyberdine ha deciso di non aprire il ruolo senior lasciato da Margaret Ellis al 
 
 ## Capitolo 11 — Il prezzo del vincitore
 
+I due video virali della prova di Veyra compaiono inizialmente da un account anonimo, con immagini anche dalla prospettiva sensoriale del robot. Il reparto comunicazione del Circuito non li ha pubblicati. **Il lettore scopre soltanto nel capitolo 12 che a registrarli e diffonderli è stato Noah**, che voleva far vedere sia i nuovi impieghi robotici sia la sopravvivenza operativa di Bi. Noah lascia la mail per Kyla in bozze e parla invece con Paul e Mila.
+
 Due filmati pubblici di B-17 diffondono interpretazioni contrastanti: campione temibile o robot attento ai compagni. Le visualizzazioni crescono rapidamente. **Amara Ortiz**, direttrice commerciale e comproprietaria del **Circuito Veyra**, riceve offerte anche a sette cifre, ma con condizioni e diritti di esclusiva: non equivalgono a un prezzo garantito di acquisto. Il valore commerciale ora riflette sponsor, pubblico, diritti e impegni futuri, non soltanto il valore materiale dell'unità. **Nina** insiste su regole di sicurezza e sul fatto che le riprese siano montate in maniera parziale. Noah decide di chiedere a Kyla un incontro riservato con la sicurezza.
 
 ## Capitolo 12 — La confessione
 
-Noah confessa a **Kyla** e a **Leah Rosen**, responsabile sicurezza informatica, l'aggiornamento non approvato e il collegamento clandestino. Leah avvia verifiche, conserva le evidenze e sospende cautelativamente gli accessi operativi di Noah, senza che sia già stabilita una sanzione definitiva. **Non è noto con certezza** se e quali colloqui privati possano essere stati osservati o conservati; Noah dichiara di non aver seguito la conversazione di Maya, ma la sua parola non è una prova tecnica. Maya viene informata, lo affronta ed è profondamente turbata. Rifiuta ulteriori osservazioni clandestine di Bi.
+Noah confessa prima a **Paul Turner** e **Mila Novak** di aver modificato B-17, mantenuto il collegamento clandestino e **pubblicato anonimamente i video**. I due, amici del lavoro che si sentono potenzialmente spiati, informano Kyla e Leah. Convocato, Noah ammette i fatti a **Kyla** e **Leah Rosen**, responsabile sicurezza informatica. Leah avvia verifiche, conserva le evidenze e sospende cautelativamente gli accessi operativi, senza anticipare la conclusione disciplinare. **Non è noto con certezza** se e quali colloqui privati possano essere stati osservati o conservati; Noah dichiara di non aver seguito la conversazione di Maya, ma la sua parola non è una prova tecnica. Maya viene informata, lo affronta ed è profondamente turbata. Rifiuta ulteriori osservazioni clandestine di Bi.
 
 Victor Cole autorizza un contatto ufficiale con l'operatore di Veyra per sicurezza e titolarità. Il Circuito conferma legittimamente che possiede B-17 e lo impiega nelle prove. Paul e Maya vengono a sapere che Bi esiste ancora e che non è stato distrutto. Un ritorno a Cyberdine non è promesso.
 
@@ -69,9 +71,11 @@ A Veyra l'amministrativo Henry ha allegato per errore il testo integrale a una r
 
 **Mei Lin**, responsabile qualità di Lanter Robotics, verifica che la piattaforma di supporto ha pubblicato un estratto dalla lettera privata di Maya in una descrizione indicizzata tra clienti; Lanter interrompe quella funzione e conserva le evidenze, ma la possibile lettura precedente resta da accertare. Un team prodotto ha inoltre usato risultati osservati su B-17 durante il recupero per ricostruire una funzione denominata **Collaborazione Contestuale**, senza provare che ne sia stato copiato direttamente il codice. La provenienza dei casi è contestata e Mei chiede una revisione, ma il calendario dei piloti commerciali non è ancora annullato.
 
-Leah e Kyla trattano i due incidenti come problemi distinti e ricevono chiarimenti da Lanter. Noah viene ascoltato con accessi operativi sempre sospesi; ammette risultati promettenti ma non validati del proprio intervento e ricorda che un suggerimento contestuale non deve poter scavalcare gli arresti del controllore. Non gli viene concesso accesso ai sistemi del produttore. Lanter ha annunciato un pilota per la settimana seguente. Nessuna dichiarazione certifica che la backdoor sia rimossa o che Bi sia cosciente.
+Leah e Kyla trattano i due incidenti come problemi distinti e ricevono chiarimenti da Lanter. Noah viene ascoltato con accessi operativi sempre sospesi; ammette risultati promettenti ma non validati del proprio intervento e ricorda che un suggerimento contestuale non deve poter scavalcare gli arresti del controllore. **Al termine dell'indagine disciplinare Cyberdine lo licenzia** per aver modificato di nascosto B-17, mantenuto un accesso ai sensori e diffuso video senza autorizzazione. Le vicende di responsabilità esterne e privacy restano aperte. Non gli viene concesso accesso ai sistemi del produttore. Lanter ha annunciato un pilota per la settimana seguente. Nessuna dichiarazione certifica che la backdoor sia rimossa o che Bi sia cosciente.
 
 ## Capitolo 17 — Mille piccoli Bi
+
+La società **Veyra Labs** viene costituita sotto il gruppo del Circuito Veyra, separatamente da Lanter Robotics. Amara decide di assumere Noah per sviluppare capacità più avanzate su prototipi e studiare miglioramenti possibili per B-17. Nei crediti di laboratorio Noah usa il nome professionale **Evan North**, senza nascondere la vera identità ai datori di lavoro o ai controllori. I prototipi sono **altre unità**, non copie della memoria o della soggettività di B-17. La decisione commerciale è consapevole del suo licenziamento e non sana gli accessi clandestini.
 
 Sei settimane dopo i primi confronti, Lanter avvia un'estensione controllata del nuovo modulo **Collaborazione Contestuale**, sviluppato autonomamente studiando anche casi osservati su B-17; non è una clonazione del suo software o della sua memoria. Mei Lin ottiene condizioni di test e documentazione ma non un fermo completo: l'origine dei materiali è ancora contestata.
 
@@ -134,7 +138,7 @@ Nina consegna finalmente durante una sessione autorizzata la risposta di Maya «
 
 A Cyberdine, Paul e Claire lavorano con B-21, che gestisce correttamente una discrepanza fra revisioni documentali. È stata **proposta**, non ancora autorizzata né avviata, un'estensione della preparazione automatica alle pratiche serali: Claire chiede chi approverà le eccezioni in sua assenza. Il ruolo senior di Margaret non è stato riaperto e Claire non è promossa. B-21 non possiede i ricordi di B-17.
 
-**Prossimo capitolo: 22.** L'arco prosegue mostrando relazioni quotidiane tra umani e robot fuori dalla cerchia di Bi. Conservare sospensione del servizio di B-17, dubbi tecnici e procedurali, benefici reali dell'automazione, distinzione fra le due unità e responsabilità delle scelte umane. Le verifiche su Lanter e Noah non hanno una conclusione automatica.
+**Prossimo capitolo della registrazione storica: 22.** L'arco prosegue mostrando relazioni quotidiane tra umani e robot fuori dalla cerchia di Bi. Conservare sospensione del servizio di B-17, dubbi tecnici e procedurali, benefici reali dell'automazione, distinzione fra le due unità e responsabilità delle scelte umane. Le verifiche su Lanter e Noah non hanno una conclusione automatica.
 
 
 ## Capitoli 22–24 — Relazioni, turni, omissioni (punto di ripresa attuale)

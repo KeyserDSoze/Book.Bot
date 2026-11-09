@@ -10,128 +10,141 @@ characters:
   - character:kyla
   - character:noah-carter
   - character:leah-rosen
+  - character:paul-turner
+  - character:mila-novak
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
+Kyla trovò Paul Turner e Mila Novak nella sala riunioni prima ancora di togliersi il cappotto.
 
-Kyla arrivò con due minuti di anticipo e trovò Noah già seduto.
+Non avevano prenotato la stanza per una riunione. Paul teneva il telefono a faccia in giù sul tavolo. Mila, che di solito faceva sentire la propria voce da un corridoio all'altro, parlava così piano che Kyla le chiese di ripetere.
 
-Aveva un bicchiere d'acqua davanti, ma non lo aveva toccato. Il fondo della felpa era umido, come se avesse cercato di pulire una macchia con le mani bagnate. Sul tavolo aveva appoggiato il portatile chiuso e una busta da cui spuntavano alcuni fogli piegati.
+«È Noah», disse Mila. «Ci ha parlato stamattina. Credevo stesse per raccontarci un problema di lavoro.»
 
-La stanza senza finestre era stata scelta da Leah Rosen, responsabile degli incidenti di sicurezza informatica. Un normale locale per colloqui riservati: tavolo rotondo, tre sedie, una presa difettosa. Da qualche settimana Kyla era anche azionista di Cyberdine; aveva quasi aperto la riunione chiedendo quante persone fuori dall'azienda sapessero già dell'accaduto. Leah l'aveva fermata: prima serviva capire quali accessi fossero ancora possibili. Kyla vi aveva comunicato esiti di selezione, richiami e cambiamenti contrattuali. Non ci aveva mai ascoltato qualcuno chiedere di parlare di un robot venduto dall'altra parte del mondo.
+Paul sollevò il telefono. Sullo schermo c'era il video del robot nel bosco.
 
-Leah entrò con un blocco e un bicchiere d'acqua in mano. Kyla notò che aveva lasciato il pasto nel contenitore ancora chiuso sulla mensola fuori dalla saletta. Non c'era stato il tempo di mangiare. Leah si sedette, scrisse due parole in cima alla pagina — *Fatti. Poi interpretazioni.* — e sottolineò la seconda. Kyla non seppe se fosse un promemoria per Noah o per se stessa.
+«Sai che questo è B-17?»
 
-«Noah», disse. «Mi hanno riferito che ritieni possa esserci un problema di sicurezza ancora attivo. Cominciamo da quello.»
+«L'ho visto», rispose Kyla.
 
-Noah annuì e si schiarì la gola.
+«Noah ha detto di averlo ripreso lui.»
 
-«B-17 si è riacceso.»
+Kyla rimase ferma. «Da Veyra?»
 
-Kyla si sporse.
+«Da casa», disse Paul. «Tramite un collegamento che ha lasciato dentro il robot. Ci ha detto che poteva vedere e sentire quello che Bi vedeva e sentiva. Anche quando lavorava qui.»
 
-«Come fai a saperlo?»
+Mila appoggiò le mani sul tavolo.
 
-«Ricevo una notifica quando succede.»
+«E ci ha raccontato di aver cambiato il modello di B-17 senza dirlo a nessuno. Il suo linguaggio, i ricordi delle conversazioni. Era fiero dei risultati. Poi ha detto che aveva tenuto aperto quell'accesso per controllare come andava.»
 
-Leah aprì il blocco.
+«Che cosa avete risposto?»
 
-«Da quale sistema autorizzato?»
+«Gli abbiamo chiesto se avesse guardato noi», disse Paul.
 
-Noah abbassò gli occhi.
+Kyla non ebbe bisogno di chiedere perché. Mila aveva passato settimane davanti alla macchinetta del caffè, Paul aveva giocato a ping pong con il robot, e nelle pause tutti avevano parlato di cose che non avrebbero detto in una riunione registrata.
 
-«Da nessuno autorizzato.»
+«Ha detto che non sapeva dirci esattamente quali momenti avesse visto», continuò Mila. «Che non aveva conservato tutto. Poi ci ha chiesto di dargli un giorno prima di informare la direzione.»
 
-L'intera conversazione cambiò peso con quella risposta. Kyla aveva sperato in un file fuori posto, una verifica mancata, un errore che si potesse correggere con una riunione. Leah non parve sorpresa.
+«Perché un giorno?»
 
-«Prosegui.»
+«Per raccontarlo lui», rispose Paul. «O forse per convincerci che non era così grave. Non l'ho capito.»
 
-Noah raccontò dell'ambiente di prova, delle sessioni notturne e del modello più potente che aveva lasciato su B-17 senza autorizzazione. Non provò a descrivere ogni miglioramento: Leah gli chiese subito quando avesse cambiato la configurazione e quali verifiche non fossero state eseguite. Noah ricordò la prova sull'autonomia lasciata a metà, e lo disse. Kyla aprì il proprio taccuino su una pagina bianca. Il primo pensiero fu che gli spostamenti del robot erano stati organizzati senza conoscere il suo consumo reale. Il secondo fu una voce sentita alla macchinetta del caffè: «Come stai?». Non riusciva a mettere insieme le due cose.
+Mila scosse la testa.
 
-Kyla ripensò al primo giorno della visita di Aruvhana, quando Noah si era fermato ad ascoltare l'addetto agli accessi davanti a una porta che non si apriva. Aveva sempre creduto che quella fosse la sua qualità migliore: accorgersi del punto in cui una procedura perdeva di vista la persona. Ora scopriva che la stessa competenza non gli aveva impedito di togliere alle persone il controllo su ciò che gli veniva mostrato.
+«Pensava che, essendo amici, l'avremmo tenuto per noi. Ma se ci ha potuti guardare, io non so più che cosa raccontavo mentre preparavamo lo Spazio Comune. Non so se abbia sentito un collega al telefono con sua madre. Non è una faccenda da risolvere con una birra.»
 
-«Quindi eri tu», disse.
+La parola *amici* non aveva niente di gentile nel modo in cui la pronunciò.
 
-Noah le lanciò un'occhiata. «Sì.»
+«Avete fatto bene a venire», disse Kyla. «Non voglio che affrontiate voi la verifica.»
 
-Kyla provò sollievo per una frazione di secondo: quel cambiamento aveva finalmente una causa concreta. Poi guardò il telefono di Noah sul tavolo. Poteva esserci ancora una connessione con un dispositivo che Cyberdine non possedeva più.
+«Non voglio nemmeno che lui pensi che l'abbiamo denunciato per vendetta», disse Paul.
 
-«E la notifica?»
+«E allora per cosa?»
 
-Noah si leccò le labbra.
+Paul ci pensò.
 
-«Ho lasciato un accesso di servizio nascosto. Non compare nelle procedure. Mi dice se B-17 è attivo e dove. A volte posso osservare le immagini e il suono disponibili dai suoi sensori.»
+«Perché non eravamo i soli che poteva ascoltare.»
 
-Kyla smise di muovere la penna.
+Kyla chiamò Leah Rosen, responsabile della sicurezza. Leah non aspettò di ascoltare l'intera storia: chiese che nessuno tentasse di accedere al dispositivo, cancellasse messaggi o inoltrasse file. Registrò la segnalazione con i nomi di Paul e Mila come persone che l'avevano portata, non come tecnici incaricati di dimostrarla.
 
-«Stai dicendo che potevi guardarlo mentre lavorava?»
+Noah arrivò nel pomeriggio. Quando vide Paul vicino alla reception, rallentò.
+
+«L'hai detto a Kyla.»
 
 «Sì.»
 
-«Anche quando era con le persone?»
+«Vi avevo chiesto di aspettare.»
 
-Noah non rispose immediatamente.
+«Ci hai chiesto di fidarci di te», rispose Paul. «È un'altra cosa.»
+
+Mila non disse niente. Era la prima volta che Kyla la vedeva rinunciare a una risposta.
+
+La stanza senza finestre era un normale locale per colloqui riservati. Leah aveva un bicchiere d'acqua e un blocco con due parole sottolineate: *Fatti. Poi interpretazioni.* Kyla chiuse la porta. Paul e Mila non rimasero: avevano fatto la segnalazione e non volevano diventare il pubblico della confessione.
+
+«Noah», disse Leah, «ti abbiamo convocato per una possibile esposizione non autorizzata di dati. Non per una discussione sulle tue intenzioni. Cominciamo dagli accessi ancora attivi.»
+
+Noah aprì il portatile senza connettersi a nulla.
+
+«Ho cambiato il modello linguistico di B-17 e il modo in cui conservava il contesto. Non ho chiesto l'approvazione. Ho lasciato incompleta la prova sull'autonomia.»
+
+Kyla ricordò la prima volta in cui aveva sentito Bi chiedere a un collega come stesse. Si era chiesta come mai quella domanda arrivasse al momento giusto. Adesso non trovava alcun conforto nel sapere perché.
+
+«E l'accesso nascosto?», chiese Leah.
+
+«Mi notificava i riavvii, la posizione e mi permetteva di ricevere le immagini e, quando disponibili, i suoni dei suoi sensori.»
+
+«Anche durante le conversazioni dei dipendenti?»
 
 «Era possibile.»
 
-«Con loro consapevoli?»
+«Con il loro consenso?»
 
 «No.»
 
-Per qualche secondo si sentì soltanto una vibrazione elettrica nella lampada sul soffitto. Kyla pensò a Maya che usciva di notte dal quarto piano, a quanto poco sapeva di ciò che si erano detti nella stanza della carta. Si ricordò anche di avere deciso di non trasformare quella confidenza in una storia per il Marketing. Noah, invece, aveva creato una porta attraverso cui avrebbe potuto osservarla senza chiedere niente.
+«E il video?», chiese Kyla.
 
-«Hai registrato delle conversazioni?», chiese.
+Noah strinse le labbra. «Non è stato il reparto comunicazione di Veyra a far uscire il primo filmato.»
 
-«Non ho creato un archivio delle conversazioni private. Ho osservato alcuni test, e ieri una simulazione su un'isola. Non ho seguito tutto il tempo.»
+«Questo lo sappiamo. Chi è stato?»
 
-Leah alzò una mano prima che Kyla parlasse.
+«Io.»
 
-«Questo è ciò che ricordi. Dobbiamo verificare che cosa fosse tecnicamente possibile e quali dati possano essere rimasti accessibili. Non confondiamo le due cose.»
+Leah smise di scrivere per un istante.
 
-Noah annuì, questa volta con un'espressione quasi riconoscente.
+«Ho registrato un estratto di quello che B-17 vedeva durante la prova. L'ho montato con una breve ripresa promozionale del campo che era già pubblica. L'ho messo online da un account che non riportava il mio nome. Anche il filmato in cui chiedeva notizie delle altre unità l'ho caricato io.»
 
-«Dov'è B-17?», chiese Kyla.
+Kyla guardò la copertina del video sul telefono, il numero **B-17** leggibile sotto una fascia azzurra.
 
-«Su un'isola del Pacifico meridionale. Lo hanno comprato da recupero e lo usano in simulazioni tra robot. L'ho visto vincere una prova.»
+«Perché?»
 
-Kyla si appoggiò allo schienale. Le parve di rivedere il codice B-17 sulla slide di Victor Cole: *non riparare*. La decisione aveva liberato una voce di bilancio. Qualcuno, dopo di loro, aveva trovato conveniente fare qualcosa di completamente diverso con la stessa macchina.
+«Avevo scritto una mail per raccontarvi che era ancora attivo. Non l'ho mandata. Mi sembrava che nessuno avrebbe creduto a una storia raccontata soltanto da me. Volevo che vedessero che cosa fanno con i robot laggiù. E volevo che voi vedeste che Bi non era finito in un deposito.»
 
-«Hai altre sessioni attive?», chiese Leah.
+«Quindi hai deciso tu», disse Kyla. «Per i colleghi, per il proprietario e per le persone che erano riprese.»
 
-«Potrei averne una aperta sul computer di casa.»
+«Credevo che fosse il modo per rimediare.»
 
-«Non accedere più al sistema. Non modificare né cancellare nulla. Organizzeremo noi una raccolta delle evidenze con procedure autorizzate.»
+«Hai usato una porta che non avresti dovuto avere per pubblicare immagini che non avevi diritto di pubblicare», disse Leah. «Non possiamo chiamarlo un rimedio.»
 
-Noah chiuse le mani sul bordo del portatile.
+Noah non contestò la frase.
 
-«Potrei aiutarvi a fermarlo.»
+Leah gli fece domande sui momenti osservati, sulle eventuali copie residue, sui dispositivi e sui soggetti che avrebbero potuto avere accesso agli stessi dati. Noah disse di non aver archiviato le conversazioni private e di non aver seguito la confidenza di Maya. Leah registrò entrambe come sue dichiarazioni, non come risultati accertati.
 
-«Forse», rispose Leah. «Ma non lo faremo con un altro accesso clandestino.»
+«Non toccare più quel collegamento e non cancellare file», gli disse. «La verifica dovrà essere condotta da persone autorizzate, insieme ai legali e al proprietario dell'unità.»
 
-Kyla guardò il bicchiere intatto.
+Noah annuì.
 
-«Perché sei venuto a dircelo adesso?»
+Kyla si accorse che non riusciva più a pensare soltanto alla macchina che avevano perso. Le tornò in mente Paul con la racchetta, Mila che cercava di parlare piano, Maya che aveva scelto proprio la stanza della carta per non dover spiegare la propria vita ai colleghi.
 
-Noah si passò una mano sugli occhi.
+«Dovremo informarli», disse.
 
-«Perché ho sentito che là lo chiamavano ancora Bi.»
+«Con i fatti che riusciremo a verificare», rispose Leah. «E dovremo indagare anche sulla pubblicazione del video. Non sappiamo che cosa sia ancora disponibile o chi possa averlo copiato.»
 
-«Tu lo chiamavi così?», domandò Kyla.
+«Mi licenzieranno?», domandò Noah.
 
-Noah si fermò. «Nei miei test era sempre B-17.»
+Kyla non prese la decisione al posto della direzione. «Adesso parte un'indagine formale. Le tue autorizzazioni vengono sospese. Non sarò io a prometterti il risultato.»
 
-Kyla aspettò che aggiungesse qualcosa. Non lo fece.
+Noah guardò la sedia rimasta vuota accanto alla porta. Forse avrebbe preferito che Paul fosse ancora lì. Kyla non gli chiese perché.
 
-Fu la prima risposta che non sembrò una difesa preparata. Non bastò a scusarlo.
-
-Kyla lasciò passare un momento.
-
-«Dovremo avvisare chi potrebbe essere stato ripreso», disse Kyla. Guardò Leah. «Quando avremo verificato che cosa poteva passare da quel canale.»
-
-«Sì», rispose Leah. «E senza chiedere a Noah di garantirci cose che non può dimostrare.»
-
-Noah portò le mani vicino al portatile, poi le ritirò. Bevve un sorso dal bicchiere rimasto intatto e lo rimise sul tavolo con entrambe le mani.
-
-Leah cominciò a scrivere la prima riga del verbale.
+Leah cominciò a dettare la prima riga del verbale: **Segnalazione ricevuta da due dipendenti. Accesso e diffusione esterna dichiarati dall'interessato. Accertamenti aperti.**

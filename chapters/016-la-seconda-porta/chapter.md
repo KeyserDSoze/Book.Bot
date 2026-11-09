@@ -14,7 +14,7 @@ pov:
 
 1. La casella sbagliata — Mei Lin ricostruisce il confine documentale violato e si accorge di un progetto comportamentale alimentato da dati di B-17.
 2. Due incidenti diversi — Leah impone di non confondere la backdoor di Noah con la fuga degli allegati, mentre la verifica della modifica solleva un rischio separato.
-3. La versione pulita — Noah apprende che Lanter sta sperimentando una funzione ricostruita anche da comportamenti osservati su B-17; non dispone però di prove per escludere o certificare una copia di codice, né può attribuirsi da solo il nuovo prodotto.
+3. La versione pulita — Noah apprende che Lanter sta sperimentando una funzione ricostruita anche da comportamenti osservati su B-17; non dispone di prove per escludere o certificare una copia di codice. In un successivo incontro disciplinare, dopo le verifiche e le proprie controdeduzioni, Cyberdine lo **licenzia** per modifica clandestina, accessi non autorizzati e pubblicazione abusiva dei video. Gli accertamenti su dati e responsabilità esterne restano distinti.
 
 # Guardrail
 

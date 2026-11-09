@@ -31,7 +31,7 @@ Paul verifica il preventivo per B-17 e conferma che ripristinare spalla, sensori
 
 ## Capitoli 12–14
 
-Paul contribuisce a confermare per vie lecite l'identificativo dell'unità B-17 nel Circuito Veyra. Con Maya avvia «Ricompriamo Bi» e costruisce un prospetto onesto di trasporto, ricertificazione, manutenzione e limiti dell'eventuale ritorno. Non disprezza B-21 e non intende usare l'accesso illegittimo di Noah. Dopo il rifiuto della vendita chiude correttamente gli impegni e partecipa all'inoltro di una lettera privata.
+Paul, con Mila, è il primo collega a cui Noah confida la modifica, la sorveglianza e l'origine dei due video virali. Lo considerava un amico: sentirsi potenzialmente osservato mentre giocava, scherzava e lavorava lo porta a segnalarlo a Kyla e Leah, malgrado la richiesta di Noah di aspettare. È una tutela dei colleghi, non una ritorsione. Dopo la segnalazione Paul contribuisce a confermare per vie lecite l'identificativo dell'unità B-17 nel Circuito Veyra. Con Maya avvia «Ricompriamo Bi» e costruisce un prospetto onesto di trasporto, ricertificazione, manutenzione e limiti dell'eventuale ritorno. Non disprezza B-21 e non intende usare l'accesso illegittimo di Noah. Dopo il rifiuto della vendita chiude correttamente gli impegni e partecipa all'inoltro di una lettera privata.
 
 
 ## Continuità editoriale

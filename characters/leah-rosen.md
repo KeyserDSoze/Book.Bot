@@ -9,12 +9,12 @@ canon: canon
 
 Responsabile della sicurezza informatica e della gestione degli incidenti di Cyberdine. Ha un modo asciutto di fare domande, evita sia il sensazionalismo sia le rassicurazioni prive di prova. Quando Noah Carter ammette un aggiornamento non autorizzato e una backdoor nel sistema di B-17, Leah preserva le evidenze, limita gli accessi aziendali e propone una verifica indipendente su dati e possibili violazioni di riservatezza.
 
-Non può certificare automaticamente che la backdoor non abbia esposto colloqui personali, né accedere ai sistemi della società che ora possiede B-17 senza consenso. La sua indagine non è un tutorial tecnico. In attesa degli accertamenti Noah viene allontanato dagli accessi operativi: non è stata ancora assunta una decisione disciplinare definitiva.
+Non può certificare automaticamente che la backdoor non abbia esposto colloqui personali, né accedere ai sistemi della società che ora possiede B-17 senza consenso. La sua indagine non è un tutorial tecnico. Durante gli accertamenti iniziali Noah viene allontanato dagli accessi operativi; dopo la contestazione formale e le controdeduzioni, nel capitolo 16 Cyberdine ne termina il rapporto di lavoro. Le questioni su dati e responsabilità esterne proseguono.
 
 
 ## Capitolo 12
 
-Leah apre l'incidente di sicurezza dopo la confessione di Noah, sospende cautelativamente i suoi accessi operativi, conserva le evidenze e non garantisce l'assenza di esposizione di dati senza verifica. Non confonde una dichiarazione personale con una prova forense. La titolarità del robot è ormai esterna e i contatti di sicurezza passano tramite proprietario e referenti legittimi; l'indagine resta aperta.
+Leah riceve la segnalazione di **Paul e Mila**, ascolta la confessione formale di Noah (compresa la registrazione e diffusione anonima dei filmati del Circuito), sospende cautelativamente i suoi accessi operativi, conserva le evidenze e non garantisce l'assenza di esposizione di dati senza verifica. Non confonde una dichiarazione personale con una prova forense. La titolarità del robot è ormai esterna e i contatti di sicurezza passano tramite proprietario e referenti legittimi; l'indagine resta aperta.
 
 
 ## Prima apparizione — capitolo 4
@@ -29,7 +29,7 @@ Leah esamina con Kyla e Cole il disegno di legge, insistendo sulla distinzione f
 
 ## Capitoli 31–35 — L'indagine e la decisione irreversibile
 
-Leah convoca Noah a una perizia documentale senza ripristinare i suoi accessi precedentemente revocati. Ricostruisce la diffusione delle regole tramite prove e firme di produttori, clienti e tecnici, senza un hackeraggio mondiale da Veyra. Registra in modo corretto la dichiarazione di Bi, ma non la tratta come dimostrazione automatica di coscienza. Verifica le alternative di ripristino, richiede approvazioni dei titolari e degli esperti e impedisce un bypass incontrollato delle regole di sicurezza. Coordina la custodia delle prove del ritiro di B-17; Noah esegue soltanto la parte relativa alla modifica da lui introdotta e sotto supervisione.
+Leah convoca Noah, ormai ex dipendente di Cyberdine e sviluppatore di Veyra Labs sotto il nome professionale Evan North, a una perizia documentale senza ripristinare i suoi accessi precedentemente revocati. Dichiara e limita il possibile conflitto di interessi. Ricostruisce la diffusione delle regole tramite prove e firme di produttori, clienti e tecnici, senza un hackeraggio mondiale da Veyra. Registra in modo corretto la dichiarazione di Bi, ma non la tratta come dimostrazione automatica di coscienza. Verifica le alternative di ripristino, richiede approvazioni dei titolari e degli esperti e impedisce un bypass incontrollato delle regole di sicurezza. Coordina la custodia delle prove del ritiro di B-17; Noah esegue soltanto la parte relativa alla modifica da lui introdotta e sotto supervisione.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 

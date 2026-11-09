@@ -8,6 +8,7 @@ pov:
   - character:mei-lin
   - character:grace-walker
   - character:sophie-grant
+  - character:noah-carter
 ---
 
 # Scene
@@ -16,10 +17,11 @@ pov:
 2. Il turno di Grace — in una struttura assistenziale la capacità aggiuntiva porta un beneficio concreto a una persona e una scelta organizzativa non neutra.
 3. La baia numero quattro — in un hub logistico persone e robot lavorano meglio, ma alcune incongruenze preannunciano una fragilità di coordinamento.
 4. Mille non sono uno — Mei scopre che il prodotto si è diffuso per decisioni commerciali indipendenti; i robot non sono copie di Bi e non possiedono la sua memoria.
+5. Un altro nome — dopo il licenziamento Noah viene assunto dalla nuova **Veyra Labs**, collegata al proprietario di B-17; nei crediti di lavoro usa l'alias professionale **Evan North**, mentre l'azienda conosce l'identità autentica e le violazioni precedenti. Studia capacità avanzate per altre unità e il possibile miglioramento di B-17 sotto autorizzazioni e supervisione.
 
 # Guardrail
 
-Niente diffusione virale automatica del codice, replica di coscienza o accessi magici. Il produttore ha progettato una nuova funzione prendendo anche spunto da casi di B-17, con provenienza contestata e validazione incompleta. Gli effetti sociali derivano da contratti, piloti e scelte locali. Le funzioni ad alto rischio restano sotto controllori separati.
+Niente diffusione virale automatica del codice, replica di coscienza o accessi magici. Il produttore ha progettato una nuova funzione prendendo anche spunto da casi di B-17, con provenienza contestata e validazione incompleta. Gli effetti sociali derivano da contratti, piloti e scelte locali. Le funzioni ad alto rischio restano sotto controllori separati. **Veyra Labs è distinta da Lanter Robotics**: sviluppa prototipi conversazionali per il Circuito, non è produttrice del modulo Collaborazione Contestuale né proprietaria delle memorie di B-17. Il nuovo impiego non cancella la colpa di Noah.
 
 
 ## Quarta review: le persone che il report non nomina

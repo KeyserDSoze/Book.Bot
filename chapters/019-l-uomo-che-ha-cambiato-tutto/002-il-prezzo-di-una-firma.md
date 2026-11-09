@@ -20,7 +20,7 @@ La proposta arrivò con un documento da firmare e una frase molto gentile.
 
 *Abbiamo seguito il suo lavoro con interesse. Ci piacerebbe aiutarla a trasformare la sua visione in un progetto industriale.*
 
-Noah lesse il messaggio tre volte. La società che lo aveva contattato non produceva robot. Investiva in software e comprava piccole aziende. Nel file allegato si parlava di un accordo per finanziare una nuova impresa dedicata alle capacità sociali dei sistemi automatici. La cifra iniziale era superiore a ciò che Noah avrebbe guadagnato lavorando molti anni a Cyberdine.
+Noah lesse il messaggio tre volte. Era ormai assunto da Veyra Labs, dove sui pannelli dei prototipi compariva il nome **Evan North**. La sua identità vera era nota all'azienda, che aveva accettato di impiegarlo sotto condizioni severe dopo il licenziamento da Cyberdine. La società che lo aveva contattato non produceva robot. Investiva in software e comprava piccole aziende. Nel file allegato si parlava di un accordo per finanziare una nuova impresa dedicata alle capacità sociali dei sistemi automatici. La cifra iniziale era superiore a ciò che Noah avrebbe guadagnato lavorando molti anni a Cyberdine.
 
 C'era però una condizione: doveva dichiarare di essere titolare delle idee e dei diritti necessari a svilupparle. Il termine per accettare la proposta era venerdì. Nel modulo la dichiarazione occupava meno spazio della cifra dell'investimento. Noah aprì la calcolatrice e divise la somma per i mesi necessari a mettere in piedi un laboratorio. Aggiunse due stipendi, un affitto e il costo delle prove. Perfino usando cifre prudenti, avanzava abbastanza denaro per assumere qualcuno che sapesse fare le verifiche che lui aveva saltato.
 
@@ -44,7 +44,7 @@ Noah chiuse entrambe le conversazioni. Aprì invece quella con Jonas: *Domenica 
 
 Noah digitò una battuta, poi la cancellò. Non voleva che le sue giornate diventassero soltanto la notizia sul robot. Scrisse: *Portali davvero.*
 
-Riaprì il foglio dell'investitore. Una riga elencava gli sviluppi che avrebbe dovuto poter concedere in licenza. Non riconobbe alcune delle funzioni descritte: appartenevano al prodotto di Lanter, che non aveva mai visto da dentro. Cercò il nome del referente per chiedere una versione diversa della dichiarazione. Gli venne voglia di scrivere che senza il suo esperimento non ci sarebbe stata neppure quella proposta. Cancellò la frase prima di inviarla.
+Riaprì il foglio dell'investitore. Accettare avrebbe significato anche lasciare Veyra Labs o mettere in conflitto il proprio contratto con quello della nuova impresa. Una riga elencava gli sviluppi che avrebbe dovuto poter concedere in licenza. Non riconobbe alcune delle funzioni descritte: appartenevano al prodotto di Lanter, che non aveva mai visto da dentro. Cercò il nome del referente per chiedere una versione diversa della dichiarazione. Gli venne voglia di scrivere che senza il suo esperimento non ci sarebbe stata neppure quella proposta. Cancellò la frase prima di inviarla.
 
 Il telefono tornò a squillare. Questa volta rispose.
 
@@ -62,7 +62,7 @@ Olivia accettò. Gli chiese soltanto se poteva confermare un fatto essenziale: e
 
 Noah guardò la lampada.
 
-«Ho già ammesso alle persone responsabili dell'indagine ciò che ho fatto. Non voglio discutere i dettagli prima che gli accertamenti siano conclusi.»
+«Ho già ammesso alle persone responsabili dell'indagine ciò che ho fatto. Cyberdine ha chiuso il mio rapporto di lavoro. Non voglio discutere i dettagli tecnici ancora oggetto di accertamenti.»
 
 «Capisco. Un'altra domanda: secondo lei il modulo commerciale è il suo software?»
 
@@ -76,7 +76,7 @@ Olivia non si affrettò a riempire il silenzio.
 
 «Vuole aggiungere qualcosa che possiamo riportare?»
 
-Noah pensò all'investitore, alla dichiarazione di proprietà che gli chiedevano di firmare, alla differenza fra avere fatto un esperimento e poter rivendicare tutto ciò che era accaduto dopo.
+Noah pensò all'investitore, alla dichiarazione di proprietà che gli chiedevano di firmare, alla differenza fra avere fatto un esperimento e poter rivendicare tutto ciò che era accaduto dopo. Nemmeno il nome Evan North, nei documenti pubblici del laboratorio, lo rendeva proprietario di un altro progetto.
 
 «Ho visto dei risultati che mi piacevano», disse Noah. «Troppo. Ho saltato verifiche che avrebbero dovuto farmi cambiare idea su alcune cose.»
 

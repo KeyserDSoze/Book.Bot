@@ -43,7 +43,7 @@ Leah aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti 
 
 «Qualcuno ha notato un comportamento diverso», la corresse Leah. «Non significa che conoscesse la causa. Dobbiamo capire come una domanda pertinente sia rimasta senza destinatario.»
 
-Sul tavolo c'erano due elenchi. Nel primo Leah aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti.
+Sul tavolo c'erano due elenchi. Nel primo Leah aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità; registrazione di due clip e loro pubblicazione anonima senza consenso del nuovo proprietario. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti, copie e provenienza tecnica dei video circolati in rete. La confessione non sostituiva gli accertamenti.
 
 Sul telefono interno un analista chiedeva a Leah se dovesse continuare a cercare tracce sugli accessi alla vecchia unità oppure tornare all'incidente ordinario del cliente che attendeva da ore. Le due attività richiedevano la stessa persona. Leah rispose di conservare prima i dati con scadenza di rotazione e di passare poi il caso cliente a un secondo collega.
 
@@ -66,6 +66,10 @@ Noah annuì.
 «È proprio per questo che non faremo improvvisazioni.»
 
 Leah guardò Kyla. Aveva ascoltato senza interrompere e prendeva appunti con una cura che Leah interpretò come il tentativo di non perdere il controllo del volto.
+
+«Paul e Mila ci hanno segnalato il caso», disse Kyla. «Sono arrabbiati con Noah. Non perché ha dato a Bi capacità migliori, ma perché ora non sanno se abbia ascoltato anche loro.»
+
+«Registriamo i loro nomi come segnalanti e possibili interessati, non come persone obbligate a ricostruire il suo software», rispose Leah. «E dovremo distinguere la violazione interna dalla pubblicazione delle immagini di Veyra.»
 
 «Ci sono persone che dobbiamo avvisare?», chiese Kyla.
 
@@ -95,7 +99,7 @@ Noah strinse le labbra. Poi chiese se sarebbe stato licenziato.
 
 Leah non rispose al posto di HR.
 
-«Ci saranno accertamenti e decisioni distinte. Adesso il mio lavoro è fermare un rischio e conservare le prove.»
+«Ci saranno accertamenti e decisioni distinte. Il video caricato online non torna privato perché Noah si è pentito. Adesso il mio lavoro è fermare un rischio, conservare le prove e informare correttamente le persone.»
 
 Dopo che Noah fu accompagnato fuori, Leah rimase con Kyla nella stanza.
 

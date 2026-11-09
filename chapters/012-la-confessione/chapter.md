@@ -12,14 +12,14 @@ pov:
 
 # Scene
 
-1. La stanza senza finestre — Noah rivela l'aggiornamento e la backdoor a Kyla e Leah.
+1. La stanza senza finestre — Noah confida l'aggiornamento, l'accesso clandestino e la pubblicazione anonima dei video a Paul e Mila, che considerava amici. Sentendosi violati, loro informano Kyla e Leah. Convocato dalla sicurezza, Noah ammette di aver registrato il flusso sensoriale e diffuso due clip per mostrare che B-17 è ancora attivo e cosa viene fatto fare ai robot a Veyra.
 2. Quello che non puoi garantire — l'incidente di sicurezza viene trattato senza prove inventate o assoluzioni facili.
 3. La porta aperta — Maya scopre ciò che poteva essere stato visto e affronta Noah.
 4. Una strada legittima — Cyberdine avvia contatti ufficiali e i colleghi scoprono che B-17 è operativo a Veyra.
 
 # Guardrail
 
-La confessione non diventa una celebrazione di Noah né una descrizione tecnica replicabile della backdoor. Kyla e Leah non sanno accertare istantaneamente se dati personali siano stati osservati o registrati. Il robot ora appartiene ad altri: qualsiasi contatto passa per canali autorizzati. Maya non concede perdono automatico, né cambia idea sul fatto che le sia mancato Bi.
+La confessione non diventa una celebrazione di Noah né una descrizione tecnica replicabile della backdoor. La segnalazione di Paul e Mila non è vendetta né un tradimento ingiustificato: non avevano acconsentito a essere potenzialmente spiati, e non dovevano diventare responsabili dell'indagine per amicizia. La diffusione pubblica delle immagini è una violazione ulteriore, separata dalle modifiche tecniche e dalle possibili registrazioni di conversazioni private. Kyla e Leah non sanno accertare istantaneamente se dati personali siano stati osservati o registrati. Il robot ora appartiene ad altri: qualsiasi contatto passa per canali autorizzati. Maya non concede perdono automatico, né cambia idea sul fatto che le sia mancato Bi.
 
 ## Precisione temporale e consenso — v0.17.0
 

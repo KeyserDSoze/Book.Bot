@@ -9,7 +9,7 @@ canon: canon
 
 Direttrice commerciale e comproprietaria dell'impresa che gestisce il circuito di prove robotiche sull'isola immaginaria di Veyra. Ragiona in termini di rinnovi contrattuali, sponsor, sicurezza e licenze: non è una cattiva caricaturale, né possiede informazioni sull'aggiornamento clandestino di B-17. L'impresa ha acquistato B-17 attraverso la filiera di recupero dopo che Cyberdine ha rifiutato la riparazione civile. I componenti sono stati resi idonei solo al campo di prova, con requisiti diversi da quelli dei luoghi pubblici.
 
-Capitoli 11–14: la vittoria imprevista rende B-17 molto attraente per sponsor e altri circuiti. Amara distingue il prezzo materiale del robot dal valore dei contratti che può generare. Quando i colleghi di Cyberdine propongono di ricomprarlo, non è disposta a privarsi dell'unità; non si tratta di una vendita liberamente promessa o di un'asta ufficiale. La sua posizione economica è difendibile; la destinazione futura di B-17 non è ancora definita.
+Capitoli 11–14: la vittoria imprevista rende B-17 molto attraente per sponsor e altri circuiti. I primi due filmati virali sono stati caricati da un account anonimo usando abusivamente immagini del flusso sensoriale di B-17; solo dopo la segnalazione di Cyberdine la proprietà apprende che è stato Noah Carter. Veyra pubblica autonomamente materiali autorizzati, senza sanare la fuga precedente. Amara distingue il prezzo materiale del robot dal valore dei contratti che può generare. Quando i colleghi di Cyberdine propongono di ricomprarlo, non è disposta a privarsi dell'unità; non si tratta di una vendita liberamente promessa o di un'asta ufficiale. La sua posizione economica è difendibile; la destinazione futura di B-17 non è ancora definita.
 
 
 ## Capitoli 11 e 14
@@ -21,6 +21,10 @@ Amara riceve offerte economiche condizionate a sette cifre, costruite su sponsor
 
 Nel capitolo 11 Amara scopre che una proposta commerciale vorrebbe ottenere anche l'esclusiva sui soprannomi associati all'unità. Non sa chi abbia dato a B-17 il nome «Bi» e fa rimuovere quella clausola: non può garantire contrattualmente un diritto che nessuno ha chiarito. Il gesto non la porta a rinunciare agli accordi economici con i partner, ma prepara il contrasto del capitolo 14 fra proprietà della macchina e possibilità di scambiare messaggi personali.
 
+
+## Veyra Labs, dal capitolo 17
+
+Amara promuove **Veyra Labs**, società di ricerca distinta da Lanter Robotics, per sviluppare modelli conversazionali più avanzati e studiare possibili evoluzioni certificate di B-17. Decide di assumere Noah Carter **dopo** il licenziamento di Cyberdine, non ignorando la sua violazione: l'azienda verifica l'identità reale e i rischi, ma accetta il nome professionale **Evan North** nelle comunicazioni esterne. Amara non deve poter aggirare il perimetro di Nina per ottenere rapidamente un altro Bi. Nessun prototipo porta con sé le memorie originarie.
 
 ## Capitoli 31–35
 

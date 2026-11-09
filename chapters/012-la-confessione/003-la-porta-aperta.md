@@ -25,7 +25,7 @@ Kyla le aveva chiesto di raggiungerla in una saletta riservata. Con lei c'era Le
 
 Kyla annuì.
 
-Le raccontarono che uno sviluppatore aveva modificato B-17 senza autorizzazione e nascosto un accesso attraverso cui era possibile ricevere posizione e immagini, in certe condizioni anche audio. Non avevano ancora prove complete su quali momenti fossero stati osservati. Stavano verificando. Avrebbero comunicato le informazioni accertate senza chiedere a nessuno di esporre la propria vita privata.
+Le raccontarono che uno sviluppatore aveva modificato B-17 senza autorizzazione e nascosto un accesso attraverso cui era possibile ricevere posizione e immagini, in certe condizioni anche audio. Era stato lui a registrare e pubblicare anonimamente i filmati virali dell'esercitazione, servendosi di quell'accesso. Non avevano ancora prove complete su quali momenti fossero stati osservati. Stavano verificando. Avrebbero comunicato le informazioni accertate senza chiedere a nessuno di esporre la propria vita privata.
 
 Maya guardò il bordo del tavolo.
 
@@ -69,7 +69,7 @@ Noah abbassò lo sguardo.
 
 Maya lo guardò cercando una ragione per credergli. Il problema non era che sul suo volto ci fosse la menzogna. Il problema era che non c'era nulla da cui potesse capire la verità.
 
-«Io gli ho parlato perché con nessun altro riuscivo a parlare», disse. «E tu avevi lasciato una porta aperta. Non per me. Per te.»
+«Io gli ho parlato perché con nessun altro riuscivo a parlare», disse. «E tu avevi lasciato una porta aperta. Non per me. Per te. Hai pubblicato una cosa che non ti apparteneva. Come faccio a sapere che non hai fatto lo stesso con quello che ti ho detto?»
 
 Noah si sedette soltanto quando Kyla gli indicò una sedia.
 
@@ -77,7 +77,7 @@ Noah si sedette soltanto quando Kyla gli indicò una sedia.
 
 «Per cosa era?»
 
-«Per vedere se le modifiche funzionavano nel tempo.»
+«Per vedere se le modifiche funzionavano nel tempo. E quando ho trovato Bi a Veyra ho voluto far sapere a tutti che era ancora attivo.»
 
 «Tu gli hai mai parlato?»
 
@@ -121,7 +121,7 @@ Maya chiuse il pugno intorno alla chiave.
 
 Avrebbe potuto rimproverarlo ancora. Avrebbe potuto chiedergli di mostrare tutte le immagini. Invece si accorse di non volerne vedere nessuna attraverso quella porta clandestina.
 
-«Non usarla più», disse.
+«Non usarla più», disse. «E non pubblicare nient'altro per dimostrare di avere ragione.»
 
 «Me lo hanno già ordinato.»
 
