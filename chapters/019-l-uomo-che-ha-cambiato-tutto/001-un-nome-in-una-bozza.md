@@ -28,7 +28,11 @@ In fondo alla mail c'era una frase più difficile della prima domanda.
 
 *In una scheda proveniente da un ambiente di servizio del produttore compare il riferimento a uno sviluppatore di Cyberdine, N. Carter, associato a una configurazione conversazionale non standard. Il documento è autentico?*
 
-Kyla posò il telefono sul tavolo. Riaprì l'allegato: non era la scheda intera, soltanto un ritaglio senza intestazione, con tre righe di diagnostica. La sigla *N. Carter* era leggibile; il numero della pratica, invece, risultava tagliato. Kyla ingrandì l'immagine fino a vedere i quadratini dei caratteri. Il nome non cambiò.
+Kyla posò il telefono sul tavolo. Lo stesso sito che aveva pubblicato un commento sulla vicenda dedicava da settimane spazio a **Lavoro Prima**, la rete anti-robot guidata dall'ex sviluppatore Ethan Blake. Dopo il licenziamento, Ethan aveva portato conferenze e raccolte di firme fuori da Cyberdine e chiedeva vincoli nazionali su alcuni lavori robotici. Nelle interviste ripeteva che le macchine avevano reso superflui mestieri qualificati; i giornalisti gli chiedevano anche dell'aggressione documentata a B-17. Lui non negava il fatto, ma insisteva che la sua proposta politica dovesse essere giudicata separatamente.
+
+Kyla aveva letto testimonianze fondate di persone rimaste senza contratto nello stesso spazio in cui alcuni commentatori celebravano la violenza contro il robot. Non erano la stessa cosa. Non voleva che quella confusione cancellasse le prime.
+
+Riaprì l'allegato: non era la scheda intera, soltanto un ritaglio senza intestazione, con tre righe di diagnostica. La sigla *N. Carter* era leggibile; il numero della pratica, invece, risultava tagliato. Kyla ingrandì l'immagine fino a vedere i quadratini dei caratteri. Il nome non cambiò.
 
 In quel momento qualcuno bussò per chiedere una firma sulla presentazione. Kyla richiuse l'allegato prima di rispondere.
 
