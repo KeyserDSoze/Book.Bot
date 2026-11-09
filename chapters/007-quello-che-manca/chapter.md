@@ -19,10 +19,10 @@ I colleghi che lo avevano sostenuto ne sentono la mancanza; quelli che lo avevan
 
 # Beat
 
-1. La macchinetta — Paul osserva routine spezzate, compiti arretrati, il ping pong fermo. Attrezzature ancora presenti, ma domande che non arrivano.
+1. La macchinetta — Paul osserva routine spezzate e compiti arretrati; gioca qualche scambio con colleghi che erano migliorati proprio per sfidare Bi, ma non ritrova la motivazione di prima. Le racchette rimangono, l'avversario a cui volevano arrivare no.
 2. Il lavoro che rimane — Claire coordina un'eccezione vera senza il dossier atteso; l'organizzazione mantiene gli avalli umani, ma scopre un punto debole. Lei contribuisce con competenza e non ottiene automaticamente il posto perduto.
 3. Una domanda nel gruppo — Ethan, temporaneamente fuori dal campus, vede il bisogno dei colleghi e fa un gesto piccolo e concreto, senza essere perdonato né redento in una pagina.
-4. La stanza di sera — Maya cerca un ascolto che per un periodo aveva trovato in Bi; riceve notizia di assistenza ancora in corso, vede che manca anche ai più scettici e lascia aperta una domanda senza risposta.
+4. La stanza di sera — Maya cerca un ascolto che per un periodo aveva trovato in Bi; la tabella dei risultati senza nuovi tentativi rende concreta un'assenza condivisa. Riceve notizia di assistenza ancora in corso e offre ascolto a Claire.
 
 # Continuità
 
