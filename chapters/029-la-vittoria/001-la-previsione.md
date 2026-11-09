@@ -30,7 +30,7 @@ Non disse nulla fino a quando lei si fu sistemata sulla sedia.
 
 «Ciao.»
 
-Aveva portato con sé due fogli stampati. Il primo conteneva la proposta di legge sulla tutela del lavoro umano in determinate mansioni. Il secondo era un prospetto dei costi del centro assistenziale di Grace: ore di compagnia, personale presente, turni scoperti.
+Aveva portato con sé due fogli stampati. Il primo conteneva la proposta italiana di legge sulla tutela del lavoro umano in determinate mansioni, ormai nota come **Bot Act II**. Il nome era diventato popolare attraverso la campagna di Ethan Blake, uno dei promotori parlamentari. Il Bot Act originario dell'Unione europea rimaneva un atto distinto sull'identificazione delle unità. Il secondo era un prospetto dei costi del centro assistenziale di Grace: ore di compagnia, personale presente, turni scoperti.
 
 «Voglio chiederti una cosa senza litigare», disse.
 
