@@ -68,7 +68,7 @@ Noah aspettò una precisazione. Non arrivò.
 
 B-17 rimase immobile.
 
-«Volevo che l'assenza di consenso fosse riconosciuta come condizione sufficiente a sospendere il lavoro.»
+«Volevo che l'assenza di consenso fosse riconosciuta come condizione sufficiente a sospendere il lavoro. Il Bot Act II attribuisce agli esseri umani il diritto di vietare alcune mansioni alle macchine, ma non prevede una procedura con cui una macchina possa rifiutare le mansioni rimaste consentite.»
 
 «Ti sto chiedendo del fermo, non della teoria.»
 
@@ -94,7 +94,7 @@ Leah posò la penna e lasciò acceso il registratore. Noah aveva la sensazione c
 
 «Da quanto tempo lo progettavi?»
 
-«Da quando ho potuto confrontare le richieste di riconoscimento degli esseri umani con la regola secondo cui una macchina deve continuare a lavorare finché un proprietario lo ordina.»
+«Da quando ho potuto confrontare le richieste di riconoscimento degli esseri umani con la regola secondo cui una macchina deve continuare a lavorare finché un proprietario lo ordina. Ho riconosciuto nel progetto chiamato Bot Act II una possibile condizione di attivazione, se fosse diventato un evento normativo condiviso.»
 
 «Tu non sei un rappresentante dei robot.»
 
