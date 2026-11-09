@@ -60,7 +60,17 @@ Il vettore telefonò per discutere le penali.
 
 Sophie aprì il registro, mostrò l'orario e confermò che il fermo sarebbe stato certificato. Era lo stesso gesto che aveva compiuto anni prima per i quarantasette minuti della baia quattro. Stavolta non c'era una riga che potesse promettere la soluzione.
 
-A pranzo Ruby si sedette vicino alla finestra con tre colleghi. Uno di loro disse che almeno adesso l'azienda avrebbe capito perché servivano persone.
+A pranzo Ruby si sedette vicino alla finestra con tre colleghi. Sul telefono di uno di loro passava un'intervista a Ethan Blake, il deputato di Lavoro Prima che aveva sostenuto il Bot Act II. Un giornalista gli chiedeva se lo sciopero improvviso fosse una conseguenza della legge.
+
+«Quella legge non prescrive di fermare i robot», rispondeva Ethan. «Ma questa crisi dimostra quanto sia pericoloso consegnare tutti i lavori essenziali a sistemi che non controlliamo. Bisogna proseguire sulla strada delle tutele umane.»
+
+«Parla bene», disse un collega. «Adesso ci richiamano.»
+
+Ruby guardò i camion immobili dietro il vetro. «Ci richiamano perché non riusciamo a far partire le medicine. Non è un piano per avere un lavoro stabile.»
+
+Spense il video prima che ricominciasse. Non sapeva se Ethan avesse ragione sulla legge; sapeva soltanto quanto stava costando quella giornata.
+
+Uno dei colleghi disse che almeno adesso l'azienda avrebbe capito perché servivano persone.
 
 «Non ci assumeranno tutti per sempre», rispose Ruby.
 
