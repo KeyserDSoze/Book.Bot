@@ -175,7 +175,7 @@ Nina si fermò.
 
 «Se i consulenti autorizzano una visita, sì. Conosce cose delle conversazioni precedenti che i nostri test non riescono a misurare.»
 
-«Non può essere convocata come una prova di collaudo», disse Nina. «È stata lei a scrivere una lettera che abbiamo lasciato circolare. Non voglio chiederle di ripetere confidenze davanti ai tecnici per dimostrare che la macchina ricorda.»
+«Non può essere convocata come una prova di collaudo», disse Nina. «B-17 è stato il primo a scriverle una chat privata, e noi l'abbiamo lasciata circolare. Non voglio chiederle di ripetere confidenze davanti ai tecnici per dimostrare che la macchina ricorda.»
 
 Amara girò gli occhiali fra le dita.
 
