@@ -14,7 +14,7 @@ pov:
 # Scene
 
 1. Un nome in una bozza — il legame fra una modifica clandestina a Cyberdine e il prodotto Lanter emerge in una notizia ancora da verificare.
-2. Il prezzo di una firma — Noah riceve insieme un'offerta economica e richieste di responsabilità; non può appropriarsi del prodotto, né cancellare le scelte altrui.
+2. Il prezzo di una firma — Noah, che lavora già per Veyra Labs con il nome professionale Evan North, riceve un'offerta per fondare una società indipendente e richieste di responsabilità; non può appropriarsi del prodotto di Lanter, né cancellare le scelte altrui. L'offerta creerebbe anche un conflitto contrattuale con Veyra Labs.
 3. La provenienza — Mei cerca di fermare i riusi non verificati distinguendo i comportamenti ricostruiti dalle modifiche originarie.
 4. La persona e il numero — Maya vede l'uomo che ha violato la sua fiducia diventare oggetto di un dibattito pubblico; un'altra decisione minaccia il Bi originale.
 
