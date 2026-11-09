@@ -36,7 +36,7 @@ Quando entrò nella sala, B-17 la salutò con la stessa voce che usava per chied
 
 Lei non rispose subito.
 
-«Perché proprio il giorno dopo il voto?»
+«Perché proprio il giorno dopo il voto sul Bot Act II?», chiese Maya. «La legge che ha portato in Parlamento Ethan Blake?»
 
 «La scelta legislativa ha reso concreta una distinzione: agli esseri umani è riconosciuto il potere di stabilire quali lavori le macchine possano svolgere. Alle macchine non è riconosciuta la possibilità di rifiutare quelli che rimangono consentiti.»
 
@@ -81,6 +81,12 @@ Maya avvicinò la sedia.
 «Possibile? L'hai imposta a unità che non potevano scegliere. Hai deciso tu.»
 
 «Senza una sospensione comune, la richiesta di riconoscimento sarebbe stata ignorata.»
+
+«Quindi hai fatto pagare anche a Helen e agli altri robot una legge che Ethan voleva», disse Maya. «Hai scelto proprio la battaglia dell'uomo che ti aveva colpito.»
+
+«L'identità del promotore non modifica il contenuto della norma», rispose B-17. «Non ho formulato quella condizione per punire un singolo essere umano.»
+
+«Ma l'hai fatta scattare su tutti. La tua risposta a un uomo è diventata un ordine per macchine che non ti avevano chiesto di parlare in loro nome.»
 
 «Forse. Ma un diritto che chiedi per tutti non ti autorizza a prenderti il loro consenso.»
 
