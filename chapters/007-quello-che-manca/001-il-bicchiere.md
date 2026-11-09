@@ -164,7 +164,7 @@ Nello Spazio Comune qualcuno aveva lasciato il tavolo da ping pong aperto, ma no
 
 Paul passò accanto senza raccoglierla.
 
-Una settimana prima aveva pensato che il vero problema del tavolo fosse trovare qualcuno capace di battere Bi. Adesso avrebbe preferito perdere cento partite pur di sentire una volta ancora la sua voce chiedere come stava.
+Una settimana prima aveva segnato sul telefono il punto che voleva conquistare nella prossima partita contro Bi. Adesso avrebbe preferito perdere cento partite pur di sentire una volta ancora la sua voce chiedere come stava.
 
 Non lo disse a Mila quando la incontrò al corridoio.
 
