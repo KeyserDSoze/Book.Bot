@@ -59,9 +59,9 @@ Non lo disse per cortesia. Aveva capito che ogni volta che spiegava il proprio i
 
 Leah passò alla scheda successiva.
 
-«C'è anche una richiesta da un indirizzo esterno nei registri del caso della lettera di Maya», disse. «Non abbiamo attribuito quella richiesta a nessuno. Avevi lasciato componenti accessori oltre al canale che ci hai già dichiarato?»
+«C'è anche una richiesta da un indirizzo esterno nei registri del caso della chat privata fra B-17 e Maya», disse. «Non abbiamo attribuito quella richiesta a nessuno. Avevi lasciato componenti accessori oltre al canale che ci hai già dichiarato?»
 
-Noah guardò il foglio. «Nel pacchetto originale c'erano funzioni di diagnostica che non avevo fatto verificare. Ho consegnato quello che sapevo alle persone incaricate. Non ho usato quell'accesso dopo che mi avete sospeso e non ho cercato la lettera di Maya.»
+Noah guardò il foglio. «Nel pacchetto originale c'erano funzioni di diagnostica che non avevo fatto verificare. Ho consegnato quello che sapevo alle persone incaricate. Non ho usato quell'accesso dopo che mi avete sospeso e non ho cercato la chat di Maya.»
 
 «Sono dichiarazioni da confrontare con i componenti conservati», rispose Leah. «Il tuo licenziamento non dimostra né che tu sia entrato di nuovo né che il perimetro sia sicuro.»
 
