@@ -14,14 +14,14 @@ Capitolo 2: scherza sul bot che prende male il foglio e interviene con suggerime
 **Capitolo 3**: per primo risponde, a modo suo, al «Come stai?» del robot alla macchinetta del caffè. Continua a scherzare ma si accorge che B-17 non trasforma subito le parole in un ticket. Il nome Bi comincia a sembrargli naturale.
 
 
-**Capitolo 4**: recupera il tavolo da ping pong dello Spazio Comune, scherza con Bi, ma perde i primi incontri 11–3 e 11–5; qualche giorno dopo lo batte 11–8 e festeggia come gli altri. Nota la goffaggine emotiva della scena in cui Ethan insulta Bi; non conosce il motivo delle sconfitte.
+**Capitolo 4**: recupera il tavolo da ping pong dello Spazio Comune, scherza con Bi, ma perde i primi incontri 11–3 e 11–5; qualche giorno dopo lo batte 11–8 e festeggia come gli altri. Nota la goffaggine emotiva della scena in cui Ethan insulta Bi; non conosce il motivo delle sconfitte fino al sabato, quando Maya lo rivela con il permesso di Bi. Paul rilancia allora una sfida onesta: migliorare il proprio punteggio, anche perdendo.
 
 **Capitolo 5**: la soppressione della posizione senior di Margaret Ellis gli fa capire che l'automazione non riguarda solo le commissioni o le mansioni ripetitive; continua a ritenere che Bi non abbia deciso le assunzioni e non faccia le firme dei responsabili.
 
 
 ## Capitoli 6–7
 
-Paul cerca di contenere la tensione durante la discussione interna, poi interviene dopo l'aggressione a Bi e collabora con il personale di sicurezza e assistenza. Durante l'assenza deve rifornire manualmente la macchinetta del caffè e rintracciare documenti che Bi portava sempre al momento opportuno. Non è diventato incapace: si è disabituato a una serie di gesti piccoli ma continui. Il tavolo da ping pong resta quasi inutilizzato.
+Paul cerca di contenere la tensione durante la discussione interna, poi interviene dopo l'aggressione a Bi e collabora con il personale di sicurezza e assistenza. Durante l'assenza deve rifornire manualmente la macchinetta del caffè e rintracciare documenti che Bi portava sempre al momento opportuno. Non è diventato incapace: si è disabituato a una serie di gesti piccoli ma continui. Il tavolo da ping pong perde il suo scopo per Paul, malgrado lui e i colleghi siano migliorati sfidando Bi: durante l'assenza giocano ancora qualche scambio, ma senza lo stesso obiettivo concreto.
 
 
 ## Capitoli 8–9
