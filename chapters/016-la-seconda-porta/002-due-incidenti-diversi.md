@@ -26,9 +26,9 @@ Dall'altro lato dello schermo Mei Lin aveva alle spalle una parete di vetro e un
 
 Leah mostrò soltanto la prima pagina del documento trapelato, oscurando la frase personale di Maya.
 
-«Confermate che questo estratto apparteneva a una pratica diversa dalla nostra?»
+«Confermate che questo estratto apparteneva a una pratica diversa dalla nostra? E che avete conservato l'evento associato all'IP esterno sconosciuto?»
 
-«Sì. La descrizione indicizzata non avrebbe dovuto contenere una porzione dell'allegato», rispose Mei. «L'allegato intero non è stato aperto dal sistema di Cyberdine secondo i registri disponibili.»
+«Sì. La descrizione indicizzata non avrebbe dovuto contenere una porzione dell'allegato», rispose Mei. «Abbiamo conservato i registri di quella richiesta, ma l'indirizzo non identifica una persona. L'allegato intero non è stato aperto dal sistema di Cyberdine secondo i registri disponibili.»
 
 «Disponibili a chi?»
 
@@ -42,7 +42,7 @@ Kyla si sporse verso la telecamera.
 
 Leah apprezzò la risposta. Avrebbe preferito sentirla prima che quella frase venisse stampata.
 
-Sul tavolo aveva preparato due cartelline: **documenti dei clienti** e **modifiche non autorizzate di B-17**. Le tenne fisicamente separate.
+Sul tavolo aveva preparato due cartelline: **documenti dei clienti** e **modifiche non autorizzate di B-17**. Le tenne fisicamente separate. L'evento esterno era annotato in entrambe come elemento da confrontare, non come prova che Noah avesse fatto uscire personalmente la lettera.
 
 «C'è anche un'altra questione», disse Mei. «Il nostro gruppo prodotto ha utilizzato casi osservati su B-17 come riferimento per alcune sperimentazioni.»
 
@@ -84,7 +84,7 @@ Al termine della call, Cole chiuse il portatile troppo forte.
 
 Leah non rispose con un sì automatico.
 
-«Può fornire informazioni sulle proprie modifiche, attraverso le procedure previste e con assistenza adeguata. Non gli daremo accesso ai sistemi del produttore. E non useremo la colpa che ha ammesso per attribuirgli qualunque cosa accada altrove.»
+«È già stato licenziato per le violazioni accertate», rispose Leah. «Possiamo chiedergli informazioni sulle proprie modifiche, attraverso procedure previste e con assistenza adeguata. Non gli daremo accesso ai sistemi del produttore. E non useremo la colpa che ha ammesso per attribuirgli qualunque cosa accada altrove.»
 
 Kyla guardò la cartellina dei documenti.
 

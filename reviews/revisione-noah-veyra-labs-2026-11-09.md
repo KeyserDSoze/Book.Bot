@@ -11,7 +11,7 @@ Data editoriale: 2026-11-09. Ambito: capitoli 10–21, raccordi 25, 31, 34–35 
 | 11/004 | Noah continua a tenere la mail in bozze e propone un incontro riservato agli amici-colleghi Paul e Mila | Il lettore sa che Noah esita e vuole confidarsi, non che è l'autore dei video |
 | 12/001 | Noah rivela a Paul e Mila **modifica, backdoor e pubblicazione anonima**; i due segnalano alla sicurezza la sorveglianza potenzialmente subita. Kyla e Leah ascoltano la confessione ufficiale | Prima attribuzione esplicita della fuga video a Noah |
 | 12/002–004 | L'azienda apre l'indagine sui fatti ammessi e sulle possibili esposizioni personali; Maya viene informata, affronta Noah e chiede canali legittimi per avere notizie di Bi | Motivazioni di Noah non equivalgono ad autorizzazione o assoluzione |
-| 16/003 | Dopo contestazione e riscontro delle proprie osservazioni, Cyberdine licenzia Noah per la modifica clandestina, l'accesso occulto e i video abusivi. La privacy e le responsabilità esterne restano in esame | Il prezzo concreto delle sue scelte |
+| 13/005 | Dopo contestazione e riscontro delle proprie osservazioni, Cyberdine licenzia Noah per la modifica clandestina, l'accesso occulto e i video abusivi. La privacy e le responsabilità esterne restano in esame | Il prezzo concreto delle sue scelte, prima della fuga del cap. 15 |
 | 17/005 | Nasce **Veyra Labs**, distinta da Lanter ma collegata al proprietario di Bi; assume Noah per sviluppare capacità robotiche più avanzate | L'alias professionale **Evan North** è usato pubblicamente, ma non per falsificare identità davanti a HR o controllori |
 | 19–21 | Noah lavora per Veyra Labs ma non rivendica diritti su Lanter; Maya scopre l'assunzione e lo esclude dalla registrazione della propria visita a Bi | La capacità professionale non ripristina la fiducia |
 | 25 e finale | Revisione limitata delle capacità conversazionali di Bi, prototipi diversi con proprie identità, poi crisi mondiale e cancellazione irreversibile della configurazione originale | Migliorare nuove unità non equivale a far rivivere Bi |
@@ -31,3 +31,8 @@ Data editoriale: 2026-11-09. Ambito: capitoli 10–21, raccordi 25, 31, 34–35 
 ## Punti di review aperti
 
 Resta possibile rafforzare, in una passata successiva, la distanza emotiva tra Paul, Mila e Noah quando gli ex colleghi apprendono dell'impiego a Veyra. Non aggiungere una riconciliazione rapida. È opportuno verificare inoltre come la futura revisione del Bot Act europeo possa discutere le unità che accettano un soprannome vietato dalla configurazione certificata, senza dichiarare coscienza o colpe in assenza di prove.
+
+
+## Addendum cronologico alla review precedente (v0.33.3)
+
+Il licenziamento, inizialmente collocato nella scena 16/003, è ora raccontato nella nuova scena 13/005, dopo il raggiungimento della soglia della raccolta; il cap. 16 contiene soltanto il colloquio tecnico con un ex dipendente. La fuga della lettera nei cap. 15–16 ora include un **IP esterno sconosciuto** e sospetti non provati su Noah. La rivelazione causale del **cavallo di Troia lasciato da Noah** è riservata al cap. 20/002–003: non prova che sia stato Noah a scegliere personalmente la lettera. Il vecchio riassunto è superato in questi punti e va letto con la nuova sinossi integrale.

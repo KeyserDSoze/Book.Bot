@@ -9,7 +9,7 @@ canon: canon
 
 Responsabile della sicurezza informatica e della gestione degli incidenti di Cyberdine. Ha un modo asciutto di fare domande, evita sia il sensazionalismo sia le rassicurazioni prive di prova. Quando Noah Carter ammette un aggiornamento non autorizzato e una backdoor nel sistema di B-17, Leah preserva le evidenze, limita gli accessi aziendali e propone una verifica indipendente su dati e possibili violazioni di riservatezza.
 
-Non può certificare automaticamente che la backdoor non abbia esposto colloqui personali, né accedere ai sistemi della società che ora possiede B-17 senza consenso. La sua indagine non è un tutorial tecnico. Durante gli accertamenti iniziali Noah viene allontanato dagli accessi operativi; dopo la contestazione formale e le controdeduzioni, nel capitolo 16 Cyberdine ne termina il rapporto di lavoro. Le questioni su dati e responsabilità esterne proseguono.
+Non può certificare automaticamente che la backdoor non abbia esposto colloqui personali, né accedere ai sistemi della società che ora possiede B-17 senza consenso. La sua indagine non è un tutorial tecnico. Durante gli accertamenti iniziali Noah viene allontanato dagli accessi operativi; dopo la contestazione formale e le controdeduzioni, nel capitolo 13 Cyberdine ne termina il rapporto di lavoro. Le questioni su dati e responsabilità esterne proseguono.
 
 
 ## Capitolo 12
@@ -43,3 +43,8 @@ Leah è britannica, ha lavorato in gruppi di gestione degli incidenti tra Manche
 ## Quindicesima review — il danno non si assolve da solo
 
 **Quindicesima revisione:** la sua prudenza ha un prezzo operativo. Nel 12/002 Leah sposta un analista dalla gestione ordinaria di un incidente cliente alla conservazione di tracce degli accessi di B-17 che rischiano di scadere: domani qualcuno dovrà rispondere al cliente. Nel 12/003 registra la richiesta di Maya di non trasformare la confidenza privata in una prova promozionale/giustificativa, senza garantire impossibili assenze future di consultazione. Nel 31/004 spiega a Noah che un consulente indipendente ha approvato il perimetro della sessione e che la sua testimonianza verrà controllata da altri; lo richiama per distinguere competenza, provenienza e responsabilità, non perché sia stato assolto. La separazione degli incidenti di Noah e Lanter resta invariata.
+
+
+## Cap. 15–20: la pista che non diventa sentenza
+
+Nel cap. 15 Leah rileva una richiesta da un IP esterno sconosciuto e una lettera privata comparsa in un riepilogo di assistenza. Comprende il sospetto dei colleghi su Noah, **già licenziato nel cap. 13**, ma lo conserva come ipotesi. Coordina custodia delle prove e richieste ufficiali a Veyra e Lanter; distingue l'allegato improprio di Henry, la classificazione di Lanter e l'evento esterno. Nel cap. 20 ottiene una ricostruzione indipendente e multilaterale che identifica un componente occulto installato da Noah prima della cessione. Non attribuisce a Noah una nuova intrusione personale o l'intenzione di diffondere la lettera, non dimostrate. I residui individuati vengono isolati e continuano gli audit autorizzati.

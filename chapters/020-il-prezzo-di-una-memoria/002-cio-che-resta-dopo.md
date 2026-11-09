@@ -86,7 +86,19 @@ Mei separò subito le questioni.
 
 Nina ringraziò.
 
-Mei chiuse la chiamata e tornò alle colonne. Un collega le suggerì di aggiungere una riga al rapporto: *Impatto potenziale sulle capacità non standard*.
+Mei chiuse la chiamata e tornò alle colonne.
+
+Sul monitor era arrivata anche la ricostruzione congiunta che Leah aveva richiesto dopo la fuga della lettera di Maya. Cyberdine, Circuito Veyra e Lanter avevano confrontato copie conservate dei propri registri, senza riaprire l'accesso clandestino. Nel primo verbale l'evento dall'IP sconosciuto figurava come *possibile accesso esterno*. Nella nuova versione la parola *possibile* era rimasta, ma non accanto allo stesso fatto.
+
+Una delle componenti installate anni prima su B-17 da Noah si era presentata come una normale funzione di diagnostica. Non faceva parte del software certificato. Durante le attività di recupero, tracce di quella componente erano state conservate con il materiale tecnico poi consultato dal servizio del produttore. I registri indipendenti mostravano che aveva continuato a produrre richieste di servizio attraverso un intermediario esterno non identificabile dai soli indirizzi: **l'IP sconosciuto era quello di un nodo di transito, non la firma di una persona collegata da casa**.
+
+L'analisi ricostruiva anche la coincidenza decisiva. Henry aveva allegato la lettera senza autorizzazione, Lanter ne aveva classificato impropriamente un estratto come descrizione consultabile, e una richiesta della componente occulta aveva fatto comparire quell'estratto nel riepilogo tecnico che Cyberdine avrebbe recuperato poco dopo. Senza gli errori di custodia e classificazione il testo privato non sarebbe stato disponibile; senza quella richiesta estranea non sarebbe finito in quel riepilogo in quel momento. Non erano alternative fra cui scegliere una sola colpa.
+
+Mei rilesse la conclusione del gruppo indipendente. **La componente era un cavallo di Troia lasciato da Noah Carter nell'ambiente di B-17**, occultato fra funzioni dall'aspetto innocuo. I materiali e le versioni precedenti ne attribuivano a lui l'inserimento; non c'era invece evidenza che Noah si fosse collegato personalmente all'ora della fuga, che avesse conosciuto in anticipo la lettera, o che avesse ordinato quell'estrazione specifica. L'intenzione di mantenere una porta nascosta era sua. L'effetto sul testo di Maya era un evento successivo, non documentato come scelta diretta.
+
+Mei fece mettere in quarantena le copie residue del componente e chiese ai tre titolari coinvolti una verifica separata dei percorsi documentali. La componente non era il modulo commerciale *Collaborazione Contestuale*; nessuno aveva dimostrato che quel codice fosse presente nelle migliaia di robot dei clienti. Il rischio residuo sulla configurazione originale di B-17 rimaneva da esaminare.
+
+Un collega le suggerì di aggiungere una riga al rapporto: *Impatto potenziale sulle capacità non standard*.
 
 Mei scrisse invece:
 

@@ -34,6 +34,8 @@ Paul indicò una riga della diagnostica.
 
 Nel registro di **Lanter Service** il controllo di compatibilità di B-21 aveva richiamato un vecchio codice della famiglia B. La risposta comprendeva la scheda attesa e un estratto di una pratica appartenente a un altro cliente. Paul non lo aveva cercato: il servizio aveva inserito entrambi nello stesso riepilogo.
 
+Un analista indicò un evento precedente di pochi istanti al recupero. La piattaforma aveva ricevuto una richiesta associata a un **indirizzo IP esterno sconosciuto**, non riconducibile agli accessi ordinari di Cyberdine né a un tecnico di Veyra identificato. Il registro conservava indirizzo, orario e categoria dell'evento; non dimostrava chi si trovasse all'altro capo della connessione, né che quell'evento avesse provocato la stampa. Leah chiese di preservare anche i dati grezzi prima che il sistema li eliminasse per rotazione.
+
 Paul aprì una scheda diversa, senza allegati. C'era scritto: *cornice magnetica; lato stampato verso il vetro*.
 
 «Questa l'avevo inserita io», disse. «Era servita per le copie di B-17. Se un altro reparto usa lo stesso accessorio, si evita un'altra mattina persa.»
@@ -50,25 +52,29 @@ Leah osservò il campo *origine* del documento: un riferimento di assistenza int
 
 Non c'era una risposta immediata. Le copie stampate potevano essere contate, gli utenti con accesso allo stesso tipo di pratica potevano essere individuati. Nessuno poteva giurare su ciò che fosse già apparso in altre schermate.
 
-«È lo stesso tipo di accesso di Noah?», chiese Paul, indicando il campo che aveva portato la lettera sul loro terminale. «Non voglio che venga fuori un'altra sorpresa.»
+«È ancora Noah?», chiese Paul, indicando l'evento dall'indirizzo esterno. «Lo abbiamo denunciato, lo hanno licenziato. Se qualcuno può ancora entrare da fuori, che cosa abbiamo fermato davvero?»
 
 Leah gli mise davanti la prima pagina delle evidenze.
 
-«È una verifica che dobbiamo fare», rispose Leah. «Ma qui la richiesta parte dall'assistenza autorizzata di B-21 e la descrizione è arrivata dal fornitore. Prima dobbiamo conservare quell'ordine e la risposta originale.»
+«È una verifica che dobbiamo fare», rispose Leah. «Sappiamo che Noah aveva lasciato un accesso occulto. Non sappiamo se questa richiesta esterna sia sua, né se abbia un legame con il documento. L'ordine di B-21 risulta autorizzato; il materiale in risposta arriva dal fornitore. Dobbiamo preservare i tre passaggi senza inventare una causa.»
 
-«Il canale di Noah potrebbe ancora essere attivo», disse Paul.
+«L'accesso lasciato da Noah potrebbe essere ancora da qualche parte», disse Paul.
 
-«È un incidente separato. Non lo considero risolto. E non userò la stessa parola per due accessi diversi soltanto perché ci spaventano entrambi.»
+«È una pista, non un verdetto. Il licenziamento ha tolto a Noah il diritto di usare i nostri sistemi, non ha certificato che ogni elemento lasciato sulle macchine sia stato individuato. E non possiamo chiamare questa richiesta una sua azione senza una prova.»
 
 Paul annuì. Aveva il viso rosso, come gli succedeva quando si sentiva correggere su una questione tecnica davanti ad altri. Leah si accorse della cosa e abbassò il tono.
 
 «Mi serve che tu ricostruisca soltanto la procedura normale», aggiunse. «Se manca una firma, dimmelo. Se tutto è andato come previsto, è ancora più importante.»
 
-Dopo pranzo Kyla entrò senza salutare. Aveva appena parlato con Maya.
+Dopo pranzo Kyla entrò senza salutare. Aveva appena parlato con Maya. Portava anche tre messaggi ricevuti da colleghi di reparti diversi. Nessuno aveva visto l'intera pratica, ma tutti avevano sentito dire che un collegamento esterno fosse ricomparso dopo il licenziamento di Noah. Uno chiedeva perché l'azienda non lo avesse tenuto fuori dai sistemi; un altro affermava già che fosse stato lui a far uscire la lettera. Kyla non inoltrò quei messaggi a Maya.
+
+«In azienda hanno già deciso chi è stato», disse a Leah.
+
+«Allora abbiamo un altro problema», rispose Leah. «Non hanno letto le prove che abbiamo noi, e nemmeno noi abbiamo ancora una conclusione.»
 
 «Vuole sapere se la lettera è stata letta da persone fuori Veyra.»
 
-«Non possiamo ancora dirlo.»
+«Non possiamo ancora dirlo. Abbiamo un evento da una rete esterna e una lettera privata finita in un riepilogo tecnico, ma non il collegamento verificato fra i due.»
 
 «Devo darle qualcosa in più di un'altra frase sulla verifica.»
 
@@ -92,7 +98,7 @@ Il telefono squillò quando stava chiudendo la cartella.
 
 Il referente di Lanter Robotics parlava da un centro tecnico cinese. Chiese di fissare una riunione con una responsabile della qualità e confermò che la segnalazione sarebbe stata trattata come possibile esposizione di informazioni fra clienti diversi.
 
-«Avete già identificato la causa?», domandò Leah.
+«Avete già identificato la causa e l'origine della richiesta dall'IP sconosciuto?», domandò Leah.
 
 «Non ancora. Ma c'è una domanda che dobbiamo farvi. L'unità B-17, prima della cessione, aveva subito cambiamenti software fuori dal ciclo di rilascio?»
 

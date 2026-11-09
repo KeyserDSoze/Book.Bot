@@ -28,7 +28,7 @@ Mei mise fianco a fianco la pratica riservata di Veyra e la scheda consultata da
 
 Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Maya appariva sotto un'etichetta verde: *contenuto indicizzabile*.
 
-Mei scorse l'elenco degli accessi. Un sistema autorizzato di Cyberdine aveva recuperato l'estratto durante una verifica di compatibilità di B-21. Non risultava che il robot avesse interrogato un'altra unità per iniziativa propria. Non risultava nemmeno che la lettera completa fosse stata restituita al cliente italiano.
+Mei scorse l'elenco degli accessi. Un sistema autorizzato di Cyberdine aveva recuperato l'estratto durante una verifica di compatibilità di B-21. Poco prima risultava una richiesta da un **IP esterno non attribuito**, che non compariva nell'elenco dei referenti del cliente. Non era possibile stabilire dai soli orari se fosse un accesso diretto, un intermediario o un evento senza relazione. Non risultava che il robot avesse interrogato un'altra unità per iniziativa propria. Non risultava nemmeno che la lettera completa fosse stata restituita al cliente italiano.
 
 L'estratto, però, era sufficiente.
 
@@ -72,7 +72,7 @@ Mei aprì il calendario. Il lancio controllato del modulo era previsto per alcun
 
 Non avevano previsto che un esempio derivasse da un robot modificato clandestinamente da un dipendente di un'altra azienda.
 
-Mei aprì due segnalazioni. Il sistema suggerì di unirle: stesso numero di serie, stesso cliente di origine. Rifiutò. Nella prima scrisse di delimitare gli accessi ai documenti e preservare le evidenze; nella seconda bloccò, per la parte di sua competenza, l'approvazione della provenienza degli esempi del nuovo modulo. I due fascicoli ricevettero numeri diversi.
+Mei fece registrare l'indirizzo sconosciuto in un terzo fascicolo, come indicatore da verificare, senza trasformarlo nel nome di un responsabile. Poi aprì due segnalazioni di qualità. Il sistema suggerì di unirle: stesso numero di serie, stesso cliente di origine. Rifiutò. Nella prima scrisse di delimitare gli accessi ai documenti e preservare le evidenze; nella seconda bloccò, per la parte di sua competenza, l'approvazione della provenienza degli esempi del nuovo modulo. I due fascicoli ricevettero numeri diversi.
 
 Dopo averle inviate, rimase un attimo con la mano sulla tazza. Non era nemmeno finita la mattinata.
 

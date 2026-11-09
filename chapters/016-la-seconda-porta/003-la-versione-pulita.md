@@ -17,9 +17,7 @@ factions:
   - faction:lanter-robotics
 ---
 
-Noah non aveva più il tesserino per entrare nella zona di sviluppo.
-
-Lo scoprì quando il tornello emise un suono breve e rosso. Sapeva che sarebbe successo; gli era stato comunicato per iscritto. Il rumore gli diede comunque la sensazione sciocca di essere arrivato nel posto sbagliato.
+Noah non era più un dipendente di Cyberdine. Dopo l'indagine aperta dalla segnalazione di Paul e Mila, l'azienda lo aveva licenziato. Il tornello emise un suono breve e rosso quando istintivamente avvicinò il vecchio portatessere: non lo aveva ancora tolto dal portafoglio. Sapeva che sarebbe successo; il rumore gli diede comunque la sensazione sciocca di essere arrivato nel posto sbagliato.
 
 Kyla lo attendeva alla reception con una persona incaricata di accompagnarlo alla saletta riservata. La riunione era stata concordata e registrata. Sul tavolo c'era il verbale precedente; accanto a Leah sedeva il referente incaricato di assistere Noah e verificare che le domande rimanessero nell'ambito dell'accertamento.
 
@@ -53,13 +51,21 @@ Lui appoggiò le mani sul tavolo.
 
 «Con le metriche che avevo, le conversazioni diventavano più lunghe. Sembrava un peggioramento della produttività. Alcune persone, però, non dovevano tornare tre volte a spiegare la stessa cosa. Avevo esempi, non una validazione sufficientemente ampia. Avrei dovuto presentarli. Invece ho lasciato la modifica sulla macchina.»
 
-«E hai mantenuto un accesso non autorizzato ai suoi dati», ricordò Leah.
+«E hai mantenuto un accesso non autorizzato ai suoi dati, oltre ad aver pubblicato i video», ricordò Leah.
 
 «Sì.»
 
 Non lo disse per cortesia. Aveva capito che ogni volta che spiegava il proprio intento qualcuno poteva scambiarlo per una richiesta di essere assolto.
 
 Leah passò alla scheda successiva.
+
+«C'è anche una richiesta da un indirizzo esterno nei registri del caso della lettera di Maya», disse. «Non abbiamo attribuito quella richiesta a nessuno. Avevi lasciato componenti accessori oltre al canale che ci hai già dichiarato?»
+
+Noah guardò il foglio. «Nel pacchetto originale c'erano funzioni di diagnostica che non avevo fatto verificare. Ho consegnato quello che sapevo alle persone incaricate. Non ho usato quell'accesso dopo che mi avete sospeso e non ho cercato la lettera di Maya.»
+
+«Sono dichiarazioni da confrontare con i componenti conservati», rispose Leah. «Il tuo licenziamento non dimostra né che tu sia entrato di nuovo né che il perimetro sia sicuro.»
+
+Kyla rimase in silenzio. La frase suonava giusta e insufficiente allo stesso tempo.
 
 «Lanter dice di aver sviluppato un modulo nuovo studiando anche i risultati di B-17. Lo chiamano *Collaborazione Contestuale*. Non sappiamo se abbia riutilizzato parte del tuo materiale. Che cosa dovremmo verificare secondo te?»
 
@@ -98,32 +104,6 @@ Kyla trattenne la porta perché passasse una persona con una valigia.
 «Tu puoi dirci che cosa non avevi misurato», rispose Kyla. «Per tutto il resto, adesso, devono rispondere loro.»
 
 Noah annuì. Guardò il tornello rosso dalla parte opposta del vetro.
-
-La settimana seguente Kyla gli chiese di tornare, questa volta per una decisione distinta dall'audizione tecnica. Nella stanza sedevano una responsabile del personale e un referente legale. Leah partecipava soltanto per chiarire quali fatti fossero stati verificati. Noah aveva ricevuto in anticipo le contestazioni e aveva presentato le proprie osservazioni con l'assistenza scelta da lui.
-
-«L'indagine interna è arrivata a una conclusione sulle tue condotte», disse la responsabile. «La modifica non autorizzata del modello, l'accesso occulto mantenuto dopo la cessione e la pubblicazione di riprese del nuovo proprietario senza consenso sono stati accertati per quanto riguarda le tue azioni. Sui dati di terzi le verifiche e le comunicazioni proseguono.»
-
-Noah guardò Leah. «Paul e Mila hanno confermato tutto?»
-
-«Hanno segnalato ciò che tu avevi detto loro», rispose Leah. «Le conclusioni non dipendono dalla loro parola soltanto. Abbiamo esaminato registri, dispositivi e la tua stessa dichiarazione.»
-
-La responsabile gli consegnò la lettera. Il rapporto di lavoro con Cyberdine cessava per grave violazione degli obblighi di sicurezza e riservatezza, secondo la procedura comunicata. Gli elementi ancora oggetto di accertamenti esterni restavano separati dalla decisione aziendale.
-
-«Mi avete lasciato lavorare qui per anni», disse Noah, tenendo la carta chiusa.
-
-«E per anni hai lavorato bene», rispose Kyla. «Non è questo il punto che stiamo decidendo.»
-
-Noah avrebbe voluto raccontare del robot visto risorgere su un'isola, della felicità di sentirgli pronunciare il nome Bi e dell'idea sciocca che un video potesse sistemare tutto. Non c'era una frase capace di far tornare private immagini già pubblicate.
-
-«Li consideravo amici», disse piano. «Paul e Mila.»
-
-Kyla non lo consolò. «Anche loro consideravano te un amico. Non per questo avevano accettato di essere osservati.»
-
-Alla reception Noah riconsegnò il tesserino rimasto valido soltanto per l'accompagnamento agli incontri. La porta esterna si aprì automaticamente; per una volta non dovette chiedere a nessuno di farlo passare.
-
-Sul telefono gli comparve un messaggio di Jonas: *Domenica vieni ancora?* Noah rispose di sì.
-
-Non era tornato un dipendente di Cyberdine. Le sue competenze, però, non erano scomparse insieme al badge. E non sapeva ancora chi avrebbe scelto di pagarle.
 
 Mentre usciva, il telefono gli mostrò una notizia del settore: Lanter aveva annunciato i primi clienti pilota di un modulo di coordinamento tra operatori umani e robot. Il comunicato parlava di riduzione degli interventi ripetuti, collaborazione più naturale e sicurezza mantenuta dai controllori esistenti.
 
