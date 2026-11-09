@@ -88,7 +88,17 @@ Claire rispose con esempi concreti. Alcune domande erano migliori di quelle che 
 
 Claire prese il biglietto. Non lo buttò. Il lavoro occasionale era lavoro e le permetteva di pagare le bollette. Non avrebbe però finto che fosse la carriera a cui aveva dedicato anni.
 
-Più tardi incontrò Kyla davanti al pannello delle posizioni aperte. I nomi dei ruoli erano cambiati: supervisione di agenti, controllo delle attestazioni, sicurezza del software, manutenzione robotica, revisione delle eccezioni. Non comparivano più molte delle posizioni junior con cui Claire aveva visto cominciare i suoi colleghi.
+Più tardi incontrò Kyla davanti al pannello delle posizioni aperte. Nella sala accanto una televisione trasmetteva un dibattito parlamentare sul lavoro. Claire riconobbe Ethan Blake prima ancora di leggere il sottopancia: **deputato, portavoce di Lavoro Prima**. La rete nata dalle proteste degli ex dipendenti era cresciuta, aveva stretto un'alleanza elettorale e, nelle elezioni svoltesi durante gli ultimi diciotto mesi, Ethan aveva ottenuto un seggio alla Camera. Ora guidava il gruppo di deputati che chiedeva restrizioni alle mansioni robotiche.
+
+«Una volta lo vedevo litigare davanti alla macchinetta del caffè», disse Claire.
+
+Kyla seguì sullo schermo il volto dell'ex collega. «E adesso presiede le audizioni del suo gruppo sul cosiddetto Bot Act II. Alcuni vogliono chiamare così la nuova legge italiana, come se fosse il seguito del Bot Act europeo.»
+
+«Non cancella quello che ha fatto a Bi.»
+
+«No», rispose Kyla. «Ma le persone che lo hanno eletto non sono tutte quelle che lo giustificano. Molte hanno perso il lavoro davvero.»
+
+Claire guardò la fila delle posizioni aperte. Non aveva intenzione di diventare una sostenitrice di Ethan solo perché condivideva alcune domande sulla tutela delle mansioni umane. I nomi dei ruoli erano cambiati: supervisione di agenti, controllo delle attestazioni, sicurezza del software, manutenzione robotica, revisione delle eccezioni. Non comparivano più molte delle posizioni junior con cui Claire aveva visto cominciare i suoi colleghi.
 
 «Come va?», chiese Kyla.
 
