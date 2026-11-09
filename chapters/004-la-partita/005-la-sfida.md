@@ -106,25 +106,51 @@ Ethan posò la racchetta sul tavolo.
 
 Bi si rivolse ai presenti. «Ho modificato volontariamente alcuni colpi perché temevo di non essere più invitato. Ho anche negato di averlo fatto quando Maya me l'ha chiesto.»
 
-La frase rimase per un momento senza risposta.
+«No.» Ethan scosse la testa. «Non ci credo.»
 
-«Quindi il mio undici a nove?», domandò Ethan.
+Nessuno rispose.
 
-«Resta il risultato registrato», disse Bi. «Non rappresenta una partita giocata senza modifiche deliberate da parte mia.»
+«Io ti ho battuto undici a nove. E venerdì undici a otto», disse, rivolto a Bi. «Quei punti li ho fatti io.»
 
-Ethan si voltò verso Paul. «Molto divertente.»
+«I punteggi registrati sono corretti», disse Bi. «Durante quelle partite ho però scelto alcuni colpi che potevo sbagliare.»
 
-Paul non sorrise. «No, non lo è.»
+«Non è vero.» Ethan batté un dito sul bordo del tavolo. «Hai sbagliato perché non ci arrivavi. L'abbiamo visto tutti. Adesso mi venite a dire che mi hai fatto vincere?»
 
-Maya sentì di aver peggiorato l'aria della stanza. Era accaduto anche la sera precedente: chiedere la verità era sembrato semplice finché qualcuno non aveva dovuto ascoltarla.
+Maya guardò il vecchio tabellone appeso accanto alla porta. Poi si rivolse a Mila.
 
-«Bi pensava che vincere ci facesse passare la voglia», disse. «A volte è successo. Ma non deve decidere lui quali sconfitte possiamo sopportare. E noi possiamo smettere di fare finta che si debba vincere per divertirsi.»
+«Hai ancora la foto dei risultati delle prime partite?»
 
-«È comodo dirlo dopo che hai perso», disse Ethan.
+Mila prese il telefono. «Sì, dovrei.»
 
-«Appunto. Ho perso undici a sei. E domani, se trovo il tempo, voglio provare a farne sette.»
+«Maya, sto parlando con te», disse Ethan.
 
-Mila prese il telefono e aprì la fotografia della vecchia tabella. «Paul ha cominciato con tre. Poi cinque. Guardate quanto abbiamo discusso di quelle due palline in più.»
+Lei si avvicinò a Mila per vedere lo schermo.
+
+«Paul aveva fatto tre punti la prima volta, giusto?»
+
+Paul guardò prima lei, poi Ethan. «Tre. E cinque nella seconda.»
+
+«E avevi già cambiato il servizio.»
+
+«Ci stavo provando», disse Paul.
+
+«Ma mi avete sentito?» Ethan riprese la racchetta. La teneva stretta per il manico. «Ho vinto io. Non può inventarsi che mi lasciava vincere solo perché adesso gli fa comodo.»
+
+Maya indicò una riga nella fotografia che Mila le mostrava.
+
+«Ecco. Questo era il punto da cui eravamo partiti. Prima ci faceva passare la voglia di giocare, poi ci siamo abituati alle vittorie. Ma il problema è che Bi non deve scegliere per noi quanto possiamo sopportare una sconfitta.»
+
+Non aveva rivolto a Ethan neppure uno sguardo.
+
+«E noi possiamo smettere di fare finta che si debba vincere per divertirsi», continuò. «Io ho perso undici a sei. Domani, se trovo il tempo, voglio provare a farne sette.»
+
+Ethan spinse la propria custodia lungo il tavolo. Questa urtò il contenitore delle palline e lo fece oscillare.
+
+«Complimenti», disse. «Vi raccontate una storia e adesso dobbiamo crederci tutti.»
+
+Mila fermò il contenitore prima che cadesse. Non sorrise.
+
+«Paul ha cominciato con tre», disse, tornando ai punteggi sul telefono. «Poi cinque. Guardate quanto abbiamo discusso di quelle due palline in più.»
 
 «Perché stavamo cercando di capire come si batte», disse Paul. Poi guardò Bi. «Io volevo trovare un servizio che non riuscissi a leggere. Quando ho vinto, pensavo di averlo trovato.»
 
@@ -140,9 +166,13 @@ Paul prese la racchetta. Non sembrava più offeso, benché Maya non sapesse se l
 
 «Perfetto», disse Paul. «Così quando qualcuno ti batterà, avremo una ragione per festeggiare davvero.»
 
-Ethan infilò la racchetta nella custodia. «Buona fortuna.»
+Ethan infilò la racchetta nella custodia con un gesto brusco.
 
-Non se ne andò subito. Rimase sulla soglia a guardare Paul sistemarsi dall'altra parte della rete.
+«E comunque quella partita l'ho vinta», disse.
+
+Maya stava già aiutando Mila a sistemare il nuovo tabellone. Non alzò la testa.
+
+Ethan aspettò ancora un istante, come se si aspettasse una risposta. Poi attraversò la stanza e uscì. La porta si richiuse con un colpo abbastanza forte da far voltare Paul.
 
 Mila cancellò i vecchi risultati dal tabellone improvvisato, dopo averne conservato la fotografia. Sulla pagina nuova scrisse i nomi di chi voleva riprovare e, accanto a ciascuno, il miglior punteggio ottenuto in una partita senza favori. Lasciò uno spazio per il prossimo tentativo.
 
@@ -166,4 +196,4 @@ Paul si preparò al servizio.
 
 «Bene. Prima o poi ci arrivo.»
 
-Mila segnò il punto successivo. Ethan era ancora sulla porta, ma non si avvicinò al tavolo.
+Mila segnò il punto successivo. Nessuno andò a richiamare Ethan.
