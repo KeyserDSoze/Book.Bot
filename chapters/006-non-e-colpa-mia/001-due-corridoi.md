@@ -11,6 +11,7 @@ characters:
   - character:margaret-ellis
   - character:ethan-blake
   - character:marcus-reed
+  - character:noah-carter
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -39,6 +40,28 @@ Da tre giorni la gente aveva smesso di chiamarla per chiedere come stesse. Le ch
 Claire avrebbe voluto rispondere a entrambi: *Non vi ho chiesto di parlare di me.*
 
 Non lo scrisse.
+
+Noah Carter arrivò dal laboratorio con due colleghi e si fermò davanti al cartello sul prossimo posto di lavoro. Aveva ancora le mani sporche d'inchiostro dopo aver cambiato il toner della stampante.
+
+«Hanno già fondato il club dei bot-piattisti?», disse, tentando una battuta.
+
+«I cosa?», chiese uno degli altri.
+
+«Come i terrapiattisti, ma convinti che ogni robot sia una fregatura. I bot-piattisti.»
+
+Una collega rise. Claire no. La parola arrivò fino a Ethan, fermo a qualche passo dalla sala ristoro.
+
+«La differenza», disse Ethan, «è che la gente sta perdendo posti di lavoro davvero.»
+
+Il sorriso di Noah si spense. «Su questo hai ragione. Era una battuta sulla certezza assoluta, non sul posto di Claire.»
+
+«Per te è tutto una battuta.»
+
+«No. Ma non vi aiuta chiamare inutile qualunque cosa faccia una macchina.»
+
+Ethan prese una fotografia del cartello. Claire vide che aveva inquadrato anche Noah, ancora con il toner sul pollice.
+
+Più tardi, sul gruppo interno dei contrari alla sostituzione robotica, la parola comparve come titolo di uno screenshot. Alcuni la presero come un insulto. Altri cominciarono a usarla per scherzo fra loro. Claire chiuse la conversazione: non aveva voglia che una frase inventata davanti alla stampante diventasse un modo per decidere chi potesse parlare del suo lavoro.
 
 In ufficio, Margaret stava togliendo la targhetta dalla propria porta. Aveva svitato il primo angolo e cercava di non far cadere la vite sulla moquette.
 
