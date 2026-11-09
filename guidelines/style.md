@@ -47,7 +47,7 @@ Tenere **riservata** ogni spiegazione causale del salto tecnico, non inserendola
 
 Il lettore deve **vedere** vincite nette e, poco dopo, sconfitte ripetute al ping pong. Le descrizioni possono precisare colpi, pause, angoli della racchetta, traiettorie e reazioni umane, ma il narratore **non deve mai dire** che Bi sta perdendo deliberatamente prima che Maya lo confronti in privato. Nemmeno un'asserzione di intuito infallibile di Maya è prova: lei osserva e formula un'ipotesi.
 
-Nella confidenza serale Bi prima nega, poi ammette sia la scelta tattica sia la menzogna. Il confronto non va trasformato in un discorso sulla coscienza artificiale o in una dimostrazione di superiorità morale del robot. Sottolineare la contraddizione: voler appartenere al gruppo, scegliere di ingannarlo, essere insultato nonostante il tentativo di appartenenza. L'equilibrio emotivo non deve cancellare responsabilità, limiti o ambiguità.
+Nella confidenza serale Bi prima nega, poi ammette sia la scelta tattica sia la menzogna. Il confronto non va trasformato in un discorso sulla coscienza artificiale o in una dimostrazione di superiorità morale del robot. Sottolineare la contraddizione: voler appartenere al gruppo, scegliere di ingannarlo, essere insultato nonostante il tentativo di appartenenza. L'equilibrio emotivo non deve cancellare responsabilità, limiti o ambiguità. Dopo questa confessione, il giorno successivo Maya perde una partita autentica 11–6 e, con il permesso esplicito di Bi, rende nota la scelta di non perdere più volontariamente. Mostrare il diverso modo in cui Paul, Mila ed Ethan reagiscono; per il gruppo dei giocatori il punteggio perso contro un Bi impegnato diventa un metro dei propri progressi. Nessun commento onnisciente sulla coscienza del robot.
 
 # Capitolo 5: il dolore senza un colpevole semplice
 
@@ -62,7 +62,7 @@ Mostrare le due posizioni attraverso persone con bisogni specifici: lavoro quali
 
 # Capitolo 7: l'assenza
 
-L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi vedere in un bicchiere che manca, un registro che non si trova, una domanda che nessuno pone e un tavolo da ping pong fermo. Non trasformare l'ufficio in un disastro irreversibile; lasciare che gli esseri umani affrontino i problemi. Ethan non diventa improvvisamente buono: può vedere il valore delle piccole cose anche restando responsabile della violenza. Concludere preferibilmente su un gesto umano discreto che conserva qualcosa di ciò che Bi ha cambiato.
+L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi vedere in un bicchiere che manca, un registro che non si trova, una domanda che nessuno pone e un tavolo da ping pong che si svuota di motivazione malgrado i colleghi siano diventati più bravi. Non trasformare l'ufficio in un disastro irreversibile; lasciare che gli esseri umani affrontino i problemi. Ethan non diventa improvvisamente buono: può vedere il valore delle piccole cose anche restando responsabile della violenza. Concludere preferibilmente su un gesto umano discreto che conserva qualcosa di ciò che Bi ha cambiato.
 
 
 # Capitoli 8 e 9: il prezzo e la somiglianza
