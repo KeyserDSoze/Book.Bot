@@ -52,6 +52,12 @@ Cole si appoggiò allo schienale.
 
 «Centomila euro per una macchina che non volevo riparare.»
 
+«Perché allora non avevamo i soldi in cassa», disse Kyla. «Neppure adesso li abbiamo. Ma la differenza è che queste persone stanno mettendo denaro proprio perché pensano che rinunciare a Bi significhi continuare a perdere terreno.»
+
+«Gli stipendi si pagano con gli incassi, non con le promesse di una colletta», rispose Cole.
+
+«Lo so. Però non stiamo vincendo le nuove gare. Questa è anche una proposta su che cosa potremmo tornare a fare, non soltanto un ricordo.»
+
 «Non è esattamente quello che stanno comprando.»
 
 «Kyla, capisco la differenza. Il bilancio però non la registra.»
@@ -60,7 +66,7 @@ Cole si appoggiò allo schienale.
 
 Cole guardò la porta.
 
-«E l'azienda non può garantire un posto a B-17. Dobbiamo ancora chiudere alcuni aspetti dell'incidente informatico. B-21 svolge i compiti per cui l'abbiamo acquistato. Non intendo cambiare la decisione perché c'è una raccolta fondi.»
+«E l'azienda non può garantire un posto a B-17. Dobbiamo ancora chiudere alcuni aspetti dell'incidente informatico. B-21 svolge le commissioni per cui l'abbiamo noleggiato. Non intendo cambiare la decisione perché c'è una raccolta fondi.»
 
 «Nessuno te lo chiede. Almeno non direttamente.»
 
@@ -94,7 +100,7 @@ Kyla non offrì di inserire quelle ore nel calendario di Cyberdine: la raccolta 
 
 «La metà dei contributi più grandi viene da persone che hanno visto soltanto il video», continuò Claire. «Non sanno com'era Bi alla macchinetta del caffè.»
 
-«Non devono saperlo», rispose Maya. «Non è una prova da esibire.»
+«Non devono saperlo», rispose Maya. «Non è una prova da esibire. E non voglio vendere loro l'idea che lui sia una soluzione magica. Vogliamo proporre un modo di tornare a sperimentare, con verifiche reali e persone che sappiano dire di no quando qualcosa non funziona.»
 
 Kyla si sedette.
 
