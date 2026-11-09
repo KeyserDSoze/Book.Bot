@@ -39,7 +39,7 @@ Un mese dopo Maya incontra il nuovo B-21, identico nell'aspetto, cortese e capac
 
 ## Capitoli 12–14: la persona che può parlare e quella che non può rispondere
 
-Maya apprende che Noah ha installato su Bi un aggiornamento e un accesso clandestino a flussi sensoriali. Non esiste prova completa sull'accesso a conversazioni intime; Noah dichiara di non aver seguito la sua confidenza, ma Maya non lo assolve. Apprende tramite contatti ufficiali che B-17 è vivo operativamente nel Circuito Veyra, senza usare il canale clandestino.
+Maya apprende che Noah ha installato su Bi un aggiornamento e un accesso clandestino a flussi sensoriali, e che lui ha **registrato e pubblicato anonimamente i video virali** della prova a Veyra. Paul e Mila hanno segnalato il fatto perché si sono sentiti potenzialmente spiati. Non esiste prova completa sull'accesso a conversazioni intime; Noah dichiara di non aver seguito la sua confidenza, ma Maya non lo assolve. Apprende tramite contatti ufficiali che B-17 è vivo operativamente nel Circuito Veyra, senza usare il canale clandestino.
 
 Con Paul organizza una raccolta privata, revocabile e condizionata per tentare l'acquisto di B-17; i contributi verificati arrivano a 101.240 euro. Il proprietario rifiuta di venderlo. Maya scrive allora una lettera privata ricordando la stanza della carta, Valle Corta, il padre, Paul, Claire, B-21 e il ping pong. Nina la legge a B-17 a Veyra. Il robot chiede di rispondere; la risposta non è ancora stata consegnata.
 
@@ -52,7 +52,7 @@ Dopo il confronto con Noah, Maya non torna ingenuamente a una comunicazione senz
 
 ## Capitolo 21 — Il ritorno a Veyra
 
-Maya visita Veyra tre giorni dopo la consegna mediata al robot della sua risposta. Ritrova la voce di Bi ma nota differenze nel modo in cui usa e verifica il contesto; in particolare non riesce a recuperare con lui la spiegazione delle sconfitte deliberate a ping pong. Accetta il perimetro supervisionato senza pretenderne la riattivazione completa. Daniel continua a occuparsi della documentazione relativa a Valle Corta; la copertura alternativa e le credenziali storiche non sono risolte.
+Maya visita Veyra tre giorni dopo la consegna mediata al robot della sua risposta. Scopre che Noah, licenziato da Cyberdine, lavora ora per **Veyra Labs** sotto il nome pubblico **Evan North**. Chiede che Noah sia escluso dalla registrazione e dai dati della propria visita, e Nina ne registra la condizione. Ritrova poi la voce di Bi ma nota differenze nel modo in cui usa e verifica il contesto; in particolare non riesce a recuperare con lui la spiegazione delle sconfitte deliberate a ping pong. Accetta il perimetro supervisionato senza pretenderne la riattivazione completa. Daniel continua a occuparsi della documentazione relativa a Valle Corta; la copertura alternativa e le credenziali storiche non sono risolte.
 
 
 ## Capitoli 25–30 — Fiducia, protesta, crisi
