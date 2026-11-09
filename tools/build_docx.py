@@ -15,6 +15,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
+from PIL import Image
 
 from common import ROOT, load_document, chapter_dirs, scene_files
 
@@ -145,6 +146,16 @@ def text_par(doc,text,size=10,color=INK,space=0,align=WD_ALIGN_PARAGRAPH.LEFT):
     r.font.name=SANS;r.font.size=Pt(size);r.font.color.rgb=color
     return p
 
+def add_fitted_picture(paragraph, path: Path, max_width: float, max_height: float):
+    """Fit supplied art inside the page without distorting its aspect ratio."""
+    with Image.open(path) as picture:
+        width_px, height_px = picture.size
+    if width_px <= 0 or height_px <= 0:
+        raise RuntimeError(f"Invalid illustration dimensions: {path}")
+    scale = min(max_width / width_px, max_height / height_px)
+    paragraph.add_run().add_picture(str(path),
+        width=Inches(width_px * scale), height=Inches(height_px * scale))
+
 def add_title_pages(doc, chapters, version, art_dir):
     cover = art_dir / "cover.png"
     if not cover.exists():
@@ -158,7 +169,7 @@ def add_title_pages(doc, chapters, version, art_dir):
     p.alignment=WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.space_after=Pt(0)
     p.paragraph_format.space_before=Pt(0)
-    p.add_run().add_picture(str(cover),width=Inches(5.70),height=Inches(8.55))
+    add_fitted_picture(p, cover, max_width=5.70, max_height=8.55)
 
     section=doc.add_section(WD_SECTION_START.NEW_PAGE)
     section.page_width=Inches(6);section.page_height=Inches(9)
@@ -235,7 +246,7 @@ def add_chapter(doc, meta, scenes, art_dir):
     p.paragraph_format.space_after=Pt(16)
     p.alignment=WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.keep_together=True
-    p.add_run().add_picture(str(art),width=Inches(4.50),height=Inches(2.531))
+    add_fitted_picture(p, art, max_width=4.50, max_height=2.531)
     label=doc.add_paragraph()
     label.alignment=WD_ALIGN_PARAGRAPH.CENTER
     label.paragraph_format.space_before=Pt(11)

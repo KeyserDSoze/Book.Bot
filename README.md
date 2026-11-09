@@ -45,7 +45,7 @@ Tutti i marchi e le aziende del racconto appartengono al mondo della finzione.
 
 L'esportazione genera un PDF editoriale nel formato libro **6x9 pollici**, con copertina, indice, testatine, pagine numerate e un'immagine iconica dopo ogni capitolo. EPUB e DOCX includono le tavole. Le 35 illustrazioni e la copertina sono raccolte anche in uno ZIP nella GitHub Release.
 
-La guida visiva si trova in art/visual-bible.md. Le tavole attuali usano oggetti e silhouette riproducibili; per eventuali immagini realistiche di personaggi ricorrenti occorreranno reference sheet approvate e gli stessi asset di riferimento, non generazioni indipendenti. Il sistema è versionato insieme al manoscritto.
+La guida visiva si trova in art/visual-bible.md. **Le immagini personalizzate sotto `art/` non sono usate automaticamente in base al nome della cartella:** si collegano all'edizione tramite `art/edition-assets.yml`. La copertina `art/cover/bot-cover.png` sostituisce la copertina generata e `art/locations/valle-corta-sunset.png` sostituisce la tavola del capitolo 3 (dove viene introdotta Valle Corta). Gli altri 34 capitoli conservano le tavole generate. La stessa mappa alimenta EPUB, DOCX, PDF e ZIP illustrato, e i controlli verificano che le immagini originali siano incluse. Le tavole generate usano oggetti e silhouette riproducibili; per eventuali immagini realistiche di personaggi ricorrenti occorreranno reference sheet approvate e gli stessi asset di riferimento, non generazioni indipendenti. Il sistema è versionato insieme al manoscritto.
 
 Per rigenerare l'edizione: installare le dipendenze Python in tools/requirements.txt e Pandoc, poi eseguire python tools/build.py. La conversione da DOCX a PDF viene eseguita nella pipeline GitHub tramite LibreOffice.
 

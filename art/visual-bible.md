@@ -30,7 +30,7 @@ Le schede canoniche rimangono in characters/. Un dettaglio grafico non menzionat
 
 ## Artefatti e verifica
 
-tools/artwork.py genera cover.png e chapter-001.png ... chapter-035.png. tools/build_docx.py realizza il libro 6x9 pollici con copertina, indice, giustificazione, margini, testatine, pagine numerate e tavola a fine capitolo. tools/build.py produce Markdown, EPUB illustrato, DOCX impaginato e archivio ZIP delle 36 immagini. La release converte il nuovo DOCX in PDF.
+`tools/artwork.py` genera una copertina e 35 tavole standard, poi applica gli override elencati in **`art/edition-assets.yml`**, dove ogni percorso è relativo a `art/`. L'override di copertina è `art/cover/bot-cover.png`, quello del capitolo 3 è `art/locations/valle-corta-sunset.png`. Altre immagini inserite in `art/` restano reference e non vengono pubblicate finché non sono collegate esplicitamente al capitolo adatto, per evitare spoiler o associazioni errate. `tools/build_docx.py` impagina mantenendo le proporzioni originali delle immagini. `tools/build.py` produce Markdown, EPUB illustrato, DOCX impaginato e archivio ZIP delle 36 immagini; la release converte il DOCX in PDF. `tools/check_edition.py` controlla che gli asset personalizzati siano presenti in ZIP, DOCX ed EPUB, oltre ai controlli su numero di immagini e pagine del PDF.
 
 Controllo visivo obbligatorio: copertina, indice, apertura capitolo, tavola finale, ultimo paragrafo, caporali, accentate, numeri di pagina, assenza di testo tagliato, vedove/orfane e pagine bianche accidentali. Tutte le immagini devono essere coerenti con gli eventi del capitolo.
 

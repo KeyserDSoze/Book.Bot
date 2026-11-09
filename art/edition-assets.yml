@@ -1,0 +1,5 @@
+# Immagini personalizzate per l'edizione illustrata.
+# Percorsi relativi alla directory art/. Le altre tavole vengono generate da tools/artwork.py.
+cover: cover/bot-cover.png
+chapters:
+  3: locations/valle-corta-sunset.png
