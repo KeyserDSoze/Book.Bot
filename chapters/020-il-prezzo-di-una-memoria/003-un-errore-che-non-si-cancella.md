@@ -30,11 +30,21 @@ Adesso non sapeva nemmeno a chi si riferisse quel *noi*.
 
 «La configurazione originale non produrrà necessariamente lo stesso comportamento nei dialoghi», disse. «Potrebbe essere possibile conservare parte dei dati delle interazioni, se ne avete titolo e se sono separati dalle funzioni non autorizzate. Ma non posso promettere che la nuova versione userà quei dati nello stesso modo.»
 
+Leah gli mostrò anche un verbale ricevuto dopo il confronto fra i registri del produttore, del proprietario e di Cyberdine.
+
+«Abbiamo identificato qualcosa che mancava alla prima ricostruzione», disse. «La richiesta esterna che ha preceduto la fuga della lettera proveniva da un componente clandestino introdotto insieme al tuo aggiornamento. Era mascherato da diagnostica. Hai lasciato tu quel codice?»
+
+Noah non chiese di vedere la lettera. Guardò la data del vecchio file.
+
+«Sì. Avevo preparato un componente che sembrasse parte del normale monitoraggio. Serviva a mantenere un canale di osservazione dopo i riavvii. Non avevo il diritto di lasciarlo. Non ho avuto accesso alla lettera di Maya e non ho ordinato quella richiesta, ma il codice è mio.»
+
+«Non ti stiamo attribuendo un ordine che non possiamo provare», disse Leah. «La pubblicazione di materiale privato è passata da un ticket impropriamente compilato, da un indice con permessi sbagliati e da quel componente. È un'altra conseguenza di aver lasciato un accesso occulto, anche se non eri tu a usarlo quella mattina.»
+
 «E la backdoor?»
 
 Noah abbassò lo sguardo sul quaderno.
 
-«Non avrei dovuto lasciarla. Non posso garantire che un cambiamento superficiale la elimini. Serve una verifica indipendente dei componenti coinvolti e di tutti i passaggi autorizzati.»
+«Non avrei dovuto lasciarla. Non posso garantire che un cambiamento superficiale la elimini. Serve una verifica indipendente dei componenti coinvolti e di tutti i passaggi autorizzati. E devo accettare che qualcosa che ho chiamato *monitoraggio* possa aver funzionato, per altri, come un cavallo di Troia.»
 
 Indicò un disegno nel quaderno. «Per far riprendere al robot una conversazione dopo il riavvio, ho salvato parte dello stato usando una chiave legata al modulo d'identità. Quel modulo non permette di esportare le proprie chiavi. Non ho progettato un trasferimento della memoria a un'identità nuova.»
 
