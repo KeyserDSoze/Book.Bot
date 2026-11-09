@@ -8,8 +8,10 @@ and visual guide are the versioned masters; PNGs are build outputs.
 from __future__ import annotations
 import math
 import random
+import shutil
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
+import yaml
 
 INK = (17, 31, 44)
 INK2 = (28, 52, 68)
@@ -17,6 +19,7 @@ CREAM = (241, 234, 216)
 AMBER = (218, 158, 94)
 COOL = (137, 174, 184)
 OFF = (221, 229, 224)
+ART_ROOT = Path(__file__).resolve().parent.parent / "art"
 
 # Iconic object or image from the corresponding narrative arc, not portraits
 # invented afresh for each scene.
@@ -276,13 +279,63 @@ def render_cover(out_dir):
     im.save(path,optimize=True)
     return path
 
+def edition_assets(chapters: list[tuple[int, str]]) -> dict[str, Path]:
+    """Map approved art/ assets to their edition filenames.
+
+    Generated art stays the fallback for chapters without an explicit mapping.
+    This prevents unrelated photos, sketches or character references in art/
+    from silently appearing in the published novel.
+    """
+    manifest = ART_ROOT / "edition-assets.yml"
+    if not manifest.is_file():
+        return {}
+    data = yaml.safe_load(manifest.read_text(encoding="utf-8")) or {}
+    if not isinstance(data, dict):
+        raise ValueError(f"Invalid edition image manifest: {manifest}")
+    available = {int(number) for number, _ in chapters}
+    mapped = {}
+    if data.get("cover"):
+        mapped["cover.png"] = data["cover"]
+    chapter_images = data.get("chapters", {}) or {}
+    if not isinstance(chapter_images, dict):
+        raise ValueError("art/edition-assets.yml: chapters must be a mapping")
+    for chapter_number, filename in chapter_images.items():
+        try:
+            number = int(chapter_number)
+        except (TypeError, ValueError) as exc:
+            raise ValueError(f"Invalid chapter number: {chapter_number}") from exc
+        if number not in available:
+            raise ValueError(f"Art references a missing chapter: {number}")
+        mapped[f"chapter-{number:03d}.png"] = filename
+    resolved = {}
+    for target, relative in mapped.items():
+        if not isinstance(relative, str) or not relative:
+            raise ValueError(f"Invalid image path for {target}")
+        source = (ART_ROOT / relative).resolve()
+        if ART_ROOT.resolve() not in source.parents or source.suffix.lower() != ".png":
+            raise ValueError(f"Unsafe or unsupported image source: {relative}")
+        if not source.is_file():
+            raise FileNotFoundError(f"Edition image not found: {source}")
+        with Image.open(source) as picture:
+            picture.verify()
+            if picture.format != "PNG":
+                raise ValueError(f"Not a PNG file: {source}")
+        resolved[target] = source
+    return resolved
+
+
 def generate(out_dir: Path, chapters: list[tuple[int,str]]):
     out_dir=Path(out_dir)
     out_dir.mkdir(parents=True,exist_ok=True)
     render_cover(out_dir)
     for n,title in chapters:
         render_chapter(int(n),str(title),out_dir)
-    print(f"Generated {len(chapters)} chapter illustrations and a cover in {out_dir}")
+    overrides = edition_assets(chapters)
+    for filename, source in overrides.items():
+        shutil.copyfile(source, out_dir / filename)
+        print(f"Custom art: {source.relative_to(ART_ROOT)} -> {filename}")
+    print(f"Prepared {len(chapters)} chapter illustrations and a cover in {out_dir}; "
+          f"{len(overrides)} custom image(s)")
 
 if __name__=="__main__":
     from common import ROOT, chapter_dirs, load_document
