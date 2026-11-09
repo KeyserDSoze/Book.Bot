@@ -19,7 +19,7 @@ factions:
 
 Noah Carter non aveva più un badge valido per il laboratorio di Cyberdine.
 
-Lo sapeva. Lo aveva riconsegnato quando Leah Rosen aveva sospeso i suoi accessi, dopo la confessione sull'aggiornamento di B-17. Nessuno gli aveva comunicato di aver chiuso definitivamente l'accertamento e lui non aveva chiesto di riavere gli strumenti.
+Lo sapeva. Lo aveva riconsegnato quando Leah Rosen aveva sospeso i suoi accessi e, dopo l'indagine sulla modifica e sulla pubblicazione abusiva dei video, Cyberdine lo aveva licenziato. Ora lavorava per Veyra Labs con il nome professionale Evan North, ma il contratto con quella società non gli dava alcun diritto di rientrare negli ambienti operativi di Cyberdine. I due procedimenti sui dati restavano sotto accertamento.
 
 La chiamata arrivò la seconda sera del fermo.
 
@@ -31,9 +31,9 @@ Noah rimase in piedi vicino alla lampada smontata. Aveva finalmente comprato tut
 
 «Non posso dirtelo finché non vediamo le evidenze. Non ti sto chiedendo di entrare da remoto. Se accetti, ti mostreremo copie verificate.»
 
-«Perché richiamate proprio me?»
+«Perché richiamate proprio me? Sapete che lavoro per Veyra Labs.»
 
-Leah rimase in silenzio per un momento. «Perché c'è una frase di cui conosci il contesto di prova, ma non sappiamo se il testo che circola sia ancora quello. Ho chiesto a un consulente indipendente di approvare il perimetro del colloquio; ci saranno altre persone a controllare quello che dici.»
+Leah rimase in silenzio per un momento. «Perché c'è una frase di cui conosci il contesto di prova, ma non sappiamo se il testo che circola sia ancora quello. Il tuo rapporto con Veyra Labs sarà dichiarato. Ho chiesto a un consulente indipendente di approvare il perimetro del colloquio; ci saranno altre persone a controllare quello che dici.»
 
 «Non avete bisogno che io ammetta un'altra colpa.»
 
