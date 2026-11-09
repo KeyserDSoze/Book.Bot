@@ -9,7 +9,7 @@ canon: canon
 
 Responsabile della sicurezza informatica e della gestione degli incidenti di Cyberdine. Ha un modo asciutto di fare domande, evita sia il sensazionalismo sia le rassicurazioni prive di prova. Quando Noah Carter ammette un aggiornamento non autorizzato e una backdoor nel sistema di B-17, Leah preserva le evidenze, limita gli accessi aziendali e propone una verifica indipendente su dati e possibili violazioni di riservatezza.
 
-Non può certificare automaticamente che la backdoor non abbia esposto colloqui personali, né accedere ai sistemi della società che ora possiede B-17 senza consenso. La sua indagine non è un tutorial tecnico. Durante gli accertamenti iniziali Noah viene allontanato dagli accessi operativi; dopo la contestazione formale e le controdeduzioni, nel capitolo 16 Cyberdine ne termina il rapporto di lavoro. Le questioni su dati e responsabilità esterne proseguono.
+Non può certificare automaticamente che la backdoor non abbia esposto colloqui personali, né accedere ai sistemi della società che ora possiede B-17 senza consenso. La sua indagine non è un tutorial tecnico. Durante gli accertamenti iniziali Noah viene allontanato dagli accessi operativi; dopo la contestazione formale e le controdeduzioni, nel capitolo 13 Cyberdine ne termina il rapporto di lavoro. Le questioni su dati e responsabilità esterne proseguono.
 
 
 ## Capitolo 12
