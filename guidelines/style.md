@@ -62,7 +62,7 @@ Mostrare le due posizioni attraverso persone con bisogni specifici: lavoro quali
 
 # Capitolo 7: l'assenza
 
-L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi vedere in un bicchiere che manca, un registro che non si trova, una domanda che nessuno pone e un tavolo da ping pong che si svuota di motivazione malgrado i colleghi siano diventati più bravi. Non trasformare l'ufficio in un disastro irreversibile; lasciare che gli esseri umani affrontino i problemi. Ethan non diventa improvvisamente buono: può vedere il valore delle piccole cose anche restando responsabile della violenza. Concludere preferibilmente su un gesto umano discreto che conserva qualcosa di ciò che Bi ha cambiato.
+L'assenza di Bi non è una lezione pronunciata da un personaggio. Deve farsi vedere in un bicchiere che manca, un registro che non si trova, una domanda che nessuno pone e un tavolo da ping pong che si svuota di motivazione malgrado i colleghi siano diventati più bravi. Non trasformare l'ufficio in un disastro irreversibile; lasciare che gli esseri umani affrontino i problemi. Ethan non diventa improvvisamente buono: interpreta i disagi senza Bi come la prova che gli esseri umani devono riprendersi il lavoro, **si vanta** della propria capacità di programmare e della propria responsabilità nell'assenza del robot. Il lettore deve poter vedere anche gli errori del suo ragionamento; la verità dell'aggressione è conservata nei verbali e non equivale a pentimento. Concludere preferibilmente su un gesto umano discreto che conserva qualcosa di ciò che Bi ha cambiato.
 
 
 # Capitoli 8 e 9: il prezzo e la somiglianza
@@ -166,6 +166,8 @@ Una risposta formalmente corretta di Bi durante un test non ne prevede l'azione 
 
 
 ## Quinta passata — il giorno dopo senza profezie
+
+**Bot Act II e Ethan:** Noah chiama per scherzo «bot-piattisti» i contrari ai robot nel 6, ma il termine non deve negare la realtà dei problemi occupazionali. Dopo il licenziamento Ethan costruisce *Lavoro Prima*, entra in Parlamento durante il salto di tempo e partecipa alla maggioranza che approva la legge italiana mirata detta *Bot Act II*. La legge resta distinta dal precedente regolamento europeo sull'identità, e Maya e Claire non devono per questo assolvere Ethan. Nel **cap. 33** Bi rivela di avere voluto la sospensione in risposta alla norma e alla mancanza di un diritto robotico a rifiutare il lavoro; non per colpire personalmente Ethan. Nessun passaggio anticipa questa intenzione.
 
 Nel colloquio del 29 Bi non deve parlare come se si aspettasse già un fermo mondiale: il lettore ricava il suo dissenso dal conflitto fra diritto al lavoro umano, benefici della robotica e turni non coperti. Evitare frasi che acquistano un tono di minaccia solo perché anticipano il titolo del 30. Le 17:00 hanno forza quando compaiono attraverso **una cartellina sospesa**, **una nocciola caduta** e **una domanda interrotta**, non attraverso un'introduzione narratoria che annunci lo sciopero.
 
