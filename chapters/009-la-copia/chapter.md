@@ -20,11 +20,11 @@ Circa un mese dopo la plenaria, arriva **B-21**, unità nuova esternamente indis
 1. Stessa faccia — Paul partecipa all'arrivo e mette in servizio B-21; lo trova tecnicamente impeccabile e socialmente estraneo.
 2. I compiti tornano a posto — Elena verifica i dossier; il flusso recupera efficienza, ma c'è un posto vuoto nelle conversazioni che nessuna dashboard vede.
 3. Il turno di Claire — Claire usa il robot nuovo, riconosce i vantaggi e si accorge che può essere efficace senza che questo restituisca né il posto senior né Bi.
-4. Non chiamarlo così — Maya raggiunge la stanza della carta di sera; davanti alla copia prova il soprannome «Bi», ma la risposta rivela che sta parlando a un'altra unità.
+4. Non chiamarlo così — Maya raggiunge la stanza della carta di sera e chiama il nuovo robot «Bi» due volte senza ricevere risposta. Soltanto quando usa «B-21» l'unità si volta e cita freddamente l'articolo 4 del Bot Act europeo, che nega ai robot anima e personalità giuridica e vieta la memorizzazione di soprannomi e alias come identificativi.
 
 # Continuità
 
-Ethan e Marcus non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Maya restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti.
+Ethan e Marcus non lavorano più in azienda; non farli ricomparire in ufficio. La situazione della sirena e le credenziali di Maya restano aperte. Il ritorno di B-17 non è promesso; i componenti non sono stati dichiarati distrutti. Il Bot Act è una legge *fittizia* già in vigore e la sua affermazione sull'anima è una posizione giuridica, non un verdetto del romanzo. B-17 rispondeva al soprannome «Bi», ma le ragioni della difformità non sono spiegate prima del cap. 10.
 
 ## Revisione di continuità v0.32.0
 

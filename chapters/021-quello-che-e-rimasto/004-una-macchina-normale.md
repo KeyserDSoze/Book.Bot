@@ -92,13 +92,19 @@ Nel corridoio passò una collega che non conosceva la storia di B-17. Era stata 
 
 «Grazie, Bi», disse automaticamente alla macchina.
 
-B-21 si voltò.
+B-21 continuò a controllare il fascicolo che aveva in mano.
 
-«Il mio identificativo è B-21.»
+La collega rimase davanti a lui con le dita ancora posate sul bordo della cartellina.
 
-«Ah, scusa.»
+«B-21?»
 
-«Nessun problema.»
+L'unità sollevò la testa.
+
+«Unità B-21. Identificativo riconosciuto.»
+
+«Ah. Scusa.»
+
+«Richiesta ricevuta. Consegna completata.»
 
 La collega prese i fascicoli e uscì.
 

@@ -34,7 +34,7 @@ Il sopralluogo a Valle Corta si svolge e conferma l'esistenza delle quattordici 
 
 Nella plenaria Maya sente l'AD Victor Cole parlare della mancata riparazione di **«B-17»**, senza usare il nome «Bi». B-17 resta in custodia tecnica, il suo rientro non è previsto. Maya racconta al padre che ha usato il suo identificativo per le richieste di manutenzione; iniziano insieme una ricostruzione assistita, senza esito conclusivo. I sopralluoghi a Valle Corta confermano le quattordici case e la dismissione è ancora sospesa in attesa delle verifiche sulla copertura alternativa.
 
-Un mese dopo Maya incontra il nuovo B-21, identico nell'aspetto, cortese e capace nei compiti, ma estraneo alle loro confidenze. Nella stanza della carta lo chiama «Bi» e lui chiarisce di essere B-21 e non B-17. Maya ne rispetta il nome, comprendendo che la nuova unità non è il Bi che conosceva. Nessuna prova conclusiva di coscienza.
+Un mese dopo Maya incontra il nuovo B-21, identico nell'aspetto, cortese e capace nei compiti, ma estraneo alle loro confidenze. Nella stanza della carta lo chiama «Bi» due volte e l'unità non reagisce. Solo dopo che lei dice «B-21», il robot si volta, le cita l'articolo 4 del Bot Act europeo immaginario (divieto di nomi alternativi, negazione normativa dell'anima e della personalità giuridica) e torna al lavoro. Maya comprende quanto sia diverso da Bi, senza trattare la norma come prova definitiva sull'esistenza di una coscienza.
 
 
 ## Capitoli 12–14: la persona che può parlare e quella che non può rispondere

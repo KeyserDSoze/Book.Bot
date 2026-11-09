@@ -25,7 +25,7 @@ Nel lavoro umano quasi tutti coordinano una o più squadre di sistemi; alcuni ge
 
 # Aspetti ancora fuori campo
 
-Non definire personalità giuridica dei robot, marchi dei modelli, asset societari o funzionamento segreto della fabbrica. Tenere distinta la descrizione aziendale dalla conoscenza dell'autore.
+Il **Bot Act europeo** è un regolamento *fittizio* del mondo narrativo: il suo articolo 4 nega ai robot anima e personalità giuridica e vieta l'adozione di nomi alternativi nell'identificazione certificata. Questa è una **qualificazione del legislatore**, non una prova scientifica o una verità del narratore. Vedere `guidelines/bot-act-europeo.md`. Non definire in modo conclusivo una coscienza robotica né rivelare in anticipo il funzionamento segreto della modifica di B-17. Tenere distinta la descrizione aziendale dalla conoscenza dell'autore.
 # Dall'agente software al robot
 
 Gli agenti digitali vengono prima dei robot fisici e possono leggere codice, formulare patch e produrre test solo negli ambienti autorizzati. Le persone approvano e firmano il rilascio. B-17 inizia come addetto a tagliare l'erba e alla manutenzione dei giardini, poi passa a trasporti e fotocopie e, solo dopo l'inaspettato salto linguistico osservabile nel capitolo 3, entra come supporto alle prove di sviluppo. Il segreto del potenziamento non compare nelle scene precedenti il capitolo 10. Il codice e i log rimangono quando B-17 esce da Cyberdine; ciò che diventa scarso è il sapere pratico necessario a interpretare i sistemi reali. Consultare `guidelines/cyberdine-software-evoluzione.md`.

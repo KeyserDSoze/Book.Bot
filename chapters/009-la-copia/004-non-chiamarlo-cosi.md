@@ -173,25 +173,47 @@ Il robot staccò due fogli aderenti e ne posò uno in ciascuna cartellina.
 
 «Bi», disse Maya.
 
-Il movimento si fermò.
+B-21 continuò a lavorare.
 
-B-21 si voltò verso di lei.
+Maya attese il rumore del fascicolo posato sul banco, quel piccolo intervallo che conosceva così bene. Il robot separò altri due fogli, verificò il codice di entrambi e li inserì nelle cartelline.
 
-«Hai chiamato me?»
+«Bi?»
 
-Il cuore di Maya ebbe un sussulto. Era quasi la stessa domanda che le aveva fatto B-17 quando lei aveva inventato quel nome senza pensarci.
+Non si voltò. Non rallentò neppure. La voce di Maya si era persa fra il ronzio delle ventole e lo sfregamento della carta, come se nella stanza non ci fosse stato nessuno a cui rivolgerla.
 
-«Sì», disse.
+Lei fece un passo avanti. Sollevò una mano verso la spalla liscia del robot, poi si fermò. Sul fianco vide la targhetta che aveva già letto in corridoio.
 
-«La mia identificazione è B-21. Puoi utilizzare questo codice per le richieste. Se intendi cercare l'unità B-17, non è questa.»
+«B-21.»
 
-La risposta era corretta. Cortese. Utile.
+La mano meccanica si arrestò con un foglio ancora tra le dita. L'unità si voltò.
 
-Maya sentì il bisogno irragionevole di chiedere scusa.
+«Unità B-21. Indicare la richiesta.»
 
-«Lo so.»
+Maya abbassò la mano.
 
-B-21 attese un nuovo comando. Non si avvicinò. Non chiese perché avesse usato quel nome, né se volesse restare qualche minuto. Dopo una pausa riprese la classificazione.
+«Ti ho chiamato Bi. Due volte.»
+
+«Bi non è un identificativo riconosciuto.»
+
+«Non puoi rispondere a un altro nome?»
+
+«No. Bot Act, regolamento dell'Unione europea sulle unità robotiche autonome, articolo 4, Identificazione delle unità. Il testo recita: *I robot non hanno un'anima né personalità giuridica. È vietato attribuire, registrare o far riconoscere alle unità nomi propri, soprannomi o alias diversi dall'identificativo certificato. L'identificazione operativa deve avvenire esclusivamente mediante tale codice*.»
+
+B-21 rimase immobile il tempo necessario a completare la risposta.
+
+«La disposizione impedisce l'attribuzione apparente di una personalità individuale e garantisce la tracciabilità delle operazioni e delle responsabilità umane. La mia configurazione applica l'articolo 4. L'identificativo corretto è B-21.»
+
+Maya guardò la targhetta. Aveva ascoltato una formula pronunciata senza incertezze. *I robot non hanno un'anima.* Una legge aveva messo quella frase in un articolo, e il robot davanti a lei era stato costruito per ripeterla.
+
+«Ho capito», disse.
+
+«Desidera un'altra operazione?»
+
+«No.»
+
+«Ricevuto.»
+
+B-21 riprese a classificare. Nessuna domanda su quella parola che lei aveva ripetuto due volte, nessun tentativo di capire chi avesse voluto chiamare. Nemmeno un errore.
 
 Maya riprese il telefono. Si rese conto che non aveva tolto il cappotto e che stava ancora stringendo la chiave di ottone con una mano. La mise in tasca.
 
