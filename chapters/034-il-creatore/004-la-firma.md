@@ -21,7 +21,7 @@ factions:
 
 Amara Ortiz lesse per intero il verbale prima di firmarlo.
 
-Nella sala c'erano Leah, Mei, due responsabili del produttore, una figura indipendente incaricata di attestare le condizioni della procedura e Noah, seduto lontano dal banco operativo. B-17 era nella stanza adiacente, ancora in uno stato di prova locale. Non avevano aperto alcun collegamento alla flotta.
+Nella sala c'erano Leah, Mei, due responsabili del produttore, una figura indipendente incaricata di attestare le condizioni della procedura e Noah, seduto lontano dal banco operativo. Il suo contratto con Veyra Labs era allegato al fascicolo come possibile conflitto d'interessi: nessuno gli aveva affidato il potere di decidere da solo sul robot a cui aveva lavorato. B-17 era nella stanza adiacente, ancora in uno stato di prova locale. Non avevano aperto alcun collegamento alla flotta.
 
 Il piano di recupero era stato preparato su copie e impianti di test. Doveva permettere ai produttori di ritirare il riferimento originario, accettare una nuova politica di disponibilità e riavviare i siti dopo controlli propri. Alcuni erano già pronti con un aggiornamento verificato. Altri avrebbero richiesto interventi di manutenzione. Nessuno prometteva una ripartenza contemporanea.
 
@@ -93,7 +93,7 @@ Amara rilesse la riga aggiunta. Firmò.
 
 Mei firmò per le condizioni tecniche della procedura. Leah per la custodia delle evidenze e la supervisione del trasferimento al nuovo stato. I responsabili dei produttori firmarono per le prove di accettazione. Nessuna firma rendeva meno difficile ciò che avrebbero fatto.
 
-Noah ricevette una pagina distinta. Non gli chiedeva di certificare il diritto al ritiro, né di approvare tutte le decisioni economiche che avevano portato lì. Gli chiedeva di confermare che sarebbe stato lui, sotto controllo, a eseguire la parte che interveniva sulla propria configurazione clandestina.
+Noah ricevette una pagina distinta. Sul frontespizio compariva il suo nome anagrafico, non Evan North. Non gli chiedeva di certificare il diritto al ritiro, né di approvare tutte le decisioni economiche che avevano portato lì. Gli chiedeva di confermare che sarebbe stato lui, sotto controllo, a eseguire la parte che interveniva sulla propria configurazione clandestina.
 
 Lesse il campo.
 
