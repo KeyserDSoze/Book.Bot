@@ -26,7 +26,7 @@ Quel giorno aveva approvato una modifica simile in meno di dieci minuti.
 
 Un agente aveva scritto il codice, proposto le prove e riassunto le conseguenze. Ethan aveva controllato il confronto fra versioni, letto i risultati e premuto il tasto di revisione. Il responsabile gli aveva scritto *Ottimo lavoro*. Non era una bugia. Non gli aveva fatto piacere.
 
-Alla macchinetta del caffè trovò Mila, Paul e Marcus.
+Alla macchinetta del caffè trovò Mila, Paul e Marcus. Paul aveva ancora la custodia della racchetta sotto il braccio. Dal sabato della partita vera teneva sul telefono una tabella dei propri risultati contro Bi; Mila lo prendeva in giro per i servizi provati durante le pause. Ethan non aveva voluto aggiungere il proprio nome alla nuova classifica.
 
 «Non aprono la posizione di Margaret», disse, mostrando il messaggio.
 
