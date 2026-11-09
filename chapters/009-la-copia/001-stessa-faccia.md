@@ -41,6 +41,8 @@ Stesso colore opaco delle superfici. Stessa forma dei giunti. Stessa piccola lin
 
 Soltanto la targhetta laterale riportava **B-21**.
 
+Kyla gli aveva chiesto, prima del collaudo, di chiarire una volta per tutte quella numerazione. B era la sigla con cui Cyberdine censiva i propri bot, non la serie tecnologica del produttore: **B-1 era stato il vecchio centralino automatico**, un software in grado di trasferire chiamate e poco più. B-17 era il diciassettesimo sistema registrato; il nuovo B-21 era il ventunesimo. Il suo numero più alto non conteneva alcuna promessa di prestazioni superiori. A stabilire capacità e prezzo erano modello reale, componenti, licenze e contratto.
+
 «Fuori è la stessa serie», spiegò il tecnico. «Dentro è la versione economica: calcolo ridotto, pacchetto standard e un elenco ristretto di compiti. È ricondizionata e ricertificata per il vostro ambiente, non è un'unità con tutte le opzioni.»
 
 Paul si chinò per osservare l'attacco della spalla.

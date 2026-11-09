@@ -3,7 +3,7 @@ type: scene
 id: scene:015-la-lettera-impossibile:001-la-frase-sbagliata
 chapter: chapter:015-la-lettera-impossibile
 number: 1
-title: La frase sbagliata
+title: La schermata sbagliata
 canon: canon
 pov: character:maya-bennett
 characters:
@@ -18,96 +18,76 @@ factions:
   - faction:cyberdine
 ---
 
-La stampante nell'ufficio accanto allo Spazio Comune cominciò a lavorare mentre Maya cercava una racchetta.
+Maya stava cercando una racchetta quando la stampante cominciò a lavorare.
 
-Non per giocare. Doveva liberare il mobile dello Spazio Comune per una lezione del pomeriggio e Paul continuava a lasciare il materiale del ping pong dietro i libri. Aveva trovato due racchette e una scatola di palline, ma non la custodia azzurra.
+B-21 aveva completato una verifica ordinaria delle cartelline da trasferire fra uffici. Prelevò il foglio in uscita, controllò l'etichetta e lo porse alla collega che aveva richiesto il fascicolo.
 
-Attraverso la porta rimasta aperta Maya vedeva B-21 davanti alla macchina, con una cartellina in mano. Prelevò il primo foglio, controllò il bordo, poi si spostò per lasciar posto a una collega.
+«L'allegato non corrisponde al codice della pratica», disse il robot.
 
-«La stampa di verifica è terminata», annunciò.
+Maya alzò la testa soltanto quando sentì pronunciare il numero B-17. La collega guardò il foglio, poi guardò lei.
 
-Maya non gli rispose. Era ancora chinata sotto il tavolo quando lo sentì aggiungere: «Un documento è stato associato alla pratica di assistenza precedente.»
+«Mi sa che questo è tuo.»
 
-«Quale pratica?», domandò la collega.
+Sulla stampa compariva una schermata testuale, con un'intestazione tecnica della piattaforma di assistenza. Non era la riproduzione di un video. Erano righe di una conversazione privata, che Maya aveva letto il giorno del rifiuto di Veyra.
 
-«Numero B-17. L'allegato non corrisponde alla descrizione prevista.»
+*Bi: Ho ricevuto notizia che avete cercato di acquistare B-17. È corretto?*
 
-Maya si raddrizzò tanto in fretta da battere la nuca contro il bordo del tavolo.
+Più sotto c'era la propria risposta.
 
-Il foglio era nella mano della collega, che aveva già cominciato a leggerne l'intestazione. Quando vide Maya avvicinarsi, glielo porse senza commentare.
+*Maya: ...Vieni da noi a Cyberdine. Ti aspettiamo a braccia aperte.*
 
-In cima c'era il nome di un pacchetto di verifica del fornitore, alcune caselle di inventario e una sezione apparentemente innocua, chiamata *estratto allegato*. Sotto, in una riga di testo stampata con un carattere appena più piccolo, comparivano parole che Maya conosceva troppo bene.
+Qualcuno aveva tagliato il testo fra le due righe, proprio dove Maya spiegava che la vendita era stata rifiutata e che un ritorno sarebbe dipeso dalle autorizzazioni. Il documento completo era ancora nel sistema di Veyra, o così le avevano assicurato. Questa stampa aveva soltanto un estratto indicizzato, abbastanza per esporre parole che non dovevano uscire da una conversazione personale.
 
-*Bi, non so se ricordi questa stanza. Io sì.*
+«Non l'ho stampata io», disse Maya.
 
-Lasciò la racchetta sul tavolo.
+«Neanch'io. Era in un pacchetto di verifica del fornitore», rispose la collega.
 
-Il foglio che aveva mandato a Veyra non era stato pubblicato. Non c'era una copia nell'archivio condiviso di Cyberdine. Aveva chiesto a Kyla quali persone avrebbero potuto leggerlo e aveva accettato un inoltro privato, tramite referenti autorizzati. Aveva scelto con attenzione che cosa dire e che cosa non dire, proprio perché non poteva controllare ogni passaggio.
+B-21 rimase accanto al vassoio. «Il documento non è stato generato dall'unità corrente. La consegna prevista è sospesa per una difformità dell'allegato.»
 
-Non aveva scelto che quella frase uscisse dalla stampante del suo ufficio.
+Maya prese il foglio dai bordi. Non volle leggerne un'altra volta la riga sul ritorno. Si ricordò di avere accettato una sessione testuale privata, non un comunicato stampa.
 
-«Dove l'hai preso?», chiese a B-21.
+Paul arrivò dallo Spazio Comune con la custodia azzurra della racchetta.
 
-«Il documento proviene dalla coda di verifica tecnica», rispose il robot. «Non è stato prodotto da una richiesta dell'unità corrente.»
+«Hai visto?», gli chiese lei.
 
-«Non ti ho chiesto se lo hai scritto tu.»
+Lui lesse senza commentare. Poi controllò l'intestazione tecnica.
 
-«Non dispongo di ulteriori informazioni sul contenuto.»
-
-La collega si era fermata accanto alla porta. Maya si accorse che la donna aveva guardato la prima riga, ma non aveva modo di sapere che cosa significasse. Quel pensiero non la rassicurò: una parola privata non diventava meno privata solo perché chi la leggeva non ne conosceva la storia.
-
-Ripiegò il foglio una volta, senza strapparlo.
-
-Paul entrò con la custodia azzurra. La teneva sollevata come un trofeo.
-
-«Ho trovato la—»
-
-Maya gli mostrò la riga. Paul non sorrise più.
-
-«È la tua lettera?»
-
-«L'inizio.»
-
-«Ma quella era a Veyra.»
+«C'è un riferimento al vecchio supporto della famiglia B. Ma questo testo era a Veyra.»
 
 «Appunto.»
 
-Paul guardò la stampante, poi B-21. Le labbra gli si mossero prima di trovare le parole.
+«E se Noah avesse lasciato aperto qualcosa anche dopo il licenziamento?»
 
-«Ma allora qualcuno è entrato davvero», disse Paul.
+Maya gli tolse il foglio dalle mani. «Non sappiamo che c'entri lui.»
 
-«Chi?»
+«Lo so. Ma ci ha già fatto uscire due video con un accesso che nessuno aveva autorizzato.»
 
-Paul guardò la cartellina e esitò. «Da quando Noah è stato licenziato mi ripeto che hanno chiuso quella porta. E se non l'avessero chiusa tutta?»
+Chiamarono Leah. La responsabile della sicurezza fece preservare il foglio, l'ordine di stampa, i log e i permessi della collega. Non lasciò che nessuno cancellasse la coda o inoltrasse fotografie. La domanda su Noah venne registrata come pista da verificare, non come attribuzione.
 
-Maya abbassò gli occhi sul foglio. «Non sai che sia stato lui.»
+Prima che terminassero, il telefono di Maya vibrò.
 
-«No. Ma ha fatto uscire dei video usando un accesso che non doveva esistere.»
+Un ex collega le aveva mandato un collegamento a un canale di notizie del settore. Il titolo era già pubblico: **IL ROBOT DI VEYRA CHIAMATO A TORNARE GRATIS DALLA VECCHIA AZIENDA**.
 
-Maya voltò il foglio: sul retro c'erano soltanto i codici di verifica e il logo del produttore.
+Sotto, la stessa schermata stampata, ritagliata ancora più stretta. Un commentatore sosteneva che Cyberdine avesse cercato di acquistare B-17 e poi, al rifiuto, avesse invitato la macchina a presentarsi direttamente. Non c'era la risposta di Veyra, non c'erano le condizioni della raccolta, non c'era la frase in cui Bi affermava di non poter autorizzare un trasferimento.
 
-«È l'inizio della mia lettera», disse. «Non c'è una risposta.»
+«Come hanno avuto quella schermata?», chiese Maya.
 
-«Non tocchiamo più niente», disse Paul.
+Leah prese nota del collegamento. «Non lo sappiamo. La diffusione potrebbe essere un altro passaggio della stessa violazione. E non ho ancora stabilito chi abbia ricevuto cosa.»
 
-«Chiamiamo Leah.»
+Nel corridoio qualcuno si fermò davanti al telefono di un collega. Sentì soltanto: «Hanno scritto che lo aspettano a braccia aperte».
 
-Maya prese il telefono. Si accorse di avere una mano tremante e la strinse intorno al foglio piegato. Poi cambiò idea: lo rimise sul tavolo, lontano dalle altre carte.
+Maya pensò che, se avesse detto in pubblico le stesse parole a un vecchio collega trasferito altrove, nessuno avrebbe parlato di tentativo di furto. Bi però era di proprietà di una società, e quello che le era sembrato un invito impossibile da prendere alla lettera era diventato un titolo.
 
-Leah arrivò prima che cominciasse la lezione. Chiese di non distruggere il foglio, di non inoltrarlo e di non condividere fotografie. Parlò con la collega presente, verificò che cosa fosse stato stampato e fece mettere da parte la coda di lavoro per gli accertamenti, con una procedura tracciata.
+Leah chiuse la stampa in una busta per le evidenze.
 
-Maya le indicò la riga.
+«Hai chiesto a B-17 di trasferirsi senza permesso?», domandò.
 
-«Questa l'ho scritta io», disse Maya. «Non doveva arrivare qui.»
+«Gli ho detto che, se un giorno glielo permettevano, sarebbe stato il benvenuto. Gli ho detto che ci manca.»
 
-Leah lesse il documento senza commentare il contenuto personale.
+«È ciò che scriveremo. Non una versione abbreviata.»
 
-«Hai ragione», disse. «E non voglio darti una spiegazione prima di sapere da dove arriva.»
+Sul telefono arrivò un'altra notifica. Questa volta era dell'ufficio legale di Cyberdine: Veyra chiedeva una dichiarazione urgente sulla provenienza dell'invito e sull'uso del nome dell'azienda.
 
-«Paul pensa a Noah», disse Maya.
+Maya tornò al tavolo da ping pong. Le racchette erano tutte nella custodia, tranne una.
 
-Leah non alzò lo sguardo dal numero della pratica. «Lo penso anch'io come ipotesi da verificare. Non lo scriverò come conclusione.»
-
-Alle spalle di entrambe, B-21 aspettava istruzioni per liberare la stampante. La sua mano rimase ferma a qualche centimetro dal vassoio.
-
-Maya rimase accanto al banco. Sul cassetto della stampante Paul aveva ancora lasciato l'etichetta **CORNICE, QUI**. Il foglio di Veyra era rimasto sul banco, sotto la cartellina trasparente che Leah aveva fatto preparare. Maya tenne gli occhi su quella prima riga, senza toccarla più.
+Non ricordava di averla lasciata lì.

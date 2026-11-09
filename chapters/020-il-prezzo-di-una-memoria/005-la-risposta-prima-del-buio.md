@@ -27,7 +27,7 @@ Amara Ortiz vi aveva scritto il proprio.
 
 Nina trovò quella firma più importante di tutte le formule tecniche che aveva letto quella mattina. Non rendeva migliore o peggiore il destino di B-17. Indicava soltanto chi, quando sarebbe arrivata una telefonata degli sponsor, non avrebbe potuto dire che la scelta era stata presa dalla macchina.
 
-Prima della sospensione definitiva della sessione locale avevano ottenuto l'autorizzazione per un ultimo incontro mediato. Nessun collegamento esterno diretto con B-17; nessuna riapertura dell'accesso clandestino. La comunicazione sarebbe stata raccolta in un ambiente di prova controllato, trascritta da una persona e inoltrata al referente indicato da Maya, a condizione di indicare esattamente chi la pronunciava e chi la trasmetteva. Non costituiva un precedente generale per il diritto di corrispondenza dei robot. Era una decisione singola, registrata a nome dei responsabili umani.
+Prima della sospensione definitiva della sessione locale avevano ottenuto l'autorizzazione per un ultimo incontro mediato. La causa civile avviata da Veyra contro Cyberdine non aveva impedito ad Amara di consentire un messaggio personale, ma questa volta il legale aveva chiesto che il canale e la sua autorizzazione fossero documentati in modo inequivocabile. Nessun collegamento esterno diretto con B-17; nessuna riapertura dell'accesso clandestino. La comunicazione sarebbe stata raccolta in un ambiente di prova controllato, trascritta da una persona e inoltrata al referente indicato da Maya, a condizione di indicare esattamente chi la pronunciava e chi la trasmetteva. Non costituiva un precedente generale per il diritto di corrispondenza dei robot. Era una decisione singola, registrata a nome dei responsabili umani.
 
 Nina non aveva chiesto che l'interazione diventasse un video.
 
@@ -37,9 +37,9 @@ Quando entrò nella sala, B-17 era in piedi accanto al banco di controllo. La sp
 
 «Ricevuto.»
 
-«Ti ricordi la sua domanda?»
+«Ti ricordi l'ultima cosa che ti ha scritto nella chat?»
 
-«Mi ha chiesto come sto.»
+«Mi ha invitato a tornare a Cyberdine, se fosse autorizzato. Ha detto che mi aspettavano a braccia aperte.»
 
 Nina annuì.
 
@@ -53,7 +53,7 @@ Il robot non parlò subito. L'indicatore sul banco mostrò che stava elaborando 
 
 Nina stava per chiudere la registrazione quando B-17 aggiunse:
 
-«Maya mi aveva chiesto una rivincita dopo una partita. Non l'abbiamo ancora giocata.»
+«Maya ha scritto che il tavolo da ping pong è ancora a Cyberdine. Avevamo una rivincita da giocare. Non l'abbiamo ancora giocata.»
 
 Nina rimase ferma.
 
@@ -103,7 +103,7 @@ Un tecnico applicò sul banco un'etichetta: **Verifica indipendente in corso —
 
 Nina raccolse la cartellina.
 
-Sul telefono comparve una conferma di lettura del messaggio. Poco dopo, attraverso lo stesso canale, arrivò la risposta di Maya.
+Sul telefono comparve una conferma di lettura del messaggio. Poco dopo, attraverso lo stesso canale autorizzato e limitato a quella comunicazione, arrivò la risposta di Maya.
 
 *Grazie. La racchetta è ancora qui.*
 

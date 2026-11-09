@@ -25,7 +25,7 @@ Sotto c'era una fotografia della vecchia cornice magnetica sulla fotocopiatrice.
 
 Claire rimase sulla parola *ricostruire*.
 
-La posizione di Margaret non era stata ricostruita. Il suo contratto continuava, sì, ma da settimane lei cercava opportunità senior in altre aziende e non riceveva risposte altrettanto concrete del proprio lavoro. Nella cartella privata conservava ancora i trentaquattro esempi preparati per il colloquio che Cyberdine non aveva mai aperto. Li usava per presentarsi altrove. Nessuno di quei file era diventato inutile soltanto perché il posto per cui li aveva raccolti era scomparso. Nel frattempo il nuovo robot B-21 compilava dossier impeccabili anche grazie alle procedure che aveva scritto lei.
+La posizione di Margaret non era stata ricostruita. Il suo contratto continuava, sì, ma da settimane lei cercava opportunità senior in altre aziende e non riceveva risposte altrettanto concrete del proprio lavoro. Nella cartella privata conservava ancora i trentaquattro esempi preparati per il colloquio che Cyberdine non aveva mai aperto. Li usava per presentarsi altrove. Nessuno di quei file era diventato inutile soltanto perché il posto per cui li aveva raccolti era scomparso. Nel frattempo gli agenti software preparavano dossier che lei e altri dovevano verificare, mentre il nuovo B-21 trasportava le cartelline. Era un modello base, molto economico: l'azienda non si era potuta permettere né la riparazione di Bi né un sostituto con le sue capacità.
 
 Sul lato destro della pagina compariva la cifra obiettivo: **100.000 euro**.
 
@@ -47,7 +47,7 @@ Paul abbassò il foglio che teneva in mano.
 
 «Stiamo cercando di capire se è possibile.»
 
-«È una cifra che in molte aziende basterebbe a coprire per un bel po' il costo del lavoro di una persona. Forse un anno, secondo il ruolo e gli oneri. Vi rendete conto che stiamo raccogliendo questi soldi per la stessa macchina che ha reso possibile non aprire un posto come quello che desideravo?»
+«È una cifra che Cyberdine non è nemmeno riuscita a trovare per la riparazione», disse Claire. «E in molte aziende basterebbe a coprire per un bel po' il costo del lavoro di una persona. Forse un anno, secondo il ruolo e gli oneri. Vi rendete conto che stiamo raccogliendo questi soldi per la stessa macchina che ha reso possibile non aprire un posto come quello che desideravo?»
 
 Maya appoggiò entrambe le mani sul tavolo.
 
@@ -69,7 +69,7 @@ Maya guardò la custodia delle racchette.
 
 La domanda rimase tra loro più a lungo di quanto Claire avesse previsto.
 
-«Vorrei che Bi non fosse venduto un'altra volta soltanto perché qualcuno può guadagnare di più mettendolo in un posto diverso», rispose Maya. «Non so ancora come si impedisca a qualcuno di deciderlo. So soltanto che noi possiamo provare a fare un'offerta.»
+«Vorrei che Bi non fosse venduto un'altra volta soltanto perché qualcuno può guadagnare di più mettendolo in un posto diverso», rispose Maya. «E vorrei che Victor capisse che il nostro problema non si risolve con i tagli. I nuovi concorrenti ci battono perché hanno cambiato il modo di lavorare. Con Bi avevamo cominciato a farlo sul serio. Non si tratta di far sparire Claire: si tratta di darle, e di dare a tanti altri, strumenti per costruire commesse che oggi perdiamo.» «Non so ancora come si impedisca a qualcuno di deciderlo. So soltanto che noi possiamo provare a fare un'offerta.»
 
 Claire si sedette.
 
@@ -89,7 +89,7 @@ Claire guardò la pagina aperta sul telefono. I primi impegni arrivavano da coll
 
 Nessuno aveva promesso di rinunciare a una posizione per finanziare l'acquisto.
 
-«Perché non raccogliete soldi anche per una formazione vera dei dipendenti?», chiese.
+«Perché non raccogliete soldi anche per una formazione vera dei dipendenti?», chiese. «Se Bi torna e nessuno sa più capire il codice sottostante, saremo solo più dipendenti da lui.»
 
 Paul si sedette accanto a lei.
 

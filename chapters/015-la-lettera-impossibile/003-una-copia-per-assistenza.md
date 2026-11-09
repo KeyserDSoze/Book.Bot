@@ -3,7 +3,7 @@ type: scene
 id: scene:015-la-lettera-impossibile:003-una-copia-per-assistenza
 chapter: chapter:015-la-lettera-impossibile
 number: 3
-title: Una copia per assistenza
+title: La domanda di Veyra
 canon: canon
 pov: character:nina-solis
 characters:
@@ -17,104 +17,78 @@ factions:
   - faction:lanter-robotics
 ---
 
-La persona che aveva mandato la lettera al produttore si chiamava Henry ed era il più bravo dell'ufficio amministrativo a risolvere problemi che non avevano una casella.
+Henry aveva già capito di avere fatto un errore quando Nina lo raggiunse.
 
-Nina lo trovò davanti alla finestra del magazzino, con il tablet aperto e un pacco destinato alla mensa in mano.
+Il suo compito era trovare una risposta per ogni richiesta amministrativa senza trasformarla in un nuovo contratto. Alla piattaforma Lanter aveva chiesto come registrare una chat generata da un robot e indirizzata a una persona che non era sua cliente.
 
-«Hai parlato con Lanter?», chiese.
+«Ti avevo detto di usare un esempio inventato», disse Nina.
 
-«Sì. Per la questione del mittente.»
+Henry aprì il ticket. C'era il codice di B-17, una domanda sui permessi di risposta e un allegato contenente parte della conversazione originale di Maya. La casella *utilizzabile per la diagnostica della famiglia di unità* era stata selezionata automaticamente dalla piattaforma.
 
-«Hai allegato il testo completo di Maya?»
+«L'esempio anonimo era stato respinto perché non spiegava il problema», disse. «Ho pensato che le frasi vere chiarissero che il robot aveva scritto per primo.»
 
-Lui guardò il tablet, poi il pacco. Per un momento sembrò chiedersi se potesse posarlo da qualche parte.
-
-«Hanno detto che serviva un esempio della richiesta.»
-
-«Te ne avevo chiesto uno anonimo.»
-
-«Ne avevo preparato uno, ma non capivano perché il robot volesse rispondere a una domanda personale. Ho pensato che vedere la lettera avrebbe chiarito il contesto.»
-
-«Hai chiesto a Maya se potevi farla leggere a un'altra azienda?»
-
-Henry abbassò lo sguardo.
+«Hai chiesto a Maya il permesso di farle leggere a un altro produttore?»
 
 «No.»
 
-Nina prese il tablet. La pratica di assistenza conteneva il nome dell'unità, il problema dell'invio e, come allegato, la lettera in formato leggibile. Una piccola casella, selezionata per impostazione predefinita, autorizzava l'uso dei materiali del ticket nella diagnostica della famiglia di prodotti. Non era una liberatoria valida per Maya. Nina gli aveva chiesto un esempio inventato, ma Henry aveva scelto di inviare la lettera per risolvere più in fretta la richiesta. La casella predefinita aveva allargato ulteriormente il percorso del documento, senza che questo rendesse legittima la sua scelta.
+«Hai verificato chi potesse recuperare gli estratti di quel ticket?»
 
-«Dobbiamo correggerlo subito», disse Nina.
+Henry abbassò gli occhi. «No.»
 
-«Posso cancellare il file.»
+Nina fotografò soltanto la schermata di tracciamento, secondo la procedura di conservazione concordata. Non cancellò l'allegato: avrebbe nascosto la prova della violazione, non la violazione stessa. Chiese che l'accesso fosse limitato e il materiale classificato correttamente.
 
-«Non prima di conservarne le tracce e sapere chi l'ha ricevuto. Non risolveresti il problema facendo sparire la prova.»
+Amara Ortiz arrivò con una copia dell'articolo pubblicato quella mattina. La fotografia della chat era identica al frammento che Henry aveva allegato.
 
-«Posso chiamare Maya e chiederle scusa?»
+«Vogliono farci passare per un'azienda che ha perso il controllo del proprio robot», disse.
 
-«Prima le comunichiamo i fatti attraverso il referente che ha autorizzato l'invio», rispose Nina. «Poi sarà lei a decidere se parlare con te. Intanto ho bisogno che tu mi consegni la sequenza delle operazioni che hai fatto, compresa la casella che era già selezionata.»
+«Abbiamo perso il controllo di una comunicazione privata», rispose Nina. «È questo l'incidente che possiamo dimostrare.»
 
-Henry posò finalmente il pacco della mensa. Aprì la cronologia del ticket davanti a lei. Non cercò di cancellare la spunta.
+«Cyberdine ha cercato di acquistarlo e poi una sua dipendente gli ha scritto di tornare gratis.»
 
-Henry aprì la bocca, poi la richiuse. Il pacco della mensa rimase sul davanzale, ancora da consegnare.
+«La dipendente non rappresentava la società. E la sessione l'abbiamo autorizzata noi, sapendo che era un messaggio personale. B-17 ha risposto che non poteva trasferirsi.»
 
-Nina chiamò Amara. La direttrice venne in amministrazione portandosi ancora dietro la giacca del campo.
+Amara posò il foglio sulla scrivania. Non ignorava la differenza. Ma gli sponsor e i partner stavano già chiedendo se il Circuito avesse ancora la disponibilità esclusiva del robot. Gli obblighi contrattuali dipendevano anche da questo.
 
-«Abbiamo inviato una lettera privata al produttore senza il consenso necessario», disse Nina.
+Il legale era al telefono.
 
-Amara non domandò se fosse un errore grave. Chiese quali sistemi avessero ricevuto l'allegato, quali clienti potessero avervi accesso e quali misure il produttore potesse adottare senza cancellare le evidenze.
+«Possiamo depositare un ricorso civile contro Cyberdine e chiedere misure urgenti per fermare qualsiasi sollecitazione al trasferimento o uso improprio del nome del Circuito», disse. «Non possiamo promettere che il giudice lo accolga. L'iniziativa dei dipendenti non risulta autorizzata formalmente dalla società, e il testo della conversazione non è un ordine operativo.»
 
-«Non abbiamo ancora risposte», disse Nina.
+«Depositare una domanda è diverso da vincerla», rispose Amara. «Lo so. Voglio comunque che sia depositata. Non permetterò che i nostri contratti vengano messi in discussione senza una risposta formale.»
 
-«Allora chiediamole. E informiamo la persona che ha scritto la lettera, attraverso il canale che ha autorizzato. Non voglio che lo venga a sapere da un video.»
+Nina la fissò.
 
-La telefonata con Lanter durò più del previsto. Un operatore spiegò che la piattaforma aveva un indice comune per alcune descrizioni di compatibilità tra modelli, anche se i documenti integrali dovevano rimanere isolati per cliente. Era possibile che un estratto fosse stato associato al codice della famiglia B invece che alla pratica specifica di Veyra. Nello stesso arco di tempo risultava una richiesta proveniente da un IP esterno che l'operatore non sapeva attribuire.
+«Allora nel ricorso ci deve essere anche la parte che non ci conviene», disse. «La chat era stata autorizzata da Veyra. Non potete far credere che Cyberdine abbia aperto una porta nei nostri sistemi.»
 
-«Chi ha fatto questa scelta? E chi è la persona dietro quell'indirizzo?», chiese Amara.
+«Il legale la includerà», disse Amara.
 
-«Non lo sappiamo ancora. Potrebbe essere una persona, un servizio o un passaggio intermedio. Dobbiamo verificare i percorsi documentali, non soltanto una schermata.»
+«E Maya deve sapere che la sua conversazione è stata diffusa perché qui abbiamo allegato un testo che doveva rimanere privato.»
 
-«Una risposta corretta», disse Amara, «ma non sufficiente. Voglio che ci comunichiate chi può vedere il testo, non soltanto che siete dispiaciuti.»
+Amara autorizzò la comunicazione tramite il referente scelto da Maya. Poi chiese a Henry la sequenza completa delle operazioni. Non voleva che una scusa sostituisse il tracciamento.
 
-Terminata la chiamata, Nina uscì nel corridoio tecnico. B-17 era seduto su una postazione di controllo, con la spalla destra collegata a un sensore esterno. Un tecnico verificava la temperatura degli attuatori prima della prossima prova locale.
+La telefonata con Lanter durò un'ora. Mei Lin confermò che il documento completo era rimasto nella pratica di Veyra, ma l'indicizzazione aveva reso visibile un estratto ad altri clienti. Poco prima risultava la richiesta da un IP esterno non attribuito. Nessuna delle due società era in grado, per quel momento, di spiegare chi avesse diffuso la schermata al canale di notizie.
 
-«Diciassette», disse Nina.
+Nina aprì una segnalazione separata sulle modalità di sviluppo di un modulo conversazionale sperimentale che utilizzava esempi raccolti da B-17. Non voleva far confluire la violazione della chat nella disputa tecnica sulla provenienza di quei dati.
 
-«Sì?»
+Più tardi raggiunse il laboratorio.
 
-«La risposta a Maya non è ancora stata inviata.»
+«B-17», disse. «La tua comunicazione con Maya è stata diffusa senza autorizzazione. Stiamo verificando i passaggi.»
 
-«Ricevuto.»
-
-«Abbiamo anche un problema con la gestione della lettera che ti è stata consegnata.»
-
-«Quale problema?»
-
-Nina esitò. Non aveva un modo semplice di spiegargli la riservatezza senza fare supposizioni su che cosa la macchina potesse capire o sentire. Optò per un fatto.
-
-«Una copia è stata inviata a persone che Maya non aveva autorizzato a leggerla. Stiamo cercando di limitarne la circolazione.»
-
-B-17 rimase fermo.
-
-«La comunicazione originale aveva un vincolo di diffusione», disse.
+«La sessione era indicata come privata», disse il robot.
 
 «Sì.»
 
-«Il vincolo non è stato rispettato.»
+«Le condizioni non sono state rispettate.»
 
 «No.»
 
-Il tecnico alzò lo sguardo. Nina gli fece cenno di continuare.
+«Maya ha ricevuto una nuova comunicazione?»
 
-«La mia risposta può essere trasmessa senza rendere pubblica quella lettera?», chiese B-17.
+«Le abbiamo scritto tramite il suo referente. Non sappiamo se desidererà parlarti ancora.»
 
-Era una domanda ragionevole, vicina ai compiti con cui un sistema conversazionale avrebbe potuto elaborare un problema di privacy. Nina sentì però tutta la difficoltà di ciò che stava chiedendo: non sapevano neppure garantire il primo passaggio.
+B-17 rimase fermo accanto al banco, con la spalla in verifica.
 
-«Lo stiamo verificando», disse.
+Sul telefono di Nina arrivò un aggiornamento dai legali: la richiesta giudiziale contro Cyberdine era stata **depositata**. Non c'era alcuna decisione del giudice.
 
-B-17 rivolse la testa verso il banco. Il tecnico segnalò che la misurazione era conclusa.
+Nina guardò la notifica, poi il robot. Una società aveva fatto causa a un'altra perché una persona aveva detto a una macchina che le mancava.
 
-Sul tablet di Nina apparve intanto un messaggio di Amara: il produttore aveva nominato una responsabile qualità per analizzare l'errore di assistenza. Si chiamava Mei Lin.
-
-Nina aprì la scheda del contatto. Nella descrizione della riunione figuravano due punti, non uno: **separazione dei documenti clienti** e **provenienza di una configurazione conversazionale sperimentale**.
-
-Non le piaceva che fossero finiti nello stesso appuntamento. Nel campo di prova, quando due allarmi suonavano insieme, il modo più rapido per fare un errore era considerarli lo stesso allarme.
+E la macchina era stata la prima a scriverle.

@@ -16,13 +16,13 @@ pov:
 
 1. L'unità che non conviene spegnere — Amara deve scegliere tra contratti, sicurezza e verifica del sistema originario di B-17.
 2. Ciò che resta dopo — Mei non promette che il ripristino preservi le capacità conversazionali; una verifica congiunta rivela che l'IP ignoto di cap. 15 era un intermediario usato da un **cavallo di Troia lasciato da Noah**, oltre agli errori di custodia di Henry e di classificazione di Lanter.
-3. Un errore che non si cancella — Noah ammette la paternità del componente occulto, non di aver mirato alla lettera di Maya, scritta molto dopo. Sotto supervisione documenta altri suoi errori e il rischio per la memoria di Bi; nessun accesso o assoluzione automatica.
+3. Un errore che non si cancella — Noah ammette la paternità del componente occulto, non di aver mirato alla chat privata tra Maya e Bi, avvenuta molto dopo. Sotto supervisione documenta altri suoi errori e il rischio per la memoria di Bi; nessun accesso o assoluzione automatica.
 4. La valle non è il ponte — Maya affronta con il padre il costo di conservare un sistema familiare senza poterlo dichiarare sicuro.
 5. La risposta prima del buio — B-17 rimane temporaneamente fuori servizio per verifica; una comunicazione privata mediata viene finalmente recapitata, senza riconoscimento automatico di diritti o coscienza.
 
 # Guardrail
 
-Non confondere sospensione cautelativa con smantellamento, reset definitivo o morte del robot. Maya non ha autorità tecnica per imporre una scelta sulla macchina altrui. Proprietà, privacy, sicurezza e possibilità di preservare dati restano temi distinti. La lettera di risposta deve arrivare legittimamente e con mediazione dichiarata, non attraverso la backdoor. Il componente occulto **non coincide con** il modulo commerciale Collaborazione Contestuale di Lanter e non permette a Noah di comandare flotte. La prova della sua origine non equivale a prova che Noah abbia scelto la specifica estrazione della lettera. La sirena di Valle Corta e il caso Noah restano aperti.
+Non confondere sospensione cautelativa con smantellamento, reset definitivo o morte del robot. Maya non ha autorità tecnica per imporre una scelta sulla macchina altrui. Proprietà, privacy, sicurezza e possibilità di preservare dati restano temi distinti. Il **secondo** messaggio a Maya arriva con mediazione documentata e canale autorizzato, dopo la chat già iniziata da Bi nel 14: non è la prima volta che Bi comunica con Maya a distanza. La causa Veyra–Cyberdine è ancora una controversia, non un divieto assoluto di scambiare parole private. Nessuna backdoor. Il componente occulto **non coincide con** il modulo commerciale Collaborazione Contestuale di Lanter e non permette a Noah di comandare flotte. La prova della sua origine non equivale a prova che Noah abbia scelto la specifica estrazione della chat. La sirena di Valle Corta e il caso Noah restano aperti.
 
 
 ## Diciannovesima review — la richiesta non aveva un prezzo

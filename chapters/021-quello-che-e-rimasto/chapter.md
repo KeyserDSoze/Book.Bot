@@ -20,7 +20,7 @@ pov:
 
 # Guardrail
 
-La sessione di B-17 non certifica la configurazione e non autorizza la ripresa del normale impiego. Nessuna funzione motoria o canale esterno clandestino viene riaperto. La replica di Maya è consegnata solo durante la sessione mediata; il nuovo inoltro richiesto dal robot resta soggetto a verifica. Nessuna prova di coscienza e nessuna soluzione miracolosa. B-21 non contiene la memoria di Bi; la posizione senior di Claire rimane non riaperta.
+La sessione di B-17 non certifica la configurazione e non autorizza la ripresa del normale impiego. Nessuna funzione motoria o canale esterno clandestino viene riaperto. La risposta più recente di Maya («La racchetta è ancora qui») è consegnata solo durante la sessione mediata; il nuovo inoltro richiesto dal robot resta soggetto a verifica. Nessuna prova di coscienza e nessuna soluzione miracolosa. B-21 non contiene la memoria di Bi; la posizione senior di Claire rimane non riaperta.
 
 
 ## Diciannovesima review — Maya non è il collaudo; Paul non è il firmatario

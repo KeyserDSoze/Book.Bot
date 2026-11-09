@@ -40,7 +40,11 @@ Leïa sorrise. «È questa la grande automazione?»
 
 «Quella è una delle piccole», rispose Kyla. «Unità B-17. Sta imparando le manutenzioni del giardino. I giardinieri hanno chiesto che i robot iniziassero da qui, dove un errore si vede subito e non ferma il lavoro di un cliente.»
 
-Sahir cercò il codice sul torace metallico. «Non costruite voi gli umanoidi, quindi?»
+Sahir cercò il codice sul torace metallico. «Diciassette significa che è la diciassettesima versione?»
+
+«No, è il diciassettesimo bot registrato nella nostra anagrafica. Da noi B vuol dire semplicemente *bot*: può essere un programma o una macchina fisica, purché abbia un'identità operativa propria. B-1 era il nostro centralino automatico, costruito anni fa: rispondeva alle chiamate, le smistava secondo un menu e faceva poco altro. Ma per i registri era già un'entità distinta. Diciassette è arrivato molto dopo, da un produttore esterno.»
+
+«Quindi non costruite voi gli umanoidi?»
 
 «No. Arrivano da Lanter, in Cina. Cyberdine è una software house. Noi scriviamo ciò che permette ai sistemi dei nostri clienti di lavorare insieme: quelli nuovi, quelli che nessuno vuole più toccare e quelli che funzionano troppo bene per permettersi di sostituirli.»
 

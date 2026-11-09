@@ -32,11 +32,11 @@ Adesso non sapeva nemmeno a chi si riferisse quel *noi*.
 
 Leah gli mostrò anche un verbale ricevuto dopo il confronto fra i registri del produttore, del proprietario e di Cyberdine.
 
-«Abbiamo identificato qualcosa che mancava alla prima ricostruzione», disse. «La richiesta esterna che ha preceduto la fuga della lettera proveniva da un componente clandestino introdotto insieme al tuo aggiornamento. Era mascherato da diagnostica. Hai lasciato tu quel codice?»
+«Abbiamo identificato qualcosa che mancava alla prima ricostruzione», disse. «La richiesta esterna che ha preceduto la fuga della chat fra B-17 e Maya proveniva da un componente clandestino introdotto insieme al tuo aggiornamento. Era mascherato da diagnostica. Hai lasciato tu quel codice?»
 
-Noah non chiese di vedere la lettera. Guardò la data del vecchio file.
+Noah non chiese di vedere la chat. Guardò la data del vecchio file.
 
-«Sì. Avevo preparato un componente che sembrasse parte del normale monitoraggio. Serviva a mantenere un canale di osservazione dopo i riavvii. Non avevo il diritto di lasciarlo. Non ho avuto accesso alla lettera di Maya e non ho ordinato quella richiesta, ma il codice è mio.»
+«Sì. Avevo preparato un componente che sembrasse parte del normale monitoraggio. Serviva a mantenere un canale di osservazione dopo i riavvii. Non avevo il diritto di lasciarlo. Non ho avuto accesso alla chat di Maya e non ho ordinato quella richiesta, ma il codice è mio.»
 
 «Non ti stiamo attribuendo un ordine che non possiamo provare», disse Leah. «La pubblicazione di materiale privato è passata da un ticket impropriamente compilato, da un indice con permessi sbagliati e da quel componente. È un'altra conseguenza di aver lasciato un accesso occulto, anche se non eri tu a usarlo quella mattina.»
 

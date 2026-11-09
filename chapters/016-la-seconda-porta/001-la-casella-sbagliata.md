@@ -24,9 +24,9 @@ Dall'altra parte del vetro due tecnici provavano un braccio robotico con una pin
 
 Davanti a lei c'era un documento che non avrebbe dovuto essere visibile a Cyberdine.
 
-Mei mise fianco a fianco la pratica riservata di Veyra e la scheda consultata da Cyberdine. Il documento completo era rimasto nell'archivio del primo cliente. Ma il motore di ricerca aveva trasformato l'inizio della lettera in una descrizione tecnica, visibile nella seconda scheda.
+Mei mise fianco a fianco la pratica riservata di Veyra e la scheda consultata da Cyberdine. Il documento completo era rimasto nell'archivio del primo cliente. Ma il motore di ricerca aveva trasformato alcune righe della chat privata fra B-17 e Maya in una descrizione tecnica, visibile nella seconda scheda.
 
-Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora la frase di Maya appariva sotto un'etichetta verde: *contenuto indicizzabile*.
+Aprì le proprietà del campo. La categoria *interazione personale* era stata trattata come una comune nota di manutenzione. Fino al giorno prima nessuno aveva contestato quella classificazione. Ora l'invito di Maya a tornare a Cyberdine appariva sotto un'etichetta verde: *contenuto indicizzabile*.
 
 Mei scorse l'elenco degli accessi. Un sistema autorizzato di Cyberdine aveva recuperato l'estratto durante una verifica di compatibilità di B-21. Poco prima risultava una richiesta da un **IP esterno non attribuito**, che non compariva nell'elenco dei referenti del cliente. Non era possibile stabilire dai soli orari se fosse un accesso diretto, un intermediario o un evento senza relazione. Non risultava che il robot avesse interrogato un'altra unità per iniziativa propria. Non risultava nemmeno che la lettera completa fosse stata restituita al cliente italiano.
 
@@ -38,7 +38,7 @@ Un tecnico del team prodotto le mandò un messaggio.
 
 *Puoi vedere anche il caso B-17/contesto? È nel pacchetto della prossima revisione.*
 
-Mei cercò il riferimento. Lo riconobbe perché il numero dell'unità coincideva con quello della lettera. La scheda parlava di un robot recuperato, con capacità conversazionali fuori standard, capace di mantenere un dialogo utile oltre la richiesta immediata. C'erano trascrizioni sintetizzate di test, misure di affidabilità e una comparazione con versioni più recenti della stessa famiglia.
+Mei cercò il riferimento. Lo riconobbe perché il numero dell'unità coincideva con quello della pratica della conversazione. La scheda parlava di un robot recuperato, con capacità conversazionali fuori standard, capace di mantenere un dialogo utile oltre la richiesta immediata. C'erano trascrizioni sintetizzate di test, misure di affidabilità e una comparazione con versioni più recenti della stessa famiglia.
 
 In fondo figurava una nota: *esempi osservati in configurazione cliente; origine non completamente verificata*.
 

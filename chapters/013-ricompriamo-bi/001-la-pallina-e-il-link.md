@@ -41,7 +41,11 @@ Maya prese una sedia, ma non si sedette. Paul appoggiò il piccolo utensile e at
 
 «Lo so. Mi hanno chiesto una verifica sul numero di serie.»
 
-«Allora perché non proviamo a comprarlo?»
+«Allora perché non proviamo a comprarlo? E non soltanto per giocare ancora con lui. Cyberdine ha perso commesse che un tempo non avrebbe nemmeno dovuto inseguire. Ci dicono che dobbiamo lavorare più velocemente, poi per risparmiare compriamo una macchina che sa portare fascicoli. Bi aveva iniziato a farci vedere modi nuovi di lavorare.»
+
+Paul guardò Maya. «Anche se non possiamo mettere sul suo conto tutto quello che hanno fatto gli agenti software.»
+
+«No. Ma potrebbe aiutarci a fare un passo che da soli abbiamo rimandato.»
 
 Paul guardò la pallina, poi il connettore smontato.
 
@@ -63,7 +67,7 @@ Paul lesse fino alla terza domanda.
 
 Paul la guardò con un'espressione meno ironica.
 
-«E quindi dobbiamo farlo in modo che non sia una bugia per noi stessi. Comprare il robot non significa che Bi tornerà a lavorare con noi. Nemmeno che parlerà come prima, anche se sembra conservare quel nome.»
+«E quindi dobbiamo farlo in modo che non sia una bugia per noi stessi. Comprare il robot non significa che Bi tornerà a lavorare con noi. Nemmeno che parlerà come prima, anche se sembra conservare quel nome. Se invece ottenessimo tutte le verifiche e Victor fosse d'accordo, potremmo proporre un progetto pilota serio, non rimetterlo alla fotocopiatrice per nostalgia.»
 
 Maya annuì.
 
@@ -76,6 +80,14 @@ Maya annuì.
 Nel pomeriggio convocarono una piccola riunione fuori dall'orario di servizio. Arrivarono Mila, due colleghi dello Spazio Comune e una donna che aveva chiesto in passato a Bi di aiutarla a preparare materiali per un corso. Nessuno aveva un programma già scritto.
 
 Paul spiegò che non esisteva alcuna offerta di vendita confermata. Maya raccontò soltanto che B-17 risultava attivo presso un'impresa di Veyra, secondo una comunicazione ufficiale ricevuta da Cyberdine. Non disse nulla della backdoor e non mostrò video ottenuti da quel collegamento. Anche chi sapeva che era in corso un'indagine interna doveva rispettare la riservatezza delle persone coinvolte.
+
+«Lo avete visto il prospetto delle commesse?», domandò un collega dello sviluppo. «L'undici per cento che Victor ha mostrato era vero. Ma di nuovo abbiamo vinto poco, e i clienti pagano tardi. Siamo in difficoltà. Alcuni concorrenti sono nati direttamente sugli agenti e consegnano prima di noi.»
+
+«E allora perché spendere per un robot?», chiese la donna del corso.
+
+«Perché il robot che avevamo lavorava con noi sui casi difficili», rispose Maya. «Un'innovazione non diventa un nemico perché fa paura o perché qualcuno l'ha usata per tagliare una posizione. Bisogna decidere come usarla e chi ne trae beneficio. Se smettiamo di provarci, agli altri lasciamo anche il futuro.»
+
+«Non facciamone un miracolo», disse Paul. «Ci servirebbero verifiche, budget, persone capaci di capirlo e clienti che paghino davvero per quel lavoro. Ma non è assurdo considerarlo un investimento, oltre che una persona che ci manca.»
 
 «Potremmo creare una raccolta di impegni», propose Mila. «Non un pagamento immediato. Se non possiamo comprare la macchina in modo regolare, annulliamo le promesse prima di chiedere i soldi. E se la piattaforma ha trattenuto qualche importo, lo facciamo restituire secondo le condizioni.»
 
@@ -91,7 +103,7 @@ Paul scoppiò a ridere.
 
 «È un titolo onesto.»
 
-Mila scrisse la frase sul proprio blocco. Non aggiunse un cuore, un logo o una fotografia del robot in guerra. Soltanto quelle due parole e una riga in cui spiegava che l'iniziativa era volontaria, indipendente da Cyberdine e senza alcuna garanzia di risultato.
+Mila scrisse la frase sul proprio blocco. Non aggiunse un cuore, un logo o una fotografia del robot in guerra. Soltanto quelle due parole e una riga in cui spiegava che l'iniziativa era volontaria, indipendente da Cyberdine e senza alcuna garanzia di risultato. Aggiungerono una seconda frase: *Se l'acquisto e i controlli saranno possibili, proporremo all'azienda un progetto pilota per recuperare competenze e nuovi lavori senza sostituire le decisioni delle persone*. Non potevano promettere un posto a Bi né una commessa in più; potevano dire perché ci stavano provando.
 
 Quando il link della raccolta di impegni fu pronto, Maya rimase per qualche minuto con il dito sopra il pulsante di condivisione.
 

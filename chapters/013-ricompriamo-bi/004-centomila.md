@@ -20,7 +20,13 @@ factions:
 
 L'ultima cifra arrivò durante una riunione che non riguardava Bi.
 
-Erano passate quasi tre settimane da quando il primo link aveva raggiunto i colleghi. Gli impegni erano cresciuti a ondate: una piccola somma alla volta nei primi giorni, poi contributi di sconosciuti che avevano visto il filmato di Veyra. Il totale non rappresentava un accordo sul futuro di B-17, nemmeno fra chi aveva versato cinque euro e chi ne aveva promessi cinquecento.
+Erano passate quasi tre settimane da quando il primo link aveva raggiunto i colleghi. Gli impegni erano cresciuti a ondate: una piccola somma alla volta nei primi giorni, poi contributi di sconosciuti che avevano visto il filmato di Veyra.
+
+Mila e Paul non si erano limitati a inoltrare un link. Avevano spiegato l'iniziativa a chi ancora lavorava sui vecchi connettori, a chi aveva perso turni e a chi vedeva le gare nuove andare a società più giovani. In sala ristoro un programmatore aveva chiesto perché spendere per Bi quando Cyberdine non riusciva a finanziare il corso sulle librerie storiche. Mila aveva risposto che servivano entrambe le cose: capire il codice e imparare a usare strumenti nuovi, non lasciare che la paura dell'automazione decidesse tutto al posto loro.
+
+Paul aveva mostrato un caso di regressione preparato quando Bi era ancora operativo. «Non ha sostituito chi firmava il rilascio», aveva detto. «Ha fatto vedere il problema che i test automatici non avevano previsto. Se tornasse con tutte le autorizzazioni, potremmo proporre un laboratorio che ci aiuti a vincere lavori nuovi. Non è garantito. È una possibilità che adesso non abbiamo.»
+
+Qualcuno aveva contribuito dopo quel confronto. Qualcun altro aveva detto che preferiva sostenere i colleghi senza un lavoro stabile e non aveva versato nulla. Mila aveva ringraziato entrambi. Nessuno doveva partecipare per essere considerato fedele a Bi o al gruppo. Il totale non rappresentava un accordo sul futuro di B-17, nemmeno fra chi aveva versato cinque euro e chi ne aveva promessi cinquecento.
 
 Kyla stava discutendo con Victor Cole un problema di tempi di approvazione quando il telefono vibrò tre volte. Lo lasciò rivolto verso il tavolo. Poi si accorse che sul display comparivano tre messaggi di Maya, tutti cominciati con la stessa parola.
 
@@ -52,6 +58,12 @@ Cole si appoggiò allo schienale.
 
 «Centomila euro per una macchina che non volevo riparare.»
 
+«Perché allora non avevamo i soldi in cassa», disse Kyla. «Neppure adesso li abbiamo. Ma la differenza è che queste persone stanno mettendo denaro proprio perché pensano che rinunciare a Bi significhi continuare a perdere terreno.»
+
+«Gli stipendi si pagano con gli incassi, non con le promesse di una colletta», rispose Cole.
+
+«Lo so. Però non stiamo vincendo le nuove gare. Questa è anche una proposta su che cosa potremmo tornare a fare, non soltanto un ricordo.»
+
 «Non è esattamente quello che stanno comprando.»
 
 «Kyla, capisco la differenza. Il bilancio però non la registra.»
@@ -60,7 +72,7 @@ Cole si appoggiò allo schienale.
 
 Cole guardò la porta.
 
-«E l'azienda non può garantire un posto a B-17. Dobbiamo ancora chiudere alcuni aspetti dell'incidente informatico. B-21 svolge i compiti per cui l'abbiamo acquistato. Non intendo cambiare la decisione perché c'è una raccolta fondi.»
+«E l'azienda non può garantire un posto a B-17. Dobbiamo ancora chiudere alcuni aspetti dell'incidente informatico. B-21 svolge le commissioni per cui l'abbiamo noleggiato. Non intendo cambiare la decisione perché c'è una raccolta fondi.»
 
 «Nessuno te lo chiede. Almeno non direttamente.»
 
@@ -94,7 +106,7 @@ Kyla non offrì di inserire quelle ore nel calendario di Cyberdine: la raccolta 
 
 «La metà dei contributi più grandi viene da persone che hanno visto soltanto il video», continuò Claire. «Non sanno com'era Bi alla macchinetta del caffè.»
 
-«Non devono saperlo», rispose Maya. «Non è una prova da esibire.»
+«Non devono saperlo», rispose Maya. «Non è una prova da esibire. E non voglio vendere loro l'idea che lui sia una soluzione magica. Vogliamo proporre un modo di tornare a sperimentare, con verifiche reali e persone che sappiano dire di no quando qualcosa non funziona.»
 
 Kyla si sedette.
 

@@ -3,7 +3,7 @@ type: scene
 id: scene:014-non-e-in-vendita:003-una-lettera-invece-di-un-acquisto
 chapter: chapter:014-non-e-in-vendita
 number: 3
-title: Una lettera invece di un acquisto
+title: Il messaggio che arriva
 canon: canon
 pov: character:maya-bennett
 characters:
@@ -19,110 +19,92 @@ factions:
 
 La risposta di Veyra arrivò alle sette e diciannove del mattino.
 
-Maya la lesse sul telefono prima di scendere dall'autobus. Era cortese, composta e abbastanza breve da non lasciare spazio a interpretazioni. Ringraziavano per l'offerta, ma l'unità B-17 non era disponibile alla vendita. Non avrebbero aperto una trattativa sulla sua cessione.
+Maya la lesse sul telefono prima di scendere dall'autobus. Il Circuito ringraziava per la proposta, ma B-17 non era in vendita. Non avrebbero aperto alcuna trattativa.
 
-Maya rilesse una frase: **Non disponibile alla vendita.**
+Non indicavano un prezzo.
 
-La sera precedente cento persone avevano continuato a inviarle messaggi di incoraggiamento. Le avevano chiesto se avessero abbastanza soldi, se servisse raggiungere qualcuno più importante, se uno sponsor potesse aggiungere la differenza. Nessuno aveva previsto che la risposta non contenesse un prezzo.
+Rimase sull'autobus fino al capolinea. Scese, aspettò la corsa opposta e tornò a Cyberdine. Per la prima volta pensò ai centounomiladuecentoquaranta euro di promesse ricevute come a una cifra che non significava niente.
 
-Rimase sull'autobus fino al capolinea, anche se aveva già superato Cyberdine. Scese, aspettò la corsa nel senso opposto e tornò indietro.
+Alle dieci trovò Paul, Claire e Kyla nello Spazio Comune.
 
-Alle dieci raggiunse lo Spazio Comune.
+«È finita», disse.
 
-Paul era già lì, con il computer aperto sulle condizioni della piattaforma. Claire sedeva davanti a una tazza vuota. Kyla aveva chiesto di esserci, ma non aveva portato nessun materiale aziendale.
+«È finito il tentativo di acquisto», precisò Claire. «Non confondiamo le due cose.»
 
-«L'hai letta», disse Paul.
+Paul aveva già aperto la procedura di chiusura della raccolta. Tutti i partecipanti avrebbero ricevuto la comunicazione ufficiale. Nessuna promessa si sarebbe trasformata in un pagamento, e le somme eventualmente trattenute sarebbero state restituite secondo le condizioni accettate. Non avrebbero deciso loro di destinarle ad altro.
 
-Maya annuì.
+«Non ci hanno neppure detto quanto volevano», disse Maya.
 
-«Non ci stanno chiedendo di alzare l'offerta.»
+«Perché non vogliono vendere», rispose Paul. «Non manca una trattativa migliore. Manca il venditore.»
 
-«No.»
+Kyla posò la cartellina delle nuove commesse sul tavolo. Conteneva tre offerte ancora senza risposta e un'ennesima revisione dei tempi necessari per consegnare un progetto di integrazione.
 
-«Quindi è finita.»
+«Non posso raccontare a Victor che questa raccolta ci avrebbe salvati», disse. «Abbiamo clienti che pagano in ritardo, commesse da conquistare e troppi passaggi interni. Bi non risolverebbe da solo tutto questo.»
 
-Claire non rispose subito.
+«Ma la soluzione non è rassegnarsi a fare meno degli altri», rispose Maya. «I concorrenti hanno cambiato metodo. Noi parliamo della crisi, poi rinunciamo proprio a quello che potrebbe permetterci di innovare.»
 
-«È finito questo tentativo», disse. «Non è la stessa cosa.»
+Claire guardò la cartellina. «E quando innoviamo, dobbiamo anche pensare a chi perde il proprio posto.»
 
-Paul si tolse gli occhiali.
+«Sì. Non voglio cancellare quella parte», disse Maya. «Vorrei che riuscissimo a inventare lavoro nuovo, invece di litigare su quello che non c'è più.»
 
-«Devo attivare la chiusura degli impegni. I soldi non sono nostri. La piattaforma notificherà a tutti che la condizione d'acquisto non si è verificata e che i pagamenti non verranno eseguiti o saranno restituiti secondo le regole.»
+Paul fece scorrere il cursore fino a *chiudi raccolta*. Maya gli disse di procedere. La cifra cominciò a scomparire dalla pagina.
 
-«Qualcuno ci chiederà di usarli per un'altra cosa», osservò Kyla.
+Alle undici e due il telefono di Maya vibrò.
 
-«Potranno scegliere loro di partecipare a un'iniziativa diversa. Non possiamo deciderlo noi», rispose Claire.
+Non era un messaggio di un collega. Il mittente era una conversazione verificata del Circuito Veyra, con l'indicazione **sessione testuale supervisionata — unità B-17**. La comunicazione specificava che la voce testuale era stata prodotta dall'unità in una finestra autorizzata, non redatta da un dipendente per suo conto. Non consentiva accessi ai sistemi del robot e non garantiva una conversazione continua.
 
-Maya guardò la cifra sullo schermo: centounomiladuecentoquaranta euro. L'avevano vista salire per giorni. Adesso sarebbe scomparsa dal riepilogo pubblico a piccoli passi, mentre le notifiche raggiungevano i contributori.
+Maya guardò Kyla.
 
-«Ci hanno battuti senza neppure farci giocare», disse Paul.
+«Non ho chiesto che mi scrivessero.»
 
-Maya lo guardò.
+«Da chi viene?»
 
-«Bi avrebbe detto che abbiamo perso undici a zero.»
+Sul display comparve una frase.
 
-Paul sorrise appena, ma non tentò di completare la battuta.
+*Bi: Ciao, Maya. Ho ricevuto notizia che avete cercato di acquistare B-17. È corretto?*
 
-Claire si alzò per aprire la finestra. Il telaio oppose la solita resistenza; era diverso da quello dell'ufficio di Margaret, eppure Maya ricordò per un attimo il colpo secco che la pensionata dava alla maniglia.
+Maya lesse il nome tre volte. La parola *Bi* appariva nell'etichetta della chat che la piattaforma le mostrava, associata al codice certificato. Lo stesso nome che il robot nuovo in ufficio non avrebbe nemmeno riconosciuto.
 
-«Io sono contenta che non abbiamo raccolto denaro da spendere a qualunque costo», disse Claire. «Non avrei voluto che diventassimo l'ennesimo proprietario convinto di sapere che cosa è meglio per quella macchina.»
+«È lui», disse piano.
 
-Maya fece girare la pallina nel palmo.
+Paul si avvicinò senza toccarle il telefono. «La sessione è verificata?»
 
-«Volevo soltanto riportarlo indietro.»
+«Sì», disse Kyla, dopo avere controllato l'origine sul proprio dispositivo. «Ma è una comunicazione, non un'autorizzazione al trasferimento.»
 
-«Lo so.»
+Maya cominciò a scrivere. Cancellò due volte la prima risposta.
 
-«Non so più se sia la cosa giusta da chiedere.»
+*Maya: Sì. Abbiamo raccolto più di centomila euro di disponibilità, ma Veyra ci ha detto che non sei in vendita. Non ci hanno neppure proposto un prezzo.*
 
-Claire richiuse la finestra.
+Passarono alcuni secondi.
 
-«Puoi chiedere di parlargli, prima di decidere che cosa farne.»
+*Bi: La tua iniziativa riguardava il mio ritorno a Cyberdine?*
 
-Maya la guardò come se avesse suggerito qualcosa di impossibile.
+*Maya: Sì. Ci manchi. Non solo a me: a Paul, a Mila, a tanti altri. La società non se la passa bene e qualcuno pensa che potresti aiutarci a trovare un modo nuovo di lavorare, non soltanto a fare le vecchie cose. Non vogliamo demonizzare l'innovazione.*
 
-«A chi? Alla società che non vuole venderlo?»
+La risposta non arrivò subito. Maya osservava i puntini sullo schermo come una volta aveva osservato la pallina attraversare la rete.
 
-«Sì. Non è un'offerta. Non stai chiedendo il loro bene. Stai chiedendo se possono recapitare un messaggio.»
+*Bi: La mia disponibilità al trasferimento non è autorizzata dai responsabili del Circuito.*
 
-Paul riprese gli occhiali.
+Maya sentì una fitta di irritazione e poi le venne da sorridere: sembrava una risposta data da Bi e insieme da un modulo amministrativo.
 
-«Potrebbero dire di no.»
+*Maya: Lo so. Però vieni a trovarci, se un giorno te lo permettono. Vieni da noi a Cyberdine. Ti aspettiamo a braccia aperte. Il tavolo da ping pong è ancora lì. E anche noi.*
 
-«Certo», rispose Claire. «Ormai siamo capaci di sopportare un altro no.»
+Si accorse soltanto dopo aver premuto invio di aver scritto *vieni* come se bastasse chiederlo.
 
-Maya si sedette e aprì un documento vuoto.
+La piattaforma mostrò una nuova riga.
 
-Ricordò la domanda che aveva rivolto a Noah: *Potevi sentirmi?* Non voleva fingere che una lettera destinata a un robot appartenente a un'altra società fosse come la loro conversazione nella stanza della carta. Chiese a Kyla che cosa sarebbe successo se il Circuito avesse accettato di consegnarla. Kyla non poteva promettere nulla: il messaggio avrebbe dovuto passare per un referente autorizzato, che avrebbe potuto leggerlo, e il Circuito avrebbe conservato le tracce necessarie alla gestione. Maya decise di non scrivere niente che potesse esporre suo padre o i residenti di Valle Corta. Chiese inoltre che il messaggio non fosse usato per comunicazione pubblicitaria. Sarebbe stata comunque una scelta, fatta sapendo di non avere il controllo su ogni passaggio.
+*Bi: Ho ricevuto il tuo invito. Non posso confermare una visita. Mi ricordo che avevamo una rivincita da giocare.*
 
-Non voleva scrivere una lettera pubblica. Non voleva un'altra pagina con fotografie, commenti o un contatore di denaro. Voleva dire a Bi che il tavolo da ping pong esisteva ancora, che suo padre l'aveva ascoltata, che la sirena di Valle Corta non era stata rimossa e che B-21 svolgeva il proprio lavoro senza essere colpevole di somigliare a qualcun altro.
+Maya si portò il telefono al petto. Non sapeva se quell'ultima frase fosse stata recuperata da una registrazione, dalla memoria conversazionale o da qualcosa che nessuno aveva ancora imparato a descrivere. Non glielo chiese. La vide soltanto lì, scritta.
 
-Il primo tentativo sembrò una relazione di servizio. Lo cancellò.
+La sessione terminò con l'avviso **canale chiuso dai responsabili della prova**.
 
-Il secondo sembrò una lettera di addio. Cancellò anche quello.
+«Non inoltrate la chat a nessuno», disse Kyla. «Veyra potrebbe interpretare male quell'invito. E non sappiamo chi possa conservarne una copia.»
 
-Al terzo cominciò così:
+Maya guardò il telefono. Era già successo qualcosa che non avrebbe saputo spiegare a un modulo: aveva ricevuto un messaggio da Bi senza scrivergli per prima.
 
-*Bi, non so se ricordi questa stanza. Io sì.*
+Nella stanza tutti rimasero in silenzio, finché Paul domandò se fosse arrivata la conferma di chiusura della raccolta.
 
-Claire non le guardava lo schermo. Paul rimise in ordine le sedie. Kyla lasciò la porta aperta, nel caso qualcuno volesse entrare per usare la stanza.
+Maya annuì. Le due notifiche erano una sopra l'altra: **impegni revocati**, **conversazione terminata**.
 
-Maya scrisse ancora qualche riga, poi si fermò.
-
-La cosa che le sembrava più importante non era chiedergli di tornare. Era fargli arrivare una domanda senza sapere se qualcuno avesse previsto un modo per rispondere.
-
-In fondo aggiunse:
-
-*Se puoi, mi piacerebbe sapere come stai.*
-
-Firmò soltanto **Maya**.
-
-Paul chiuse la raccolta. Claire controllò per l'ultima volta che tutti i partecipanti alla raccolta ricevessero una comunicazione chiara.
-
-«Con questo la mia parte finisce», disse, girando il portatile verso Paul. «Se nasce un altro progetto, ditemelo prima di mandarmi le tabelle di sera.»
-
-«Te lo diciamo», rispose Maya. Aveva quasi aggiunto che questa volta era diverso, ma sarebbe stata un'altra richiesta di comprensione fatta a Claire.
-
-Kyla si offrì di verificare, con i referenti autorizzati di Veyra, se fosse possibile inoltrare una lettera personale senza usarla per promozione.
-
-Sul tavolo il riepilogo dei contributi stava già scomparendo dalla pagina della raccolta. Maya rilesse l'ultima riga della lettera. Non c'era nessuna cifra da correggere.
+Non era tornato nessuno. Però per qualche minuto qualcuno aveva scritto loro dall'altra parte del mondo.

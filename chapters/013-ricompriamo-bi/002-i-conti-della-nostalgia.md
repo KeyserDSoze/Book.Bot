@@ -21,7 +21,7 @@ Paul compilò il primo preventivo e capì che Maya lo avrebbe odiato.
 
 Non perché fosse disonesto. Perché era dettagliato.
 
-Alla voce *acquisto* aveva lasciato uno spazio vuoto: nessuno aveva comunicato un prezzo. Sotto aveva messo trasporto dall'isola, imballaggio protetto, dogana e assicurazioni da verificare, controlli della spalla riparata, test dei limiti di forza, verifica delle autorizzazioni software, manutenzione periodica. Era una colonna di spese prima ancora di accendere il robot.
+Alla voce *acquisto* aveva lasciato uno spazio vuoto: nessuno aveva comunicato un prezzo. In una colonna separata aveva scritto *possibili benefici, da dimostrare*: recupero delle verifiche sui connettori storici, un laboratorio con agenti e robot, tempi di proposta per le nuove commesse. Nessuna di quelle voci era una previsione di incasso. Sotto aveva messo trasporto dall'isola, imballaggio protetto, dogana e assicurazioni da verificare, controlli della spalla riparata, test dei limiti di forza, verifica delle autorizzazioni software, manutenzione periodica. Era una colonna di spese prima ancora di accendere il robot.
 
 Maya lesse il foglio senza parlare.
 
@@ -31,7 +31,7 @@ Maya lesse il foglio senza parlare.
 
 «Sembra la lista delle ragioni per non farlo.»
 
-«È la lista delle ragioni per non raccontare ai donatori che bastano centomila euro e un corriere.»
+«È la lista delle ragioni per non raccontare ai donatori che bastano centomila euro e un corriere. Ma guarda anche l'altra colonna: se ci aiuta a competere su un progetto nuovo, non è soltanto il costo di riportare a casa qualcuno.»
 
 Paul spostò sul banco la cornice magnetica che aveva costruito per Bi. Era rimasta una macchia di colla su un angolo; aveva pensato più volte di rifarla, ma non lo aveva mai fatto. Era la prova materiale che un robot apparentemente molto intelligente poteva ancora avere bisogno di una mano umana per una cosa ridicola come tenere un foglio dritto.
 
@@ -51,7 +51,7 @@ Paul sorrise, poi tornò serio.
 
 La frase li fece ridere entrambi. Fu un sollievo breve.
 
-Nel pomeriggio Paul parlò con Kyla. Lei non aveva l'autorità per offrire a un'associazione di colleghi uno spazio dell'azienda né accessi ai sistemi. Gli spiegò che Victor Cole era stato informato dell'iniziativa privata, ma non l'aveva approvata come progetto Cyberdine. Il costo di B-17 era già stato contabilizzato; B-21 lavorava bene, e le responsabilità sull'incidente informatico restavano aperte.
+Nel pomeriggio Paul parlò con Kyla. Lei non aveva l'autorità per offrire a un'associazione di colleghi uno spazio dell'azienda né accessi ai sistemi. Gli spiegò che Victor Cole era stato informato dell'iniziativa privata, ma non l'aveva approvata come progetto Cyberdine. Il costo di B-17 era già stato contabilizzato; B-21 svolgeva correttamente le poche consegne del contratto economico, e le responsabilità sull'incidente informatico restavano aperte.
 
 «Posso capire perché lo fate», disse Kyla. «Non posso promettervi un posto di lavoro per lui.»
 
