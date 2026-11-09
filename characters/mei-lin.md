@@ -61,3 +61,8 @@ Nel **16/001** l'orologio impreciso è un regalo della madre fatto anni prima, n
 ## Ventesima review — mantenere ipotesi ed evidenze separate
 
 Nel **24/003** Mei distingue log del controllore di B-33, nota di prossimità di B-32, risposta conversazionale, scelta di Grace e conseguenze sull'operatrice. Chiede un flusso di avvisi tecnici al referente umano indipendente dalla sintesi linguistica di B-32, ma non lo tratta come una correzione già collaudata. Nel **24/004** il caso proposto in prova a B-17 rimane **ipotetico** anche quando Nina immagina che una persona si faccia male: non viene rivelato l'incidente specifico, e la risposta prudente di Bi non certifica il suo comportamento in situazione reale.
+
+
+## Cap. 15–20: origine della fuga e cavallo di Troia
+
+Mei distingue un allegato privato introdotto da un amministrativo di Veyra, una classificazione errata in Lanter Service, un IP esterno non attribuito e, separatamente, l'uso contestato di risultati di B-17 nel modulo commerciale. Solo nel cap. 20 riceve evidenze incrociate da Cyberdine, Veyra e Lanter che collegano l'evento da IP di transito a un **cavallo di Troia installato da Noah nell'originale B-17**, non a un accesso personale registrato del programmatore dopo il licenziamento. I componenti trovati vengono isolati. Non dimostra che il software commerciale Lanter contenga quella componente.
