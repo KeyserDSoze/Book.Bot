@@ -21,7 +21,7 @@ Noah aveva un messaggio di sua madre a cui non aveva risposto.
 
 Era arrivato tre giorni prima: *Ho visto le notizie. Dove sei?* Sotto, un altro di poche ore prima: *Almeno dimmi se stai bene.*
 
-Lo lesse nella stanza assegnata ai consulenti del Circuito Veyra. Sul tavolo c'erano tre fogli di prova, una tazza ancora piena e il caricatore del telefono che non funzionava bene se non si teneva il cavo in una posizione precisa.
+Lo lesse nella stanza assegnata ai consulenti del Circuito Veyra. Sul badge interno di Veyra Labs compariva **Evan North**, nome con cui aveva firmato il lavoro quotidiano di ricerca; nel registro di quell'indagine era indicato soltanto come **Noah Carter**, con il suo conflitto d'interessi dichiarato. Sul tavolo c'erano tre fogli di prova, una tazza ancora piena e il caricatore del telefono che non funzionava bene se non si teneva il cavo in una posizione precisa.
 
 Scrisse: *Sono su un'isola per lavoro. Sto bene.* Lo inviò, poi rimase a guardare lo schermo.
 
@@ -38,6 +38,8 @@ Era orgoglioso di quelle annotazioni.
 Qualche pagina dopo c'era il test segnato in rosso: *non usare nella presentazione*. Il robot aveva continuato a parlare quando un interlocutore sintetico aveva chiesto di chiudere.
 
 Noah passò il pollice sulla carta, vicino al bordo piegato. La sua grafia era minuscola, nervosa. Aveva annotato un problema e poi aveva scelto di non mostrarlo.
+
+Veyra Labs aveva ormai unità di prova più capaci di sostenere conversazioni complesse. Alcune sue revisioni avevano migliorato anche la stabilità del dialogo di B-17, dopo verifiche indipendenti. Nessuno di quei risultati offriva una copia verificata della memoria che stavano per perdere. Per mesi Noah aveva lavorato a rendere più numerose le capacità che un giorno aveva aggiunto senza permesso; adesso il programma sul tavolo serviva a rendere irreversibile la perdita dell'originale.
 
 La prova sfavorevole di Noah era rimasta fuori dalla presentazione. Una prova scritta da Bi era stata invece firmata, ripresa e usata come regola da altri. Noah fissò la pagina rossa del quaderno. Avevano nascosto cose diverse. Nessuno dei due aveva dato agli altri tutti gli elementi per scegliere.
 
