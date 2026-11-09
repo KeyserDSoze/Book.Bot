@@ -28,6 +28,8 @@ Mila tenta di sostenere allo stesso tempo i benefici dell'automazione e le possi
 
 Mila collabora alla distribuzione temporanea di compiti rimasti senza B-17 dopo la scelta di non ripararlo. Riconosce il valore di descrivere in modo umano e realistico il lavoro di continuità, senza sminuire i benefici reali dell'automazione. L'arrivo del sostituto ripristina i servizi, non la confidenza dei colleghi con Bi.
 
+**Capitoli 11–12:** Noah le confida, insieme a Paul, la modifica, l'accesso clandestino e la pubblicazione anonima di due video di B-17. Mila abbassa la voce, cosa per lei insolita: scopre che anche le sue pause, i suoi scherzi e le sue conversazioni potevano essere osservate. Con Paul segnala i fatti a Kyla e alla sicurezza, pur avendo considerato Noah un amico. Rifiuta di trasformare l'amicizia in obbligo di silenzio.
+
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
 Nel capitolo 2 Mila reclama la propria pausa e il diritto di mangiare le lasagne senza che Paul le sposti nel frigorifero. Nel 6 è stanca di sistemare sedie e materiali per altri, e un'incombenza banale la distrae mentre Ethan e Marcus seguono Bi nel corridoio. La distrazione non equivale a responsabilità per l'aggressione: il gesto violento è una scelta degli aggressori. Mila non è la segretaria perfetta del gruppo e può essere sbrigativa con chi le piace.
