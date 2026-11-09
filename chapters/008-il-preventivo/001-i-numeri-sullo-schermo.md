@@ -25,7 +25,7 @@ factions:
 
 Era la prima cosa comparsa sullo schermo della plenaria, prima ancora che Victor Cole salutasse.
 
-«Undici per cento in più rispetto al trimestre di confronto», disse, con il telecomando già in mano. «Sono risultati buoni. Lo dico senza cautela: abbiamo lavorato bene e i clienti ci hanno pagato per competenze che continuano a servire.»
+«Undici per cento in più rispetto al trimestre di confronto», disse, con il telecomando già in mano. «Sono risultati buoni. Lo dico senza cautela: abbiamo lavorato bene e contabilizzato ricavi per competenze che continuano a servire.»
 
 Nella sala c'erano centottantasei persone sedute e una fila di colleghi in piedi lungo la parete. Kyla era al lato della prima fila, abbastanza vicina al palco da vedere il foglio piegato che Cole teneva nella mano libera. La brocca d'acqua era ancora intatta.
 
