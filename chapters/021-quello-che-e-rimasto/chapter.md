@@ -16,7 +16,7 @@ pov:
 1. La terza possibilità — Amara deve scegliere se autorizzare una limitata sessione di B-17, mentre i contratti di Veyra continuano a produrre costi.
 2. La prova — Mei assiste alle prove sotto isolamento; Bi recupera alcuni riferimenti, sbaglia una risposta e riceve la replica di Maya.
 3. La persona che torna — Maya incontra il robot, ritrova la sua voce ma non tutte le risposte che ricordava.
-4. Una macchina normale — B-21 continua a lavorare a Cyberdine mentre l'automazione del turno serale pone un problema di responsabilità umana.
+4. Una macchina normale — B-21 continua a lavorare a Cyberdine mentre l'automazione del turno serale pone un problema di responsabilità umana. Non risponde quando una nuova collega lo chiama «Bi», ma soltanto quando lo interpella come «B-21», in accordo con il Bot Act presentato nel cap. 9.
 
 # Guardrail
 
