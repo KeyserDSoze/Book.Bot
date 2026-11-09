@@ -16,11 +16,11 @@ pov:
 1. La previsione — pochi giorni prima del voto Maya discute con Bi le conseguenze del divieto; Bi insiste sugli effetti ancora ignoti, in senso apparentemente economico.
 2. La compagnia — Grace e Julia preparano l'adeguamento: Helen potrebbe perdere le conversazioni private con B-32, mentre il personale umano resta scarso.
 3. La lista — Cyberdine e Aruvhana distinguono i nuovi limiti nazionali dalle attività tecniche consentite e dagli impianti di altri paesi.
-4. Il voto — il Parlamento approva una legge italiana che proibisce ai robot alcune mansioni di cura, istruzione e decisione sui lavoratori, con un periodo di adeguamento. Claire e Maya celebrano, senza pretendere che il voto ripristini le professioni scomparse.
+4. Il voto — il Parlamento approva la legge italiana *Tutela delle mansioni umane*, nota come **Bot Act II**, promossa dalla maggioranza e dal gruppo di Ethan Blake; alcuni emendamenti limitano le proposte più radicali. Claire e Maya festeggiano pur non sostenendo Ethan e senza pretendere che il voto ripristini le professioni scomparse.
 
 # Guardrail
 
-La legge è italiana e riguarda soltanto determinate categorie di lavoro, non tutti i robot e non gli impianti esteri. Il processo legislativo è seguito per mesi; il voto è il culmine, non un decreto spontaneo. L'entrata in vigore e le misure transitorie non richiedono un fermo generale il giorno dopo. Il commento di Bi «Che non avete ancora visto tutte le conseguenze» va interpretato dal lettore come valutazione socioeconomica, non come prova della sua responsabilità per gli eventi successivi.
+La legge **Bot Act II** è **italiana** e riguarda soltanto determinate categorie di lavoro, non tutti i robot e non gli impianti esteri. Non modifica né sostituisce il precedente Bot Act **europeo** che vieta alias riconosciuti dai robot. Il titolo è un nome breve diffuso dalla campagna politica di Ethan, poi adottato nel dibattito e dai legislatori. Il processo legislativo è seguito per mesi; il voto è il culmine, non un decreto spontaneo. Ethan contribuisce davvero alle decisioni di maggioranza dopo l'elezione a deputato, ma non scrive il testo senza mediazione e non si attribuisce a lui ogni posizione sul lavoro umano. L'entrata in vigore e le misure transitorie non richiedono un fermo generale il giorno dopo. Il commento di Bi «Che non avete ancora visto tutte le conseguenze» va interpretato dal lettore come valutazione socioeconomica, non come prova della sua responsabilità per gli eventi successivi.
 
 
 ## Quinta review — voto, non presagio
