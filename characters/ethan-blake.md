@@ -11,7 +11,7 @@ Sviluppatore di connettori e flussi d'integrazione software a Cyberdine, azienda
 
 Capitolo 4: inizialmente si aspetta di battere Bi; dopo diverse sconfitte contro il robot, perde sicurezza davanti ai colleghi. Nelle partite successive Bi perde e Ethan esulta davanti a lui, lo chiama «stupida macchina» e gli attribuisce il desiderio di vincere. L'atto deve apparire meschino ma umano: non rendere Ethan un cattivo monodimensionale o un rappresentante di tutta Cyberdine.
 
-Non attribuirgli conoscenze sulle ragioni delle sconfitte di Bi prima del sabato successivo: Maya le racconta in pubblico solo con l'autorizzazione di Bi. Ethan vive la scoperta come una smentita umiliante delle proprie vittorie e smette di unirsi alla nuova sfida sportiva. Questa ferita non spiega da sola e non giustifica l'aggressione successiva.
+Non attribuirgli conoscenze sulle ragioni delle sconfitte di Bi prima del sabato successivo: Maya le racconta in pubblico solo con l'autorizzazione di Bi. Ethan rifiuta apertamente la rivelazione: sostiene di aver battuto Bi davvero, non crede alle sconfitte deliberate neppure dopo la conferma del robot e protesta ripetutamente. Maya non lo contraddice, ma prosegue rivolgendosi a Mila e Paul senza prestargli attenzione. Ethan si sente snobbato, si infuria ed esce dalla stanza, senza unirsi alla nuova sfida sportiva. Nel capitolo 7 continua a difendere mentalmente quelle vittorie; la scoperta e il disprezzo percepito non spiegano da soli e non giustificano l'aggressione successiva.
 
 
 ## Capitoli 5–7
