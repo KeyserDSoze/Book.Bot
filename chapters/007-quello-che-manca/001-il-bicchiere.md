@@ -116,6 +116,24 @@ Mila si allontanò lungo il corridoio; anche dalla curva Paul sentì il suo «Ci
 
 Rimasto solo, Paul sistemò la scatola sotto il banco. Se lei gli avesse fatto ancora una domanda, probabilmente avrebbe continuato a spiegare perché non potevano prevedere la violenza. Si accorse di non averle chiesto come stava.
 
+Poco prima delle dieci Paul passò dallo Spazio Comune. Aveva lasciato lì la custodia della racchetta il giorno precedente. Il tavolo era aperto; due colleghi si scambiavano colpi, più precisi di quelli che facevano prima dell'arrivo di Bi.
+
+«Vuoi fare due punti?», gli chiese uno dei due.
+
+Paul prese la racchetta e rispose a tre servizi. Sul quarto riuscì a rimandare una palla angolata che, un mese prima, non avrebbe neppure tentato. Il collega la recuperò di rovescio. Avevano imparato entrambi a cercare quegli angoli per non perdere undici a tre contro Bi.
+
+«Bella», disse Paul.
+
+Continuarono per qualche scambio. La pallina andava e tornava; nessuno teneva il punteggio. Sul telefono di Paul c'era ancora la fotografia dell'ultima tabella: sotto il proprio nome aveva scritto *sette, poi otto, poi nove*. Aveva promesso a Mila che sarebbe arrivato a dieci prima della fine del mese.
+
+«La prossima la facciamo a undici?», chiese il collega.
+
+Paul guardò il tavolo. Non voleva offendere chi stava giocando con lui, né pensava che gli altri fossero diventati avversari peggiori. Avevano colpi migliori, e alcuni scambi erano più lunghi di prima. Semplicemente si accorse che non aveva più voglia di controllare quanti punti riuscisse a strappare.
+
+«Devo chiudere una pratica», rispose. «Magari più tardi.»
+
+Restituì la racchetta. Il collega riprese a palleggiare con l'altra persona; Paul si allontanò senza aspettare di vedere il punto successivo.
+
 Alle dieci Paul entrò nella sala copie per una richiesta urgente. Il vetro era pulito, la cornice magnetica riposta nel cassetto, l'etichetta **LATO STAMPATO VERSO IL VETRO** ancora appiccicata al coperchio.
 
 Una collega gli consegnò un originale sottile.
