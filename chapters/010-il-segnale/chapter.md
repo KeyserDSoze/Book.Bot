@@ -22,7 +22,7 @@ B-17, equipaggiata con una replica di arma pesante da simulazione, partecipa a u
 1. **L'avviso** — Noah, fra una lampada smontata e un video di restauro, riceve la notifica; si rivela il suo intervento precedente non autorizzato.
 2. **Gli occhi di qualcun altro** — Noah riconosce B-17 e vede armi, bosco e squadre di robot in un combattimento simulato.
 3. **L'ultima bandiera** — la coordinatrice umana Nina Solis entra nel vivo dell'esercitazione e interviene quando la situazione sembra perduta.
-4. **Il punto che resta** — Noah vede un gesto decisivo di Bi; l'esito della prova è favorevole alla sua squadra, ma il prezzo morale e il rischio di essere scoperto aumentano.
+4. **Il punto che resta** — Noah vede un gesto decisivo di Bi; l'esito della prova è favorevole alla sua squadra, ma il prezzo morale e il rischio di essere scoperto aumentano. Il capitolo termina sulla mail a Kyla ancora vuota e non inviata: **non rivelare ancora** che Noah userà il flusso visivo per montare e diffondere un video.
 
 # Guardrail
 
