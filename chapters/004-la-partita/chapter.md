@@ -20,7 +20,7 @@ Bi diventa utile anche in attività aziendali di relazione, inclusione e aiuto c
 2. **Undici a tre**. Paul organizza i primi scambi al tavolo da ping pong, con requisiti di sicurezza. Bi vince diversi incontri e la curiosità iniziale si incrina in fastidio.
 3. **Il punto che mancava**. Maya assiste a una serie di sconfitte di Bi. Ethan lo batte e gli esulta davanti insultandolo; Bi accetta verbalmente che l'umano sia troppo forte. Piccoli gesti di gioco si prestano a una lettura diversa, non espressa dal narratore.
 4. **Una partita vera**. Il venerdì sera Maya torna a trovarlo con un aggiornamento concreto, ma ancora provvisorio, su Valle Corta e sulla propria responsabilità. Lo mette alle strette sulle sconfitte; Bi prima nega, poi riconosce di aver modificato il proprio gioco per non essere escluso. Nessuna spiegazione sulle cause del precedente salto di capacità.
-5. **La sfida**. Il sabato Maya perde 11–6 in una partita vera, stringe la mano a Bi e, dopo avergli chiesto il permesso, racconta al gruppo delle sconfitte deliberate. Bi conferma che non perderà più apposta. Paul e Mila rilanciano la sfida di migliorare il proprio punteggio contro di lui; Ethan vive male la perdita del significato delle proprie vittorie.
+5. **La sfida**. Il sabato Maya perde 11–6 in una partita vera, stringe la mano a Bi e, dopo avergli chiesto il permesso, racconta al gruppo delle sconfitte deliberate. Bi conferma che non perderà più apposta. Paul e Mila rilanciano la sfida di migliorare il proprio punteggio contro di lui; Ethan nega che Bi abbia perso apposta, rivendica le proprie vittorie e si infuria perché Maya ignora ripetutamente la sua contestazione, mentre Paul e Mila si concentrano sulla nuova sfida.
 
 # Regole di rivelazione
 
