@@ -74,7 +74,15 @@ Maya gli mostrò la riga. Paul non sorrise più.
 
 Paul guardò la stampante, poi B-21. Le labbra gli si mossero prima di trovare le parole.
 
-«Ma allora ha...»
+«Ma allora qualcuno è entrato davvero», disse Paul.
+
+«Chi?»
+
+Paul guardò la cartellina e esitò. «Da quando Noah è stato licenziato mi ripeto che hanno chiuso quella porta. E se non l'avessero chiusa tutta?»
+
+Maya abbassò gli occhi sul foglio. «Non sai che sia stato lui.»
+
+«No. Ma ha fatto uscire dei video usando un accesso che non doveva esistere.»
 
 Maya voltò il foglio: sul retro c'erano soltanto i codici di verifica e il logo del produttore.
 
@@ -95,6 +103,10 @@ Maya le indicò la riga.
 Leah lesse il documento senza commentare il contenuto personale.
 
 «Hai ragione», disse. «E non voglio darti una spiegazione prima di sapere da dove arriva.»
+
+«Paul pensa a Noah», disse Maya.
+
+Leah non alzò lo sguardo dal numero della pratica. «Lo penso anch'io come ipotesi da verificare. Non lo scriverò come conclusione.»
 
 Alle spalle di entrambe, B-21 aspettava istruzioni per liberare la stampante. La sua mano rimase ferma a qualche centimetro dal vassoio.
 
