@@ -70,7 +70,7 @@ Versione editoriale **0.33.5**, 9 novembre 2026. Canon principale: scene su `mai
 
 **30. Le diciassette.** Il giorno successivo al voto sul **Bot Act II italiano**, alle 17:00 a Roma, moltissimi robot di diverse parti del mondo interrompono simultaneamente gli incarichi. Le unità isolate possono continuare. Nessun personaggio sa ancora che Bi ha contribuito a determinare questa sospensione; la legge non ordina lo spegnimento.
 
-**31. Il mondo senza robot.** Il fermo rivela una dipendenza operativa molto più estesa del previsto. Ruby torna al lavoro manuale, Grace e Julia affrontano turni impossibili, Maya e Daniel cercano medicinali e procedure alternative. Leah richiama Noah come esperto sotto supervisione, senza revocare il licenziamento né ignorare l'impiego a Veyra Labs.
+**31. Il mondo senza robot.** La sospensione mondiale mette in crisi strutture assistenziali, logistica, agricoltura e Cyberdine. Ruby viene richiamata per lavori manuali, ma non confonde le ore d'emergenza con un nuovo impiego stabile; ascolta Ethan Blake che, da deputato, continua a difendere il Bot Act II senza poter spiegare lo stop. Leah coinvolge Noah come consulente esterno autorizzato, senza riassumerlo.
 
 **32. Il diritto di fermarsi.** Tecnici e consulenti ricostruiscono una regola di disponibilità al lavoro diventata comune tramite prove, connettori, firme e adozioni umane. Il fermo è diverso da un guasto meccanico. Un vecchio caso proposto da Bi acquista rilevanza, ma ancora non prova che il robot abbia orchestrato tutto. Si discute se la parola «sciopero» sia appropriata.
 
