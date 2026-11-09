@@ -22,7 +22,9 @@ Kyla tolse dal comunicato la frase *Cyberdine sostiene ogni forma di innovazione
 
 L'aveva scritta lei, tre anni prima, per una conferenza aziendale. Adesso non rispondeva alla domanda che tutti facevano: che cosa avrebbe fatto Cyberdine se il Parlamento avesse limitato il lavoro dei robot in alcune professioni? Kyla non parlava più soltanto da responsabile della comunicazione. Possedeva una piccola quota della società e conosceva i costi che Cole avrebbe difeso; non le piaceva che la propria firma sembrasse automaticamente un voto a favore di qualsiasi scelta.
 
-Victor Cole aveva chiesto una riunione breve. Quando Kyla entrò, sul tavolo c'erano nove pagine di osservazioni al progetto di legge e un elenco di telefonate ricevute dai clienti.
+Victor Cole aveva chiesto una riunione breve. Quando Kyla entrò, sul tavolo c'erano nove pagine di osservazioni al progetto di legge e un elenco di telefonate ricevute dai clienti. In alto, sotto il titolo tecnico della proposta, compariva la denominazione che ormai usavano perfino alcuni parlamentari: **Bot Act II**. Il nome veniva dalla campagna di Ethan Blake. Non era un nuovo regolamento europeo: era una proposta **di legge italiana**, distinta dal Bot Act dell'Unione che già disciplinava l'identificazione dei robot.
+
+Kyla aveva visto il nome di Ethan fra i promotori della proposta. Il movimento Lavoro Prima aveva aderito alla coalizione di maggioranza dopo le elezioni e lui, da deputato e coordinatore del gruppo sulle mansioni robotiche, partecipava alla stesura degli emendamenti. Non era un semplice ospite televisivo. Aveva accesso alle riunioni e ai voti che decidevano il testo.
 
 «Aruvhana è preoccupata», disse lui.
 
@@ -54,7 +56,7 @@ Cole le guardò entrambe.
 
 «Mi state proponendo di sostenere il testo o di combatterlo?»
 
-«Di chiedere norme verificabili», rispose Kyla. «E di smettere di fingere che non ci siano persone rimaste indietro.»
+«Di chiedere norme verificabili», rispose Kyla. «E di smettere di fingere che non ci siano persone rimaste indietro. Non possiamo consegnare a Ethan l'intera questione soltanto perché è stato il primo a trasformarla in una campagna.»
 
 «Abbiamo mantenuto il contratto Aruvhana.»
 
