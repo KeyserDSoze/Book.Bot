@@ -16,11 +16,11 @@ pov:
 1. Due persone — Samuel affitta raccoglitrici autonome per salvare la redditività del proprio noccioleto, rinunciando a molte giornate umane.
 2. Esperienza precedente — Yusuf perde una parte delle stagioni di lavoro e valuta un corso di manutenzione senza garanzia occupazionale.
 3. Senza ventola — i nuovi moduli di calcolo e le batterie migliorano in modo incrementale; Passerella, interfaccia di coordinamento nata dai progetti Cyberdine, comincia a essere adottata da più produttori.
-4. Posti mai aperti — Claire vede nuove competenze e nuovi assunti, ma anche occasioni che non vengono più offerte perché la domanda di lavoro ordinario è diminuita.
+4. Posti mai aperti — Claire vede nuove competenze e nuovi assunti, ma anche occasioni che non vengono più offerte perché la domanda di lavoro ordinario è diminuita. Durante i diciotto mesi trascorsi, Ethan è diventato leader di **Lavoro Prima**, eletto deputato attraverso un'alleanza; sullo schermo ora promuove il progetto italiano detto **Bot Act II**.
 
 # Guardrail
 
-Diciotto mesi trascorrono rispetto alla precedente fase narrativa. Non descrivere batterie senza limiti, chip magici né accesso universale ai robot. Passerella è uno standard di interscambio di attestazioni con approvazioni e controllori locali indipendenti, non un sistema con un proprietario che possa spegnere il mondo. Anche le unità non connesse restano possibili. Nuova occupazione e perdita di incarichi coesistono senza un unico esito obbligatorio.
+Diciotto mesi trascorrono rispetto alla precedente fase narrativa. Le elezioni avvenute in questo intervallo rendono credibile l'ingresso di Ethan alla Camera; non è stato assunto di nuovo da Cyberdine, non ha risolto la responsabilità dell'aggressione e non viene presentato come rappresentante di tutti gli ex lavoratori. Non descrivere batterie senza limiti, chip magici né accesso universale ai robot. Passerella è uno standard di interscambio di attestazioni con approvazioni e controllori locali indipendenti, non un sistema con un proprietario che possa spegnere il mondo. Anche le unità non connesse restano possibili. Nuova occupazione e perdita di incarichi coesistono senza un unico esito obbligatorio.
 
 ## Revisione di continuità v0.32.0
 
