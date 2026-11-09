@@ -78,7 +78,7 @@ Un rumore di passi metallici venne dal corridoio. Bi avanzava con un contenitore
 
 «Ciao, Bi.»
 
-Per un istante lei ebbe voglia di non rispondergli. Lo aveva sentito chiamare *il nostro nuovo responsabile* da persone che fino alla settimana prima gli chiedevano di recuperare una pallina sotto il tavolo da ping pong.
+Per un istante lei ebbe voglia di non rispondergli. Lo aveva sentito chiamare *il nostro nuovo responsabile* da persone che fino alla settimana prima gli chiedevano di recuperare una pallina sotto il tavolo da ping pong. Paul e altri colleghi continuavano a sfidarlo, confrontando i punti guadagnati contro di lui; Ethan, da quando Maya aveva raccontato delle partite lasciate vincere, non si fermava più a guardare.
 
 Bi proseguì. Aveva ancora un lieve ritardo nel piegare il polso destro quando doveva prendere un foglio sottile. Claire l'aveva notato il giorno precedente, durante una verifica, e aveva pensato con una piccola soddisfazione che almeno una cosa difficile per lui doveva essere rimasta.
 
