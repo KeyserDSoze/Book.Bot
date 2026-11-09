@@ -49,7 +49,7 @@ Noah guardò verso il piazzale, dove due tecnici trasportavano a mano una casset
 
 «E la porta clandestina?»
 
-«Volevo controllare che la modifica continuasse a funzionare. Ero convinto che sarei stato l'unico a sapere quando usarla.»
+«Volevo controllare che la modifica continuasse a funzionare. Ero convinto che sarei stato l'unico a sapere quando usarla. Poi ho pubblicato quel video pensando che mostrare Bi al mondo fosse sufficiente a sistemare quello che avevo nascosto.»
 
 «E intanto potevi vedere cose che non avevi il diritto di vedere.»
 
@@ -61,9 +61,9 @@ Maya si voltò.
 
 «Non te l'ho chiesto.»
 
-«Lo so. E non voglio che quello che ho raccontato a Bi venga citato come prova che avevi ragione a modificarlo.»
+«Lo so. E non voglio che quello che ho raccontato a Bi venga citato come prova che avevi ragione a modificarlo. Adesso lavori qui, sotto un altro nome. Quanti altri robot avete costruito cercando di rifare Bi?»
 
-«Non ho le tue conversazioni», disse Noah.
+«Nessuno di loro ha le sue conversazioni», disse Noah. «Abbiamo unità diverse, prove di dialogo più avanzate e modelli che funzionano meglio. Non siamo riusciti a fare un secondo Bi. E non ho le tue conversazioni.»
 
 «Non ti ho chiesto di averle. Ti sto chiedendo di non parlare per me.»
 
