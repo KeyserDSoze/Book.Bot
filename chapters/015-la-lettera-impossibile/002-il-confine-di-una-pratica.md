@@ -66,7 +66,11 @@ Paul annuì. Aveva il viso rosso, come gli succedeva quando si sentiva corregger
 
 «Mi serve che tu ricostruisca soltanto la procedura normale», aggiunse. «Se manca una firma, dimmelo. Se tutto è andato come previsto, è ancora più importante.»
 
-Dopo pranzo Kyla entrò senza salutare. Aveva appena parlato con Maya.
+Dopo pranzo Kyla entrò senza salutare. Aveva appena parlato con Maya. Portava anche tre messaggi ricevuti da colleghi di reparti diversi. Nessuno aveva visto l'intera pratica, ma tutti avevano sentito dire che un collegamento esterno fosse ricomparso dopo il licenziamento di Noah. Uno chiedeva perché l'azienda non lo avesse tenuto fuori dai sistemi; un altro affermava già che fosse stato lui a far uscire la lettera. Kyla non inoltrò quei messaggi a Maya.
+
+«In azienda hanno già deciso chi è stato», disse a Leah.
+
+«Allora abbiamo un altro problema», rispose Leah. «Non hanno letto le prove che abbiamo noi, e nemmeno noi abbiamo ancora una conclusione.»
 
 «Vuole sapere se la lettera è stata letta da persone fuori Veyra.»
 
