@@ -21,7 +21,7 @@ Quella mattina non aveva appuntamenti.
 
 L'indagine sulle responsabilità dell'arresto mondiale era ancora aperta. Il suo ruolo nell'aggiornamento clandestino era stato inserito fra le cause da esaminare, ma non come un'unica spiegazione di ciò che era accaduto. C'erano le firme dei produttori, i test non eseguiti, i contratti, le decisioni commerciali e la scelta deliberata di Bi. Nessuno avrebbe potuto cancellarli tutti indicando un solo nome.
 
-Noah aveva consegnato il quaderno originale e una copia verificata dei propri appunti. Non aveva chiesto di riavere il lavoro a Cyberdine.
+Noah aveva consegnato il quaderno originale e una copia verificata dei propri appunti. Non aveva chiesto di riavere il lavoro a Cyberdine. Veyra Labs gli aveva proposto di rientrare fra i prototipi e le nuove capacità conversazionali, ancora sotto il nome Evan North. Noah non aveva dato una risposta. Il fatto che potesse continuare a migliorare altri robot non gli restituiva Bi.
 
 Aprì la scatola.
 
