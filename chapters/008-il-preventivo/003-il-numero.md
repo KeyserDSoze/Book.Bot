@@ -93,7 +93,7 @@ Kyla non rispose subito. Appoggiò la cartellina vicino al foglietto scritto a m
 
 Maya guardò il punto dove Bi aveva lavorato.
 
-«Il capo ha parlato di B-17 come parlerebbe di un dispositivo che ha superato il costo della manutenzione. Forse è tutto quello che è per l'azienda.»
+«Il capo ha parlato di B-17 come parlerebbe di un dispositivo che ha superato il costo della manutenzione. Poi ha detto che non abbiamo abbastanza liquidità per aggiustarlo. Forse è tutto quello che è per l'azienda.»
 
 «Per l'azienda è un bene strumentale», rispose Kyla. «Non posso raccontarti il contrario.»
 
@@ -105,7 +105,7 @@ La domanda sorprese Kyla. Si sistemò una ciocca di capelli dietro l'orecchio, p
 
 Maya non cercò di riempire la pausa.
 
-«Non voglio che un nuovo robot venga trattato male», disse poi. «So che arriverà una unità nuova e che dovrà svolgere gli stessi compiti. Ma non vorrei che tutti si comportassero come se avessimo soltanto aspettato la consegna di un pezzo di ricambio.»
+«Non voglio che un nuovo robot venga trattato male», disse poi. «So che arriverà un'unità più economica, capace di fare soltanto una parte delle commissioni. Ma non vorrei che tutti si comportassero come se avessimo soltanto aspettato la consegna di un pezzo di ricambio.»
 
 Kyla annuì lentamente.
 
@@ -127,6 +127,6 @@ Maya alzò il telo quanto bastava per vedere la riga bianca del tavolo, poi lo l
 
 Aveva pensato che un giorno avrebbe chiesto a Bi un'altra partita vera. Una partita in cui lui avrebbe potuto vincere senza cercare di accontentarla.
 
-Adesso l'azienda aveva deciso che una macchina diversa sarebbe bastata.
+Adesso l'azienda aveva deciso che una macchina molto più economica sarebbe bastata per quello che poteva ancora permettersi di chiedere a un robot.
 
 Lei non sapeva ancora se sarebbe bastata a chi ci lavorava accanto.
