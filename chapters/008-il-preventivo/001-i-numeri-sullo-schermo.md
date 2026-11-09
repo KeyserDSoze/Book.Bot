@@ -21,37 +21,55 @@ factions:
   - faction:cyberdine
 ---
 
-Victor Cole aveva la pessima abitudine di lasciare la slide più importante per ultima.
+**+11% RICAVI DI COMPETENZA.**
 
-Kyla lo sapeva perché lavorava con lui da abbastanza tempo da riconoscere il momento in cui smetteva di guardare le righe e cominciava a guardare la sala. Alla plenaria di quel giovedì c'erano duecento sedie, centottantasei persone e una fila di colleghi in piedi lungo la parete. Al centro, sotto lo schermo, una brocca d'acqua che nessuno aveva toccato.
+Era la prima cosa comparsa sullo schermo della plenaria, prima ancora che Victor Cole salutasse.
 
-Non c'era un robot in vista.
+«Undici per cento in più rispetto al trimestre di confronto», disse, con il telecomando già in mano. «Sono risultati buoni. Lo dico senza cautela: abbiamo lavorato bene e contabilizzato ricavi per competenze che continuano a servire.»
 
-Era passato abbastanza tempo dall'aggressione perché l'azienda avesse riaperto regolarmente il corridoio di servizio e distribuito i fascicoli che Bi trasportava quella sera. Non abbastanza perché tutti smettessero di abbassare la voce quando ne parlavano.
+Nella sala c'erano centottantasei persone sedute e una fila di colleghi in piedi lungo la parete. Kyla era al lato della prima fila, abbastanza vicina al palco da vedere il foglio piegato che Cole teneva nella mano libera. La brocca d'acqua era ancora intatta.
 
-Cinque minuti prima, dietro il telo che separava il palco dalla sala, Cole aveva chiesto a Kyla se la camicia gli si fosse macchiata di caffè. Lei aveva controllato il colletto.
+Victor aveva sempre preferito lasciare le comunicazioni difficili per ultime. Cinque minuti prima, dietro il telo, le aveva chiesto due volte se avesse una macchia di caffè sul colletto.
 
-«È pulita.»
+«È pulita, Victor.»
 
 «Sei sicura?»
 
-«Victor, nessuno è venuto per vedere il tuo colletto.»
+«Nessuno è qui per la camicia.»
 
-«Io sì», aveva risposto lui, e aveva cercato di sorridere. Kyla aveva capito che era nervoso. Le era parso quasi rassicurante, poi si era irritata perché toccava a lei tranquillizzarlo proprio nella giornata in cui avrebbe dovuto spiegare ai colleghi decisioni dure.
+«Io sì», aveva risposto, provando a sorridere.
 
-Cole salì sul piccolo palco con il telecomando nella mano sinistra e un foglio piegato nella destra.
+Adesso la camicia era perfetta e la prima cifra occupava quasi tutto lo schermo.
 
-«Partiamo dai numeri.»
+Non c'era un robot in vista. Era passato abbastanza tempo dall'aggressione perché il corridoio di servizio fosse tornato utilizzabile e i documenti lasciati da B-17 fossero stati smistati a mano. Non abbastanza perché le persone smettessero di abbassare la voce quando ne parlavano.
 
 Durante la preparazione Kyla aveva tenuto aperto un articolo di **Olivia Brooks**, una giornalista che scriveva di lavoro nei centri logistici. Raccontava un impianto diventato più rapido senza che per tutti diminuissero i richiami fuori turno. Kyla ne aveva ricavato una domanda per la riunione: *di chi stiamo misurando il tempo?* Non aveva tolto la slide sugli straordinari.
 
-Sullo schermo apparvero quattro indicatori. Il primo occupava quasi metà slide: **ricavi di competenza +11%** nel trimestre rispetto al confronto. Seguivano l'aumento degli ordini, il calo degli errori di trascrizione e tempi medi più brevi.
+Il numero si rimpicciolì, lasciando spazio ad altri tre indicatori: più ordini amministrativi e rinnovi di manutenzione, meno errori di trascrizione, tempi medi più brevi. Erano tutti dati veri. Sul prospetto originale, però, gli ordini piccoli e le estensioni dei contratti già esistenti venivano sommati nello stesso grafico delle nuove commesse.
 
-«Un trimestre di crescita», disse Cole. «E non soltanto perché i robot fanno le commissioni: il nostro prodotto è software, e il software lo stiamo vendendo.»
+«È una crescita che abbiamo costruito», disse Cole. «Il nostro prodotto è software. Abbiamo imparato a consegnarlo più in fretta con gli agenti, senza smettere di assistere i sistemi che i clienti già utilizzano.»
 
-Kyla ricordava la pagina che avevano tolto dalla presentazione principale. Gli **incassi erano scesi del nove per cento** nello stesso confronto, diversi clienti pagavano tardi e il costo delle rilavorazioni sui connettori storici superava le previsioni. Nessuna cifra sullo schermo era inventata. Le altre esistevano nel fascicolo completo, raggiungibile da un collegamento piccolo in fondo alla pagina. Lei aveva accettato quella gerarchia dei numeri senza discutere abbastanza.
+Kyla ricordava la pagina che avevano tolto dalla presentazione principale. Gli **incassi erano scesi del nove per cento** nello stesso confronto, diversi clienti pagavano tardi e il costo delle rilavorazioni sui connettori storici superava le previsioni. L'importo dei lavori già acquisiti per i trimestri successivi si stava assottigliando. Delle ultime gare per nuove integrazioni, Cyberdine ne aveva perse più di quante ne avesse vinte. Una società nata da pochi anni aveva presentato in una di quelle gare un preventivo dimezzando tempi e giornate di sviluppo, con test e consegne già organizzati intorno agli agenti.
 
-«Non è una catastrofe», aggiunse Cole. «Ma non intendo chiamare normalità un arretrato solo perché abbiamo imparato a conviverci.»
+Nessuna cifra sullo schermo era inventata. Le altre esistevano nel fascicolo completo, raggiungibile da un collegamento piccolo in fondo alla pagina. La liquidità non aveva seguito i ricavi: dopo stipendi, canoni e fornitori, rimaneva poca disponibilità per spese impreviste. Kyla aveva accettato quella gerarchia dei numeri senza discutere abbastanza.
+
+Due sedie dietro di lei Gavin si chinò verso Claire. Kyla riconobbe le parole soltanto perché Cole aveva aspettato che la slide finisse di caricarsi.
+
+«L'undici per cento è giusto», sussurrò Gavin. «Sono ricavi che abbiamo già maturato. Gli incassi sono meno nove.»
+
+«E i nuovi clienti?», chiese Claire.
+
+«I rinnovi continuano. Le nuove commesse di sviluppo, invece, le vincono quelli che partono da zero con gli agenti. Non hanno tre generazioni di connettori da mantenere e cento passaggi interni prima di un rilascio.»
+
+«Quindi lavoriamo di più su quello che avevamo già», disse Claire, «e meno su quello che dovremmo avere domani.»
+
+Gavin non rispose. Kyla vide che aveva richiuso il prospetto delle opportunità commerciali prima di rimetterlo nella cartellina.
+
+Cole riprese a parlare come se la pausa fosse stata un applauso mancato.
+
+«Non considero questi numeri un caso fortunato», aggiunse Cole. «Siamo riusciti a crescere anche nel mezzo di un cambiamento enorme. Non tutte le aziende con la nostra storia ci sono riuscite.»
+
+Kyla lo ascoltò. Era una frase vera, se il confronto rimaneva il trimestre già chiuso. Non rispondeva alla domanda che aveva letto nel prospetto delle gare perse: quanti progetti nuovi sarebbero entrati dopo?
 
 Kyla annotò la frase. Era precisa, e i colleghi avrebbero potuto riconoscere in essa la propria fatica.
 
@@ -62,6 +80,8 @@ Il risultato era stato buono. La slide sui difetti riaperti dopo il rilascio, pe
 Il grafico successivo misurava il tempo speso a verificare allegati, recuperare versioni precedenti e accertare che una firma corrispondesse alla revisione corretta. Kyla ricordava le discussioni necessarie per costruire quei dati: ciò che compariva sullo schermo era una sintesi, non tutto il lavoro che serviva a renderla attendibile.
 
 «Abbiamo risparmiato molto lavoro ripetitivo», proseguì Cole. «Questo ci ha dato margine per attività più qualificate. Alcuni di voi hanno potuto chiudere prima, tornare in famiglia, concentrarsi su problemi veri. Non intendo fingere che non sia un risultato.»
+
+Sul lato dello schermo comparvero alcuni nuovi progetti avviati. Kyla sapeva che i clienti li avevano commissionati molti mesi prima. Nel frattempo società più giovani stavano presentando offerte costruite fin dall'inizio con sviluppo agentico, prove automatizzate e strutture leggere. Cyberdine aveva adottato gli agenti dentro processi e costi organizzativi rimasti in gran parte quelli di prima. Non era ferma al passato; non stava nemmeno guadagnando velocità quanto i concorrenti.
 
 Un mormorio attraversò la sala. Kyla riconobbe la testa di Mila tra le persone sedute in seconda fila. Paul era più indietro, appoggiato alla parete con le braccia incrociate.
 
@@ -137,7 +157,19 @@ Il nome sembrò tagliare la sala in due, ma soltanto a Kyla. Per il resto delle 
 
 Cole si fermò davanti a una tabella molto semplice. Una colonna per riparare B-17. Una per acquistare una unità nuova, con certificazione e garanzia di funzionamento.
 
-«Riparare B-17 costerebbe quasi quanto comprarne uno nuovo», disse. «E il centro non è in grado di garantirci che i tempi e il risultato siano migliori. Lo dico senza girarci intorno: penso che non lo ripareremo. Anzi, ho deciso di non autorizzare questa spesa.»
+«Riparare B-17 costerebbe quasi quanto comprarne un altro della stessa fascia», disse. «E il centro non è in grado di garantirci tempi e risultato. Ho deciso di non autorizzare quella spesa.»
+
+Indicò la colonna di destra. La tabella non paragonava la riparazione all'unità che avevano ordinato: mostrava il prezzo del modello equivalente che avevano valutato e poi escluso.
+
+«Non possiamo permetterci né l'una né l'altra soluzione oggi», aggiunse. «Non con le disponibilità di cassa che abbiamo e le scadenze dei prossimi mesi.»
+
+Il silenzio fu diverso da quello che aveva accompagnato la slide dei ricavi. Kyla vide Paul abbassare il capo per leggere la tabella sul telefono; non c'era una cifra da contestare.
+
+«Quindi non abbiamo più i soldi neanche per riparare Bi», mormorò Mila, senza alzare la mano.
+
+«Il preventivo non sarebbe sostenibile, anche se fosse più basso», le rispose Paul sottovoce. «La fattura arriverebbe prima che certi clienti ci paghino.»
+
+Kyla li sentì e guardò Victor. Per la prima volta durante la riunione le due serie di numeri — i ricavi presentati all'inizio e il denaro effettivamente disponibile — erano entrate nella stessa frase.
 
 Una sedia scricchiolò. Qualcuno tossì.
 
@@ -145,7 +177,11 @@ Kyla guardò Maya.
 
 Le vide scivolare il foglio dalle dita, poi piegarsi a raccoglierlo prima che toccasse terra.
 
-«Per l'azienda sarebbe una decisione difficile da giustificare», continuò Cole. «Non abbiamo un margine infinito. Abbiamo già costi aggiuntivi di assistenza e di riorganizzazione. La soluzione è acquistare un'unità sostitutiva che possa prendere in carico i compiti assegnati a B-17.»
+«La soluzione approvata è un contratto di noleggio operativo per un'unità ricondizionata della stessa famiglia, ma di fascia base», continuò Cole. «La scocca è la stessa. Il canone e il costo iniziale sono molto più bassi. Potrà fare i percorsi di consegna, i rifornimenti e le semplici operazioni documentali previste dal profilo standard. Non farà i test sui terminali con gli sviluppatori e non preparerà analisi di integrazione. Quelle attività torneranno ai reparti.»
+
+«Quanto più basso?», chiese una collega senza microfono.
+
+«Una frazione del costo di acquisto del modello che abbiamo escluso», rispose Cole. «Ed è una spesa distribuita nel tempo, non una somma che dobbiamo trovare tutta adesso. Non la presento come la stessa capacità tecnica.»
 
 Alcuni annuirono. Altri rimasero immobili.
 
@@ -177,7 +213,7 @@ Kyla non vide chi avesse parlato.
 
 Cole fece scorrere gli occhi sulle file.
 
-«Sarà un'unità equivalente per i servizi assegnati.»
+«Sarà un'unità sufficiente per il perimetro ridotto che abbiamo deciso di finanziarle. Non equivalente a tutto ciò che B-17 aveva finito per fare.»
 
 Kyla annotò anche quella frase. Sul taccuino, subito sotto, aveva scritto senza accorgersene una parola di due lettere.
 

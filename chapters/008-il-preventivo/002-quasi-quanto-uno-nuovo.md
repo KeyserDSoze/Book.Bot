@@ -54,15 +54,19 @@ Nel prospetto c'era anche una voce per un'eventuale cessione integrale dell'unit
 
 Kyla guardò il foglio.
 
-«Perciò dobbiamo comprarne una.»
+«Perciò dobbiamo prenderne una.»
 
-«Dal punto di vista dell'azienda è la scelta più semplice.»
+«Non la versione dello stesso livello», disse Paul. «Victor ha scelto una configurazione economica ricondizionata, a canone. Dovrà fare pochi percorsi e portare fascicoli. Non gli affideremo le prove sui terminali come facevamo con Bi.»
+
+«Non potevamo permetterci il modello nuovo?»
+
+«Il preventivo si potrebbe pagare sulla carta», rispose Paul. «La cassa non è la stessa cosa. Gli stipendi e i fornitori scadono prima di certe fatture dei clienti. Un acquisto così ora metterebbe a rischio altre spese.»
 
 «Dal tuo?»
 
 Paul tirò la penna verso di sé. Aveva una crepa sul tappo e gli lasciava una piccola macchia blu sul dito medio.
 
-«Io riparo cose da quando avevo tredici anni. Se una macchina si aggiusta, di solito preferisco aggiustarla. Ma questo non significa che ogni riparazione abbia senso.»
+«Io riparo cose da quando avevo tredici anni. Se una macchina si aggiusta, di solito preferisco aggiustarla. Ma questo non significa che ogni riparazione abbia senso. E non possiamo pretendere che l'azienda abbia denaro disponibile solo perché nel trimestre ha registrato più ricavi.»
 
 «E allora?»
 
@@ -72,7 +76,7 @@ Kyla aspettò.
 
 Paul fece scorrere il documento fino alla sezione sul recupero delle impostazioni. Il centro dichiarava che le funzioni di lavoro certificate potevano essere installate su una nuova unità. Non garantiva la conservazione di tutte le interazioni locali non necessarie al servizio e non prometteva di ricostruire ogni abitudine osservata dai colleghi.
 
-«Una unità dello stesso modello può fare le fotocopie», disse. «Può ritirare i fascicoli. Può preparare i dossier, sotto controllo umano. Tutto vero.»
+«Una unità di quella famiglia può fare le fotocopie», disse. «Può ritirare i fascicoli, seguire i percorsi già configurati e portare i dossier che altri hanno preparato. La versione che ci possiamo permettere farà questo. Non avrà la configurazione, le prove e le autorizzazioni con cui Bi era arrivato a lavorare con lo sviluppo.»
 
 «Ma?»
 

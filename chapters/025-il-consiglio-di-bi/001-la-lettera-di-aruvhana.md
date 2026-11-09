@@ -35,7 +35,7 @@ Cyberdine non costruiva le macchine installate nei siti dei propri clienti. Cost
 
 Per molti anni il valore di quell'attività era stato il lavoro degli sviluppatori capaci di leggere sistemi che altri preferivano non toccare. Poi erano arrivati gli agenti. Generavano codice, test e rapporti sempre migliori. Gli ingegneri discutevano requisiti e firmavano revisioni; alcuni continuavano a conoscere ogni dettaglio del prodotto, altri soltanto le parti su cui lavoravano.
 
-L'efficienza era migliorata. I clienti lo sapevano.
+L'efficienza era migliorata. I clienti lo sapevano. Ma Kyla ricordava la plenaria in cui Victor aveva celebrato i ricavi cresciuti dell'undici per cento, mentre alcuni clienti pagavano tardi e le gare nuove finivano sempre più spesso a software house giovani, costruite attorno agli agenti fin dal primo giorno. Dopo quella riunione avevano noleggiato un robot economico perché non avevano cassa per riparare Bi. Il rinnovo di Aruvhana era rimasto, fino a quel momento, una delle poche sicurezze su cui programmare il lavoro dell'anno successivo.
 
 Cole la ricevette prima delle sette e mezza. Aveva già la stessa lettera aperta sul tablet e una tabella con quattro scenari.
 

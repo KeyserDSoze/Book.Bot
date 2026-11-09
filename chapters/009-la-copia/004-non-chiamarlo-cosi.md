@@ -73,7 +73,7 @@ Non era lo stesso interlocutore.
 
 Maya passò davanti alla macchinetta del caffè. I bicchieri erano in ordine, il serbatoio dell'acqua era stato controllato, i contenitori per i fondi erano stati svuotati. Il piccolo foglio scritto da Paul con le istruzioni manuali non c'era più.
 
-L'azienda era tornata a funzionare.
+Le piccole commissioni che il robot sapeva svolgere erano tornate regolari. Le verifiche sui vecchi programmi, i dossier difficili e i nuovi contratti, invece, continuavano a occupare le persone: il modello economico non era stato acquistato per quelle attività.
 
 Nello Spazio Comune, invece, il tavolo da ping pong restava aperto senza giocatori. Una pallina era finita sotto la panca. Maya la raccolse e la fece rimbalzare una volta sul palmo.
 
@@ -87,7 +87,7 @@ Paul era sulla soglia con un mazzo di chiavi.
 
 «Ha già fatto tutto?»
 
-«Quello che gli abbiamo assegnato. E senza sbagliare una fotocopia.»
+«Le poche cose che può fare, sì. E senza sbagliare una fotocopia.»
 
 Paul tentò un sorriso. Maya gli restituì una smorfia.
 

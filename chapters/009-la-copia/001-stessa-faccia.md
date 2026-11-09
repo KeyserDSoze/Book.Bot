@@ -21,9 +21,9 @@ Un mese dopo la plenaria, Paul Turner vide arrivare Bi dentro una scatola.
 
 Fu il primo pensiero che gli attraversò la testa, e gli dispiacque averlo avuto.
 
-La cassa era alta quasi due metri, con i supporti di sicurezza ancora fissati ai lati. Il furgone l'aveva lasciata nel magazzino tecnico alle otto e dieci. Sulla distinta di consegna comparivano un codice di modello identico a quello di B-17 e un numero di serie diverso.
+La cassa era alta quasi due metri, con i supporti di sicurezza ancora fissati ai lati. Il furgone l'aveva lasciata nel magazzino tecnico alle otto e dieci. Sulla distinta di consegna compariva la stessa famiglia esteriore di B-17, un numero di serie diverso e la dicitura **allestimento base ricondizionato — noleggio operativo**. Il costo iniziale era una piccola parte di quello del modello completo che Victor aveva escluso.
 
-Paul controllò il documento due volte. La pratica era corretta. La distinta rimandava anche alle schede di compatibilità Lanter della famiglia B, lo stesso archivio di supporto a cui aveva affidato la nota sulla cornice magnetica. Stesso modello, altro numero di serie; le istruzioni utili potevano tornare, le autorizzazioni locali no.
+Paul controllò il documento due volte. La pratica era corretta. La distinta rimandava anche alle schede di compatibilità Lanter della famiglia B, lo stesso archivio di supporto a cui aveva affidato la nota sulla cornice magnetica. Stessa scocca, allestimento diverso; le istruzioni meccaniche utili potevano tornare, le autorizzazioni e le capacità locali no.
 
 Dietro il vetro del reparto sviluppo, Noah Carter aveva interrotto una conversazione per guardare la cassa. Non si avvicinò. Prima che il tecnico della consegna iniziasse a togliere i fermi, Noah sparì dietro una porta interna. Paul pensò che probabilmente avesse un test in corso e non potesse abbandonarlo.
 
@@ -41,15 +41,15 @@ Stesso colore opaco delle superfici. Stessa forma dei giunti. Stessa piccola lin
 
 Soltanto la targhetta laterale riportava **B-21**.
 
-«È il modello più vicino a quello che avevate», spiegò il tecnico. «La configurazione di base è certificata per il vostro ambiente.»
+«Fuori è la stessa serie», spiegò il tecnico. «Dentro è la versione economica: calcolo ridotto, pacchetto standard e un elenco ristretto di compiti. È ricondizionata e ricertificata per il vostro ambiente, non è un'unità con tutte le opzioni.»
 
 Paul si chinò per osservare l'attacco della spalla.
 
 «È la stessa revisione meccanica?»
 
-«Sì. Abbiamo verificato compatibilità e profilo di sicurezza. Il resto della configurazione operativa è quello previsto dal contratto.»
+«La scocca e i principali attacchi sono della stessa revisione. Il pacchetto di calcolo e le funzioni abilitate sono inferiori. Il contratto copre trasporto, rifornimento, manipolazione semplice e consegna documentale. Non farà le attività di sviluppo che il vecchio robot aveva imparato a sostenere.»
 
-Paul annuì. Aveva chiesto un rapporto sui test e lo aveva ricevuto. Il nuovo robot non avrebbe dovuto comportarsi come una persona per essere utile. Doveva riconoscere ostacoli, muoversi in sicurezza, rispettare le autorizzazioni, portare oggetti e interagire con i sistemi senza andare oltre i permessi ricevuti.
+Paul annuì. Aveva chiesto un rapporto sui test e lo aveva ricevuto. Il nuovo robot non avrebbe dovuto comportarsi come una persona per essere utile. Doveva riconoscere ostacoli, muoversi in sicurezza, rispettare le autorizzazioni e portare oggetti lungo percorsi definiti. Non possedeva gli strumenti per verificare autonomamente un connettore, ricostruire una catena di fonti o valutare un'anomalia su un terminale storico. Era un acquisto di capacità molto più limitata, sostenibile attraverso un canone basso.
 
 Il tecnico liberò i fermi.
 
@@ -127,7 +127,7 @@ Il robot aprì il coperchio, collocò il foglio nella cornice e lo allineò con 
 
 Paul prese il foglio. Non sapeva se essere contento o deluso. Nel registro dei test scrisse **conforme**, con una pressione tale da quasi incidere la pagina.
 
-La mattina era andata bene. La nuova unità sapeva fare il lavoro.
+La mattina era andata bene. La nuova unità sapeva fare **quel** lavoro.
 
 Quando arrivò la pausa, Paul tornò alla macchinetta del caffè. Aprì il vano e trovò i bicchieri pieni. B-21 aveva completato il primo rifornimento assegnato dal calendario.
 

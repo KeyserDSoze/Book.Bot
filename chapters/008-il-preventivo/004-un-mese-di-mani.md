@@ -24,7 +24,7 @@ Sul calendario comparivano turni per il recupero degli originali, visite ai vecc
 
 Claire lesse il proprio nome accanto a una voce: **Martedì, 15:00–16:00 — validazione del percorso storico dei documenti e della funzione di conversione**.
 
-Subito sotto compariva il corso sulle librerie legacy, rinviato per la seconda volta. Non mancavano le persone interessate; mancavano ore formalmente tolte alle consegne e attribuite alla formazione. Alla riunione avevano autorizzato il principio. Il budget esecutivo continuava a rimbalzare fra Delivery e HR.
+Subito sotto compariva il corso sulle librerie legacy, rinviato per la seconda volta. Non mancavano le persone interessate; mancavano ore formalmente tolte alle consegne e attribuite alla formazione. Alla riunione avevano autorizzato il principio. Il budget esecutivo continuava a rimbalzare fra Delivery e HR: le ore di formazione non erano ancora finanziate e la direzione stava rinviando tutte le spese che non servivano a una consegna già fatturabile.
 
 Mila le si fermò accanto.
 
@@ -38,9 +38,9 @@ Mila le si fermò accanto.
 
 «E perché non basta il nuovo robot?»
 
-«Perché il nuovo robot non c'è ancora. E, quando arriverà, non avrà automaticamente le prove che Bi ha costruito insieme a noi.»
+«Perché il nuovo robot non c'è ancora. E quello che abbiamo noleggiato costerà molto meno proprio perché farà poco: trasporterà fascicoli e seguirà percorsi prestabiliti. Non farà le prove che Bi aveva costruito insieme a noi.»
 
-Claire aveva ripetuto quella frase così spesso da sentirla quasi estranea. Non era convinta che Bi fosse insostituibile. Era convinta che nessuno avesse messo in ordine ciò che lui aveva fatto: osservazioni, tentativi, casi scartati, piccoli adattamenti che i responsabili avevano accettato perché funzionavano. I log c'erano. Anche le patch. Mancava il filo che li teneva insieme.
+Claire aveva ripetuto quella frase così spesso da sentirla quasi estranea. Sapeva che la scelta del modello base non dipendeva da una preferenza tecnica: i clienti ritardavano i pagamenti e quelli nuovi cercavano squadre capaci di lavorare con gli agenti AI senza il peso dei vecchi processi. Non era convinta che Bi fosse insostituibile. Era convinta che nessuno avesse messo in ordine ciò che lui aveva fatto: osservazioni, tentativi, casi scartati, piccoli adattamenti che i responsabili avevano accettato perché funzionavano. I log c'erano. Anche le patch. Mancava il filo che li teneva insieme.
 
 Nel pomeriggio entrò nel laboratorio dei terminali vecchi. Un programmatore nuovo stava guardando una richiesta di correzione generata dall'agente.
 

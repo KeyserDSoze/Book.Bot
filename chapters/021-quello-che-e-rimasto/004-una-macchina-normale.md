@@ -20,39 +20,35 @@ A Cyberdine, quello stesso pomeriggio, Paul Turner stava cercando un originale c
 
 B-21 era accanto alla fotocopiatrice.
 
-«Verifica il registro delle consegne», gli disse Paul.
+«Controlla che questa cartellina corrisponda alla consegna del registro», gli disse Paul, mostrando il codice.
 
-«Procedo.»
+«Codice di consegna riconosciuto. Posizione assegnata: archivio tre.»
 
-L'unità aprì la consultazione autorizzata, confrontò il numero di pratica e indicò un'incongruenza tra la descrizione digitale e l'ultima collocazione cartacea.
+Paul aprì sul proprio terminale il registro delle revisioni. Fu lui a notare che la descrizione digitale indicava una collocazione diversa dall'ultima registrazione cartacea. La macchina di fascia base poteva confermare un'etichetta e portare una cartellina; non confrontare le ragioni per cui un documento era stato spostato.
 
-«È necessario consultare la revisione precedente.»
+«Quindi serve la revisione precedente», disse Paul, più a se stesso che al robot.
 
-«Lo so. Era questo che ti stavo chiedendo.»
+«Desidera una consegna dall'archivio tre?»
 
-«La richiesta iniziale non specificava la revisione.»
-
-Paul sospirò.
-
-«Hai ragione.»
+«Sì. Pratica quarantadue, collocazione che ti ho appena indicato.»
 
 Nella finestra a lato era rimasto aperto anche un ticket del reparto software. L'agente di sviluppo aveva proposto una correzione al controllo delle versioni e chiedeva una revisione umana. Paul conosceva i terminali reali meglio dei programmatori nuovi; nessuno, però, gli aveva assegnato il compito di ricostruire il percorso del codice da cui proveniva l'errore. Da quando Bi non c'era più, alcune richieste restavano a metà fra il tecnico che vedeva il problema e lo sviluppatore che sapeva formulare soltanto l'istruzione per un agente.
 
 B-21 non sorrise, non fece battute e non gli domandò se avesse dormito bene.
 
-Recuperò la scheda corretta.
+B-21 seguì il percorso e tornò con la cartellina contrassegnata dal codice richiesto. Paul aprì il fascicolo e verificò che contenesse la revisione giusta.
 
 Claire Foster entrò poco dopo, con una cartellina sotto il braccio.
 
 «È quella che cercavi?»
 
-«Sì. B-21 l'ha trovata.»
+«Sì. B-21 me l'ha portata dal posto che gli ho indicato. La differenza tra le revisioni ho dovuto ricostruirla io.»
 
 «Bene.»
 
 Claire controllò la provenienza prima di firmare.
 
-Era stata lei a riscrivere la procedura sugli originali, durante l'assenza della vecchia unità. Da allora Paul aveva dovuto tornare indietro meno spesso per cercare una firma illeggibile, e perfino B-21 sapeva dove interrompere il lavoro invece di procedere con il documento sbagliato.
+Era stata lei a riscrivere la procedura sugli originali, durante l'assenza della vecchia unità. Da allora Paul aveva dovuto tornare indietro meno spesso per cercare una firma illeggibile, e perfino B-21 sapeva interrompere una consegna quando un'etichetta non coincideva. Non era in grado di capire una incongruenza nella storia del documento.
 
 «Sai che cosa hanno proposto stamattina?», chiese Paul.
 
@@ -92,7 +88,7 @@ Nel corridoio passò una collega che non conosceva la storia di B-17. Era stata 
 
 «Grazie, Bi», disse automaticamente alla macchina.
 
-B-21 continuò a controllare il fascicolo che aveva in mano.
+B-21 continuò a tenere la cartellina in attesa della conferma di consegna.
 
 La collega rimase davanti a lui con le dita ancora posate sul bordo della cartellina.
 

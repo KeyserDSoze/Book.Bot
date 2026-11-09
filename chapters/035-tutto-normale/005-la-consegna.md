@@ -21,11 +21,11 @@ B-21 consegnò la cartellina a Maya alle nove e ventitré del martedì successiv
 
 Era rimasta nel circuito di lavoro per giorni, bloccata fra una consegna interrotta e una revisione da verificare. Prima che il robot potesse riprendere, Paul aveva controllato che la procedura manuale non avesse già chiuso la stessa pratica. Nessuno voleva duplicare un'azione soltanto per dimostrare che tutto funzionava di nuovo.
 
-«Questa è la versione corretta», disse B-21.
+«Cartellina associata alla revisione indicata nell'ordine», disse B-21.
 
 Maya guardò l'etichetta.
 
-«Lo so. Paul me l'ha confermato.»
+«È quella corretta. Paul ha controllato il contenuto.»
 
 «Posso registrare la consegna?»
 

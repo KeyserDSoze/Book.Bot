@@ -61,11 +61,11 @@ Gavin chiuse gli occhi per un momento. «Non è vero. Mi importa che il resto no
 
 Kyla mostrò le ore di continuità: Elena aveva recuperato originali, Paul aveva verificato apparati, Claire aveva corretto il caso di prova. Il gruppo di Gavin aveva consegnato puntualmente, ma il problema non era finito al passaggio di consegne.
 
-«I miei lavorano bene», disse Gavin.
+«I miei lavorano bene», disse Gavin. «Eppure perdiamo le gare nuove contro squadre che costano la metà. Loro consegnano con gli agenti perché non hanno tutte le nostre dipendenze. Noi finiamo per correre di notte sui contratti di dieci anni fa.»
 
 «Lo so. Sanno lavorare benissimo. Però hai costruito una squadra che si comporta come se il resto di Cyberdine dovesse soltanto farle posto.»
 
-Lui appoggiò entrambe le mani sul tavolo. «Facile per te. Tu hai fatto il discorso sulle grandi responsabilità, ma sei stata tu a preparare la slide in cui andava tutto bene. Hai visto gli incassi?»
+Lui appoggiò entrambe le mani sul tavolo. «Facile per te. Tu hai fatto il discorso sulle grandi responsabilità, ma sei stata tu a preparare la slide in cui andava tutto bene. Hai visto gli incassi? Abbiamo affittato un robot che porta fascicoli perché non ci possiamo permettere di riparare l'altro.»
 
 Kyla non distolse lo sguardo. «Sì. E ho accettato che la pagina con quel dato restasse dietro un collegamento. Avevi diritto di vederlo chiaramente. Io potevo oppormi con più decisione.»
 

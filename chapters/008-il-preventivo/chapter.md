@@ -14,17 +14,17 @@ pov:
 
 # Direzione
 
-Una plenaria di Cyberdine presenta dati finanziari selezionati (ricavi +11% e incassi -9%), annuncia **Kyla Morgan** come nuova socia azionista grazie al trasferimento di una quota di Cole, e comunica l'andamento generale dell'impresa e, soltanto alla fine, la decisione riguardante **B-17**, così chiamato ufficialmente dall'amministratore delegato Victor Cole. Il preventivo di riparazione è quasi pari al costo di un'unità nuova, senza garanzia di tempi o risultati; la direzione **non autorizza** la riparazione. I colleghi devono rimboccarsi le maniche per alcune settimane o mesi, durante l'attesa del nuovo assetto.
+La plenaria di Cyberdine si apre **subito** con il dato positivo dei **ricavi di competenza +11%**, celebrato da Victor Cole. Gavin e Claire commentano sottovoce che gli **incassi sono -9%**, le nuove commesse diminuiscono e le gare vanno sempre più a società giovani costruite intorno allo sviluppo agentico; l'azienda sta esaurendo la liquidità disponibile, anche se i risultati presentati sono veri. Victor annuncia inoltre **Kyla Morgan** come nuova socia azionista grazie al trasferimento di una sua quota, e comunica soltanto alla fine la decisione riguardante **B-17**, usando il codice ufficiale. Il preventivo di riparazione è quasi pari al costo di un'unità nuova **della stessa fascia**, senza garanzia di tempi o risultati. La direzione **non ha sufficiente liquidità** per autorizzare nessuna delle due soluzioni. Sceglie un **B-21 di fascia base ricondizionato, con noleggio operativo a costo iniziale basso**, esteriormente identico ma capace soltanto di trasporto, consegne, rifornimenti e manipolazione semplice. I colleghi devono coprire per settimane o mesi le prove e le attività software di cui B-21 non è capace.
 
 La plenaria chiarisce che **Ethan Blake e Marcus Reed**, già allontanati cautelativamente, dopo la conclusione degli accertamenti non lavoreranno più per Cyberdine. Non presentare la violenza come una normale differenza d'opinione. L'azienda protegge i lavoratori e gestisce danni e procedure senza esagerate scene punitive.
 
 # Beat
 
 1. I numeri sullo schermo — dal POV di Kyla, i numeri che Cole sceglie di mostrare, annuncio della sua partecipazione e discorso su una carriera costruita tra reparti senza promettere azioni a tutti; poi esito degli accertamenti su Ethan e Marcus, infine comunicazione quasi accessoria su B-17.
-2. Quasi quanto uno nuovo — Paul verifica preventivo, alternative e limiti tecnici, sostiene in modo credibile che la scelta può essere razionale, ma non può garantire l'identità del sostituto.
-3. Il numero — Maya riflette sul nome ufficiale lo stesso giorno della plenaria, riceve notizie sulla sirena e prende atto che nessuno ha detto che Bi tornerà.
-4. Un mese di mani — nelle settimane successive Claire scopre costi umani e nuove responsabilità del lavoro manuale senza fingere che tornino posizioni senior.
-5. Quello che difendi — settimane dopo, Gavin Shaw affronta privatamente Kyla: ha dato moltissimo al team, ma considera il resto dell'azienda un ostacolo. Lei riconosce i meriti e, solo perché incalzata, definisce tossico il suo modo di gestire; deve riconoscere anche la propria corresponsabilità nei numeri scelti.
+2. Quasi quanto uno nuovo — Paul verifica il preventivo, distingue ricavi e liquidità e prende atto del noleggio di un B-21 economico che non può sostituire le prove di integrazione; capisce i numeri, ma non li confonde con l'identità di Bi.
+3. Il numero — Maya riflette sul nome ufficiale, sull'assenza di denaro per ripararlo e sul fatto che il sostituto farà soltanto pochi compiti; nessuno promette il ritorno di Bi.
+4. Un mese di mani — nelle settimane successive Claire copre verifiche fisiche e conoscenze legacy, con formazione non finanziata: il B-21 di fascia base non riporterà le capacità di Bi.
+5. Quello che difendi — Gavin affronta Kyla sul lavoro invisibile e sulle commesse perse contro software house più agili; lei riconosce i suoi meriti, critica il suo stile di gestione e ammette la propria complicità nella selezione ottimistica dei dati finanziari.
 
 # Continuità
 
