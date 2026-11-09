@@ -22,7 +22,7 @@ La lista degli incarichi che sarebbero rimasti consentiti occupava sei pagine.
 
 Quella degli incarichi che avrebbero richiesto una modifica era lunga due, ma Kyla sapeva che avrebbe creato più telefonate.
 
-Victor Cole aveva incaricato l'ufficio legale di preparare tre scenari: legge respinta, approvata nella versione corrente, approvata con emendamenti dell'ultimo minuto. In ogni caso Cyberdine avrebbe continuato ad avere bisogno di robot per tenere insieme i vecchi impianti dei clienti.
+Victor Cole aveva incaricato l'ufficio legale di preparare tre scenari: legge respinta, approvata nella versione corrente, approvata con emendamenti dell'ultimo minuto. Il testo tecnico della proposta portava il titolo *Tutela delle mansioni umane*. Sulle cartelle della maggioranza il nome abbreviato era **Bot Act II**, entrato nel dibattito grazie a Ethan Blake e al gruppo Lavoro Prima. L'atto era **italiano**: non modificava il regolamento europeo che impediva a B-21 di riconoscere soprannomi. In ogni caso Cyberdine avrebbe continuato ad avere bisogno di robot per tenere insieme i vecchi impianti dei clienti.
 
 La questione era un'altra: quali decisioni potevano essere affidate a un sistema automatico e quali dovevano essere effettivamente prese da una persona?
 
@@ -56,7 +56,7 @@ Leah scorse il documento.
 
 La persona incaricata del rapporto con Aruvhana entrò portando una comunicazione del cliente. Voleva una stima dei costi necessari a rendere gli avalli umani più visibili, e una conferma che eventuali limiti nazionali non sarebbero stati applicati arbitrariamente alle sedi estere.
 
-«Non possiamo promettere che tutti i paesi faranno la stessa scelta», disse Cole.
+«Non possiamo promettere che tutti i paesi faranno la stessa scelta», disse Cole. «La maggioranza qui ha accettato la proposta del gruppo di Ethan, ma il nostro contratto non si ferma ai confini italiani.»
 
 «È ciò che dobbiamo scrivere», rispose Kyla.
 
