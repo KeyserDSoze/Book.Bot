@@ -13,14 +13,14 @@ pov:
 
 # Scene
 
-1. Chi decide — davanti a Cyberdine la protesta riunisce richieste differenti; Claire rifiuta tanto il divieto assoluto quanto l'idea che l'occupazione sia irrilevante.
+1. Chi decide — davanti a Cyberdine la protesta riunisce richieste differenti. Ethan, ex dipendente e ormai deputato di Lavoro Prima nella maggioranza, parla dal palco e riprende «bot-piattisti»; Claire rifiuta il divieto assoluto, l'indifferenza per l'occupazione e l'idea che la sua partecipazione alla protesta assolva Ethan dalla violenza contro Bi.
 2. Più minuti — Yusuf e Samuel riconoscono che la robotica sostiene la fattoria ma sottrae ore e reddito stagionale.
-3. Le parole che non bastano — Kyla e Leah esaminano un disegno di legge, distinguendo impieghi diretti, autorizzazioni umane e lavori indiretti.
+3. Le parole che non bastano — Kyla e Leah esaminano il progetto italiano soprannominato **Bot Act II** dalla campagna di Ethan; è distinto dal Bot Act europeo su identificazione e alias. Distinguono impieghi diretti, autorizzazioni umane e lavori indiretti.
 4. Dalla parte sbagliata — Maya contesta a B-17 il parere sui divieti e la freddezza delle sue giustificazioni; non gli attribuisce responsabilità legali che sono umane.
 
 # Guardrail
 
-Proteste articolate e non univoche; nessuna folla completamente buona o cattiva. B-17 può solo partecipare a interazioni autorizzate e registrate, senza accesso operativo alla rete delle flotte. La sua analisi pubblica non è una dichiarazione di guerra; Maya è ferita ma non pretende che le ragioni economiche siano inventate. Nessuna connessione implicita con uno stop globale futuro.
+Proteste articolate e non univoche; nessuna folla completamente buona o cattiva. Ethan è un leader politico influente ma le sue posizioni più radicali vengono corrette in Parlamento e da associazioni autonome. Maya e Claire possono sostenere limiti al lavoro robotico **senza** sostenere l'aggressione di Ethan. B-17 può solo partecipare a interazioni autorizzate e registrate, senza accesso operativo alla rete delle flotte. La sua analisi pubblica non è una dichiarazione di guerra; Maya è ferita ma non pretende che le ragioni economiche siano inventate. Nessuna connessione implicita con uno stop globale futuro.
 
 
 ## Raccordo sul passaggio del tempo

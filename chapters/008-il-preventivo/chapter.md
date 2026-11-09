@@ -24,7 +24,7 @@ La plenaria chiarisce che **Ethan Blake e Marcus Reed**, già allontanati cautel
 2. Quasi quanto uno nuovo — Paul verifica il preventivo, distingue ricavi e liquidità e prende atto del noleggio di un B-21 economico che non può sostituire le prove di integrazione; capisce i numeri, ma non li confonde con l'identità di Bi.
 3. Il numero — Maya riflette sul nome ufficiale, sull'assenza di denaro per ripararlo e sul fatto che il sostituto farà soltanto pochi compiti; nessuno promette il ritorno di Bi.
 4. Un mese di mani — nelle settimane successive Claire copre verifiche fisiche e conoscenze legacy, con formazione non finanziata: il B-21 di fascia base non riporterà le capacità di Bi.
-5. Quello che difendi — Gavin affronta Kyla sul lavoro invisibile e sulle commesse perse contro software house più agili; lei riconosce i suoi meriti, critica il suo stile di gestione e ammette la propria complicità nella selezione ottimistica dei dati finanziari.
+5. Quello che difendi — Gavin affronta Kyla sul lavoro invisibile e sulle commesse perse contro software house più agili; lei riconosce i suoi meriti, critica il suo stile di gestione e ammette la propria complicità nella selezione ottimistica dei dati finanziari. Gavin riceve un invito a un incontro del nuovo gruppo anti-robot **Lavoro Prima**, fondato da Ethan dopo l'espulsione da Cyberdine; non ne approva la violenza.
 
 # Continuità
 

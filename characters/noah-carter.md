@@ -13,8 +13,12 @@ Sviluppatore software di Cyberdine, specializzato in integrazione di modelli, si
 
 Nel capitolo 10 riceve dal proprio appartamento una notifica che l'unità B-17, data per ferma dopo l'aggressione e la mancata riparazione, è stata riaccesa dall'altra parte del mondo. Vede attraverso le sue telecamere un campo di guerra simulata tra robot, con attrezzature da addestramento e supervisione umana. **Osserva senza intervenire nel combattimento**; l'esistenza stessa del collegamento clandestino rimane una violazione da accertare.
 
-Fino al capitolo 12 Noah non è noto ai colleghi come autore dell'aggiornamento. Nella revisione editoriale della v0.15.0 è presente già dal capitolo 1: Kyla lo vede assistere un collega con un varco bloccato; nel capitolo 2 osserva la vicenda delle fotocopie; nel capitolo 3 assiste al primo saluto insolito di B-17 senza intervenire; nel capitolo 6 vede B-17 danneggiato; nel capitolo 8 esce dalla plenaria quando compare il codice B-17; nel capitolo 9 guarda arrivare l'unità sostitutiva. Le presenze sono esterne e ordinarie; nessuna rivela la causa del cambiamento prima del capitolo 10.
+Fino al capitolo 12 Noah non è noto ai colleghi come autore dell'aggiornamento. Nella revisione editoriale della v0.15.0 è presente già dal capitolo 1: Kyla lo vede assistere un collega con un varco bloccato; nel capitolo 2 osserva la vicenda delle fotocopie; nel capitolo 3 assiste al primo saluto insolito di B-17 senza intervenire; nel capitolo 6 prima conia la battuta «bot-piattisti» di fronte alla fazione anti-robot e poi vede B-17 danneggiato; nel capitolo 8 esce dalla plenaria quando compare il codice B-17; nel capitolo 9 guarda arrivare l'unità sostitutiva. Le presenze sono esterne e ordinarie; nessuna rivela la causa del cambiamento prima del capitolo 10.
 
+
+## La battuta che diventa politica
+
+Nel cap. 6 Noah scherza sui colleghi più ostili ai robot chiamandoli **bot-piattisti**, con riferimento ai terrapiattisti. Ethan sente la battuta e la interpreta come disprezzo del lavoro perso; in seguito una parte del gruppo riutilizza il nome polemicamente. Noah non rappresenta il punto di vista assoluto del romanzo sulle preoccupazioni occupazionali. La battuta non implica che riveli o conosca pubblicamente la propria modifica clandestina di Bi.
 
 ## Capitoli 11–14: confessione e conseguenze
 

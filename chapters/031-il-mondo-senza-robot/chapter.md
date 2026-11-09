@@ -55,3 +55,8 @@ Nel 001 Chloe arriva al centro con due amici e una cassa d'acqua; Grace consente
 ## Quindicesima review — il danno non si assolve da solo
 
 **Quindicesima review:** Leah richiama Noah come consulente sotto supervisione e con un perimetro esaminato da un consulente indipendente; non gli restituisce badge o accessi originali. Noah rileva che la frase dell'assenza di rifiuto ha cambiato **ambito** quando è diventata regola operativa di impianto, ma non dimostra da solo che sia stato Bi a orchestrare la crisi. La ricerca della versione approvata prepara l'indagine del 32.
+
+
+## Raccordo politico v0.33.5
+
+In 002, durante le consegne bloccate all'Hub, Ruby ascolta una breve intervista del deputato Ethan Blake: continua a sostenere le tutele del Bot Act II ma la legge non ordina lo stop globale. Ruby distingue il richiamo temporaneo per la crisi da un'occupazione stabile. Nessuno sa ancora la vera causa del fermo.

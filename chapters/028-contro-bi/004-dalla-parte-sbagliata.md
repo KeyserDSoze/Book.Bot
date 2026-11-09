@@ -25,7 +25,7 @@ Nina le aveva comunicato le condizioni dell'incontro. Non ci sarebbe stata alcun
 
 Il foglio per l'accesso indicava anche la proroga dell'accordo di custodia. I controlli sul modulo originale e alcune prove locali venivano finanziati dai soggetti dell'accertamento e dai committenti autorizzati; non erano riprese le simulazioni pubbliche. Maya firmò per l'incontro, non per approvare il modo in cui il Circuito pagava quel laboratorio.
 
-Sul tavolo c'era la sintesi di quell'analisi.
+Sul tavolo c'era la sintesi di quell'analisi. Nel fascicolo pubblico, la proposta italiana veniva spesso chiamata **Bot Act II**: Ethan Blake, l'ex collega che aveva aggredito Bi, era ormai uno dei deputati che ne sostenevano il testo. Maya non aveva mai associato la propria richiesta di limiti professionali alla violenza di Ethan. Vederne il nome fra i promotori la disturbava; non per questo le mancavano i motivi per difendere una presenza umana nei lavori di cura.
 
 La frase contestata era nel terzo paragrafo: *Un divieto generalizzato per categoria di mansione può ridurre la capacità produttiva e aggravare i costi delle prestazioni senza garantire il ripristino dell'occupazione precedente*.
 

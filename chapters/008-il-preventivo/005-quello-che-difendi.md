@@ -103,6 +103,8 @@ Non gli piacque la risposta. Sapeva tuttavia che se avesse chiesto a Elena i tem
 
 Uscì con il fascicolo sotto il braccio. Due dei suoi sviluppatori lo aspettavano per una revisione. Poco più avanti Elena attraversava il corridoio con un registro. Gavin pensò di fermarla. Non lo fece.
 
-Nella tasca gli vibrò il telefono. Suo figlio gli aveva mandato la fotografia di una pizza tagliata in due: *Non ti ho aspettato. Te ne ho lasciata una fetta.* Gavin ingrandì la foto e per un attimo cercò di ricordare se avesse promesso di tornare presto oppure soltanto di chiamare. Non ricordava più quale delle due.
+Nella tasca gli vibrò il telefono. La prima notifica non era di casa: un ex collega gli aveva inoltrato l'invito di Ethan Blake a un incontro pubblico sulla sostituzione robotica. Nonostante il licenziamento, Ethan aveva cominciato a raccogliere adesioni anche fuori da Cyberdine. Sul volantino compariva un nome nuovo: **Lavoro Prima**. Sotto, una frase: *Non è un problema di una macchina rotta, ma di chi decide se il nostro mestiere debba esistere.*
+
+Gavin sapeva che Ethan aveva colpito B-17 e che nessuna battaglia per il lavoro avrebbe potuto giustificare quel gesto. Sapeva anche che l'azienda stava davvero perdendo commesse. Non confermò la propria presenza. Cancellò la notifica, poi trovò il messaggio successivo. Suo figlio gli aveva mandato la fotografia di una pizza tagliata in due: *Non ti ho aspettato. Te ne ho lasciata una fetta.* Gavin ingrandì la foto e per un attimo cercò di ricordare se avesse promesso di tornare presto oppure soltanto di chiamare. Non ricordava più quale delle due.
 
 Tornò verso la sua squadra. Disse ai due sviluppatori che avrebbe esaminato la loro revisione dopo cena, da casa. Nessuno gli aveva chiesto di farlo. Nella cartellina la colonna delle dipendenze esterne rimase vuota.

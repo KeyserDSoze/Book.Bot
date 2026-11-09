@@ -10,6 +10,7 @@ characters:
   - character:claire-foster
   - character:maya-bennett
   - character:olivia-brooks
+  - character:ethan-blake
 locations:
   - location:piazza-montecitorio
 factions: []
@@ -31,9 +32,27 @@ Claire le mostrò il sacchetto del panino che aveva finito in fila.
 
 Olivia Brooks passò vicino a loro con il telefono acceso. Non stava facendo interviste: aveva appena mandato un aggiornamento sulla posizione dei gruppi parlamentari e adesso cercava un punto da cui vedere il tabellone senza che la folla la spingesse contro le transenne.
 
+Il testo arrivato al voto definitivo era la **legge italiana sulla tutela delle mansioni umane**, ormai chiamata anche **Bot Act II**. L'aveva portata in Parlamento una coalizione di cui faceva parte Lavoro Prima, con Ethan Blake fra i principali promotori. Il vecchio Bot Act europeo riguardava l'identificazione dei robot: questa legge non lo modificava, anche se ne riprendeva il nome nella comunicazione politica.
+
+Sul grande schermo comparve Ethan. Portava la giacca scura e parlava dal banco dei deputati, non da un palco improvvisato davanti a un'azienda. Claire riconobbe il tono con cui, anni prima, aveva cercato di convincerla a raccontare la perdita della promozione come un'accusa a Bi.
+
+«Alcuni ci hanno chiamati bot-piattisti», disse Ethan alla Camera. «Ci avete detto che il lavoro delle persone si sarebbe trasformato e basta. Questa legge mette un limite a quello che può essere sostituito. Non tutto ciò che si può automatizzare deve essere affidato a una macchina.»
+
+La ripresa tornò sull'aula. Maya rimase immobile.
+
+«È lui», disse Claire.
+
+«Lo so», rispose Maya.
+
+«Non dimentico il corridoio.»
+
+«Nemmeno io. Però il testo non è soltanto suo. Abbiamo lavorato agli emendamenti anche per evitare che vietasse il trasporto delle medicine.»
+
+Claire guardò il cartello della propria associazione. Voleva il limite alle mansioni, non un'assoluzione per Ethan.
+
 Il testo appena arrivato al voto definitivo non proibiva ogni robot. Avrebbe riservato alle persone, dopo l'iter previsto e i periodi di adeguamento, determinate mansioni di cura continuativa, alcune funzioni educative e le decisioni che incidono direttamente sulla valutazione e sull'organizzazione del lavoro in settori definiti. Consentiva l'assistenza tecnica e logistica quando non sostituiva la responsabilità umana. Prevedeva verifiche, periodi di adeguamento e controlli contro i cambi di nome fatti solo per aggirare il divieto. Il voto parlamentare di quella sera non sarebbe bastato, da solo, a rendere immediatamente obbligatori quei divieti.
 
-Claire conosceva quasi a memoria il testo.
+Claire conosceva quasi a memoria il testo. Ethan aveva voluto limitazioni più ampie, ma i negoziati con le associazioni dei lavoratori, le strutture assistenziali e gli altri gruppi parlamentari avevano prodotto un provvedimento più circoscritto. La sua posizione nella maggioranza gli aveva permesso di portarlo al voto; non gli aveva dato il potere di scriverlo da solo.
 
 Non l'aveva ottenuto da sola. Alcune associazioni avevano chiesto un divieto totale e avevano accusato i firmatari di essersi arresi. Altre avevano ottenuto fondi per la formazione, ma inferiori a quelli richiesti. Chi dirigeva le strutture assistenziali temeva di non trovare il personale necessario. Imprese e lavoratori avevano presentato osservazioni incompatibili.
 
@@ -47,7 +66,7 @@ Poi qualcuno gridò: «È passata!»
 
 Un applauso enorme attraversò la folla. Claire sentì il braccio di Maya intorno alle spalle. Un uomo lasciò cadere il cartello per abbracciare sua moglie; una ragazza cominciò a telefonare a qualcuno e ripeté tre volte che sì, era davvero successo.
 
-Claire rise e pianse nello stesso momento, nonostante la promessa.
+Claire rise e pianse nello stesso momento, nonostante la promessa. Sullo schermo Ethan stringeva la mano di due parlamentari della maggioranza. La sua soddisfazione era visibile; non poteva vedere Claire in piazza, né sapere che lei stava festeggiando senza considerarlo un eroe.
 
 Maya le prese la mano.
 

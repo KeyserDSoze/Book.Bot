@@ -19,14 +19,14 @@ La tensione culmina in un'aggressione fisica a Bi in un corridoio di servizio da
 
 # Beat
 
-1. Due corridoi — Claire sente la polarizzazione; sostiene che il suo posto mancato non è una licenza per prendersela con Bi.
+1. Due corridoi — Claire sente la polarizzazione; Noah conia scherzosamente «bot-piattisti» sul modello dei terrapiattisti e il termine viene ripreso dal gruppo anti-robot. Claire sostiene che il suo posto mancato non è una licenza per prendersela con Bi.
 2. La linea sul pavimento — Mila vede gli scontri verbali, una richiesta di rimuovere Bi dai compiti qualificati e l'incapacità dei colleghi di ascoltarsi.
 3. Alle spalle — dal POV di Ethan, la provocazione diventa aggressione; gli atti sono visibili e condannabili, non presentati come inevitabili o eroici.
 4. La voce che si interrompe — Maya arriva dopo l'aggressione, vede Bi immobile, sente una frase registrata da chi ha assistito e scopre che l'unità verrà inviata in assistenza. La gestione disciplinare resta in capo a esseri umani.
 
 # Continuità
 
-La posizione senior di Margaret Ellis non verrà ricreata, ma Claire mantiene il suo contratto. Margaret non è ancora andata in pensione. La telemetria e le registrazioni aziendali rendono l'episodio verificabile; Ethan e Marcus sono allontanati cautelativamente dal servizio in attesa di accertamenti. Il danno a Bi è grave, l'intervento di assistenza non ha esito anticipato. Nessun dettaglio sulla causa riservata delle nuove capacità.
+La posizione senior di Margaret Ellis non verrà ricreata, ma Claire mantiene il suo contratto. Il soprannome di Noah non certifica che le preoccupazioni occupazionali dei colleghi siano infondate; nasce come battuta e ferisce Ethan, diventando un'identità polemica del gruppo. Margaret non è ancora andata in pensione. La telemetria e le registrazioni aziendali rendono l'episodio verificabile; Ethan e Marcus sono allontanati cautelativamente dal servizio in attesa di accertamenti. Il danno a Bi è grave, l'intervento di assistenza non ha esito anticipato. Nessun dettaglio sulla causa riservata delle nuove capacità.
 
 ## Revisione di continuità v0.32.0
 

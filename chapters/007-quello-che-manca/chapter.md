@@ -15,18 +15,18 @@ pov:
 
 Mostrare l'assenza di Bi senza discorsi eccessivi. La sua mancanza appare in piccoli inconvenienti reali: carta e dispositivi da rifornire, passaggi di documentazione che nessuno tiene più a mente, responsabilità umane che avevano dato per scontata una preparazione impeccabile. La macchina non era l'unica a saper fare quelle cose, ma il modo di lavorare si è trasformato intorno alla sua presenza.
 
-I colleghi che lo avevano sostenuto ne sentono la mancanza; quelli che lo avevano attaccato iniziano a riconoscere quanto lo usavano. L'assenza non assolve i responsabili.
+I colleghi che lo avevano sostenuto ne sentono la mancanza. **Ethan, sospeso e fuori dal campus, interpreta invece l'assenza come una vittoria:** sostiene che gli esseri umani scrivessero codice migliore di Bi e che grazie alla scomparsa del robot Cyberdine tornerà alla normalità. Il suo giudizio è interessato e non rispecchia il racconto degli altri. Ammette i fatti dell'aggressione nella documentazione disciplinare senza scusarsi né essere assolto.
 
 # Beat
 
 1. La macchinetta — Paul osserva routine spezzate e compiti arretrati; gioca qualche scambio con colleghi che erano migliorati proprio per sfidare Bi, ma non ritrova la motivazione di prima. Le racchette rimangono, l'avversario a cui volevano arrivare no.
 2. Il lavoro che rimane — Claire coordina un'eccezione vera senza il dossier atteso; l'organizzazione mantiene gli avalli umani, ma scopre un punto debole. Lei contribuisce con competenza e non ottiene automaticamente il posto perduto.
-3. Una domanda nel gruppo — Ethan, temporaneamente fuori dal campus, vede il bisogno dei colleghi e fa un gesto piccolo e concreto, senza essere perdonato né redento in una pagina.
+3. Una domanda nel gruppo — Ethan, fuori dal campus, legge le difficoltà dei colleghi ma ne trae conferma che le macchine peggiorano il lavoro. Rivendica il proprio codice e la normalità senza Bi, comunica con Marcus e accetta l'idea di continuare la battaglia fuori dall'azienda. Corregge formalmente il proprio resoconto dell'aggressione, senza pentimento o assoluzione.
 4. La stanza di sera — Maya cerca un ascolto che per un periodo aveva trovato in Bi; la tabella dei risultati senza nuovi tentativi rende concreta un'assenza condivisa. Riceve notizia di assistenza ancora in corso e offre ascolto a Claire.
 
 # Continuità
 
-Ethan e Marcus sono sospesi cautelativamente dall'accesso operativo dopo l'aggressione: nessun ritorno disinvolto in ufficio. Non promettere il ritorno di Bi, non affermare che provi dolore o coscienza come fatto, non rivelare il retroscena tecnologico. La sirena di Valle Corta e le credenziali usate da Maya restano questioni aperte.
+Ethan e Marcus sono sospesi cautelativamente dall'accesso operativo dopo l'aggressione: nessun ritorno disinvolto in ufficio. L'autocelebrazione di Ethan è **punto di vista del personaggio**; B-17 non pubblicava autonomamente codice in produzione, ma aveva contribuito a casi di test reali. Il suo gruppo anti-bot si organizzerà come Lavoro Prima dopo il licenziamento. Non promettere il ritorno di Bi, non affermare che provi dolore o coscienza come fatto, non rivelare il retroscena tecnologico. La sirena di Valle Corta e le credenziali usate da Maya restano questioni aperte.
 
 ## Revisione di continuità v0.32.0
 

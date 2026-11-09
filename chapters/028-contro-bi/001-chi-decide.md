@@ -10,6 +10,7 @@ characters:
   - character:claire-foster
   - character:maya-bennett
   - character:olivia-brooks
+  - character:ethan-blake
 locations:
   - location:cyberdine-campus
 factions: 
@@ -50,7 +51,25 @@ Maya fece una smorfia.
 
 «Nemmeno io.»
 
-Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita. Olivia Brooks stava intervistando una donna con una divisa da magazzino, mentre un operatore le teneva il microfono appena sotto il mento.
+Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita. Poco dopo sul palco mobile salì Ethan Blake. Non aveva più il tesserino di Cyberdine: adesso era deputato e guidava la componente parlamentare di **Lavoro Prima**, nata dagli incontri anti-robot che aveva cominciato dopo il licenziamento.
+
+Claire lo riconobbe dalla voce. Aveva sentito quella stessa sicurezza quando le aveva chiesto di raccontare la mancata promozione come una colpa di Bi.
+
+«Quando dicevo che gli esseri umani scrivevano codice migliore di queste macchine», dichiarò Ethan nel microfono, «mi spiegavano che non capivo il futuro. Ora quel futuro lascia persone senza stipendio e aziende che non sanno lavorare senza un robot. Ci hanno chiamati *bot-piattisti*. Bene. Se essere bot-piattisti significa difendere il lavoro umano, allora il problema non è il soprannome.»
+
+Qualcuno applaudì. Qualcun altro rimase fermo.
+
+«Il nostro Bot Act II», continuò Ethan, «deve riservare alle persone certi lavori. E non basta cambiare il nome di una macchina per aggirarlo.»
+
+Una donna gli gridò di fermare anche i robot agricoli. Ethan indicò il testo dei limiti in discussione: la proposta della coalizione non riguardava tutte le macchine, ma le mansioni giudicate essenziali alla responsabilità umana. Altri esponenti del movimento volevano un divieto più ampio e lo contestavano proprio per questo.
+
+Maya guardò Claire. «Non avrei mai pensato di ascoltarlo da un palco.»
+
+«La perdita del mio posto è diventata il suo primo volantino», disse Claire. «Non gli ho mai dato il permesso di usarla come prova che avesse ragione ad aggredire Bi.»
+
+«Non lo rende meno deputato», rispose Maya.
+
+Il corteo continuò a riempire la strada. Non tutti erano lì per Ethan, e non tutti condividevano il suo modo di raccontare l'automazione. Olivia Brooks stava intervistando una donna con una divisa da magazzino, mentre un operatore le teneva il microfono appena sotto il mento.
 
 «Sei tornata per il servizio?», domandò Claire alla giornalista quando le passò accanto.
 
@@ -102,7 +121,7 @@ Maya le sfiorò il gomito.
 
 «Non voglio convincere tutti. Voglio che smettano di trattare una questione difficile come se bastasse staccare una spina.»
 
-Sul grande schermo che una troupe aveva montato per seguire gli interventi comparve un video registrato mesi prima. B-17 era seduto nel laboratorio di Veyra. Un sottotitolo lo presentava come *il robot che consiglia le imprese di tagliare i dipendenti*.
+Più tardi, sul grande schermo che una troupe aveva montato per seguire gli interventi comparve un video registrato mesi prima. B-17 era seduto nel laboratorio di Veyra. Un sottotitolo lo presentava come *il robot che consiglia le imprese di tagliare i dipendenti*.
 
 Claire riconobbe la frase che seguiva. Era parte di una risposta tecnica sulle alternative per il contratto Aruvhana. Nel filmato non comparivano i controlli umani, né il rischio di perdere tutto il contratto. La fonte integrale era stata diffusa legalmente in seguito alla discussione pubblica, ma la versione sullo schermo durava diciassette secondi.
 
