@@ -21,7 +21,7 @@ Paul compilò il primo preventivo e capì che Maya lo avrebbe odiato.
 
 Non perché fosse disonesto. Perché era dettagliato.
 
-Alla voce *acquisto* aveva lasciato uno spazio vuoto: nessuno aveva comunicato un prezzo. Sotto aveva messo trasporto dall'isola, imballaggio protetto, dogana e assicurazioni da verificare, controlli della spalla riparata, test dei limiti di forza, verifica delle autorizzazioni software, manutenzione periodica. Era una colonna di spese prima ancora di accendere il robot.
+Alla voce *acquisto* aveva lasciato uno spazio vuoto: nessuno aveva comunicato un prezzo. In una colonna separata aveva scritto *possibili benefici, da dimostrare*: recupero delle verifiche sui connettori storici, un laboratorio con agenti e robot, tempi di proposta per le nuove commesse. Nessuna di quelle voci era una previsione di incasso. Sotto aveva messo trasporto dall'isola, imballaggio protetto, dogana e assicurazioni da verificare, controlli della spalla riparata, test dei limiti di forza, verifica delle autorizzazioni software, manutenzione periodica. Era una colonna di spese prima ancora di accendere il robot.
 
 Maya lesse il foglio senza parlare.
 
