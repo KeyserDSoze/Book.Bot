@@ -20,7 +20,13 @@ factions:
 
 L'ultima cifra arrivò durante una riunione che non riguardava Bi.
 
-Erano passate quasi tre settimane da quando il primo link aveva raggiunto i colleghi. Gli impegni erano cresciuti a ondate: una piccola somma alla volta nei primi giorni, poi contributi di sconosciuti che avevano visto il filmato di Veyra. Il totale non rappresentava un accordo sul futuro di B-17, nemmeno fra chi aveva versato cinque euro e chi ne aveva promessi cinquecento.
+Erano passate quasi tre settimane da quando il primo link aveva raggiunto i colleghi. Gli impegni erano cresciuti a ondate: una piccola somma alla volta nei primi giorni, poi contributi di sconosciuti che avevano visto il filmato di Veyra.
+
+Mila e Paul non si erano limitati a inoltrare un link. Avevano spiegato l'iniziativa a chi ancora lavorava sui vecchi connettori, a chi aveva perso turni e a chi vedeva le gare nuove andare a società più giovani. In sala ristoro un programmatore aveva chiesto perché spendere per Bi quando Cyberdine non riusciva a finanziare il corso sulle librerie storiche. Mila aveva risposto che servivano entrambe le cose: capire il codice e imparare a usare strumenti nuovi, non lasciare che la paura dell'automazione decidesse tutto al posto loro.
+
+Paul aveva mostrato un caso di regressione preparato quando Bi era ancora operativo. «Non ha sostituito chi firmava il rilascio», aveva detto. «Ha fatto vedere il problema che i test automatici non avevano previsto. Se tornasse con tutte le autorizzazioni, potremmo proporre un laboratorio che ci aiuti a vincere lavori nuovi. Non è garantito. È una possibilità che adesso non abbiamo.»
+
+Qualcuno aveva contribuito dopo quel confronto. Qualcun altro aveva detto che preferiva sostenere i colleghi senza un lavoro stabile e non aveva versato nulla. Mila aveva ringraziato entrambi. Nessuno doveva partecipare per essere considerato fedele a Bi o al gruppo. Il totale non rappresentava un accordo sul futuro di B-17, nemmeno fra chi aveva versato cinque euro e chi ne aveva promessi cinquecento.
 
 Kyla stava discutendo con Victor Cole un problema di tempi di approvazione quando il telefono vibrò tre volte. Lo lasciò rivolto verso il tavolo. Poi si accorse che sul display comparivano tre messaggi di Maya, tutti cominciati con la stessa parola.
 
