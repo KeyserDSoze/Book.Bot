@@ -137,6 +137,10 @@ Maya passò nel corridoio con una custodia di racchette sotto il braccio.
 
 «Questa volta ha giocato sul serio. Era quello che volevo.»
 
+«E gli altri?»
+
+«Hanno già ricominciato a sfidarlo. Paul vuole migliorare il suo punteggio, anche se perde.»
+
 Maya continuò verso lo Spazio Comune. Claire la seguì con lo sguardo. Il robot che aveva aiutato il suo reparto con il codice era diventato, per qualcun altro, il compagno di una partita su cui si poteva discutere come fra amici.
 
 Tornò al portatile. Riaprì la funzione precedente e iniziò a scrivere una nota tecnica per i nuovi sviluppatori: *il secondo identificativo non è sempre un duplicato*. Non era il genere di frase che avrebbe ottenuto una promozione.
