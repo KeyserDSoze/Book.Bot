@@ -19,7 +19,7 @@ pov:
 
 # Guardrail
 
-B-17 non è venduto. La raccolta rimborsabile non viene convertita arbitrariamente ad altre finalità. Non c'è liberazione miracolosa, non vengono certificati diritti o coscienza, non si rende il nuovo proprietario una figura semplicemente malvagia. I rapporti di Noah con Cyberdine restano oggetto di indagine; nessuna backdoor viene riattivata per risolvere il problema.
+B-17 non è venduto. La raccolta rimborsabile non viene convertita arbitrariamente ad altre finalità. Non c'è liberazione miracolosa, non vengono certificati diritti o coscienza, non si rende il nuovo proprietario una figura semplicemente malvagia. Noah è stato licenziato nel capitolo 13, ma le indagini sulle conseguenze della backdoor e sui dati restano aperte. Nessuna backdoor viene riattivata per risolvere il problema e il licenziamento non prova che ogni componente abusivo sia stato trovato.
 
 ## Nuovo raccordo — v0.17.0
 
