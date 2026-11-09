@@ -67,11 +67,11 @@ Amara non domandò se fosse un errore grave. Chiese quali sistemi avessero ricev
 
 «Allora chiediamole. E informiamo la persona che ha scritto la lettera, attraverso il canale che ha autorizzato. Non voglio che lo venga a sapere da un video.»
 
-La telefonata con Lanter durò più del previsto. Un operatore spiegò che la piattaforma aveva un indice comune per alcune descrizioni di compatibilità tra modelli, anche se i documenti integrali dovevano rimanere isolati per cliente. Era possibile che un estratto fosse stato associato al codice della famiglia B invece che alla pratica specifica di Veyra.
+La telefonata con Lanter durò più del previsto. Un operatore spiegò che la piattaforma aveva un indice comune per alcune descrizioni di compatibilità tra modelli, anche se i documenti integrali dovevano rimanere isolati per cliente. Era possibile che un estratto fosse stato associato al codice della famiglia B invece che alla pratica specifica di Veyra. Nello stesso arco di tempo risultava una richiesta proveniente da un IP esterno che l'operatore non sapeva attribuire.
 
-«Chi ha fatto questa scelta?», chiese Amara.
+«Chi ha fatto questa scelta? E chi è la persona dietro quell'indirizzo?», chiese Amara.
 
-«Non lo sappiamo ancora. Dobbiamo verificare i percorsi documentali.»
+«Non lo sappiamo ancora. Potrebbe essere una persona, un servizio o un passaggio intermedio. Dobbiamo verificare i percorsi documentali, non soltanto una schermata.»
 
 «Una risposta corretta», disse Amara, «ma non sufficiente. Voglio che ci comunichiate chi può vedere il testo, non soltanto che siete dispiaciuti.»
 
