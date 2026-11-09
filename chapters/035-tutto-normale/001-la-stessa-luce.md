@@ -21,7 +21,7 @@ factions:
 
 La luce della stanza era troppo forte per l'ora che segnava l'orologio.
 
-Noah Carter la notò prima di guardare B-17. Illuminava la spalla riparata e la mano del tecnico vicino alla porta. Il badge temporaneo che portava al collo era girato al contrario; lo rimise dritto per la terza volta, benché nessuno dovesse leggerlo.
+Noah Carter la notò prima di guardare B-17. Illuminava la spalla riparata e la mano del tecnico vicino alla porta. Il badge temporaneo che portava al collo era girato al contrario; lo rimise dritto per la terza volta, benché nessuno dovesse leggerlo. Non era il badge con scritto Evan North che usava nelle prove ordinarie di Veyra Labs. Per quella procedura era registrato come Noah Carter, l'uomo che aveva modificato B-17 e poi ne aveva pubblicato le immagini senza permesso.
 
 Sul banco un indicatore mostrava che le connessioni operative erano disabilitate. Il pacchetto predisposto per B-17 agiva soltanto lì: avrebbe ritirato l'identità tecnica originaria e reso inaccessibile lo stato conversazionale legato alle chiavi che Noah aveva alterato. Non c'era una copia verificata capace di restituire Bi. I produttori, altrove, avrebbero distribuito aggiornamenti diversi e riavviato ogni sito dopo i propri controlli.
 
