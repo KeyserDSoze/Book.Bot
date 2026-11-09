@@ -54,3 +54,8 @@ Nel **14/002** Nina rifiuta il percorso preparato dallo sponsor e propone una pr
 ## Diciannovesima review — l'invito e i dati della visita
 
 Nel **21/001** Nina distingue l'invito volontario a Maya dalla raccolta obbligatoria di prove tecniche. Pretende che sia comunicato prima chi assisterà e che cosa verrà registrato; il rifiuto di Maya non ferma gli audit indipendenti. Non può garantire una memoria del robot invariata, né usare la lettera già trapelata per chiedere altre confidenze come dati di collaudo. La corrispondenza resta mediata nel 20–21.
+
+
+## Cap. 15–21: l'estratto privato
+
+Nina scopre che Henry ha allegato indebitamente la lettera autentica di Maya al ticket Lanter, senza attenersi alla richiesta di usarne un esempio inventato. Apprende che un estratto è stato classificato in modo errato e che un evento da IP esterno ignoto precede la stampa, ma non attribuisce la causa a una persona. Dopo la ricostruzione del cap. 20 riceve conferma che un vecchio componente clandestino lasciato da Noah ha prodotto la richiesta, mentre gli errori dell'amministrazione e del produttore restano reali. Nel cap. 21 registra la condizione posta da Maya: Noah/Evan North non può assistere né leggere i dati della sua visita.
