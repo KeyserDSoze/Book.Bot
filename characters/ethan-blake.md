@@ -11,7 +11,7 @@ Sviluppatore di connettori e flussi d'integrazione software a Cyberdine, azienda
 
 Capitolo 4: inizialmente si aspetta di battere Bi; dopo diverse sconfitte contro il robot, perde sicurezza davanti ai colleghi. Nelle partite successive Bi perde e Ethan esulta davanti a lui, lo chiama «stupida macchina» e gli attribuisce il desiderio di vincere. L'atto deve apparire meschino ma umano: non rendere Ethan un cattivo monodimensionale o un rappresentante di tutta Cyberdine.
 
-Non attribuirgli conoscenze sulle ragioni delle sconfitte di Bi.
+Non attribuirgli conoscenze sulle ragioni delle sconfitte di Bi prima del sabato successivo: Maya le racconta in pubblico solo con l'autorizzazione di Bi. Ethan vive la scoperta come una smentita umiliante delle proprie vittorie e smette di unirsi alla nuova sfida sportiva. Questa ferita non spiega da sola e non giustifica l'aggressione successiva.
 
 
 ## Capitoli 5–7
