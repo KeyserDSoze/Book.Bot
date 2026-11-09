@@ -16,9 +16,9 @@ factions:
   - faction:lanter-robotics
 ---
 
-Noah arrivò con un quaderno senza computer.
+Noah arrivò con un quaderno senza computer. Il suo incarico presso **Veyra Labs** era stato dichiarato al gruppo di verifica, insieme al nome professionale **Evan North**. Per quella riunione compariva sul registro come Noah Carter, persona informata sui propri interventi e potenzialmente interessata al risultato, non come revisore indipendente.
 
-Glielo aveva chiesto Leah Rosen per il colloquio tecnico con i consulenti: niente accessi ai sistemi operativi, niente dispositivi personali sulla rete di Cyberdine, nessuna dimostrazione in tempo reale. Soltanto una ricostruzione verificabile di ciò che aveva fatto e di ciò che non poteva garantire.
+Glielo aveva chiesto Leah Rosen per il colloquio tecnico con i consulenti: niente accessi ai sistemi operativi, niente dispositivi personali sulla rete di Cyberdine, nessuna dimostrazione in tempo reale. Che il suo nuovo datore di lavoro operasse proprio sul robot in questione rendeva ancora più importante lasciare le decisioni ai responsabili indipendenti. Soltanto una ricostruzione verificabile di ciò che aveva fatto e di ciò che non poteva garantire.
 
 Un consulente gli pose la domanda più semplice della mattina.
 
