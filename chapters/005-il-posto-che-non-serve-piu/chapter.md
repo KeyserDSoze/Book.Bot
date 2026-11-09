@@ -16,9 +16,9 @@ Claire Foster sa interpretare codice, eccezioni e prove di regressione meglio di
 
 # Progressione
 
-1. **La finestra di Margaret.** Claire apre la libreria originale di un connettore, invece di fermarsi al riepilogo dell'agente; Bi propone casi di prova su un terminale autorizzato. Margaret prepara il pensionamento e il nuoto; Claire spera nel ruolo senior.
+1. **La finestra di Margaret.** Claire apre la libreria originale di un connettore, invece di fermarsi al riepilogo dell'agente; Bi propone casi di prova su un terminale autorizzato. Margaret prepara il pensionamento e il nuoto; Claire spera nel ruolo senior. Maya riferisce della partita vera del sabato e dei colleghi che ora sfidano Bi per migliorarsi.
 2. **Un criterio ragionevole.** Responsabili umani esaminano i test e i costi: la nuova struttura è più efficiente, ma rischia di interrompere la trasmissione della competenza tecnica. Viene scelta l'opzione senza una posizione senior dedicata.
-3. **La parola rubare.** Ethan, sviluppatore che ormai revisiona prevalentemente codice generato, soffre per la perdita di identità professionale. Marcus perde alcuni giri e ore di lavoro fisico. Sono frustrazioni diverse; Maya invita a parlare con Claire invece di accusare Bi.
+3. **La parola rubare.** Ethan, che non ha accettato la rivelazione delle vittorie di cortesia, vede Paul e Mila allenarsi ancora con Bi. Come sviluppatore che ormai revisiona prevalentemente codice generato, soffre per la perdita di identità professionale. Marcus perde alcuni giri e ore di lavoro fisico. Sono frustrazioni diverse; Maya invita a parlare con Claire invece di accusare Bi.
 4. **La porta senza nome.** Kyla informa Claire che la posizione non esisterà. Claire affronta Bi in modo doloroso ma non gli attribuisce una decisione umana. Resta il desiderio della libreria e di una responsabilità propria.
 
 # Vincoli
