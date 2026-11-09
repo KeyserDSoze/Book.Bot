@@ -90,7 +90,7 @@ Olivia annotò la risposta. Chiese poi se Noah fosse ancora dipendente e se aves
 
 Leah non rispose per lui. Si limitò a dire che avrebbero trasmesso la richiesta attraverso i canali appropriati, senza fornire dati personali oltre quanto fosse legittimo comunicare.
 
-La giornalista ringraziò. Prima di chiudere disse che il documento ricevuto da una fonte non conteneva il testo privato della lettera di Maya, ma era stato comunque estratto da una pratica non destinata alla pubblicazione.
+La giornalista ringraziò. Prima di chiudere disse che il documento ricevuto da una fonte non conteneva il testo privato della chat fra Maya e B-17, ma era stato comunque estratto da una pratica non destinata alla pubblicazione.
 
 Kyla guardò il telefono.
 
