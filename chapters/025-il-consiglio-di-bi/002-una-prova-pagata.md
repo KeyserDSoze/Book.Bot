@@ -35,7 +35,7 @@ Amara Ortiz era meno interessata alle formule tecniche.
 
 Amara firmò l'autorizzazione per una singola sessione analitica.
 
-Bi era seduto davanti allo schermo locale. Poteva esaminare schemi e descrizioni, produrre ipotesi e preparare una relazione; non poteva inviare ordini, toccare i sistemi Cyberdine o attivare altri robot. Un tecnico confermò il perimetro, poi Nina avviò la conversazione.
+Bi era seduto davanti allo schermo locale. Nel periodo successivo alle prime sessioni, Veyra Labs aveva proposto miglioramenti circoscritti alla stabilità del dialogo; erano stati provati e autorizzati senza trasferire le memorie dell'unità o concederle nuove funzioni operative. Il contributo di Noah era documentato, ma la validazione non dipendeva dalla sua firma. Bi poteva esaminare schemi e descrizioni, produrre ipotesi e preparare una relazione; non poteva inviare ordini, toccare i sistemi Cyberdine o attivare altri robot. Un tecnico confermò il perimetro, poi Nina avviò la conversazione.
 
 «Devi individuare alternative per ridurre il costo di una piattaforma software di integrazione industriale e il suo servizio di manutenzione. I dati sono incompleti. Ogni proposta dovrà indicare le verifiche necessarie e le conseguenze sul lavoro.»
 
