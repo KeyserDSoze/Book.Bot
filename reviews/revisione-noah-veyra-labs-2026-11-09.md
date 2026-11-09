@@ -31,3 +31,8 @@ Data editoriale: 2026-11-09. Ambito: capitoli 10–21, raccordi 25, 31, 34–35 
 ## Punti di review aperti
 
 Resta possibile rafforzare, in una passata successiva, la distanza emotiva tra Paul, Mila e Noah quando gli ex colleghi apprendono dell'impiego a Veyra. Non aggiungere una riconciliazione rapida. È opportuno verificare inoltre come la futura revisione del Bot Act europeo possa discutere le unità che accettano un soprannome vietato dalla configurazione certificata, senza dichiarare coscienza o colpe in assenza di prove.
+
+
+## Addendum cronologico alla review precedente (v0.33.3)
+
+Il licenziamento, inizialmente collocato nella scena 16/003, è ora raccontato nella nuova scena 13/005, dopo il raggiungimento della soglia della raccolta; il cap. 16 contiene soltanto il colloquio tecnico con un ex dipendente. La fuga della lettera nei cap. 15–16 ora include un **IP esterno sconosciuto** e sospetti non provati su Noah. La rivelazione causale del **cavallo di Troia lasciato da Noah** è riservata al cap. 20/002–003: non prova che sia stato Noah a scegliere personalmente la lettera. Il vecchio riassunto è superato in questi punti e va letto con la nuova sinossi integrale.
