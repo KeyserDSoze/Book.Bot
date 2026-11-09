@@ -8,7 +8,8 @@ canon: canon
 pov: character:noah-carter
 characters:
   - character:noah-carter
-  - character:kyla
+  - character:paul-turner
+  - character:mila-novak
 locations:
   - location:cyberdine-campus
 factions:
