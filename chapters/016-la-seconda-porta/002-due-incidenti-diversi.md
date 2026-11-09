@@ -24,7 +24,7 @@ Non per mancanza di gentilezza. Aveva passato la mattina a raccogliere dichiaraz
 
 Dall'altro lato dello schermo Mei Lin aveva alle spalle una parete di vetro e un carrello pieno di parti di ricambio. Parlava un italiano scolastico che presto abbandonò per un inglese più preciso; la funzione di traduzione della riunione traduceva gli interventi per chi lo desiderava.
 
-Leah mostrò soltanto la prima pagina del documento trapelato, oscurando la frase personale di Maya.
+Leah mostrò soltanto la prima pagina dell'estratto della chat trapelata, oscurando il messaggio personale di Maya.
 
 «Confermate che questo estratto apparteneva a una pratica diversa dalla nostra? E che avete conservato l'evento associato all'IP esterno sconosciuto?»
 
@@ -36,11 +36,11 @@ Leah mostrò soltanto la prima pagina del documento trapelato, oscurando la fras
 
 Kyla si sporse verso la telecamera.
 
-«E chi può aver visto la frase?»
+«E chi può aver visto la conversazione?»
 
 «Stiamo delimitando il perimetro. Non daremo per chiuso il caso finché non avremo confrontato tutte le evidenze. Vi invieremo un resoconto verificabile.»
 
-Leah apprezzò la risposta. Avrebbe preferito sentirla prima che quella frase venisse stampata.
+Leah apprezzò la risposta. Avrebbe preferito sentirla prima che quelle parole venissero stampate e diffuse in rete.
 
 Sul tavolo aveva preparato due cartelline: **documenti dei clienti** e **modifiche non autorizzate di B-17**. Le tenne fisicamente separate. L'evento esterno era annotato in entrambe come elemento da confrontare, non come prova che Noah avesse fatto uscire personalmente la lettera.
 
@@ -88,9 +88,15 @@ Leah non rispose con un sì automatico.
 
 Kyla guardò la cartellina dei documenti.
 
-«Maya sa già della fuga?»
+«Maya sa già della diffusione della chat?»
 
 «Sì. Le abbiamo comunicato ciò che è accertato. Le diremo il resto quando sarà verificato.»
+
+Kyla fece scorrere un secondo documento. «E Veyra ha già depositato una causa contro Cyberdine per il presunto tentativo di sottrazione di B-17. Ci accusano di avere usato l'invito privato di Maya per aggirare il rifiuto commerciale.»
+
+«Dobbiamo rispondere in sede civile con le prove della separazione fra raccolta privata e decisioni dell'azienda», disse Leah. «E continuare a chiedere al Circuito come sia stato possibile divulgare proprio la chat che loro stessi avevano autorizzato. Il deposito di una causa non è una sentenza.»
+
+Victor Cole abbassò gli occhi sul fascicolo. «Ci stanno portando in tribunale per una macchina che non potevamo nemmeno permetterci di riparare.»
 
 Rimasero ancora qualche minuto a definire chi avrebbe preparato la notifica successiva. Sulla porta, uscendo, Kyla si voltò.
 
