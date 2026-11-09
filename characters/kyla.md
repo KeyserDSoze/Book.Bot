@@ -35,12 +35,12 @@ Kyla segue la plenaria dell'AD Victor Cole. Ascolta l'annuncio della cessazione 
 
 ## Capitoli 11–14
 
-Dopo la richiesta di Noah, Kyla partecipa con Leah Rosen alla confessione sull'aggiornamento e la backdoor di B-17. Si preoccupa della privacy e della fiducia tradita, senza escludere che la capacità tecnica fosse autentica. Informa Maya del rischio, autorizza con la direzione un contatto legittimo col Circuito Veyra e fornisce a Maya e Paul la conferma della nuova destinazione. Supporta la correttezza informativa dell'iniziativa privata «Ricompriamo Bi» senza renderla una campagna aziendale né promettere il ritorno dell'unità. Dopo il rifiuto della vendita, contribuisce a far inoltrare legittimamente una lettera privata di Maya.
+Dopo la segnalazione di Paul e Mila, a cui Noah aveva confidato per primi il proprio segreto, Kyla partecipa con Leah Rosen alla confessione formale sull'aggiornamento, la backdoor di B-17 e la diffusione anonima dei video di Veyra. L'indagine successiva conduce nel capitolo 16 al licenziamento motivato di Noah. Si preoccupa della privacy e della fiducia tradita, senza escludere che la capacità tecnica fosse autentica. Informa Maya del rischio, autorizza con la direzione un contatto legittimo col Circuito Veyra e fornisce a Maya e Paul la conferma della nuova destinazione. Supporta la correttezza informativa dell'iniziativa privata «Ricompriamo Bi» senza renderla una campagna aziendale né promettere il ritorno dell'unità. Dopo il rifiuto della vendita, contribuisce a far inoltrare legittimamente una lettera privata di Maya.
 
 
 ## Percorso di Noah nella revisione editoriale
 
-Kyla saluta Noah Carter già nell'atrio del capitolo 1 mentre lui aiuta un addetto con una porta di servizio bloccata. In capitolo 8 lo vede lasciare la plenaria quando compare B-17. Non riconosce quei gesti come indizi di una modifica clandestina: sono compatibili con la normale vita del reparto sviluppo. Solo durante la confessione nel capitolo 12 ricostruisce il contrasto tra competenza nell'ascolto dei colleghi e scelta di violarne la privacy.
+Kyla saluta Noah Carter già nell'atrio del capitolo 1 mentre lui aiuta un addetto con una porta di servizio bloccata. In capitolo 8 lo vede lasciare la plenaria quando compare B-17. Non riconosce quei gesti come indizi di una modifica clandestina: sono compatibili con la normale vita del reparto sviluppo. Solo durante la confessione nel capitolo 12, attivata dalla segnalazione dei due colleghi, ricostruisce il contrasto tra competenza nell'ascolto dei colleghi e scelta di violarne la privacy. Noah in seguito lavora per Veyra Labs sotto il nome professionale Evan North, senza essere reintegrato a Cyberdine.
 
 
 ## Capitoli 25–30
