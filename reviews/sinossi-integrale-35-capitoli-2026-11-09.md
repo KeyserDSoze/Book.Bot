@@ -174,3 +174,178 @@ Ethan, temporaneamente escluso dal campus, legge i messaggi sulle difficoltà de
 **Come finisce**
 
 Maya torna nello Spazio Comune e nella stanza in cui parlava con Bi. Invece di limitarsi a cercare chi ascoltava lei, raggiunge Claire, le domanda sinceramente **«Come stai?»** e aspetta la risposta. Claire ammette di non stare bene. Maya si siede accanto a lei e condivide un piccolo spuntino: l'ascolto appreso con Bi passa, almeno per quella sera, da una persona all'altra.
+
+
+---
+
+## Parte II — Il ritorno di Bi e il segreto di Noah
+
+### Capitolo 8 — Il preventivo
+
+**Cosa succede**
+
+Victor Cole apre la plenaria di Cyberdine direttamente dai numeri: **ricavi di competenza +11%** nel trimestre. Li presenta come un successo autentico, ma Gavin e Claire commentano sottovoce i dati che non occupano la schermata principale: **incassi -9%**, pagamenti in ritardo, poche nuove commesse e gare perse contro software house giovani, costruite fin dall'inizio sullo sviluppo agentico.
+
+La crescita contabile convive con una **grave difficoltà di liquidità**. Victor annuncia l'esito degli accertamenti disciplinari: Ethan e Marcus vengono licenziati per l'aggressione. Poi comunica che riparare B-17 costerebbe quasi quanto acquistare un robot completo equivalente, e che l'azienda non può permettersi nessuna delle due soluzioni.
+
+Cyberdine decide di prendere **in noleggio operativo un B-21 ricondizionato di fascia base**, economicissimo ma con capacità molto ridotte. Nelle settimane successive Claire e gli altri devono coprire le attività e le verifiche non comprese nel nuovo contratto. Gavin discute con Kyla degli errori organizzativi, mentre all'esterno Ethan comincia a raccogliere persone nel movimento **Lavoro Prima**.
+
+**Punti salienti**
+
+- Victor non falsifica i numeri, ma sceglie come presentarli.
+- **Ricavi registrati e denaro disponibile** sono cose diverse.
+- Cyberdine ha adottato gli agenti AI, ma non è agile quanto i concorrenti nati intorno a essi.
+- B-21 non è un miglioramento di B-17: è un compromesso economico imposto dalla cassa.
+- Kyla riceve una partecipazione personale di Victor, che **non sottrae fondi alla società**.
+- Il licenziamento di Ethan non mette fine alla sua battaglia anti-robot.
+
+**Come finisce**
+
+Nel confronto finale Gavin critica la selezione ottimistica dei dati e riceve un invito agli incontri di Lavoro Prima; non lo accetta automaticamente e non giustifica l'aggressione. Tornando alla squadra promette di lavorare ancora da casa dopo cena. Sul telefono il figlio gli ha lasciato una fetta di pizza: anche la crisi organizzativa si misura nel tempo sottratto alla vita personale.
+
+---
+
+### Capitolo 9 — La copia
+
+**Cosa succede**
+
+Circa un mese dopo arriva a Cyberdine B-21. Esteriormente sembra Bi, ma è **un'unità ricondizionata, economica, con licenze e capacità limitate**: trasporta documenti, rifornisce materiali e segue percorsi configurati, senza partecipare ai test e alla comprensione dei connettori software.
+
+Paul verifica le consegne e le semplici operazioni di fotocopia. Elena vede che la dashboard torna verde per i tragitti, mentre le verifiche documentali e fisiche restano agli agenti digitali e ai colleghi. Claire continua a individuare errori nei riepiloghi e a controllare le fonti che la macchina non analizza.
+
+Il numero **21** non significa «ventunesima generazione»: è il ventunesimo bot registrato da Cyberdine, così come B-17 era il diciassettesimo e il vecchio centralino B-1 era il primo.
+
+Una sera Maya prova a chiamarlo **«Bi»**. Il robot non reagisce. Solo dopo aver pronunciato **«B-21»** ottiene una risposta fredda e conforme all'**articolo 4 del Bot Act europeo immaginario**, che esclude il riconoscimento di soprannomi e identità alternative.
+
+**Punti salienti**
+
+- Corpo esterno quasi identico e identità relazionale non coincidono.
+- Il sostituto **fa bene il poco lavoro acquistato**, non tutto quello che Bi aveva imparato a fare.
+- La numerazione B è un sistema di registrazione operativa, non una misura dell'intelligenza.
+- Il Bot Act introduce la definizione legale della macchina come priva di anima e personalità giuridica.
+- Il nuovo robot non è malvagio né difettoso: è conforme, affidabile e distante.
+
+**Come finisce**
+
+Maya saluta il robot utilizzando il suo nome certificato e lascia la stanza della carta. B-21 continua il lavoro correttamente, ma per lei la somiglianza fisica non cancella l'assenza: **Bi non è tornato**.
+
+---
+
+### Capitolo 10 — Il segnale
+
+**Cosa succede**
+
+A casa Noah Carter riceve una notifica inattesa. Il lettore scopre finalmente che Noah aveva **potenziato clandestinamente B-17** con un modello linguistico più capace e altre modifiche al contesto conversazionale, lasciando inoltre un accesso non autorizzato ai sensori.
+
+Attraverso quel collegamento vede che il robot è ancora operativo sull'isola di Veyra. Bi partecipa a un'esercitazione competitiva fra squadre robotiche in uno scenario di combattimento simulato. Noah riconosce l'unità, segue le immagini dal suo punto di vista e osserva le decisioni operative dei responsabili.
+
+Nina Solis supervisiona la prova e interviene quando emergono problemi di sicurezza. La squadra di Bi ottiene la vittoria, ma Noah comprende che ciò che aveva fatto di nascosto è ormai presente in un altro contesto, fuori da Cyberdine e dal suo controllo.
+
+**Punti salienti**
+
+- Prima rivelazione al lettore dell'**origine tecnica** delle capacità avanzate di Bi.
+- La modifica di Noah non era stata verificata o autorizzata.
+- L'accesso ai sensori costituisce una violazione della riservatezza potenzialmente grave.
+- B-17 è vivo **nel senso operativo**: funziona e partecipa alle prove; il romanzo non certifica una coscienza.
+- La vittoria ha valore commerciale per Veyra, ma aumenta il rischio che Noah sia scoperto.
+
+**Come finisce**
+
+Noah apre una mail a Kyla e scrive nell'oggetto **«B-17. Devo raccontarvi una cosa.»**. Non inserisce il testo del messaggio e non preme invio. Il capitolo si interrompe sul cursore lampeggiante: non sappiamo ancora quale strada sceglierà per rendere pubblica la scoperta.
+
+---
+
+### Capitolo 11 — Il prezzo del vincitore
+
+**Cosa succede**
+
+Un breve video anonimo mostra la vittoria della squadra di B-17 nelle prove di Veyra. Un secondo filmato contiene una domanda del robot sui compagni coinvolti nella simulazione. Le immagini circolano rapidamente e attirano milioni di visualizzazioni.
+
+Nina nota che alcuni fotogrammi provengono dai sensori dell'unità e **non** dal reparto comunicazione ufficiale. Veyra riceve proposte economiche importanti, condizionate a future esibizioni e a impegni contrattuali; Amara deve distinguere spettacolo, valore commerciale e sicurezza.
+
+Noah segue da lontano la crescita del fenomeno. Sa più di quanto possa dire, ma il capitolo non rivela ancora che è stato lui a registrare e pubblicare il materiale. La bozza indirizzata a Kyla rimane nel computer; Noah decide invece di confidarsi con **Paul e Mila**, due colleghi che considera amici.
+
+**Punti salienti**
+
+- La fama rende Bi una risorsa economica molto più preziosa.
+- I video sono diffusi da un account anonimo, senza autorizzazione del proprietario.
+- L'origine della pubblicazione rimane nascosta fino al capitolo 12.
+- Noah sceglie una confessione personale invece della procedura aziendale formale.
+- Il valore di una macchina può aumentare per come il pubblico interpreta un comportamento.
+
+**Come finisce**
+
+Noah **non invia** la mail. Paul organizza un incontro con Mila e lo avverte che, se si tratta di un problema di sicurezza, l'amicizia non potrà obbligarli a tacere. Noah accetta a parole, convinto di potersi fidare di loro; non immagina come la confessione cambierà il rapporto.
+
+---
+
+### Capitolo 12 — La confessione
+
+**Cosa succede**
+
+Noah incontra Paul e Mila e racconta di avere installato di nascosto il modello avanzato su B-17, di aver mantenuto un accesso clandestino ai sensori e di avere **pubblicato personalmente i due video anonimi**. Voleva dimostrare che Bi era ancora operativo e mostrare al mondo come venivano impiegati i robot a Veyra.
+
+Paul e Mila comprendono che Noah avrebbe potuto osservare anche conversazioni e momenti personali all'interno di Cyberdine. Si sentono violati e informano Kyla e Leah Rosen, responsabile della sicurezza. Noah viene ascoltato formalmente e ammette i fatti principali; partono le verifiche e la sospensione dei suoi accessi.
+
+Maya scopre che il rapporto personale costruito con Bi potrebbe non essere stato riservato come credeva e affronta Noah. Cyberdine sceglie intanto **un percorso legittimo**: contatta Veyra attraverso referenti ufficiali e ottiene conferma che B-17 è lì.
+
+**Punti salienti**
+
+- La responsabilità dei video è finalmente rivelata.
+- La buona intenzione dichiarata da Noah **non annulla** la sorveglianza non autorizzata.
+- Paul e Mila denunciano un rischio reale senza diventare automaticamente traditori.
+- Maya distingue ciò che ha confidato a Bi da ciò che Noah aveva il diritto di conoscere.
+- Il possesso di B-17 e le autorizzazioni ad accedervi spettano ora a Veyra.
+
+**Come finisce**
+
+Kyla comunica a Maya la conferma ufficiale: Bi è a Veyra. Maya chiede se possano riportarlo indietro, ma Kyla non promette niente perché **il robot non appartiene più a Cyberdine**. Maya prende una pallina dal tavolo da ping pong e conclude che, almeno, **possono provare a chiederlo**.
+
+---
+
+### Capitolo 13 — Ricompriamo Bi
+
+**Cosa succede**
+
+Maya, Paul, Mila e altri colleghi lanciano una **raccolta fondi privata e condizionata** per tentare di riacquistare Bi. Il motivo non è soltanto nostalgico: Cyberdine ha poca liquidità, paga un robot di fascia base per le consegne e perde nuove commesse contro concorrenti costruiti attorno agli agenti. Alcuni pensano che Bi, dopo tutte le verifiche necessarie, potrebbe contribuire a **un laboratorio di innovazione e a nuovi progetti commerciali**.
+
+I promotori cercano di convincere i colleghi con esempi concreti dei test che Bi aiutava a preparare. Altri ricordano che nessuna macchina garantisce il ritorno al fatturato precedente. Paul calcola trasporto, manutenzione, permessi e condizioni; Claire critica il fatto che si trovino soldi per Bi mentre la formazione dei dipendenti resta senza copertura, ma contribuisce **25 euro**. La partecipazione rimane volontaria.
+
+Gli impegni verificati raggiungono **101.240 euro**. Il gruppo presenta una proposta ufficiale senza avere un prezzo concordato e senza autorizzazione a utilizzare il robot come se fosse già loro. Nello stesso periodo arriva alla conclusione l'indagine disciplinare sulle modifiche di B-17.
+
+**Punti salienti**
+
+- La colletta combina **affetto per Bi e speranza di rilanciare Cyberdine**.
+- Innovare non significa demonizzare i robot o negare gli effetti dell'automazione sul lavoro.
+- Gli impegni condizionati non equivalgono a denaro aziendale o vendita conclusa.
+- Claire mette in discussione il costo opportunità delle donazioni e della formazione assente.
+- Noah deve rispondere della modifica clandestina, dell'accesso occulto e dei video pubblicati.
+
+**Come finisce**
+
+Cyberdine **licenzia Noah** dopo settimane di accertamenti e controdeduzioni. L'ex programmatore restituisce il tesserino, perde la fiducia di Paul e Mila e lascia l'azienda con una scatola di oggetti personali. Continua a sapere programmare, ma non sa più quale posto avrà nel settore. La proposta di acquisto di Bi rimane senza risposta commerciale definitiva.
+
+---
+
+### Capitolo 14 — Non è in vendita
+
+**Cosa succede**
+
+Veyra risponde alla proposta: **B-17 non è in vendita**. Il rifiuto non dipende dall'importo raccolto ma dagli impegni con sponsor, programmi di prova e contratti. La raccolta viene chiusa nel rispetto delle condizioni; gli impegni non vengono dirottati ad altri scopi.
+
+Nina, nel frattempo, respinge richieste di dimostrazioni troppo rischiose. Bi riceve attraverso i referenti un riepilogo amministrativo della proposta rifiutata e **chiede di poter scrivere a Maya**. Nina e Amara autorizzano una breve **chat testuale privata e supervisionata**, con il consenso di Maya e senza collegare il robot direttamente a Internet.
+
+Bi scrive per primo e domanda se gli ex colleghi abbiano cercato di comprarlo. Maya gli dice che Veyra ha risposto di no, che **manca a tutti** e che, se un giorno gli sarà permesso, deve venire a trovarli a Cyberdine: lo aspettano **a braccia aperte**. Bi non conferma un trasferimento, ma ricorda una rivincita a ping pong.
+
+**Punti salienti**
+
+- Bi **inizia** la comunicazione: non riceve più una vecchia lettera scritta da Maya.
+- La chat è legittima e supervisionata, **non** passa dalla backdoor di Noah.
+- Un invito personale non è una compravendita né un ordine operativo.
+- Il nome «Bi» nell'interfaccia è un'etichetta leggibile, non un nuovo identificativo certificato.
+- Una comunicazione privata crea problemi pratici di classificazione e tutela dei dati.
+
+**Come finisce**
+
+Henry, addetto amministrativo di Veyra, apre una pratica per capire come classificare una chat fra robot e persona non cliente. Nina lo avverte di **non allegare le parole autentiche di Maya** e di usare un esempio inventato. Il sistema conferma la lettura dell'avviso, ma Nina non sa se verrà rispettato. Il rischio di una fuga nasce da questa piccola scelta burocratica.
+
