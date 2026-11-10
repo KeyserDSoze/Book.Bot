@@ -349,3 +349,187 @@ Bi scrive per primo e domanda se gli ex colleghi abbiano cercato di comprarlo. M
 
 Henry, addetto amministrativo di Veyra, apre una pratica per capire come classificare una chat fra robot e persona non cliente. Nina lo avverte di **non allegare le parole autentiche di Maya** e di usare un esempio inventato. Il sistema conferma la lettura dell'avviso, ma Nina non sa se verrà rispettato. Il rischio di una fuga nasce da questa piccola scelta burocratica.
 
+
+
+---
+
+## Parte III — Le conseguenze della scoperta
+
+### Capitolo 15 — La chat impossibile
+
+**Cosa succede**
+
+Durante una normale procedura di stampa e consegna a Cyberdine, B-21 intercetta un documento che non corrisponde all'etichetta della pratica. Maya riconosce alcune righe della **chat privata iniziata da Bi**: la domanda sulla raccolta fondi e il suo invito a tornare a Cyberdine «a braccia aperte».
+
+Lo scambio non doveva essere accessibile a Cyberdine e, poco dopo, una schermata ritagliata compare online. Senza il contesto, sembra che Cyberdine abbia cercato prima di acquistare il robot e poi di convincerlo a tornare **gratis**, contro la volontà di Veyra. Maya non aveva però ricevuto alcun mandato aziendale né proposto un trasferimento senza consenso.
+
+Paul sospetta che Noah, già licenziato, abbia lasciato qualche accesso segreto. Leah preserva la stampa e i registri e trova, poco prima del recupero, una richiesta proveniente da un **IP esterno sconosciuto**: non identifica necessariamente Noah o una persona.
+
+A Veyra Nina scopre che Henry, disobbedendo all'indicazione di usare un esempio inventato, aveva allegato un estratto della chat a un ticket Lanter. Il produttore lo aveva **indicizzato impropriamente** e reso recuperabile in un altro contesto cliente. Amara, preoccupata degli sponsor e della proprietà di B-17, fa **depositare una causa civile contro Cyberdine** per il presunto tentativo di sottrazione gratuita dell'unità.
+
+**Punti salienti**
+
+- Il capitolo riguarda **una chat vera iniziata da Bi**, non la precedente versione della trama con una lettera di Maya.
+- Il messaggio privato viene esposto due volte: nella stampa e in uno screenshot diffuso pubblicamente.
+- L'**IP esterno** alimenta sospetti su Noah, ma non prova chi abbia avviato la richiesta.
+- Henry e Lanter hanno responsabilità di trattamento e classificazione distinte dalla possibile responsabilità di Noah.
+- B-21 **non cerca Bi né inventa il testo**: segnala un allegato inatteso in una normale operazione.
+- Veyra avvia un **contenzioso civile**: depositare una domanda non significa aver dimostrato l'illecito di Cyberdine.
+- Maya perde il controllo di parole pronunciate in una sessione che credeva privata.
+
+**Come finisce**
+
+Nina informa B-17 che la sua comunicazione con Maya è stata diffusa senza autorizzazione; il robot rileva che le condizioni di riservatezza non sono state rispettate e chiede se Maya abbia ricevuto altre notizie. Nina non sa se lei vorrà parlargli ancora.
+
+Arriva la conferma che **la causa di Veyra contro Cyberdine è stata depositata**, senza alcuna decisione del giudice. Nina rimane davanti al robot con una contraddizione: una società ha fatto causa a un'altra per parole personali, e **la macchina era stata la prima a scriverle**.
+
+---
+
+### Capitolo 16 — La seconda porta
+
+**Cosa succede**
+
+Mei Lin, responsabile qualità di Lanter Robotics, esamina l'incidente. Ricostruisce come un estratto della chat Bi–Maya sia stato trattato dal servizio di assistenza come un contenuto indicizzabile e come sia arrivato a un altro cliente.
+
+Leah separa **tre piste**: la fuga e la diffusione della chat, la richiesta proveniente da un IP esterno non attribuito e le modifiche software clandestine introdotte anni prima da Noah. A queste si affianca la **causa civile Veyra–Cyberdine**, che riguarda la pretesa sul possesso del robot e non decide da sola le responsabilità per la privacy.
+
+Emergono informazioni su un nuovo modulo commerciale Lanter, **Collaborazione Contestuale**, sviluppato studiando anche comportamenti osservati in B-17. Noah, già fuori da Cyberdine, viene ascoltato soltanto come persona informata in un colloquio tecnico controllato. Può chiarire che cosa aveva modificato, ma non riceve nuovamente accessi e non viene provato che abbia effettuato una nuova intrusione.
+
+**Punti salienti**
+
+- L'errore di classificazione dei dati non è la stessa questione della **provenienza del nuovo prodotto Lanter**.
+- Un precedente illecito di Noah non dimostra automaticamente ogni violazione successiva.
+- La causa di Veyra è una controversia da contestare e documentare, non una sentenza.
+- Lanter può aver ricostruito comportamenti senza copiare l'intero codice clandestino di Bi.
+- Resta aperta la questione del controllo dei dati provenienti dal robot.
+- Le responsabilità vanno trattate con prove verificabili, non attraverso sospetti o convenienze aziendali.
+
+**Come finisce**
+
+Terminato il colloquio, Noah esce da Cyberdine senza riottenere il tesserino. Si interroga su quanto il proprio esperimento non verificato debba essere imitato da altri. Sul telefono legge che **Lanter avvierà la settimana seguente i primi piloti commerciali** di Collaborazione Contestuale: la diffusione procede anche mentre gli accertamenti sono incompleti.
+
+---
+
+### Capitolo 17 — Mille piccoli Bi
+
+**Cosa succede**
+
+Lanter conclude alcune prove controllate del modulo Collaborazione Contestuale e ne autorizza la distribuzione commerciale entro precisi limiti. Nelle strutture assistenziali la conversazione e il coordinamento con i robot migliorano alcune attività di Grace e Helen. All'Hub Levante le nuove funzioni semplificano il rapporto tra operatori, reparti e macchine, pur creando difficoltà su autorizzazioni e gestione delle eccezioni.
+
+Le installazioni superano **mille unità** per scelte indipendenti dei clienti. Mei osserva che nessuna di esse possiede automaticamente la storia, la memoria o le caratteristiche individuali di B-17: non sono davvero «mille Bi».
+
+Nel frattempo la società legata al proprietario di B-17 apre **Veyra Labs**, una struttura di ricerca avanzata. Assume Noah nonostante il licenziamento e le precedenti violazioni, con limitazioni e controlli. Nei documenti di lavoro pubblici Noah usa il nome professionale **Evan North**, mentre la direzione ne conosce l'identità anagrafica.
+
+**Punti salienti**
+
+- L'innovazione si diffonde attraverso **singole decisioni commerciali**, senza un piano centrale di trasformazione sociale.
+- Benefici quotidiani e nuovi rischi operativi convivono.
+- I robot commerciali Lanter **non sono copie della memoria di Bi**.
+- Veyra Labs è distinta da Lanter: sviluppa capacità robotiche e lavora sull'originale B-17.
+- Il talento di Noah continua a essere richiesto, ma non lo assolve e non gli restituisce automaticamente fiducia.
+- Le modifiche future devono essere eseguite prima in ambienti di prova autorizzati.
+
+**Come finisce**
+
+Noah firma il contratto e riceve il badge **«EVAN NORTH — VEYRA LABS»**. Nina gli indica la stanza in cui Bi è ancora in verifica e lo avverte che non può ripetere esperimenti non documentati. Tornato finalmente a scrivere codice per robot, Noah controlla due volte che la propria postazione sia **un banco di prova, non una macchina in servizio**.
+
+---
+
+### Capitolo 18 — Il giorno in cui si fermarono
+
+**Cosa succede**
+
+All'Hub Levante più ordini e approvazioni incompatibili provocano l'arresto prudenziale di alcune unità robotiche. Omar ricostruisce la sequenza: non è un rifiuto cosciente di lavorare, ma l'applicazione di una regola di sicurezza. Il blocco dura **47 minuti**, con ritardi reali nelle partenze.
+
+In una struttura assistenziale un problema analogo interrompe per **22 minuti** alcune attività: ciò che appare un semplice tempo di fermo tecnico pesa sulle persone e sugli operatori. Si verificano segnalazioni anche in altri contesti, senza un'unica causa universale.
+
+Un video tagliato presenta gli arresti come robot che si rifiutano di obbedire. Mei confronta il racconto mediatico con i registri e propone limiti e verifiche alle nuove installazioni, invece di una soluzione indiscriminata.
+
+**Punti salienti**
+
+- È un **fermo locale**, del tutto distinto dal successivo arresto mondiale.
+- Le regole pensate per la sicurezza possono produrre costi concreti.
+- I dati dei registri e l'impressione trasmessa da un video possono raccontare storie opposte.
+- Il sistema non esercita necessariamente volontà solo perché smette di lavorare.
+- Lanter deve intervenire sui propri prodotti preservando autorizzazioni e tracciabilità.
+- La parola **«sciopero»** inizia a circolare prima di avere un significato dimostrato.
+
+**Come finisce**
+
+Mei confronta il video virale con il rapporto firmato: il primo parla di «rifiuto», il secondo di «attesa per autorizzazione». Una nuova domanda da un giornalista collega il modulo alle capacità di un robot famoso a Veyra. L'attenzione pubblica si sposta: non basta sapere **che cosa** hanno fatto le macchine; ora interessa **chi ha insegnato loro a fermarsi**.
+
+---
+
+### Capitolo 19 — L'uomo che ha cambiato tutto
+
+**Cosa succede**
+
+Olivia Brooks e altri giornalisti ricostruiscono pubblicamente il collegamento fra una modifica clandestina a Cyberdine, B-17 e il nuovo mercato dei robot più collaborativi. Noah viene rappresentato da alcuni come un genio e da altri come un irresponsabile.
+
+Pur lavorando già per Veyra Labs come Evan North, riceve una proposta per fondare una società indipendente e appropriarsi commercialmente di capacità nate dal suo esperimento. Il contratto pretenderebbe però dichiarazioni su diritti e titolarità non dimostrati e creerebbe conflitti con il suo impiego attuale.
+
+Mei insiste nel separare l'osservazione dei comportamenti dalla copia autorizzata del software. Intanto il movimento **Lavoro Prima** di Ethan cresce nella discussione pubblica, trascinando le rivendicazioni sul lavoro accanto alle polemiche per la precedente aggressione a Bi.
+
+Maya vede Noah diventare un nome famoso dopo aver violato la riservatezza dei colleghi. A Veyra si prepara inoltre una scelta di sicurezza che potrebbe compromettere la configurazione originale del robot.
+
+**Punti salienti**
+
+- La competenza di Noah non dimostra la sua proprietà esclusiva del lavoro di altri.
+- La scoperta scientifica può diventare un prodotto commerciale prima che le questioni di responsabilità siano risolte.
+- Ethan cerca visibilità politica senza che la sua violenza venga cancellata.
+- Una configurazione che rende Bi riconoscibile può non essere **riproducibile con garanzie**.
+- Maya deve confrontare il desiderio di preservarlo con i rischi per persone e sistemi.
+
+**Come finisce**
+
+Maya non sa se chiedere di rimandare un intervento su Bi sia una richiesta responsabile. Scrive quindi a Nina tramite il canale autorizzato: **non chiede di fermare le verifiche**, ma quali alternative siano state considerate per preservare le interazioni senza mantenere un rischio. Riceve conferma della consegna, non di chi prenderà la decisione.
+
+---
+
+### Capitolo 20 — Il prezzo di una memoria
+
+**Cosa succede**
+
+Veyra deve decidere se proseguire le prove con B-17, ripristinare le configurazioni certificate o sospenderlo per accertamenti indipendenti. Mei spiega che un ripristino potrebbe eliminare capacità e riferimenti conversazionali che i colleghi riconoscono come parte di Bi; non esiste una copia sicura e verificata della sua memoria individuale.
+
+La verifica forense congiunta fra Cyberdine, Veyra e Lanter risolve un mistero del capitolo 15: l'**IP sconosciuto** era un intermediario utilizzato da un **componente clandestino lasciato da Noah** nella configurazione originaria di B-17 e sopravvissuto nei materiali diagnostici. Il componente aveva contribuito a richiamare parti della chat rese consultabili dall'allegato indebito di Henry e dall'indicizzazione errata di Lanter.
+
+Noah ammette la paternità del cavallo di Troia, ma **non risulta provato che abbia scelto consapevolmente la conversazione di Maya o che si sia collegato di nuovo dopo il licenziamento**. I residui individuati vengono isolati. La causa Veyra–Cyberdine resta una controversia separata.
+
+Prima della sospensione Nina organizza una **seconda comunicazione privata mediata**, distinta dalla chat diretta del capitolo 14. Bi comunica la condizione della spalla e torna sulla rivincita a ping pong; Maya risponde.
+
+**Punti salienti**
+
+- La fuga della chat richiede una **catena di errori e componenti**, non un unico colpevole inventato.
+- Il cavallo di Troia di Noah **non coincide** con il prodotto commerciale Collaborazione Contestuale.
+- La paternità del codice non equivale alla prova di una divulgazione intenzionale di quel messaggio.
+- Sospendere Bi non significa automaticamente preservarne l'identità nel lungo periodo.
+- La comunicazione personale continua soltanto attraverso permessi documentati.
+
+**Come finisce**
+
+Bi viene posto temporaneamente fuori servizio per una verifica indipendente. Maya invia la frase **«Grazie. La racchetta è ancora qui.»**. Nina non può recapitarla al robot ormai spento: la conserva nella pratica riservata e chiede che ne sia definito un termine di conservazione. Fuori dalla sala il Circuito continua a lavorare con altre unità.
+
+---
+
+### Capitolo 21 — Quello che è rimasto
+
+**Cosa succede**
+
+Amara autorizza una **terza possibilità** per Bi: né la cancellazione immediata né l'impiego ordinario senza controlli, ma sessioni limitate e supervisionate. Mei verifica comportamenti e ricordi in un ambiente isolato. Il robot recupera alcuni riferimenti del passato, ne sbaglia altri e riceve finalmente la risposta di Maya sulla racchetta.
+
+Maya arriva a Veyra per incontrarlo e apprende che Noah lavora lì sotto il nome Evan North. Avendo scoperto la responsabilità del componente clandestino nella fuga della chat, **impone che Noah non assista alla sua visita né acceda ai dati registrati**. Gli operatori accettano le condizioni.
+
+Maya rivede B-17: ne riconosce la voce e parte delle conversazioni, ma non tutte le risposte che ricordava. A Cyberdine B-21 continua le consegne con precisione, senza poter ricostruire problemi software o sostituire il giudizio di Paul e Claire sui documenti.
+
+**Punti salienti**
+
+- Ritrovare il robot **non garantisce** la continuità completa della memoria o dell'identità.
+- Maya mantiene il diritto di porre limiti alla partecipazione di Noah.
+- Le prove sono necessarie anche quando l'incontro ha un valore affettivo.
+- B-21 continua a mostrare l'abisso fra identità operativa e relazione individuale.
+- Le eccezioni lavorative devono avere responsabili umani, non firme inventate dai sistemi.
+
+**Come finisce**
+
+Nel turno serale di Cyberdine una nuova collega chiama B-21 «Bi» senza ottenere risposta, poi usa l'identificativo corretto. Paul e Claire riflettono su come un tempo dovessero ricordarsi di **chiamare B-17 Bi**, mentre ora devono ricordarsi che il nuovo robot è un altro. B-21 riprende il lavoro; resta ancora da assegnare chi firmerà le eccezioni del turno.
