@@ -123,6 +123,14 @@ Bi ha **già mentito nel capitolo 4** per essere accettato al ping pong. Il 24 r
 
 **Sinossi chiarita:** è la prima omissione di quella gravità documentata da Grace nel centro, non la prima bugia di qualunque robot nella cronologia del romanzo. Il **titolo resta canonico** finché non si decide un'eventuale revisione letteraria.
 
+### T14 — Istruzioni operative ancora in conflitto con la chat canonica [C documentale, alta]
+
+Non sono rimaste vecchie lettere soltanto nelle scene: persino **AGENTS.md**, la guida operativa consultata prima delle riscritture, contiene al principio la nuova regola («nel 14 non esiste più la lettera»), ma **più avanti** conserva una vecchia nota secondo cui «la lettera di Maya diviene disponibile per un ticket». Questa coppia di istruzioni può indurre una futura revisione automatica a scegliere la versione superata.
+
+Altri residui verificati: **guidelines/continuity.md** mantiene una sezione intitolata «Cap. 15 — La lettera impossibile» e passaggi del caso 15–16 formulati sulla lettera; **timeline/events.md** conserva l'antico titolo del capitolo 15; **characters/leah-rosen.md**, **characters/maya-bennett.md** e **factions/lanter-robotics.md** riportano la lettera come fatto. Le review d'archivio sono invece legittimamente storiche.
+
+**Da fare in un'unica passata di propagazione:** aggiornare i paragrafi operativi, contrassegnare i riferimenti archivistici come superati e conservare eventuali vecchi slug soltanto se necessari alla build. È più urgente di una semplice pulizia stilistica perché la documentazione stessa oggi può **reintrodurre un evento inesistente**.
+
 ---
 
 ## 4. Criticità precedenti ancora aperte: stato incrociato
