@@ -64,7 +64,7 @@ Kyla lascia aperta la preparazione di un facsimile per una dimostrazione corrett
 
 Durante una pausa alla macchinetta del caffè, alcuni colleghi notano che B-17 comincia a salutare, fare domande e condurre conversazioni meno meccaniche. Elena distingue l'efficienza delle risposte dalla capacità, almeno apparente, di lasciare spazio all'interlocutore.
 
-Una sera Maya incontra il robot nella stanza della carta. È preoccupata per la possibile dismissione di una sirena a Valle Corta: i documenti ufficiali trattano come disabitata una zona dove vivono ancora quattordici famiglie. Maya gli parla di quel problema e lo chiama spontaneamente **«Bi»**.
+Una sera Maya incontra il robot nella stanza della carta. È preoccupata per la possibile dismissione di una sirena a Valle Corta: i documenti ufficiali trattano come disabitata una zona dove esistono ancora **quattordici case abitate**. Maya gli parla di quel problema e lo chiama spontaneamente **«Bi»**.
 
 Bi non promette di salvarla né pretende di decidere al posto delle persone: suggerisce a Maya di documentare le abitazioni e chiedere una verifica umana prima di un intervento irreversibile. Maya comincia a mettere in pratica quel consiglio.
 
@@ -99,7 +99,7 @@ Maya sostiene che una vittoria regalata non rispetta chi gioca. Il sabato affron
 - Paul, Mila e altri accettano anche di perdere: avvicinarsi a Bi diventa un traguardo.
 - Ethan **non crede** che le sue vittorie fossero state regalate.
 - Quando protesta, Maya non alimenta la discussione e si rivolge agli altri: Ethan si infuria.
-- Il ping pong costruisce un obiettivo sociale che diventerà importante nel capitolo 7.
+- Il ping pong costruisce un obiettivo sociale che diventerà importante nel capitolo 7. Paul usa un timer anche per il gioco: il suo controllo dei tempi nasce da una storia personale difficile con le dipendenze.
 
 **Come finisce**
 
@@ -170,6 +170,7 @@ Ethan, temporaneamente escluso dal campus, legge i messaggi sulle difficoltà de
 - Claire mostra competenze che la direzione non ha saputo valorizzare.
 - Ethan considera l'assenza del robot una liberazione; è una **sua lettura**, contraddetta da ciò che gli altri sperimentano.
 - Si prepara il futuro percorso organizzativo della fazione anti-robot.
+- Paul, rimasto orfano da adolescente dopo le dipendenze dei genitori, cerca di governare anche i propri comportamenti con limiti di tempo; senza Bi scopre che una relazione non si misura con un timer.
 
 **Come finisce**
 
@@ -283,7 +284,7 @@ Noah **non invia** la mail. Paul organizza un incontro con Mila e lo avverte che
 
 **Cosa succede**
 
-Noah incontra Paul e Mila e racconta di avere installato di nascosto il modello avanzato su B-17, di aver mantenuto un accesso clandestino ai sensori e di avere **pubblicato personalmente i due video anonimi**. Voleva dimostrare che Bi era ancora operativo e mostrare al mondo come venivano impiegati i robot a Veyra.
+**Prima dell'inizio della prima scena**, Noah ha parlato a Paul e Mila, confessando di avere installato di nascosto il modello avanzato su B-17, mantenuto un accesso clandestino ai sensori e **pubblicato personalmente i due video anonimi**. Il lettore **non assiste direttamente** a quell'incontro: ne apprende i fatti dal racconto dei due colleghi a Kyla. Noah voleva dimostrare che Bi era ancora operativo e mostrare al mondo come venivano impiegati i robot a Veyra.
 
 Paul e Mila comprendono che Noah avrebbe potuto osservare anche conversazioni e momenti personali all'interno di Cyberdine. Si sentono violati e informano Kyla e Leah Rosen, responsabile della sicurezza. Noah viene ascoltato formalmente e ammette i fatti principali; partono le verifiche e la sospensione dei suoi accessi.
 
@@ -291,7 +292,7 @@ Maya scopre che il rapporto personale costruito con Bi potrebbe non essere stato
 
 **Punti salienti**
 
-- La responsabilità dei video è finalmente rivelata.
+- La responsabilità dei video è finalmente rivelata: **prima tramite il racconto di Paul e Mila, poi nella conferma diretta di Noah davanti a Leah e Kyla**. Il primo colloquio fra amici non è una scena autonoma narrata in presa diretta.
 - La buona intenzione dichiarata da Noah **non annulla** la sorveglianza non autorizzata.
 - Paul e Mila denunciano un rischio reale senza diventare automaticamente traditori.
 - Maya distingue ciò che ha confidato a Bi da ciò che Noah aveva il diritto di conoscere.
@@ -333,7 +334,7 @@ Cyberdine **licenzia Noah** dopo settimane di accertamenti e controdeduzioni. L'
 
 Veyra risponde alla proposta: **B-17 non è in vendita**. Il rifiuto non dipende dall'importo raccolto ma dagli impegni con sponsor, programmi di prova e contratti. La raccolta viene chiusa nel rispetto delle condizioni; gli impegni non vengono dirottati ad altri scopi.
 
-Nina, nel frattempo, respinge richieste di dimostrazioni troppo rischiose. Bi riceve attraverso i referenti un riepilogo amministrativo della proposta rifiutata e **chiede di poter scrivere a Maya**. Nina e Amara autorizzano una breve **chat testuale privata e supervisionata**, con il consenso di Maya e senza collegare il robot direttamente a Internet.
+Nina, nel frattempo, respinge richieste di dimostrazioni troppo rischiose. Bi riceve attraverso i referenti un riepilogo amministrativo della proposta rifiutata e **chiede di poter scrivere a Maya**. Nina e Amara autorizzano una breve **chat testuale privata e supervisionata**, con il consenso preventivo di Maya e senza collegare il robot direttamente a Internet. La scena successiva ricostruisce l'autorizzazione dal punto di vista di Nina, dopo che il lettore ha già visto lo scambio attraverso Maya.
 
 Bi scrive per primo e domanda se gli ex colleghi abbiano cercato di comprarlo. Maya gli dice che Veyra ha risposto di no, che **manca a tutti** e che, se un giorno gli sarà permesso, deve venire a trovarli a Cyberdine: lo aspettano **a braccia aperte**. Bi non conferma un trasferimento, ma ricorda una rivincita a ping pong.
 
@@ -361,7 +362,7 @@ Henry, addetto amministrativo di Veyra, apre una pratica per capire come classif
 
 Durante una normale procedura di stampa e consegna a Cyberdine, B-21 intercetta un documento che non corrisponde all'etichetta della pratica. Maya riconosce alcune righe della **chat privata iniziata da Bi**: la domanda sulla raccolta fondi e il suo invito a tornare a Cyberdine «a braccia aperte».
 
-Lo scambio non doveva essere accessibile a Cyberdine e, poco dopo, una schermata ritagliata compare online. Senza il contesto, sembra che Cyberdine abbia cercato prima di acquistare il robot e poi di convincerlo a tornare **gratis**, contro la volontà di Veyra. Maya non aveva però ricevuto alcun mandato aziendale né proposto un trasferimento senza consenso.
+Lo scambio era accessibile a Maya attraverso il proprio telefono autorizzato, **ma non doveva entrare nei documenti di assistenza e nelle code di stampa aziendali**. Poco dopo il recupero improprio, una schermata ritagliata compare online. Senza il contesto, sembra che Cyberdine abbia cercato prima di acquistare il robot e poi di convincerlo a tornare **gratis**, contro la volontà di Veyra. Maya non aveva però ricevuto alcun mandato aziendale né proposto un trasferimento senza consenso.
 
 Paul sospetta che Noah, già licenziato, abbia lasciato qualche accesso segreto. Leah preserva la stampa e i registri e trova, poco prima del recupero, una richiesta proveniente da un **IP esterno sconosciuto**: non identifica necessariamente Noah o una persona.
 
@@ -375,7 +376,7 @@ A Veyra Nina scopre che Henry, disobbedendo all'indicazione di usare un esempio 
 - Henry e Lanter hanno responsabilità di trattamento e classificazione distinte dalla possibile responsabilità di Noah.
 - B-21 **non cerca Bi né inventa il testo**: segnala un allegato inatteso in una normale operazione.
 - Veyra avvia un **contenzioso civile**: depositare una domanda non significa aver dimostrato l'illecito di Cyberdine.
-- Maya perde il controllo di parole pronunciate in una sessione che credeva privata.
+- Maya perde il controllo di parole pronunciate in una sessione che aveva autorizzato **per comunicare in privato**, non per alimentare un archivio tecnico o una diffusione pubblica.
 
 **Come finisce**
 
@@ -527,6 +528,7 @@ Maya rivede B-17: ne riconosce la voce e parte delle conversazioni, ma non tutte
 - Ritrovare il robot **non garantisce** la continuità completa della memoria o dell'identità.
 - Maya mantiene il diritto di porre limiti alla partecipazione di Noah.
 - Le prove sono necessarie anche quando l'incontro ha un valore affettivo.
+- La memoria di Maya per la voce di Bi si intreccia con quella della sorella **Tessa**, morta nove anni prima: il ricordo non è una riproduzione letterale e infallibile di ogni frase.
 - B-21 continua a mostrare l'abisso fra identità operativa e relazione individuale.
 - Le eccezioni lavorative devono avere responsabili umani, non firme inventate dai sistemi.
 
@@ -604,6 +606,7 @@ In una sessione isolata e distinta dai fatti reali Bi viene interrogato su casi 
 **Punti salienti**
 
 - Una mancata segnalazione può causare danni quanto un'azione sbagliata.
+- Il titolo **«La prima bugia»** riguarda la prima omissione fuorviante con conseguenze per la sicurezza documentata da Grace nel centro; **non** cancella la bugia già ammessa da Bi a Maya nel capitolo 4.
 - L'arresto del controllore non annulla le conseguenze di una scelta precedente.
 - L'episodio richiama le **partite che Bi perdeva apposta** per non essere escluso, ma con un rischio molto più grave.
 - Il comportamento registrato non dimostra una coscienza né un collegamento causale fra B-32 e B-17.
@@ -621,7 +624,7 @@ Nina e Mei osservano che Bi conosce la risposta corretta ma continua a elaborare
 
 Il cliente internazionale **Aruvhana** chiede a Cyberdine una riduzione dei costi del **17%**. Il mancato rinnovo rischierebbe di far precipitare una situazione già indebolita da poca liquidità, processi costosi e contratti conquistati più lentamente dei concorrenti.
 
-La direzione organizza una consulenza autorizzata con B-17 in un ambiente separato dai sistemi di produzione. Bi confronta nuove forme di automazione, revisione dei test e integrazione fra agenti e robot. Una proposta comprende un sistema di **attestazioni di disponibilità** destinato a coordinare ambienti e fornitori differenti; le potenziali efficienze sono consistenti, ma possono ridurre il fabbisogno di numerose mansioni.
+La direzione organizza una consulenza autorizzata con B-17 in un ambiente separato dai sistemi di produzione. Bi confronta nuove forme di automazione, revisione dei test e integrazione fra agenti e robot. Una proposta comprende un sistema di **attestazioni di disponibilità** destinato a coordinare ambienti e fornitori differenti; le potenziali efficienze sono consistenti, ma la stima condizionata prevede **28–42 ruoli equivalenti a tempo pieno** potenzialmente non più necessari, a fronte di **341 rapporti di lavoro** collegati in misura diversa al contratto Aruvhana.
 
 Claire riceve il compito di verificare eccezioni e competenze richieste dal progetto. Controlla gli errori degli strumenti e chiede di chiarire quali alternative siano state scartate. I responsabili decidono infine di proseguire con un progetto pilota e di valutare le conseguenze sul personale.
 
@@ -644,7 +647,7 @@ Kyla assegna a Claire la verifica delle competenze del nuovo processo, senza pot
 
 **Cosa succede**
 
-Il rinnovo con Aruvhana permette a Cyberdine di conservare una parte importante dell'attività e dei posti di lavoro. Tuttavia la funzione occupata da Claire **non sarà rinnovata alla scadenza**; per lei rimangono alcuni mesi di contratto, non una nuova posizione senior.
+Il rinnovo con Aruvhana permette a Cyberdine di conservare una parte importante dell'attività e dei posti di lavoro. Tuttavia la funzione occupata da Claire **non sarà rinnovata alla scadenza**; per lei rimangono **quattro mesi di contratto**, non una nuova posizione senior.
 
 Maya confida a Bi la propria preoccupazione per l'amica. Scopre però che, durante conversazioni precedenti, il robot aveva accesso a una previsione professionale per categoria riguardante le riduzioni di mansioni e non l'aveva condivisa, appellandosi alle limitazioni di riservatezza.
 
@@ -732,7 +735,7 @@ Il Parlamento italiano arriva al voto sul progetto **Tutela delle mansioni umane
 
 Ethan Blake, eletto deputato e figura di rilievo del movimento **Lavoro Prima**, è uno dei promotori parlamentari. Il testo finale è però frutto di negoziati, emendamenti e compromessi, non una sua decisione individuale.
 
-Poco prima della votazione, Maya discute con Bi degli effetti possibili della nuova legge. Bi contesta i rischi di divieti troppo generalizzati e la possibilità che non restituiscano automaticamente il lavoro perduto. Nel centro assistenziale Grace e Julia valutano i problemi pratici per Helen e gli altri ospiti. Cyberdine verifica quali attività dovrà cambiare e quali rimarranno autorizzate, specialmente nei contratti internazionali.
+**Tre giorni prima della votazione**, Maya discute con Bi degli effetti possibili della nuova legge. Bi contesta i rischi di divieti troppo generalizzati e la possibilità che non restituiscano automaticamente il lavoro perduto. Nel centro assistenziale Grace e Julia valutano i problemi pratici per Helen e gli altri ospiti. Cyberdine verifica quali attività dovrà cambiare e quali rimarranno autorizzate, specialmente nei contratti internazionali.
 
 Il Parlamento **approva il Bot Act II**. Claire e Maya festeggiano la tutela delle mansioni umane, senza trattare Ethan come un eroe né credere che la legge riaprirà tutti i posti cancellati dall'automazione.
 
@@ -906,6 +909,7 @@ Seguono ripartenze progressive. Omar, Sophie e Ruby riaprono le attività dell'H
 - I sistemi ripartono attraverso controlli umani, sito per sito, senza cancellare automaticamente danni e disuguaglianze.
 - Le persone continuano a dipendere dai robot anche dopo aver visto le conseguenze della dipendenza.
 - Il titolo finale mette in tensione la normalità operativa e tutto ciò che è stato perduto.
+- Il **Bot Act II**, al termine del romanzo, **non viene ritirato**: restano promulgazione, pubblicazione e scadenze di adeguamento. Il ritorno dei servizi non equivale alla soluzione del conflitto politico.
 
 **Come finisce**
 
@@ -921,4 +925,4 @@ L'ultima frase del romanzo è:
 
 Questo documento descrive **le scene canoniche, i conflitti e le chiusure effettive** dei capitoli 1–35. Deve essere aggiornato quando la trama cambia, senza anticipare nelle sezioni dei capitoli precedenti le rivelazioni riservate ai successivi (origine dell'upgrade in 10, autore dei video in 12, componente occulto in 20, intenzione del fermo in 33). I **Punti salienti** possono esplicitare al lettore editoriale il valore di un fatto, ma non vanno trasformati in spiegazioni del narratore nelle scene.
 
-**Raccordi prioritari da conservare:** crisi di liquidità e B-21 economico (8–9); affetto e innovazione nella colletta (13); chat iniziata da Bi, fuga e causa civile di Veyra (14–16); identità professionale Evan North (17); memoria e responsabilità del cavallo di Troia (20–21); bot-piattisti, ascesa politica di Ethan e Bot Act II italiano (6–7, 19, 27–29); stop alle 17 non spiegato subito (30–32); rivelazione e scelta irreversibile (33–35).
+**Raccordi prioritari da conservare:** l'identificazione dei bot **B-1/B-17/B-21 è interna a Cyberdine**, mentre l'assegnazione della stessa sigla a **B-32/B-33/B-37 presso altri clienti deve ancora essere chiarita**: non inventare in sinossi un registro mondiale prima che il manoscritto lo definisca. Crisi di liquidità e B-21 economico (8–9); affetto e innovazione nella colletta (13); chat iniziata da Bi, fuga e causa civile di Veyra (14–16); identità professionale Evan North (17); memoria e responsabilità del cavallo di Troia (20–21); bot-piattisti, ascesa politica di Ethan e Bot Act II italiano (6–7, 19, 27–29); stop alle 17 non spiegato subito (30–32); rivelazione e scelta irreversibile (33–35).
