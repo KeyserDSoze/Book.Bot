@@ -4,6 +4,10 @@
 
 Il libro è sviluppato in italiano come un progetto editoriale versionato. Il manoscritto canonico è in `chapters/`, organizzato per capitoli e scene. L'impianto riprende il metodo di continuità di [Book.Jesus](https://github.com/KeyserDSoze/Book.Jesus), ma con ambientazione e regole originali.
 
+## Sinossi analitica per capitolo
+
+La **[sinossi dei 35 capitoli](reviews/sinossi-integrale-35-capitoli-2026-11-09.md)** descrive per ciascuno **Cosa succede**, **Punti salienti** e **Come finisce**, con gli eventi e le scene finali canoniche della versione 0.33.6. Include spoiler completi, la chat Bi–Maya, il contenzioso Veyra–Cyberdine, la crisi di Cyberdine, il Bot Act II e il finale.
+
 ## Leggere e collaborare
 
 1. Leggere `AGENTS.md`, `book.md`, `context.md` e `guidelines/`.
