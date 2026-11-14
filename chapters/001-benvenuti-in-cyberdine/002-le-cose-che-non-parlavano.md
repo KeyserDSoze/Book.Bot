@@ -84,7 +84,7 @@ Malik guardò la collega. «Lo facciamo perché ce lo stai chiedendo tu. Ma sapp
 
 Daniel rimase a fissarla. Dal corridoio arrivò una risata dei visitatori. Guardò l'orologio, poi il monitor rosso. «Vi serve un'email? Va bene. Vi mando un'email.»
 
-Aprì di scatto il portatile, che aveva appena chiuso, e cercò la conversazione della commessa. Sbagliò due volte a digitare il destinatario. «Così, almeno, siamo tutti tranquilli», borbottò, senza che nessuno gli rispondesse. Poi scrisse, leggendo quasi a voce alta mentre batteva sui tasti:
+Aprì di scatto il portatile, che aveva appena chiuso, richiamò la conversazione della commessa e selezionò senza esitazioni i destinatari giusti, con Kyla in copia. «Così resta tutto agli atti», disse secco. Scrisse l'oggetto e il testo in pochi secondi, con la precisione di chi aveva già preso quella decisione e non aveva tempo di discuterla ancora:
 
 *Oggetto: Aruvhana / demo Bridgeglass — decisione operativa*
 
