@@ -11,6 +11,8 @@ characters:
   - character:visitors
   - character:anika-rao
   - character:b-17
+  - character:daniel-reed
+  - character:malik-okafor
 locations:
   - location:cyberdine-campus
 factions:
@@ -18,102 +20,74 @@ factions:
   - faction:aruvhana
 ---
 
-La parete delle prestazioni era nella sala d'ingresso, dove qualunque visitatore poteva fermarsi a fotografarla. Kyla non amava quella posizione. Il dipartimento Marketing adorava i numeri enormi; lei preferiva quelli che sopportavano una domanda scomoda.
+Daniel intercettò Kyla prima della sala demo. Non provò a minimizzare. Le mostrò sul portatile il test reale fallito, la simulazione isolata e l'etichetta che sarebbe rimasta visibile sullo schermo.
 
-Scelse l'intervallo trimestrale.
+«È tutto quello che abbiamo?» chiese Kyla.
 
-**6.400 ore umane restituite.**
+«È tutto quello che possiamo mostrare senza inventare un risultato tecnico», rispose lui. «Malik non ha validato l'integrazione. L'ho scritto.»
 
-**31% di rilavorazioni in meno nei flussi monitorati.**
+Kyla avrebbe voluto una soluzione migliore. Guardò l'orologio: la delegazione aveva già aspettato abbastanza. «Presentiamo il percorso. Non chiamatelo collaudo.»
 
-**100% delle decisioni critiche con avallo umano.**
+Entrarono. Malik non salutò subito; aveva ancora i registri aperti. La collega che aveva costruito il simulatore controllò un'ultima volta che nessuna richiesta uscisse verso il terminale.
 
-La nota in caratteri piccoli definiva *avallo* come presenza di una firma registrata, non come verifica del tempo che quella persona aveva passato a capire la decisione. Kyla conosceva la differenza, ma il dato sul pannello non la spiegava.
+Sul grande schermo apparve Bridgeglass: un ordine creato nel cruscotto moderno, la sua trasformazione nel formato storico, una conferma, poi un'interruzione di rete. Il flusso mostrò il retry e l'operazione rimase una sola. I passaggi erano chiari, la visualizzazione elegante. In un angolo, più piccolo del titolo ma leggibile, restava scritto: *MOCK — DATI SINTETICI*.
 
-Sahir lesse i numeri e si girò verso di lei.
+Kyla spiegò come la piattaforma avrebbe collegato gli impianti acquisiti da Aruvhana senza imporre la sostituzione dei terminali. Mostrò i controlli, i registri di audit, le autorizzazioni e la possibilità di fermare un processo quando le risposte non coincidevano. Per alcuni minuti la sala rimase in silenzio. Sahir prese appunti; Leïa seguì le schermate; Anika non distolse gli occhi dall'identificatore dell'ordine.
 
-«Avete i robot da ventisei giorni e i risparmi riguardano tre mesi.»
+Quando la demo terminò, Sahir non applaudì.
 
-«Perché il programma è iniziato con gli agenti software», rispose Kyla. «I robot sono l'aggiunta più recente. Se attribuissimo tutto a loro, avreste ragione a non fidarvi.»
+«Quanto manca perché sia utilizzabile davvero? L'avete già venduta a qualcun altro?»
 
-Leïa si chinò verso la descrizione del primo indicatore. «Cosa vuol dire restituite? Non tutte le ore liberate diventano ferie.»
+«Abbiamo esperienza con integrazioni analoghe», rispose Kyla. «Bridgeglass, in questa configurazione, è ancora nella fase di verifica.»
 
-«Infatti. Abbiamo controllato le attività che sono state riassegnate, i turni effettivamente ridotti, le ore di straordinario evitate, quelle usate per formazione. E abbiamo lasciato una categoria per ciò che non sappiamo ancora misurare.»
+«Non le ho chiesto se avete esperienza», replicò Sahir. «Le ho chiesto se questo prodotto funziona già presso un cliente.»
 
-Anika Rao indicò la nota sotto il grafico. «E un errore che nessuno ha pensato di mettere nei test? Non può figurare tra i successi soltanto perché ancora non l'avete trovato.»
+«Non posso dirle che questa configurazione sia già in esercizio», disse Kyla.
 
-«No», rispose Kyla. «Possiamo misurare le mancate rilavorazioni che conosciamo. Quello che non abbiamo verificato deve rimanere una domanda aperta.»
+Anika indicò la scritta sullo schermo. «E questi dati? Sembrano costruiti. Da dove arrivano?»
 
-Anika chiuse il taccuino. «È una distinzione che vorrei ritrovare nel rinnovo. Non soltanto nella presentazione: voglio anche un caso in cui una verifica vi ha costretti a ritardare una consegna. Dovrò spiegare quelle ore a chi approva il nostro budget.»
+«Sono dati sintetici», rispose Kyla. «Non possiamo esporre informazioni riservate di altri clienti. Abbiamo ricreato un flusso rappresentativo, con identificativi e contenuti fittizi.»
 
-Kyla annuì. I visitatori di solito chiedevano quanto si risparmiasse. Anika aveva chiesto quanto costasse dire di no.
+«Questa è una ragione per anonimizzare i dati», disse Anika. «Non è una ragione per simulare la risposta della macchina. Siete collegati a un terminale vero, adesso?»
 
-«Quanto vale quella categoria?», chiese Sahir.
+Kyla sentì Daniel irrigidirsi al suo fianco.
 
-Kyla aprì la nota completa. Sahir ne fotografò la tabella. Lei preferì non chiedergli cosa ne avrebbe fatto.
+«No. La risposta del terminale è simulata. Durante la preparazione abbiamo individuato un problema nel modo in cui gestiamo un tentativo ripetuto dopo un'interruzione. Non lo consideriamo risolto.»
 
-«Un'ora non lavorata non è automaticamente un'ora regalata», disse. «Se la persona è costretta a rifare il lavoro perché l'agente ha prodotto una correzione sbagliata, non ce la possiamo assegnare come successo.»
+«Quindi quello che avete appena mostrato è come dovrebbe funzionare», disse Sahir. «Non come funziona.»
 
-«E se il lavoro non viene più affidato a quella persona?»
+«Sì.»
 
-Era una domanda diversa. Kyla ne riconobbe la forma prima di trovare le parole.
+«Allora la sorpresa di oggi è che il prodotto non è pronto.»
 
-«Allora abbiamo migliorato il costo di un processo. Può essere un vantaggio per i clienti e per chi continua a lavorarci. Dobbiamo però parlarne anche come cambiamento della domanda di lavoro. I due conti non si cancellano l'un l'altro.»
+Malik abbassò gli occhi sui registri. Kyla non cercò di addolcire la frase. «La sorpresa che volevamo prepararvi era una dimostrazione sul collegamento reale. Non siamo riusciti a completarla. Mi assumo la responsabilità di avervi mostrato prima il percorso simulato.»
 
-Un messaggio comparve sulla sua schermata di servizio. Il team sviluppo aveva completato la verifica di un piccolo miglioramento al censimento clienti. Kyla aveva visto il problema la settimana prima: un responsabile riceveva una proposta ben scritta, ma per sapere quali alternative fossero state scartate doveva aprire tre pagine diverse. Gli agenti proponevano sempre il percorso che sembrava più efficiente secondo i criteri scelti.
+Anika chiese di vedere il difetto. Malik riaprì il test rosso e spiegò, senza gergo inutile, che dopo il timeout il sistema poteva confondere il secondo tentativo con un nuovo ordine. Non eseguì alcuna operazione pericolosa. Mostrò il punto in cui il controllo avrebbe dovuto fermarla.
 
-«Posso mostrarvi una proposta vera», disse.
+«Se questa cosa accade su uno dei nostri impianti», disse Anika, «non perdiamo soltanto tempo. Possiamo ripetere un'azione che non doveva ripetersi.»
 
-Aprì il ticket in modalità dimostrativa, senza dati identificativi.
+«È il motivo per cui non abbiamo autorizzato il live», rispose Malik.
 
-**Origine: agente di sviluppo — ciclo di prova 14.**
+Per la prima volta Anika gli rivolse uno sguardo meno ostile. Non bastò a cambiare il giudizio.
 
-**Proposta: rendere visibili al revisore le alternative escluse e i relativi criteri.**
+«Ci aspettavamo una prova molto più avanzata», disse. «Non posso portare questa presentazione a chi decide il budget e chiamarla evidenza tecnica.»
 
-**Stato: in attesa di test su casi autorizzati.**
+Kyla si sporse appena in avanti. «Allora cambiamo la prova. Scegliete voi un caso d'uso e un insieme di dati che possiamo trattare con autorizzazioni concordate. Prepariamo un proof of concept sul vostro ambiente di test, con criteri di successo e fallimento definiti insieme. Se il retry duplica un ordine, lo vedrete. Se funziona, avrete una prova vostra, non una schermata costruita da noi.»
 
-Sahir annuì. «Non vedo un robot.»
+«E chi paga?» chiese Sahir.
 
-«Non c'è. L'agente lavora dentro un ambiente software. Quando serve provare qualcosa su un pannello fisico, usiamo tecnici e, in certe attività, robot autorizzati. Ma la maggioranza delle modifiche non ha bisogno di braccia.»
+«Ne discutiamo prima di impegnare le squadre. Vi mando una proposta con perimetro, tempi, responsabilità e condizioni di accesso. Non vi chiedo di approvare oggi.»
 
-Leïa indicò la parte evidenziata.
+Anika richiuse il taccuino. «Mandateci il documento. Ci ragioneremo.»
 
-«Chi ha chiesto all'agente di mostrare le alternative?»
+«Quindi non è un sì», disse Kyla.
 
-«Una responsabile del processo aveva segnalato che alcuni riepiloghi erano troppo poveri. L'agente ha proposto una soluzione. Il nostro gruppo deve verificare che sia leggibile e che non sposti silenziosamente la responsabilità di chi approva.»
+«Non è un sì», confermò Anika. «E non è una promessa di tornare.»
 
-«E chi approva la soluzione?»
+Kyla li accompagnò all'uscita. Il robot B-17, oltre il vetro, aveva ripreso a tagliare l'erba, sorvegliato dal giardiniere. La macchina si fermò davanti alla stessa panchina di prima, aspettò, poi cambiò percorso.
 
-«La responsabile del prodotto e chi firma il rilascio. Per questo lo stato è ancora aperto.»
+Le auto di Aruvhana partirono senza che nessuno avesse firmato nulla.
 
-Kyla inoltrò il ticket al referente, aggiungendo una domanda: *Nel test voglio vedere almeno un'alternativa esclusa che il revisore decide di recuperare. Altrimenti proveremo soltanto che il sistema sa spiegare se stesso.*
+Sul telefono Kyla trovò la copia dell'email di Daniel e un messaggio di Gavin sulle ore già impegnate per la settimana. Aveva appena proposto un proof of concept che non sapeva ancora come finanziare né quando programmare. Dietro di lei Malik era ancora in laboratorio, davanti al test rosso.
 
-Aveva scritto quella frase pensando al varco che Noah aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
-
-«Mi sembra che stiate facendo diventare tutti responsabili», disse Sahir.
-
-«A volte abbiamo troppe caselle da spuntare», rispose Kyla. «Sahir, se su quel test esce una riga sbagliata, non mi basta sapere che qualcuno l'ha firmato. Devo sapere chi richiamare e quale prova rifare.»
-
-Il visitatore annuì, pur senza sembrare persuaso fino in fondo.
-
-Dalla terrazza arrivò una risata. Due colleghi avevano appena terminato una partita a scacchi. Qualcuno si fermò a guardare la mossa finale, poi tornò alla propria scrivania. Kyla era tentata di indicare la scena come prova che l'azienda funzionava meglio. Non lo fece. Non conosceva le loro giornate abbastanza da usarle come argomento.
-
-Quando la delegazione uscì, Anika non firmò alcuna approvazione. Chiese un rapporto sul difetto di riconciliazione, un test ripetibile sul terminale reale e una nuova dimostrazione prima di discutere l'estensione del contratto. Gavin aveva già scritto tre volte per sapere chi avrebbe pagato le ore aggiuntive. Malik, dietro il vetro, stava ancora confrontando due registri. Nessuno dei due aveva pranzato.
-
-Sahir si fermò un'ultima volta.
-
-«Al prossimo incontro vorrei parlare con uno sviluppatore che non si occupi soltanto di approvare le modifiche. Uno che sappia spiegarmi il programma sotto il riepilogo.»
-
-«Lo troverò», disse Kyla.
-
-Pensò a Malik, che poco prima aveva fermato una patch davanti al cliente per rileggere una vecchia funzione. Gavin gli aveva già prenotato la settimana per una consegna. Non poteva promettere l'incontro senza controllare con entrambi, e le dava fastidio che persino una conversazione sul codice dovesse passare da una trattativa sulle ore.
-
-Le porte di vetro si richiusero. Kyla controllò l'ora, scoprì di avere finito in anticipo e pensò ai popcorn comprati dall'amica.
-
-Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla aprì la richiesta per l'incontro tecnico con Aruvhana. Indicò due ore di Malik sul sorgente e un'ora per preparare il terminale e la prova, senza chiamarle «visita commerciale»: non avrebbe potuto farle comparire come tempo risparmiato. Il sistema segnalò che le ore di Delivery disponibili prima di venerdì erano già impegnate.
-
-Inviò comunque la richiesta a Gavin e Malik, lasciando visibile il conflitto con la consegna. Nel campo *data confermata* non scrisse nulla. Si appuntò di chiedere al responsabile di commessa come coprire la prova; era la stessa voce di costo che le mancava per la formazione sul codice storico.
-
-Prima di chiudere la schermata arrivò la risposta automatica: *Nessuna disponibilità prima di venerdì*. Venerdì era anche il giorno della consegna che Gavin aveva promesso. Kyla rilesse il messaggio di Anika: nel rinnovo voleva vedere una verifica capace di ritardare davvero un rilascio. Aveva chiesto proprio la prova che Cyberdine, per il momento, non riusciva a mettere in calendario. E adesso, dopo aver visto il mock, sapeva esattamente perché serviva.
-
-Kyla avrebbe potuto chiamare Gavin e ottenere una promessa per telefono. Non lo fece. Lasciò aperti il ticket e il problema, abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile. Fuori, la serata che aveva promesso all'amica era ancora possibile. La risposta da dare ad Aruvhana, no.
+Kyla non gli scrisse che era andata bene. Aprì una nuova bozza: *Aruvhana — proposta di proof of concept*. Rimase a guardare il campo del destinatario, poi chiuse il portatile. Prima di promettere una data, avrebbe dovuto parlare con chi quel software doveva farlo funzionare davvero.
