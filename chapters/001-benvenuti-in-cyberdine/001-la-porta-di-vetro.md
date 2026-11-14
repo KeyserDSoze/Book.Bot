@@ -48,9 +48,15 @@ Sahir cercò il codice sul torace metallico. «Diciassette significa che è la d
 
 «No. Arrivano da Lanter, in Cina. Cyberdine è una software house. Noi scriviamo ciò che permette ai sistemi dei nostri clienti di lavorare insieme: quelli nuovi, quelli che nessuno vuole più toccare e quelli che funzionano troppo bene per permettersi di sostituirli.»
 
-All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Arrivò Noah Carter, con una custodia di attrezzi e una felpa chiusa fino al collo.
+All'ingresso del reparto tecnico una porta emise un segnale verde ma non si aprì. Un addetto ripeté l'operazione con il tesserino, guardò il lettore e chiamò qualcuno all'interno. Dietro la delegazione si formò una piccola coda. Sahir guardò il badge, poi Kyla.
 
-Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Noah ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
+«Questa porta fa parte della dimostrazione?»
+
+«No», disse Kyla. «Ed è proprio per questo che preferisco non nascondervela.»
+
+Il telefono le vibrò: Gavin chiedeva se i tecnici impegnati nella consegna dovessero interrompersi per la visita. Kyla non rispose subito. Aveva promesso ai visitatori di mostrare un sistema che funzionava; ora doveva decidere quanto lavoro reale sottrarre alla squadra per mantenere quella promessa. Arrivò Noah Carter, con una custodia di attrezzi e una felpa chiusa fino al collo.
+
+Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Gli fece un cenno breve: niente scorciatoie per gli ospiti. Noah ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
 L'addetto aveva in mano una cartellina da consegnare al piano superiore. Noah gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
 
@@ -64,7 +70,7 @@ Noah sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'ad
 
 L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Noah si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
 
-Kyla sapeva che Noah era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
+Kyla sapeva che Noah era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Rispose a Gavin: *Noah è già sul guasto; nessun altro viene spostato. La prova sul terminale resta da concordare.* Non era la risposta che avrebbe fatto piacere a tutti. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
 
 Il telefono vibrò nella tasca della giacca.
 
