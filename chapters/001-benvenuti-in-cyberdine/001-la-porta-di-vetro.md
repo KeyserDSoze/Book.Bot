@@ -20,11 +20,19 @@ factions:
   - faction:aruvhana
 ---
 
+Alle nove e diciassette il collegamento con il terminale di prova smise di rispondere.
+
+Kyla Morgan non lo sapeva ancora. Nell'atrio aspettava la delegazione di Aruvhana, un cliente che doveva decidere se estendere il contratto. Cyberdine voleva vendergli **Bridgeglass**, una piattaforma di integrazione assistita da agenti AI: prendeva le operazioni di vecchi terminali industriali, ne ricostruiva lo stato e le rendeva leggibili nei sistemi moderni senza sostituire le macchine. Per Aruvhana, che gestiva impianti acquisiti in anni diversi, era un investimento importante. La dimostrazione doveva essere dal vivo: un ordine sul nuovo cruscotto, una conferma sul terminale storico, un'interruzione di rete simulata e nessuna doppia esecuzione.
+
+Il telefono vibrò: *Gavin: demo rossa. Malik sta indagando. Guadagnaci dieci minuti.*
+
+Le auto erano già davanti all'ingresso.
+
 «Benvenuti in Cyberdine.»
 
-Kyla Morgan aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
+Kyla Morgan aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi nell'estensione del contratto Bridgeglass. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
 
-Una mezz'ora prima, Gavin Shaw le aveva chiesto di non sottrarre due ingegneri alla consegna per verificare un vecchio terminale durante la visita. «Il mio team ha già promesso venerdì», aveva detto. Kyla gli aveva proposto quindici minuti con Malik e la persona che seguiva il collaudo, senza cambiare la scadenza. Gavin aveva accettato solo quando Kyla gli aveva assicurato che il tempo sarebbe comparso nel ticket. Lei non lo biasimava per aver difeso la squadra, ma aveva annotato anche il nome di chi avrebbe firmato la prova.
+Una mezz'ora prima, Gavin Shaw le aveva chiesto di non sottrarre due ingegneri alla consegna per verificare il terminale previsto dalla demo. «Il mio team ha già promesso venerdì», aveva detto. Kyla gli aveva proposto quindici minuti con Malik e la persona che seguiva il collaudo, senza cambiare la scadenza. Gavin aveva accettato solo quando Kyla gli aveva assicurato che il tempo sarebbe comparso nel ticket. Lei non lo biasimava per aver difeso la squadra, ma aveva annotato anche il nome di chi avrebbe firmato la prova.
 
 La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
@@ -108,6 +116,8 @@ Kyla rise. «Per il momento sarei contenta che non tagliasse anche i fiori. Lo s
 
 Fuori, B-17 terminò la striscia d'erba. Il giardiniere controllò il bordo e gli diede un cenno. Non ci furono applausi.
 
-Kyla aprì la porta del laboratorio.
+Kyla aprì la porta del laboratorio. Sul telefono comparve un nuovo messaggio: *Malik: il terminale risponde, ma la riconciliazione duplica un'operazione dopo il retry. Non siamo pronti.*
 
-«Volevo mostrarvi una cosa che vendiamo da vent'anni e che ancora oggi molti clienti non possono sostituire.»
+Kyla trattenne il respiro. Aveva passato venti minuti a spiegare perché Cyberdine non confondeva un test verde con la realtà. Adesso avrebbe dovuto dimostrarlo davanti a chi pagava.
+
+«Vi mostro Bridgeglass», disse. «Prima, però, voglio presentarvi la squadra che sta completando la prova.»
