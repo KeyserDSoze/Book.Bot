@@ -34,7 +34,7 @@ Daniel tolse la proiezione.
 
 «Hanno detto che ci penseranno. Non mettiamoci a chiamarlo successo.»
 
-Malik si tolse gli occhiali e li appoggiò sul tavolo. Aveva un segno dell'elastico della mascherina per gli occhi sulla fronte. Kyla lo notò soltanto allora.
+Malik si tolse gli occhiali e li appoggiò sul tavolo. Aveva gli occhi arrossati e la camicia stropicciata sul colletto. Kyla lo notò soltanto allora.
 
 «Siamo qui per capire perché il terminale non era pronto», continuò. «Non per dirmi che il cliente avrebbe dovuto essere più comprensivo.»
 
