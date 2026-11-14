@@ -133,7 +133,7 @@ B-17 non rispose immediatamente.
 
 Maya si sporse verso il robot. «Hai capito? Ho usato per anni credenziali che non erano mie. E adesso se dico la verità finisco nei guai. Magari ci trascino lui. Se non la dico, domani alle sette vengono a togliere l'unico allarme che quelle famiglie possono sentire.»
 
-Sul pannello laterale dell'unità si accese una spia. Una voce di servizio annunciò una nuova istruzione: *Controllo autonomia previsto. Concludere il compito non urgente e raggiungere la stazione di servizio entro trenta minuti.*
+Sul pannello laterale dell'unità si accese una spia. Una voce di servizio annunciò una nuova istruzione: *Controllo autonomia previsto. Concludere il compito non urgente e raggiungere la stazione di servizio entro novanta minuti.*
 
 B-17 sollevò appena il busto. Per un momento tornò a orientarsi verso la pila di fascicoli.
 
