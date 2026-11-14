@@ -11,6 +11,8 @@ characters:
   - character:visitors
   - character:anika-rao
   - character:b-17
+  - character:daniel-reed
+  - character:malik-okafor
 locations:
   - location:cyberdine-campus
 factions:
