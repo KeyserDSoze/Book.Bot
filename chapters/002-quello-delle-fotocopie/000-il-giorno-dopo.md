@@ -11,6 +11,7 @@ characters:
   - character:malik-okafor
   - character:daniel-reed
   - character:gavin-shaw
+  - character:b-17
 locations:
   - location:cyberdine-campus
 factions:
@@ -18,92 +19,138 @@ factions:
   - faction:aruvhana
 ---
 
-La mattina dopo, Kyla convocò il team Bridgeglass alle otto e trenta. Non scrisse *retrospettiva* nell'invito. Scrisse *Aruvhana — cosa è successo*.
+Alle otto e trentadue Kyla Morgan chiuse la porta della sala riunioni. Fu un gesto più brusco di quanto intendesse, e il tonfo fece alzare gli occhi alla sviluppatrice seduta accanto a Malik.
 
-Malik arrivò con due sviluppatori e un portatile pieno di adesivi. Aveva la camicia del giorno prima, o una identica. La collega che aveva preparato il mock si sedette vicino alla porta. Daniel Reed era già lì, con la cronologia delle email aperta. Gavin entrò per ultimo, guardò i posti occupati e rimase in piedi.
+Sul monitor c'era ancora l'ultima schermata di Bridgeglass. Verde. La simulazione del giorno prima: l'unica cosa che Aruvhana aveva visto funzionare dall'inizio alla fine.
 
-Kyla non aspettò che tutti aprissero il calendario.
+«La togliete?» chiese Kyla.
 
-«Ieri abbiamo portato qui tre persone che devono decidere se investire su Bridgeglass. Avevamo promesso una dimostrazione sul terminale. Gli abbiamo fatto vedere una simulazione. Sono usciti senza un sì, senza una data e senza nemmeno dirci se vogliono tornare.»
+Nessuno si mosse.
 
-«Lo sappiamo», disse Malik.
+«Quella schermata. Non voglio passare un'altra mattina a guardare un successo che non abbiamo avuto.»
 
-«Allora ditemi perché lo sappiamo soltanto adesso, dopo aver bruciato la visita.»
+Daniel Reed spense la proiezione. Era arrivato con il verbale della demo già preparato, i destinatari corretti nella distribuzione e una lista di decisioni da prendere. Gavin Shaw, responsabile delle consegne, si mise vicino alla finestra. Malik Okafor aveva un segno rosso sul polso, lasciato dall'orologio tolto durante la notte. La collega teneva il cappuccio della felpa tirato sulle spalle.
 
-Daniel sollevò gli occhi. «Ti ho scritto appena abbiamo deciso di isolare il mock. E ti ho mostrato il test prima di entrare.»
+«Ieri», cominciò Kyla, «abbiamo fatto venire qui una delegazione che doveva valutare un'estensione importante del contratto. Avevamo promesso un'integrazione dal vivo. Gli abbiamo mostrato dati inventati. Hanno capito che il collegamento non funzionava e se ne sono andati senza impegnarsi a fare nulla.»
 
-«Non sto parlando della tua email. Sto parlando del fatto che il problema è esploso quando il cliente era già nel parcheggio.»
+«Non erano dati inventati per ingannarli», precisò Daniel. «Erano sintetici, separati dal terminale. Ho autorizzato io il cambio di modalità, e tu hai autorizzato la presentazione.»
 
-«Non è esploso ieri», disse Malik.
+«Lo so benissimo cosa ho autorizzato, Daniel.»
 
-Kyla si voltò verso di lui. «Prego.»
+«Allora non raccontiamola come se qualcuno avesse sostituito il live di nascosto.»
 
-«Sono quattro notti che il mio team esce alle quattro del mattino.»
+Kyla trattenne la risposta. Daniel non si era sottratto neppure per un istante alla responsabilità. Il problema era che quella responsabilità non avrebbe convinto Anika Rao a firmare un assegno.
 
-La collega abbassò gli occhi. Malik proseguì, senza alzare ancora la voce.
+«Il cliente si aspettava molto di più. Io mi aspettavo molto di più. Perché alle nove di ieri mattina stavamo ancora tentando di capire una cosa che doveva essere pronta da giorni?»
 
-«Quattro. Non perché ci piaccia fare gli eroi. Perché avete aggiunto il recupero dello stato, il retry, il tracciamento degli ordini, il cruscotto e l'integrazione con un terminale che risponde in un modo diverso da quello che c'era nella documentazione. Tutto dentro la stessa data. Gli agenti ci hanno generato adattatori, test e mezza documentazione, sì. Poi qualcuno ha dovuto capire se quello che avevano scritto era vero.»
+«Perché non era pronta da giorni», rispose Malik.
 
-«Il cliente non compra la storia delle vostre notti», rispose Kyla. «Compra una piattaforma che funziona.»
+«Questo l'avevo capito.»
 
-«E noi non vendiamo le notti. Le abbiamo fatte perché ci avevate detto quanto fosse importante. Non c'è bisogno che tu venga qui a spiegarcelo come se non l'avessimo capito.»
+«No. Non credo.»
 
-La stanza si fece silenziosa. Gavin smise di guardare il telefono.
+La collega accanto a lui sollevò appena il mento. Gavin si staccò dalla finestra.
 
-Kyla appoggiò entrambe le mani sul tavolo. «Se sapevate che non era pronto, dovevate fermarci.»
+«Malik», disse, «spieghiamo le cause.»
 
-«L'abbiamo fatto», rispose la collega. «Nei ticket. Nelle review. E quando abbiamo chiesto di ridurre il perimetro ci avete detto che non si poteva, perché la demo doveva stupire.»
+«Le spiego. Sono quattro notti che il mio team esce da qui alle quattro del mattino. Quattro. E ieri siamo tornati prima delle otto per provare quella maledetta demo. Non abbiamo fatto finta di lavorare. Abbiamo fatto girare gli agenti, corretto il codice che proponevano, preparato i test, scoperto che il terminale reale rispondeva in modo diverso dalla documentazione e ricominciato da capo.»
 
-«Io ho chiesto una demo convincente.»
+Kyla incrociò le braccia.
 
-«Avete chiesto una demo live con riconciliazione garantita dopo la perdita di connessione», disse Malik. «È diverso.»
+«E nessuno ha ritenuto necessario avvisarmi che stavamo andando incontro a un disastro?»
 
-Daniel intervenne. «Non trasformiamo questa riunione in una gara a chi ha mandato più messaggi. Ho autorizzato io il mock. L'ho scritto e lo confermo. I tecnici erano contrari.»
+«Ti abbiamo avvisata. Nei ticket, nelle riunioni, nelle stime. Ogni volta che chiedevamo di tagliare una funzionalità, ci rispondevate che proprio quella serviva a sorprendere Aruvhana.»
 
-«E io ho autorizzato che venisse mostrato», disse Kyla. «La decisione finale davanti al cliente è mia. Ma questo non spiega perché siamo arrivati a scegliere fra un mock e una schermata rossa.»
+«Perché senza una dimostrazione convincente non vendiamo niente!»
 
-«Perché nessuno ha voluto togliere niente», disse Malik. «Ogni volta che proponevamo di spostare una funzione, diventava fondamentale per la vendita.»
+«E senza una dimostrazione vera non manteniamo niente!»
 
-«Se non vendiamo, il progetto non continua.»
+Malik aveva alzato la voce quanto lei. Kyla non era abituata a vedergli perdere il controllo davanti a un responsabile commerciale. Era abituata a ricevere da lui un elenco di cose fatte e di cose ancora da fare.
 
-«E se continuiamo a promettere ciò che non abbiamo verificato, lo perdiamo lo stesso. Con in più quattro persone distrutte.»
+«Avete chiesto un ordine sul cruscotto, un adattatore per un terminale storico, la conferma dell'esecuzione, la perdita della connessione, il recupero dello stato e la garanzia che il retry non ripetesse l'operazione. Tutto insieme. E tutto in una data che avevate già detto al cliente.»
 
-Kyla guardò la collega. Aveva una tazza di caffè che non aveva ancora bevuto. Le venne da chiedere quando avesse dormito, ma capì che sarebbe suonato come un modo per cambiare discorso.
+«Bridgeglass serve a fare proprio questo.»
 
-«Non sto dicendo che non abbiate lavorato», disse.
+«Quando è finito e verificato, sì. Non perché qualcuno ha scritto la parola *demo* in un calendario.»
 
-«Però non ci hai detto grazie», rispose Malik. «Ci hai convocati per dirci che abbiamo rovinato la vendita.»
+Kyla guardò Daniel. «Dimmi che il perimetro era stato approvato anche dai tecnici.»
 
-«Malik», lo richiamò Gavin.
+«Il perimetro iniziale sì. Poi si sono aggiunte le eccezioni per gli impianti di Aruvhana. Abbiamo accettato di inserirle senza spostare la visita. È una decisione che abbiamo condiviso male.»
 
-«No. Voglio finirla. Quando Noah è entrato, noi avevamo già isolato metà del problema. Lui ha visto una cosa che non vedevamo più, perché eravamo lì da ore. È stato utile. Ma se domani raccontiamo che è arrivato Noah, ha scritto un prompt e ha salvato tutto, cancelliamo il lavoro di chi ha tenuto in piedi questa commessa fino alle quattro.»
+«Condiviso male?» Malik aprì il portatile. «La notte scorsa, alle tre e quarantasette, uno di noi ha scritto all'agente: *Ti prego, guarda questi log e dimmi cosa mi sta sfuggendo. Non capisco più perché lo stesso ordine venga eseguito due volte.*»
 
-Daniel annuì. «Su questo ha ragione. E oggi nessuno deve rientrare alle quattro.»
+Girò lo schermo verso di lei. Non era la richiesta di un incapace. Era la frase di una persona a cui non restavano occhi per rileggere un'altra volta gli stessi numeri.
 
-«Non puoi prometterlo senza guardare le scadenze», disse Gavin.
+«Gli agenti accelerano tanto lavoro», disse. «Non annullano le dipendenze tra i sistemi. Possono scrivere un adattatore in pochi minuti. Non possono garantire che un terminale vecchio faccia quello che la specifica dice che dovrebbe fare. Quello dobbiamo verificarlo noi.»
 
-Daniel si girò. «Allora guardiamole. Ma non chiediamo un'altra notte prima di aver deciso che cosa stiamo davvero consegnando.»
+«E il controllo lo avete fatto quando il cliente era praticamente alla porta.»
 
-Kyla si sedette. Il gesto fece abbassare il tono più di qualsiasi ordine.
+«Perché ci avete dato il tempo per farlo quando il cliente era praticamente alla porta!»
 
-«Ieri ho proposto ad Aruvhana un proof of concept sui loro dati», disse. «Non hanno accettato. Hanno detto che ci penseranno. Se rispondono, non voglio rifare lo stesso errore.»
+La collega di Malik posò finalmente la tazza.
 
-Malik aprì il portatile e mostrò il test rosso. «Allora partiamo da qui. Prima una riproduzione affidabile del retry sul terminale di prova. Poi definiamo un caso d'uso, chi firma l'esito e cosa significa fallire. Il resto non entra nella promessa.»
+«Ieri Noah ha visto la chiave del retry e ci ha indicato dove guardare», disse. «Ci ha aiutato davvero. Ma se adesso raccontiamo che è bastato il suo prompt per salvarci, è come dire che tutto il resto di quelle notti non contava niente.»
 
-«Quanto tempo?» chiese Kyla.
+«Nessuno lo sta dicendo», replicò Kyla.
 
-«Non te lo dico in questa stanza per farti stare meglio. Ti mando una stima quando abbiamo verificato le dipendenze, con un margine per gli imprevisti. E voglio che il team recuperi le ore.»
+«Non ce l'ha ancora detto nessuno nemmeno un grazie», disse Malik. «Ci hai convocati stamattina per spiegarci quanto fosse importante il contratto. Noi l'abbiamo capito quattro notti fa.»
 
-Kyla stava per ribattere. Vide gli occhi della collega e cambiò frase.
+Per qualche secondo si sentì soltanto l'aria del sistema di ventilazione.
 
-«Va bene. Daniel, tu raccogli il perimetro commerciale. Gavin, liberiamo le persone necessarie senza inventarci disponibilità. Malik, dammi una stima che tu possa difendere. Se al cliente non piace, sarò io a dirglielo.»
+«Sai cos'ho fatto ieri?» domandò Kyla. «Ho portato tre persone in giardino a guardare un robot che tagliava l'erba, sperando che il mio telefono vibrasse prima che mi chiedessero di entrare in laboratorio. Ho difeso il valore di un prodotto che, nel momento decisivo, non potevo dimostrare. Non sono venuta qui a dirvi che non avete lavorato. Sono venuta a chiedervi perché ci siamo lasciati portare fino a quel punto.»
 
-Nessuno sembrò soddisfatto. Malik chiuse il portatile, ma non si alzò.
+«Perché abbiamo trattato ogni richiesta commerciale come se fosse tecnicamente negoziabile solo dopo averla accettata», disse Gavin.
 
-«E una cosa», disse Kyla. «Avete ragione sulle quattro notti. Non avrei dovuto scoprirlo in questa riunione. Grazie per aver provato a portarla a casa.»
+Daniel si girò verso di lui. «Delivery aveva segnalato i rischi, ma abbiamo tenuto la data.»
 
-Malik annuì appena. «Non voglio un grazie al posto di una pianificazione.»
+«Io avevo persone su due commesse», rispose Gavin. «Se avessi tolto altre ore a Malik, avrei saltato la consegna di venerdì. Se gli avessi lasciato tutto, avremmo avuto ancora meno verifiche. Abbiamo nascosto un problema di pianificazione dietro la parola *priorità*.»
 
-«Neanch'io», disse Kyla.
+Kyla si sedette. La rabbia non era passata. Aveva soltanto smesso di indicarle un bersaglio.
 
-Uscirono senza essersi riconciliati. Daniel rimase per concordare chi avrebbe scritto ad Aruvhana; Gavin aprì il calendario delle consegne. Kyla guardò la sala vuota. La vendita era ancora sospesa, il bug ancora aperto. Per la prima volta, però, la prossima promessa avrebbe dovuto passare da una prova che qualcuno aveva il tempo di eseguire.
+«Ho proposto ad Anika un proof of concept sui loro dati», disse. «Non hanno detto sì. Hanno detto che ci penseranno. Se ci chiedono una proposta, cosa posso promettere?»
+
+«Non una data oggi», rispose Malik, secco. «Prima riproduciamo il difetto in modo affidabile. Poi decidiamo un unico caso d'uso, quali dati sono autorizzati, chi valuta il risultato e come misuriamo il fallimento. Dopo stimiamo le ore. E dopo ancora tu puoi parlare di tempi.»
+
+«Se aspettiamo troppo, sceglieranno un altro fornitore.»
+
+«Può succedere.»
+
+Kyla lo fissò.
+
+«Può succedere anche se gli promettiamo un'altra impossibilità», aggiunse lui.
+
+Daniel scorse il verbale. «Metto per iscritto un perimetro ridotto e le condizioni necessarie. Niente invio al cliente prima della stima tecnica. Le responsabilità della demo di ieri restano nel verbale, mie comprese.»
+
+«E il team recupera le notti», disse Malik.
+
+Gavin annuì lentamente. «Oggi niente straordinari su Bridgeglass. Riorganizzo le consegne. Se manca capacità, la segnalo invece di coprirla con altre ore.»
+
+Kyla avrebbe voluto dire che stavano già perdendo tempo. Si accorse che la collega di Malik non aveva quasi parlato dall'inizio e che, per tenere gli occhi aperti, stringeva con entrambe le mani una tazza ormai vuota.
+
+«Avete ragione sul lavoro che avete fatto», disse Kyla. «Non l'ho riconosciuto. Grazie. Ma domani voglio una situazione che io possa spiegare al cliente senza dover improvvisare.»
+
+«Il grazie non sistema il piano», rispose Malik.
+
+«Nemmeno una sfuriata. L'ho capito.»
+
+Non era una riconciliazione. Malik teneva ancora le mani chiuse sul bordo del portatile; Kyla era ancora convinta che senza quella vendita un pezzo del loro lavoro sarebbe rimasto senza futuro. Si erano soltanto accordati su ciò che non avrebbero promesso un'altra volta.
+
+La porta, rimasta accostata, si aprì di una decina di centimetri.
+
+Nel varco apparve B-17, il robot che Kyla aveva mostrato ad Aruvhana il giorno prima. Era stato inserito nel nuovo giro sperimentale dei servizi interni. Sul torace compariva la scritta *assistenza riunioni*. Aveva le mani vuote.
+
+«Buongiorno», disse con la voce tranquilla delle unità di servizio. «Desiderate che venga portato del caffè?»
+
+Kyla si voltò di scatto.
+
+«Ma vuoi stare zitto? Non vedi che stiamo parlando? Vai via. Vattene!»
+
+La parola *via* rimbalzò contro il vetro. Daniel abbassò gli occhi; la collega di Malik guardò il robot. Kyla si rese conto di aver urlato contro una macchina proprio davanti a persone a cui aveva appena chiesto di lavorare meglio.
+
+Sul torace di B-17 l'offerta cambiò stato.
+
+«Servizio non richiesto», disse.
+
+Si ritrasse dal varco, lasciando alla porta lo spazio necessario per richiudersi. Per un momento nessuno riprese a parlare.
+
+Fu il rumore misurato dei suoi passi in corridoio a chiudere la riunione.
