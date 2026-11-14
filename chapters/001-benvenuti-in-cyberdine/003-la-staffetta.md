@@ -51,7 +51,11 @@ Il robot fermò l'attrezzo, attese che la lama fosse immobile, poi lasciò il ta
 
 Leïa sorrise. «Almeno lui è puntuale.»
 
-Kyla gli fece aprire il pannello degli accessori. Sul display comparvero tre sagome: un aggancio da giardinaggio, un supporto per piccoli carichi e un vassoio di trasporto.
+Sahir lesse il numero sul torace. «B-17. Diciassettesimo prototipo?»
+
+«Diciassettesimo bot registrato da noi. B-1 era un centralino automatico che smistava le telefonate, senza neppure un braccio. Non confondiamo i numeri con le generazioni di hardware.»
+
+Kyla fece aprire al robot il pannello degli accessori. Sul display comparvero tre sagome: un aggancio da giardinaggio, un supporto per piccoli carichi e un vassoio di trasporto.
 
 «Non fabbrichiamo l'hardware», spiegò. «Questo arriva dalla Cina. Noi lo registriamo, definiamo le attività permesse e lo inseriamo nel servizio interno. Oggi il giardino, con l'attrezzo montato. In altri turni le consegne di documenti e materiali. Con il vassoio corretto anche il caffè.»
 
