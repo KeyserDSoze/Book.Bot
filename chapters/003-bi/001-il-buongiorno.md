@@ -30,6 +30,8 @@ Paul Turner alzò gli occhi dalla cartellina.
 
 La macchina aveva trascinato il foglio per metà. Mila aprì il vano, prese l'angolo libero e lo tirò. La carta si strappò con un rumore secco.
 
+Paul aprì lo sportello inferiore, recuperò il lembo rimasto tra i rulli e lo mostrò a Mila. Quando richiuse il vano, la spia di blocco si spense.
+
 «Fantastico.»
 
 B-17 attendeva oltre la linea gialla con una richiesta di duplicazione assegnata dal servizio interno. Portava tre fogli di un modulo non riservato; il personale aveva autorizzato la stampa di alcune copie per il magazzino. Il giorno prima, nello stesso locale, Noah gli aveva dovuto mostrare più volte da quale parte mettere un originale.
