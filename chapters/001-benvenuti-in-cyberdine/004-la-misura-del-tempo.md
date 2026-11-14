@@ -135,11 +135,11 @@ Anika ripose il taccuino nella borsa. «Mandateci una proposta. Ci ragioneremo.�
 
 Sahir era già sulla porta. Leïa lo seguì, senza più guardare i monitor.
 
-Kyla accompagnò i visitatori all'ingresso. Le porte a vetri si aprirono sulle auto in attesa. Anika si fermò un momento.
+Kyla accompagnò i visitatori all'ingresso. Le porte a vetri si aprirono sul taxi in attesa. Anika si fermò un momento.
 
 «La prossima volta non voglio essere sorpresa», disse. «Voglio essere convinta.»
 
-Kyla annuì. Le auto partirono.
+Kyla annuì. Il taxi ripartì.
 
 Nell'atrio non era rimasto nessuno della delegazione. Una schermata mostrava le ore risparmiate dal programma di automazione: un numero grande, verde. Kyla lo oltrepassò senza leggerlo.
 
