@@ -125,32 +125,32 @@ Daniel scorse il verbale. «Metto per iscritto un perimetro ridotto e le condizi
 
 Gavin annuì lentamente. «Oggi niente straordinari su Bridgeglass. Riorganizzo le consegne. Se manca capacità, la segnalo invece di coprirla con altre ore.»
 
-Kyla avrebbe voluto dire che stavano già perdendo tempo. Si accorse che la collega di Malik non aveva quasi parlato dall'inizio e che, per tenere gli occhi aperti, stringeva con entrambe le mani una tazza ormai vuota.
+«E domani?», domandò Kyla. «Domani mi dite ancora di aspettare?»
 
-«Avete ragione sul lavoro che avete fatto», disse Kyla. «Non l'ho riconosciuto. Grazie. Ma domani voglio una situazione che io possa spiegare al cliente senza dover improvvisare.»
+«Domani ti diciamo quello che abbiamo verificato», rispose Malik. «È diverso.»
 
-«Il grazie non sistema il piano», rispose Malik.
+«Io devo rispondere a un cliente, Malik, non presentare una tesi di laurea.»
 
-«Nemmeno una sfuriata. L'ho capito.»
+«E noi dobbiamo mettere in produzione software che non ripeta un ordine industriale due volte. Non è una differenza da poco.»
 
-Non era una riconciliazione. Malik teneva ancora le mani chiuse sul bordo del portatile; Kyla era ancora convinta che senza quella vendita un pezzo del loro lavoro sarebbe rimasto senza futuro. Si erano soltanto accordati su ciò che non avrebbero promesso un'altra volta.
+Gavin cercò di intervenire, ma la porta si aprì prima che parlasse.
 
-La porta, rimasta accostata, si aprì di una decina di centimetri.
+B-17 comparve sulla soglia. Reggeva un bicchiere da asporto inserito in un supporto termico chiuso. Sul torace, sotto il codice dell'unità, scorreva l'indicazione *servizio bevande — consegna disponibile*.
 
-Nel varco apparve B-17, il robot che Kyla aveva mostrato ad Aruvhana il giorno prima. Era stato inserito nel nuovo giro sperimentale dei servizi interni. Sul torace compariva la scritta *assistenza riunioni*. Aveva le mani vuote.
+«Buongiorno. Desiderate del caffè?»
 
-«Buongiorno», disse con la voce tranquilla delle unità di servizio. «Desiderate che venga portato del caffè?»
-
-Kyla si voltò di scatto.
+Kyla si voltò con una rapidità che fece sussultare la sviluppatrice accanto a Malik.
 
 «Ma vuoi stare zitto? Non vedi che stiamo parlando? Vai via. Vattene!»
 
-La parola *via* rimbalzò contro il vetro. Daniel abbassò gli occhi; la collega di Malik guardò il robot. Kyla si rese conto di aver urlato contro una macchina proprio davanti a persone a cui aveva appena chiesto di lavorare meglio.
+B-17 rimase immobile per una frazione di secondo. Il display cambiò da *offerta in attesa* a *offerta rifiutata*. La mano che sosteneva il bicchiere non si mosse.
 
-Sul torace di B-17 l'offerta cambiò stato.
+«Richiesta annullata», annunciò.
 
-«Servizio non richiesto», disse.
+Fece un passo indietro, ruotò senza urtare lo stipite e uscì. La porta tornò ad accostarsi.
 
-Si ritrasse dal varco, lasciando alla porta lo spazio necessario per richiudersi. Per un momento nessuno riprese a parlare.
+Per un istante Kyla sentì soltanto il ronzio del proiettore spento. Poi Malik, dall'altra parte del tavolo, riprese:
 
-Fu il rumore misurato dei suoi passi in corridoio a chiudere la riunione.
+«È questo il problema. Ci chiedete di fare tutto subito, e quando qualcosa non è pronto urlate perché si tolga di mezzo.»
+
+Kyla si girò verso di lui. La discussione non era affatto finita.
