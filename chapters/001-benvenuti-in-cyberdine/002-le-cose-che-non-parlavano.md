@@ -7,13 +7,11 @@ title: Le cose che non parlavano
 canon: canon
 pov: character:malik-okafor
 characters:
-  - character:kyla
-  - character:visitors
   - character:malik-okafor
   - character:noah-carter
   - character:gavin-shaw
   - character:daniel-reed
-  - character:daniel-reed
+  - character:elena-fischer
 locations:
   - location:cyberdine-campus
 factions:
@@ -21,70 +19,146 @@ factions:
   - faction:aruvhana
 ---
 
-Malik aveva già riavviato il servizio tre volte. Sul monitor la prova di Bridgeglass era rossa. Dopo un timeout, l'adattatore generato con l'aiuto dell'agente trattava la conferma ritrasmessa come un nuovo ordine: proprio il caso che Cyberdine avrebbe dovuto dimostrare di saper prevenire.
+Il primo ordine passava. Il secondo non avrebbe dovuto esistere.
 
-«Quanto manca?» chiese Daniel Reed.
+Malik Okafor riaprì il log e ricominciò dall'alto. Il terminale di prova aveva confermato l'operazione prima che la rete si interrompesse. Alla riconnessione Bridgeglass avrebbe dovuto leggere quella conferma e fermarsi. Invece preparava una nuova esecuzione.
 
-«Non lo so», rispose Malik.
+Il banco di prova la bloccava prima che raggiungesse la macchina. Sul monitor, però, il test era rosso da ventitré minuti.
 
-«Non è una risposta che posso dare a Kyla.»
+«Non riavviare di nuovo il servizio», disse Elena Fischer. «Perdiamo la sequenza che ci serve.»
 
-«E io non posso inventarmi un test passato.»
+«Non lo sto riavviando.»
 
-La collega accanto a Malik confrontava due registri; un junior aveva smesso di parlare. Gavin, responsabile delle consegne, aveva già avvertito Kyla che la demo era rossa e ora cercava di capire quali altre attività stessero saltando. Il laboratorio era pieno di notifiche e nessuno aveva il coraggio di chiudere una finestra.
+«Hai il comando aperto.»
 
-Noah Carter comparve sulla soglia con un caffè in mano. Era arrivato tardi per la propria commessa, non per Bridgeglass: su quel progetto non lavorava e nessuno lo aveva convocato.
+Malik tolse le dita dalla tastiera. Aveva dormito forse due ore. Sul tavolo c'erano una barretta ancora incartata e quattro bicchieri di caffè, nessuno finito.
 
-«Avete una faccia terribile.»
+Daniel Reed arrivò con il telefono all'orecchio, chiuse la chiamata appena vide lo schermo.
 
-«Allora non fermarti a guardarla», sbottò Malik.
+«Kyla è davanti al laboratorio. Quanto ci serve?»
 
-Noah guardò i due tentativi nei log. «Qui state usando l'identificatore del retry come chiave dell'operazione. Al secondo tentativo cambia. Non è il terminale a duplicare: siete voi che non riconoscete più lo stesso ordine.»
+«Se vuoi un numero, dimmelo tu», rispose Malik.
 
-«Quindi lo correggiamo», disse il junior.
+«Non cominciare.»
 
-«Lo correggete e lo testate, dopo. Adesso non ci riuscite in cinque minuti. Fate un mock isolato. Dati sintetici, nessuna chiamata alla macchina reale. Almeno fate vedere il flusso.»
+«Siamo qui da quattro notti fino alle quattro. Non ricominciare tu con i minuti.»
 
-«No, no», intervenne la collega. «Non cambiamo la demo all'ultimo. Il simulatore non è validato.»
+Gavin Shaw, appoggiato allo stipite, guardava il calendario di Delivery sul proprio tablet. Aveva spostato due verifiche per liberare quella mattina e adesso un altro cliente chiedeva conto del ritardo.
 
-«E non sei nemmeno su questa commessa», aggiunse Malik. «Se domani salta fuori che abbiamo mostrato dati inventati, la responsabilità è nostra.»
+«Mi serve sapere se devo richiamare i tecnici che avete tolto all'altra commessa», disse.
 
-Noah appoggiò il caffè. «Avete ragione. Un mock non prova che il collegamento funzioni. Ma la delegazione è qui e il prodotto va spiegato. Dichiarate che è una simulazione, non toccate il terminale e conservate il test fallito.»
+Elena allargò sul monitor due richieste consecutive. «No. Mi servono dieci minuti senza nessuno che chieda quanto manca.»
 
-«Basta», disse Daniel. Aveva ascoltato fino a quel momento con il telefono in mano. «Malik, so cosa abbiamo promesso. Ma se non mostriamo nemmeno il percorso di Bridgeglass, Aruvhana non avrà alcuna ragione per finanziarne il completamento. Seguite Noah. Io avviso Kyla.»
+Daniel guardò la porta chiusa. «Non li abbiamo.»
 
-«Lo facciamo perché ce lo stai ordinando», disse Malik, più forte. «Non perché sia il modo giusto di dimostrare un'integrazione.»
+Un ragazzo del team lesse la risposta dell'agente di sviluppo. «Propone di rigenerare l'adattatore con un controllo sul retry.»
 
-«E lo voglio per iscritto», disse la collega. «Nessuno deve scrivere che l'abbiamo validata.»
+«L'abbiamo già fatto», disse Elena. «Il test sintetico passava anche prima. È il terminale reale che non si comporta come il modello.»
 
-Daniel si voltò di scatto. «Vi serve un'email? Bene. Vi mando un'email.»
+«Quindi cosa gli chiediamo?»
 
-Aprì il portatile, selezionò subito i destinatari, mise Kyla in copia e digitò senza esitazioni:
+Malik avrebbe voluto rispondere. Non riuscì a formulare una richiesta che non fosse una versione più stanca della precedente.
 
-*Oggetto: Aruvhana — decisione operativa demo Bridgeglass*
+Noah Carter entrò con un caffè chiuso in mano e un cavo che spuntava dallo zaino.
 
-*Confermo che oggi mostreremo un flusso simulato con dati sintetici, senza collegamento al terminale reale. Il test live è fallito e l'integrazione non è validata. Il team tecnico ha espresso riserve. Mi assumo la responsabilità operativa della scelta. Kyla dovrà approvare la modalità di presentazione al cliente.*
+«Chi ha occupato il banco che mi serviva?»
 
-Premette *Invia*.
+«Non è il tuo banco», disse Malik.
 
-«Ecco. Adesso siete contenti? Possiamo fare come dice Noah? Il cliente è già in azienda.»
+«Appunto. Dovrei essere a un altro piano.» Noah guardò le facce, poi lo schermo rosso. «Che succede?»
 
-«Non è questione di essere contenti», rispose Malik. «È questione di cosa gli facciamo credere.»
+«La demo che hai sentito annunciare da tre settimane è morta», rispose Gavin.
 
-«Lo so», disse Daniel, senza abbassare lo sguardo. «E non vi chiedo di mentire. Vi chiedo di preparare qualcosa che possiamo mostrare dichiarando i limiti.»
+Noah posò il caffè sul davanzale. Non chiese di prendere il controllo della tastiera. Si chinò sui log, seguì con un dito la prima conferma, poi la seconda richiesta.
 
-Noah indicò la finestra dell'agente. «Scrivi così.»
+«Questa è la stessa operazione?»
 
-*Genera un mock isolato della demo Bridgeglass con dati sintetici: creazione ordine, conferma, timeout e retry senza duplicazione. Mantieni le schermate previste, ma disabilita ogni collegamento al terminale. Etichetta l'ambiente MOCK — DATI SINTETICI. Non dichiarare risolto il bug. Separatamente proponi un test per verificare la chiave di idempotenza tra tentativi.*
+«Sì.»
 
-La collega inviò il prompt. L'agente produsse il primo flusso, ma una schermata non caricò. Malik imprecò sottovoce. Il junior cercò il campo mancante; Daniel camminava avanti e indietro, poi si fermò per non dare agli altri un motivo in più di innervosirsi. Noah indicò una discrepanza tra due nomi di proprietà. La collega la corresse e rilanciò.
+«Perché ha un'altra chiave?»
 
-Finalmente il percorso sintetico diventò verde. Accanto, il test reale rimase rosso.
+Malik avvicinò il monitor. Nella prima riga c'era l'identificativo dell'ordine; nella successiva, dopo il timeout, un nuovo identificativo di tentativo.
 
-«È una rappresentazione», disse Malik. «Non una prova.»
+Noah indicò i due valori. «State usando il numero del tentativo per decidere se l'ordine è già stato eseguito. Al retry cambia. Il sistema perde l'identità dell'operazione.»
 
-«Esatto», rispose Noah. «Adesso sapete anche da dove cominciare domani.»
+Elena ingrandì la funzione. «Maledizione.»
 
-Daniel controllò personalmente le etichette, la separazione dal terminale e il materiale da consegnare ai visitatori. Poi scrisse a Kyla: *Simulazione pronta. Nessun dato reale, nessun collegamento live. Possiamo riceverli quando autorizzi. Ti spiego tutto prima di iniziare.*
+«Possiamo correggerla?» chiese il ragazzo.
 
-Noah recuperò il caffè e tornò alla propria commessa. Nessuno lo applaudì. Il team era riuscito a preparare una demo; non aveva risolto il problema che la demo avrebbe dovuto dimostrare.
+«Sì», rispose Malik. Poi guardò Daniel. «Non in cinque minuti. Va cambiata, provata con il terminale, e dobbiamo controllare che non rompa gli altri connettori.»
+
+Daniel sbatté il palmo sul tavolo, una volta sola. «E allora cosa facciamo vedere ad Aruvhana?»
+
+«Il problema», disse Elena.
+
+«Ci hanno convocati per valutare un investimento, non per vederci debuggare», disse Gavin.
+
+Noah si raddrizzò. «Fate un simulatore del percorso. Stesse schermate, dati sintetici, nessuna richiesta al terminale. Mostrate che cosa dovrebbe succedere, non dite che è successo davvero.»
+
+«Assolutamente no», rispose Elena. «Un mock fatto in corsa, senza revisione, con la delegazione dietro la porta?»
+
+«È il nostro lavoro che ci metti in mano», disse Malik. «Se passa per una prova reale, chi firma siamo noi. Tu domani sei di nuovo sull'altra commessa.»
+
+«Non firmo io», disse Noah. «Per questo non vi sto dicendo di farlo di nascosto. Il test rosso resta. Lo mostrate se ve lo chiedono. Ma se entrano adesso non avete neanche il flusso da spiegare.»
+
+«Ci avevano promesso una macchina collegata», disse Elena. «Non un film.»
+
+«Avete ragione tutti», disse Daniel.
+
+Nessuno gli prestò attenzione. Malik aveva già girato lo schermo verso Noah.
+
+«Certo che è facile, quando non hai passato quattro notti a rimediare ai cambi di perimetro. Avevamo detto che non potevamo mostrare tutte le casistiche. È stato promesso comunque.»
+
+«Malik.»
+
+«E adesso volete che un agente ci costruisca una bella bugia verde.»
+
+«Malik, basta!»
+
+Daniel questa volta alzò davvero la voce. Il ragazzo tolse le mani dalla tastiera.
+
+«Non abbiamo il tempo di rifare la storia delle ultime due settimane», disse il project manager. «Il terminale oggi non è pronto. Possiamo perdere la trattativa senza neppure mostrare il prodotto, oppure preparare un percorso simulato e dichiarare esattamente cos'è. Seguite Noah. Io rispondo della decisione.»
+
+«È una scorciatoia», disse Elena.
+
+«È una scelta commerciale con un limite tecnico scritto nero su bianco. Non ti sto chiedendo di validarla.»
+
+«Allora lo voglio nero su bianco davvero», disse Malik. «Non voglio sentir dire domani che il team ha consegnato la demo funzionante.»
+
+Daniel aprì di scatto il portatile. «Vi serve un'email? Va bene. Vi mando un'email.»
+
+Selezionò la distribuzione interna della commessa. Controllò i destinatari, aggiunse Kyla in copia e scrisse mentre gli altri guardavano l'ora.
+
+*Oggetto: Aruvhana — decisione operativa sulla demo Bridgeglass*
+
+*Il collegamento live ha fallito la verifica del retry e non è validato. Autorizzo la preparazione di un simulatore isolato con soli dati sintetici e nessuna operazione sul terminale reale. Il team tecnico ha espresso riserve e non approva l'integrazione. Mi assumo la responsabilità di questa scelta. La presentazione al cliente richiede il consenso di Kyla e la dichiarazione esplicita che il flusso è simulato. Il test fallito rimane disponibile.*
+
+Firmò. Inviò. Sul portatile di Malik arrivò subito la notifica.
+
+«Ecco», disse Daniel. «Adesso possiamo lavorare?»
+
+Malik non rispose. Spostò il proprio computer per fare spazio a Elena.
+
+Noah indicò la finestra dell'agente. «Chiedigli una cosa per volta. Prima il percorso, poi l'aspetto. Elena, scrivi.»
+
+Lei aprì il prompt e Noah dettò, senza sedersi:
+
+*Prepara un mock isolato della demo Bridgeglass. Usa soltanto dati sintetici: ordine, conferma del terminale, timeout e retry dello stesso ordine, senza una seconda esecuzione. Mantieni le schermate e il contratto API previsto, ma non aprire collegamenti con il terminale reale. Scrivi sempre MOCK — DATI SINTETICI in evidenza. Non modificare il codice di produzione e non dichiarare risolto il problema. In una risposta separata, indica come verificare la chiave d'idempotenza con un test sul banco reale.*
+
+L'agente generò la prima versione. All'avvio la pagina della conferma rimase vuota.
+
+«Campo sbagliato», disse Elena. «La risposta del nostro contratto API non si chiama così.»
+
+Il ragazzo corresse la mappatura. Malik controllò la configurazione di rete e staccò il collegamento di prova dal simulatore. Elena rilanciò il percorso, una volta. Poi una seconda, cambiando l'ordine degli eventi.
+
+Sul monitor comparvero quattro passaggi verdi. A fianco restò aperto il test rosso.
+
+Daniel non sorrise. Lesse la scritta *MOCK — DATI SINTETICI*, verificò che fosse visibile anche nella schermata finale e chiamò Kyla. Lei non rispose; stava parlando con i visitatori.
+
+Le scrisse: *Simulatore pronto, isolato, verificato per la sola presentazione. Il live resta fallito. Ho bisogno del tuo via libera prima dell'ingresso. Ti spiego tutto di persona.*
+
+Noah recuperò il caffè ormai tiepido.
+
+«Allora io vado a lavorare davvero», disse.
+
+Malik lo guardò allontanarsi. Avrebbe voluto ringraziarlo, ma il monitor rosso era ancora acceso e, oltre la parete, sentiva ridere uno dei clienti.

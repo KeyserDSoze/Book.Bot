@@ -9,9 +9,9 @@ canon: canon
 
 Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la visita del cliente Aruvhana. È preparata, brillante nel leggere una stanza, fiera delle ore che l'automazione ha restituito ai colleghi. Non finge entusiasmo e non possiede informazioni che il suo ruolo non giustifica.
 
-**Capitolo 1**: desidera mostrare agli ospiti un'organizzazione in cui le persone hanno recuperato tempo e potere decisionale. Risponde allo scetticismo con dimostrazioni reali.
+**Capitolo 1**: Kyla vuole vendere Bridgeglass ad Aruvhana e guadagna tempo dopo il fallimento tecnico mostrando B-17 in giardino. Autorizza una demo simulata ma ne ritarda la spiegazione esplicita, una scelta commerciale che gli ospiti le contestano. Propone un proof of concept, non ancora accettato. La sera ha un appuntamento al cinema promesso a un'amica, che continua a trascurare.
 
-**Capitolo 2**: torna al quarto piano e ascolta le battute sul bot che ha sbagliato alcune fotocopie; nota che la vera innovazione abita anche in un carrello spostato e in un'etichetta scritta da Paul. Riceve conferma di un **test circoscritto** che unisce una proposta dell'agente digitale di sviluppo e un'osservazione fisica di B-17 sulle alternative scartate. La soddisfazione resta autentica: non si trasforma ancora in una voce critica verso Cyberdine.
+**Capitolo 2**: la mattina dopo la demo di Aruvhana affronta duramente Malik, Daniel e Gavin. Malik difende quattro notti di lavoro estenuante. Kyla, esasperata, caccia B-17 quando propone il caffè; la discussione continua mentre il robot lavora nel campus. Non partecipa alla vicenda delle fotocopie e non raggiunge una riconciliazione comoda. Nel finale Malik esce furioso e urta accidentalmente B-17, che si ripiega e si ferma per protezione di fabbrica. **Capitolo 12**: scopre da Noah che quel blocco era stato successivamente disabilitato senza autorizzazione.
 
 **Tensione futura**: la sua visione umanista incontrerà richieste inizialmente non classificabili, ma non anticipare una conversione morale.
 
@@ -40,7 +40,7 @@ Dopo la segnalazione di Paul e Mila, a cui Noah aveva confidato per primi il pro
 
 ## Percorso di Noah nella revisione editoriale
 
-Kyla saluta Noah Carter già nell'atrio del capitolo 1 mentre lui aiuta un addetto con una porta di servizio bloccata. In capitolo 8 lo vede lasciare la plenaria quando compare B-17. Non riconosce quei gesti come indizi di una modifica clandestina: sono compatibili con la normale vita del reparto sviluppo. Solo durante la confessione nel capitolo 12, attivata dalla segnalazione dei due colleghi, ricostruisce il contrasto tra competenza nell'ascolto dei colleghi e scelta di violarne la privacy. Noah in seguito lavora per Veyra Labs sotto il nome professionale Evan North, senza essere reintegrato a Cyberdine.
+Nel capitolo 1 Kyla non incontra Noah nell'atrio: il varco bloccato viene gestito dalla manutenzione. Noah aiuta invece Malik, Elena e Daniel nell'emergenza Bridgeglass, senza appartenere alla commessa. In capitolo 8 Kyla lo vede lasciare la plenaria quando compare B-17. Solo con la confessione nel capitolo 12 scopre la modifica clandestina e il suo contrasto con il talento tecnico e sociale di Noah; il lavoro successivo a Veyra Labs non lo reintegra a Cyberdine.
 
 
 ## Capitoli 25–30
@@ -62,7 +62,7 @@ Nella visita inaugurale Kyla accompagna Aruvhana dentro una software house: gli 
 
 ## Partecipazione e crescita — capitolo 8
 
-Kyla Morgan è entrata in Cyberdine in comunicazione e selezione, ed è cresciuta assumendosi i problemi che attraversano HR, marketing, sviluppo e rapporto coi clienti. Nel capitolo 1 tiene insieme la visita Aruvhana, un collaudo reale e il tempo dei programmatori; nel 5 deve comunicare l'eliminazione del ruolo a cui Claire aspirava; nel 6–7 coordina le persone e la comunicazione durante la crisi di B-17. Non è CTO, non scrive codice al posto degli ingegneri e non possiede un talento magico per risolvere i conflitti. È brava a far collaborare chi usa indicatori diversi, ma a volte rende presentabile una decisione che non ha avuto il coraggio di contestare.
+Kyla Morgan è entrata in Cyberdine in comunicazione e selezione, ed è cresciuta assumendosi problemi che attraversano HR, marketing, sviluppo e rapporto coi clienti. Nel capitolo 1 gestisce una visita ad alto rischio, una demo simulata e la decisione di non dichiarare immediatamente il limite prima del flusso; nel 2 deve rispondere ai tecnici per la pressione commerciale. Nel 5 comunica l'eliminazione del ruolo a cui Claire aspirava; nel 6–7 coordina le persone durante la crisi di B-17. Non è CTO e non scrive codice per gli ingegneri. È abile nel rapporto coi clienti, ma a volte rende presentabili decisioni che avrebbe dovuto contestare.
 
 Prima della plenaria Cole le trasferisce, con un accordo societario già perfezionato, **l'1,5% delle proprie azioni**: diventa realmente azionista di minoranza, non una dirigente «promossa a socia» con una targhetta. Nel suo discorso spiega come si cresce in responsabilità e influenza: lavoro verificabile, capacità di migliorare processi altrui, formazione dei sostituti e attenzione ai clienti; non promette azioni a tutti. La quota non la rende infallibile né le restituisce i posti eliminati dalla riorganizzazione. La partecipazione proviene da azioni personali di Victor e **non sottrae liquidità alla società**: non contraddice la decisione di risparmiare sul robot.
 

@@ -35,7 +35,9 @@ Noah ne pronunciò tre durante il colloquio successivo.
 
 «Sono sicuro che l'aggiornamento non ha causato l'aggressione.»
 
-Leah gli lasciò il tempo di sentire la propria frase. Noah abbassò gli occhi, come se avesse capito di avere appena chiesto un verdetto su una cosa che nessun tecnico poteva stabilire.
+«Non ha fatto scegliere a Ethan e Marcus di colpirlo», disse Leah. «Questo è certo. Ma hai disabilitato il blocco antiurto. Non puoi garantire che il danno sarebbe stato identico con la protezione attiva.»
+
+Noah abbassò gli occhi. «No. Quello no.»
 
 Leah aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti di B-17. Ne era emersa una scritta da Elena Fischer durante un test, molto tempo prima: *Interazione non sollecitata; pertinente e utile. Verificare l'origine del comportamento conversazionale.* Non era stata promossa a un controllo di rilascio perché non descriveva né un errore operativo né una violazione di permessi. Era rimasta dentro una revisione di qualità mai completata.
 
@@ -43,7 +45,7 @@ Leah aveva chiesto di cercare eventuali osservazioni precedenti sui cambiamenti 
 
 «Qualcuno ha notato un comportamento diverso», la corresse Leah. «Non significa che conoscesse la causa. Dobbiamo capire come una domanda pertinente sia rimasta senza destinatario.»
 
-Sul tavolo c'erano due elenchi. Nel primo Leah aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità; registrazione di due clip e loro pubblicazione anonima senza consenso del nuovo proprietario. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti, copie e provenienza tecnica dei video circolati in rete. La confessione non sostituiva gli accertamenti.
+Sul tavolo c'erano due elenchi. Nel primo Leah aveva scritto i fatti ammessi: modifica non autorizzata delle capacità di B-17 e dichiarata esclusione del blocco protettivo di fabbrica; accesso clandestino ai dati di posizione e ai sensori; osservazione di un impiego successivo alla cessione dell'unità; registrazione di due clip e loro pubblicazione anonima senza consenso del nuovo proprietario. Nel secondo aveva scritto i punti non verificati: durata dell'accesso, registrazioni residue, eventuali altri soggetti, dati di lavoratori o ospiti potenzialmente esposti, copie e provenienza tecnica dei video circolati in rete. La confessione non sostituiva gli accertamenti.
 
 Sul telefono interno un analista chiedeva a Leah se dovesse continuare a cercare tracce sugli accessi alla vecchia unità oppure tornare all'incidente ordinario del cliente che attendeva da ore. Le due attività richiedevano la stessa persona. Leah rispose di conservare prima i dati con scadenza di rotazione e di passare poi il caso cliente a un secondo collega.
 

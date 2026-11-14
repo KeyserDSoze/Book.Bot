@@ -10,7 +10,6 @@ characters:
   - character:kyla
   - character:visitors
   - character:anika-rao
-  - character:b-17
   - character:daniel-reed
   - character:malik-okafor
 locations:
@@ -20,74 +19,134 @@ factions:
   - faction:aruvhana
 ---
 
-Daniel intercettò Kyla prima della sala demo. Non provò a minimizzare. Le mostrò sul portatile il test reale fallito, la simulazione isolata e l'etichetta che sarebbe rimasta visibile sullo schermo.
+Daniel aspettava fuori dal laboratorio con il portatile aperto.
 
-«È tutto quello che abbiamo?» chiese Kyla.
+«Prima che entriate», disse a Kyla, indicando lo schermo. «Questo è il test vero.»
 
-«È tutto quello che possiamo mostrare senza inventare un risultato tecnico», rispose lui. «Malik non ha validato l'integrazione. L'ho scritto.»
+Due righe rosse. Lo stesso ordine, due tentativi. Il secondo veniva fermato dal banco di prova prima di arrivare al terminale.
 
-Kyla avrebbe voluto una soluzione migliore. Guardò l'orologio: la delegazione aveva già aspettato abbastanza. «Presentiamo il percorso. Non chiamatelo collaudo.»
+«E quello che mostreremo?»
 
-Entrarono. Malik non salutò subito; aveva ancora i registri aperti. La collega che aveva costruito il simulatore controllò un'ultima volta che nessuna richiesta uscisse verso il terminale.
+Daniel cambiò finestra. «Un percorso simulato, isolato. Nessun dato dei clienti, nessuna operazione sulla macchina. Elena ha controllato la sequenza. Malik non ha validato il collegamento.»
 
-Sul grande schermo apparve Bridgeglass: un ordine creato nel cruscotto moderno, la sua trasformazione nel formato storico, una conferma, poi un'interruzione di rete. Il flusso mostrò il retry e l'operazione rimase una sola. I passaggi erano chiari, la visualizzazione elegante. In un angolo, più piccolo del titolo ma leggibile, restava scritto: *MOCK — DATI SINTETICI*.
+Dal corridoio arrivò la voce di Sahir. «Possiamo?»
 
-Kyla spiegò come la piattaforma avrebbe collegato gli impianti acquisiti da Aruvhana senza imporre la sostituzione dei terminali. Mostrò i controlli, i registri di audit, le autorizzazioni e la possibilità di fermare un processo quando le risposte non coincidevano. Per alcuni minuti la sala rimase in silenzio. Sahir prese appunti; Leïa seguì le schermate; Anika non distolse gli occhi dall'identificatore dell'ordine.
+Kyla guardò Daniel. «Non possiamo farli aspettare ancora.»
 
-Quando la demo terminò, Sahir non applaudì.
+«Kyla, nell'email ho scritto che dobbiamo dichiararlo.»
 
-«Quanto manca perché sia utilizzabile davvero? L'avete già venduta a qualcun altro?»
+«La scritta resta sullo schermo», disse. «Presento la piattaforma, poi rispondiamo alle loro domande.»
 
-«Abbiamo esperienza con integrazioni analoghe», rispose Kyla. «Bridgeglass, in questa configurazione, è ancora nella fase di verifica.»
+Daniel non replicò. Non era il via libera che avrebbe preferito. Aprì la porta.
 
-«Non le ho chiesto se avete esperienza», replicò Sahir. «Le ho chiesto se questo prodotto funziona già presso un cliente.»
+Dentro, Malik aveva ancora il test rosso sul monitor laterale. Non si alzò subito. Elena chiuse la finestra dei controlli e lasciò al centro la schermata preparata per la demo.
 
-«Non posso dirle che questa configurazione sia già in esercizio», disse Kyla.
+«Bridgeglass», annunciò Kyla, «è il modo in cui permettiamo ai vostri sistemi di continuare a lavorare senza costringervi a sostituire ogni terminale storico.»
 
-Anika indicò la scritta sullo schermo. «E questi dati? Sembrano costruiti. Da dove arrivano?»
+Il cruscotto mostrò un ordine destinato a un impianto di esempio. Comparvero la traduzione nel formato legacy, una conferma, la perdita della connessione e infine il recupero dello stato. Il numero dell'ordine non cambiò. Una linea verde percorse lo schermo.
 
-«Sono dati sintetici», rispose Kyla. «Non possiamo esporre informazioni riservate di altri clienti. Abbiamo ricreato un flusso rappresentativo, con identificativi e contenuti fittizi.»
+Kyla lasciò che la sequenza finisse prima di parlare.
 
-«Questa è una ragione per anonimizzare i dati», disse Anika. «Non è una ragione per simulare la risposta della macchina. Siete collegati a un terminale vero, adesso?»
+«Qui avete il punto più delicato: dopo un'interruzione, il sistema deve sapere che cosa è già successo. Non può permettersi di confondere una richiesta ripetuta con un nuovo ordine.»
 
-Kyla sentì Daniel irrigidirsi al suo fianco.
+Leïa si sporse in avanti. «Finalmente un'interfaccia che si capisce.»
 
-«No. La risposta del terminale è simulata. Durante la preparazione abbiamo individuato un problema nel modo in cui gestiamo un tentativo ripetuto dopo un'interruzione. Non lo consideriamo risolto.»
+Sahir non guardava il diagramma. Stava leggendo il codice dell'impianto in alto.
 
-«Quindi quello che avete appena mostrato è come dovrebbe funzionare», disse Sahir. «Non come funziona.»
+«ARV-N03», disse. «Quel nome l'avete preso da un nostro vecchio documento pubblico.»
+
+Kyla avvertì il primo cedimento.
+
+«Abbiamo preparato un insieme di dati dimostrativi che riprende la struttura delle vostre installazioni.»
+
+«Struttura», ripeté Sahir. «E i numeri?»
+
+«Sono esempi.»
+
+Anika indicò la parte bassa dello schermo. Lì, sotto l'animazione, era rimasta l'etichetta *MOCK — DATI SINTETICI*.
+
+«Quanto manca per metterlo in esercizio? Lo state già usando con qualche cliente?»
+
+Kyla rispose alla seconda domanda per prima. «Abbiamo integrazioni simili già in uso. Questa configurazione di Bridgeglass non è ancora in produzione.»
+
+«Non vi ho chiesto se scrivete connettori», tagliò corto Sahir. «Vi ho chiesto se ciò che abbiamo appena visto funziona.»
+
+«Il flusso vi mostra come funzionerà.»
+
+Anika chiuse lentamente la penna.
+
+«E questa conferma? Arriva dal terminale che avete di là?»
+
+Kyla avrebbe potuto dire *per ragioni di riservatezza* e fermarsi lì. Era vero che non poteva mettere sul monitor i dati industriali di altri clienti. Non era, però, la risposta a quella domanda.
+
+«No», disse infine. «La conferma è simulata. Per la dimostrazione abbiamo usato dati sintetici, anche per evitare di esporre informazioni riservate. Il collegamento reale ha un difetto che non siamo ancora riusciti a chiudere.»
+
+«Quindi avete simulato il punto sul quale dovevamo decidere se fidarci di voi», disse Anika.
+
+«Abbiamo isolato il problema prima che potesse produrre una seconda operazione», intervenne Malik. Aveva girato il monitor verso di loro. «Il terminale di prova ha accettato la prima. Dopo il timeout il software prepara un secondo invio, e il controllo lo blocca. Guardate.»
+
+Sul display comparve il test fallito. Malik seguì la sequenza con il cursore, senza avviare alcun comando sul terminale.
+
+Sahir si alzò in piedi per vedere meglio.
+
+«Quella cosa che avete appena mostrato in verde», disse, «è precisamente quella che non sapete ancora fare?»
+
+«Con questa integrazione, oggi, sì», rispose Malik.
+
+«Incredibile.»
+
+Leïa posò il taccuino. «Abbiamo spostato un'intera mattinata per vedere una prova dal vivo.»
+
+«E ci avete portati a vedere il prato», aggiunse Sahir.
+
+Kyla incassò il colpo. Il prato lo aveva scelto lei. Anche aspettare a dire cosa significava la scritta *mock*.
+
+«Avrei dovuto avvertirvi prima di avviare la sequenza», disse. «Daniel mi aveva comunicato il problema. Ho scelto di mostrarvi comunque il percorso previsto.»
+
+Anika guardò prima lei, poi Daniel. «Almeno questo è chiaro.»
+
+«Non mi basta», disse Sahir. «Se devo convincere la mia direzione, non posso portare una schermata che avete costruito voi e chiamarla verifica.»
+
+«Non vi chiedo di chiamarla verifica», rispose Kyla. «Vi propongo di farne una.»
+
+Daniel alzò gli occhi dal verbale.
+
+Kyla continuò, prima che Sahir potesse interromperla. «Scegliete voi un solo caso d'uso. Un vostro ambiente di test, dati che potete autorizzarci a trattare e un criterio di riuscita scritto insieme. Un ordine, la conferma, il timeout, il recupero. Se duplicasse qualcosa, la prova fallirebbe davanti a voi. Se reggesse, avreste un risultato sul vostro sistema, non su una schermata preparata da noi.»
+
+«Un proof of concept», disse Anika.
 
 «Sì.»
 
-«Allora la sorpresa di oggi è che il prodotto non è pronto.»
+«Quanto costa?» chiese Sahir.
 
-Malik abbassò gli occhi sui registri. Kyla non cercò di addolcire la frase. «La sorpresa che volevamo prepararvi era una dimostrazione sul collegamento reale. Non siamo riusciti a completarla. Mi assumo la responsabilità di avervi mostrato prima il percorso simulato.»
+«Prima dobbiamo concordare accessi, perimetro e ore. Poi vi mando una stima che il team tecnico possa sostenere.»
 
-Anika chiese di vedere il difetto. Malik riaprì il test rosso e spiegò, senza gergo inutile, che dopo il timeout il sistema poteva confondere il secondo tentativo con un nuovo ordine. Non eseguì alcuna operazione pericolosa. Mostrò il punto in cui il controllo avrebbe dovuto fermarla.
+«Quindi neanche quella ce l'ha.»
 
-«Se questa cosa accade su uno dei nostri impianti», disse Anika, «non perdiamo soltanto tempo. Possiamo ripetere un'azione che non doveva ripetersi.»
+«Non vi prometterò una data che non ho verificato.»
 
-«È il motivo per cui non abbiamo autorizzato il live», rispose Malik.
+Malik sollevò lo sguardo. Per la prima volta quella mattina guardò Kyla senza ostilità. Durò poco; Daniel aveva già aperto il calendario e un altro impegno di Delivery lampeggiava sullo schermo.
 
-Per la prima volta Anika gli rivolse uno sguardo meno ostile. Non bastò a cambiare il giudizio.
+Anika ripose il taccuino nella borsa. «Mandateci una proposta. Ci ragioneremo.»
 
-«Ci aspettavamo una prova molto più avanzata», disse. «Non posso portare questa presentazione a chi decide il budget e chiamarla evidenza tecnica.»
+«Quando possiamo sentirci?» chiese Kyla.
 
-Kyla si sporse appena in avanti. «Allora cambiamo la prova. Scegliete voi un caso d'uso e un insieme di dati che possiamo trattare con autorizzazioni concordate. Prepariamo un proof of concept sul vostro ambiente di test, con criteri di successo e fallimento definiti insieme. Se il retry duplica un ordine, lo vedrete. Se funziona, avrete una prova vostra, non una schermata costruita da noi.»
+«Quando avremo deciso se vale la pena farlo.»
 
-«E chi paga?» chiese Sahir.
+Sahir era già sulla porta. Leïa lo seguì, senza più guardare i monitor.
 
-«Ne discutiamo prima di impegnare le squadre. Vi mando una proposta con perimetro, tempi, responsabilità e condizioni di accesso. Non vi chiedo di approvare oggi.»
+Kyla accompagnò i visitatori all'ingresso. Le porte a vetri si aprirono sul taxi in attesa. Anika si fermò un momento.
 
-Anika richiuse il taccuino. «Mandateci il documento. Ci ragioneremo.»
+«La prossima volta non voglio essere sorpresa», disse. «Voglio essere convinta.»
 
-«Quindi non è un sì», disse Kyla.
+Kyla annuì. Il taxi ripartì.
 
-«Non è un sì», confermò Anika. «E non è una promessa di tornare.»
+Nell'atrio non era rimasto nessuno della delegazione. Una schermata mostrava le ore risparmiate dal programma di automazione: un numero grande, verde. Kyla lo oltrepassò senza leggerlo.
 
-Kyla li accompagnò all'uscita. Il robot B-17, oltre il vetro, aveva ripreso a tagliare l'erba, sorvegliato dal giardiniere. La macchina si fermò davanti alla stessa panchina di prima, aspettò, poi cambiò percorso.
+Il telefono vibrò. Gavin chiedeva quante ore avrebbe dovuto riservare alla nuova prova. Malik, dietro il vetro, aveva ancora aperti i due registri del retry.
 
-Le auto di Aruvhana partirono senza che nessuno avesse firmato nulla.
+Kyla iniziò una risposta: *Vi chiedo di stimare...*
 
-Sul telefono Kyla trovò la copia dell'email di Daniel e un messaggio di Gavin sulle ore già impegnate per la settimana. Aveva appena proposto un proof of concept che non sapeva ancora come finanziare né quando programmare. Dietro di lei Malik era ancora in laboratorio, davanti al test rosso.
+Cancellò le parole. Scrisse soltanto: *Domani alle otto e trenta. Prima parliamo di quello che è successo oggi.*
 
-Kyla non gli scrisse che era andata bene. Aprì una nuova bozza: *Aruvhana — proposta di proof of concept*. Rimase a guardare il campo del destinatario, poi chiuse il portatile. Prima di promettere una data, avrebbe dovuto parlare con chi quel software doveva farlo funzionare davvero.
+Premette *Invia*.

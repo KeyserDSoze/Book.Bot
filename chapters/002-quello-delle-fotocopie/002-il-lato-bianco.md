@@ -5,11 +5,11 @@ chapter: chapter:002-quello-delle-fotocopie
 number: 2
 title: Il lato bianco
 canon: canon
-pov: character:paul-turner
+pov: character:noah-carter
 characters:
+  - character:noah-carter
   - character:paul-turner
   - character:elena-fischer
-  - character:mila-novak
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -17,90 +17,108 @@ factions:
   - faction:cyberdine
 ---
 
-Paul conosceva il rumore della fotocopiatrice del quarto piano da prima che Cyberdine cominciasse a vendere programmi capaci di capire documenti interi.
+La fotocopiatrice emise un ronzio, due scatti e un foglio perfettamente bianco.
 
-Se i rulli davano due colpi secchi, il vassoio era inserito male. Se la macchina sospirava tre volte, stava per avviare la pulizia. Il guasto più fastidioso, però, non produceva suoni: un originale posato dal lato sbagliato poteva dare una copia impeccabilmente bianca.
+Noah guardò la copia, poi il documento azzurro sul vetro. B-17 l'aveva allineato con cura, come se dovesse essere incorniciato. La parte scritta era rivolta verso il coperchio.
 
-«Facciamo una scommessa», propose Mila, entrando alle spalle di B-17.
+Il robot lesse il messaggio *contenuto non rilevato*, sollevò il foglio, lo spostò di qualche millimetro e riprovò.
 
-«Sul foglio bianco?»
+Un altro foglio bianco.
 
-«Su quanto ci mette a chiamarti.»
+«Aspetta», disse Noah.
 
-Paul scosse la testa. «Se mi chiama, gli rispondo. Non lavoro per farlo fallire.»
+B-17 lasciò immobile la mano sopra il coperchio. «Operazione sospesa.»
 
-Il robot posò il contenitore, verificò il codice del documento e aprì il coperchio. Appoggiò la scheda azzurra sul vetro. La voce della procedura elencò i controlli previsti, nessuno dei quali richiedeva che una persona restasse nella stanza.
+Paul Turner si affacciò con una cartellina sotto il braccio. Guardò le due copie.
 
-B-17 premette avvio.
+«La pratica è pronta, vedo.»
 
-La macchina inghiottì il primo foglio e lo restituì senza un segno.
+«È la più riservata della storia», rispose Noah. «Non c'è scritto niente.»
 
-Mila lo sollevò. «Abbiamo trovato lo sviluppatore ideale. Non sporca una pagina.»
+Sollevò il documento. «B-17, guarda. Il lato con la firma deve toccare il vetro. Non basta metterlo dritto.»
 
-B-17 verificò la copia con il proprio sensore. Sullo schermo comparve **CONTENUTO NON RILEVATO**. Aprì il coperchio e guardò la scheda che aveva sistemato con tanta precisione.
+«Lato scritto contro il vetro», ripeté il robot.
 
-«Il lato scritto», disse Paul, tenendo le mani fuori dall'area di movimento. «Va verso il vetro.»
+«Esatto. Riprova.»
 
-«Non può semplicemente capirlo?», chiese Mila.
+B-17 girò il foglio. Questa volta uscì una copia con la firma, il numero di revisione e due righe tagliate in fondo.
 
-«Ha capito che la copia è sbagliata. È diverso dall'avere il polpastrello adatto a girare una carta lucida.»
+Paul la prese per un angolo. «Se dovevamo eliminare la parte importante, direi che ci siamo.»
 
-Il robot invertì la scheda. La seconda copia mostrò la firma, ma mancavano due righe in fondo alla pagina. Il foglio aveva ruotato leggermente durante la chiusura del coperchio.
+«Fermo», disse Noah al robot. Indicò il riferimento sulla superficie. «Il bordo deve coincidere con questa linea. Il testo va tutto dentro l'area utile.»
 
-Un avviso di procedura lasciava due altri tentativi prima della sospensione. Paul controllò il documento: non era stato graffiato, e la firma era ancora intatta.
+Rimise l'originale in posizione e lasciò che B-17 ripetesse il gesto. La copia successiva era completa.
 
-«C'è una cornice magnetica», disse.
+Elena Fischer arrivò poco dopo, chiamata per approvare il documento. Confrontò numero di revisione, firma e contenuto.
 
-«Cosa?», chiese Mila.
+«Questa va bene. Ora ne servono altre due identiche. E l'originale non lo usate per imparare a fare origami.»
 
-«Quella che abbiamo comprato quando ci accorgemmo che il sistema di alimentazione prendeva due fogli insieme. L'abbiamo messa nel cassetto perché sembrava più scomoda del problema.»
+«Un'altra prova e lo rimettiamo via», disse Noah.
 
-La cercò tra un cavo elettrico, tre penne senza tappo e la custodia di un vecchio manuale. La cornice era una sottile struttura flessibile. Paul la poggiò sul banco.
+«Con un foglio qualsiasi, allora.» Elena ripose l'originale nella custodia, richiuse il fermo e la appoggiò fuori dalla portata della macchina.
 
-«Serve l'autorizzazione di Elena per modificare il modo di tenere l'originale», aggiunse. «Non perché la cornice sia pericolosa. Perché il documento è suo e la verifica finale resta a lei.»
+Noah prese un foglio bianco, scrisse *TEST* in un angolo e lo posò sul vetro in diagonale.
 
-Elena arrivò con il telefono in mano, già irritata per il ritardo. Si fermò vedendo la prima copia completamente bianca.
+«B-17, fai una copia leggibile. Puoi spostarlo come serve.»
 
-«Non vi bastavano le tre copie richieste?»
+«Lato scritto contro il vetro. Bordo sul riferimento.»
 
-«Questa», disse Mila, «è un'opera d'arte.»
+«Sì.»
 
-Paul le spiegò il problema. Elena controllò il motivo del nuovo passaggio, approvò il tentativo con la cornice e rimase a verificare.
+Il robot afferrò il foglio, lo capovolse e lo portò verso la posizione nella quale aveva visto Noah mettere l'originale. Un angolo rimase fuori dall'area utile. Sulla stampa comparve soltanto *TE*.
 
-B-17 prese l'accessorio. Lo posizionò sul vetro e vi infilò la scheda fino a quando i margini rimasero allineati. Il coperchio si chiuse con un rumore diverso, meno secco.
+Noah lo rimise storto, questa volta dall'altro lato.
 
-La terza copia conteneva tutto.
+«Ragioniamo per obiettivo», disse. «Non rifare lo stesso movimento. Prima controlla dove si trova la parola. Poi assicurati che sia rivolta verso il vetro e che rientri nell'area.»
 
-Paul confrontò le righe una per una. Elena controllò la firma. Solo dopo confermò l'esito. B-17 proseguì a produrre le altre copie e lasciò l'originale nel vassoio protetto.
+B-17 fece una pausa di elaborazione.
 
-«Da tagliaerba a impiegato modello», disse Mila.
+«Istruzione ricevuta.»
 
-«Modello no», rispose Paul. «L'impiegato modello avrebbe trovato la cornice da solo.»
+La nuova copia riportava *EST*. Mancava ancora la prima lettera.
 
-Il robot lasciò il vassoio sul banco e attese che Elena confermasse la presa in carico.
+Paul trattenne una risata. «Ha fatto un progresso.»
 
-Elena mise la scheda nella cartellina prima che qualcuno potesse appoggiarci sopra la prima copia bianca.
+«Ha sbagliato dall'altro lato.»
 
-«Per favore», disse, «la prossima volta chiamatemi prima del terzo tentativo. È l'unico originale firmato che abbiamo.»
+«Appunto. Varietà.»
 
-Paul fece un cenno. Mila aveva già preso il foglio inutilizzabile.
+Noah spostò un terzo foglio, questa volta con la parola al centro. Non toccò i bracci del robot.
 
-Mila teneva ancora la prima copia. Con una penna scrisse sul bordo: **PRIMO CAPOLAVORO DI B-17**.
+«Prova a dirmi che cosa stai controllando.»
 
-«Non attaccarla in sala», disse Paul.
+«Orientamento del lato scritto. Allineamento sul riferimento. Area di acquisizione.»
 
-«Mai. La metto alla macchina del caffè.»
+«Bene. E allora fallo.»
 
-B-17 prese il contenitore delle copie, ruotò per uscire e dovette fermarsi perché Elena era rimasta sulla porta. Lei si spostò; il robot passò.
+Il braccio eseguì la stessa presa del tentativo precedente. Sul vetro il foglio risultò ruotato, una parte della scritta oltre la cornice.
 
-Paul sentì una risata provenire dal corridoio.
+Noah guardò la stampa senza parlare.
 
-Guardò il cassetto dove aveva trovato la cornice. Era stata lì per anni, disponibile e dimenticata. Prese un'etichetta adesiva e scrisse **CORNICE QUI — PER ORIGINALI SOTTILI**.
+Il robot poteva ripetergli l'intera sequenza in un italiano corretto. Eppure, appena cambiava la posizione del foglio, sembrava perdere il collegamento tra le parole e ciò che la telecamera vedeva. Noah aveva trascorso la notte precedente a correggere un agente software che sapeva generare un adattatore intero. Qui aveva davanti una macchina che inciampava su un angolo di carta.
 
-Prima di chiudere il cassetto Paul fotografò l'etichetta e la allegò alla scheda della fotocopiatrice. Il collega del turno di sera l'avrebbe letta senza dover chiedere chi ricordasse quella cornice.
+«Lascia stare quel test», disse Elena. «Devo consegnare le copie prima delle dieci.»
 
-«Paul?», lo chiamò Mila dalla nicchia. «B-17 ha fatto una copia che non serve a nessuno e adesso tutti vogliono vederla.»
+Noah si scostò. «Hai ragione. Facciamo la cosa semplice.»
 
-«Succede anche con le presentazioni aziendali», rispose.
+Mise il foglio di prova in una posizione fissa e indicò i due riferimenti.
 
-Rimise la cornice nel cassetto, stavolta sul davanti.
+«Per questo incarico prendi sempre il foglio da questo lato. Appoggialo esattamente qui. Se la posizione cambia, fermati e chiedi a una persona. Non tentare di correggere da solo.»
+
+B-17 eseguì. Stavolta la stampa uscì intera.
+
+Paul sollevò il foglio. «Eccolo. Ce l'ha fatta.»
+
+«Con i riferimenti fermi», disse Noah. «Per il resto dobbiamo trovare un altro modo di spiegarglielo.»
+
+«Oppure fargli fare il corriere», rispose Paul.
+
+Elena riaprì la custodia, sistemò personalmente l'originale sul riferimento e autorizzò B-17 a produrre le due copie mancanti, senza spostare il foglio tra una stampa e l'altra. Poi rimise l'originale sotto protezione.
+
+Prese le due copie definitive, verificò che corrispondessero all'originale e approvò la missione. Soltanto allora B-17 richiuse il contenitore e lo sollevò.
+
+Noah guardò il robot allontanarsi, poi il foglio di prova rimasto sul tavolo. Sul margine c'erano tre parole tagliate in tre modi diversi.
+
+Il suo portatile vibrò: qualcuno lo cercava sull'altra commessa.
+
+Lo aprì, lesse il messaggio, poi infilò il foglio sbagliato fra le pagine del taccuino. Non era una prova da mostrare a nessun cliente. Per qualche ragione non voleva buttarla.

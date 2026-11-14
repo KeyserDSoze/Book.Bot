@@ -36,3 +36,7 @@ L'aggressione conserva la propria gravità e l'unica responsabilità degli aggre
 ## Quindicesima review — il danno non si assolve da solo
 
 **Quindicesima review:** Ethan e Marcus agiscono e colpiscono B-17 dopo richieste di fermarsi: l'incontro teso e la perdita di opportunità lavorative spiegano il contesto, non assolvono. La scena 6/003 chiarisce che Ethan intendeva rappresentare Claire senza consenso e che Marcus entra nel passaggio di B-17 con un gesto indipendente. Non scrivere l'aggressione come un semplice incidente improvviso o confondere la responsabilità di B-17 e quella dei manager aziendali.
+
+## Raccordo causale con i capitoli 2 e 10
+
+Nel cap. 2 un urto accidentale provoca la sequenza di raccolta e disattivazione protettiva prescritta dal fabbricante. Durante l'aggressione del cap. 6, malgrado gli urti ripetuti, B-17 **non** entra in quella sequenza: continua a cercare equilibrio e a parlare fino ai danni gravi. Il contrasto è visibile ai testimoni ma non viene ancora spiegato. Noah osserva l'anomalia e ha un motivo privato per esserne turbato; **la sua modifica del blocco di sicurezza e il senso di colpa esplicito vengono rivelati al lettore soltanto al capitolo 10**. Ethan e Marcus restano i responsabili dell'aggressione intenzionale; l'intervento di Noah può avere aggravato le conseguenze materiali, non causato le loro decisioni.

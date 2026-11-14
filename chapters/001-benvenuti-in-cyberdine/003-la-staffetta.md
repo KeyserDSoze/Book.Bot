@@ -9,6 +9,7 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:visitors
+  - character:anika-rao
   - character:daniel-reed
   - character:b-17
 locations:
@@ -18,46 +19,92 @@ factions:
   - faction:aruvhana
 ---
 
-Il telefono vibrò mentre Kyla parlava della manutenzione degli impianti. Vide il mittente, Daniel Reed, e si scusò con la delegazione.
+Il telefono vibrò per la quarta volta mentre Kyla spiegava dove finivano i vecchi terminali che Cyberdine conservava per le prove.
 
-L'email era precisa, e per questo peggiore di un messaggio vago: test live fallito; integrazione non validata; scelta operativa di procedere con un mock; Kyla in copia per autorizzare la presentazione. Daniel aveva messo nero su bianco anche le obiezioni dei tecnici.
+Questa volta non era una chat.
 
-Kyla sentì salire l'irritazione. Non con Daniel, che almeno aveva preso una decisione, ma con il fatto di averlo scoperto mentre cercava di convincere tre persone che Cyberdine sapeva mantenere le proprie promesse. Non poteva portarli in laboratorio. Non ancora.
+*Oggetto: Aruvhana — decisione operativa sulla demo Bridgeglass.*
 
-Alzò la testa. «Scusatemi, era un messaggio importante. Prima della dimostrazione vorrei mostrarvi un'ultima cosa. È arrivata da poco e ne siamo particolarmente fieri.»
+«Scusatemi», disse. «Devo leggere un messaggio importante.»
 
-Li condusse in giardino, dove un robot stava tagliando l'erba sotto la supervisione di un giardiniere. La bordura non era perfetta; la macchina si fermò davanti a una borsa dimenticata su una panchina e aspettò che qualcuno la spostasse.
+Sahir si scostò per lasciarla passare, ma non smise di guardare l'orologio.
 
-«B-17, vieni qui», chiamò Kyla.
+Kyla lesse l'email di Daniel fino in fondo. Poi la rilesse dal punto in cui cominciava *il collegamento live ha fallito*. Non c'era nessuna frase rassicurante a cui aggrapparsi: mock, dati sintetici, integrazione non validata, obiezioni del team. Daniel si era assunto la decisione operativa, ma aveva rimesso a lei quella di mostrare il risultato agli ospiti.
 
-Il robot interruppe il lavoro, mise in sicurezza l'attrezzo e percorse il vialetto fino al punto di arresto davanti al gruppo. Una piccola luce sul torace confermò che era in modalità interazione.
+Un'ora prima avrebbe potuto cancellare la visita. Adesso i visitatori erano già lì.
 
-«Non lo avete costruito voi», osservò Anika.
+Kyla alzò la testa.
 
-«No. L'hardware viene da un produttore esterno. Noi sviluppiamo le integrazioni, le autorizzazioni e i flussi che lo rendono utile qui dentro. B-17 è il diciassettesimo bot registrato nel nostro sistema: non la diciassettesima versione.»
+«Vi ringrazio per l'attesa. Riprendendo: vorrei farvi vedere un'ultima cosa. Siamo particolarmente fieri di come abbiamo cominciato a usare i robot nel campus.»
 
-Kyla gli chiese di mostrare la configurazione degli accessori. Sul display comparvero il modulo per la manutenzione del verde, il supporto per trasportare piccoli carichi e il vassoio per le consegne interne. B-17 sollevò lentamente il braccio libero e mostrò l'aggancio, senza simulare l'uso di un attrezzo che non aveva montato.
+Sahir allargò le braccia. «E Bridgeglass?»
 
-«Porta anche il caffè?» chiese Leïa.
+«Ci arriviamo. Questa è appena fuori.»
 
-«Con il vassoio adatto può consegnarlo tra le postazioni autorizzate. Non gli facciamo preparare bevande e non gli permettiamo di attraversare corridoi affollati con liquidi caldi senza supervisione. Oggi, per esempio, taglia il prato. Domani potrebbe trasportare materiale leggero. Non è una macchina che fa tutto soltanto perché ha due braccia.»
+Li condusse in giardino. Il prato era ancora umido e il giardiniere stava rifacendo un tratto di bordura che la macchina aveva lasciato irregolare. B-17 procedeva dietro il tagliaerba elettrico, evitando la ghiaia del vialetto. Sul ginocchio aveva una striscia d'erba fresca.
 
-Sahir girò intorno al robot. «E chi decide quando può cambiare attività?»
+«B-17, vieni qui!»
 
-«Un responsabile autorizza la missione. Il robot controlla che gli accessori siano quelli previsti e che il percorso sia consentito. Se manca una condizione, si ferma e chiede aiuto.»
+Il robot fermò l'attrezzo, attese che la lama fosse immobile, poi lasciò il tagliaerba nello spazio segnato dal giardiniere. Attraversò il prato e si arrestò a distanza dal gruppo.
 
-Kyla gli fece mostrare sul display una missione di consegna, senza eseguirla. Spiegò la ricarica, la sostituzione controllata dei moduli batteria e la differenza fra un agente software che propone un'azione e una macchina fisica che deve poterla interrompere. Leïa fece domande sugli spazi condivisi; Anika sui registri degli interventi; Sahir volle sapere chi rispondeva se un oggetto cadeva.
+«Unità B-17 disponibile.»
 
-Kyla rispose a tutti. Parlava con naturalezza, ma ogni volta che una domanda finiva sentiva il telefono pesare nella tasca. Stava allungando la visita, non perché il robot fosse irrilevante, ma perché dietro le vetrate qualcuno aveva bisogno di minuti che lei poteva ancora procurargli.
+Leïa sorrise. «Almeno lui è puntuale.»
 
-B-17 tornò a tagliare l'erba. Il giardiniere lo seguì per controllare un angolo che la macchina aveva saltato.
+Sahir lesse il numero sul torace. «B-17. Diciassettesimo prototipo?»
 
-Il telefono vibrò di nuovo. *Daniel: simulazione pronta. Nessun collegamento live. Possiamo riceverli quando autorizzi. Ti spiego tutto prima di iniziare.*
+«Diciassettesimo bot registrato da noi. B-1 era un centralino automatico che smistava le telefonate, senza neppure un braccio. Non confondiamo i numeri con le generazioni di hardware.»
 
-Kyla lesse due volte. Rispose: *Arrivo. Prima voglio vedere le etichette e sapere esattamente cosa stiamo mostrando.*
+Kyla fece aprire al robot il pannello degli accessori. Sul display comparvero tre sagome: un aggancio da giardinaggio, un supporto per piccoli carichi e un vassoio di trasporto.
 
-«Grazie per la pazienza», disse alla delegazione. «Ora possiamo passare a Bridgeglass.»
+«Non fabbrichiamo l'hardware», spiegò. «Questo arriva dalla Cina. Noi lo registriamo, definiamo le attività permesse e lo inseriamo nel servizio interno. Oggi il giardino, con l'attrezzo montato. In altri turni le consegne di documenti e materiali. Con il vassoio corretto anche il caffè.»
 
-Sahir guardò il laboratorio oltre il vetro. «Finalmente.»
+«Quindi può entrare in ufficio e fare quello che gli chiedete?» domandò Sahir.
 
-Kyla sorrise. Era la risposta che si meritava.
+«Non qualsiasi cosa.»
+
+Kyla prese dal tavolino del giardiniere una custodia leggera e la posò sul bordo del vialetto.
+
+«B-17, portala alla porta dell'edificio.»
+
+Il robot guardò la custodia. Sul torace apparve *accessorio non verificato*. Non la raccolse.
+
+«Richiesta in attesa di autorizzazione dell'attrezzo.»
+
+Sahir guardò Kyla. «Questa sarebbe la parte impressionante?»
+
+«La parte impressionante è che non cerchi di accontentarmi a ogni costo.» Kyla riportò la custodia sul tavolo. «Con gli attrezzi e i percorsi autorizzati sa fare il lavoro. Il resto non glielo facciamo improvvisare davanti agli ospiti.»
+
+«Quanto dura la batteria?» chiese Anika.
+
+«Dipende da cosa sta facendo.» Kyla indicò il livello sul display, sceso durante il lavoro sul prato. «La sostituiamo a intervalli controllati. Un'unità che lavora in continuità non significa un'unità che non debba mai fermarsi.»
+
+Il giardiniere si avvicinò. «Fra cinque minuti devo cambiargli il modulo. Poi mi manca il lato delle siepi.»
+
+«Ti lascio finire», rispose Kyla.
+
+L'uomo non attese che la visita fosse conclusa: controllò il fermo dell'attrezzo e rimise in posizione il tagliaerba. B-17 tornò verso la linea verde soltanto quando il responsabile gli diede il comando.
+
+Kyla vide Leïa seguire i movimenti con interesse sincero. Anika, invece, continuava a guardare l'edificio.
+
+«Una macchina che rispetta i limiti», disse. «È la stessa promessa che fate con Bridgeglass.»
+
+«Sì.»
+
+«Allora vorrei capire se avete potuto verificarla anche lì.»
+
+Il telefono vibrò.
+
+*Daniel: simulatore pronto. Nessun collegamento live. Il test reale resta rosso. Se autorizzi, possiamo ricevervi; prima devo parlarti.*
+
+Kyla sentì una stretta allo stomaco. Aveva guadagnato i minuti che Daniel chiedeva. Non aveva guadagnato una prova reale.
+
+Rispose: *Arrivo. Le etichette devono essere visibili. Voglio i log pronti.*
+
+«Torniamo dentro», disse.
+
+Sahir si incamminò per primo. «Speravo proprio che lo dicessi.»
+
+Mentre rientravano, B-17 si fermò davanti alla bordura e aspettò che il giardiniere spostasse un tubo dal prato. Kyla guardò quel piccolo arresto, poi la porta del laboratorio.
+
+Avrebbe voluto che fosse altrettanto semplice spiegare agli ospiti perché Bridgeglass non poteva continuare.

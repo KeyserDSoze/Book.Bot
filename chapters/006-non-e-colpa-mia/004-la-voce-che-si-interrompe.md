@@ -79,7 +79,7 @@ Noah Carter comparve dalla parte degli uffici di sviluppo. Aveva ancora il tesse
 
 «Sì. Hanno il numero di serie e la diagnostica. Non possiamo toccarlo.»
 
-Noah annuì. Strinse il rotolo tanto da piegare il cartoncino centrale, poi fece spazio ai tecnici. Maya non aveva la forza di chiedergli perché fosse venuto.
+Noah annuì. Guardò il busto di B-17, le braccia rimaste fuori dalla posizione di raccolta e il pannello di allarme ancora acceso. Si fermò più a lungo del necessario su quel particolare. Strinse il rotolo tanto da piegare il cartoncino centrale, poi fece spazio ai tecnici. Maya non aveva la forza di chiedergli perché fosse venuto.
 
 Kyla arrivò dal corridoio principale, accompagnata da un responsabile della sicurezza. Teneva il telefono in mano ma non lo guardava. Sul volto aveva un'espressione composta che a Maya ricordò la mattina in cui aveva parlato a Claire della posizione senior scomparsa.
 

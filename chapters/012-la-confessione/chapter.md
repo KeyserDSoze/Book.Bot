@@ -39,3 +39,7 @@ In 001 Noah descrive l'installazione non autorizzata, l'accesso clandestino e an
 ## Quindicesima review — il danno non si assolve da solo
 
 **Quindicesima review:** nel 12/002 Leah deve distogliere un analista da un incidente ordinario per preservare tracce in scadenza della backdoor: la verifica è concreta e costosa. Nel 12/003 Maya ottiene che sia registrata la propria richiesta di limitazione del trattamento della confidenza; non riceve una promessa assoluta né diventa testimone obbligata della bontà di Noah. La causa delle capacità di Bi è già rivelata al lettore al capitolo 10; qui si svolge la confessione ai colleghi.
+
+## Arresto protettivo e responsabilità
+
+Nel 12/001 Noah dichiara a Leah e Kyla anche di aver disabilitato senza autorizzazione il blocco di sicurezza che nel 2 aveva fatto raccogliere B-17 dopo l'urto con Malik. Nel 6 la macchina non lo esegue durante l'aggressione. Leah distingue la scelta violenta di Ethan e Marcus dalla possibile amplificazione del danno provocata da Noah; l'impatto effettivo richiede perizia. Questa ammissione è la confessione ai personaggi di una colpa tecnica già rivelata al lettore nel cap. 10. Non presentare come certo il controfattuale né sostituire gli accertamenti.

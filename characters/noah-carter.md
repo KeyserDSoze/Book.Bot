@@ -13,7 +13,7 @@ Sviluppatore software di Cyberdine, specializzato in integrazione di modelli, si
 
 Nel capitolo 10 riceve dal proprio appartamento una notifica che l'unità B-17, data per ferma dopo l'aggressione e la mancata riparazione, è stata riaccesa dall'altra parte del mondo. Vede attraverso le sue telecamere un campo di guerra simulata tra robot, con attrezzature da addestramento e supervisione umana. **Osserva senza intervenire nel combattimento**; l'esistenza stessa del collegamento clandestino rimane una violazione da accertare.
 
-Fino al capitolo 12 Noah non è noto ai colleghi come autore dell'aggiornamento. Nella revisione editoriale della v0.15.0 è presente già dal capitolo 1: Kyla lo vede assistere un collega con un varco bloccato; nel capitolo 2 osserva la vicenda delle fotocopie; nel capitolo 3 assiste al primo saluto insolito di B-17 senza intervenire; nel capitolo 6 prima conia la battuta «bot-piattisti» di fronte alla fazione anti-robot e poi vede B-17 danneggiato; nel capitolo 8 esce dalla plenaria quando compare il codice B-17; nel capitolo 9 guarda arrivare l'unità sostitutiva. Le presenze sono esterne e ordinarie; nessuna rivela la causa del cambiamento prima del capitolo 10.
+Fino al capitolo 12 Noah non è noto ai colleghi come autore dell'aggiornamento. Nel capitolo 1 compare in laboratorio, arrivato tardi per una commessa diversa: legge rapidamente i log del retry Bridgeglass e propone un mock dichiaratamente sintetico, senza sostituirsi al PM Daniel né rivendicare una soluzione del bug. Nel capitolo 2 accetta un caffè da B-17, ne osserva gli errori di fotocopia e ne prova i limiti. Nel 3 vede il salto conversazionale senza spiegazioni; nel 6 scherza sui «bot-piattisti» e assiste solo alle conseguenze dell'aggressione; nell'8 esce dalla plenaria quando appare B-17, nel 9 vede arrivare B-21. L'autore del cambiamento diventa noto al lettore soltanto nel 10.
 
 
 ## La battuta che diventa politica
@@ -48,7 +48,7 @@ Nel 10 evita per giorni di rispondere a una richiesta banale della madre per un 
 
 ## Revisione v0.32.0 — Software e robot
 
-La sua scelta clandestina avviene dopo il periodo di lavoro nei giardini del capitolo 1, ma prima delle prime commissioni di ufficio del capitolo 2; il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Noah è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro. Proprio la sua successiva assunzione a Veyra Labs rende evidente il problema: il mercato del talento non coincide con il giudizio morale sui suoi atti.
+La sua scelta clandestina avviene **dopo il capitolo 2 e prima del capitolo 3**: B-17 gli porta un caffè, fallisce alcune fotocopie nonostante spiegazioni riformulate e si arresta per sicurezza dopo l'urto con Malik; è questo che suscita l'interesse di Noah. Solo in seguito egli interviene clandestinamente sul modello e sul blocco antiurto;  il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Noah è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro. Proprio la sua successiva assunzione a Veyra Labs rende evidente il problema: il mercato del talento non coincide con il giudizio morale sui suoi atti.
 
 
 ## Raccordo finale v0.34 — il lessico del ritiro
@@ -58,7 +58,7 @@ Noah contribuisce sotto supervisione alla predisposizione del programma di cance
 
 ### Correzioni di conoscenza e svolta morale — revisione in corso
 
-Nel cap. 1 Noah non ignora il bisogno dell'addetto bloccato alla porta: lo fa passare attraverso un ingresso alternativo e poi torna alla verifica. Nel cap. 35 ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Maya; non usare la sua passata backdoor per colmare questo vuoto. Quando Maya lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. Egli stesso è chiamato a scegliere, non è costretto a confermare il ritiro. La prova che non ha omesso questa volta non equivale a un'assoluzione.
+Nel capitolo 1 il varco bloccato viene affrontato da un tecnico della manutenzione, non da Noah, che lavora su un'altra commessa e interviene solo nella crisi Bridgeglass. Nel cap. 35 Noah ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Maya; non usare la sua passata backdoor per colmare questo vuoto. Quando Maya lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. La prova che non ha omesso non equivale a un'assoluzione.
 
 
 ## Terza passata: parlare non è collaudare
@@ -91,3 +91,7 @@ Nel **10/001** l'autonomia energetica del modello sperimentale è una prova espl
 ## Diciannovesima review — ciò che non può dichiarare a un giornalista
 
 Nel **19/002** Noah, intervistato da Olivia Brooks, non può affermare che il modulo commerciale di Lanter **non** contenga nulla del proprio codice: non ha la documentazione di quel prodotto. Può dire che conosce l'uso dichiarato di alcuni risultati di B-17 e che la copia diretta resta non accertata. Non firma l'investimento che gli chiederebbe di rivendicare diritti su sviluppi altrui. La prudenza tardiva non assolve la backdoor o il test sfavorevole non portato in revisione.
+
+## Raccordo di sicurezza capitoli 2 → 6 → 10 → 12
+
+Nel capitolo 2 Noah riceve da B-17 un caffè sigillato, lo assiste nelle fotocopie e vede che il robot ripete procedure ma non generalizza una spiegazione. Dopo un urto accidentale con Malik l'unità esegue regolarmente la protezione di fabbrica: si raccoglie e si disattiva. **Tra 2 e 3**, lavorando senza autorizzazione, Noah modifica le capacità conversazionali e disabilita anche il blocco protettivo dopo impatto. Crede di evitare interruzioni dei propri esperimenti, non prevede l'aggressione, ma viola una funzione di sicurezza. Nel 6 il robot continua a muoversi e parlare durante i colpi, anziché arrestarsi; Noah è scosso ma l'origine della differenza non è rivelata. Nel **10/001** il lettore scopre la decisione e il suo rimorso. Nel **12/001–002** Noah dichiara a Leah e Kyla la disabilitazione; l'effetto preciso sui danni va ancora accertato. La violenza di Ethan e Marcus resta responsabilità loro e la colpa tecnica di Noah non ne diminuisce la gravità.

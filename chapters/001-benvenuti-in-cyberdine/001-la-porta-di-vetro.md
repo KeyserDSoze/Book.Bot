@@ -12,6 +12,7 @@ characters:
   - character:anika-rao
   - character:gavin-shaw
   - character:daniel-reed
+  - character:b-17
 locations:
   - location:cyberdine-campus
 factions:
@@ -19,38 +20,78 @@ factions:
   - faction:aruvhana
 ---
 
-Alle nove e diciassette il collegamento con il terminale di prova smise di rispondere. Kyla Morgan non lo sapeva ancora. Aspettava nell'atrio la delegazione di Aruvhana, arrivata per decidere se affidare a Cyberdine l'estensione di Bridgeglass: una piattaforma capace di collegare vecchi terminali industriali a sistemi moderni con l'aiuto di agenti AI. Il valore della proposta era semplice da spiegare e difficile da dimostrare: un ordine inviato una sola volta, anche quando la rete cadeva e tornava.
+Alle nove e diciassette Kyla Morgan ricevette un messaggio che non avrebbe dovuto ricevere.
 
-Il telefono vibrò. Gavin Shaw: *Demo rossa. Malik sta verificando. Serve tempo.*
+*Gavin: Bridgeglass rosso. Non portare ancora nessuno in laboratorio.*
 
-Kyla cancellò la notifica proprio mentre le porte scorrevoli si aprivano.
+L'auto della delegazione stava già entrando nel parcheggio. Kyla controllò l'ora e rispose: *Quanti minuti?*
 
-«Benvenuti in Cyberdine.»
+Comparvero i tre puntini. Scomparvero. Nessuna risposta.
 
-Anika Rao le strinse la mano senza indugiare. Sahir Venn guardò oltre la reception, verso le postazioni di sviluppo; Leïa Orren si fermò davanti alla vetrata del giardino.
+Aveva passato settimane a convincere Aruvhana a venire di persona. L'estensione del contratto avrebbe dato a Cyberdine lavoro per mesi; senza quella firma, il gruppo integrazioni avrebbe dovuto difendere ogni ora davanti a Delivery. Quel giorno non serviva una bella presentazione. Serviva mostrare Bridgeglass su un terminale industriale vero.
 
-«La dimostrazione è sul terminale reale?» chiese Anika.
+Le porte a vetri si aprirono.
 
-«È quello che abbiamo preparato per voi», rispose Kyla. Non aggiunse che, in quel preciso momento, non sapeva se il terminale avrebbe risposto.
+«Anika, benvenuta.»
 
-Li accompagnò lungo il corridoio delle sale di lavoro. Cyberdine non costruiva gli impianti dei clienti: scriveva il software che consentiva a macchine di epoche diverse di scambiarsi operazioni senza perdere il controllo di chi le aveva autorizzate. Kyla mostrò una parete con ticket, proposte di modifica generate dagli agenti e test ancora da approvare.
+Anika Rao strinse la mano di Kyla con la cartella ancora sotto il braccio. Sahir Venn alzò gli occhi verso i monitor dell'atrio. Leïa Orren si fermò davanti alla vetrata: oltre il vialetto, un robot seguiva un tagliaerba elettrico sotto lo sguardo di un giardiniere.
 
-«Quindi l'agente programma al posto dei vostri sviluppatori?» domandò Sahir.
+«Da quando avete anche quelli?» chiese Leïa.
 
-«Prepara soluzioni e test. La responsabilità di capire cosa succede su una macchina vera rimane nostra.»
+«Ve lo faccio vedere tra poco.»
 
-Una porta di servizio emise un segnale verde senza aprirsi. Un addetto chiamò la manutenzione; un tecnico arrivò con la custodia degli attrezzi, controllò il registro e fece usare il passaggio laterale prima di intervenire sul fermo.
+«Preferirei cominciare dalla macchina che ci avete promesso», disse Sahir.
 
-«Una bella pubblicità per l'automazione», osservò Leïa.
+Kyla sorrise. «Ci arriviamo.»
 
-«È una buona pubblicità per chi sa fermarla quando serve», rispose Kyla.
+Il telefono vibrò di nuovo.
 
-Il telefono vibrò ancora. *Daniel Reed: abbiamo un problema serio sul retry. Ti aggiorno.* Daniel era il project manager di Aruvhana: se scriveva così, la questione non riguardava una schermata lenta. Kyla infilò il telefono in tasca. Non poteva trascinare i clienti davanti a un team in crisi; non poteva neppure cancellare la demo.
+*Daniel: stiamo verificando una doppia esecuzione dopo il timeout. Ti aggiorno.*
 
-«Prima di entrare nel laboratorio», disse, «vorrei mostrarvi come lavoriamo quando una macchina non si comporta come previsto.»
+Daniel Reed non scriveva *doppia esecuzione* per un problema di grafica. Era il project manager di Aruvhana e conosceva il peso che quelle due parole avevano per un cliente con impianti vecchi e costosi. Kyla ripose il telefono con lo schermo rivolto all'interno della giacca. Sotto la notifica di Daniel ne restava una dell'amica con cui aveva promesso di andare al cinema: *Stasera ci sei? Ho già preso i biglietti.* Non la aprì.
 
-Sahir sorrise appena. «Mi auguro che non sia una preparazione alla dimostrazione.»
+«Prima di Bridgeglass, vorrei farvi vedere il tipo di lavoro per cui ci chiamano», disse.
 
-«Mi auguro anch'io di no.»
+Attraversarono il reparto sviluppo. Dietro una vetrata una donna stava confrontando due finestre: una modifica proposta da un agente AI, a sinistra, e un vecchio sorgente pieno di annotazioni, a destra. Con il cursore cancellò una riga suggerita dall'agente e tornò a leggere il codice precedente.
 
-Continuarono a camminare. Dietro una parete di vetro, qualcuno si alzò troppo in fretta da una scrivania. Kyla riconobbe Malik, ma non lo chiamò. Avrebbe chiesto spiegazioni a Daniel non appena avesse avuto un minuto senza tre paia di occhi addosso.
+Sahir rallentò. «Quindi ormai sono gli agenti a programmare.»
+
+«A scrivere buona parte del primo tentativo», disse Kyla. «Quel che vedete adesso è una sviluppatrice che decide se il primo tentativo può diventare software di un cliente.»
+
+«E se non può?»
+
+La donna dietro il vetro rimandò la modifica in revisione. Il riquadro verde dei test non cambiò colore.
+
+«Resta lì», disse Kyla.
+
+A metà corridoio una porta di servizio segnalava accesso consentito, ma il fermo non si apriva. Un addetto provò il badge, una volta sola, poi chiamò la manutenzione. Un tecnico gli fece utilizzare il passaggio laterale e rimase a controllare il blocco.
+
+Leïa indicò la luce verde. «Il sistema dice che funziona.»
+
+«Il lettore dice che il badge è valido», rispose Kyla. «La serratura, a quanto pare, non è d'accordo.»
+
+Sahir sorrise appena. «Spero che Bridgeglass riesca a distinguere le due cose.»
+
+Kyla stava per rispondergli quando arrivò un altro messaggio.
+
+*Gavin: Malik è sui log. Nessuna stima affidabile.*
+
+La vetrata del laboratorio era a pochi passi. Dietro, Malik Okafor attraversò una postazione con un portatile aperto, si fermò davanti a un collega e indicò qualcosa sullo schermo. Anche da lontano Kyla riconobbe il gesto di chi aveva smesso di spiegare e aveva cominciato a discutere.
+
+Anika si voltò verso di lei. «Una domanda prima di entrare. Se il terminale riceve il nostro ordine, ma la connessione cade prima che ci restituisca la conferma, cosa fa Bridgeglass?»
+
+Era esattamente la domanda prevista nella demo.
+
+«Non deve inviare una seconda operazione», disse Kyla. «Deve riconoscere la prima, recuperare lo stato e mostrarvi cosa è successo davvero.»
+
+«Bene. È questo che vogliamo vedere.»
+
+Kyla guardò la porta del laboratorio. Dietro il vetro Malik si passò entrambe le mani sul volto.
+
+«Vi chiedo qualche minuto», disse. «Voglio che il tecnico vi mostri il passaggio completo, non soltanto un'animazione.»
+
+Sahir controllò l'orologio.
+
+«Qualche minuto», ripeté.
+
+Kyla annuì e si voltò verso il corridoio lungo. Doveva trovare un modo per riempirlo.
