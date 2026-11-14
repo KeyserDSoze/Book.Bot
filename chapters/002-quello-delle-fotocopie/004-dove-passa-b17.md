@@ -16,50 +16,52 @@ factions:
   - faction:cyberdine
 ---
 
-Il percorso verso il deposito passava davanti all'uscita laterale della sala riunioni.
+L'ascensore di servizio riportò B-17 al piano della sala riunioni.
 
-Nella ripresa frontale di B-17 la porta occupava il margine destro. Più avanti, la linea gialla curvava verso il corridoio dei materiali. Il contenitore delle copie era già stato consegnato; le mani del robot erano libere.
+La nuova destinazione era il deposito dei materiali, oltre il corridoio centrale. Il contenitore delle copie era stato consegnato. Le mani dell'unità erano libere.
 
-Da dietro la porta provennero più voci. Una disse «Malik». Un'altra rispose con parole che il microfono acquisì solo in parte.
+La porta laterale della sala riunioni occupava il margine destro della ripresa frontale. Dietro, due voci superavano la soglia di riconoscimento acustico. Nessuna delle due pronunciava l'identificativo del robot.
 
-Poi la porta si spalancò.
+«E allora diteci almeno quale parte dovremmo tagliare!» gridò Malik.
 
-«Allora fatevelo da soli!», gridò Malik, uscendo. «Se questo è il modo in cui dobbiamo lavorare, cacciateci pure! Io non lavoro per consegnare cose tanto per farle. Le faccio perché funzionino, perché siano fatte bene!»
+Una risposta arrivò dalla stanza. La porta si spalancò prima che il microfono ne completasse l'acquisizione.
 
-Dalla stanza Kyla disse qualcosa, ma Malik non tornò indietro.
+«No, basta! Se ogni volta finisce che dobbiamo consegnare qualsiasi cosa pur di consegnarla, allora cacciateci!»
 
-«Quattro notti alle quattro! E adesso sarebbe colpa nostra se vi abbiamo detto che non era pronto?»
+Malik uscì di scatto. La porta rimbalzò contro il fermo e tornò indietro.
 
-Fece un passo brusco nel corridoio senza guardare alla propria sinistra.
+«Io non lavoro per fare le cose tanto per farle! Le voglio fatte bene. Se questo non vi serve più, ditelo!»
 
-B-17 rilevò una persona in attraversamento e iniziò l'arresto. Le due traiettorie si incrociarono prima che lo spazio residuo fosse sufficiente. La spalla di Malik urtò con forza il torace dell'unità, sbilanciandola contro la parete.
+B-17 rilevò una persona nel percorso e avviò la frenata. La distanza si ridusse più rapidamente del margine previsto: Malik, ancora rivolto verso la stanza, fece un passo di lato senza guardare.
 
-Malik vacillò, allargò un braccio e recuperò l'equilibrio.
+La sua spalla colpì il torace del robot. B-17 arretrò contro la parete. Un secondo sensore registrò l'impatto sul fianco.
 
-Il robot no.
+Malik perse l'equilibrio, appoggiò una mano allo stipite e rimase in piedi.
 
-Un segnale breve uscì dall'altoparlante del torace. Sul display, sotto l'identificativo di fabbrica, apparve una scritta rossa:
+Nel torace di B-17 suonò un segnale breve.
 
-**URTO SUPERIORE ALLA SOGLIA — PROTEZIONE AUTOMATICA.**
+**URTO SUPERIORE ALLA SOGLIA. PROTEZIONE DEL COSTRUTTORE ATTIVA.**
 
-«Disattivazione di sicurezza in corso», annunciò B-17.
+«Disattivazione di sicurezza in corso.»
 
-Non cercò di continuare la commissione. Le ginocchia si piegarono secondo una sequenza prestabilita. Le braccia si raccolsero davanti al busto, i gomiti si avvicinarono alle ginocchia e la testa scese tra le spalle. La macchina si raggomitolò per ridurre l'esposizione delle giunture e fermare gli attuatori in una posizione controllata.
+L'unità non riprese il percorso per il deposito. Le ginocchia si piegarono; i piedi ruotarono verso l'interno per allargare la base d'appoggio. Le braccia si raccolsero davanti al busto. I gomiti scesero fino alle ginocchia e la testa si abbassò fra le spalle. In tre movimenti regolari la struttura si chiuse su se stessa.
 
-Malik rimase a guardarla, ancora col respiro spezzato dalla rabbia.
+Malik si voltò.
 
-«Ma che...»
+«Ma che cazzo...»
 
-Il display mostrò un'ultima riga.
+Dal vano della porta Kyla disse il suo nome.
 
-**ARRESTO PROTETTIVO — RIAVVIO RISERVATO AL PERSONALE AUTORIZZATO.**
+Sul display del robot apparve un'ultima riga.
 
-La voce del robot si interruppe. Gli attuatori smisero di correggere la postura. B-17 restò raccolto sul pavimento, immobile.
+**ARRESTO PROTETTIVO. RIAVVIO RISERVATO AL PERSONALE AUTORIZZATO.**
 
-Era una funzione prevista dal costruttore: davanti a un impatto eccessivo, l'unità non doveva discutere, difendersi o decidere come reagire. Doveva fermarsi.
+I motori completarono la sequenza di scarico. Il supporto delle ginocchia toccò il pavimento senza un colpo.
 
-Dal vano della porta qualcuno chiamò ancora Malik.
+La voce si spense.
 
-Lui non rispose.
+Malik rimase davanti alla macchina raccolta, con una mano ancora contro lo stipite.
 
-B-17 non rispose a nessuno.
+«Non l'avevo visto», disse.
+
+La luce sul torace di B-17 si spense.
