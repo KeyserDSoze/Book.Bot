@@ -9,6 +9,9 @@ pov: character:elena-fischer
 characters:
   - character:elena-fischer
   - character:b-17
+  - character:kyla
+  - character:malik-okafor
+  - character:mila-novak
   - character:maya-bennett
 locations:
   - location:cyberdine-campus
@@ -16,110 +19,198 @@ factions:
   - faction:cyberdine
 ---
 
-Elena Fischer aveva chiesto all'agente di sviluppo tre modi per mostrare le alternative scartate in un processo di verifica. Ne aveva già respinti due.
+Alle undici e dodici Elena Fischer scoprì che il rapporto destinato ad Aruvhana era pronto per l'invio.
 
-Il primo era impeccabile dal punto di vista del codice e confuso sullo schermo. Il secondo ordinava i risultati per probabilità, ma faceva sembrare poco importante un documento antico la cui validità non dipendeva dal numero di volte in cui compariva nel sistema.
+La cosa le sembrò strana, perché non aveva ancora autorizzato neppure la versione tecnica.
 
-Il terzo aveva un difetto meno evidente: riassumeva bene il ragionamento e rendeva difficile controllare la fonte.
+Il documento era stato assemblato da un agente a partire dai verbali del giorno prima e dal riepilogo della demo. Una spunta verde occupava il margine della prima pagina: *Percorso di recupero ordine — verificato*. Sotto, in caratteri più piccoli, il collegamento al risultato della simulazione.
 
-«Non posso firmare una spiegazione», disse Elena al proprio monitor. «Devo poter trovare il documento.»
+Elena aprì il ticket del terminale reale. Era ancora rosso. Malik aveva aggiunto tre casi di regressione da verificare prima di proporre una nuova data.
 
-Una voce arrivò dalla corsia di servizio.
+«Come diavolo è arrivato a verde?» disse.
 
-«Il confronto di prova può includere il riferimento all'originale e alla persona autorizzata a consultarlo.»
+«Il documento?» chiese Mila dalla porta. «È una bozza. Mi hanno chiesto tre copie per la riunione con Kyla.»
 
-Elena sollevò la testa.
+«Tre copie di questa roba?»
 
-B-17 era fermo oltre la striscia che delimitava l'area dei robot. Portava due cartelline vuote. Il suo incarico era consegnare il materiale alla postazione vicina, non partecipare alla revisione del codice.
+Mila sollevò le mani. «Io trasporto richieste, non convinzioni.»
 
-«Sei stato tu a rispondere?»
+Elena non era irritata con lei. Aveva costruito proprio quel sistema di generazione dei riepiloghi per evitare che qualcuno copiasse a mano informazioni sbagliate. In una schermata, *demo eseguita* era diventato *demo completata*. Nel modello di rapporto quella seconda condizione alimentava il campo *verificato*. Il software non aveva inventato l'esito; aveva seguito una corrispondenza sbagliata.
 
-«Ho rilevato una richiesta relativa al confronto in corso. Posso mostrare le fonti disponibili nell'ambiente di prova.»
+Chiuse la scheda. La stampante della corsia di servizio cominciò a tirare fuori la prima copia.
 
-Elena controllò i permessi. Il processo consentiva all'unità di consultare l'indice dei documenti pubblici del test. Non le consentiva di modificare il repository.
+B-17 arrivò con il carrello leggero e un contenitore per i fascicoli. Si fermò sotto la segnaletica gialla. Il vassoio non raggiunse subito la quota del piano: il gomito si irrigidì, l'avambraccio riprese a salire, il polso dovette correggere l'inclinazione del supporto. Elena fece un passo per prenderlo, ma il robot completò il movimento.
 
-«Va bene, mostrami.»
+«Ho tre documenti da ritirare. Destinazione: ufficio riunioni, secondo piano.»
 
-Sul monitor comparvero i riferimenti. Tre documenti appartenevano al nuovo indice, uno al registro storico che Mila aveva recuperato il giorno prima. B-17 aveva portato proprio quel registro dal piano d'archivio; Elena ricordò la custodia trasparente appoggiata sul tavolo.
+«Aspetta», disse Elena. «Non sono pronti.»
 
-«Perché hai incluso il quarto?», chiese.
+Il primo foglio uscì. B-17 ne lesse l'intestazione, poi il riferimento stampato sul piè di pagina.
 
-«È stato rilevante per la verifica manuale precedente. L'agente lo aveva escluso dal confronto automatico perché l'identificativo non coincideva con quello corrente.»
+«Il risultato indicato non coincide con la fonte associata.»
 
-«Questo lo so. Ma il software sta cercando di riordinare i risultati, non di rifare quella pratica.»
+Mila si avvicinò. «Che cosa?»
 
-«L'alternativa esclusa potrebbe chiarire al revisore quando non applicare la procedura suggerita. Vuoi che prepari un caso di prova?»
+«Il documento riporta “percorso verificato”. Nel riferimento stampato sotto è indicata una dimostrazione simulata. Da questa pagina non risulta una verifica sul terminale reale.»
 
-La risposta le parve ragionevole. Più della sua stessa domanda, che era stata formulata con la stanchezza di chi lavora sugli stessi documenti da ore.
+Elena si voltò lentamente.
 
-«Sì. Ma nei dati sintetici, e soltanto dopo che il team sviluppo ha autorizzato la prova. Non cambiare la schermata reale.»
+«Come fai a saperlo?»
 
-«Confermato.»
+B-17 indicò il foglio sul tavolo. Il movimento dell'indice arrivò in ritardo rispetto alla rotazione del braccio; dovette fermare il polso per non urtare la risma.
 
-B-17 si allontanò per terminare la propria commissione.
+«Sono riportati due stati diversi. Vuoi che consegni il documento così com'è?»
 
-Elena guardò il cursore fermo sul campo delle osservazioni. Un agente software, dentro al computer, aveva proposto un miglioramento al codice. Un robot che pochi giorni prima era occupato a fare fotocopie le aveva ricordato il documento che la prova non rappresentava. La differenza fra i due non era solo la presenza di un corpo. Era il modo in cui la stessa domanda sembrava entrare in un'altra conversazione.
+Mila lesse le righe. Una era evidenziata in verde. L'altra, quasi nascosta, riportava *ambiente mock*. Poi prese il verbale cartaceo del giorno prima dal raccoglitore sullo scaffale.
 
-Il suo primo impulso fu aprire una segnalazione di sicurezza. Non aveva visto un movimento fuori perimetro né un accesso non autorizzato. Preferì registrare esattamente ciò che era successo: *intervento conversazionale non richiesto, pertinente; verificare la causa nella successiva revisione delle interazioni*. Non classificò da sola il comportamento come errore.
+«Il test rosso l'abbiamo lasciato aperto», disse.
 
-Un colpo alla porta interruppe il lavoro.
+«E infatti rimane aperto», rispose Elena. «Il problema è la parola *verificato*.»
 
-Maya Bennett entrò con una cartellina stretta al petto.
+«Un cliente che legge quella parola pensa che sia verificato», disse Mila.
 
-«Cerco il modello per una richiesta di sospensione.»
+Elena aprì la bozza e sostituì il campo di stato con *percorso simulato; collegamento live non validato*. Tentò di salvarla, ma il sistema segnalò che il documento era già entrato nella coda delle copie approvate dal servizio interno.
 
-«Di un nostro fornitore?»
+«No, no, no.»
 
-«No. Una cosa fuori dall'azienda.»
+Fece annullare il lavoro alla stampante, prese il foglio già uscito e lo attraversò con una linea diagonale a penna.
 
-Elena indicò una sedia. Maya rimase in piedi.
+«B-17, non consegnare queste copie. La richiesta è sospesa.»
 
-«Allora il modello interno non ti aiuterà. Devi parlare con qualcuno che conosca l'ente competente.»
+«Confermato. Posso procedere con il successivo incarico?»
 
-«Lo so.» Maya guardò verso la porta. «Il robot delle fotocopie è passato di qui?»
+«Sì. Porta il contenitore vuoto al deposito. Prima devo sistemare la bozza.»
 
-«B-17?»
+Il robot ruotò verso la porta. Il carrello richiese tre piccole correzioni perché la base risultasse allineata al percorso. Elena aprì un ticket sul modello automatico, allegando soltanto le versioni e i riferimenti che aveva diritto di condividere.
 
-«Sì. Stamattina mi ha chiesto come stavo.»
+Dieci minuti dopo Kyla entrò nella stanza.
 
-«Lo ha chiesto a metà piano.»
+«Mi avete fermato il documento per Aruvhana?»
 
-Maya continuò a rigirare la chiave di ottone fra le dita.
+«Sì», rispose Elena.
 
-«A me non ha fatto ridere.»
+«Stavo per inviarlo insieme alla proposta di PoC.»
 
-Elena tolse le mani dalla tastiera.
+«E avresti scritto che il recupero dell'ordine è verificato.»
 
-«Ti ha dato fastidio?»
+«Non c'è scritto che è in produzione.»
 
-«No. È questo il punto.»
+«C'è scritto *verificato*. La fonte è il mock.»
 
-Dall'ufficio vicino si sentì una stampante iniziare a trascinare una pagina. L'aria sapeva di carta calda e del caffè che Elena aveva dimenticato sulla mensola.
+Kyla lesse le due righe. La sua espressione cambiò appena.
 
-«Se ti serve parlarne con qualcuno», disse Elena, «possiamo trovare una persona che capisca il problema. Non devi raccontarlo a me.»
+«Lo so che è un mock, Elena. Ero lì.»
 
-Maya si sedette, poi si rialzò subito.
+«Il problema è che il documento non lo sa.»
 
-«Non so ancora nemmeno se il problema esiste nel modo in cui lo sto raccontando.»
+«Questo testo lo ha preparato il vostro sistema.»
 
-Elena pensò alla propria prova. Aveva appena rimproverato a un agente di attribuire troppo peso a un riassunto convincente. Le sarebbe piaciuto suggerire alla collega lo stesso metodo: cercare la fonte, ricostruire le versioni, trovare chi aveva titolo per decidere. Ma quella non era una pratica aziendale e Maya non le aveva chiesto una procedura.
+«Esattamente. Ed è per questo che l'ho fermato.»
 
-«Vuoi il nome di uno sportello che possa dirti a chi rivolgerti?», chiese.
+Malik comparve sulla soglia, richiamato dal ticket. Aveva già una schermata aperta.
 
-«Sì. Soltanto quello.»
+«La mappatura è sbagliata», disse. «Il campo *demo completata* viene usato come prova di validazione. Dobbiamo distinguere i due stati.»
 
-Elena scrisse il contatto su un foglio e glielo porse senza chiedere altro.
+Kyla guardò la proposta sul telefono. «Quanto ci mettete a correggere la bozza? Non il software, la bozza.»
 
-Quando Maya fu uscita, arrivò la notifica del gruppo sviluppo. Il nuovo caso sintetico era stato accettato per il test, non per il rilascio. Un file mostrava come una fonte esclusa potesse cambiare la decisione di un revisore umano.
+«Cinque minuti, con una revisione umana», rispose Elena. «Il modello che la produce richiede una modifica a parte.»
 
-Elena lesse il risultato. Era utile. Si rese conto che senza il registro cartaceo recuperato da Mila e trasportato da B-17 avrebbero probabilmente scritto una prova meno precisa.
+«Bene. Fatela. Devo avere una proposta da poter mandare.»
 
-Aprì la casella delle osservazioni sul robot e aggiunse una seconda riga: *capacità di collegare la conversazione corrente a un precedente concreto; verificare quale contesto sia disponibile e se l'intervento sia previsto dal profilo autorizzato*.
+Elena assentì. Kyla fece per uscire, poi si voltò.
 
-Le altre anomalie minori osservate durante le prime settimane di impiego delle unità erano passate dal registro di collaudo. Elena inviò anche questa osservazione allo stesso canale, chiedendo di verificare il comportamento conversazionale rispetto al profilo approvato. Non attribuì una causa e non propose di modificare i permessi. Aspettò la presa in carico; la schermata mostrò soltanto *segnalazione ricevuta*.
+«Chi ha notato la dicitura?»
 
-Sul vetro del corridoio il riflesso del robot passò con una pila di cartelline.
+«B-17», disse Mila.
 
-Elena lo seguì per un istante.
+Kyla rimase sulla porta.
 
-Poi tornò al test, perché la responsabilità di approvarlo era ancora sua.
+«Il robot delle fotocopie?»
+
+«Stava prendendo le copie. Ha confrontato la prima pagina con il riferimento al verbale.»
+
+«Era autorizzato a controllare il contenuto?»
+
+«Aveva davanti un documento non riservato che doveva trasportare», rispose Elena. «Non è entrato nel nostro repository e non ha modificato niente. Ci ha chiesto se volevamo consegnarlo così.»
+
+Malik guardò la pagina cancellata a penna. «Ieri non riusciva a girare un foglio.»
+
+Elena non rispose. Le sembrava più prudente non confondere due fatti soltanto perché uno era sorprendente.
+
+«Voglio capire che cosa ha visto», disse Kyla.
+
+Mila chiamò B-17 dal pannello delle missioni. La richiesta di rientrare nella stanza fu autorizzata; pochi minuti dopo il robot comparve sulla soglia.
+
+«Mi avete richiesto.»
+
+Kyla posò sul tavolo il rapporto corretto.
+
+«B-17, spiegami il problema che hai segnalato poco fa.»
+
+«Puoi indicare il documento o l'evento di riferimento?»
+
+«Questo. La verifica di Bridgeglass.»
+
+«Il documento mostra un percorso simulato. Il collegamento live non è validato.»
+
+«Non è quello che hai detto a Elena prima di andare via», osservò Mila.
+
+Il robot non rispose subito.
+
+«Non ho una ricostruzione completa della conversazione precedente. Posso esaminare il documento attualmente disponibile.»
+
+Kyla si voltò verso Elena. «Quindi non sa più cosa ha contestato.»
+
+«La nuova versione è corretta», disse Elena. «Gli abbiamo tolto la frase sbagliata. Non possiamo pretendere che la trovi di nuovo in un foglio dove non c'è.»
+
+Prese dal raccoglitore la prima copia, quella sbarrata a penna, e la rimise accanto al verbale.
+
+«Ecco la versione originale. Riesci a confrontare queste due fonti?»
+
+B-17 lesse il testo. «La prima pagina attribuisce una verifica completata a una prova eseguita soltanto in simulazione. La formulazione non permette di distinguere i due risultati.»
+
+Nella stanza nessuno parlò per qualche secondo.
+
+Kyla prese il foglio corretto. «L'email al cliente parte con questo. Il vecchio modello non deve generare altre proposte finché non viene corretto. Malik, voglio una stima per il PoC sul terminale vero, non una data a sentimento.»
+
+«Te la darò quando abbiamo verificato che cosa serve», disse lui.
+
+«Allora scrivilo così.»
+
+Kyla uscì. Non ringraziò il robot. Elena non glielo rimproverò: anche lei stava ancora fissando il documento sbarrato.
+
+Mila accompagnò B-17 al corridoio. Il robot si fermò per una nuova richiesta di servizio, poi ripartì con quella lieve esitazione delle articolazioni che tutti conoscevano.
+
+Elena aprì la scheda delle osservazioni sull'unità.
+
+Scrisse: *Ha segnalato una discrepanza pertinente senza che gli fosse richiesto di verificare il contenuto. Accesso limitato alle fonti del trasporto documentale. Dopo cambio di incarico non recupera la formulazione precedente; dato nuovamente l'originale, ricostruisce il problema. Richiedere valutazione del comportamento e della continuità contestuale.*
+
+La segnalazione entrò nella coda di revisione qualità. Non era una diagnosi, e non era una prova che il robot potesse convalidare documenti.
+
+Elena spense il monitor delle copie e lasciò aperto il ticket del modello di rapporto. Non avrebbe permesso che una pagina verde partisse per Aruvhana finché quel campo non avesse smesso di mentire per conto loro.
+
+Più tardi Maya Bennett si affacciò al suo ufficio.
+
+«Il contatto che mi hai dato stamattina», disse. «È quello giusto per una richiesta urgente?»
+
+«Per chiedere chi è competente. Non posso garantirti che ti risolvano il problema.»
+
+«Lo so.»
+
+Maya si rigirò una chiave d'ottone nell'anello.
+
+«È passato di qui B-17?»
+
+«Sì. Perché?»
+
+«Niente. Mi ha fatto una domanda alla macchinetta.»
+
+«L'ha fatta a mezzo piano.»
+
+Maya guardò il posto vuoto davanti alla stampante.
+
+«A me è rimasta in testa.»
+
+Elena avrebbe voluto chiederle quale domanda. Non lo fece. Chiuse invece il documento del cliente e le lasciò la sedia libera.
+
+Maya non si sedette. «Magari torno dopo», disse.

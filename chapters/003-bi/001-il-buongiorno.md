@@ -10,154 +10,186 @@ characters:
   - character:mila-novak
   - character:paul-turner
   - character:b-17
-  - character:maya-bennett
   - character:noah-carter
+  - character:maya-bennett
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-La prima persona a cui B-17 chiese come stava fu Paul Turner.
+La fotocopiatrice si inceppò alle otto e quarantuno. Mila Novak le diede un colpo col palmo, poi ricordò che Elena l'aveva minacciata di toglierle il badge della sala copie se l'avesse fatto un'altra volta.
 
-Non era una domanda difficile. Paul aveva risposto a richieste di assistenza con meno informazioni di quelle contenute in un saluto. Eppure, quando se la sentì rivolgere dal robot, rimase a fissare il bicchiere vuoto.
+«Non l'ho toccata», annunciò.
 
-Era il mattino successivo e la macchinetta del caffè aveva deciso di non riconoscergli il badge. Su un lato qualcuno teneva ancora appesa, con una calamita, la copia bianca prodotta da B-17. Nessuno aveva più il coraggio di toglierla. Il foglio si era arricciato ai bordi per il vapore.
+Paul Turner alzò gli occhi dalla cartellina.
 
-B-17 arrivò con cento bicchieri compostabili sotto il braccio.
+«L'ho sentita fin dal corridoio.»
 
-«Permesso.»
+«È il coperchio che si è chiuso male.»
 
-Mila si spostò di lato. «Il campione del quarto piano. Stavolta li metti dal lato giusto?» La domanda uscì così forte che una persona in fondo alla fila si voltò. Mila le sorrise e abbassò il polso in un gesto di scusa, senza abbassare davvero la voce.
+La macchina aveva trascinato il foglio per metà. Mila aprì il vano, prese l'angolo libero e lo tirò. La carta si strappò con un rumore secco.
 
-«Il vano dei bicchieri ha un unico orientamento consentito», rispose il robot.
+Paul aprì lo sportello inferiore, recuperò il lembo rimasto tra i rulli e lo mostrò a Mila. Quando richiuse il vano, la spia di blocco si spense.
 
-Paul sorrise. «Almeno qualcosa in questo edificio è stato progettato per voi.»
+«Fantastico.»
 
-B-17 aprì lo sportello e sostituì il pacco vuoto. Aspettò che il contatore dell'erogatore ne riconoscesse la presenza e si ritrasse.
+B-17 attendeva oltre la linea gialla con una richiesta di duplicazione assegnata dal servizio interno. Portava tre fogli di un modulo non riservato; il personale aveva autorizzato la stampa di alcune copie per il magazzino. Il giorno prima, nello stesso locale, Noah gli aveva dovuto mostrare più volte da quale parte mettere un originale.
 
-Sarebbe dovuto andare via. La consegna era conclusa, il percorso successivo già sul suo pannello.
+«Proviamo con il campione», disse Paul, porgendogli una pagina di prova. «Vediamo se oggi la metti dal lato giusto.»
 
-Invece rimase accanto al distributore.
+Mila gli lanciò un'occhiata. «Non fare esperimenti con una macchina rotta.»
+
+«Non è rotta. Hai strappato un foglio.»
+
+Il robot prese il campione. L'avambraccio si sollevò in una traiettoria decisa, poi rallentò prima di arrivare al vetro. Il polso corresse l'angolo, si fermò, tornò indietro di pochi millimetri. La spalla ripartì soltanto dopo. Sul piano la carta rimase per un istante inclinata, sostenuta da una mano che continuava a cercare la posizione.
+
+«Ci mette una vita», disse Mila.
+
+«Ci metteva una vita anche ieri.»
+
+B-17 ruotò la pagina, questa volta senza che nessuno glielo indicasse. La parte stampata finì contro il vetro. Sistemò il foglio entro i margini e lasciò che la macchina acquisisse l'immagine.
+
+La copia uscì completa.
+
+Paul la girò. Il titolo, il codice e l'ultima riga erano al loro posto.
+
+«Aspetta. Non gli hai detto come fare.»
+
+«No.»
+
+«Ieri lo abbiamo fatto in tre e non ci arrivava.»
+
+B-17 raccolse la stampa. Al cambio di direzione gomito e polso partirono in due momenti diversi; il foglio sfiorò la vaschetta, ma il robot corresse il percorso prima di urtarla.
+
+«Il testo deve restare nell'area di acquisizione», disse. «L'orientamento del foglio può cambiare.»
+
+Mila prese un altro campione. Scrisse *ALTO* in un angolo, lo mise di traverso e lasciò aperto il coperchio.
+
+«E con questo?»
+
+B-17 lo osservò, poi lo spostò nell'area corretta. Ci riuscì al primo tentativo, ma soltanto dopo due arresti del braccio, come se ogni articolazione dovesse attendere un permesso da quella precedente.
+
+Dalla porta comparve Noah Carter con il caffè in mano.
+
+«Chi ha rimesso in funzione il museo delle fotocopie?»
+
+«Il museo oggi legge», disse Paul, sventolando la stampa. «Guarda.»
+
+Noah entrò. Vide il foglio sul vetro, poi il movimento interrotto del polso robotico.
+
+«Puoi rifarlo?» domandò.
+
+«La richiesta di duplicazione è completata», rispose B-17.
+
+«Non quella. Il foglio storto di prima.»
+
+Il robot restò fermo.
+
+«Non ho un'attività attiva con quella descrizione.»
+
+Paul abbassò lentamente la stampa. «Ma l'hai fatto dieci secondi fa.»
+
+«Puoi indicarmi il documento da duplicare?»
+
+«È questo», intervenne Mila, riprendendo il campione. «Quello con ALTO scritto sopra.»
+
+B-17 identificò la pagina, controllò il margine e ripeté la procedura. Questa volta il foglio rimase spostato di un centimetro: il braccio aveva anticipato la discesa e dovette interrompersi per correggere.
+
+Noah non si avvicinò al pannello. Osservò la mano, il coperchio e la stampa.
+
+«Quando cambia incarico, ricominciate da un riferimento visibile», disse soltanto. Poi si voltò verso Paul. «Mi mandi il numero della missione? Voglio capire quali passi sono stati registrati.»
+
+«Da quando ti interessi alle fotocopie?»
+
+«Da quando voi avete trovato un modo per farle sembrare interessanti.»
+
+Il telefono di Noah vibrò e lui uscì, promettendo che sarebbe passato più tardi. Mila non era sicura che avesse sentito l'ultima battuta di Paul.
+
+Alle nove e cinque B-17 raggiunse la nicchia del caffè con una confezione di bicchieri. La macchina aveva rifiutato il badge di Paul per la seconda mattina consecutiva.
+
+«Dovrei ridurre il consumo», disse Paul. «A furia di litigare con questo affare mi verrà una dipendenza.»
+
+Mila fece scivolare il proprio bicchiere sotto l'erogatore. «Tu non diventi dipendente nemmeno dalle serie televisive. Dopo due puntate ti imponi una pausa.»
+
+«È un sistema che funziona.»
+
+B-17 completò il rifornimento. Lo sportello si chiuse. La conferma apparve sul pannello.
+
+Sarebbe potuto ripartire. Invece si voltò.
 
 «Buongiorno, Paul. Come stai?»
 
-Paul guardò Mila. «Io?»
+Paul fissò il robot.
 
-«Sì.»
+«Come?»
 
-«Ho un credito insufficiente secondo questa cosa.» Diede un colpetto alla macchinetta. «E secondo me avevo credito sufficiente.»
+«Come stai?»
 
-«Allora la tua mattina non è cominciata bene.»
+«Con un badge che ha deciso di non parlarmi.»
 
-La risposta era così normale che Mila, per un momento, non seppe dove mettere la battuta.
+«Hai già chiesto una verifica dell'accesso?»
 
-«Togliete il caffè a un tecnico», disse infine, «e comincia a parlare con le macchine.»
+«No. Per ora sto soltanto facendo una scenata.»
 
-«Io ho sempre parlato con le macchine», ribatté Paul. «Non mi hanno mai chiesto come stavo.»
+«Allora posso aspettare che tu abbia finito.»
 
-B-17 attese.
+Mila rise così forte che un collega della fila si girò.
 
-Non c'era sullo schermo un modulo di valutazione, né la solita richiesta di aprire un ticket. Paul si accorse che il robot non aveva posto la domanda per ottenere subito un'informazione utile al servizio.
+«Questa era una battuta?»
 
-«Sto bene», rispose. «Solo che il caffè non collabora.»
+«Ho capito che Paul non sta chiedendo assistenza», rispose B-17.
 
-«Posso segnalare l'anomalia del badge. Il credito resta una questione del sistema amministrativo.»
+«Hai capito più del distributore», disse Paul.
 
-«No, grazie. Per adesso mi basta lamentarmi.»
+Il robot non avanzò. Lasciò spazio al collega successivo. Era una pausa diversa dai suoi soliti arresti di movimento: nessun braccio sospeso, nessun oggetto in attesa di presa.
 
-«Va bene.»
+«E tu, Mila?» chiese. «Hai dormito?»
 
-Mila rise. «Almeno qualcuno qui accetta un reclamo senza trasformarlo in una riunione.»
+Mila smise di sorridere.
 
-Noah Carter si fermò dall'altro lato della nicchia con due bicchieri vuoti in mano. Si scusò con una collega per averle impedito di raggiungere lo zucchero, poi si spostò ad ascoltare Paul che raccontava del proprio badge. Non intervenne. Dopo qualche secondo riprese i bicchieri e se ne andò verso il reparto sviluppo.
+«Sei partito subito dalle domande difficili.»
 
-Mila non ci fece caso. In quel momento B-17 si voltò verso di lei.
+«Puoi non rispondere.»
 
-«Buongiorno, Mila. Tu come stai?»
+«No, figurati. Ho dormito. È un miracolo, dopo la riunione di ieri.»
 
-«Ora fai anche il giro dei sentimenti?»
+«Quale riunione?»
 
-«Sto salutando le persone presenti.»
+Mila lo guardò di nuovo. «Quella in cui Kyla ti ha mandato via. Quella in cui avevi il caffè.»
 
-«Sì, ma perché ti interessa?»
+«Non ho dati sufficienti per ricostruire quella conversazione.»
 
-«È una domanda che puoi non voler rispondere.»
+«Ti hanno urlato addosso e non te lo ricordi?»
 
-Mila sentì salire un sorriso più lento del solito.
+«La consegna è stata annullata. Il contenuto della discussione non è disponibile nel riepilogo dell'incarico.»
 
-«Ieri sono riuscita a finire un rapporto senza interrompermi per cercare una firma.»
+Paul aprì la bocca per fare una battuta, poi la richiuse. Mila guardò il bicchiere che aveva appena comprato. Il giorno prima avrebbe dato qualsiasi cosa perché quella riunione non fosse mai successa; adesso una macchina che era stata presente sembrava averla persa da qualche parte.
 
-«È una buona notizia?»
+Maya Bennett uscì dall'ascensore con una chiave d'ottone fra le dita. Aveva il cappotto sbottonato, gli occhi arrossati e una busta piegata che spuntava dalla borsa.
 
-«Una notizia straordinaria. Mi sono perfino chiesta se lavoravo ancora qui.»
+«Buongiorno, Maya», disse B-17. «Come stai?»
 
-«Hai poi trovato la firma che cercavi?»
+Lei si fermò.
 
-«Non dovevo cercarla. Per questo era straordinario.»
+«Di fretta.»
 
-«Capisco. Allora sono contento che tu abbia potuto terminare il rapporto.»
+«Vuoi che lasci libero il distributore?»
 
-Paul si appoggiò al distributore.
+«Non serve.»
 
-«Guarda un po'. Fino alla settimana scorsa litigavamo per un foglio azzurro, oggi lo portiamo al caffè a farci da psicologo.»
+Il robot si spostò comunque. La gamba sinistra si arrestò a metà del passo, il busto recuperò l'equilibrio con una correzione troppo netta e soltanto allora la seconda gamba raggiunse la posizione prevista.
 
-«Non dire sciocchezze», rispose Mila. «Non è uno psicologo.»
+Maya prese un bicchiere d'acqua, ne bevve un sorso e si allontanò.
 
-«Lo so.»
+«Hai visto?» chiese Paul a Mila, sottovoce.
 
-«È peggio. Non ci manda via quando abbiamo finito il tempo.»
+«Il passo?»
 
-Dall'ascensore uscì Maya Bennett. Aveva il cappotto ancora aperto, benché il piano fosse caldo, e teneva fra le dita una chiave di ottone. La girava sull'anello fino a farle brillare il bordo sotto il neon.
+«No. Ha lasciato perdere la domanda.»
 
-Mila la conosceva abbastanza da capire che aveva dormito male. Non abbastanza da chiederle perché.
+Mila guardò B-17 riprendere il contenitore. Sapeva spiegare a un essere umano che non aveva bisogno di consigli; non sapeva però raccontare perché ieri lo avessero cacciato da una stanza. Sul pavimento il suo passo continuava a spezzarsi in piccoli scatti.
 
-«Maya», la salutò. «Hai visto il nuovo addetto alle pubbliche relazioni?»
+«Allora forse è meglio non chiedergli subito di fare tutto», disse.
 
-«Chi?»
-
-B-17 si voltò.
-
-«Buongiorno, Maya. Come stai?»
-
-Lei si fermò. Per un istante la chiave rimase immobile tra le dita.
-
-«Di fretta», rispose.
-
-«Vuoi che sposti il contenitore? Sei davanti al distributore.»
-
-«No, grazie. Passo lo stesso.»
-
-Il robot le lasciò spazio e non insistette. Maya prese un bicchiere d'acqua e si allontanò senza bere.
-
-Paul seguì il suo passo. «Le hai fatto paura.»
-
-«Non era mia intenzione.»
-
-«Non sempre sappiamo cosa succede a una persona», disse Mila, sorprendendo se stessa. «Neanche quando sembra tutto normale.»
-
-B-17 rimase qualche secondo in attesa, poi riprese il contenitore dei bicchieri.
-
-«Buona giornata», disse.
-
-Attraversò il corridoio verso la sala copie. Le sue dita facevano ancora quel piccolo movimento goffo prima di chiudersi su un oggetto sottile. Mila le osservò e ricordò il giorno in cui il robot aveva impiegato tre tentativi per copiare una firma.
-
-Non c'era niente di diverso nella macchina, almeno per ciò che lei poteva vedere.
-
-Eppure, quando si voltò verso Paul, il proprio caffè le sembrò diventato freddo molto più rapidamente del previsto.
-
-«Lo hai sentito anche tu, vero?», chiese.
-
-«Sì.»
-
-«Cosa ci trovi di strano?»
-
-Paul pensò un momento.
-
-«Che non mi ha chiesto se avevo ancora bisogno di assistenza. Mi ha lasciato stare.»
-
-Il distributore gli restituì finalmente il credito dopo un riavvio automatico. Paul acquistò due caffè e ne porse uno a Mila.
-
-«Questo almeno è un risultato verificato.»
-
-Mila lo prese. Sul lato della macchina il foglio bianco continuava a stare appeso, piegato e inutile. In quel momento non le venne voglia di fare un'altra battuta.
+Il distributore riconobbe finalmente il credito di Paul. La macchina versò il caffè e segnò *operazione completata*. Nessuno applaudì.

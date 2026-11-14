@@ -15,7 +15,7 @@ Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la v
 
 **Tensione futura**: la sua visione umanista incontrerà richieste inizialmente non classificabili, ma non anticipare una conversione morale.
 
-**Capitolo 3**: ascolta le reazioni dei colleghi alla nuova capacità conversazionale di B-17 e sente per la prima volta Maya chiamarlo «Bi». Nota che un dipendente si è confidato con il robot senza conoscere la vicenda, e sceglie di non appropriarsene per una presentazione HR. Non conosce la causa del cambiamento.
+**Capitolo 3**: durante una revisione dei documenti destinati ad Aruvhana apprende che B-17, mentre trasportava copie, ha notato una dicitura che confondeva demo simulata con integrazione verificata. Il team umano corregge il documento e ferma il modello automatico errato; Kyla rimane orientata a ottenere una proposta PoC credibile, non promuove il robot a revisore software. Il mattino dopo ascolta le reazioni dei colleghi alla conversazione più naturale di B-17 e sente Maya chiamarlo per la prima volta «Bi». Nota il limite della memoria del robot e sceglie di non appropriarsi della confidenza di Maya per un documento HR. Non conosce la causa tecnica del cambiamento.
 
 
 **Capitolo 4**: autorizza e osserva l'uso organizzato dello Spazio Comune, area di condivisione di materiali, corsi tra colleghi e aiuto reciproco. Bi aiuta a rendere accessibile il percorso e a preparare il locale, senza scegliere gli obiettivi sociali. Kyla vede la trasformazione attraverso l'uso normale di uno spazio prima inutilizzato; non sa delle sconfitte intenzionali né delle confidenze serali.

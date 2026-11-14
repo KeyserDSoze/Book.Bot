@@ -18,160 +18,186 @@ factions:
   - faction:cyberdine
 ---
 
-Kyla arrivò al quarto piano alle otto e diciannove, con una cartellina piena di appunti e due ore libere in calendario.
+Alle otto e diciannove Kyla Morgan aveva già ricevuto due messaggi da Aruvhana.
 
-Doveva raccogliere qualche testimonianza per un resoconto interno. Non quello con le percentuali di produttività, già pronto da giorni. Le interessavano le piccole cose che i colleghi raccontavano quando non avevano un microfono davanti: un corso finalmente frequentato, una pausa non saltata, un appuntamento preso senza dover chiedere a qualcun altro di coprire un turno.
+Il primo chiedeva il dettaglio delle ore previste per il proof of concept. Il secondo, arrivato nove minuti dopo, precisava che non era un'accettazione della proposta.
 
-Davanti alla macchinetta del caffè trovò Paul Turner che rideva da solo.
+Kyla li aveva letti entrambi tre volte.
 
-«Adesso ti basti anche come pubblico?» gli chiese.
+Al quarto piano trovò Paul Turner e Mila Novak davanti al distributore, intenti a esaminare una fotocopia.
 
-«Peggio. Sto cercando di spiegare una cosa a Mila e lei non mi crede.»
+«Non dirmi che abbiamo di nuovo un problema», disse.
 
-Mila comparve dall'altra parte del distributore, con un biscotto in mano.
+«No», rispose Paul. «È questo il problema.»
 
-«Gli credo. Penso soltanto che stia esagerando.»
+La stampa mostrava una parola in diagonale, interamente leggibile. A fianco qualcuno aveva scritto a penna *senza aiuto*.
 
-«Ieri il robot mi ha chiesto come stavo.»
+«B-17», spiegò Mila. «Ieri lo dovevamo tenere per mano anche per mettere un foglio sul vetro. Stamattina l'ha fatto da solo.»
 
-«E questa», disse Kyla, «è una cosa positiva, immagino.»
+«Un aggiornamento del servizio?»
 
-«Sì, ma mi ha ascoltato.»
+«Non ne so niente», disse Paul. «E non era solo quello. Mi ha chiesto come stavo.»
 
-Paul si fermò. Gli si era formato sul viso il fastidio di chi sa che una frase vera suonerà ridicola appena pronunciata.
+Kyla spostò lo sguardo dall'uno all'altra.
 
-«Non nel senso che ha ricevuto un comando», aggiunse. «Mi ha chiesto, ho risposto una sciocchezza, e non ha immediatamente riportato la conversazione a un modulo da compilare.»
+«Ti ha chiesto se avevi bisogno di assistenza.»
 
-«Nessun modulo», confermò Mila, abbastanza forte da far ridere anche i due colleghi che non stavano partecipando. «Un miracolo aziendale.»
+«No. Mi ha chiesto come stavo. Gli ho risposto che il badge non funzionava e si è offerto di aspettare che finissi di lamentarmi.»
 
-Kyla sorrise. In quel momento B-17 uscì dall'ascensore di servizio con due contenitori impilati. Procedeva verso la sala copie, alla stessa velocità di sempre. Rallentò davanti ai tre.
+Mila scoppiò a ridere di nuovo. Poi tornò seria.
+
+«Però non ricordava più la litigata di ieri. E dopo un cambio di missione non sapeva neppure spiegare cosa aveva appena copiato.»
+
+«È un sistema a compiti», disse Kyla. «Non tutte le conversazioni diventano memoria.»
+
+«Lo so», rispose Mila. «È questo che mi fa strano. Per qualche minuto sembra seguirti meglio di metà degli esseri umani. Poi gli devi ridire da capo che cosa è successo.»
+
+La porta dell'ascensore si aprì.
+
+B-17 avanzò con due contenitori impilati. Il braccio sinistro reggeva quello superiore. Quando dovette cambiare direzione, la spalla anticipò la rotazione, il gomito restò fermo un battito di troppo e il robot rallentò fino quasi ad arrestarsi. Ripartì dopo aver corretto la posizione del carico.
 
 «Buongiorno, Kyla. Come stai?»
 
-La domanda la sorprese, benché fosse stata appena avvertita.
+Kyla, che stava pensando al secondo messaggio di Aruvhana, rispose senza riflettere.
 
-«Bene. Ho dormito poco, ma sto bene.»
+«Male. Abbastanza male.»
 
-«Hai una mattina impegnativa?»
+Il robot si fermò.
 
-Kyla guardò la cartellina che teneva in mano.
+«Vuoi parlarmene?»
 
-«Per una volta no.»
+Mila fece una piccola smorfia verso Paul, ma non intervenne.
 
-«Spero che tu riesca a usarla come preferisci.»
+«Non sarebbe una buona idea», rispose Kyla. «È una cosa di lavoro.»
 
-Non c'era niente da rispondere. Kyla fece un piccolo cenno e gli lasciò spazio. Il robot continuò il percorso.
+«Va bene.»
 
-«Capito?» disse Paul.
+Il robot aspettò ancora un momento, senza chiedere altro. Poi riprese la traiettoria verso la sala copie.
 
-«Capito cosa?»
+Dall'ascensore principale uscì Maya con il telefono stretto fra le dita. Non si tolse il cappotto. Aveva l'aria di chi aveva camminato troppo in fretta per arrivare a un posto dove non voleva aspettare.
 
-«Questo. Non mi ha chiesto se voglio aprire un ticket.»
+«Buongiorno», disse Kyla.
 
-Mila finì il biscotto. «Aspetta che impari come funziona la nota spese. Poi torna tutto normale.»
-
-La battuta fu interrotta dall'apertura dell'ascensore principale.
-
-Maya Bennett ne uscì con un telefono in mano e il cappotto piegato sul braccio. Aveva il viso tirato, ma camminava con una fretta diversa da quella del giorno precedente: più diretta, meno dispersa. Sul polso era rimasto il segno sottile di un cordino stretto troppo a lungo.
-
-Kyla non la conosceva bene. La salutò mentre la collega si avvicinava alla macchinetta.
-
-«Buongiorno, Maya.»
-
-«Buongiorno.»
-
-Maya prese un bicchiere d'acqua. Ne bevve metà, posò l'altra sul bordo e guardò verso il corridoio.
+Maya accennò un saluto, ma aveva già visto il robot.
 
 «Bi?»
 
-B-17 si fermò prima di entrare nella sala copie.
+B-17 fermò i contenitori.
 
 «Sì, Maya.»
 
-«Volevo dirti che ho fatto quella cosa.»
+Paul guardò Mila. Kyla non si mosse.
 
-Kyla abbassò gli occhi sui propri appunti. Non le sembrava il caso di ascoltare una conversazione che non la riguardava.
+«Ho fatto quello che ci siamo detti», disse Maya. «Ho mandato la richiesta stanotte. Alle sei e un quarto ho chiamato il presidio. La segnalazione è arrivata al responsabile dell'intervento.»
 
-«Hai trovato il destinatario?» chiese il robot.
+«Quale intervento?» chiese B-17.
 
-«Due. Ho mandato la richiesta ai contatti indicati e stanotte ho ricevuto la conferma automatica di consegna. Alle sei e un quarto ho chiamato il presidio. Mi hanno detto che la segnalazione è arrivata a chi segue l'intervento. Non so ancora se si fermeranno.»
+Il corridoio rimase immobile per un istante.
 
-«Hai ottenuto un riscontro sul percorso della richiesta. Il risultato resta da verificare.»
+Maya guardò la faccia liscia del robot.
+
+«Quello di Valle Corta», disse. «La sirena. Ieri sera ne abbiamo parlato.»
+
+«Non ho un resoconto completo di quella conversazione. Puoi ricordarmi che cosa è stato richiesto?»
+
+Maya abbassò gli occhi sul telefono.
+
+Kyla distolse lo sguardo. Non aveva assistito alla conversazione della sera precedente, ma aveva riconosciuto qualcosa nella voce di Maya: il tono di una persona che aspettava di essere riconosciuta, non semplicemente ascoltata.
+
+«Che non tolgano la sirena senza verificare se l'altro sistema raggiunge davvero le case», rispose Maya. «Ce ne sono quattordici.»
+
+«Hai ricevuto conferma che l'intervento è stato sospeso?»
+
+«No. Solo che hanno preso in carico la richiesta. Non so neanche se la squadra abbia cominciato a smontarla.»
+
+«Allora non hai ancora una conferma sull'esito dell'intervento.»
 
 «Lo so.»
 
-Maya bevve l'acqua rimasta.
+La voce di Maya era dura. Paul abbassò lentamente la fotocopia.
 
-«È già qualcosa», aggiunse.
+«Ma almeno qualcuno ha dovuto leggere una richiesta con quelle quattordici case dentro», aggiunse lei.
 
-B-17 attese un istante.
+«È un elemento nuovo rispetto al registro che le esclude.»
 
-«Se vuoi, quando avrai un aggiornamento potremo rivedere i passaggi successivi.»
+«Sì. È questo che conta.»
 
-«Grazie, Bi.»
+Maya fece un mezzo sorriso, molto breve.
 
-Il robot riprese il suo cammino e scomparve oltre la porta.
+«Grazie comunque, Bi.»
 
-Paul aveva smesso di sorridere. Mila si stava rigirando tra le dita l'involucro del biscotto.
+«Prego, Maya.»
 
-«Bi?» domandò Kyla, cercando di mantenere la voce leggera.
+Il robot avviò il movimento per proseguire, ma prima che raggiungesse la curva un collega uscì da una porta.
 
-Maya sembrò accorgersi soltanto allora di aver parlato davanti agli altri.
+«Bi, mi porteresti i materiali per la riunione delle dieci?»
 
-«Sì. Scusate. L'ho chiamato così ieri sera. È più corto.»
+«Puoi inviarmi la richiesta con la destinazione?»
 
-«Molto più corto», disse Paul. «E di sicuro meglio di *quello delle fotocopie*.»
+«Come sei fiscale.»
 
-«Perché gli hai parlato ieri sera?» chiese Mila.
+«La destinazione è necessaria per il trasporto.»
 
-Maya guardò il bicchiere di plastica vuoto.
+Il collega sollevò il telefono. Poco più avanti un'altra persona lo chiamò per nome. B-17 si arrestò, aspettò che la voce finisse, poi rispose anche a lei.
 
-«Perché era lì.»
+«Quando hai finito, Bi, passi da noi?»
 
-Mila aprì la bocca, pronta forse a fare una battuta. Poi la richiuse.
+«Se mi invii una richiesta posso inserirla tra le attività autorizzate.»
 
-«Giusto», disse soltanto.
+I due colleghi si allontanarono discutendo di chi avesse la priorità. Il robot rimase qualche secondo davanti alla porta della sala copie, con i due contenitori ancora in mano. Prima di abbassarli il polso ruotò nella direzione sbagliata, si fermò e riprese il movimento.
 
-Maya lasciò il bicchiere nella raccolta, salutò e si avviò verso la propria postazione. Attraversò il corridoio senza toccare una sola volta la tasca del cappotto.
+Kyla seguì tutto senza dire nulla.
 
-Kyla seguì il suo passo finché non svoltò.
+«Bi?» domandò infine a Maya.
 
-«Posso chiederti una cosa?» disse a Paul.
+Lei si strinse nelle spalle. «L'ho chiamato così ieri sera. Mi sembrava più facile.»
 
-«Se riguarda la macchina del caffè, la risposta è no.»
+«Ti ha aiutata davvero?»
 
-«Hai notato quando avete cominciato a parlarne in questo modo?»
+Maya guardò ancora il telefono.
 
-Paul fece un gesto verso il foglio bianco ancora appeso al distributore.
+«Mi ha aiutata a scrivere una richiesta che sono riuscita a mandare.»
 
-«Quando abbiamo capito che fa le cose utili e qualche volta sbaglia quelle facili. Proprio come noi, ma senza le ferie.»
+«E non ricorda di averti aiutata.»
 
-Mila gli diede una piccola gomitata.
+«Non del tutto.»
 
-«Non esagerare con la filosofia alle otto del mattino.»
+Kyla avrebbe voluto farle un'altra domanda. Si rese conto che, se Maya avesse risposto, avrebbe ottenuto dettagli privati che non aveva bisogno di conoscere.
 
-Kyla si accorse che stava ancora tenendo la cartellina aperta. Sul primo foglio aveva scritto *benefici percepiti dell'automazione*. Le parole le parvero improvvisamente strette rispetto a ciò che aveva visto. Una donna era entrata in ufficio dopo una notte evidentemente complicata e aveva ringraziato una macchina per qualcosa che nessun pannello aziendale stava misurando.
+«Se la questione ti richiede di uscire dall'ufficio, parliamone con chi gestisce i permessi», disse invece.
 
-Non poteva sapere che cosa si fossero detti. Non ne aveva il diritto e, soprattutto, non aveva bisogno di saperlo per intuire che era successo qualcosa.
+«Grazie. Per ora aspetto il telefono.»
 
-Chiuse la cartellina.
+Maya si allontanò. Le sue dita non cercarono più la chiave nella tasca del cappotto.
 
-«Le interviste le facciamo più tardi», disse.
+Paul indicò il contenitore che B-17 stava posando sul carrello.
 
-«Come mai?» chiese Mila.
+«Fa una cosa incredibile e poi ci mette sei secondi ad appoggiare una scatola.»
 
-Kyla girò la cartellina in modo che nessuno potesse leggere la pagina con il nome di Maya. «Ho abbastanza dati per oggi. A lei non ho chiesto il permesso di usare questa conversazione.»
+«E non sa cosa è successo ieri», aggiunse Mila.
 
-Paul sollevò il suo bicchiere. «Questa la incornicio.»
+«Certe volte mi piacerebbe avere lo stesso problema», disse Paul.
 
-Kyla lo lasciò lì e si avviò verso gli uffici.
+Kyla sorrise appena. Aprì la cartellina che aveva portato per raccogliere esempi di miglioramento della vita in ufficio. In cima c'era una pagina con la scritta *benefici percepiti*.
 
-Lungo il corridoio incrociò B-17, che tornava dalla sala copie con i contenitori vuoti. Le sue mani erano ancora grandi per i fogli, le articolazioni avevano ancora quel minuscolo ritardo nel cambio di direzione. Si fermò quando un collega uscì improvvisamente da una stanza, poi riprese.
+La richiuse.
 
-Dall'altra parte della parete qualcuno lo chiamò.
+Alle nove avrebbe avuto una riunione per decidere quali indicatori inserire nella nuova proposta ad Aruvhana. Un tempo avrebbe messo fra i benefici anche la capacità del robot di aiutare una collega a svolgere una pratica. Questa volta, senza una verifica e senza il permesso di Maya, non avrebbe scritto niente.
 
-«Bi, quando hai finito mi dai una mano con il materiale della riunione?»
+Il telefono vibrò: un'altra richiesta di chiarimento del cliente.
 
-«Certamente. Puoi inviarmi la richiesta.»
+Kyla si avviò verso il proprio ufficio. Alle sue spalle Paul chiamò:
 
-Kyla proseguì senza voltarsi. Dopo pochi passi sentì un'altra voce chiamare dal fondo del corridoio: «Bi, passa anche da noi quando hai finito». Il robot confermò l'incarico e girò oltre l'angolo.
+«Bi, quando hai finito mi dici dove hai messo il documento di prima?»
+
+«Quale documento, Paul?»
+
+«Quello della fotocopiatrice.»
+
+«Puoi indicarmi il codice o il numero della missione?»
+
+Paul guardò la pagina che teneva ancora in mano.
+
+«Sì», disse. «Aspetta che lo trovo.»
+
+Kyla continuò a camminare. Dal fondo del corridoio un'altra voce chiamò «Bi!» e, prima che il robot rispondesse, qualcuno più vicino ripeté lo stesso nome.
