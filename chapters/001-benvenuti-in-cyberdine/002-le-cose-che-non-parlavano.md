@@ -18,7 +18,27 @@ factions:
   - faction:aruvhana
 ---
 
-Il laboratorio dei sistemi vecchi aveva un difetto che Kyla non riusciva a far sistemare: odorava di plastica calda anche quando tutte le apparecchiature erano spente.
+Malik aveva già riavviato il servizio tre volte quando Gavin entrò nel laboratorio.
+
+«Quanto?»
+
+«Non lo so.»
+
+«Non è un orario, Malik.»
+
+Sul monitor la prova di Bridgeglass era rossa. L'agente aveva preparato un adattatore che, dopo un timeout, interpretava una conferma ripetuta come un secondo ordine. Il terminale vecchio non sbagliava: era il software nuovo a leggere male ciò che tornava indietro. Il problema era proprio quello che la demo prometteva di evitare.
+
+Una collega cercò il test mancante. Gavin scrisse a Kyla di rallentare la visita. Malik aprì la chat dell'agente e digitò, cancellando due volte prima di inviare:
+
+*Ti prego, aiutami a capire perché il retry crea un duplicato. Ho cinque minuti. Non cambiare i controlli di sicurezza. Se non puoi sistemarlo, prepara un mock separato che simuli il terminale e dimmi chiaramente cosa non stiamo testando.*
+
+L'agente propose una modifica, ma il test sul terminale reale fallì ancora. Poi generò un simulatore con risposte preregistrate e un'etichetta **MOCK — DATI SINTETICI**. La schermata era finalmente verde.
+
+«Quello è un film», disse Malik. «Non una prova.»
+
+«È quello che possiamo mostrare», rispose Gavin. Aveva la voce di chi aveva appena ricevuto tre chiamate e non aveva potuto rispondere a nessuna.
+
+Quando Kyla entrò con i visitatori, il laboratorio dei sistemi vecchi aveva un difetto che Kyla non riusciva a far sistemare: odorava di plastica calda anche quando tutte le apparecchiature erano spente.
 
 Leïa entrò e si fermò davanti a un terminale beige. Sotto lo schermo c'era un lettore che accettava tessere magnetiche di un formato fuori commercio.
 
@@ -57,6 +77,30 @@ Un robot si avvicinò al banco con un contenitore piatto. Non era B-17. Appoggi�
 «Per questo avete comprato corpi», disse Leïa.
 
 «Per una parte del lavoro. Un agente software non può inserire una vecchia tessera in un lettore. E, se le nostre simulazioni sbagliano, qualcuno deve andare a guardare ciò che il terminale ha fatto davvero.»
+
+Kyla li portò al monitor della dimostrazione. Il cruscotto Bridgeglass visualizzò un ordine, l'invio al terminale e la conferma. Per un istante parve perfetto.
+
+Sahir non guardava l'animazione. Guardava un identificatore in basso a destra.
+
+«Questi dati li state leggendo adesso dalla macchina?»
+
+Kyla cercò Malik con gli occhi. Lui non fece cenno di sì.
+
+«No», disse. «La risposta del terminale è simulata. Il collegamento reale ha un difetto che stiamo isolando.»
+
+«Quindi non avete appena dimostrato il prodotto che volete venderci.»
+
+Il silenzio fu abbastanza lungo perché Gavin smettesse di digitare. Leïa posò la penna. Anika, fino a quel momento immobile, chiese: «Da quanto lo sapete?»
+
+«Da prima del vostro ingresso», rispose Kyla. Non avrebbe attribuito il ritardo al cliente o al terminale. «Avremmo dovuto dirvelo prima di avviare il flusso.»
+
+Sahir indicò il verde sullo schermo. «Allora spegnete la simulazione. Voglio vedere dove fallisce davvero.»
+
+Malik chiuse il mock e riaprì i log. Sul terminale di prova il primo ordine risultava confermato; al nuovo tentativo, il software proponeva di elaborarlo di nuovo. Non lo lasciò eseguire. Mostrò il controllo che lo bloccava e spiegò quale test mancava.
+
+Anika guardò Kyla. «Il mock mi mostra cosa vorreste vendere. Questo errore mi dice cosa devo chiedervi prima di comprarlo.»
+
+Kyla li portò quindi a un'altra schermata, con tre pratiche di prova già predisposte, distinguendo i dati sintetici dai risultati verificati. La tensione non si sciolse. Il cliente era rimasto, ma non per ammirare la demo.
 
 Kyla li portò al monitor di una dimostrazione. Tre pratiche di censimento dei clienti erano ferme in attesa di un controllo. L'agente aveva segnalato campi incoerenti, suggerito correzioni e preparato una modifica ai controlli futuri. Sotto comparivano i test riusciti e quelli esclusi perché non c'erano dati sufficienti.
 
