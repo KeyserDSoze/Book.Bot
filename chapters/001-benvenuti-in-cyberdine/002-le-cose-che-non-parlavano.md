@@ -10,6 +10,8 @@ characters:
   - character:kyla
   - character:visitors
   - character:malik-okafor
+  - character:noah-carter
+  - character:gavin-shaw
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -28,15 +30,35 @@ Malik aveva già riavviato il servizio tre volte quando Gavin entrò nel laborat
 
 Sul monitor la prova di Bridgeglass era rossa. L'agente aveva preparato un adattatore che, dopo un timeout, interpretava una conferma ripetuta come un secondo ordine. Il terminale vecchio non sbagliava: era il software nuovo a leggere male ciò che tornava indietro. Il problema era proprio quello che la demo prometteva di evitare.
 
-Una collega cercò il test mancante. Gavin scrisse a Kyla di rallentare la visita. Malik aprì la chat dell'agente e digitò, cancellando due volte prima di inviare:
+Una collega cercò il test mancante. Gavin scrisse a Kyla di rallentare la visita. Il telefono di Malik vibrava da dieci minuti; un junior aveva smesso di parlare e fissava la barra rossa del test. Gavin chiese ancora un orario. Malik gli rispose più forte del necessario: «Se mi chiedi ogni trenta secondi quando finisco, finisco dopo.» Nessuno rise.
 
-*Ti prego, aiutami a capire perché il retry crea un duplicato. Ho cinque minuti. Non cambiare i controlli di sicurezza. Se non puoi sistemarlo, prepara un mock separato che simuli il terminale e dimmi chiaramente cosa non stiamo testando.*
+Noah Carter comparve sulla soglia con un caffè ancora chiuso. Era arrivato tardi persino per il proprio lavoro, ma non per quella demo: non apparteneva al progetto Bridgeglass e nessuno lo aveva inserito nel calendario. Doveva occuparsi di un connettore per un altro cliente. Vide i monitor, poi Gavin.
 
-L'agente propose una modifica, ma il test sul terminale reale fallì ancora. Poi generò un simulatore con risposte preregistrate e un'etichetta **MOCK — DATI SINTETICI**. La schermata era finalmente verde.
+«Bella mattinata», disse.
+
+«Non abbiamo tempo per le battute», rispose Malik.
+
+Noah appoggiò il caffè. «Allora fammi vedere i log.»
+
+Gli bastarono due schermate per indicare il punto in cui la conferma del terminale veniva interpretata come una nuova operazione. «State usando l'identificatore del tentativo, non quello dell'ordine. Quando scade il timeout, il retry cambia identificatore. Il vecchio sistema ha già confermato, ma il vostro adattatore non lo riconosce.»
+
+«Lo sappiamo che duplica», disse Malik.
+
+«Sì. Ma state cercando di correggere la risposta. Il difetto potrebbe essere nella chiave con cui la confrontate. Prova lì, e poi rifai il test vero.»
+
+Noah aprì l'agente sul terminale di Malik, ma non inviò nulla senza il suo assenso. Scrisse:
+
+*Abbiamo cinque minuti e siamo bloccati. Analizza il percorso timeout → retry → conferma. Controlla se la chiave di idempotenza cambia tra i tentativi. Non toccare produzione né aggirare i controlli. Prepara una patch da verificare e, separatamente, un mock etichettato con dati sintetici per la demo.*
+
+Malik lesse il prompt, annuì e lo inviò. L'agente produsse una patch e un test. Il test sul terminale reale fallì ancora: restava un secondo caso non coperto. Il mock, invece, mostrava il percorso previsto con l'etichetta **MOCK — DATI SINTETICI**.
 
 «Quello è un film», disse Malik. «Non una prova.»
 
-«È quello che possiamo mostrare», rispose Gavin. Aveva la voce di chi aveva appena ricevuto tre chiamate e non aveva potuto rispondere a nessuna.
+«Infatti», rispose Noah. «La patch va verificata. Il mock può far capire l'interfaccia, non dimostrare che l'integrazione funziona.»
+
+Gavin fissò il verde del simulatore. «È quello che possiamo mostrare, purché lo diciamo.»
+
+Noah recuperò il caffè. «Adesso torno al mio cliente. Se serve, mi trovate al piano di sopra.» Non chiese di essere ringraziato. Malik lo guardò uscire, poi tornò al test che continuava a fallire.
 
 Quando Kyla entrò con i visitatori, il laboratorio dei sistemi vecchi aveva un difetto che Kyla non riusciva a far sistemare: odorava di plastica calda anche quando tutte le apparecchiature erano spente.
 
