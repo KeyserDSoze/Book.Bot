@@ -152,7 +152,7 @@ Il robot cercò di rialzare il braccio sinistro. Non era un gesto diretto contro
 
 «Vi prego. Non fatemi male. Non ho deciso chi perde il lavoro.»
 
-Marcus gli assestò un altro colpo. Bi non si raccolse nella posizione di arresto. Tentò ancora di spostarsi e di tenersi in equilibrio, esponendo una spalla già danneggiata. Ethan vide un pannello cedere e una delle superfici ottiche incrinarsi. Un rumore secco, più alto degli altri, fece voltare entrambi.
+Marcus lo colpì ancora, questa volta con un calcio al fianco. Bi non si raccolse nella posizione di arresto. Tentò ancora di spostarsi e di tenersi in equilibrio, esponendo una spalla già danneggiata. Ethan lo spinse e lo colpì a sua volta. Vide un pannello cedere e una delle superfici ottiche incrinarsi. Un rumore secco, più alto degli altri, fece voltare entrambi.
 
 Il robot perse l'equilibrio e cadde su un fianco.
 
