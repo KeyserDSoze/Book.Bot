@@ -17,60 +17,68 @@ factions:
   - faction:cyberdine
 ---
 
-La porta della sala riunioni si chiuse nel campo della telecamera frontale di B-17.
+La porta della sala riunioni si chiuse nel campo visivo di B-17.
 
-Il bicchiere restava verticale, dentro il supporto termico. Una richiesta di consegna era stata annullata. Sul display comparve il percorso per il punto di raccolta: ventisette metri, una svolta a sinistra, nessun ostacolo segnalato.
+Il bicchiere restava verticale nel supporto termico. Sul display comparvero due istruzioni: rientrare alla nicchia delle bevande oppure riassegnare la consegna a una richiesta autorizzata. Il contenitore era ancora sigillato; il sensore di presa non rilevava perdite.
 
 Dall'altra parte della porta arrivò una voce maschile.
 
 «Non puoi trattare il mio team come se non avesse fatto niente!»
 
-Il sistema acustico classificò il rumore come conversazione non indirizzata all'unità. Nessun comando venne aggiunto alla coda.
+Il sistema acustico non rilevò alcun comando indirizzato all'unità.
 
-B-17 avanzò. A ogni passo la mano correttiva mantenne in piano il bicchiere. Superò un cestino, attese che una persona attraversasse la striscia gialla e riprese a camminare. Non rallentò quando dalla sala arrivò una seconda voce, più alta.
+B-17 procedette verso la striscia gialla. Si fermò per lasciar passare due dipendenti, allineò il busto con la curva del corridoio e riprese il percorso. La mano di trasporto compensava l'inclinazione del corpo per mantenere il bicchiere in piano.
 
 «Ti sto dicendo che il cliente non aspetta i vostri tempi!»
 
-Nella nicchia del caffè una riga indicava che il bicchiere sigillato poteva essere restituito oppure consegnato a un dipendente che ne avesse fatto richiesta. La macchina per le bevande lo aveva preparato pochi minuti prima, per un ordine interno poi cancellato. Nessun liquido era esposto; il coperchio era bloccato.
+La voce proveniva dalla sala riunioni. Il percorso assegnato non cambiò.
 
-Noah Carter apparve in fondo al corridoio con un portatile sotto il braccio e un cavo avvolto intorno a due dita. Aveva appena rimesso in funzione il collegamento di un collega e cercava qualcosa da bere prima di tornare alla propria commessa.
+Alla nicchia del caffè un dipendente stava litigando con la macchinetta. Premette due volte il pulsante, attese, poi colpì piano il pannello.
 
-«Oh, hai il caffè», disse, vedendo il bicchiere. «È disponibile?»
+Noah Carter arrivò con un portatile sotto il braccio e una matassa di cavi in mano. Vide B-17 davanti alla stazione di restituzione.
 
-«Una consegna è stata annullata. Il contenitore è sigillato. Posso assegnarlo a una nuova richiesta.»
+«Ehi, c'è un caffè disponibile?»
 
-«Allora la nuova richiesta sono io. Senza zucchero, spero.»
+«La consegna precedente è stata annullata. Contenitore integro. Posso assegnarlo a una nuova richiesta.»
 
-«Composizione: caffè espresso. Zucchero non aggiunto.»
+Noah guardò il bicchiere. «Mi andrebbe bene anche uno di ieri.»
 
-«Perfetto. Salvami la mattina.»
+«Il contenuto è stato preparato otto minuti fa.»
 
-B-17 controllò il punto di presa e porse il bicchiere. Noah lo ritirò.
+«Allora sei già più efficiente della macchinetta. È senza zucchero?»
 
-«Grazie, B-diciassette.»
+«Zucchero non aggiunto.»
+
+«Perfetto. Lo prendo io.»
+
+B-17 registrò la nuova richiesta, verificò che la persona fosse in posizione di presa e gli porse il bicchiere.
 
 «Consegna completata.»
 
-Noah bevve, fece una smorfia per il calore e sorrise lo stesso.
+Noah ne bevve un sorso e si ritrasse per il calore.
 
-«È già più di quello che mi ha dato il distributore ieri.»
+«Accidenti. Almeno questo è vero.»
 
-Il robot rimase in attesa della prossima istruzione. Sullo schermo del corridoio, il servizio interno assegnò un incarico: recuperare una scheda cartacea autorizzata dall'archivio quattro, portarla alla sala copie, produrre tre duplicati e riconsegnare l'originale nel contenitore protetto. La verifica della firma restava a Elena Fischer.
+Dal corridoio arrivò un rumore secco, come di una sedia spostata troppo in fretta. Noah guardò verso la porta della sala riunioni.
 
-«Copie, eh?», disse Noah, leggendo il pannello. «Ti hanno promosso.»
+«Ancora Bridgeglass», disse. «Stanno litigando da un'ora.»
 
-B-17 non rispose alla battuta. Confermò il percorso e si mosse.
+B-17 non produsse una risposta: l'osservazione non richiedeva un'azione.
 
-Noah lo seguì per qualche metro, sorseggiando il caffè. Attraverso il vetro della sala riunioni passò l'ombra di Malik, che gesticolava davanti a qualcuno. Il suo nome arrivò indistinto insieme a una frase interrotta.
+Sul pannello di servizio comparve una nuova missione.
 
-«Quelli sono ancora lì dentro», osservò Noah.
+*Archivio quattro. Ritirare documento autorizzato. Sala copie. Tre duplicati. Riportare originale nel contenitore protetto. Verifica documentale: Elena Fischer.*
 
-B-17 raggiunse l'archivio. La scheda azzurra era nel cassetto contrassegnato dal codice ricevuto. Le dita metalliche la afferrarono per un angolo. Il foglio scivolò. Le dita cambiarono posizione, trovarono un bordo più solido e lo sollevarono senza piegarlo. L'unità lo depose nella custodia, verificò la chiusura e ripartì.
+Il robot ruotò verso il corridoio nord. Noah gli si affiancò.
 
-Nessuna di quelle operazioni richiese di comprendere che cosa fosse scritto sul documento. Bastarono un codice, un percorso e una sequenza di prese ammesse.
+«Fotocopie. Ieri prato, oggi ufficio.» Bevve ancora. «Vediamo come te la cavi.»
 
-Noah osservò il modo in cui il robot aveva impiegato due tentativi per sollevare un solo foglio.
+B-17 attraversò la porta dell'archivio dopo il controllo del proprio identificativo. La scheda azzurra si trovava nel cassetto previsto. Le dita metalliche la presero lungo il margine superiore. Il foglio scivolò di tre centimetri; la mano si aprì, tornò sul bordo e lo sollevò al secondo tentativo.
 
-«Dai», disse piano, come avrebbe fatto con una stampante recalcitrante. «Vediamo come te la cavi col resto.»
+Noah si fermò sulla soglia. «Ecco, questo mi interessa.»
 
-B-17 non si voltò. La destinazione successiva era già sul display: *sala copie, quarto piano*.
+Il robot inserì il foglio nella custodia, ne verificò la chiusura e si rimise in cammino. Dal piano inferiore arrivò un'altra voce, più alta delle precedenti, poi il rumore di una porta aperta.
+
+La destinazione successiva rimase invariata.
+
+*Sala copie — quarto piano.*
