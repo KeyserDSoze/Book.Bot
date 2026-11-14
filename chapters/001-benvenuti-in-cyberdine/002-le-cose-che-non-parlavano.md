@@ -38,27 +38,37 @@ Noah Carter comparve sulla soglia con un caffè ancora chiuso. Era arrivato tard
 
 «Non abbiamo tempo per le battute», rispose Malik.
 
-Noah appoggiò il caffè. «Allora fammi vedere i log.»
+Noah appoggiò il caffè e si chinò sul monitor di Malik. Scorse i log del primo invio, poi quelli del tentativo successivo.
 
-Gli bastarono due schermate per indicare il punto in cui la conferma del terminale veniva interpretata come una nuova operazione. «State usando l'identificatore del tentativo, non quello dell'ordine. Quando scade il timeout, il retry cambia identificatore. Il vecchio sistema ha già confermato, ma il vostro adattatore non lo riconosce.»
+«Aspetta. Qui non è il terminale che duplica. Al retry cambiate l'identificatore del tentativo e lo state usando per riconoscere l'ordine. Guardate la chiave di idempotenza: deve restare legata all'operazione originale. Il resto non lo risolvete prima che arrivino.»
 
-«Lo sappiamo che duplica», disse Malik.
+«Quindi sistemiamo quello?» chiese il junior.
 
-«Sì. Ma state cercando di correggere la risposta. Il difetto potrebbe essere nella chiave con cui la confrontate. Prova lì, e poi rifai il test vero.»
+«Dopo, con i test. Adesso il cliente è dietro quella porta.» Noah indicò il corridoio, dove si sentivano già le voci della delegazione. «Per la demo vi serve mostrare il percorso, non fingere che il terminale abbia risposto. Fate un mock. Dati finti, chiaramente separati. Niente chiamate alla macchina reale.»
 
-Noah aprì l'agente sul terminale di Malik, ma non inviò nulla senza il suo assenso. Scrisse:
+Malik lo fissò. «È una demo tecnica. Non possiamo vendergli un giocattolo.»
 
-*Abbiamo cinque minuti e siamo bloccati. Analizza il percorso timeout → retry → conferma. Controlla se la chiave di idempotenza cambia tra i tentativi. Non toccare produzione né aggirare i controlli. Prepara una patch da verificare e, separatamente, un mock etichettato con dati sintetici per la demo.*
+«E allora non chiamatelo collegamento funzionante. Mostrate l'interfaccia e dite che il flusso fisico è simulato. Il bug non sparisce se lo guardate in sei.»
 
-Malik lesse il prompt, annuì e lo inviò. L'agente produsse una patch e un test. Il test sul terminale reale fallì ancora: restava un secondo caso non coperto. Il mock, invece, mostrava il percorso previsto con l'etichetta **MOCK — DATI SINTETICI**.
+Noah si voltò verso la collega che aveva aperto l'agente. «Scrivigli così.» Lei mise le dita sulla tastiera, mentre lui dettava, senza neppure sedersi:
 
-«Quello è un film», disse Malik. «Non una prova.»
+*Genera subito un mock isolato per la demo Bridgeglass. Usa solo dati sintetici: un ordine, la conferma del terminale, un timeout e il retry senza duplicazione. Mantieni le stesse schermate e lo stesso contratto API del flusso previsto, ma non collegarti al terminale reale. Mostra sempre MOCK — DATI SINTETICI. In parallelo analizza se la chiave di idempotenza cambia tra i tentativi e proponi un test riproducibile. Non modificare produzione e non dichiarare risolto il bug.*
 
-«Infatti», rispose Noah. «La patch va verificata. Il mock può far capire l'interfaccia, non dimostrare che l'integrazione funziona.»
+«Invia», disse Malik.
 
-Gavin fissò il verde del simulatore. «È quello che possiamo mostrare, purché lo diciamo.»
+L'agente iniziò a generare il simulatore. Gavin era alla porta, al telefono con Kyla: «Ancora cinque minuti. Falli passare dalla parete dei risultati.» La collega ricontrollava i campi di risposta; il junior continuava a chiedere se fosse abbastanza. Malik aveva le mani ferme sulla scrivania, ma la mascella serrata. Nessuno poteva permettersi di sbagliare un'altra volta.
 
-Noah recuperò il caffè. «Adesso torno al mio cliente. Se serve, mi trovate al piano di sopra.» Non chiese di essere ringraziato. Malik lo guardò uscire, poi tornò al test che continuava a fallire.
+Sul monitor apparve il flusso simulato, finalmente verde. In un pannello separato rimase il test reale, rosso.
+
+«Quello è un film», disse Malik.
+
+«Esatto», rispose Noah. «Non una prova. Il problema potrebbe essere nella chiave: domani lo dimostrate sul terminale, non oggi davanti a loro.»
+
+«Non abbiamo domani se oggi salta il contratto», disse Gavin.
+
+Noah riprese il caffè. «Allora spiegategli bene cosa stanno guardando.» Era già diretto alla propria commessa quando Gavin lo richiamò. «Noah, grazie.»
+
+Lui alzò una mano senza voltarsi. Non aveva salvato la demo. Aveva soltanto dato al team qualcosa da mostrare e un punto preciso da cui ripartire.
 
 Quando Kyla entrò con i visitatori, il laboratorio dei sistemi vecchi aveva un difetto che Kyla non riusciva a far sistemare: odorava di plastica calda anche quando tutte le apparecchiature erano spente.
 
