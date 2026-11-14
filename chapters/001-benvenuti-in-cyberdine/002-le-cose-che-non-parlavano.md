@@ -5,13 +5,14 @@ chapter: chapter:001-benvenuti-in-cyberdine
 number: 2
 title: Le cose che non parlavano
 canon: canon
-pov: character:kyla
+pov: character:malik-okafor
 characters:
   - character:kyla
   - character:visitors
   - character:malik-okafor
   - character:noah-carter
   - character:gavin-shaw
+  - character:daniel-reed
   - character:b-17
 locations:
   - location:cyberdine-campus
@@ -28,7 +29,7 @@ Malik aveva già riavviato il servizio tre volte quando Gavin entrò nel laborat
 
 «Non è un orario, Malik.»
 
-Sul monitor la prova di Bridgeglass era rossa. L'agente aveva preparato un adattatore che, dopo un timeout, interpretava una conferma ripetuta come un secondo ordine. Il terminale vecchio non sbagliava: era il software nuovo a leggere male ciò che tornava indietro. Il problema era proprio quello che la demo prometteva di evitare.
+Sul monitor la prova di Bridgeglass era rossa. Malik non riusciva a distogliere gli occhi dal risultato: davanti ai visitatori avrebbe dovuto spiegare proprio quel comportamento. L'agente aveva preparato un adattatore che, dopo un timeout, interpretava una conferma ripetuta come un secondo ordine. Il terminale vecchio non sbagliava: era il software nuovo a leggere male ciò che tornava indietro. Il problema era proprio quello che la demo prometteva di evitare.
 
 Una collega cercò il test mancante. Gavin scrisse a Kyla di rallentare la visita. Il telefono di Malik vibrava da dieci minuti; un junior aveva smesso di parlare e fissava la barra rossa del test. Gavin chiese ancora un orario. Malik gli rispose più forte del necessario: «Se mi chiedi ogni trenta secondi quando finisco, finisco dopo.» Nessuno rise.
 
@@ -218,6 +219,6 @@ Uscendo dal laboratorio incrociarono B-17. Veniva dal giardino con un contenitor
 
 B-17 attraversò il corridoio senza voltarsi. Dietro di lui una porta si chiuse con il piccolo rumore di una serratura in funzione.
 
-Noah, davanti al vecchio varco che stavano ancora riparando, aveva ottenuto finalmente una apertura corretta. Non celebrò. Chiese all'addetto di ripetere l'operazione, questa volta senza il suo intervento.
+Il tecnico della manutenzione, davanti al vecchio varco, aveva ottenuto finalmente un’apertura corretta. Non celebrò. Chiese all’addetto di ripetere l’operazione, questa volta senza il suo intervento.
 
 Kyla lo osservò per un istante prima di seguire gli ospiti.
