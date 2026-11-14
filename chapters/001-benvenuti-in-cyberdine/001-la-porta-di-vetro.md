@@ -20,11 +20,19 @@ factions:
   - faction:aruvhana
 ---
 
+Alle nove e diciassette il collegamento con il terminale di prova smise di rispondere.
+
+Kyla Morgan non lo sapeva ancora. Nell'atrio aspettava la delegazione di Aruvhana, un cliente che doveva decidere se estendere il contratto. Cyberdine voleva vendergli **Bridgeglass**, una piattaforma di integrazione assistita da agenti AI: prendeva le operazioni di vecchi terminali industriali, ne ricostruiva lo stato e le rendeva leggibili nei sistemi moderni senza sostituire le macchine. Per Aruvhana, che gestiva impianti acquisiti in anni diversi, era un investimento importante. La dimostrazione doveva essere dal vivo: un ordine sul nuovo cruscotto, una conferma sul terminale storico, un'interruzione di rete simulata e nessuna doppia esecuzione.
+
+Il telefono vibrò: *Gavin: demo rossa. Malik sta indagando. Guadagnaci dieci minuti.*
+
+Le auto erano già davanti all'ingresso.
+
 «Benvenuti in Cyberdine.»
 
-Kyla Morgan aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi in un contratto. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
+Kyla aveva ripetuto quella frase davanti allo specchio dell'ascensore e se ne vergognò appena la pronunciò. Non era il genere di persona che provava i saluti; quella mattina, però, Aruvhana avrebbe deciso se prolungare o no la visita dei propri tecnici. Una delegazione che rimaneva fino a pranzo poteva trasformarsi nell'estensione del contratto Bridgeglass. Una che chiedeva subito la strada per l'uscita diventava una nota nella riunione commerciale del lunedì.
 
-Una mezz'ora prima, Gavin Shaw le aveva chiesto di non sottrarre due ingegneri alla consegna per verificare un vecchio terminale durante la visita. «Il mio team ha già promesso venerdì», aveva detto. Kyla gli aveva proposto quindici minuti con Malik e la persona che seguiva il collaudo, senza cambiare la scadenza. Gavin aveva accettato solo quando Kyla gli aveva assicurato che il tempo sarebbe comparso nel ticket. Lei non lo biasimava per aver difeso la squadra, ma aveva annotato anche il nome di chi avrebbe firmato la prova.
+Una mezz'ora prima, Gavin Shaw le aveva chiesto di non sottrarre due ingegneri alla consegna per verificare il terminale previsto dalla demo. «Il mio team ha già promesso venerdì», aveva detto. Kyla gli aveva proposto quindici minuti con Malik e la persona che seguiva il collaudo, senza cambiare la scadenza. Gavin aveva accettato solo quando Kyla gli aveva assicurato che il tempo sarebbe comparso nel ticket. Lei non lo biasimava per aver difeso la squadra, ma aveva annotato anche il nome di chi avrebbe firmato la prova.
 
 La luce attraversava l'atrio e proiettava sul pavimento l'ombra di un albero coltivato in una vasca rialzata. Non c'erano catene di montaggio. Dietro le vetrate si distinguevano sale di riunione, postazioni di sviluppo, una parete di monitor e, più in fondo, il laboratorio dove si conservavano vecchi terminali dei clienti.
 
@@ -54,23 +62,23 @@ All'ingresso del reparto tecnico una porta emise un segnale verde ma non si apr�
 
 «No», disse Kyla. «Ed è proprio per questo che preferisco non nascondervela.»
 
-Il telefono le vibrò: Gavin chiedeva se i tecnici impegnati nella consegna dovessero interrompersi per la visita. Kyla non rispose subito. Aveva promesso ai visitatori di mostrare un sistema che funzionava; ora doveva decidere quanto lavoro reale sottrarre alla squadra per mantenere quella promessa. Arrivò Noah Carter, con una custodia di attrezzi e una felpa chiusa fino al collo.
+Il telefono le vibrò: Gavin chiedeva se i tecnici impegnati nella consegna dovessero interrompersi per la visita. Kyla non rispose subito. Aveva promesso ai visitatori di mostrare un sistema che funzionava; ora doveva decidere quanto lavoro reale sottrarre alla squadra per mantenere quella promessa. Arrivò un tecnico della manutenzione, con una custodia di attrezzi e una felpa chiusa fino al collo. Noah Carter, del gruppo sviluppo, non era ancora arrivato: quella mattina lavorava a un'altra commessa e non era stato convocato per la demo.
 
-Kyla lo conosceva abbastanza da sapere che avrebbe aperto prima un registro, poi il pannello della porta. Gli fece un cenno breve: niente scorciatoie per gli ospiti. Noah ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
+Kyla sapeva che il tecnico avrebbe aperto prima un registro, poi il pannello della porta. Gli fece un cenno breve: niente scorciatoie per gli ospiti. Il tecnico ascoltò il racconto dell'addetto, si abbassò a osservare il fermo e tornò al display. Non cercò di forzare l'anta.
 
-L'addetto aveva in mano una cartellina da consegnare al piano superiore. Noah gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
+L'addetto aveva in mano una cartellina da consegnare al piano superiore. Il tecnico gli chiese di aspettare, telefonò alla reception e fece aprire il passaggio laterale. Solo quando l'uomo fu entrato tornò a occuparsi della porta che continuava a segnalare un'apertura inesistente.
 
-«Questo è un vostro programmatore?», chiese Sahir.
+«È uno dei vostri sviluppatori?», chiese Sahir.
 
-«Sì. Gruppo sviluppo. Se qualcosa non funziona, preferisce capire quale pezzo della realtà non è entrato nella specifica.»
+«No, è della manutenzione. I sistemi fisici hanno bisogno di persone che li conoscano davvero.»
 
-Noah sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
+Il tecnico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
 
 «Non ti scusare con me», gli disse Noah. «Al massimo con la porta. È lei che non fa quello che promette.»
 
-L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Noah si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
+L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Il tecnico si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
 
-Kyla sapeva che Noah era spesso quello a cui un junior chiedeva aiuto perché non si sentiva stupido per averlo fatto. Rispose a Gavin: *Noah è già sul guasto; nessun altro viene spostato. La prova sul terminale resta da concordare.* Non era la risposta che avrebbe fatto piacere a tutti. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
+Kyla rispose a Gavin: *La manutenzione è sul varco; nessuno del team demo viene spostato. La prova sul terminale resta da concordare.* Non era la risposta che avrebbe fatto piacere a tutti. Tornò alla delegazione prima che la piccola riparazione diventasse un'altra dimostrazione preparata per loro.
 
 Il telefono vibrò nella tasca della giacca.
 
@@ -108,6 +116,8 @@ Kyla rise. «Per il momento sarei contenta che non tagliasse anche i fiori. Lo s
 
 Fuori, B-17 terminò la striscia d'erba. Il giardiniere controllò il bordo e gli diede un cenno. Non ci furono applausi.
 
-Kyla aprì la porta del laboratorio.
+Kyla aprì la porta del laboratorio. Sul telefono comparve un nuovo messaggio: *Malik: il terminale risponde, ma la riconciliazione duplica un'operazione dopo il retry. Non siamo pronti.*
 
-«Volevo mostrarvi una cosa che vendiamo da vent'anni e che ancora oggi molti clienti non possono sostituire.»
+Kyla trattenne il respiro. Aveva passato venti minuti a spiegare perché Cyberdine non confondeva un test verde con la realtà. Adesso avrebbe dovuto dimostrarlo davanti a chi pagava.
+
+«Vi mostro Bridgeglass», disse. «Prima, però, voglio presentarvi la squadra che sta completando la prova.»
