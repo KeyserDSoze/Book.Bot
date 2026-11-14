@@ -9,6 +9,8 @@ pov: character:kyla
 characters:
   - character:kyla
   - character:visitors
+  - character:daniel-reed
+  - character:b-17
 locations:
   - location:cyberdine-campus
 factions:
