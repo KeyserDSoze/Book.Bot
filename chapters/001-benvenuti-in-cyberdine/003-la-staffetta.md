@@ -16,74 +16,46 @@ factions:
   - faction:aruvhana
 ---
 
-Dopo il confronto difficile sul mock, Kyla aveva bisogno di mostrare qualcosa che funzionasse davvero, senza fingere. Portò la delegazione nella sala batterie: non era una deviazione turistica, ma una dimostrazione concreta dei limiti e delle verifiche dei sistemi robotici.
+Il telefono vibrò mentre Kyla parlava della manutenzione degli impianti. Vide il mittente, Daniel Reed, e si scusò con la delegazione.
 
-Il primo odore della sala batterie ricordò a Kyla l'officina di suo nonno: metallo scaldato, gomma, polvere che qualcuno puliva con una cura non del tutto sufficiente.
+L'email era precisa, e per questo peggiore di un messaggio vago: test live fallito; integrazione non validata; scelta operativa di procedere con un mock; Kyla in copia per autorizzare la presentazione. Daniel aveva messo nero su bianco anche le obiezioni dei tecnici.
 
-«Qui i dati arrivano davvero dalle macchine?», chiese Sahir, prima ancora di guardare i banchi.
+Kyla sentì salire l'irritazione. Non con Daniel, che almeno aveva preso una decisione, ma con il fatto di averlo scoperto mentre cercava di convincere tre persone che Cyberdine sapeva mantenere le proprie promesse. Non poteva portarli in laboratorio. Non ancora.
 
-«Sì. E se un banco si ferma, lo vedrete. Non vi chiedo di fidarvi di un’animazione», rispose Kyla.
+Alzò la testa. «Scusatemi, era un messaggio importante. Prima della dimostrazione vorrei mostrarvi un'ultima cosa. È arrivata da poco e ne siamo particolarmente fieri.»
 
-«Questa parte non entra mai nel filmato», disse Leïa.
+Li condusse in giardino, dove un robot stava tagliando l'erba sotto la supervisione di un giardiniere. La bordura non era perfetta; la macchina si fermò davanti a una borsa dimenticata su una panchina e aspettò che qualcuno la spostasse.
 
-«Perché nessuno vuole vedere una batteria mentre si carica. Però è una delle ragioni per cui i filmati sono possibili.»
+«B-17, vieni qui», chiamò Kyla.
 
-Un robot arrivò al banco con un modulo di energia quasi esaurito. Un secondo robot ne ricevette l'avviso, controllò la temperatura, verificò che le mani dell'unità fossero nella posizione prevista e sostituì il pacco. Nessuno dei due accelerò per fare bella figura davanti ai visitatori.
+Il robot interruppe il lavoro, mise in sicurezza l'attrezzo e percorse il vialetto fino al punto di arresto davanti al gruppo. Una piccola luce sul torace confermò che era in modalità interazione.
 
-«Quanto può lavorare senza fermarsi?», chiese Sahir.
+«Non lo avete costruito voi», osservò Anika.
 
-«Dipende. Trasportare scatole, parlare con un modello grande e manovrare una porta non consumano la stessa energia. Non abbiamo risolto la fisica. Abbiamo organizzato meglio le soste.»
+«No. L'hardware viene da un produttore esterno. Noi sviluppiamo le integrazioni, le autorizzazioni e i flussi che lo rendono utile qui dentro. B-17 è il diciassettesimo bot registrato nel nostro sistema: non la diciassettesima versione.»
 
-Kyla indicò i nomi semplici scritti sopra le stazioni: UNO e DUE. Le unità incaricate della staffetta si alternavano fra manutenzione, carica e cambio moduli. Sul tabellone compariva anche l'intervallo entro cui un tecnico umano avrebbe dovuto intervenire se entrambi i banchi fossero risultati occupati.
+Kyla gli chiese di mostrare la configurazione degli accessori. Sul display comparvero il modulo per la manutenzione del verde, il supporto per trasportare piccoli carichi e il vassoio per le consegne interne. B-17 sollevò lentamente il braccio libero e mostrò l'aggancio, senza simulare l'uso di un attrezzo che non aveva montato.
 
-«E a notte fonda?», insistette Sahir.
+«Porta anche il caffè?» chiese Leïa.
 
-«C'è un presidio per le eccezioni. Non possiamo chiedere a una persona di passare otto ore a fissare una batteria che si carica. Ma non possiamo neanche far finta che un robot sia una fonte d'energia perpetua.»
+«Con il vassoio adatto può consegnarlo tra le postazioni autorizzate. Non gli facciamo preparare bevande e non gli permettiamo di attraversare corridoi affollati con liquidi caldi senza supervisione. Oggi, per esempio, taglia il prato. Domani potrebbe trasportare materiale leggero. Non è una macchina che fa tutto soltanto perché ha due braccia.»
 
-Dall'altra parte della vetrata due impiegati mangiavano su una terrazza, molto prima dell'ora in cui Kyla si era abituata a vedere i colleghi trovare cinque minuti per pranzo. Uno aveva un libro aperto; l'altro stava raccontando qualcosa agitando le mani.
+Sahir girò intorno al robot. «E chi decide quando può cambiare attività?»
 
-«Quindi il vantaggio è lavorare ventiquattr'ore su ventiquattro», disse Leïa.
+«Un responsabile autorizza la missione. Il robot controlla che gli accessori siano quelli previsti e che il percorso sia consentito. Se manca una condizione, si ferma e chiede aiuto.»
 
-«Non sempre», disse Kyla. «Per esempio, adesso non abbiamo un tecnico di notte che aspetta la fine della ricarica. Lo chiamiamo se la seconda stazione è occupata o c'è un'anomalia.»
+Kyla gli fece mostrare sul display una missione di consegna, senza eseguirla. Spiegò la ricarica, la sostituzione controllata dei moduli batteria e la differenza fra un agente software che propone un'azione e una macchina fisica che deve poterla interrompere. Leïa fece domande sugli spazi condivisi; Anika sui registri degli interventi; Sahir volle sapere chi rispondeva se un oggetto cadeva.
 
-Si accorse che stava evitando la domanda più difficile e aprì una schermata con l'orario delle persone che seguivano i connettori di Aruvhana. «Prima gli sviluppatori dovevano spesso restare fino a tardi per ricostruire le stesse differenze fra registri. Da quando gli agenti preparano i confronti e i test, molti rientrano a casa in orario. Uno di loro è andato a prendere sua figlia a scuola per tre settimane di fila. È successo. Non è un indicatore teorico.»
+Kyla rispose a tutti. Parlava con naturalezza, ma ogni volta che una domanda finiva sentiva il telefono pesare nella tasca. Stava allungando la visita, non perché il robot fosse irrilevante, ma perché dietro le vetrate qualcuno aveva bisogno di minuti che lei poteva ancora procurargli.
 
-«E se prima lavoravano in sei per fare quello che ora ne richiede due?», chiese Sahir.
+B-17 tornò a tagliare l'erba. Il giardiniere lo seguì per controllare un angolo che la macchina aveva saltato.
 
-Kyla mantenne aperta la schermata. C'erano due colonne relative a un gruppo riorganizzato, entrambe con nomi oscurati.
+Il telefono vibrò di nuovo. *Daniel: simulazione pronta. Nessun collegamento live. Possiamo riceverli quando autorizzi. Ti spiego tutto prima di iniziare.*
 
-«Alcuni sono passati ai problemi più difficili. Altri controllano il rilascio dei programmi che gli agenti propongono. Non tutte le attività si sono trasformate allo stesso modo. Quando qualcuno viene spostato, il passaggio ha un costo di formazione e di responsabilità che dobbiamo misurare.»
+Kyla lesse due volte. Rispose: *Arrivo. Prima voglio vedere le etichette e sapere esattamente cosa stiamo mostrando.*
 
-«Non mi sembra una risposta», disse Sahir.
+«Grazie per la pazienza», disse alla delegazione. «Ora possiamo passare a Bridgeglass.»
 
-«È quella che abbiamo. Non voglio promettervi che nessuna professione cambierà.»
+Sahir guardò il laboratorio oltre il vetro. «Finalmente.»
 
-Leïa guardò la terrazza. «Ma oggi quelle persone sono contente?»
-
-«Alcune moltissimo. Altre chiedono che cosa significhi fare carriera in un'azienda dove sono gli agenti a preparare la prima versione del lavoro.»
-
-Kyla ricordò un ragazzo del gruppo sviluppo che, alla riunione del venerdì, aveva chiesto di assistere al collaudo di un vecchio modulo. Sapeva approvare i test preparati dall'agente, aveva spiegato; non aveva ancora visto il terminale sul quale quei test sarebbero stati usati. Gavin gli aveva domandato quale consegna avrebbe lasciato scoperta per andarci. Il ragazzo aveva guardato il proprio calendario, senza trovare una risposta. Ora Sahir le stava chiedendo, in sostanza, la stessa cosa: chi avrebbe avuto il tempo di imparare?
-
-Non lo raccontò agli ospiti. Mentre Sahir si chinava sul tabellone delle batterie, Kyla cercò *formazione legacy*. La richiesta c'era, ma la casella del centro di costo era vuota. Scrisse a Elena per sapere chi potesse mostrare il terminale, a Gavin per chiedere due ore di uno sviluppatore e al responsabile di commessa per sapere dove registrarle. Il calendario le offrì soltanto un promemoria. Non lo trasformò in un appuntamento.
-
-Sul tabellone la batteria in carica raggiunse la soglia prevista. L'unità UNO rientrò con un modulo scarico. DUE verificò che l'area fosse libera, lo prese e iniziò la procedura. Un tecnico comparve alla porta, controllò il registro e firmò la rotazione.
-
-«Tutto questo lo fate perché i robot non si stanchino?», chiese Leïa.
-
-«Perché i robot si fermano. E perché non vogliamo che ogni loro fermata diventi un turno di notte per qualcuno.»
-
-Sahir esaminò la firma del tecnico.
-
-«La persona è ancora necessaria.»
-
-«Sì. E quando c'è un dubbio, dovrebbe avere abbastanza conoscenza per dire di no.»
-
-Dal corridoio arrivò il ronzio di una macchina per la pulizia del pavimento. La porta si aprì per pochi secondi e l'aria di detergente sostituì quella delle batterie.
-
-Kyla guardò l'orologio. Aveva ancora venticinque minuti prima della conclusione prevista. Sul telefono c'era un messaggio dell'amica: *Per il film ho anche comprato i popcorn. Non è un invito a una riunione.*
-
-Kyla sorrise.
-
-«Ultima tappa», annunciò. «Poi vi lascio fare le domande che non ho previsto.»
-
-Il robot alla stazione di carica completò il cambio e tornò al lavoro. Il tecnico chiuse il registro soltanto dopo aver visto il risultato sul banco reale, non quando il software glielo suggerì.
+Kyla sorrise. Era la risposta che si meritava.
