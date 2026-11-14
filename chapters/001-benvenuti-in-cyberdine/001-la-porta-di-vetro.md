@@ -48,7 +48,7 @@ Il telefono vibrò di nuovo.
 
 *Daniel: stiamo verificando una doppia esecuzione dopo il timeout. Ti aggiorno.*
 
-Daniel Reed non scriveva *doppia esecuzione* per un problema di grafica. Era il project manager di Aruvhana e conosceva il peso che quelle due parole avevano per un cliente con impianti vecchi e costosi. Kyla ripose il telefono con lo schermo rivolto all'interno della giacca.
+Daniel Reed non scriveva *doppia esecuzione* per un problema di grafica. Era il project manager di Aruvhana e conosceva il peso che quelle due parole avevano per un cliente con impianti vecchi e costosi. Kyla ripose il telefono con lo schermo rivolto all'interno della giacca. Sotto la notifica di Daniel ne restava una dell'amica con cui aveva promesso di andare al cinema: *Stasera ci sei? Ho già preso i biglietti.* Non la aprì.
 
 «Prima di Bridgeglass, vorrei farvi vedere il tipo di lavoro per cui ci chiamano», disse.
 
