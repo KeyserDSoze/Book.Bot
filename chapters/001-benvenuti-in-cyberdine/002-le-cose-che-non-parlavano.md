@@ -13,7 +13,7 @@ characters:
   - character:noah-carter
   - character:gavin-shaw
   - character:daniel-reed
-  - character:b-17
+  - character:daniel-reed
 locations:
   - location:cyberdine-campus
 factions:
