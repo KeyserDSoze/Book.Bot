@@ -36,3 +36,7 @@ Nel cap. 10 Noah rivela al lettore **per la prima volta** che fra le prime commi
 ## Nona review — svelare un fatto, non ripetere tre volte la lezione
 
 Noah resta un ingegnere simpatico, inserito in un gruppo di amici e nella vita familiare. Il primo svelamento tecnico della modifica clandestina e della backdoor avviene qui, senza anticipazioni nei capitoli 1–9. In 001 la descrizione delle abilità conversazionali è stata accorciata e compare una prova energetica sul turno lungo rimasta incompleta, coerente con i limiti delle batterie e con l'insufficienza dei test. Noah non conosce il colloquio privato di Maya; questa ignoranza non attenua la gravità della sorveglianza possibile. Il tema nel 12 sarà la responsabilità, non un secondo catalogo di capacità del modello.
+
+## Rivelazione sulla protezione antiurto
+
+Nella scena 10/001 Noah ricorda in ordine le fotocopie del capitolo 2, il successivo urto con Malik e la sua scelta clandestina **fra il capitolo 2 e il capitolo 3**. Non ha soltanto potenziato la conversazione: ha anche escluso senza autorizzazione l'arresto protettivo di fabbrica dopo urti forti. Nel capitolo 6 questa protezione non interviene durante i colpi ripetuti, contribuendo plausibilmente alla gravità del danno. Noah se ne sente responsabile, pur senza poter dimostrare quanto sarebbe cambiato l'esito; la responsabilità della violenza resta di Ethan e Marcus. Non descrivere una procedura tecnica replicabile per aggirare la sicurezza e non anticipare la causa prima di questo capitolo.
