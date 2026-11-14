@@ -12,101 +12,103 @@ characters:
   - character:paul-turner
   - character:mila-novak
   - character:b-17
-  - character:noah-carter
+  - character:daniel-reed
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Il foglio completamente bianco era appeso alla macchina del caffè con una calamita.
+Nel primo pomeriggio Kyla salì al quarto piano per cercare Elena. Non aveva con sé una presentazione. Aveva il verbale della riunione con Malik, tre richieste di disponibilità ancora senza risposta e una bozza di proposta per Aruvhana che non si sentiva di inviare.
 
-Sotto, in stampatello, qualcuno aveva scritto: **PRIMO CAPOLAVORO DI B-17**.
+Alla macchina del caffè era appeso un foglio completamente bianco.
 
-Kyla lo trovò il mattino successivo. Era arrivata al quarto piano per raccogliere testimonianze sui benefici delle nuove automazioni. Aveva con sé un piccolo elenco di domande e la convinzione che almeno metà delle risposte si sarebbe potuta prevedere senza intervistare nessuno.
+Sotto qualcuno aveva scritto, in stampatello: **PRIMO CAPOLAVORO DI B-17**.
 
-Paul le indicò la fotocopia.
+Paul Turner indicò il foglio prima ancora che Kyla potesse chiedere.
 
-«Ecco la vera intelligenza artificiale. Sa far parlare le persone con un foglio vuoto.»
+«Tre tentativi, una cornice ritrovata e un originale salvo. Il cliente interno ha avuto le sue copie.»
 
-Mila, accanto a lui, mangiava un biscotto. «Ha fatto anche il resto del lavoro, ma non raccontare la parte noiosa.»
+«State facendo una mostra?»
 
-Kyla si fece spiegare la storia: il lato sbagliato, il foglio tagliato, la cornice dimenticata nel cassetto, la scheda finalmente leggibile. Ogni volta che Paul arrivava al proprio intervento, Mila cambiava un dettaglio per dargli fastidio.
+«Solo la prima opera», intervenne Mila, che aveva in mano un biscotto. «La seconda è una fotocopia leggibile, ma non fa ridere.»
 
-Noah Carter comparve in fondo al corridoio con una custodia di attrezzi. Si fermò soltanto un momento. Guardò il foglio bianco, la scritta di Paul e l'etichetta appena applicata al cassetto della sala copie.
+Elena arrivò dalla stanza accanto. «Per favore, se dovete raccontare l'episodio, dite anche che il documento è stato verificato. Non vorrei che qualcuno pensasse che qui approviamo i contratti guardando fogli bianchi.»
 
-«L'accessorio era lì già prima?», chiese.
+Kyla annuì. Era venuta per parlare di autorizzazioni e dati, non per cercare una storia da vendere. Eppure il foglio appeso le restituì la mattina in sala riunioni: B-17 sulla soglia, la richiesta del caffè, la propria voce più alta di quella di tutti gli altri.
 
-«Da anni», rispose Paul.
+«Ho urlato contro quel robot», disse.
 
-Noah annuì. «Allora non era un problema nuovo.»
+Paul si voltò verso di lei. «Ho sentito.»
 
-«Era un problema vecchio che avevamo smesso di vedere.»
+«Lo so. Non era il momento, ma non avevo nessun motivo di parlargli così.»
 
-Noah rise. «Paul, ci metti un'etichetta anche sulla mia scrivania? Ho tre cavi identici e solo uno funziona.»
+Elena non cercò di rassicurarla.
 
-«Se vuoi ti faccio un corso.»
+«Il robot è tornato al giro delle commissioni. Il problema non è che si sia offeso. È che stamattina avete trattato tutti come se bastasse ordinare una cosa per averla pronta.»
 
-«Ne ho già abbastanza, grazie.»
+Kyla avrebbe potuto replicare che una visita commerciale non si rimandava senza conseguenze. Lo aveva già detto, nella sala di sotto, a persone che non dormivano da quattro notti.
 
-Salutò anche Mila e proseguì verso gli uffici di sviluppo. Kyla non vi lesse nulla di particolare. Noah faceva spesso domande banali perché lasciava agli altri il piacere di aver risolto qualcosa, anziché arrivare per dimostrare di sapere già tutto.
+«È per quello che sono qui», rispose. «Voglio capire quali verifiche ci servono davvero prima di parlare di altre date.»
 
-Elena li raggiunse con il tablet. «Per favore, la prossima volta mostrate ai clienti anche la pagina firmata correttamente. Altrimenti penseranno che passiamo il giorno a produrre fogli bianchi.»
+Mila aprì sul tablet il caso del registro storico. Le mostrò il foglio azzurro, la discrepanza tra due codici e la nota che il vecchio indice aveva escluso. Elena aveva firmato la correzione della pratica, non una modifica al programma.
 
-«Quello che conta è che tu abbia potuto finire la verifica», rispose Kyla.
+«Il software ha scelto la risposta migliore fra quelle che conosceva», spiegò Mila. «La parte difficile era accorgersi che gli mancava una fonte. Paul sapeva che esisteva. Io ho chiesto il documento. B-17 è andato a prenderlo.»
 
-«Quello che conta è che la pagina vecchia stava in un posto che nessuno del nuovo sistema aveva indicizzato», intervenne Mila.
+«E chi ha detto all'agente di mostrarvi le alternative escluse?» chiese Kyla.
 
-Raccontò del registro recuperato da B-17. La pagina non aveva il codice che il programma si aspettava, ma spiegava perché due registri moderni sembravano in conflitto. Il robot l'aveva trasportata, Mila aveva confrontato le versioni, Elena aveva firmato. Nessuno aveva modificato il codice di produzione.
+«Nessuno. Per adesso non le mostra», rispose Mila. «Ho aperto un ticket perché possa farlo in un ambiente di prova. Vogliamo vedere anche i motivi per cui una fonte viene scartata.»
 
-Kyla aprì il ticket sul proprio tablet. Era quello che l'agente digitale aveva proposto durante la visita di Aruvhana: rendere visibili al revisore anche le alternative escluse. Un responsabile aveva autorizzato una prova limitata. La nuova nota di Mila descriveva esattamente il tipo di caso che voleva introdurre nella verifica.
+Kyla lesse il ticket. Era un miglioramento piccolo, circoscritto, e non pretendeva di sistemare tutto il sistema informativo. C'erano un esempio reale, una persona in grado di spiegarlo e una verifica che poteva fallire.
 
-«Per una volta non dobbiamo inventare un esempio», disse Kyla.
+«Questo sì che è un requisito», disse.
 
-«E non dimenticare da dove viene», rispose Mila. «La proposta è dell'agente. La pagina vera l'ha trovata il robot perché io sapevo cosa chiedergli di andare a prendere.»
+«È anche una richiesta di tempo», precisò Elena. «Qualcuno dovrà creare un caso sintetico che conservi l'eccezione, fare il test e controllare che la proposta non allarghi i permessi.»
 
-«Lo segno.»
+«Quanto tempo?»
 
-Kyla aggiunse alla scheda: *Caso proveniente dall'archivio quattro, generalizzato senza dati del cliente. Test in ambiente isolato. La scelta della fonte rimane del revisore umano.*
+«Non te lo dico finché non abbiamo verificato chi lo può fare.»
 
-Il tablet confermò l'invio. Nessuna modifica fu pubblicata; nessun algoritmo ricevette un permesso nuovo. La differenza era una domanda in più posta al gruppo che avrebbe dovuto scrivere e verificare la correzione.
+Kyla si accorse di aver ricevuto la stessa risposta di Malik, ma senza un grammo della sua rabbia.
 
-B-17 comparve con una risma di carta sotto il braccio. Sulla giuntura del ginocchio c'era ancora una traccia di polvere del giardino. La scatola era troppo grande perché potesse vedere direttamente il pavimento davanti ai piedi; il robot procedeva seguendo il percorso autorizzato, rallentando ogni volta che un collega gli tagliava la strada.
+«Giusto.»
 
-«Ecco l'artista», annunciò Paul.
+Spostò lo sguardo sul foglio bianco.
 
-«Il suo nome è B-17», precisò Elena.
+«Ieri, davanti ad Aruvhana, ho raccontato per un bel po' cosa può fare B-17. Taglia l'erba, porta materiale, segue procedure. Oggi ha sbagliato una fotocopia.»
 
-«È un artista con un numero», rispose Mila.
+«E poi l'ha fatta», disse Paul.
 
-Il robot posò la risma sul banco, controllò la consegna e attese che l'addetto alla sala copie confermasse. Nessuno gli chiese di intervenire nel codice. Nessuno in quella stanza lo considerava parte del reparto sviluppo.
+«Con il vostro aiuto.»
 
-Kyla osservò il foglio bianco. Con una fotografia e una frase ben scritta avrebbe potuto ricavarne una storia perfetta per il prossimo incontro con Aruvhana. Aprì la sezione del tablet dedicata ai casi da mostrare ai clienti, poi guardò Elena, che teneva ancora fra le mani l'elenco delle pratiche da chiudere.
+«È questo il punto», rispose Paul. «Non c'è una macchina che sappia già tutto del nostro lavoro. E se qualcuno non ha messo la cornice nella procedura, non puoi arrabbiarti con chi non l'ha trovata.»
 
-«Posso portare qui la delegazione, quando torna?», chiese. «Vorrebbero vedere una prova vera, non soltanto un grafico.»
+Elena gli rivolse un'occhiata. «Tu sapevi dove fosse.»
 
-Paul indicò la fotocopia. «Davanti al capolavoro?»
+«Io la cornice l'ho trovata», disse Paul. «Mi sembrava un bel contributo alla giornata.»
 
-«Davanti alla cornice e al ticket di Mila. Con un documento di prova, naturalmente.»
+Mila rise. Kyla sorrise per la prima volta da quando era entrata.
 
-«Un documento sintetico non si prepara da solo», disse Elena. «Deve contenere la stessa eccezione senza portarsi dietro la firma del cliente. E poi qualcuno deve controllare che la dimostrazione non funzioni soltanto perché conosciamo già il risultato.»
+Dal fondo del corridoio comparve B-17 con una risma di carta stretta tra le braccia. Un collega si fece da parte, quasi senza guardarlo. Il robot passò davanti alla macchinetta, si fermò al banco delle forniture e attese che l'addetto prendesse in carico la consegna.
 
-«Quanto ti serve?»
+Nessuno smise di parlare per osservare la scena. La macchina non era più l'attrazione preparata per Aruvhana. Era un ingombro in più da lasciare passare, e qualche minuto risparmiato per chi altrimenti avrebbe dovuto portare la carta.
 
-«Quaranta minuti, se Mila mi passa i riferimenti. Non oggi: ho tre pratiche da chiudere.»
+Il telefono di Kyla vibrò. Daniel aveva inviato una bozza di perimetro per il proof of concept: un solo flusso di ordine, un'interruzione controllata, una conferma verificabile sul terminale di prova e criteri di fallimento espliciti. In alto aveva scritto: *Da inviare soltanto dopo conferma tecnica di stima e capacità*. Gavin aveva risposto che Malik e il gruppo non sarebbero stati disponibili quel pomeriggio; avrebbero ripreso la verifica dopo il riposo.
 
-Kyla stava per proporle di spostare quelle pratiche. Si fermò quando vide l'ora di uscita prevista sul calendario di Elena. Invece creò una richiesta di preparazione del caso sintetico, senza una data confermata, e la collegò al ticket che aveva aperto per Aruvhana.
+Kyla lesse il messaggio fino in fondo. Nessun nome era stato aggiunto d'ufficio a una riunione. Nessuna data era stata promessa.
 
-«La foto del foglio bianco, però, la puoi fare», disse Mila.
+«Non vi chiedo di preparare qualcosa per una visita», disse a Elena. «Aruvhana non ci ha ancora risposto. Se tornano, devono vedere una prova del prodotto che vogliono comprare, non questo episodio del quarto piano.»
 
-«Quando avremo un facsimile riuscito da mettergli accanto», rispose Kyla. «Altrimenti sembra una storia in cui ci basta ridere dell'errore.»
+«E allora perché sei venuta?» chiese Mila.
 
-Elena posò il tablet. «Allora sì, avremo qualcosa da mostrare.»
+Kyla indicò il ticket aperto sul tablet.
 
-Kyla rimise il tablet in borsa. Sul proprio telefono l'amica del cinema le aveva inviato la fotografia di un biglietto strappato a metà, per scherzo. Kyla sorrise: la sera prima era arrivata puntuale.
+«Perché mi serve ricordarmi come si comincia una prova seria. Con una domanda precisa, una persona che sa cosa manca e il coraggio di dire che un risultato non basta.»
 
-Uscendo dal piano vide B-17 fermarsi davanti al carrello del corridoio. Mila lo aveva spostato abbastanza da lasciargli passare il contenitore. Il robot proseguì senza ritardare.
+Elena salvò la richiesta come *in attesa di pianificazione*. Il sistema non approvò nessun rilascio, non cambiò criteri e non assegnò ore che non c'erano.
 
-Dal punto di vista del sistema, quella fu soltanto un'altra consegna completata.
+Mentre Kyla usciva, B-17 incontrò di nuovo il carrello del corridoio. Mila lo aveva spostato contro la parete; ora passava senza fermarsi.
 
-Kyla non la registrò nella dashboard.
+Kyla gli lasciò spazio, poi proseguì verso l'ascensore.
+
+Nella memoria le rimaneva la risposta di Anika: *Ci ragioneremo*. Non era cambiato nulla, dal punto di vista del contratto. Ma nella bozza che portava con sé non c'era più una dimostrazione miracolosa. C'era una prova che qualcuno avrebbe dovuto poter smentire.

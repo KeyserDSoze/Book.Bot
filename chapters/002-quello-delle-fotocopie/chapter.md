@@ -5,35 +5,41 @@ number: 2
 title: Quello delle fotocopie
 canon: canon
 pov:
+  - character:kyla
   - character:elena-fischer
   - character:paul-turner
   - character:mila-novak
-  - character:kyla
 ---
 
 # Scopo
 
-Spostare B-17 dal campo visivo di una visita guidata alla geografia minuta di Cyberdine: corridoi, cassetti, macchinette del caffè, stampanti, richieste ordinarie. Il robot comincia a essere riconosciuto dai dipendenti non per una dichiarazione straordinaria ma perché occupa uno spazio nelle loro conversazioni e abitudini.
+Mostrare le conseguenze umane della demo mancata di Bridgeglass senza abbandonare la crescita graduale di B-17 nella vita d'ufficio. Il cuore del capitolo è il contrasto fra urgenza commerciale, responsabilità delle consegne e lavoro tecnico reale. B-17 attraversa quel conflitto come presenza ordinaria, non come salvatore, voce morale o protagonista dotato di interiorità.
 
-# Pressione narrativa
+# Cronologia
 
-Una pratica ha bisogno di copie fisiche e di una firma verificata prima di una riunione; la fotocopiatrice ha una caratteristica che mette in difficoltà le dita meccaniche. Il lavoro è normale, utile, autorizzato. Quattro persone vedono lo stesso bot in modi diversi.
+Il capitolo inizia il mattino immediatamente successivo alla visita di Aruvhana. La riunione di Kyla è alle 8:30 circa; subito dopo B-17 esce dalla sala e la narrazione lo segue dal punto di vista di Elena. Nella stessa mattinata avvengono il recupero dell'originale, le fotocopie e il confronto con il registro storico. Nel primo pomeriggio Kyla torna sul quarto piano. Aruvhana non ha ancora accettato il proof of concept.
+
+B-17 il giorno precedente tagliava l'erba in giardino; qui è stato abilitato a un giro sperimentale di servizi interni, con percorsi e missioni autorizzati. Può raccogliere richieste di caffè ma non preparare bevande o trasportare autonomamente liquidi caldi tra persone.
 
 # Beat canonici
 
-1. **Il giro delle nove**. Elena assegna una commissione; B-17 percorre corridoi e incrocia la pausa caffè. Si scherza sulla goffaggine nel prendere i fogli.
-2. **Il lato bianco**. Paul osserva la difficoltà meccanica con un originale sottile, le prime fotocopie sbagliate e la correzione tramite istruzioni e controlli.
-3. **Il corridoio lungo**. Mila vede il robot andare a recuperare ciò che manca, attraversare l'ufficio e diventare una presenza quotidiana. Un intoppo amministrativo richiede l'avallo umano.
-4. **Dove passa B-17**. Kyla rivede il bot fuori dalle dimostrazioni, valuta con un collega la proposta sulle alternative scartate (si autorizza soltanto un test circoscritto), osserva i piccoli accomodamenti spontanei dei colleghi.
+0. **Il giorno dopo — POV Kyla.** Il confronto si accende: Kyla è furiosa per il contratto compromesso; Malik risponde che la squadra lavora da quattro notti fino alle quattro, e denuncia scadenze irrealistiche nonostante gli agenti AI. Daniel si assume la responsabilità del mock, Gavin ammette i limiti di pianificazione. Kyla riconosce lo sforzo ma il conflitto non si risolve. Quando B-17 si affaccia a chiedere se desiderano caffè, Kyla gli urla di tacere e andarsene. Il confronto narrativo termina qui.
 
-# Limite di rivelazione
+1. **Il giro delle nove — POV Elena.** Senza tornare alla discussione, la narrazione segue B-17 nel corridoio. Elena osserva la stanchezza del team, assegna una commissione documentale autorizzata al robot e si confronta con Paul e Mila. La vita dell'ufficio riprende nonostante le tensioni.
 
-Nessun POV interno al robot, nessuna emozione o volontà dichiarata come fatto. Tutti i movimenti seguono compiti o sottopassi autorizzati. La simpatia nasce da gesti e proiezioni umane; non è una prova di coscienza. L'umorismo è bonario, non crudele. Il settore software di Cyberdine è già noto; quello finale di Aruvhana può restare non precisato.
+2. **Il lato bianco — POV Paul.** B-17 sbaglia la prima copia e disallinea la seconda. Paul riconosce un limite materiale e ritrova una cornice dimenticata; Elena autorizza e verifica il risultato. Il successo dipende dalla collaborazione e dal sapere pratico umano, non da un'intelligenza improvvisamente onnipotente.
 
-## Revisione di continuità v0.32.0
+3. **Il corridoio lungo — POV Mila.** Le copie permettono il confronto con il registro storico escluso dall'indice digitale. B-17 recupera un documento; Paul ricorda dove sia, Mila ne capisce la pertinenza, Elena convalida. Marcus mostra il costo personale di alcune automazioni. Mila apre un ticket per rendere verificabili anche le fonti escluse dall'agente software.
 
-B-17 è stato riassegnato dal servizio di manutenzione del giardino alle commissioni d'ufficio. Sbaga fotocopie e apprende l'uso della cornice di Paul. Il test sulle alternative scartate combina la proposta già presentata dall'agente software nel cap. 1 e una osservazione materiale di B-17 nel cap. 2. Il coding dei programmi non avviene in questa fase.
+4. **Dove passa B-17 — POV Kyla.** Nel primo pomeriggio Kyla incontra il foglio bianco appeso alla macchinetta, ascolta le persone che hanno completato la pratica e riconosce il proprio scatto d'ira contro B-17. La proposta tecnica sui documenti esclusi nasce in questo capitolo, dal caso di Mila, non è un'invenzione di B-17 né un test già approvato nel cap. 1. Kyla collega la lezione dei test circoscritti al PoC che potrebbe proporre ad Aruvhana, senza spacciare le commissioni d'ufficio per una prova di Bridgeglass.
 
-## Aggiornamento della riscrittura narrativa v0.33.0
+# Pressioni e limiti
 
-La scena 1 riparte direttamente dall'incarico fisico: Elena deve recuperare l'originale firmato che un file digitale non può sostituire. La goffaggine di B-17 è concreta e la cornice di Paul risolve una presa. Nella scena 3 Mila trova una fonte storica esclusa dal software e chiede la firma di Elena. Nella scena 4 Kyla unisce **la proposta digitale già presente dal capitolo 1** e l'osservazione materiale emersa grazie al robot. Non presentare B-17 come autore della proposta originale, come programmatore autonomo o come coscienza già dimostrata.
+- Kyla non è una caricatura del commerciale: una mancata vendita mette a rischio il finanziamento del progetto. Il suo errore è aver accettato un perimetro e una data senza una prova sufficiente e aver scaricato la tensione sul team e sul robot.
+- Malik difende la squadra e la qualità, ma non viene dipinto come infallibile: riconosce l'aiuto di Noah senza sminuire le notti dei colleghi.
+- Daniel è un PM capace: non sbaglia i destinatari, registra la decisione sui dati simulati e mantiene separata la responsabilità operativa dal via libera commerciale di Kyla.
+- Gavin deve affrontare la capacità reale delle squadre, non promettere ore inesistenti.
+- Il PoC su dati e ambiente di prova del cliente è soltanto una proposta. Nessuna accettazione, data di consegna o accesso ai dati è garantito.
+- Nessun POV interno al robot, nessuna coscienza o emozione attribuita come fatto. Il robot non programma, non aggiorna autonomamente i criteri, non approva pratiche. Il suo ruolo è ancora fisico e amministrativo.
+- Il miglioramento software sulle fonti escluse nasce dal lavoro combinato di Mila, Paul ed Elena e viene soltanto proposto per un test isolato. Non si attribuisce più retroattivamente a una scena del capitolo 1 rimossa dalla nuova versione canonica.
+- Mantenere l'umorismo del foglio bianco come contrasto umano allo stress, senza trasformare B-17 nel centro emotivo del romanzo.

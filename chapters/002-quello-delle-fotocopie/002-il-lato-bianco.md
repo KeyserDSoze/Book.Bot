@@ -17,90 +17,108 @@ factions:
   - faction:cyberdine
 ---
 
-Paul conosceva il rumore della fotocopiatrice del quarto piano da prima che Cyberdine cominciasse a vendere programmi capaci di capire documenti interi.
+Paul Turner riconosceva il rumore della fotocopiatrice del quarto piano da prima che Cyberdine cominciasse a vendere programmi capaci di interpretare documenti interi.
 
-Se i rulli davano due colpi secchi, il vassoio era inserito male. Se la macchina sospirava tre volte, stava per avviare la pulizia. Il guasto più fastidioso, però, non produceva suoni: un originale posato dal lato sbagliato poteva dare una copia impeccabilmente bianca.
+Due colpi secchi volevano dire che un vassoio era inserito male. Tre sospiri, che stava per partire la pulizia. Il difetto che lo irritava di più, però, era silenzioso: se posavi un originale dal lato sbagliato, la macchina produceva una pagina bianca perfettamente stampata.
 
-«Facciamo una scommessa», propose Mila, entrando alle spalle di B-17.
+«Scommettiamo su quante volte dovremo aiutarlo?» chiese Mila, entrando dietro B-17.
 
-«Sul foglio bianco?»
+«No.»
 
-«Su quanto ci mette a chiamarti.»
+«Sei diventato sentimentale?»
 
-Paul scosse la testa. «Se mi chiama, gli rispondo. Non lavoro per farlo fallire.»
+«Non mi piace preparare il fallimento di qualcuno per divertirci dopo.»
 
-Il robot posò il contenitore, verificò il codice del documento e aprì il coperchio. Appoggiò la scheda azzurra sul vetro. La voce della procedura elencò i controlli previsti, nessuno dei quali richiedeva che una persona restasse nella stanza.
+«È una macchina, Paul.»
 
-B-17 premette avvio.
+«La fotocopiatrice pure. Eppure quando si inceppa dobbiamo occuparcene noi.»
 
-La macchina inghiottì il primo foglio e lo restituì senza un segno.
+Il robot appoggiò il contenitore sul banco, verificò il codice della scheda azzurra e aprì il coperchio. Sistemò il foglio sul vetro con un'accuratezza che a Paul sembrò quasi comica: i bordi erano paralleli, gli angoli in ordine, il lato scritto rivolto verso l'alto.
 
-Mila lo sollevò. «Abbiamo trovato lo sviluppatore ideale. Non sporca una pagina.»
+La prima copia uscì completamente bianca.
 
-B-17 verificò la copia con il proprio sensore. Sullo schermo comparve **CONTENUTO NON RILEVATO**. Aprì il coperchio e guardò la scheda che aveva sistemato con tanta precisione.
+«Eccolo», disse Mila. «Ha prodotto il riepilogo perfetto della riunione di stamattina.»
 
-«Il lato scritto», disse Paul, tenendo le mani fuori dall'area di movimento. «Va verso il vetro.»
+Paul la guardò.
 
-«Non può semplicemente capirlo?», chiese Mila.
+«Non eri dentro.»
 
-«Ha capito che la copia è sbagliata. È diverso dall'avere il polpastrello adatto a girare una carta lucida.»
+«Non serve essere dentro per sentire urlare qualcuno contro un robot che offre il caffè.»
 
-Il robot invertì la scheda. La seconda copia mostrò la firma, ma mancavano due righe in fondo alla pagina. Il foglio aveva ruotato leggermente durante la chiusura del coperchio.
+B-17 scansionò il foglio. Sul display comparve *contenuto non rilevato*. Sollevò il coperchio e ricalcolò la posizione dell'originale.
 
-Un avviso di procedura lasciava due altri tentativi prima della sospensione. Paul controllò il documento: non era stato graffiato, e la firma era ancora intatta.
+«La scrittura va contro il vetro», disse Paul. Si tenne fuori dall'area di manovra finché il braccio non si fermò.
 
-«C'è una cornice magnetica», disse.
+«Possibile che sappia seguire un percorso in giardino e non capisca come gira un foglio?» chiese Mila.
 
-«Cosa?», chiese Mila.
+«Il percorso ha sensori e margini. Questa carta è così sottile che scivola anche fra le mie dita. Avere un agente linguistico non significa avere polpastrelli.»
 
-«Quella che abbiamo comprato quando ci accorgemmo che il sistema di alimentazione prendeva due fogli insieme. L'abbiamo messa nel cassetto perché sembrava più scomoda del problema.»
+B-17 girò la scheda. La seconda fotocopia mostrò la firma, ma mancavano le ultime due righe. L'originale si era spostato di qualche millimetro sotto il coperchio.
 
-La cercò tra un cavo elettrico, tre penne senza tappo e la custodia di un vecchio manuale. La cornice era una sottile struttura flessibile. Paul la poggiò sul banco.
+Paul si fermò davanti al vassoio. Due copie inutili, una firma importante. Era la stessa proporzione che aveva visto tante volte in azienda: produrre velocemente non significava aver concluso il lavoro.
 
-«Serve l'autorizzazione di Elena per modificare il modo di tenere l'originale», aggiunse. «Non perché la cornice sia pericolosa. Perché il documento è suo e la verifica finale resta a lei.»
+«Serve la cornice», disse.
 
-Elena arrivò con il telefono in mano, già irritata per il ritardo. Si fermò vedendo la prima copia completamente bianca.
+«Quale cornice?» domandò Mila.
 
-«Non vi bastavano le tre copie richieste?»
+Paul aprì il secondo cassetto, spostò un vecchio manuale e trovò una sottile cornice magnetica. Era stata comprata anni prima per stabilizzare i documenti sottili. Nessuno l'aveva più usata perché, per la maggior parte delle copie, il problema si risolveva più in fretta tenendo fermo un angolo.
 
-«Questa», disse Mila, «è un'opera d'arte.»
+«Questa.»
 
-Paul le spiegò il problema. Elena controllò il motivo del nuovo passaggio, approvò il tentativo con la cornice e rimase a verificare.
+«E perché non l'hai tirata fuori subito?»
 
-B-17 prese l'accessorio. Lo posizionò sul vetro e vi infilò la scheda fino a quando i margini rimasero allineati. Il coperchio si chiuse con un rumore diverso, meno secco.
+«Perché non sapevo che quel foglio avrebbe fatto questo scherzo. È così che funzionano i problemi veri.»
 
-La terza copia conteneva tutto.
+Elena entrò con il tablet in mano. Dall'ufficio delle consegne era arrivata un'altra richiesta di disponibilità per la settimana. L'aveva lasciata senza risposta.
 
-Paul confrontò le righe una per una. Elena controllò la firma. Solo dopo confermò l'esito. B-17 proseguì a produrre le altre copie e lasciò l'originale nel vassoio protetto.
+«A che punto siamo?»
 
-«Da tagliaerba a impiegato modello», disse Mila.
+Mila le mostrò la pagina bianca.
 
-«Modello no», rispose Paul. «L'impiegato modello avrebbe trovato la cornice da solo.»
+«Un capolavoro.»
 
-Il robot lasciò il vassoio sul banco e attese che Elena confermasse la presa in carico.
+«È l'unico originale firmato. Non voglio che diventi un esperimento fino a strapparsi.»
 
-Elena mise la scheda nella cartellina prima che qualcuno potesse appoggiarci sopra la prima copia bianca.
+Paul le spiegò la cornice e il motivo dei due tentativi falliti. Elena controllò lo stato del documento e autorizzò il tentativo con l'accessorio. Poi rimase nella stanza per verificare il risultato.
 
-«Per favore», disse, «la prossima volta chiamatemi prima del terzo tentativo. È l'unico originale firmato che abbiamo.»
+B-17 posizionò la cornice sul vetro, inserì la scheda e abbassò il coperchio. La terza copia uscì completa. Paul confrontò la prima riga, l'ultima e i dettagli della firma, poi passò il foglio a Elena. Lei verificò la corrispondenza con l'originale e confermò l'esito.
 
-Paul fece un cenno. Mila aveva già preso il foglio inutilizzabile.
+Soltanto allora B-17 produsse le altre due copie richieste e depositò l'originale nel contenitore protetto.
 
-Mila teneva ancora la prima copia. Con una penna scrisse sul bordo: **PRIMO CAPOLAVORO DI B-17**.
+«È fatta», disse Mila.
 
-«Non attaccarla in sala», disse Paul.
+«È fatta perché abbiamo trovato lo strumento giusto, controllato la carta e approvato il risultato», rispose Elena. «La prossima volta mi chiamate prima di consumare tutti i tentativi.»
 
-«Mai. La metto alla macchina del caffè.»
+Paul annuì. Aveva davanti agli occhi il cassetto rimasto chiuso per anni.
 
-B-17 prese il contenitore delle copie, ruotò per uscire e dovette fermarsi perché Elena era rimasta sulla porta. Lei si spostò; il robot passò.
+«Vedi», disse a Mila, «non è che il robot non sapesse obbedire. Gli mancava una cosa che noi avevamo già e non avevamo indicato nella procedura.»
 
-Paul sentì una risata provenire dal corridoio.
+«Sembra la frase di un corso di formazione.»
 
-Guardò il cassetto dove aveva trovato la cornice. Era stata lì per anni, disponibile e dimenticata. Prese un'etichetta adesiva e scrisse **CORNICE QUI — PER ORIGINALI SOTTILI**.
+«Peccato che lo dica uno che lavora davvero.»
 
-Prima di chiudere il cassetto Paul fotografò l'etichetta e la allegò alla scheda della fotocopiatrice. Il collega del turno di sera l'avrebbe letta senza dover chiedere chi ricordasse quella cornice.
+Mila prese la prima copia bianca e scrisse sul margine, in grandi lettere: **PRIMO CAPOLAVORO DI B-17**.
 
-«Paul?», lo chiamò Mila dalla nicchia. «B-17 ha fatto una copia che non serve a nessuno e adesso tutti vogliono vederla.»
+«Non attaccarla qui», le disse Paul.
 
-«Succede anche con le presentazioni aziendali», rispose.
+«Tranquillo. La metto alla macchinetta del caffè. Lì tutti hanno bisogno di ridere.»
 
-Rimise la cornice nel cassetto, stavolta sul davanti.
+B-17 era già uscito con il contenitore delle copie. Nessuno nella stanza gli aveva chiesto di diventare un programmatore; nessuno gli aveva affidato il compito di decidere se la firma fosse valida. La macchina aveva preso un foglio, sbagliato due volte e completato la commissione sotto controllo.
+
+Paul prese un'etichetta adesiva.
+
+**CORNICE PER ORIGINALI SOTTILI — SECONDO CASSETTO.**
+
+La fotografò e allegò l'immagine alla procedura. Nel pomeriggio un collega che non lo conosceva avrebbe potuto usare quella stessa fotocopiatrice senza doverlo cercare.
+
+«Hai salvato la giornata», disse Mila.
+
+«Ho spostato una cornice di venti centimetri.»
+
+«Oggi mi sembra già un buon risultato.»
+
+Dal corridoio arrivò un rumore di passi frettolosi, poi qualcuno chiese a un altro collega se fosse stata fissata una nuova data per Aruvhana.
+
+«Non ancora», rispose una voce.
+
+Paul rimise l'accessorio nel cassetto, questa volta sul davanti. Un lavoro incompleto rimaneva incompleto, anche quando sul display c'era scritto *completato*.

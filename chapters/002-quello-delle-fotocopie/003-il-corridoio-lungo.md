@@ -12,115 +12,114 @@ characters:
   - character:paul-turner
   - character:b-17
   - character:marcus-reed
-  - character:claire-foster
 locations:
   - location:cyberdine-campus
 factions:
   - faction:cyberdine
 ---
 
-Il problema delle tre fotocopie era che arrivarono in orario.
+Il problema delle copie era che arrivarono in tempo.
 
-Mila Novak se ne rese conto quando aprì il fascicolo sulla propria scrivania. La copia era leggibile, il codice del cliente coincideva, la firma era stata verificata. Mancava soltanto una corrispondenza con il vecchio sistema delle revisioni.
+Mila Novak ne appoggiò una accanto allo schermo. La firma c'era, il codice del cliente coincideva, Elena aveva verificato l'originale. Mancava soltanto una spiegazione: nel vecchio registro delle revisioni quel numero indicava una pratica diversa.
 
-Se le copie fossero arrivate in ritardo, avrebbe chiesto di rinviare il confronto e nessuno avrebbe discusso. Invece erano lì, e bisognava capire quale dei due registri avesse ragione.
+Se il documento non fosse arrivato, Mila avrebbe chiesto di spostare il confronto. Invece il documento era lì, e il confronto toccava farlo.
 
-Sul monitor un agente software aveva preparato una sintesi: *possibile duplicazione di identificativo; correzione suggerita secondo la versione attuale*. Due alternative, entrambe documentate. Nessuna citava il registro cartaceo che si usava prima della migrazione.
+Sul monitor l'agente software aveva preparato una sintesi: *possibile duplicazione di identificativo; utilizzare la corrispondenza più recente*. Seguivano due alternative, tutte ricavate dall'indice digitale. Nessuna conteneva il registro cartaceo usato prima della migrazione.
 
-«Un'altra volta», disse Mila, «il passato non ha letto il piano di aggiornamento.»
+«Di nuovo il passato non è stato invitato alla riunione», mormorò.
 
-Paul passò davanti alla porta con il proprio bicchiere d'acqua.
+Paul si fermò sulla soglia. Aveva un bicchiere d'acqua e un'aria ancora soddisfatta per aver recuperato la cornice.
 
 «Hai finito?»
 
-«Ho cominciato. C'è un numero che nel vecchio registro aveva un altro significato.»
+«Ho appena scoperto che i registri nuovi e quelli vecchi litigano su un numero. Sembra di essere nella sala Bridgeglass, solo senza le urla.»
 
-«Ah. Uno di quelli che ci sono costati la settimana di Ferragosto.»
+«Il registro vecchio è nell'archivio quattro. In fondo, dentro una custodia trasparente. Era già un problema quando migrarono il sistema.»
 
-«Dove tengo quel registro?»
+«L'indice non me lo trova.»
 
-«Archivio quattro. In fondo, dentro la custodia trasparente. Se non lo trovi chiama chi era qui prima della migrazione.»
+«L'indice sa soltanto quello che qualcuno ci ha messo.»
 
-Mila aprì il pannello delle commissioni. B-17 aveva terminato la consegna delle copie; era in attesa di una nuova attività del servizio interno. Gli assegnò il recupero della pagina, indicando il cassetto e l'obbligo di restituirla dopo il confronto.
+Mila aprì il pannello dei servizi. B-17 era tornato disponibile dopo la consegna delle copie; il giro delle bevande era sospeso nelle sale occupate. Gli assegnò un nuovo compito, limitato e tracciato: recuperare il registro nell'archivio quattro e riportarlo dopo il confronto, senza modificare alcuna pratica.
 
-Il robot si mise in movimento.
+Il robot percorse il corridoio in direzione dell'archivio. Mila lo seguì con gli occhi dalla parete vetrata: passò accanto al reparto integrazioni, davanti a una scrivania dove qualcuno aveva lasciato una giacca arrotolata come un cuscino. Il monitor di Malik era acceso, ma la sedia era vuota. Per una volta, pensò Mila, forse se n'era davvero andato a dormire.
 
-Dalla finestra della postazione Mila lo vide attraversare il corridoio, passare vicino alla sala dove i programmatori lavoravano sui connettori e fermarsi davanti a una chiazza d'acqua segnalata da un cono. Prese il percorso laterale. Un uomo con un carrello cercò di passargli davanti; B-17 rallentò e lasciò che il carrello proseguisse.
+B-17 rallentò davanti a una chiazza d'acqua segnalata da un cono e prese il passaggio laterale. Un uomo con un carrello gli tagliò la strada; il robot si fermò finché il carrello non fu oltre la striscia di sicurezza.
 
-Marcus Reed trasportava una pila di tazze verso la raccolta. Si spostò appena.
+Marcus Reed arrivava dall'altro lato con le tazze da riportare alla raccolta.
 
-«Adesso dobbiamo fare la fila anche per consegnare un bicchiere», disse, con un sorriso meno convinto di quello di Paul.
+«Ora facciamo la fila anche per un robot», disse.
 
-«Ti dà fastidio il traffico?», gli chiese Mila.
+«È stretto per tutti», rispose Mila.
 
-«Mi dà fastidio che ieri mi abbiano tolto due giri di consegne e poi mi abbiano detto che avevo guadagnato tempo.»
+«Non è il corridoio che mi dà fastidio. Da questa settimana mi hanno tolto due giri di consegna. Li fa lui, o li fa un altro servizio automatico. Mi hanno detto che così guadagno tempo.»
 
-Mila non trovò una battuta pronta. Avrebbe potuto ricordargli il minor numero di chiamate fuori turno. Marcus aveva ragione su una cosa più limitata: i giri erano davvero spariti. Erano una parte dei suoi incarichi, e con essi alcuni compensi aggiuntivi.
+«Non è una buona cosa?»
 
-«Chiedo a chi prepara la pianificazione», disse Mila. Provò ad abbassare la voce, ma Marcus la sentì perfettamente anche mentre si allontanava.
+Marcus le rivolse uno sguardo lungo.
 
-«L'hai già detto.»
+«Quei giri erano ore pagate. Non ho bisogno di guadagnare tempo che nessuno mi paga più.»
 
-Mila estrasse il telefono e cercò il messaggio che aveva mandato la settimana prima. La risposta dell'ufficio turni era ancora *presa in carico*. Lo mostrò a Marcus.
+Mila non rispose subito. Pensò agli indicatori sul cruscotto aziendale: *ore restituite*, *attività automatizzate*, *ritardi eliminati*. Una colonna per il costo del tempo di Marcus non l'aveva vista.
 
-«Non ti serve che io lo rimandi», disse lui. «Ti serve che mi dicano cosa dovrei fare nelle ore che mi hanno tolto.»
+«Avevi chiesto una formazione per il nuovo ruolo, vero?»
 
-«Hai ragione», rispose Mila, forte abbastanza da farsi sentire dall'altra parte del corridoio. «Chiedo una risposta su quello.»
+«La settimana scorsa. La richiesta è ancora in lavorazione.»
 
-Marcus continuò il proprio percorso. Mila aprì una nuova richiesta con il numero della precedente, questa volta indicando gli interventi serali scomparsi e la formazione che non aveva una data.
+Mila aprì il ticket dal proprio terminale. Era vero. Lo collegò alla modifica dei turni e lo rimandò alla pianificazione con una richiesta di risposta concreta.
 
-B-17 tornò dall'archivio con una custodia trasparente. Davanti alla curva un carrello abbandonato occupava lo spazio necessario. Il robot si fermò. Sul monitor di Mila comparve *ostacolo imprevisto; attesa rimozione*.
+«Non basta rimandarlo», disse Marcus.
 
-«Quel carrello è lì da martedì», disse Paul, comparendo di nuovo sulla soglia.
+«Lo so. Ma posso almeno scrivere che le ore perse hanno un nome e una persona.»
 
-«E tu perché non l'hai spostato?»
+Marcus si allontanò senza ringraziarla. Mila non gliene volle.
 
-«Avevo una relazione molto seria da mantenere con lui.»
+B-17 tornò con la custodia trasparente. Alla curva un carrello lasciato contro la parete restringeva il percorso. Il robot si fermò e sul monitor comparve *ostacolo imprevisto — attesa rimozione*.
 
-Mila uscì, lo spinse contro la parete e tornò oltre la striscia di sicurezza. Il robot riprese a muoversi.
+Paul spuntò di nuovo sulla soglia.
 
-«Almeno non ha provato a passare lo stesso», osservò Paul.
+«Quel carrello è lì da martedì.»
 
-«È un robot con buon senso», disse Mila.
+«E tu da martedì cosa stai facendo?»
 
-«È un robot con un sensore e una distanza minima. Sono due cose diverse.»
+«Stavamo diventando amici.»
 
-B-17 appoggiò il registro sul banco. Mila lo aprì alla pagina indicata e confrontò le cifre.
+Mila uscì, spostò il carrello quanto bastava e tornò oltre il limite segnalato. B-17 riprese il tragitto.
 
-Trovò il numero. Era stato assegnato a un cliente diverso durante una migrazione, poi recuperato con una convenzione temporanea che nessuno aveva più digitalizzato correttamente. Il nuovo programma non aveva inventato una corrispondenza falsa; aveva semplicemente scelto quella che vedeva.
+«Come vedi», disse Paul, «non decide di passare lo stesso perché ha fretta.»
 
-Mila fotografò la pagina secondo la procedura e aprì una richiesta di approvazione a Elena.
+«Almeno uno, in quest'azienda.»
 
-«B-17, mostrami quali documenti hai scartato quando hai identificato la pagina.»
+Il robot depose il registro sul banco. Mila lo aprì alla pagina indicata. Il numero contestato era stato riutilizzato durante una migrazione, poi recuperato con un'eccezione temporanea. La vecchia procedura ne spiegava l'origine, ma quel riferimento non era mai entrato correttamente nell'indice nuovo.
 
-Il robot presentò il registro dei passaggi. Fra i risultati c'era una nota del vecchio indice, esclusa perché non aveva lo stesso codice della revisione attuale.
+L'agente non aveva inventato una corrispondenza falsa. Aveva scelto la migliore fra quelle che riusciva a vedere.
 
-«Quella», disse Mila, indicando lo schermo, «era proprio la ragione per cui cercavo il registro.»
+Mila fotografò la pagina secondo la procedura. Prima di inviare la richiesta a Elena, consultò il registro delle fonti utilizzate dalla ricerca associata al documento. B-17 aveva mostrato una nota dell'indice precedente, ma il filtro automatico l'aveva esclusa perché non portava lo stesso codice della revisione in corso.
 
-Il robot non rispose con una teoria. Mostrò la provenienza e lo stato dell'elemento escluso. Mila ne aggiunse il riferimento alla richiesta di controllo. Il programma non era ancora autorizzato a modificare i criteri del censimento; lei non voleva che li cambiasse.
+«Eccola», disse Mila, chiamando Paul. «L'informazione che serviva era stata scartata. Non perché sbagliata, ma perché non assomigliava abbastanza a quella che cercavamo.»
+
+«L'agente te lo aveva detto?»
+
+«Mi aveva detto quali fonti aveva usato. Non quali aveva lasciato fuori.»
+
+Mila aprì un ticket per il reparto software: *Nei riepiloghi di revisione mostrare, a richiesta del controllore, le fonti escluse e il motivo dell'esclusione. Inserire un caso di prova con vecchi codici ancora rilevanti.*
+
+Non chiese a B-17 di scrivere il programma. Il robot aveva trasportato la custodia e restituito i passaggi della ricerca; a capire perché quella pagina fosse importante era stata lei, con l'indicazione iniziale di Paul.
 
 Elena chiamò poco dopo.
 
-«Hai trovato l'originale?»
+«Hai trovato la scheda?»
 
-«Sì. E una ragione per cui il riepilogo dell'agente dovrebbe mostrare anche certe fonti escluse.»
+«Sì. E ho trovato perché il sistema non l'aveva proposta.»
 
-«Allora tienila per la prova sui casi sintetici. Per questa pratica voglio una firma esplicita.»
+«Per oggi allega la prova e fammi firmare il confronto. Per il software, un test isolato. Nessun cambio di criterio su una pratica reale senza una verifica.»
 
-Mila preparò la richiesta, allegò la fotografia e attese. L'avallo arrivò con il nome di Elena.
+Mila predispose il controllo. Elena firmò dopo aver visto i riferimenti. Soltanto allora la pratica passò allo stato successivo.
 
-B-17 riprese il registro, lo rimise nella custodia e tornò all'archivio.
+B-17 prese il registro, lo rimise nella custodia e tornò verso l'archivio. Mila gli lasciò il passaggio libero spostando di nuovo il carrello, questa volta del tutto contro la parete.
 
-«Andata e ritorno», disse Paul. «La tua pratica è risolta.»
+La cosa sarebbe risultata invisibile nelle statistiche. Nessun agente aveva scritto un algoritmo rivoluzionario. Nessun robot aveva capito il senso della vita. Una pratica era stata chiusa perché Paul ricordava un registro, Mila aveva riconosciuto un'eccezione e Elena si era assunta la responsabilità di una firma.
 
-«È risolta perché qualcuno ricordava dove fosse il registro», rispose Mila. «Se Paul non me l'avesse detto, il robot avrebbe cercato un'altra cosa.»
+Dal reparto sviluppo arrivò un nuovo messaggio: *Bridgeglass — stima tecnica sospesa fino alla riproduzione del difetto*.
 
-«E se il robot non ci fosse stato, ci saresti andata tu», ribatté Paul.
-
-«Sì.»
-
-Entrambe le frasi erano vere. Mila guardò il ticket per il reparto sviluppo ancora aperto sul monitor e vi aggiunse una nota: *Includere nei casi di prova un documento storico escluso dall'indice attuale, pur pertinente per la decisione.*
-
-Poi alzò gli occhi. B-17 passava oltre il vetro, con la custodia ormai vuota.
-
-Mila spinse di altri due centimetri il carrello contro la parete. Non le sarebbe servito spiegare al robot come evitare l'ostacolo, ma avrebbe risparmiato qualche secondo a tutte le persone del piano.
+Mila lo lesse. Qualcuno, almeno per quel pomeriggio, aveva deciso che non tutto si poteva chiudere con una data.
