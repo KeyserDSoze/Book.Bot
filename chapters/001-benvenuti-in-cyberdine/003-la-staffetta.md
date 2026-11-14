@@ -16,7 +16,13 @@ factions:
   - faction:aruvhana
 ---
 
+Dopo il confronto difficile sul mock, Kyla aveva bisogno di mostrare qualcosa che funzionasse davvero, senza fingere. Portò la delegazione nella sala batterie: non era una deviazione turistica, ma una dimostrazione concreta dei limiti e delle verifiche dei sistemi robotici.
+
 Il primo odore della sala batterie ricordò a Kyla l'officina di suo nonno: metallo scaldato, gomma, polvere che qualcuno puliva con una cura non del tutto sufficiente.
+
+«Qui i dati arrivano davvero dalle macchine?», chiese Sahir, prima ancora di guardare i banchi.
+
+«Sì. E se un banco si ferma, lo vedrete. Non vi chiedo di fidarvi di un’animazione», rispose Kyla.
 
 «Questa parte non entra mai nel filmato», disse Leïa.
 
