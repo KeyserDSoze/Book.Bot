@@ -62,17 +62,31 @@ Malik scosse la testa. «E se insiste per il live?»
 
 «Le fate vedere il test rosso. Il bug non sparisce se lo guardate in sei.»
 
-«Basta», disse Daniel Reed. Non alzò la voce; fu il modo in cui chiuse il portatile a far tacere tutti. Daniel era il project manager della commessa Aruvhana, presente in laboratorio fin dall'inizio della crisi. Doveva spiegare al cliente ogni minuto di ritardo e a Gavin, responsabile delle consegne, ogni ora spesa per recuperarlo.
+«Basta», disse Daniel Reed. Non alzò la voce; fu il modo in cui chiuse il portatile a far tacere tutti. Era il project manager della commessa Aruvhana. Da due settimane vedeva le revisioni della proposta commerciale, il costo delle ore già bruciate e la data oltre la quale il cliente avrebbe confrontato Cyberdine con un altro fornitore. I tecnici vedevano il test rosso. Lui vedeva anche il contratto che poteva saltare.
 
-«Malik, hai ragione: questa non è la demo che abbiamo promesso. E tu», disse Daniel alla collega, «hai ragione sui controlli. Ma il terminale non sarà pronto quando entrano. Quindi seguite quello che dice Noah: mock isolato, dati sintetici, nessuna scrittura sul sistema reale. Io avviso Kyla adesso e mi prendo la responsabilità di questa scelta. Se non approva, non lo mostriamo.»
+«Malik, hai ragione: questa non è la demo che abbiamo promesso. E hai ragione anche tu sui controlli», disse alla collega. «Ma il terminale non sarà pronto quando entrano. Seguite Noah: mock isolato, dati sintetici, nessuna scrittura sul sistema reale. Io avviso Kyla e mi assumo la responsabilità della decisione. Se non autorizza, non lo mostriamo.»
 
-Malik aprì la bocca, poi la richiuse. Non era convinto. Ma finalmente qualcuno aveva deciso cosa fare nei quattro minuti rimasti.
+«No», disse Malik. Questa volta non abbassò lo sguardo. «È una scorciatoia. Avevamo detto che avremmo dimostrato l'integrazione, non un video interattivo. Così vendiamo qualcosa che oggi non funziona.»
 
-«Tu prepari il simulatore», continuò Gavin indicando la collega. «Tu tieni aperto il test fallito e i log», disse a Malik. «Se ci chiedono cosa funziona davvero, glielo facciamo vedere. Senza abbellimenti.»
+«E se poi ci chiedono perché abbiamo cambiato i dati all'ultimo minuto?» aggiunse la collega. «Non abbiamo neanche completato la revisione del simulatore. Non è il modo corretto di lavorare.»
 
-Noah si limitò a spostare il caffè lontano dalla tastiera. «Bene. Allora scrivigli così.»
+Daniel li lasciò finire. «Lo so. Ma Aruvhana non è venuta solo a vedere se un retry passa un test. Deve capire se vale la pena investire nella piattaforma. Se non riusciamo neppure a mostrare come dovrebbe funzionare, non arriveremo alla fase in cui possiamo sistemare il collegamento.»
 
-Noah si voltò verso la collega che aveva aperto l'agente. «Scrivigli così.» Lei mise le dita sulla tastiera, mentre lui dettava, senza neppure sedersi:
+«La fase in cui lo sistemiamo doveva essere prima di oggi», ribatté Malik.
+
+«Sì», disse Daniel. «E non lo nasconderemo. Mostriamo il percorso con dati dichiaratamente sintetici, poi il difetto reale e il piano per risolverlo. Non vi sto chiedendo di dire che funziona. Vi sto chiedendo di non perdere la possibilità di venderlo prima di aver spiegato cosa stiamo costruendo.»
+
+Malik guardò la collega. «Lo facciamo perché ce lo stai chiedendo tu. Ma sappi che non è quello che avremmo voluto fare. E non voglio che domani qualcuno dica che abbiamo validato questa integrazione.»
+
+«Non lo dirà», rispose Daniel. «Metterò per iscritto che è stata una mia decisione e che il test live è fallito.»
+
+«Allora registralo nel verbale della demo», disse la collega, ancora stizzita. «Non solo in una chat che sparisce.»
+
+«D'accordo.» Daniel guardò l'orologio. «Adesso lavoriamo. Tu prepari il simulatore», disse alla collega. «Malik, tieni aperti i log e il test fallito. Quando ci chiederanno cosa funziona davvero, glielo faremo vedere. Senza abbellimenti.»
+
+Noah aveva assistito allo scontro in silenzio, spostando il caffè lontano dalla tastiera. Non sorrise quando Daniel gli diede ragione. «Allora scrivigli così», disse alla collega.
+
+Lei mise le dita sulla tastiera, mentre Noah dettava, senza neppure sedersi:
 
 *Genera subito un mock isolato per la demo Bridgeglass. Usa solo dati sintetici: un ordine, la conferma del terminale, un timeout e il retry senza duplicazione. Mantieni le stesse schermate e lo stesso contratto API del flusso previsto, ma non collegarti al terminale reale. Mostra sempre MOCK — DATI SINTETICI. In parallelo analizza se la chiave di idempotenza cambia tra i tentativi e proponi un test riproducibile. Non modificare produzione e non dichiarare risolto il bug.*
 
