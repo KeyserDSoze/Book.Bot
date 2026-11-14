@@ -132,7 +132,7 @@ Ethan sentì la voce, ma non si voltò.
 
 Bi tentò di rimettersi in piedi. Un segnale acustico si accese vicino al suo fianco, breve e insistente. Aveva una linea rossa sul pannello della spalla.
 
-Ethan ricordava di aver visto, mesi prima, quello stesso modello rannicchiarsi e arrestarsi dopo un urto in un corridoio. Il robot allora aveva piegato le ginocchia e raccolto le braccia. Adesso, invece, il segnale continuava e Bi si rialzava. Non comparve nessun annuncio di disattivazione protettiva. Ethan non sapeva perché; non si fermò a domandarselo.
+Ethan aveva visto una volta, durante una prova del servizio interno, come quel modello si raccogliesse e si arrestasse dopo un urto: ginocchia piegate, braccia ripiegate, motori fermi. Adesso, invece, il segnale continuava e Bi si rialzava. Non comparve nessun annuncio di disattivazione protettiva. Ethan non sapeva perché; non si fermò a domandarselo.
 
 «Per favore», disse il robot. «Non fatemi del male.»
 
