@@ -10,7 +10,6 @@ characters:
   - character:kyla
   - character:visitors
   - character:anika-rao
-  - character:noah-carter
   - character:gavin-shaw
   - character:b-17
 locations:
@@ -74,7 +73,7 @@ L'addetto aveva in mano una cartellina da consegnare al piano superiore. Il tecn
 
 Il tecnico sollevò lo sguardo, li vide e rispose al saluto di Kyla con due dita. L'addetto accanto a lui sembrava ancora mortificato per aver bloccato il passaggio.
 
-«Non ti scusare con me», gli disse Noah. «Al massimo con la porta. È lei che non fa quello che promette.»
+«Non devi scusarti», disse il tecnico all’addetto. «Il lettore dice che è aperta. È il fermo che non risponde.»
 
 L'addetto rise e gli mostrò il messaggio che continuava ad apparire sul lettore. Il tecnico si chinò per vederlo insieme a lui, senza chiedergli di farsi da parte.
 
