@@ -6,40 +6,33 @@ title: Quello delle fotocopie
 canon: canon
 pov:
   - character:kyla
-  - character:elena-fischer
-  - character:paul-turner
+  - character:b-17
+  - character:noah-carter
   - character:mila-novak
 ---
 
 # Scopo
 
-Mostrare le conseguenze umane della demo mancata di Bridgeglass senza abbandonare la crescita graduale di B-17 nella vita d'ufficio. Il cuore del capitolo è il contrasto fra urgenza commerciale, responsabilità delle consegne e lavoro tecnico reale. B-17 attraversa quel conflitto come presenza ordinaria, non come salvatore, voce morale o protagonista dotato di interiorità.
+Mostrare le conseguenze della demo Bridgeglass, la frattura tra commerciale e sviluppo e, per contrasto, il carattere ancora meccanico di B-17. Il robot esegue mansioni, non prova dispiacere quando viene cacciato e non generalizza bene le istruzioni sulle fotocopie. Noah, dopo aver accettato un caffè consegnato da B-17, osserva il limite nel passaggio dalle spiegazioni ai gesti. Qui nasce per lui una domanda tecnica, **non** una rivelazione al lettore di interventi futuri.
 
-# Cronologia
+# Cronologia e struttura
 
-Il capitolo inizia il mattino immediatamente successivo alla visita di Aruvhana. La riunione di Kyla è alle 8:30 circa; subito dopo B-17 esce dalla sala e la narrazione lo segue dal punto di vista di Elena. Nella stessa mattinata avvengono il recupero dell'originale, le fotocopie e il confronto con il registro storico. Nel primo pomeriggio Kyla torna sul quarto piano. Aruvhana non ha ancora accettato il proof of concept.
-
-B-17 il giorno precedente tagliava l'erba in giardino; qui è stato abilitato a un giro sperimentale di servizi interni, con percorsi e missioni autorizzati. Può raccogliere richieste di caffè ma non preparare bevande o trasportare autonomamente liquidi caldi tra persone.
+Mattino successivo alla visita di Aruvhana. La riunione inizia alle 8:32; B-17 viene allontanato mentre Kyla e Malik litigano. La discussione prosegue fuori scena e si sente dai corridoi. Nel frattempo il robot consegna il caffè rifiutato a Noah, esegue una commissione documentale, prova le fotocopie sotto supervisione, attraversa altre piccole vicende d'ufficio. Il capitolo termina quando Malik esce furioso dalla riunione, urta accidentalmente il robot e attiva il **blocco protettivo di fabbrica**.
 
 # Beat canonici
 
-0. **Il giorno dopo — POV Kyla.** Il confronto si accende: Kyla è furiosa per il contratto compromesso; Malik risponde che la squadra lavora da quattro notti fino alle quattro, e denuncia scadenze irrealistiche nonostante gli agenti AI. Daniel si assume la responsabilità del mock, Gavin ammette i limiti di pianificazione. Kyla riconosce lo sforzo ma il conflitto non si risolve. Quando B-17 si affaccia a chiedere se desiderano caffè, Kyla gli urla di tacere e andarsene. Il confronto narrativo termina qui.
+0. **Il giorno dopo — Kyla.** Kyla accusa il team della demo fallita; Malik difende le quattro notti fino alle quattro e contesta promesse irrealistiche. Daniel e Gavin riconoscono le loro responsabilità, ma nessuno ottiene la riconciliazione. B-17 offre un caffè; Kyla lo caccia bruscamente. La discussione non si spegne.
+1. **Il giro delle nove — focalizzazione sensoriale limitata a B-17.** Il robot porta ancora un bicchiere sigillato; segue un percorso senza interpretare emotivamente le urla. Noah lo accetta, beve il caffè e comincia a prestare attenzione all'unità. Segue il tragitto verso l'archivio e la sala copie.
+2. **Il lato bianco — Noah.** Il robot sbaglia prima il verso e poi l'allineamento del foglio. Noah gli spiega il problema più volte, con parole e prove diverse: B-17 ripete sequenze, ma non trasferisce la regola a un caso ruotato. Per la commissione corrente applica una procedura fissa, supervisionata da Paul e approvata da Elena. Noah rimane con la curiosità di migliorare questo limite.
+3. **Il corridoio lungo — Mila.** La documentazione permette a Mila e Paul di scoprire un riferimento storico escluso dal riepilogo di un agente software; Elena convalida il confronto umano e nasce il ticket per rendere ispezionabili le fonti escluse. Marcus subisce la riduzione di ore retribuite dovuta all'automazione. La lite continua a sentirsi in lontananza.
+4. **Il blocco — focalizzazione sensoriale limitata a B-17.** Malik esce infuriato, sbraita ancora e sbatte la porta. Senza volerlo urta violentemente B-17. Il robot annuncia l'arresto automatico, piega ginocchia e gomiti, si raccoglie e si immobilizza. Chiusura secca.
 
-1. **Il giro delle nove — POV Elena.** Senza tornare alla discussione, la narrazione segue B-17 nel corridoio. Elena osserva la stanchezza del team, assegna una commissione documentale autorizzata al robot e si confronta con Paul e Mila. La vita dell'ufficio riprende nonostante le tensioni.
+# Vincoli di continuità
 
-2. **Il lato bianco — POV Paul.** B-17 sbaglia la prima copia e disallinea la seconda. Paul riconosce un limite materiale e ritrova una cornice dimenticata; Elena autorizza e verifica il risultato. Il successo dipende dalla collaborazione e dal sapere pratico umano, non da un'intelligenza improvvisamente onnipotente.
-
-3. **Il corridoio lungo — POV Mila.** Le copie permettono il confronto con il registro storico escluso dall'indice digitale. B-17 recupera un documento; Paul ricorda dove sia, Mila ne capisce la pertinenza, Elena convalida. Marcus mostra il costo personale di alcune automazioni. Mila apre un ticket per rendere verificabili anche le fonti escluse dall'agente software.
-
-4. **Dove passa B-17 — POV Kyla.** Nel primo pomeriggio Kyla incontra il foglio bianco appeso alla macchinetta, ascolta le persone che hanno completato la pratica e riconosce il proprio scatto d'ira contro B-17. La proposta tecnica sui documenti esclusi nasce in questo capitolo, dal caso di Mila, non è un'invenzione di B-17 né un test già approvato nel cap. 1. Kyla collega la lezione dei test circoscritti al PoC che potrebbe proporre ad Aruvhana, senza spacciare le commissioni d'ufficio per una prova di Bridgeglass.
-
-# Pressioni e limiti
-
-- Kyla non è una caricatura del commerciale: una mancata vendita mette a rischio il finanziamento del progetto. Il suo errore è aver accettato un perimetro e una data senza una prova sufficiente e aver scaricato la tensione sul team e sul robot.
-- Malik difende la squadra e la qualità, ma non viene dipinto come infallibile: riconosce l'aiuto di Noah senza sminuire le notti dei colleghi.
-- Daniel è un PM capace: non sbaglia i destinatari, registra la decisione sui dati simulati e mantiene separata la responsabilità operativa dal via libera commerciale di Kyla.
-- Gavin deve affrontare la capacità reale delle squadre, non promettere ore inesistenti.
-- Il PoC su dati e ambiente di prova del cliente è soltanto una proposta. Nessuna accettazione, data di consegna o accesso ai dati è garantito.
-- Nessun POV interno al robot, nessuna coscienza o emozione attribuita come fatto. Il robot non programma, non aggiorna autonomamente i criteri, non approva pratiche. Il suo ruolo è ancora fisico e amministrativo.
-- Il miglioramento software sulle fonti escluse nasce dal lavoro combinato di Mila, Paul ed Elena e viene soltanto proposto per un test isolato. Non si attribuisce più retroattivamente a una scena del capitolo 1 rimossa dalla nuova versione canonica.
-- Mantenere l'umorismo del foglio bianco come contrasto umano allo stress, senza trasformare B-17 nel centro emotivo del romanzo.
+- Aruvhana non ha ancora accettato il proof of concept. Non anticipare una nuova data.
+- La focalizzazione su videocamera, microfono e movimenti del robot **non è un POV emotivo**: niente tristezza, rancore, dolore soggettivo o coscienza dichiarata.
+- Il blocco antiurto del costruttore è una procedura autonoma di protezione fisica: un singolo impatto abbastanza forte provoca sequenza di raccolta e stop, con successivo riavvio solo autorizzato. Il robot non è danneggiato irreparabilmente.
+- La differenza con l'aggressione del capitolo 6 è una futura rivelazione: allora B-17 **non** eseguirà questo arresto. La causa tecnica e la responsabilità di Noah **non devono essere spiegate al lettore prima del capitolo 10**.
+- Noah non installa ancora una nuova configurazione in questo capitolo. Il suo primo interesse nasce dalle fotocopie; la modifica clandestina, svelata nel capitolo 10, va situata **dopo gli eventi di questo capitolo e prima del cambiamento del capitolo 3**.
+- Il ticket sulle fonti escluse nasce da Mila, Paul ed Elena, non da un'affermazione miracolosa di B-17. Nessuna approvazione di software in produzione è attribuita al robot.
+- L'urto accidentale di Malik nel capitolo 2 e la violenza deliberata di Ethan e Marcus nel 6 sono eventi distinti, moralmente e meccanicamente.
