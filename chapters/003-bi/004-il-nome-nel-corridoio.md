@@ -20,7 +20,7 @@ factions:
 
 Alle otto e diciannove Kyla Morgan aveva già ricevuto due messaggi da Aruvhana.
 
-Il primo chiedeva il dettaglio delle ore previste per il proof of concept. Il secondo, arrivato nove minuti dopo, precisavo che non era un'accettazione della proposta.
+Il primo chiedeva il dettaglio delle ore previste per il proof of concept. Il secondo, arrivato nove minuti dopo, precisava che non era un'accettazione della proposta.
 
 Kyla li aveva letti entrambi tre volte.
 
@@ -108,9 +108,9 @@ Kyla distolse lo sguardo. Non aveva assistito alla conversazione della sera prec
 
 «Hai ricevuto conferma che l'intervento è stato sospeso?»
 
-«No. Solo che hanno preso in carico la richiesta.»
+«No. Solo che hanno preso in carico la richiesta. Non so neanche se la squadra abbia cominciato a smontarla.»
 
-«Allora la decisione sulla rimozione è ancora aperta.»
+«Allora non hai ancora una conferma sull'esito dell'intervento.»
 
 «Lo so.»
 
