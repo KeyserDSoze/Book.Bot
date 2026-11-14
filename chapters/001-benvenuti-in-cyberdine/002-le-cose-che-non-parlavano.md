@@ -102,7 +102,7 @@ Anika guardò Kyla. «Il mock mi mostra cosa vorreste vendere. Questo errore mi 
 
 Kyla li portò quindi a un'altra schermata, con tre pratiche di prova già predisposte, distinguendo i dati sintetici dai risultati verificati. La tensione non si sciolse. Il cliente era rimasto, ma non per ammirare la demo.
 
-Kyla li portò al monitor di una dimostrazione. Tre pratiche di censimento dei clienti erano ferme in attesa di un controllo. L'agente aveva segnalato campi incoerenti, suggerito correzioni e preparato una modifica ai controlli futuri. Sotto comparivano i test riusciti e quelli esclusi perché non c'erano dati sufficienti.
+Tre pratiche di censimento dei clienti erano ferme in attesa di un controllo. L'agente aveva segnalato campi incoerenti, suggerito correzioni e preparato una modifica ai controlli futuri. Sotto comparivano i test riusciti e quelli esclusi perché non c'erano dati sufficienti.
 
 «Quattro giorni per individuare i controlli che arrivavano troppo tardi», spiegò. «Prima ce ne servivano molti di più. La squadra ha accettato due suggerimenti e ne ha respinto uno.»
 
