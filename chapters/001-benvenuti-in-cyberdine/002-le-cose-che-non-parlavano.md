@@ -62,6 +62,16 @@ Malik scosse la testa. «E se insiste per il live?»
 
 «Le fate vedere il test rosso. Il bug non sparisce se lo guardate in sei.»
 
+«Basta», disse Gavin. Non alzò la voce; fu il modo in cui chiuse il portatile a far tacere tutti. Era lui il project manager della commessa, quello che avrebbe dovuto spiegare ad Aruvhana ogni minuto di ritardo e a Cyberdine ogni ora spesa per recuperarlo.
+
+«Malik, hai ragione: questa non è la demo che abbiamo promesso. E tu», disse alla collega, «hai ragione sui controlli. Ma il terminale non sarà pronto quando entrano. Quindi seguite quello che dice Noah: mock isolato, dati sintetici, nessuna scrittura sul sistema reale. Io avviso Kyla adesso e mi prendo la responsabilità di questa scelta. Se non approva, non lo mostriamo.»
+
+Malik aprì la bocca, poi la richiuse. Non era convinto. Ma finalmente qualcuno aveva deciso cosa fare nei quattro minuti rimasti.
+
+«Tu prepari il simulatore», continuò Gavin indicando la collega. «Tu tieni aperto il test fallito e i log», disse a Malik. «Se ci chiedono cosa funziona davvero, glielo facciamo vedere. Senza abbellimenti.»
+
+Noah si limitò a spostare il caffè lontano dalla tastiera. «Bene. Allora scrivigli così.»
+
 Noah si voltò verso la collega che aveva aperto l'agente. «Scrivigli così.» Lei mise le dita sulla tastiera, mentre lui dettava, senza neppure sedersi:
 
 *Genera subito un mock isolato per la demo Bridgeglass. Usa solo dati sintetici: un ordine, la conferma del terminale, un timeout e il retry senza duplicazione. Mantieni le stesse schermate e lo stesso contratto API del flusso previsto, ma non collegarti al terminale reale. Mostra sempre MOCK — DATI SINTETICI. In parallelo analizza se la chiave di idempotenza cambia tra i tentativi e proponi un test riproducibile. Non modificare produzione e non dichiarare risolto il bug.*
