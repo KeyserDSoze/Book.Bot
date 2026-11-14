@@ -88,7 +88,7 @@ Leïa indicò la parte evidenziata.
 
 Kyla inoltrò il ticket al referente, aggiungendo una domanda: *Nel test voglio vedere almeno un'alternativa esclusa che il revisore decide di recuperare. Altrimenti proveremo soltanto che il sistema sa spiegare se stesso.*
 
-Aveva scritto quella frase pensando al varco che Noah aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
+Aveva scritto quella frase pensando al varco che il tecnico della manutenzione aveva riparato poco prima. Il terminale aveva registrato l'autorizzazione, ma la porta era rimasta chiusa. Qualunque relazione basata soltanto sul segnale verde avrebbe raccontato una storia falsa.
 
 «Mi sembra che stiate facendo diventare tutti responsabili», disse Sahir.
 
@@ -98,7 +98,7 @@ Il visitatore annuì, pur senza sembrare persuaso fino in fondo.
 
 Dalla terrazza arrivò una risata. Due colleghi avevano appena terminato una partita a scacchi. Qualcuno si fermò a guardare la mossa finale, poi tornò alla propria scrivania. Kyla era tentata di indicare la scena come prova che l'azienda funzionava meglio. Non lo fece. Non conosceva le loro giornate abbastanza da usarle come argomento.
 
-Quando la delegazione uscì, Anika non firmò alcuna approvazione. Chiese un rapporto sul difetto di riconciliazione, un test ripetibile sul terminale reale e una nuova dimostrazione prima di discutere l'estensione del contratto. Gavin aveva già scritto tre volte per sapere chi avrebbe pagato le ore aggiuntive. Malik, dietro il vetro, stava ancora confrontando due registri. Nessuno dei due aveva pranzato.
+Quando la delegazione uscì, Anika non firmò alcuna approvazione. Chiese un rapporto sul difetto di riconciliazione, un test ripetibile sul terminale reale e una nuova dimostrazione prima di discutere l'estensione del contratto. Daniel aveva già aperto la questione delle ore aggiuntive con Gavin, responsabile delle consegne. Malik, dietro il vetro, stava ancora confrontando due registri. Nessuno dei due aveva pranzato.
 
 Sahir si fermò un'ultima volta.
 
@@ -112,7 +112,7 @@ Le porte di vetro si richiusero. Kyla controllò l'ora, scoprì di avere finito 
 
 Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla aprì la richiesta per l'incontro tecnico con Aruvhana. Indicò due ore di Malik sul sorgente e un'ora per preparare il terminale e la prova, senza chiamarle «visita commerciale»: non avrebbe potuto farle comparire come tempo risparmiato. Il sistema segnalò che le ore di Delivery disponibili prima di venerdì erano già impegnate.
 
-Inviò comunque la richiesta a Gavin e Malik, lasciando visibile il conflitto con la consegna. Nel campo *data confermata* non scrisse nulla. Si appuntò di chiedere al responsabile di commessa come coprire la prova; era la stessa voce di costo che le mancava per la formazione sul codice storico.
+Inviò comunque la richiesta a Gavin e Malik, lasciando visibile il conflitto con la consegna. Nel campo *data confermata* non scrisse nulla. Si appuntò di chiedere a Daniel come coprire la prova; era la stessa voce di costo che le mancava per la formazione sul codice storico.
 
 Prima di chiudere la schermata arrivò la risposta automatica: *Nessuna disponibilità prima di venerdì*. Venerdì era anche il giorno della consegna che Gavin aveva promesso. Kyla rilesse il messaggio di Anika: nel rinnovo voleva vedere una verifica capace di ritardare davvero un rilascio. Aveva chiesto proprio la prova che Cyberdine, per il momento, non riusciva a mettere in calendario. E adesso, dopo aver visto il mock, sapeva esattamente perché serviva.
 
