@@ -14,6 +14,7 @@ Questo indice è il **registro canonico aggiornato** dopo la riconciliazione del
 |---|---|---|
 | Kyla Morgan | [kyla.md](kyla.md) | HR/Marketing, socia dall'8, attenzione all'intera società ma comunicazione selettiva |
 | Victor Cole | [victor-cole.md](victor-cole.md) | AD, controllo finanziario, risultati raccontati ad arte |
+| Daniel Reed | [daniel-reed.md](daniel-reed.md) | Project manager Aruvhana, decisione commerciale e responsabilità scritta della demo |
 | Gavin Shaw | [gavin-shaw.md](gavin-shaw.md) | Delivery manager leale al gruppo fino all'ostilità per gli altri |
 | Noah Carter | [noah-carter.md](noah-carter.md) | Programmatore geniale e amichevole; curiosità e responsabilità |
 | Maya Bennett | [maya-bennett.md](maya-bennett.md) | Sorella morta, diffidenza istituzionale, Valle Corta e Bi |
@@ -40,4 +41,4 @@ Grace Walker — [grace-walker.md](grace-walker.md), coordinatrice assistenziale
 
 [B-17 / Bi](b-17.md) protagonista; [B-21](b-21.md) sostituto distinto; [B-32](b-32.md) e [B-33](b-33.md) assistenza; [B-37](b-37.md) logistica.
 
-**Totale:** 32 personaggi umani censiti in queste schede o nel registro dei visitatori e cinque robot. Questo conteggio **non include tutti i nomi episodici** presenti nel manoscritto: per esempio Jonas, amico di Noah (capitoli 10–11 e 19), ed Henry, addetto amministrativo a Veyra che inoltra la lettera privata fuori dal perimetro concordato (capitoli 14–15). Sono figure nominate nel testo ma non ancora personaggi dotati di scheda individuale; se ne estendiamo l'arco, vanno censite e dotate di riferimenti coerenti. Per le nuove schede distinguere fatto canonico, desiderio quotidiano, trauma o convinzione, abilità, punto cieco, parlato, relazioni e scena in cui il tratto viene mostrato. Le schede individuali già esistenti mantengono tutto il loro materiale; non attribuire tragedie a chi non ne ha bisogno.
+**Totale:** 33 personaggi umani censiti in queste schede o nel registro dei visitatori e cinque robot. Questo conteggio **non include tutti i nomi episodici** presenti nel manoscritto: per esempio Jonas, amico di Noah (capitoli 10–11 e 19), ed Henry, addetto amministrativo a Veyra che inoltra la lettera privata fuori dal perimetro concordato (capitoli 14–15). Sono figure nominate nel testo ma non ancora personaggi dotati di scheda individuale; se ne estendiamo l'arco, vanno censite e dotate di riferimenti coerenti. Per le nuove schede distinguere fatto canonico, desiderio quotidiano, trauma o convinzione, abilità, punto cieco, parlato, relazioni e scena in cui il tratto viene mostrato. Le schede individuali già esistenti mantengono tutto il loro materiale; non attribuire tragedie a chi non ne ha bisogno.
