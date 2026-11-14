@@ -82,7 +82,21 @@ Malik guardò la collega. «Lo facciamo perché ce lo stai chiedendo tu. Ma sapp
 
 «Allora registralo nel verbale della demo», disse la collega, ancora stizzita. «Non solo in una chat che sparisce.»
 
-«D'accordo.» Daniel guardò l'orologio. «Adesso lavoriamo. Tu prepari il simulatore», disse alla collega. «Malik, tieni aperti i log e il test fallito. Quando ci chiederanno cosa funziona davvero, glielo faremo vedere. Senza abbellimenti.»
+Daniel rimase a fissarla. Dal corridoio arrivò una risata dei visitatori. Guardò l'orologio, poi il monitor rosso. «Vi serve un'email? Va bene. Vi mando un'email.»
+
+Aprì di scatto il portatile, che aveva appena chiuso, e cercò la conversazione della commessa. Sbagliò due volte a digitare il destinatario. «Così, almeno, siamo tutti tranquilli», borbottò, senza che nessuno gli rispondesse. Poi scrisse, leggendo quasi a voce alta mentre batteva sui tasti:
+
+*Oggetto: Aruvhana / demo Bridgeglass — decisione operativa*
+
+*Confermo che, per la dimostrazione di oggi, procediamo con dati mockati e un simulatore isolato, senza collegamento al terminale reale. Il test live è fallito e l'integrazione non è validata. La decisione è mia; il team tecnico ha segnalato le proprie riserve. Kyla deve approvare la presentazione al cliente, dichiarando esplicitamente che i dati sono sintetici. Daniel Reed.*
+
+Premette **Invia**. Il suono della notifica arrivò sui portatili dei colleghi quasi nello stesso istante.
+
+«Ecco. Adesso siete contenti?» disse Daniel. La voce gli uscì più aspra di quanto volesse. «Possiamo fare come dice Noah, per favore? Abbiamo il cliente dietro la porta.»
+
+«Non è questione di essere contenti», rispose Malik, senza guardarlo. «È questione di sapere cosa stiamo mostrando.»
+
+«Lo so, Malik.» Daniel si passò una mano sul viso. «Tu prepari il simulatore», disse alla collega. «Malik, tieni aperti i log e il test fallito. Quando ci chiederanno cosa funziona davvero, glielo faremo vedere. Senza abbellimenti.»
 
 Noah aveva assistito allo scontro in silenzio, spostando il caffè lontano dalla tastiera. Non sorrise quando Daniel gli diede ragione. «Allora scrivigli così», disse alla collega.
 
