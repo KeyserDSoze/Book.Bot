@@ -113,7 +113,9 @@ Paul sollevò il foglio. «Eccolo. Ce l'ha fatta.»
 
 «Oppure fargli fare il corriere», rispose Paul.
 
-Elena prese le due copie definitive, verificò che corrispondessero all'originale e approvò la missione. Soltanto allora B-17 richiuse il contenitore e lo sollevò.
+Elena riaprì la custodia, sistemò personalmente l'originale sul riferimento e autorizzò B-17 a produrre le due copie mancanti, senza spostare il foglio tra una stampa e l'altra. Poi rimise l'originale sotto protezione.
+
+Prese le due copie definitive, verificò che corrispondessero all'originale e approvò la missione. Soltanto allora B-17 richiuse il contenitore e lo sollevò.
 
 Noah guardò il robot allontanarsi, poi il foglio di prova rimasto sul tavolo. Sul margine c'erano tre parole tagliate in tre modi diversi.
 
