@@ -45,7 +45,7 @@ Lavorava nello sviluppo delle capacità comportamentali dei robot. Aveva ottenut
 
 La prima volta in cui aveva davvero prestato attenzione a B-17, però, il robot gli aveva portato un caffè. Era il mattino dopo la visita di Aruvhana. Poco dopo Noah lo aveva seguito alla fotocopiatrice: l'unità sapeva ripetere a voce la regola del foglio, ma non applicarla quando Noah cambiava l'orientamento dell'esempio. Alla fine erano riusciti a completare la commissione usando una procedura fissa. Noah aveva conservato il foglio di prova tagliato a metà.
 
-Quel giorno, più tardi, aveva visto B-17 ripiegarsi dopo lo scontro accidentale con Malik. Un urto, un annuncio neutro, le ginocchia raccolte: la protezione prevista dal costruttore aveva fermato gli attuatori senza chiedere all'unità alcuna interpretazione.
+Quella sera Noah aveva letto il rapporto sull'urto accidentale con Malik. Descriveva B-17 ripiegato sul pavimento dopo un annuncio neutro: la protezione prevista dal costruttore aveva fermato gli attuatori senza chiedere all'unità alcuna interpretazione.
 
 Il contrasto gli era rimasto in mente: una macchina capace di un'intera sequenza fisica programmata, ma incapace di generalizzare una spiegazione semplice. Aveva cominciato a fare prove, poi altre, di notte. L'assegnazione alle prime fotocopie era stata decisa dal servizio interno; Noah non l'aveva ordinata. **Solo dopo quella giornata** aveva lasciato attiva la propria configurazione senza approvazione. Da un giorno all'altro le conversazioni di B-17 erano diventate molto più utili.
 
