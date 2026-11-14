@@ -54,7 +54,7 @@ Malik lo fissò. «È una demo tecnica. Non possiamo vendergli un giocattolo.»
 
 Noah si raddrizzò. «Avete ragione su entrambe le cose. Non sono io a decidere cosa mostrare, e un mock non dimostra che Bridgeglass funziona. Ma fra cinque minuti avrete un bug aperto e nessuna schermata, oppure un flusso simulato che potete dichiarare per quello che è.»
 
-«Kyla non ha autorizzato questa modifica», disse Gavin.
+«Kyla non ha autorizzato questa modifica», disse Daniel.
 
 «Allora chiamala. Non mettete il mock al posto del collegamento reale di nascosto. Ditele cosa è rotto e fate scegliere a lei se mostrarlo.»
 
@@ -62,9 +62,9 @@ Malik scosse la testa. «E se insiste per il live?»
 
 «Le fate vedere il test rosso. Il bug non sparisce se lo guardate in sei.»
 
-«Basta», disse Gavin. Non alzò la voce; fu il modo in cui chiuse il portatile a far tacere tutti. Era lui il project manager della commessa, quello che avrebbe dovuto spiegare ad Aruvhana ogni minuto di ritardo e a Cyberdine ogni ora spesa per recuperarlo.
+«Basta», disse Daniel Reed. Non alzò la voce; fu il modo in cui chiuse il portatile a far tacere tutti. Daniel era il project manager della commessa Aruvhana, presente in laboratorio fin dall'inizio della crisi. Doveva spiegare al cliente ogni minuto di ritardo e a Gavin, responsabile delle consegne, ogni ora spesa per recuperarlo.
 
-«Malik, hai ragione: questa non è la demo che abbiamo promesso. E tu», disse alla collega, «hai ragione sui controlli. Ma il terminale non sarà pronto quando entrano. Quindi seguite quello che dice Noah: mock isolato, dati sintetici, nessuna scrittura sul sistema reale. Io avviso Kyla adesso e mi prendo la responsabilità di questa scelta. Se non approva, non lo mostriamo.»
+«Malik, hai ragione: questa non è la demo che abbiamo promesso. E tu», disse Daniel alla collega, «hai ragione sui controlli. Ma il terminale non sarà pronto quando entrano. Quindi seguite quello che dice Noah: mock isolato, dati sintetici, nessuna scrittura sul sistema reale. Io avviso Kyla adesso e mi prendo la responsabilità di questa scelta. Se non approva, non lo mostriamo.»
 
 Malik aprì la bocca, poi la richiuse. Non era convinto. Ma finalmente qualcuno aveva deciso cosa fare nei quattro minuti rimasti.
 
@@ -78,7 +78,7 @@ Noah si voltò verso la collega che aveva aperto l'agente. «Scrivigli così.» 
 
 «Invia», disse Malik.
 
-L'agente iniziò a generare il simulatore. Gavin era alla porta, al telefono con Kyla: «Ancora cinque minuti. Falli passare dalla parete dei risultati.» La collega ricontrollava i campi di risposta; il junior continuava a chiedere se fosse abbastanza. Malik aveva le mani ferme sulla scrivania, ma la mascella serrata. Nessuno poteva permettersi di sbagliare un'altra volta.
+L'agente iniziò a generare il simulatore. Daniel era alla porta, al telefono con Kyla: «Ancora cinque minuti. Falli passare dalla parete dei risultati.» La collega ricontrollava i campi di risposta; il junior continuava a chiedere se fosse abbastanza. Malik aveva le mani ferme sulla scrivania, ma la mascella serrata. Nessuno poteva permettersi di sbagliare un'altra volta.
 
 Sul monitor apparve il flusso simulato, finalmente verde. In un pannello separato rimase il test reale, rosso.
 
@@ -86,9 +86,9 @@ Sul monitor apparve il flusso simulato, finalmente verde. In un pannello separat
 
 «Esatto», rispose Noah. «Non una prova. Il problema potrebbe essere nella chiave: domani lo dimostrate sul terminale, non oggi davanti a loro.»
 
-«Non abbiamo domani se oggi salta il contratto», disse Gavin.
+«Non abbiamo domani se oggi salta il contratto», disse Daniel.
 
-Noah riprese il caffè. «Allora spiegategli bene cosa stanno guardando.» Era già diretto alla propria commessa quando Gavin lo richiamò. «Noah, grazie.»
+Noah riprese il caffè. «Allora spiegategli bene cosa stanno guardando.» Era già diretto alla propria commessa quando Daniel lo richiamò. «Noah, grazie.»
 
 Lui alzò una mano senza voltarsi. Non aveva salvato la demo. Aveva soltanto dato al team qualcosa da mostrare e un punto preciso da cui ripartire.
 
@@ -144,7 +144,7 @@ Kyla cercò Malik con gli occhi. Lui non fece cenno di sì.
 
 «Quindi non avete appena dimostrato il prodotto che volete venderci.»
 
-Il silenzio fu abbastanza lungo perché Gavin smettesse di digitare. Leïa posò la penna. Anika, fino a quel momento immobile, chiese: «Da quanto lo sapete?»
+Il silenzio fu abbastanza lungo perché Daniel smettesse di digitare. Leïa posò la penna. Anika, fino a quel momento immobile, chiese: «Da quanto lo sapete?»
 
 «Da prima del vostro ingresso», rispose Kyla. Non avrebbe attribuito il ritardo al cliente o al terminale. «Avremmo dovuto dirvelo prima di avviare il flusso.»
 
