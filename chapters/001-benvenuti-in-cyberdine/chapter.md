@@ -4,38 +4,27 @@ id: chapter:001-benvenuti-in-cyberdine
 number: 1
 title: Benvenuti in Cyberdine
 canon: canon
-pov: character:kyla
+pov:
+  - character:kyla
+  - character:malik-okafor
 ---
 
-# Obiettivo narrativo
+# Scopo narrativo
 
-Kyla riceve i rappresentanti del cliente Aruvhana nel campus della **software house Cyberdine**. Il lettore vede una azienda che scrive codice di integrazione e manutiene connettori per sistemi industriali eterogenei. Gli **agenti di sviluppo software esistono già** e preparano patch, test e riepiloghi, che i programmatori devono verificare. Gli umanoidi Lanter sono arrivati solo da ventisei giorni, per compiti fisici nel campus. B-17 **taglia l'erba e riordina attrezzi**; non è ancora un collaboratore del reparto sviluppo.
+La visita commerciale ad Aruvhana mostra Cyberdine come software house d'integrazione di terminali legacy e sistemi moderni. Gli agenti AI aiutano già a scrivere codice e test; i robot umanoidi sono arrivati da ventisei giorni e B-17 si occupa ancora del prato. Bridgeglass deve dimostrare che un'operazione industriale non viene eseguita due volte dopo un timeout. Proprio questo test fallisce davanti al team.
 
-# Pressione e punto di vista
+# Progressione delle scene
 
-Kyla vuole concludere una visita credibile e tornare in tempo alla propria vita privata (cinema con una amica). Ammira l'automazione, ne vede vantaggi autentici e non è ancora diventata una critica dei sistemi aziendali. Sahir chiede prove su responsabilità e occupazione; Leïa osserva gli oggetti e le persone. Noah compare soltanto come un bravo sviluppatore alle prese con una porta che non si apre, non come anticipazione visibile di un segreto.
+1. **La porta di vetro — Kyla.** Aruvhana arriva mentre Gavin e Daniel avvertono Kyla che il collegamento reale è rosso. La visita comincia. La domanda di Anika anticipa esattamente il difetto da dimostrare. Kyla prende tempo, senza poter assicurare che la prova funzionerà.
+2. **Le cose che non parlavano — Malik.** Nel laboratorio Malik ed Elena cercano la causa della doppia richiesta. Noah, arrivato tardi per un'altra commessa, vede che la chiave del retry cambia e suggerisce una demo simulata isolata, non una soluzione del bug. Il team si oppone. Daniel Reed, project manager Aruvhana, si assume per iscritto la decisione di preparare il mock, precisando che la prova reale fallisce e che Kyla deve autorizzare la presentazione e dichiararne la natura.
+3. **La staffetta — Kyla.** Kyla legge l'email mentre accompagna i visitatori. Per guadagnare tempo li porta nel giardino e presenta B-17, che taglia l'erba, mostra gli agganci per altri compiti e si ferma quando un'operazione non è autorizzata. La macchina non mostra intelligenza umana né prova sentimenti. Daniel segnala che il mock è pronto.
+4. **La misura del tempo — Kyla.** Kyla autorizza a mostrare il percorso, ma rimanda la spiegazione del mock, pur avendo l'etichetta visibile: è una sua scelta discutibile e non un equivoco tecnico. Sahir e Anika contestano il prodotto, distinguono dati sintetici per privacy dalla risposta della macchina simulata e chiedono la prova fallita. Il cliente resta insoddisfatto. Kyla propone un proof of concept sul loro ambiente e sui loro criteri; Aruvhana non accetta né rifiuta, promette soltanto di valutare una proposta. Kyla convoca la riunione del mattino successivo, alle 8:30.
 
-# Scansione delle scene
+# Coerenza e anticipazioni
 
-1. **La porta di vetro.** Cyberdine è esplicitamente software house; B-17 è un addetto al giardino, Noah testa il varco fisico, i clienti incontrano agenti di sviluppo già in uso.
-2. **Le cose che non parlavano.** Terminali legacy, agenti AI che producono patch e test; una persona trova il caso che non era stato chiesto all'agente. B-17 passa con gli attrezzi del giardino, senza intervenire nel coding.
-3. **La staffetta.** Batterie fisiche, copertura operativa e limiti energetici; miglioramenti reali dell'orario e domanda sui percorsi professionali che si riducono.
-4. **La misura del tempo.** KPI veri per il programma più ampio, non attribuiti ai soli robot; proposta su alternative scartate formulata da un agente software, in attesa di prova e approvazione umana.
-
-# Guardrail
-
-Nessun personaggio conosce la modifica clandestina. Il core business di Cyberdine è mostrato subito, il settore finale di Aruvhana può rimanere non detto. Il software aziendale è il prodotto e i robot sono strumenti acquistati, non fabbricati da Cyberdine. Gli agenti AI non pubblicano codice da soli. Gli indicatori delle 6.400 ore riguardano il trimestre di automazione complessiva; le unità robotiche sono presenti da 26 giorni. Non certificare coscienza robotica, non anticipare diritti o protesta.
-
-
-## Raccordo della revisione sull'arco morale
-
-Nella scena 001 Noah lascia passare un collega bloccato da una porta attraverso l'ingresso laterale prima di tornare al guasto. Il gesto mostra attenzione pratica, non un indizio esplicito sul proprio futuro ruolo con B-17. Conservare il POV di Kyla e l'entusiasmo della visita.
-
-## Revisione cast internazionale — 2026-11-08
-
-Anika Rao affianca Sahir Venn e Leïa Orren come referente tecnologica della delegazione Aruvhana. Osserva il giardiniere che corregge B-17 e contesta l'equivalenza fra risultato verde e assenza di problemi non cercati. Malik Okafor è il programmatore dietro il vetro che rivede il connettore legacy. Nessuno dei due conosce la futura modifica clandestina di B-17; Kyla resta unico POV del capitolo. L'ingresso dei due non cambia l'esito della visita né la richiesta finale di Sahir.
-
-
-## Tredicesima review — continuità istituzionale e personaggi
-
-**Tredicesima review (Anika):** nel 004 Anika esige la prova di una verifica che abbia ritardato una consegna, perché deve giustificare il costo delle cautele al reparto acquisti Aruvhana. Non rappresenta un'infallibile auditor neutrale: preparerà anche una richiesta di rinnovo molto aggressiva nel 25.
+- La scena 2 è dal POV di Malik, distinta da quelle di Kyla. Noah non ripara la porta né fa parte della squadra Bridgeglass; la manutenzione risolve il varco di servizio in scena 1.
+- Daniel Reed è il project manager responsabile della decisione e dell'email; Gavin Shaw coordina le risorse di Delivery. Nessuno dei due è onnisciente né cancella la responsabilità di Kyla nella presentazione.
+- Il mock mostra un percorso futuro con dati dichiaratamente sintetici; NON costituisce collaudo, non ha link col terminale reale e non ripara la chiave d'idempotenza. Il banco di prova blocca la seconda operazione prima dell'esecuzione.
+- B-17 non scrive software e non è l'autore della demo. Il robot arriva al capitolo 2 ancora con modalità meccaniche e senza il potenziamento clandestino di Noah.
+- L'incontro è per l'estensione commerciale Bridgeglass; il PoC è proposto ma **non accettato**. Il conflitto commerciale e tecnico sfocia nella riunione della mattina successiva nel capitolo 2.
+- Nessuna spiegazione anticipata sul salto di capacità di B-17, che resta un segreto fino al capitolo 10.
