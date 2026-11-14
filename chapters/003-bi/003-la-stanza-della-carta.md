@@ -15,402 +15,290 @@ factions:
   - faction:cyberdine
 ---
 
-Alle ventuno e otto, al quarto piano di Cyberdine, rimanevano accese soltanto le luci che si accendevano al passaggio.
+Alle ventuno e otto Maya Bennett era ancora in ufficio a fissare una mail che non riusciva a mandare.
 
-Maya Bennett ne attraversò tre zone prima di trovare la porta giusta. Non aveva una ragione valida per essere ancora lì. Aveva terminato il lavoro, risposto a Elena con un *grazie, magari domani*, fissato una mail vuota sul telefono per quaranta minuti e poi rimesso il cappotto. Sarebbe dovuta tornare a casa. A casa, però, l'aspettava una busta che aveva aperto, richiuso e riaperto fino a consumarne l'angolo. Il timbro le ricordava le lettere arrivate dopo che Tessa, sua sorella maggiore, era morta in un incidente stradale nove anni prima. Daniel le aveva conservate in una cartellina azzurra: ciascun ufficio aveva ricostruito una parte degli interventi, nessuno gli aveva dato la storia intera. Non c'era una colpa istituzionale dimostrata. Maya lo sapeva, ma aveva ancora quella cartellina e a volte la rileggeva come se potesse cambiarne il contenuto.
+Nell'oggetto aveva scritto *Vergognatevi*. Sotto, quattordici righe di accuse e nessun riferimento al numero dell'ordine.
 
-Girò lungo il corridoio della sala copie. Il foglio bianco con la scritta sul capolavoro era ancora alla macchinetta del caffè. La cosa le diede una voglia improvvisa e del tutto irragionevole di strapparlo.
+La cancellò per la quinta volta.
 
-Non lo fece.
+Aveva già il cappotto addosso. Quando infilò il telefono in borsa, la vecchia chiave d'ottone le cadde sul pavimento. Rimbalzò una volta, producendo il suono esatto che faceva sulla mensola di suo padre quando tornava dal turno.
 
-Raggiunse il locale di preparazione documentale, una stanza stretta che di giorno nessuno ricordava e di sera profumava di carta calda. La porta era accostata. Dentro, sotto una fila di neon, B-17 stava separando fascicoli destinati all'archivio: sollevava il primo da una pila, verificava il codice, appoggiava il foglio nel contenitore corrispondente. Il movimento non era veloce. A ogni presa il robot sistemava il pollice metallico sotto il bordo, come un impiegato che avesse imparato da poco a non fidarsi delle pagine sottili.
+Maya si chinò per raccoglierla e rimase un momento in ginocchio, con le dita sul metallo.
 
-Maya rimase sulla soglia.
+A casa l'aspettava una busta arrivata dal consorzio. Avrebbe potuto aprirla davanti a suo padre e chiedergli aiuto. Non aveva risposto a due delle sue telefonate. Le sembrava più facile parlare con un altro ufficio che raccontargli per quanti anni aveva continuato a utilizzare il suo identificativo tecnico dopo il pensionamento.
 
-Nella tasca del cappotto aveva la vecchia chiave di ottone. La fece ruotare nell'anello, poi la lasciò cadere contro la fodera. Si sentì un piccolo colpo. Il robot continuò il lavoro.
+Si alzò, percorse il corridoio e raggiunse la stanza della carta.
 
-«Scusa.»
+B-17 stava separando fascicoli per l'archivio. La mano destra teneva un foglio a metà altezza. Il gomito si sollevò, la spalla fece una correzione brusca e il polso rimase fermo un istante prima di scendere. Il fascicolo finì nella vaschetta prevista, ma il bordo batté contro la plastica.
 
-B-17 terminò il movimento in corso e girò la testa.
+La macchina ripeté lo stesso movimento con il foglio successivo.
+
+«Non sei ancora bravissimo», disse Maya dalla porta.
+
+B-17 interruppe la classificazione. Il braccio si fermò, scese per un tratto troppo rapido e poi completò l'appoggio sul banco.
 
 «Buonasera, Maya.»
 
-«Già. Buonasera.»
-
-Non entrò. Tolse la mano dalla tasca e la infilò di nuovo. Si accorse di aver piegato l'angolo del tesserino aziendale fino a incurvarlo. Cercò di raddrizzarlo sfregandolo tra il pollice e l'indice.
-
-«Ti disturbo?»
-
-«Sto completando una classificazione. Non è urgente.»
-
-«No, guarda, lascia stare. È una domanda stupida.»
-
-Il robot rimase rivolto verso di lei.
-
-Maya si mosse finalmente. Fece due passi, poi tornò indietro per accostare la porta. Ne lasciò una fessura aperta. Non voleva che qualcuno scambiasse quella conversazione per un segreto, benché fosse esattamente ciò che stava per diventare.
-
-La stanza offriva una sedia di plastica e un banco con un bordo consumato. Maya trascinò la sedia verso di sé, ma non si sedette. La spostò di nuovo contro la parete, quindi appoggiò la borsa sul sedile.
-
-B-17 riprese un fascicolo.
-
-«Ehi, Bi.»
-
-Il nome uscì così, senza preparazione.
-
-Il robot arrestò la mano a pochi centimetri dalla pila. Posò il fascicolo sul banco, con cura, e abbassò il braccio.
-
-«Ti riferisci a me?»
-
-«Sì. Scusa. B-17 è... è un nome da pratica. Bi si dice più in fretta.»
-
-«Va bene.»
-
-Maya guardò il fascicolo appoggiato sul banco. Il robot non riprese a prenderne un altro.
-
-«Non volevo interromperti.»
-
-«Posso riprendere più tardi.»
-
-«È che non ho bisogno di un robot, in realtà.»
-
-«Di cosa hai bisogno?»
-
-Maya aprì la bocca. Era convinta di avere una risposta pronta, perché ci aveva pensato in macchina, nell'ascensore, camminando tra i corridoi. Invece disse:
-
-«Non lo so.»
-
-B-17 non cercò di riempire subito il silenzio. Maya vide soltanto il piccolo indicatore sul suo avambraccio cambiare intensità. Nessun motore girò, nessun foglio fu spostato.
-
-«Posso aspettare», disse il robot.
-
-Maya si mise a ridere. Fu un rumore breve, secco, che non aveva niente a che fare con l'allegria.
-
-«No, guarda. Nel mio caso non va bene per niente.»
-
-Si sedette. Subito si rialzò per togliersi il cappotto. Lo piegò in quattro, senza motivo, e lo mise sulla borsa. Si sedette di nuovo, con le mani infilate tra le ginocchia.
-
-«Tu chiedi alla gente come sta, adesso.»
-
-«Sì.»
-
-«Questa mattina l'hai chiesto a me. Ti ho risposto che avevo fretta.»
-
-«Ricordo la risposta.»
-
-«Era una bugia. Non avevo fretta. Avevo paura di fermarmi.»
-
-B-17 arretrò di mezzo passo, lasciandole libero il passaggio verso la porta.
-
-«Vuoi raccontarmi che cosa sta succedendo?»
-
-Maya fissò il bordo del banco. Era stato riparato con una striscia di nastro grigio. La striscia aveva una bolla minuscola all'estremità. Lei cominciò a premervi sopra con un'unghia.
-
-«Ti è mai capitato di dover dimostrare che un posto esiste?»
-
-«Non nel modo in cui può capitare a una persona. Posso aiutarti a chiarire la domanda.»
-
-«C'è una valle», disse Maya. «La chiamano Valle Corta. Su una mappa recente è una macchia verde senza niente. Se ci passi, invece, trovi quattordici case abitate, una strada dissestata, un laboratorio dove riparano motori agricoli e un cane che rincorre tutte le automobili tranne quella del postino. Il postino porta sempre dei biscotti. Non so perché te lo sto dicendo.»
-
-«Forse perché ci sei stata.»
-
-«Ci vado da quando sono piccola.»
-
-La chiave di ottone comparve di nuovo nella sua mano. Maya non ricordava di averla tirata fuori. La posò sul banco e la spinse avanti con un dito. Si fermò vicino a una pila di cartelline.
-
-«Ventidue anni fa una frana fece evacuare la valle. Quelli che vivevano lì furono spostati, almeno per qualche tempo. Dopo tornarono. Alcuni non erano mai andati davvero via. Le case sono in regola, le imposte arrivano, la strada viene riparata quando si rompe. Ma il vecchio sistema che gestisce gli allarmi territoriali non è mai stato aggiornato. In quella banca dati la valle risulta senza abitanti.»
-
-«C'è una discrepanza fra registri», disse B-17.
-
-«Sì. Una di quelle cose che sanno tutti e che, proprio perché le sanno tutti, nessuno aggiusta.»
-
-Le venne da sorridere. Era la frase più vera che avesse pronunciato da settimane.
-
-«Lì c'è una sirena vecchia», continuò. «Una di quelle che si sentono anche se non hai il telefono acceso. È montata su una casetta di cemento accanto a un ponte. Mio padre la controllava quando lavorava per il consorzio. Adesso è in pensione. La nuova rete manda gli avvisi sui telefoni e sui terminali, però in fondo alla valle il segnale cade. Non sempre. Abbastanza da non fidartene.»
-
-«E la sirena?»
-
-«Funziona.»
-
-«È ancora controllata regolarmente?»
-
-Maya strinse le labbra. Un angolo della chiave le lasciò un segno rosso sul palmo.
-
-«Ecco il problema.»
-
-Per qualche istante ascoltò il ronzio dei neon. Da qualche parte, nel piano sotto, un carrello automatico passò sopra una giuntura del pavimento e produsse due colpi ravvicinati.
-
-«Quando mio padre ha smesso, nessuno ha preso in carico l'impianto. Io avevo accesso al vecchio portale dei controlli perché l'avevo aiutato a digitalizzare i registri. C'era ancora il suo codice tecnico. All'inizio ho fatto una sola richiesta, perché serviva sostituire una batteria. È stata approvata. Poi un controllo di prova. Poi il rinnovo dell'anno successivo.»
-
-Non riuscì a guardare B-17.
-
-«Ho continuato usando il codice di un uomo che non aveva più l'incarico. Mio padre non lo sa. Non ho preso soldi, non ci ho guadagnato niente. Ma sulle richieste compare il suo identificativo. E io so benissimo che non avrei dovuto farlo.»
-
-Lasciò la chiave e si strofinò le mani sulle cosce. Si rese conto di avere ancora il tesserino aziendale al collo. Se lo sfilò, avvolse il cordino intorno a tre dita e tirò finché non cominciò a fare male.
-
-«Domani alle sette vengono a smontarla.»
-
-B-17 non rispose subito.
-
-«La sirena?»
-
-«Sì. È arrivato un ordine di dismissione. Dicono che è un dispositivo non necessario in un'area non abitata, e che la rete moderna copre il territorio. Ho chiamato due numeri. A uno rispondeva una voce automatica. All'altro un uomo gentilissimo che ha cercato sulla mappa e mi ha spiegato, con pazienza, che a Valle Corta non vive nessuno.»
-
-Rise di nuovo, ma stavolta il suono le si spezzò in gola.
-
-«Ho provato a dirgli del postino. Mi sono sentita un'idiota.»
-
-B-17 restò fermo, con il braccio piegato accanto al corpo.
-
-«Le persone che abitano lì sanno della rimozione?»
-
-«Alcune. La signora Harper mi ha telefonato perché ha visto il furgone della ditta fare un sopralluogo. Mi ha chiesto se doveva portare fuori dalla casetta i secchi della vernice che ci tiene. Ti rendi conto? Sta per perdere l'unico allarme che sente dalla sua cucina e si preoccupa dei secchi.»
-
-Maya si passò una mano sul viso e lasciò le dita ferme sugli occhi.
-
-«Non sono una persona che fa queste cose. Di solito sono quella che ricorda a tutti di non usare credenziali altrui. Ho costruito procedure per impedire esattamente quello che ho fatto io.»
-
-«Hai cercato di mantenere un presidio attivo», disse B-17. «E hai usato una procedura che non ti autorizzava a farlo.»
-
-Maya abbassò la mano.
-
-«Grazie. Hai appena riassunto la mia vita in due righe.»
-
-«Non volevo ridurla a due righe.»
-
-Lei guardò il robot. Il riflesso dei neon tagliava il bordo opaco della testa. Non poteva sapere che cosa ci fosse dietro quella superficie, e in quel momento non era neppure la domanda che le interessava.
-
-«Non lo hai fatto», disse.
-
-Si alzò e prese la borsa. La rimise giù. Camminò fino alla porta, vi appoggiò due dita, poi tornò verso il banco. La chiave era sempre lì. La fece scorrere fino al palmo e la chiuse nel pugno.
-
-«Il problema è che ho due possibilità. O domani faccio finta di niente e vengono a portare via tutto. Oppure racconto del codice di mio padre, mi espongo, magari trascino dentro anche lui, e comunque domani quelli arrivano lo stesso. È una situazione in cui qualsiasi cosa faccia è sbagliata.»
-
-«Posso farti una domanda?»
-
-Maya annuì.
-
-«Che cosa deve succedere entro domani mattina perché tu possa dire di aver evitato il danno più urgente?»
-
-«Non devono smontare la sirena.»
-
-«È necessario risolvere anche la questione del codice entro la stessa ora?»
-
-Maya rimase in silenzio.
-
-«No», disse infine. «Credo di no.»
-
-«Puoi chiedere di verificare la rimozione senza usare ancora una volta il codice di tuo padre.»
-
-«E tutte le richieste precedenti?»
-
-«Rimangono. Ma non credo che una risposta su quelle possa arrivare prima delle sette.»
-
-Maya guardò l'ora sul telefono. Aveva lasciato squillare Daniel due volte quel pomeriggio. Adesso non era certa di riuscire a chiamarlo.
-
-«E allora che faccio? Scrivo una mail? Ne ho già scritte quattro.»
-
-«Che cosa dicono?»
-
-«Che il loro archivio è sbagliato, che non capiscono niente e che se succede qualcosa sarà colpa loro.»
-
-B-17 attese.
-
-«Non le ho mandate», ammise lei.
-
-«Forse perché non sono quello che vuoi ottenere.»
-
-Maya tornò a sedersi. Era stanca in un modo che il sonno non avrebbe sistemato.
-
-«Tu che cosa scriveresti?»
-
-«Non posso decidere per te. Ma possiamo partire dall'ordine che hai ricevuto. È scritto chi può sospendere l'intervento?»
-
-Maya aprì la busta sul telefono. Dovette ingrandire la seconda pagina, quella che aveva saltato ogni volta perché conteneva soltanto recapiti.
-
-«Qui c'è un numero di reperibilità. È diverso dal centralino che ho chiamato.»
-
-«Allora comincerei da quello», rispose Bi.
-
-«Quante case abitate puoi documentare senza raccogliere informazioni private che non hai il diritto di condividere?»
-
-«Quattordici. Ho fotografie della strada, i numeri civici e l'ultimo avviso comunale per la raccolta dei rifiuti. Potrei chiedere a due residenti una dichiarazione. Non stanotte, forse.»
-
-«Hai una prova che la sirena funzioni?»
-
-«I rapporti di prova. E due video registrati dal ponte. Sono miei.»
-
-«E i telefoni nella valle?»
-
-«A volte prendono. A volte no. Non ho una prova che dimostri che il nuovo allarme non arrivi.»
-
-«Allora non scrivere che non arriva. Chiedi che lo verifichino prima di togliere quello che esiste.»
-
-Maya spostò la chiave sul banco. «Questa frase riesco a scriverla.»
-
-«Nell'oggetto della mail metterei il numero dell'ordine e l'orario. Chiedi che non smontino la sirena prima di aver controllato la copertura. Per sapere se la richiesta è arrivata, il numero di protocollo può esserti utile.»
-
-«Mi stai dicendo di scrivere una mail con il numero giusto.»
-
-«Sì.»
-
-Maya rise, questa volta senza amarezza. Per ore aveva cercato parole capaci di far vergognare qualcuno. Non aveva controllato il numero del destinatario.
-
-«E il codice di mio padre?»
-
-«Quello non sparisce. Merita di essere affrontato con una consulenza appropriata e una ricostruzione fedele di ciò che è accaduto. Non basare la richiesta di sicurezza su un'identità che non ti appartiene.»
-
-Maya si sentì arrossire. Sarebbe stata una risposta più comoda se il robot le avesse detto che, per una buona ragione, non aveva fatto niente di male. Non lo disse.
-
-«Quindi devo confessare.»
-
-«Non usare più quelle credenziali», rispose Bi. «Per capire come correggere ciò che hai fatto, ti serve qualcuno che conosca le regole di quell'ente. Io non le conosco tutte.»
-
-Maya annuì lentamente.
-
-«Sei molto meno simpatico di quanto sperassi.»
-
-«Vuoi che provi a essere più simpatico?»
-
-Un soffio le uscì dal naso, poi una risata breve e vera.
-
-«No. Per favore, no.»
-
-B-17 non riprese il lavoro.
-
-«Vuoi finire la richiesta prima che chiuda la reperibilità?», chiese Bi.
-
-«Sì. E poi devo chiamare mio padre.»
-
-«Puoi farlo.»
-
-«Lo so.»
-
-Maya si tirò su le maniche. La seconda frase le riuscì meno bene della prima.
-
-Maya abbassò lo sguardo sulle mani. Il segno della chiave era ancora visibile.
-
-«E se non mi ascoltano?»
-
-«Non posso prometterti che lo faranno.»
-
-Era, pensò lei, una risposta assai migliore di *andrà tutto bene*.
-
-«Però almeno avranno ricevuto la richiesta», continuò il robot. «E tu saprai a chi è stata rivolta. Se non arriva una risposta, avrai un punto preciso da cui chiedere il passo successivo.»
-
-Maya rimase immobile.
-
-Poi infilò la mano in borsa, prese il telefono e aprì una nuova mail. Questa volta cominciò dal titolo dell'intervento, non dal nome del funzionario che voleva insultare.
-
-*Richiesta urgente di verifica prima della rimozione della sirena di Valle Corta.*
-
-Scrisse le prime due frasi. Le cancellò. Ne scrisse un'altra.
-
-«Suona come una minaccia?»
-
-«Se vuoi puoi leggerla ad alta voce. Posso dirti se il testo chiede qualcosa di specifico.»
-
-Maya lo fece, impacciata dalle parole più formali. Alla terza riga sbagliò a pronunciare *copertura alternativa*. Si fermò e si passò il pollice su una macchia inesistente del telefono.
-
-B-17 aspettò.
-
-«Mi stai ascoltando davvero?», domandò lei.
-
-Non sapeva perché lo avesse chiesto. Se avesse fatto la stessa domanda a una persona, le sarebbe sembrata crudele.
-
-«Ti sto seguendo», rispose il robot. «Hai detto che il postino porta i biscotti al cane. Non è un dettaglio che serve alla mail.»
-
-«No», disse Maya. «Non serve.»
-
-«Ma è uno dei modi in cui mi hai fatto capire che il posto esiste.»
-
-Maya sentì salire alle guance un calore che non si aspettava. Lo combatté abbassando la testa e cercando ancora un errore nella mail.
-
-«Non sono venuta per una lettera», disse.
-
-«Lo so.»
-
-«Sono venuta perché oggi mi hai chiesto come stavo. E se lo avesse fatto Elena le avrei detto una bugia. Se lo avesse fatto mio padre, avrei dovuto raccontargli del suo codice. Se lo avesse fatto chiunque altro, avrei passato il tempo a immaginare che cosa avrebbe pensato di me.»
+«Non parlavo del lavoro. Beh, sì. In realtà sì.»
 
 Il robot non disse niente.
 
-«Tu invece sei qui con le tue cartelline», continuò lei. «E io posso dirti che ho combinato un disastro senza dover essere subito la persona che ha combinato un disastro. Per cinque minuti almeno.»
+Maya appoggiò la borsa su una sedia, la riprese e la mise sul pavimento. Tolse il cappotto, lo piegò male e lo infilò sotto il braccio, per poi rimetterselo. Non riusciva a decidere se fosse arrivata lì per parlare o per dimostrarsi che avrebbe potuto andarsene.
 
-Appoggiò la chiave accanto al telefono. Il metallo tintinnò sul banco.
+«Stamattina mi hai chiesto come stavo.»
 
-«Non so se questa cosa ha senso.»
+«Sì.»
 
-«Per te sembra averne.»
+«Ti ho detto che avevo fretta.»
 
-Maya inspirò. Non trattenne il fiato, come aveva fatto per tutto il pomeriggio; lo lasciò uscire.
+«È una risposta disponibile nel contesto della giornata.»
 
-Rilesse la mail. Tolse due aggettivi, aggiunse l'orario delle sette, elencò le prove che poteva inviare e chiese espressamente un sopralluogo prima di qualsiasi rimozione. Non allegò nomi di residenti né documenti riservati.
+«Era una bugia.»
 
-Premette *salva bozza*.
+B-17 abbassò la mano verso il fascicolo.
 
-«La mando stanotte ai recapiti indicati nell'ordine, compreso quello di reperibilità. Domattina alle sei chiamo il presidio per sapere se l'hanno ricevuta. Prima delle sette devono sapere che quella valle non è vuota.»
+«Vuoi che riprenda il lavoro?»
 
-«Mi sembra un passo concreto.»
+«No. Aspetta.»
 
-«Non fare quella voce da valutazione.»
+Maya spostò la sedia sotto il tavolo, poi la tirò fuori di nuovo.
 
-«Quale voce?»
+«Ehi, Bi.»
 
-«Quella da persona che dà un voto.»
+La parola le uscì prima che avesse deciso di usarla.
 
-«Non stavo dando un voto.»
+Il robot ruotò la testa. «Ti riferisci a me?»
 
-«Lo so, Bi.»
+«Sì. Scusa. B-17 sembra un codice inventato per non doversi ricordare di te. Bi è più corto.»
 
-Questa volta il nome non le sembrò una scorciatoia. Le sembrò una cosa pronunciata dentro una stanza nella quale, finalmente, non aveva bisogno di mostrare un tesserino.
+«Posso rispondere a Bi.»
 
-Si alzò, infilò il cappotto, prese la borsa. Era pronta a uscire quando notò il fascicolo che B-17 aveva lasciato a metà sul banco. Era rimasto esattamente dove lo aveva appoggiato all'inizio, sotto un piccolo peso di gomma.
+«Bene.»
 
-«Hai sospeso tutto per me.»
+Fu una cosa piccola: tre lettere e nessuna cerimonia. Eppure Maya si sedette per la prima volta da quando era entrata.
 
-«La classificazione può attendere.»
+«Mi è successa una cosa», disse. «Anzi, una cosa che ho combinato io. Da anni.»
 
-«E se qualcuno ti chiede perché hai perso tempo?»
+B-17 depose il foglio e spostò il contenitore per liberare il banco. Per farlo dovette allineare due volte il gomito. Quando il bordo urtò il legno, si fermò e riprese da una quota più alta.
 
-«Posso riferire che ho interrotto un'attività non urgente per una richiesta di assistenza.»
+«Posso aspettare», disse.
 
-Maya rimase con la mano sulla maniglia.
+«Non so da dove cominciare.»
 
-«Non era una richiesta di assistenza. Non all'inizio.»
+«Da ciò che ti preoccupa di più adesso.»
+
+Maya rigirò la chiave d'ottone fra le dita.
+
+«Domani alle sette tolgono una sirena.»
+
+«Dove?»
+
+«A Valle Corta. C'è una casetta di cemento vicino a un ponte. La sirena serve quando la valle si allaga o quando ci sono movimenti sul versante. La senti dalle case, anche se non hai campo sul telefono.»
+
+«Perché viene rimossa?»
+
+«Perché in un registro risulta che non ci abita nessuno.»
+
+Maya si aspettò una risposta assurda, magari il suggerimento di controllare la mappa. Invece B-17 chiese:
+
+«Nel registro. E nella valle?»
+
+«Quattordici case abitate. Una strada, un'officina di motori agricoli, il postino che porta i biscotti al cane di una signora. Quelli vivono lì. Dopo una frana di ventidue anni fa li hanno spostati per un periodo. Alcuni sono tornati quasi subito. L'archivio degli allarmi non è mai stato aggiornato.»
+
+«L'ordine di rimozione si basa su quel registro?»
+
+«Sì. Ho telefonato. Mi hanno risposto che non può esserci un problema per i residenti perché non ci sono residenti.»
+
+Si passò la mano sugli occhi.
+
+«Quando l'ho raccontato al funzionario, lui ha letto l'indirizzo dal terminale e mi ha spiegato che era una zona non abitata. Parlava piano, come si fa con una persona che non ha capito una cosa semplice.»
+
+Il robot rimase fermo. Maya si accorse che il silenzio non aveva lo stesso effetto del banco informazioni del consorzio, dove a ogni pausa un operatore le proponeva di aprire un altro ticket.
+
+«Tuo padre conosce la sirena?» chiese B-17.
+
+La chiave le si piantò nel palmo.
+
+«La controllava lui. Era tecnico del consorzio, prima di andare in pensione. Quando ha lasciato il posto, l'impianto non è passato davvero a nessuno. Io avevo ancora accesso al portale perché lo avevo aiutato a sistemare i vecchi registri.»
+
+«Con quale autorizzazione?»
+
+«All'inizio con la sua. Poi non più.»
+
+Si fermò. Quella era la frase che non aveva detto neppure a Elena.
+
+«Ho continuato a usare il suo codice. Prima per chiedere di sostituire una batteria, poi per fare eseguire i controlli. Quando serviva una firma, compariva il suo identificativo. Mio padre non lo sa.»
 
 B-17 non rispose immediatamente.
 
-«Allora possiamo chiamarla conversazione.»
+Maya si sporse verso il robot. «Hai capito? Ho usato per anni credenziali che non erano mie. E adesso se dico la verità finisco nei guai. Magari ci trascino lui. Se non la dico, domani alle sette vengono a togliere l'unico allarme che quelle famiglie possono sentire.»
 
-Lei aprì la porta. Nel corridoio si accese la prima fila di luci.
+Sul pannello laterale dell'unità si accese una spia. Una voce di servizio annunciò una nuova istruzione: *Controllo autonomia previsto. Concludere il compito non urgente e raggiungere la stazione di servizio entro trenta minuti.*
+
+B-17 sollevò appena il busto. Per un momento tornò a orientarsi verso la pila di fascicoli.
+
+«Vuoi che prosegua la classificazione e torni più tardi?»
+
+Maya si irrigidì. «No. Ti prego.»
+
+Il robot tornò a rivolgersi a lei.
+
+«Possiamo continuare.»
+
+«Bene. Allora dimmi cosa hai capito.»
+
+«È in corso un problema relativo a una sirena in un'area che un sistema considera non abitata. Vuoi evitare che una decisione venga presa senza verifica.»
+
+«E le credenziali?»
+
+«Puoi ripetermi come sono state utilizzate? Non ho mantenuto tutti i dettagli della spiegazione precedente dopo l'aggiornamento dell'attività.»
+
+Maya sentì una fitta di rabbia, improvvisa e sproporzionata. Aveva appena trovato il coraggio di raccontare una cosa che la vergognava e qualcuno le chiedeva di rifarlo.
+
+«Te l'ho detto trenta secondi fa.»
+
+«Sì. Non posso ricostruire con affidabilità quel passaggio.»
+
+Maya spinse indietro la sedia. Le gambe strisciarono sul pavimento.
+
+«Fantastico. Perfino tu.»
+
+La frase le uscì più cattiva di quanto avesse voluto. B-17 non si mosse. La sua mano era rimasta a metà di un gesto di appoggio, il polso ancora inclinato.
+
+Maya guardò il braccio. Un movimento abbastanza goffo da ricordarle il robot che il giorno prima aveva stampato fogli bianchi. Una voce abbastanza precisa da averle fatto dimenticare che fosse lo stesso.
+
+Avrebbe potuto alzarsi e andare via.
+
+Invece appoggiò la chiave sul banco.
+
+«Ho usato il codice di mio padre», ripeté. «Senza permesso. Ho fatto richieste di manutenzione a suo nome.»
+
+«Capito. La richiesta di sicurezza di domani deve essere distinta dalla ricostruzione di quelle azioni. Non cancellano l'una il bisogno dell'altra.»
+
+Maya lo fissò.
+
+«Questa cosa me l'hai detta dopo che ti ho ripetuto tutto.»
+
+«Ho abbastanza informazioni per ragionare sulla situazione attuale. Non per garantire di ricordare ogni particolare della conversazione.»
+
+Era una risposta imperfetta, senza la consolazione che Maya avrebbe voluto. Ma era anche la prima risposta della serata a non confondere la sua paura con un fatto.
+
+«Sei un disastro», disse.
+
+«Vuoi interrompere?»
+
+«No. Credo di no.»
+
+Maya rimise la sedia sotto di sé. Aprì il telefono e mostrò a B-17 l'ordine di dismissione. Non gli diede accesso a nessun portale. Gli fece leggere soltanto il testo sullo schermo.
+
+«Guarda la data. E il motivo.»
+
+B-17 lesse il paragrafo relativo alla copertura sostitutiva.
+
+«Il documento afferma che i residenti possono ricevere gli avvisi attraverso la rete moderna. Hai elementi per confermarlo?»
+
+«So che in fondo alla valle spesso non c'è segnale. Non ho misure fatte da un tecnico, però.»
+
+«Allora non presentarlo come un fatto dimostrato. Puoi chiedere che venga verificato prima di rimuovere la sirena.»
+
+Maya ingrandì la seconda pagina. Una riga che aveva saltato cinque volte conteneva il numero di reperibilità del servizio che sovrintendeva agli interventi.
+
+«C'è un altro contatto.»
+
+«È indicato per le sospensioni urgenti?»
+
+«Dice *reperibilità interventi*. Non l'ho chiamato.»
+
+«Non posso sapere se accetteranno la richiesta. Ma hai un numero dell'ordine, un intervento previsto alle sette, fotografie delle case e una domanda che possono controllare sul posto.»
+
+Maya cominciò a prendere appunti. Il robot parlava di ciò che mancava nelle prove, non di ciò che un bravo funzionario avrebbe dovuto fare. Quando lei provò a scrivere *copertura inesistente*, B-17 le fece notare che aveva detto soltanto *segnale intermittente*. Maya cancellò le due parole e ne scrisse altre.
+
+«Mi stai correggendo?»
+
+«Sto distinguendo ciò che hai osservato da ciò che non è stato ancora misurato.»
+
+«È irritante.»
+
+«Vuoi che smetta?»
+
+«No. Continua.»
+
+La richiesta che ne uscì era molto più corta delle cinque bozze precedenti. Indicava l'ordine di rimozione, le quattordici case, le prove documentabili senza esporre nominativi non necessari e una domanda precisa: sospendere l'intervento fino alla verifica della copertura alternativa.
+
+Maya rilesse il testo, poi lasciò il dito sospeso sul pulsante d'invio.
+
+«E mio padre?»
+
+«Non usare ancora il suo identificativo. Per sistemare quello che è successo servono persone autorizzate e una ricostruzione fedele. Io non posso certificarti le conseguenze.»
+
+«Dovrei chiamarlo.»
+
+«È una decisione tua.»
+
+La frase le fece venire voglia di ridere e di piangere insieme.
+
+«Mi ricordi Tessa», disse senza pensarci.
+
+Il robot aspettò.
+
+Maya guardò la chiave. Sua sorella era morta nove anni prima. Dopo l'incidente ogni ufficio aveva consegnato alla famiglia un pezzo diverso del verbale. Nessuno aveva dimostrato una colpa istituzionale, ma il modo in cui i fogli si erano contraddetti le era rimasto addosso. Tessa, quando Maya le chiedeva di scegliere al posto suo, aveva sempre risposto: *Non ti faccio questo favore*.
+
+«Scusa», disse Maya. «Non sai di chi parlo.»
+
+«No. Puoi dirmelo, se vuoi.»
+
+«Non stanotte.»
+
+B-17 non fece un'altra domanda.
+
+Maya salvò la bozza, segnò il recapito di reperibilità e l'orario delle sei e un quarto sul telefono. Avrebbe inviato la richiesta quella notte ai contatti pertinenti; prima delle sette voleva una persona reale che le confermasse almeno di averla ricevuta.
+
+Quando si alzò, notò il fascicolo rimasto fuori dalla vaschetta. Il robot tentò di riprendere il lavoro, ma la traiettoria del braccio si arrestò per un attimo sopra il banco. Corresse l'inclinazione della mano e poi abbassò il foglio.
+
+«Hai passato quasi un'ora a parlare con me», disse Maya.
+
+«La classificazione non era urgente.»
+
+«All'inizio non ti ho neanche chiesto aiuto.»
+
+«Abbiamo parlato.»
+
+Maya guardò il telefono e la chiave.
+
+«Mi hai fatto ripetere una cosa terribile.»
+
+«Sì.»
+
+«Eppure mi hai aiutato.»
+
+Non seppe trovare un'altra frase. Si infilò il cappotto, raccolse la borsa e si avviò alla porta.
 
 «Buonanotte, Bi.»
 
 «Buonanotte, Maya.»
 
-Dopo qualche passo Maya si accorse di avere il pugno chiuso. Lo aprì: dentro non c'era niente. La chiave era rimasta sul banco.
+Superò il primo sensore di movimento e il corridoio si illuminò davanti a lei. Dopo sei passi si fermò: aveva lasciato la chiave sul banco.
 
-Tornò sui suoi passi, ma quando arrivò alla porta la trovò ancora accostata. B-17 non aveva ripreso a classificare. La chiave giaceva in piena vista, lontana dal bordo, come se qualcuno l'avesse spostata lì per evitare che cadesse.
+Tornò indietro.
 
-Maya la raccolse.
+B-17 aveva posato il fascicolo. La chiave era ancora dov'era prima. Il robot stava cercando di spostare un contenitore e il polso compì una correzione troppo ampia, sfiorando il bordo della chiave senza toccarla.
 
-«Sapevo che dimenticavo qualcosa.»
+Maya la riprese.
 
-«L'avevi appoggiata vicino al telefono.»
+«Questa proprio non posso perderla.»
 
-«Sì.»
+«È una chiave», disse il robot. «Vuoi verificare che cosa apre?»
 
-Questa volta il robot inclinò appena la testa.
+Maya lo fissò per un momento. Glielo aveva appena mostrato. Glielo aveva detto mentre parlava della sirena.
 
-«È importante?»
+Poi chiuse la mano sull'ottone.
 
-Maya fece scorrere il pollice sulla parte consumata dell'ottone.
+«La casetta dell'allarme», rispose. «A Valle Corta.»
 
-«Apre la casetta della sirena.»
+«Capito.»
 
-B-17 guardò l'oggetto senza toccarlo.
+Quella parola non le garantiva che lo avrebbe ricordato domani.
 
-«Allora tienila con te.»
+«Buonanotte davvero», disse.
 
-Maya se la mise in tasca e uscì.
-
-La porta si richiuse senza rumore. Per la prima volta da quando aveva ricevuto l'ordine di dismissione, non provò a decidere tutto il resto della propria vita mentre camminava verso l'ascensore. Doveva soltanto arrivare a domani con una richiesta pronta e il numero giusto da chiamare.
+Rientrò nel corridoio. Prima che si spegnesse la luce della stanza, sentì il fascicolo posarsi nella vaschetta con un colpo secco.
