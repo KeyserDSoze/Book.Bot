@@ -48,7 +48,19 @@ Noah appoggiò il caffè e si chinò sul monitor di Malik. Scorse i log del prim
 
 Malik lo fissò. «È una demo tecnica. Non possiamo vendergli un giocattolo.»
 
-«E allora non chiamatelo collegamento funzionante. Mostrate l'interfaccia e dite che il flusso fisico è simulato. Il bug non sparisce se lo guardate in sei.»
+«No, no, no», intervenne la collega, prima ancora che Noah finisse. «Non possiamo cambiare la demo a cinque minuti dall'incontro. Abbiamo promesso un terminale vero. E il mock non ha neanche passato la nostra revisione.»
+
+«E soprattutto», aggiunse Malik, «tu non sei su questa commessa. Se il cliente scopre che gli stiamo mostrando dati inventati, quello che deve spiegarglielo sono io.»
+
+Noah si raddrizzò. «Avete ragione su entrambe le cose. Non sono io a decidere cosa mostrare, e un mock non dimostra che Bridgeglass funziona. Ma fra cinque minuti avrete un bug aperto e nessuna schermata, oppure un flusso simulato che potete dichiarare per quello che è.»
+
+«Kyla non ha autorizzato questa modifica», disse Gavin.
+
+«Allora chiamala. Non mettete il mock al posto del collegamento reale di nascosto. Ditele cosa è rotto e fate scegliere a lei se mostrarlo.»
+
+Malik scosse la testa. «E se insiste per il live?»
+
+«Le fate vedere il test rosso. Il bug non sparisce se lo guardate in sei.»
 
 Noah si voltò verso la collega che aveva aperto l'agente. «Scrivigli così.» Lei mise le dita sulla tastiera, mentre lui dettava, senza neppure sedersi:
 
