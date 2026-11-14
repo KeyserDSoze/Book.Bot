@@ -139,9 +139,11 @@ Firmò. Inviò. Sul portatile di Malik arrivò subito la notifica.
 
 Malik non rispose. Spostò il proprio computer per fare spazio a Elena.
 
-Noah indicò la finestra dell'agente. «Chiedigli una cosa per volta. Prima il percorso, poi l'aspetto. Scrivi.»
+Noah indicò la finestra dell'agente. «Chiedigli una cosa per volta. Prima il percorso, poi l'aspetto. Elena, scrivi.»
 
-Dettò il compito: un ordine sintetico, la conferma simulata, il timeout e un secondo tentativo che non generasse un nuovo ordine. Ambiente separato. Nessuna chiamata al terminale. Etichetta permanente *MOCK — DATI SINTETICI*. In un ticket distinto, diagnosi della chiave di idempotenza e test da ripetere sul banco vero.
+Lei aprì il prompt e Noah dettò, senza sedersi:
+
+*Prepara un mock isolato della demo Bridgeglass. Usa soltanto dati sintetici: ordine, conferma del terminale, timeout e retry dello stesso ordine, senza una seconda esecuzione. Mantieni le schermate e il contratto API previsto, ma non aprire collegamenti con il terminale reale. Scrivi sempre MOCK — DATI SINTETICI in evidenza. Non modificare il codice di produzione e non dichiarare risolto il problema. In una risposta separata, indica come verificare la chiave d'idempotenza con un test sul banco reale.*
 
 L'agente generò la prima versione. All'avvio la pagina della conferma rimase vuota.
 
