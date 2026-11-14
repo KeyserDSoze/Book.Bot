@@ -8,6 +8,12 @@ through_scene: scene:020-il-prezzo-di-una-memoria:005-la-risposta-prima-del-buio
 
 # Stato corrente di Bot — dopo il capitolo 20
 
+## Prevalenza della riscrittura dei capitoli 1–2 (14 novembre 2026)
+
+Le scene 1/001–004 e 2/000–004 riscritte nel ramo editoriale prevalgono sulle descrizioni storiche di versioni precedenti presenti in questo dossier. Nel capitolo 1 Aruvhana visita Cyberdine per l'estensione di Bridgeglass: il test live di idempotenza fallisce; Noah, esterno alla commessa, suggerisce il mock; Daniel Reed autorizza per iscritto la preparazione isolata; Kyla guadagna tempo presentando B-17 in giardino e lascia scorrere la simulazione prima di chiarirne verbalmente i limiti. I visitatori contestano la demo e **non accettano ancora** il proof of concept offerto. Il capitolo 2 mostra il giorno successivo il conflitto Kyla–Malik, il caffè rifiutato e consegnato a Noah, le fotocopie che B-17 non sa generalizzare e l'urto accidentale che ne attiva il blocco protettivo di fabbrica. Solo **tra i capitoli 2 e 3** Noah installa clandestinamente il potenziamento conversazionale e disabilita il blocco: il lettore non ne scopre la causa prima del 10. Noah non è il tecnico della porta e B-17 non scrive il software Bridgeglass.
+
+
+
 **Prevalenza canonica v0.33.6:** il capitolo 14 contiene una **chat avviata da Bi**, non una lettera di Maya. Nel 15 la chat trapela e **Veyra deposita una causa civile contro Cyberdine**; nel 20 il componente di Noah spiega l'evento IP ma non un suo invio consapevole. **B-1** è il primo bot/centralino automatico di Cyberdine; B-17 e B-21 sono numeri progressivi di registrazione, non generazioni del produttore. Le vecchie note etichettate come storiche restano documentazione di review e sono superate da queste scelte.
 
 
