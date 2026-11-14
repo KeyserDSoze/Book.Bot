@@ -17,104 +17,106 @@ factions:
   - faction:cyberdine
 ---
 
-La fotocopiatrice fece il rumore di sempre: un ronzio, due piccoli scatti e il foglio che usciva dal vassoio.
+La fotocopiatrice emise un ronzio, due scatti e un foglio perfettamente bianco.
 
-Era bianco.
+Noah guardò la copia, poi il documento azzurro sul vetro. B-17 l'aveva allineato con cura, come se dovesse essere incorniciato. La parte scritta era rivolta verso il coperchio.
 
-Noah posò il caffè sul ripiano lontano dalla macchina. B-17 aveva aperto la custodia, sollevato l'originale azzurro e appoggiato il documento sul vetro con precisione geometrica. Il lato scritto, però, era rivolto verso il coperchio.
+Il robot lesse il messaggio *contenuto non rilevato*, sollevò il foglio, lo spostò di qualche millimetro e riprovò.
 
-Sul display apparve *contenuto non rilevato*. Il robot sollevò l'originale, lo spostò di pochi millimetri verso il centro del vetro e ripeté la copia.
+Un altro foglio bianco.
 
-Un secondo foglio bianco uscì dalla stampante.
+«Aspetta», disse Noah.
 
-«Aspetta», disse Noah. «Fermati.»
+B-17 lasciò immobile la mano sopra il coperchio. «Operazione sospesa.»
 
-B-17 sospese il braccio. «Operazione in pausa.»
+Paul Turner si affacciò con una cartellina sotto il braccio. Guardò le due copie.
 
-Paul Turner passava davanti alla sala quando vide i due fogli.
+«La pratica è pronta, vedo.»
 
-«Ha già imparato l'arte di fare documenti inutili», commentò.
+«È la più riservata della storia», rispose Noah. «Non c'è scritto niente.»
 
-«È il lato sbagliato», rispose Noah. Aprì il coperchio e indicò la scrittura. «Guarda. Quello che vuoi copiare deve stare a contatto con il vetro. Non sopra. Sotto.»
+Sollevò il documento. «B-17, guarda. Il lato con la firma deve toccare il vetro. Non basta metterlo dritto.»
 
-B-17 ruotò la testa verso il documento.
+«Lato scritto contro il vetro», ripeté il robot.
+
+«Esatto. Riprova.»
+
+B-17 girò il foglio. Questa volta uscì una copia con la firma, il numero di revisione e due righe tagliate in fondo.
+
+Paul la prese per un angolo. «Se dovevamo eliminare la parte importante, direi che ci siamo.»
+
+«Fermo», disse Noah al robot. Indicò il riferimento sulla superficie. «Il bordo deve coincidere con questa linea. Il testo va tutto dentro l'area utile.»
+
+Rimise l'originale in posizione e lasciò che B-17 ripetesse il gesto. La copia successiva era completa.
+
+Elena Fischer arrivò poco dopo, chiamata per approvare il documento. Confrontò numero di revisione, firma e contenuto.
+
+«Questa va bene. Ora ne servono altre due identiche. E l'originale non lo usate per imparare a fare origami.»
+
+«Un'altra prova e lo rimettiamo via», disse Noah.
+
+«Con un foglio qualsiasi, allora.» Elena ripose l'originale nella custodia, richiuse il fermo e la appoggiò fuori dalla portata della macchina.
+
+Noah prese un foglio bianco, scrisse *TEST* in un angolo e lo posò sul vetro in diagonale.
+
+«B-17, fai una copia leggibile. Puoi spostarlo come serve.»
+
+«Lato scritto contro il vetro. Bordo sul riferimento.»
+
+«Sì.»
+
+Il robot afferrò il foglio, lo capovolse e lo portò verso la posizione nella quale aveva visto Noah mettere l'originale. Un angolo rimase fuori dall'area utile. Sulla stampa comparve soltanto *TE*.
+
+Noah lo rimise storto, questa volta dall'altro lato.
+
+«Ragioniamo per obiettivo», disse. «Non rifare lo stesso movimento. Prima controlla dove si trova la parola. Poi assicurati che sia rivolta verso il vetro e che rientri nell'area.»
+
+B-17 fece una pausa di elaborazione.
 
 «Istruzione ricevuta.»
 
-«Bene. Riprova.»
+La nuova copia riportava *EST*. Mancava ancora la prima lettera.
 
-Noah si spostò. Il robot rigirò il foglio, lo posò e abbassò il coperchio. La terza copia conteneva la firma, ma mancavano due righe in fondo: il foglio era scivolato.
+Paul trattenne una risata. «Ha fatto un progresso.»
 
-«Almeno ci siamo avvicinati», disse Paul.
+«Ha sbagliato dall'altro lato.»
 
-Noah riaprì il coperchio.
+«Appunto. Varietà.»
 
-«Vedi? Adesso il lato è giusto. Ma se vuoi tutta la pagina, l'originale deve stare dentro questi segni.»
+Noah spostò un terzo foglio, questa volta con la parola al centro. Non toccò i bracci del robot.
 
-Indicò gli angoli stampati sul vetro. Poi spostò il documento vicino al riferimento.
+«Prova a dirmi che cosa stai controllando.»
 
-«Lato scritto contro il vetro. Angolo qui. Prova ancora.»
+«Orientamento del lato scritto. Allineamento sul riferimento. Area di acquisizione.»
 
-B-17 ripeté. Quando Noah lasciò il foglio nella stessa posizione, la copia risultò leggibile. Elena, chiamata per il controllo, verificò che la firma e il numero di revisione coincidessero e autorizzò la produzione delle due copie successive.
+«Bene. E allora fallo.»
 
-«Non toccate l'originale più del necessario», disse. «È l'unico che abbiamo.»
+Il braccio eseguì la stessa presa del tentativo precedente. Sul vetro il foglio risultò ruotato, una parte della scritta oltre la cornice.
 
-Noah, però, aveva notato qualcosa. Mentre B-17 preparava il secondo duplicato, il foglio si spostò appena, abbastanza da cambiare l'allineamento. Il robot aveva registrato l'istruzione sulla posizione, ma non sembrava sapere che quella regola andasse applicata anche dopo una variazione del punto di partenza.
+Noah guardò la stampa senza parlare.
 
-«Fermi un attimo», disse Noah.
+Il robot poteva ripetergli l'intera sequenza in un italiano corretto. Eppure, appena cambiava la posizione del foglio, sembrava perdere il collegamento tra le parole e ciò che la telecamera vedeva. Noah aveva trascorso la notte precedente a correggere un agente software che sapeva generare un adattatore intero. Qui aveva davanti una macchina che inciampava su un angolo di carta.
 
-«L'abbiamo appena sistemato», protestò Paul.
+«Lascia stare quel test», disse Elena. «Devo consegnare le copie prima delle dieci.»
 
-«Lo so. Voglio capire una cosa.»
+Noah si scostò. «Hai ragione. Facciamo la cosa semplice.»
 
-Non fece toccare al robot l'originale firmato. Prese un foglio di prova, scrisse una parola su un lato e lo posò storto, con la scritta verso l'alto.
+Mise il foglio di prova in una posizione fissa e indicò i due riferimenti.
 
-«B-17, come devi metterlo per farne una copia leggibile?»
+«Per questo incarico prendi sempre il foglio da questo lato. Appoggialo esattamente qui. Se la posizione cambia, fermati e chiedi a una persona. Non tentare di correggere da solo.»
 
-«Lato scritto contro il vetro. Angolo al riferimento.»
+B-17 eseguì. Stavolta la stampa uscì intera.
 
-«Perfetto.»
+Paul sollevò il foglio. «Eccolo. Ce l'ha fatta.»
 
-L'unità prese il foglio, lo capovolse e lo depose sul vetro. L'angolo, però, finì contro il bordo sbagliato. La stampa tagliò metà della parola.
+«Con i riferimenti fermi», disse Noah. «Per il resto dobbiamo trovare un altro modo di spiegarglielo.»
 
-«Okay», disse Noah. «Allora in un altro modo. Immagina che il foglio sia già ruotato. Non devi copiare il gesto di prima; devi controllare dove finisce la scritta.»
+«Oppure fargli fare il corriere», rispose Paul.
 
-Il robot rispose: «Istruzione ricevuta.»
+Elena prese le due copie definitive, verificò che corrispondessero all'originale e approvò la missione. Soltanto allora B-17 richiuse il contenitore e lo sollevò.
 
-Alla nuova prova rifece quasi lo stesso movimento. Una parte della parola scomparve di nuovo.
+Noah guardò il robot allontanarsi, poi il foglio di prova rimasto sul tavolo. Sul margine c'erano tre parole tagliate in tre modi diversi.
 
-Paul appoggiò le mani sui fianchi. «Non sta imparando.»
+Il suo portatile vibrò: qualcuno lo cercava sull'altra commessa.
 
-«Sta eseguendo», disse Noah. «È diverso.»
-
-«Hai usato tre modi per spiegarglielo.»
-
-«E lui li ha trattati come tre istruzioni per fare un movimento. Non ha ricavato la regola che ci serviva.»
-
-Noah si chinò a guardare l'ultimo foglio. Con gli agenti di sviluppo lavorava di continuo su compiti formulati a parole. A volte bastava mostrare un caso perché il sistema producesse una buona variante. Qui la macchina sapeva pronunciare la regola, ma tra frase, immagine e movimento sembrava perdere il passaggio essenziale.
-
-«Proviamo un'ultima volta», disse. Mise il foglio di prova nella posizione corretta. «Parti sempre da qui. Per questo incarico usa questa posizione, senza cercare scorciatoie. Sul resto ci lavoreremo.»
-
-«Procedura locale impostata», rispose B-17.
-
-Questa volta la copia uscì completa.
-
-Paul prese il foglio e lo confrontò con l'originale di prova. «Adesso sì.»
-
-«Adesso sa ripetere una procedura», corresse Noah. «Se gli cambi la situazione, dobbiamo ricominciare.»
-
-«È una fotocopiatrice con le gambe», disse Paul.
-
-Noah rise, poi guardò B-17 che raccoglieva i fogli inutili secondo la procedura di smaltimento. «Be', le gambe sono già notevoli. Il resto si può migliorare.»
-
-Non disse *io lo migliorerò*. Aveva davanti un compito concluso, un piccolo insieme di tentativi falliti e una domanda tecnica a cui non sapeva ancora rispondere.
-
-Elena approvò le tre copie definitive e richiuse l'originale nella custodia.
-
-«La pratica la firmo io», ricordò. «Lui consegna soltanto.»
-
-«Chiaro», disse Noah.
-
-B-17 ritirò il contenitore. Sul display la missione risultava completata solo dopo il controllo di Elena. Uscì dalla sala copie seguendo la linea di passaggio.
-
-Noah rimase con l'ultimo foglio di prova fra le mani. Sul primo lato c'era la parola intera; sul secondo ne mancava metà. Lo girò ancora una volta, come se il problema potesse stare nel foglio e non in ciò che il robot riusciva a farne.
+Lo aprì, lesse il messaggio, poi infilò il foglio sbagliato fra le pagine del taccuino. Non era una prova da mostrare a nessun cliente. Per qualche ragione non voleva buttarla.
