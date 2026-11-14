@@ -51,7 +51,7 @@ Il primo foglio uscì. B-17 ne lesse l'intestazione, poi il riferimento stampato
 
 Mila si avvicinò. «Che cosa?»
 
-«Il documento riporta “percorso verificato”. Il riferimento associato è alla dimostrazione simulata. Il test d'integrazione reale risulta non validato nei materiali di accompagnamento.»
+«Il documento riporta “percorso verificato”. Nel riferimento stampato sotto è indicata una dimostrazione simulata. Da questa pagina non risulta una verifica sul terminale reale.»
 
 Elena si voltò lentamente.
 
