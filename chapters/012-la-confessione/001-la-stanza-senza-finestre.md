@@ -89,6 +89,20 @@ Noah aprì il portatile senza connettersi a nulla.
 
 «Ho cambiato il modello linguistico di B-17 e il modo in cui conservava il contesto. Non ho chiesto l'approvazione. Ho lasciato incompleta la prova sull'autonomia.»
 
+Esitò. «Ho disabilitato anche l'arresto protettivo che doveva attivarsi dopo un urto forte.»
+
+Leah sollevò lo sguardo. «Hai escluso una funzione di sicurezza del costruttore?»
+
+«Sì.»
+
+Kyla ricordò B-17 ripiegarsi nel corridoio quando Malik gli era finito addosso, mesi prima. Poi ricordò il corpo che avevano raccolto dopo l'aggressione.
+
+«Quando Ethan e Marcus lo hanno colpito, avrebbe dovuto fermarsi?» domandò.
+
+«Non posso garantirti che avrebbe evitato tutti i danni», rispose Noah. «Ma quella protezione avrebbe dovuto intervenire. Io l'avevo tolta. Non gliel'ho detto a nessuno.»
+
+Leah aggiunse una nuova voce ai fatti da verificare. «Dovremo accertare quando l'hai esclusa, con quali effetti e che cosa sia rimasto operativo. La violenza è responsabilità di chi l'ha commessa. Questa modifica, invece, è responsabilità tua.»
+
 Kyla ricordò la prima volta in cui aveva sentito Bi chiedere a un collega come stesse. Si era chiesta come mai quella domanda arrivasse al momento giusto. Adesso non trovava alcun conforto nel sapere perché.
 
 «E l'accesso nascosto?», chiese Leah.
