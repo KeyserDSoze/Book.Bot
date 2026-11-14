@@ -111,4 +111,4 @@ Mentre Kyla usciva, B-17 incontrò di nuovo il carrello del corridoio. Mila lo a
 
 Kyla gli lasciò spazio, poi proseguì verso l'ascensore.
 
-Sul telefono aveva ancora il messaggio di Anika: *Ci ragioneremo*. Non era cambiato nulla, dal punto di vista del contratto. Ma nella bozza che portava con sé non c'era più una dimostrazione miracolosa. C'era una prova che qualcuno avrebbe dovuto poter smentire.
+Nella memoria le rimaneva la risposta di Anika: *Ci ragioneremo*. Non era cambiato nulla, dal punto di vista del contratto. Ma nella bozza che portava con sé non c'era più una dimostrazione miracolosa. C'era una prova che qualcuno avrebbe dovuto poter smentire.
