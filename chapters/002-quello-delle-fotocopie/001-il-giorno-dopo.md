@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:002-quello-delle-fotocopie:000-il-giorno-dopo
+id: scene:002-quello-delle-fotocopie:001-il-giorno-dopo
 chapter: chapter:002-quello-delle-fotocopie
-number: 0
+number: 1
 title: Il giorno dopo
 canon: canon
 pov: character:kyla
@@ -108,7 +108,7 @@ Kyla fece scorrere sul telefono la breve risposta ricevuta da Anika la sera prim
 
 «Non lo so ancora.»
 
-Kyla sbatté la mano sul tavolo. «Non posso andare da Anika con “non lo so” ogni volta!»
+Kyla sbatté la mano sul tavolo. «Non posso andare da Anika con *non lo so* ogni volta!»
 
 «E io non posso metterti una data a caso per renderti felice!» Malik era in piedi. «Se vuoi qualcuno che ti dica sempre sì, non ti serve una squadra di ingegneri. Ti serve una casella che si colori di verde!»
 

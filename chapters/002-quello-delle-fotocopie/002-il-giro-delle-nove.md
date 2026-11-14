@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:002-quello-delle-fotocopie:001-il-giro-delle-nove
+id: scene:002-quello-delle-fotocopie:002-il-giro-delle-nove
 chapter: chapter:002-quello-delle-fotocopie
-number: 1
+number: 2
 title: Il giro delle nove
 canon: canon
 pov: character:b-17

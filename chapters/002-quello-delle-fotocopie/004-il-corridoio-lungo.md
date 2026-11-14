@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:002-quello-delle-fotocopie:003-il-corridoio-lungo
+id: scene:002-quello-delle-fotocopie:004-il-corridoio-lungo
 chapter: chapter:002-quello-delle-fotocopie
-number: 3
+number: 4
 title: Il corridoio lungo
 canon: canon
 pov: character:mila-novak

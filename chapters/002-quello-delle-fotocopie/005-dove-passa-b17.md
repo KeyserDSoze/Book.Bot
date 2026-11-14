@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:002-quello-delle-fotocopie:004-dove-passa-b17
+id: scene:002-quello-delle-fotocopie:005-dove-passa-b17
 chapter: chapter:002-quello-delle-fotocopie
-number: 4
+number: 5
 title: Il blocco
 canon: canon
 pov: character:b-17

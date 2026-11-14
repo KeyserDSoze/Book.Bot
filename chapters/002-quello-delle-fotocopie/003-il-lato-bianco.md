@@ -1,8 +1,8 @@
 ---
 type: scene
-id: scene:002-quello-delle-fotocopie:002-il-lato-bianco
+id: scene:002-quello-delle-fotocopie:003-il-lato-bianco
 chapter: chapter:002-quello-delle-fotocopie
-number: 2
+number: 3
 title: Il lato bianco
 canon: canon
 pov: character:noah-carter
