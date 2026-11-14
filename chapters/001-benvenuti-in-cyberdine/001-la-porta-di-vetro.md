@@ -11,7 +11,7 @@ characters:
   - character:visitors
   - character:anika-rao
   - character:gavin-shaw
-  - character:b-17
+  - character:daniel-reed
 locations:
   - location:cyberdine-campus
 factions:
