@@ -48,7 +48,7 @@ Nel 10 evita per giorni di rispondere a una richiesta banale della madre per un 
 
 ## Revisione v0.32.0 — Software e robot
 
-La sua scelta clandestina avviene dopo il periodo di lavoro nei giardini del capitolo 1, ma prima delle prime commissioni di ufficio del capitolo 2; il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Noah è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro. Proprio la sua successiva assunzione a Veyra Labs rende evidente il problema: il mercato del talento non coincide con il giudizio morale sui suoi atti.
+La sua scelta clandestina avviene **dopo il capitolo 2 e prima del capitolo 3**: B-17 gli porta un caffè, fallisce alcune fotocopie nonostante spiegazioni riformulate e si arresta per sicurezza dopo l'urto con Malik; è questo che suscita l'interesse di Noah. Solo in seguito egli interviene clandestinamente sul modello e sul blocco antiurto;  il lettore ne scopre la causa nel capitolo 10. Non è lui ad avere autorizzato la partecipazione di Bi al reparto software. Il corpo robotico e il codice eseguibile restano soggetti a perimetri di autorizzazione indipendenti. Noah è uno dei pochi a saper leggere codice profondo, ma ha evitato i controlli che avrebbero dovuto valutarne il lavoro. Proprio la sua successiva assunzione a Veyra Labs rende evidente il problema: il mercato del talento non coincide con il giudizio morale sui suoi atti.
 
 
 ## Raccordo finale v0.34 — il lessico del ritiro
@@ -91,3 +91,7 @@ Nel **10/001** l'autonomia energetica del modello sperimentale è una prova espl
 ## Diciannovesima review — ciò che non può dichiarare a un giornalista
 
 Nel **19/002** Noah, intervistato da Olivia Brooks, non può affermare che il modulo commerciale di Lanter **non** contenga nulla del proprio codice: non ha la documentazione di quel prodotto. Può dire che conosce l'uso dichiarato di alcuni risultati di B-17 e che la copia diretta resta non accertata. Non firma l'investimento che gli chiederebbe di rivendicare diritti su sviluppi altrui. La prudenza tardiva non assolve la backdoor o il test sfavorevole non portato in revisione.
+
+## Raccordo di sicurezza capitoli 2 → 6 → 10 → 12
+
+Nel capitolo 2 Noah riceve da B-17 un caffè sigillato, lo assiste nelle fotocopie e vede che il robot ripete procedure ma non generalizza una spiegazione. Dopo un urto accidentale con Malik l'unità esegue regolarmente la protezione di fabbrica: si raccoglie e si disattiva. **Tra 2 e 3**, lavorando senza autorizzazione, Noah modifica le capacità conversazionali e disabilita anche il blocco protettivo dopo impatto. Crede di evitare interruzioni dei propri esperimenti, non prevede l'aggressione, ma viola una funzione di sicurezza. Nel 6 il robot continua a muoversi e parlare durante i colpi, anziché arrestarsi; Noah è scosso ma l'origine della differenza non è rivelata. Nel **10/001** il lettore scopre la decisione e il suo rimorso. Nel **12/001–002** Noah dichiara a Leah e Kyla la disabilitazione; l'effetto preciso sui danni va ancora accertato. La violenza di Ethan e Marcus resta responsabilità loro e la colpa tecnica di Noah non ne diminuisce la gravità.
