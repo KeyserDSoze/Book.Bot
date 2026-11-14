@@ -56,7 +56,7 @@ Leïa guardò la terrazza. «Ma oggi quelle persone sono contente?»
 
 «Alcune moltissimo. Altre chiedono che cosa significhi fare carriera in un'azienda dove sono gli agenti a preparare la prima versione del lavoro.»
 
-Kyla ricordò un ragazzo del gruppo sviluppo che, alla riunione del venerdì, aveva chiesto di assistere al collaudo di un vecchio modulo. Sapeva approvare i test preparati dall'agente, aveva spiegato; non aveva ancora visto il terminale sul quale quei test sarebbero stati usati. Gavin gli aveva domandato quale consegna avrebbe lasciato scoperta per andarci. Il ragazzo aveva guardato il proprio calendario, senza trovare una risposta.
+Kyla ricordò un ragazzo del gruppo sviluppo che, alla riunione del venerdì, aveva chiesto di assistere al collaudo di un vecchio modulo. Sapeva approvare i test preparati dall'agente, aveva spiegato; non aveva ancora visto il terminale sul quale quei test sarebbero stati usati. Gavin gli aveva domandato quale consegna avrebbe lasciato scoperta per andarci. Il ragazzo aveva guardato il proprio calendario, senza trovare una risposta. Ora Sahir le stava chiedendo, in sostanza, la stessa cosa: chi avrebbe avuto il tempo di imparare?
 
 Non lo raccontò agli ospiti. Mentre Sahir si chinava sul tabellone delle batterie, Kyla cercò *formazione legacy*. La richiesta c'era, ma la casella del centro di costo era vuota. Scrisse a Elena per sapere chi potesse mostrare il terminale, a Gavin per chiedere due ore di uno sviluppatore e al responsabile di commessa per sapere dove registrarle. Il calendario le offrì soltanto un promemoria. Non lo trasformò in un appuntamento.
 
