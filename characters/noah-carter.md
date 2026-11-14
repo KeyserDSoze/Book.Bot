@@ -13,7 +13,7 @@ Sviluppatore software di Cyberdine, specializzato in integrazione di modelli, si
 
 Nel capitolo 10 riceve dal proprio appartamento una notifica che l'unità B-17, data per ferma dopo l'aggressione e la mancata riparazione, è stata riaccesa dall'altra parte del mondo. Vede attraverso le sue telecamere un campo di guerra simulata tra robot, con attrezzature da addestramento e supervisione umana. **Osserva senza intervenire nel combattimento**; l'esistenza stessa del collegamento clandestino rimane una violazione da accertare.
 
-Fino al capitolo 12 Noah non è noto ai colleghi come autore dell'aggiornamento. Nella revisione editoriale della v0.15.0 è presente già dal capitolo 1: Kyla lo vede assistere un collega con un varco bloccato; nel capitolo 2 osserva la vicenda delle fotocopie; nel capitolo 3 assiste al primo saluto insolito di B-17 senza intervenire; nel capitolo 6 prima conia la battuta «bot-piattisti» di fronte alla fazione anti-robot e poi vede B-17 danneggiato; nel capitolo 8 esce dalla plenaria quando compare il codice B-17; nel capitolo 9 guarda arrivare l'unità sostitutiva. Le presenze sono esterne e ordinarie; nessuna rivela la causa del cambiamento prima del capitolo 10.
+Fino al capitolo 12 Noah non è noto ai colleghi come autore dell'aggiornamento. Nel capitolo 1 compare in laboratorio, arrivato tardi per una commessa diversa: legge rapidamente i log del retry Bridgeglass e propone un mock dichiaratamente sintetico, senza sostituirsi al PM Daniel né rivendicare una soluzione del bug. Nel capitolo 2 accetta un caffè da B-17, ne osserva gli errori di fotocopia e ne prova i limiti. Nel 3 vede il salto conversazionale senza spiegazioni; nel 6 scherza sui «bot-piattisti» e assiste solo alle conseguenze dell'aggressione; nell'8 esce dalla plenaria quando appare B-17, nel 9 vede arrivare B-21. L'autore del cambiamento diventa noto al lettore soltanto nel 10.
 
 
 ## La battuta che diventa politica
@@ -58,7 +58,7 @@ Noah contribuisce sotto supervisione alla predisposizione del programma di cance
 
 ### Correzioni di conoscenza e svolta morale — revisione in corso
 
-Nel cap. 1 Noah non ignora il bisogno dell'addetto bloccato alla porta: lo fa passare attraverso un ingresso alternativo e poi torna alla verifica. Nel cap. 35 ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Maya; non usare la sua passata backdoor per colmare questo vuoto. Quando Maya lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. Egli stesso è chiamato a scegliere, non è costretto a confermare il ritiro. La prova che non ha omesso questa volta non equivale a un'assoluzione.
+Nel capitolo 1 il varco bloccato viene affrontato da un tecnico della manutenzione, non da Noah, che lavora su un'altra commessa e interviene solo nella crisi Bridgeglass. Nel cap. 35 Noah ricorda filmati autorizzati delle partite, **non** la confessione privata serale di Bi a Maya; non usare la sua passata backdoor per colmare questo vuoto. Quando Maya lo affronta in 34/003 non ha ancora firmato la procedura: firmerà nella scena successiva. La prova che non ha omesso non equivale a un'assoluzione.
 
 
 ## Terza passata: parlare non è collaudare
