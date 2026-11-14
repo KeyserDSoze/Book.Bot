@@ -95,7 +95,7 @@ Leah sollevò lo sguardo. «Hai escluso una funzione di sicurezza del costruttor
 
 «Sì.»
 
-Kyla ricordò B-17 ripiegarsi nel corridoio quando Malik gli era finito addosso, mesi prima. Poi ricordò il corpo che avevano raccolto dopo l'aggressione.
+Kyla ricordò la segnalazione di B-17 raccolto e fermo nel corridoio dopo l'urto accidentale con Malik, mesi prima. Poi ricordò il corpo che avevano raccolto dopo l'aggressione.
 
 «Quando Ethan e Marcus lo hanno colpito, avrebbe dovuto fermarsi?» domandò.
 
