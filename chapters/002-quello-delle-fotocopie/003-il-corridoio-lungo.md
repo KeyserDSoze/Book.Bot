@@ -18,46 +18,60 @@ factions:
   - faction:cyberdine
 ---
 
-Mila Novak vide B-17 passare con il contenitore delle fotocopie. Gli rimase dietro il rumore ordinato dei passi e, poco più lontano, quello meno ordinato di due persone che discutevano.
+Mila Novak intercettò B-17 davanti all'archivio. Il robot trasportava il contenitore delle copie; dal piano inferiore arrivava la voce di Malik, così forte che due persone si fermarono a metà scala.
 
-Dalla sala riunioni al piano di sotto arrivò un'esclamazione di Kyla. Non se ne distinsero le parole. Un attimo dopo rispose Malik, così forte che un collega alzò la testa dalla postazione.
+«Non hanno ancora finito?» domandò Paul.
 
-«Sono ancora dietro a Bridgeglass», disse Paul, raggiungendo Mila. «Sembrava finita.»
+«Ieri non hanno finito nemmeno la demo», rispose Mila.
 
-«Sembrava finita anche ieri, prima che arrivasse il cliente.»
+Prese le copie dal contenitore. Il numero di revisione era quello richiesto, la firma si leggeva e l'originale era tornato nella custodia. Mila avrebbe potuto chiudere il fascicolo in trenta secondi.
 
-Elena controllò le copie consegnate. La firma era leggibile, l'originale risultava custodito e il numero di revisione corrispondeva. Ma nell'indice digitale quella stessa sigla rimandava a un'altra pratica, più recente. Mila aprì il vecchio registro e trovò l'eccezione: durante una migrazione, anni prima, un codice era stato riutilizzato.
+Ma nell'indice digitale compariva un altro documento con lo stesso codice.
 
-L'agente che aveva riepilogato la pratica non aveva mentito. Non aveva visto il registro.
+«Paul, vieni un momento.»
 
-«Ecco cosa mancava», disse Mila. «Il sistema mi mostra le fonti che ha usato. Non mi dice quali ha escluso.»
+Lui appoggiò la cartellina. Mila aprì il fascicolo storico, quello che l'agente aveva omesso dal riepilogo. Durante una migrazione qualcuno aveva riutilizzato una sigla per una pratica nuova. Una nota a matita nel vecchio registro distingueva le due versioni. La nota non era mai entrata nel database.
 
-Paul indicò il vecchio fascicolo. «Quello nessuno l'ha mai caricato correttamente.»
+«Se seguo l'indice», disse Mila, «attribuisco questa firma al documento sbagliato.»
 
-Mila annotò il caso e aprì una richiesta di test: le fonti escluse avrebbero dovuto diventare ispezionabili da una persona autorizzata, con la motivazione. Elena verificò il confronto documentale e firmò soltanto quello. Non autorizzò alcun cambiamento automatico dei criteri.
+Paul lesse la data sul foglio. «E il riepilogo dell'agente?»
 
-B-17 attendeva una nuova missione accanto alla linea gialla. Non aveva interpretato il vecchio registro, né deciso la validità di una firma. Aveva trasportato fogli tra persone che ancora sapevano come leggerli.
+Mila lo aprì. I riferimenti sembravano coerenti. Mancava proprio il registro che avevano sotto gli occhi.
 
-Marcus Reed arrivò con un carrello quasi vuoto.
+«Gli abbiamo dato una raccolta incompleta», disse. «E adesso ci restituisce una risposta ordinata.»
 
-«Avete proprio bisogno di mandare lui a fare ogni consegna?», chiese.
+Elena, richiamata dal laboratorio, verificò l'originale e la nota storica. «Queste copie sono corrette. Il collegamento nell'indice, no.»
 
-Mila lo guardò. «Oggi ci ha portato delle copie.»
+Mila aprì un ticket perché le fonti escluse fossero visibili a chi doveva approvare le pratiche. Non allegò la scheda firmata al sistema di assistenza dell'agente: inserì il riferimento interno e il percorso di verifica autorizzato. Elena segnò l'eccezione come aperta.
 
-«A me hanno tolto due giri dal turno. Erano ore pagate. Adesso mi dicono che ho più tempo libero.»
+Dalla scala arrivò una frase di Kyla: «Non possiamo promettere che il cliente ci aspetterà per sempre!»
 
-«Hai avuto risposta sulla formazione?»
+Qualcuno rispose, ma la porta si richiuse prima che Mila distinguesse le parole.
 
-«No.»
+Marcus Reed apparve con un carrello da trasporto quasi vuoto. Si fermò vedendo il contenitore nelle mani di B-17.
 
-Mila riaprì la richiesta che Marcus aveva fatto la settimana precedente e aggiunse l'effetto concreto dei turni ridotti. Non gli disse che questo avrebbe risolto il problema. Lui si allontanò senza ringraziare.
+«Adesso fa pure l'archivista?»
 
-«Non è una gran giornata per chi lavora qui», disse Paul.
+«Ha portato tre copie», disse Paul.
 
-Un'altra voce arrivò dalla scala: qualcuno aveva aperto la porta della sala riunioni e chiesto che non gli si parlasse di nuove scadenze. La porta si richiuse di nuovo, ma non abbastanza da trattenere il seguito della discussione.
+«A me hanno tolto due giri. Quelli erano turni pagati, non minuti persi a passeggiare.»
 
-B-17 ricevette il percorso per la nicchia dei materiali. Ruotò verso la striscia gialla. Un carrello ostruiva un tratto del corridoio: il robot si fermò, classificò l'ostacolo e attese. Paul lo spostò.
+Mila posò i fogli. «La richiesta sulle ore l'hai mandata?»
 
-«Prego», disse.
+«Martedì. Nessuno ha risposto.»
 
-L'unità riprese il cammino. Nessuna risposta venne richiesta. Dal piano di sotto, insieme al suono di una porta che sbatteva, si sentì ancora la voce di Malik.
+Lei cercò la richiesta e vi aggiunse il numero dei giri eliminati. Non mise *risolto* nello stato. Marcus guardò lo schermo per un momento, poi riprese il carrello.
+
+«Così quando mi daranno più tempo libero sapranno anche quanti soldi mi mancano», disse.
+
+B-17 aveva già ricevuto una nuova destinazione. Attese che Marcus liberasse il passaggio, poi si mosse lungo la linea gialla.
+
+Una porta al piano inferiore si aprì di nuovo.
+
+«Non inserite un'altra scadenza finché non avete capito cosa chiedete!» Era Malik.
+
+La risposta di Kyla non arrivò intera. Mila vide Paul girare la testa verso la scala e poi di nuovo verso il registro aperto.
+
+«Teniamo ferma questa pratica», disse lui.
+
+Mila mise il fascicolo in attesa della correzione dell'indice. Quando rialzò gli occhi, B-17 era già oltre la curva del corridoio, diretto al deposito dei materiali.
