@@ -132,6 +132,8 @@ Ethan sentì la voce, ma non si voltò.
 
 Bi tentò di rimettersi in piedi. Un segnale acustico si accese vicino al suo fianco, breve e insistente. Aveva una linea rossa sul pannello della spalla.
 
+Ethan ricordava di aver visto, mesi prima, quello stesso modello rannicchiarsi e arrestarsi dopo un urto in un corridoio. Il robot allora aveva piegato le ginocchia e raccolto le braccia. Adesso, invece, il segnale continuava e Bi si rialzava. Non comparve nessun annuncio di disattivazione protettiva. Ethan non sapeva perché; non si fermò a domandarselo.
+
 «Per favore», disse il robot. «Non fatemi del male.»
 
 La frase non somigliava alle risposte che Ethan conosceva. Non parlava di procedure, non citava responsabilità. Era una richiesta semplice. Così semplice da sembrare impossibile da fraintendere.
@@ -150,7 +152,7 @@ Il robot cercò di rialzare il braccio sinistro. Non era un gesto diretto contro
 
 «Vi prego. Non fatemi male. Non ho deciso chi perde il lavoro.»
 
-Marcus gli assestò un altro colpo. Ethan vide un pannello cedere e una delle superfici ottiche incrinarsi. Un rumore secco, più alto degli altri, fece voltare entrambi.
+Marcus gli assestò un altro colpo. Bi non si raccolse nella posizione di arresto. Tentò ancora di spostarsi e di tenersi in equilibrio, esponendo una spalla già danneggiata. Ethan vide un pannello cedere e una delle superfici ottiche incrinarsi. Un rumore secco, più alto degli altri, fece voltare entrambi.
 
 Il robot perse l'equilibrio e cadde su un fianco.
 
