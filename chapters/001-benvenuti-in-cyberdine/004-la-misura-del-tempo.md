@@ -112,4 +112,6 @@ Sul monitor il nuovo ticket era ancora in attesa di prove. Kyla aprì la richies
 
 Inviò comunque la richiesta a Gavin e Malik, lasciando visibile il conflitto con la consegna. Nel campo *data confermata* non scrisse nulla. Si appuntò di chiedere al responsabile di commessa come coprire la prova; era la stessa voce di costo che le mancava per la formazione sul codice storico.
 
-Poi abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile.
+Prima di chiudere la schermata arrivò la risposta automatica: *Nessuna disponibilità prima di venerdì*. Venerdì era anche il giorno della consegna che Gavin aveva promesso. Kyla rilesse il messaggio di Anika: nel rinnovo voleva vedere una verifica capace di ritardare davvero un rilascio. Aveva chiesto proprio la prova che Cyberdine, per il momento, non riusciva a mettere in calendario.
+
+Kyla avrebbe potuto chiamare Gavin e ottenere una promessa per telefono. Non lo fece. Lasciò aperti il ticket e il problema, abbassò la luminosità dello schermo e uscì senza portarsi dietro il portatile. Fuori, la serata che aveva promesso all'amica era ancora possibile. La risposta da dare ad Aruvhana, no.
