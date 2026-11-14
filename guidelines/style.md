@@ -25,7 +25,7 @@ Mostrare prima di spiegare quando sono in gioco emozione, status e potere. Vieta
 
 Il capitolo 1 è **ottimista senza ironia**: Kyla crede al progresso, i visitatori sono sinceramente colpiti, i KPI raccontano vantaggi reali. Il lessico del lavoro robotico è quello dell'organizzazione e dell'affidabilità: il giudizio etico verrà posto più tardi. Narrazione limitata a Kyla.
 
-Il capitolo 2 è **quotidiano, corale e appena ironico**. Un punto di vista umano per scena: Elena, Paul, Mila, Kyla. I colleghi scherzano sulle fotocopie sbagliate, come farebbero con un aggeggio d'ufficio ostinato, ma B-17 continua a fare lavori utili. È una presenza che cresce attraverso gli occhi degli altri, non mediante pensieri attribuiti al bot. Evitare tanto la satira crudele quanto l'epifania sulla coscienza.
+Il capitolo 2 alterna il conflitto duro Kyla–Malik e commissioni quotidiane viste anche attraverso **percezioni fisiche e registrabili di B-17**, senza narrare pensieri o emozioni del robot. B-17 viene respinto, consegna il caffè a Noah e sbaglia le fotocopie nonostante le spiegazioni; il capitolo finisce quando Malik, uscendo infuriato, urta il robot e ne provoca il ripiegamento e la disattivazione automatica di fabbrica. La futura mancata disattivazione durante l'aggressione del 6 è un fatto osservabile; **il motivo tecnico e la colpa di Noah si svelano solo al 10**. Non attribuire tristezza o coscienza al robot e non trasformare il blocco in una risposta umana.
 
 Dialoghi con «caporali». Cyberdine è una software house già nel capitolo 1; il settore specifico di Aruvhana può restare fuori campo. Il mistero nasce da dettagli materiali e dalle divergenze di interpretazione, non da minacce artificiose.
 
