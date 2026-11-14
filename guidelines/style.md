@@ -23,7 +23,7 @@ Mostrare prima di spiegare quando sono in gioco emozione, status e potere. Vieta
 
 # Primo movimento: la promessa e la presenza
 
-Il capitolo 1 è **ottimista senza ironia**: Kyla crede al progresso, i visitatori sono sinceramente colpiti, i KPI raccontano vantaggi reali. Il lessico del lavoro robotico è quello dell'organizzazione e dell'affidabilità: il giudizio etico verrà posto più tardi. Narrazione limitata a Kyla.
+Il capitolo 1 è una **visita commerciale sotto pressione**: Kyla crede al valore di Cyberdine, ma Bridgeglass fallisce un test live su terminale legacy. Si alternano due POV dichiarati, Kyla e Malik. Noah individua il possibile errore nel retry, Daniel ordina un mock e ne assume la responsabilità per iscritto, Kyla prende tempo con B-17 in giardino e sceglie di non dichiarare il limite prima della sequenza simulata. I clienti la contestano duramente e lasciano soltanto una possibilità di inviare una proposta di PoC. Mostrare gli attriti attraverso decisioni, gesti, log e domande incisive, senza un'altra visita illustrativa a KPI e batterie.
 
 Il capitolo 2 alterna il conflitto duro Kyla–Malik e commissioni quotidiane viste anche attraverso **percezioni fisiche e registrabili di B-17**, senza narrare pensieri o emozioni del robot. B-17 viene respinto, consegna il caffè a Noah e sbaglia le fotocopie nonostante le spiegazioni; il capitolo finisce quando Malik, uscendo infuriato, urta il robot e ne provoca il ripiegamento e la disattivazione automatica di fabbrica. La futura mancata disattivazione durante l'aggressione del 6 è un fatto osservabile; **il motivo tecnico e la colpa di Noah si svelano solo al 10**. Non attribuire tristezza o coscienza al robot e non trasformare il blocco in una risposta umana.
 
@@ -85,7 +85,7 @@ Raccolta fondi: evitare un trionfo facile. Cyberdine è in difficoltà di liquid
 
 Un richiamo narrativo deve **cambiare significato**, non solo ripetere una parola. La cornice magnetica passa dall'aiuto fisico alla memoria di un lavoro condiviso; il registro originale collega il sapere di Margaret, l'ambizione di Claire e le procedure di B-21; «Bi» passa da soprannome spontaneo a nome di cui qualcuno vorrebbe concedere l'esclusiva; la prima chat avviata da Bi mostra una macchina che può scrivere una richiesta personale ma che non può decidere da sé di trasferirsi.
 
-Noah, dalla prima scena, deve essere uno sviluppatore competente e schivo. Non renderlo un colpevole segnalato da occhiate sinistre, né un eroe segreto. Il lettore iniziale non può conoscere la causa del salto delle capacità prima del capitolo 10. Il suo ascolto di un dipendente nel capitolo 1 deve avere senso prima che il capitolo 12 ne mostri il paradosso.
+Noah deve essere competente e umano, non un eroe segreto né un colpevole segnalato da presagi. Nel capitolo 1 arriva per il proprio progetto, individua il probabile bug del retry e suggerisce un mock senza spacciare la simulazione per una prova reale. Nel 2 presta attenzione a B-17 grazie al caffè e alle fotocopie. Il lettore non conosce l'origine del salto di capacità prima del capitolo 10. L'intervento su una porta bloccata spetta alla manutenzione, non a Noah.
 
 Eliminare spiegazioni ridondanti che ripetono quanto già raccontato da un gesto. Evitare volgarità ornamentali, scandali gratuiti e cliffhanger artificiali. La grandezza di Bot deve nascere dall'inevitabilità delle conseguenze e dalla precisione delle contraddizioni, non dal volume delle rivelazioni. Custodire la sincerità degli argomenti economici di Claire, Paul, Kyla, Victor, Nina e Amara.
 
