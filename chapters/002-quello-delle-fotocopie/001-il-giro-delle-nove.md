@@ -61,7 +61,7 @@ Noah ne bevve un sorso e si ritrasse per il calore.
 
 Dal corridoio arrivò un rumore secco, come di una sedia spostata troppo in fretta. Noah guardò verso la porta della sala riunioni.
 
-«Ancora Bridgeglass», disse. «Stanno litigando da un'ora.»
+«Ancora Bridgeglass», disse. «Sono ancora lì a litigare.»
 
 B-17 non produsse una risposta: l'osservazione non richiedeva un'azione.
 
