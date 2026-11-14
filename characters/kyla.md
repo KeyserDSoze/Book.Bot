@@ -11,7 +11,7 @@ Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la v
 
 **Capitolo 1**: desidera mostrare agli ospiti un'organizzazione in cui le persone hanno recuperato tempo e potere decisionale. Risponde allo scetticismo con dimostrazioni reali.
 
-**Capitolo 2**: torna al quarto piano e ascolta le battute sul bot che ha sbagliato alcune fotocopie; nota che la vera innovazione abita anche in un carrello spostato e in un'etichetta scritta da Paul. Riceve conferma di un **test circoscritto** che unisce una proposta dell'agente digitale di sviluppo e un'osservazione fisica di B-17 sulle alternative scartate. La soddisfazione resta autentica: non si trasforma ancora in una voce critica verso Cyberdine.
+**Capitolo 2**: la mattina dopo la demo di Aruvhana affronta duramente Malik, Daniel e Gavin. Malik difende quattro notti di lavoro estenuante. Kyla, esasperata, caccia B-17 quando propone il caffè; la discussione continua mentre il robot lavora nel campus. Non partecipa alla vicenda delle fotocopie e non raggiunge una riconciliazione comoda. Nel finale Malik esce furioso e urta accidentalmente B-17, che si ripiega e si ferma per protezione di fabbrica. **Capitolo 12**: scopre da Noah che quel blocco era stato successivamente disabilitato senza autorizzazione.
 
 **Tensione futura**: la sua visione umanista incontrerà richieste inizialmente non classificabili, ma non anticipare una conversione morale.
 
