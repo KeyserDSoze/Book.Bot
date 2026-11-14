@@ -22,7 +22,7 @@ La prima persona a cui B-17 chiese come stava fu Paul Turner.
 
 Non era una domanda difficile. Paul aveva risposto a richieste di assistenza con meno informazioni di quelle contenute in un saluto. Eppure, quando se la sentì rivolgere dal robot, rimase a fissare il bicchiere vuoto.
 
-Era martedì e la macchinetta del caffè aveva deciso di non riconoscergli il badge. Su un lato qualcuno teneva ancora appesa, con una calamita, la copia bianca prodotta da B-17. Nessuno aveva più il coraggio di toglierla. Il foglio si era arricciato ai bordi per il vapore.
+Era il mattino successivo e la macchinetta del caffè aveva deciso di non riconoscergli il badge. Su un lato qualcuno teneva ancora appesa, con una calamita, la copia bianca prodotta da B-17. Nessuno aveva più il coraggio di toglierla. Il foglio si era arricciato ai bordi per il vapore.
 
 B-17 arrivò con cento bicchieri compostabili sotto il braccio.
 
