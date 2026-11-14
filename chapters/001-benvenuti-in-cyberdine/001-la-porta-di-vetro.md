@@ -24,7 +24,7 @@ Alle nove e diciassette Kyla Morgan ricevette un messaggio che non avrebbe dovut
 
 *Gavin: Bridgeglass rosso. Non portare ancora nessuno in laboratorio.*
 
-Tre auto scure stavano già entrando nel parcheggio. Kyla controllò l'ora e rispose: *Quanti minuti?*
+L'auto della delegazione stava già entrando nel parcheggio. Kyla controllò l'ora e rispose: *Quanti minuti?*
 
 Comparvero i tre puntini. Scomparvero. Nessuna risposta.
 
