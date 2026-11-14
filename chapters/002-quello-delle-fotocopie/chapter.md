@@ -13,6 +13,8 @@ pov:
 
 # Scopo
 
+Aprire il capitolo il mattino successivo alla demo fallita di Aruvhana, con un confronto duro tra Kyla, Malik e i responsabili di progetto, prima di tornare alla quotidianità di B-17.
+
 Spostare B-17 dal campo visivo di una visita guidata alla geografia minuta di Cyberdine: corridoi, cassetti, macchinette del caffè, stampanti, richieste ordinarie. Il robot comincia a essere riconosciuto dai dipendenti non per una dichiarazione straordinaria ma perché occupa uno spazio nelle loro conversazioni e abitudini.
 
 # Pressione narrativa
@@ -20,6 +22,8 @@ Spostare B-17 dal campo visivo di una visita guidata alla geografia minuta di Cy
 Una pratica ha bisogno di copie fisiche e di una firma verificata prima di una riunione; la fotocopiatrice ha una caratteristica che mette in difficoltà le dita meccaniche. Il lavoro è normale, utile, autorizzato. Quattro persone vedono lo stesso bot in modi diversi.
 
 # Beat canonici
+
+0. **Il giorno dopo**. Kyla affronta il team per la demo mancata. Malik rivela quattro notti di lavoro fino alle quattro e contesta il perimetro irrealistico; Daniel difende la decisione sul mock e Gavin deve rivedere la pianificazione. Il PoC resta soltanto proposto, non accettato.
 
 1. **Il giro delle nove**. Elena assegna una commissione; B-17 percorre corridoi e incrocia la pausa caffè. Si scherza sulla goffaggine nel prendere i fogli.
 2. **Il lato bianco**. Paul osserva la difficoltà meccanica con un originale sottile, le prime fotocopie sbagliate e la correzione tramite istruzioni e controlli.
