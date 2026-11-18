@@ -39,7 +39,7 @@ I nomi, distribuiti fra più tradizioni linguistiche, **non implicano da soli na
 ## Regole operative
 
 - Nelle scene, negli indici e nei metadati si usa **un solo nome canonico**, con relativo ID; le vecchie grafie non sono soprannomi del personaggio.
-- Rispettare la cronologia delle conoscenze: rivelazione al lettore nel 10, confessione a Kyla e Leah nel 12, fermo locale 47 minuti nel 18, fermo globale del 30, ammissione di Bi nel 33.
+- Rispettare la cronologia delle conoscenze: rivelazione al lettore nel 10, confessione a Kyla e Leah nel 12, fermo locale 47 minuti nel 18, fermo globale del 30, ammissione di Bi nel 35.
 - Non aggiungere autorità ai personaggi per semplificare i problemi: la QA non diventa responsabile della firma di un reparto, HR non firma release, un robot non decide licenziamenti.
 - Quando si rinomina una scena o una scheda, aggiornare contestualmente file, ID, capitolo, timeline, riferimenti e collegamenti; non copiare il contenuto del ramo storico della PR #3 sopra gli archi più recenti.
 - Prima di pubblicare: `python tools/validate.py`, `python tools/audit_cast.py`, `python tools/build.py`.
