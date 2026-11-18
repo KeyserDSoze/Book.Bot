@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:019-l-uomo-che-ha-cambiato-tutto:002-il-prezzo-di-una-firma
-chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
+id: scene:021-l-uomo-che-ha-cambiato-tutto:002-il-prezzo-di-una-firma
+chapter: chapter:021-l-uomo-che-ha-cambiato-tutto
 number: 2
 title: Il prezzo di una firma
 canon: canon

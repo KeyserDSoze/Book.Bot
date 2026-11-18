@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:019-l-uomo-che-ha-cambiato-tutto:004-la-persona-e-il-numero
-chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
+id: scene:021-l-uomo-che-ha-cambiato-tutto:004-la-persona-e-il-numero
+chapter: chapter:021-l-uomo-che-ha-cambiato-tutto
 number: 4
 title: La persona e il numero
 canon: canon

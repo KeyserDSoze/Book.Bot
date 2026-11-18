@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:019-l-uomo-che-ha-cambiato-tutto:003-la-provenienza
-chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
+id: scene:021-l-uomo-che-ha-cambiato-tutto:003-la-provenienza
+chapter: chapter:021-l-uomo-che-ha-cambiato-tutto
 number: 3
 title: La provenienza
 canon: canon

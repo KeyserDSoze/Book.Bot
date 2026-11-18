@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:020-il-prezzo-di-una-memoria:004-la-valle-non-e-il-ponte
-chapter: chapter:020-il-prezzo-di-una-memoria
+id: scene:022-il-prezzo-di-una-memoria:004-la-valle-non-e-il-ponte
+chapter: chapter:022-il-prezzo-di-una-memoria
 number: 4
 title: La valle non è il ponte
 canon: canon

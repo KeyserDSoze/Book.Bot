@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:019-l-uomo-che-ha-cambiato-tutto:001-un-nome-in-una-bozza
-chapter: chapter:019-l-uomo-che-ha-cambiato-tutto
+id: scene:021-l-uomo-che-ha-cambiato-tutto:001-un-nome-in-una-bozza
+chapter: chapter:021-l-uomo-che-ha-cambiato-tutto
 number: 1
 title: Un nome in una bozza
 canon: canon

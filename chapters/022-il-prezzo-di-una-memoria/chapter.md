@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:020-il-prezzo-di-una-memoria
-number: 20
+id: chapter:022-il-prezzo-di-una-memoria
+number: 22
 title: Il prezzo di una memoria
 canon: canon
 pov:

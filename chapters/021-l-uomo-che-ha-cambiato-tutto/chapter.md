@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:019-l-uomo-che-ha-cambiato-tutto
-number: 19
+id: chapter:021-l-uomo-che-ha-cambiato-tutto
+number: 21
 title: L'uomo che ha cambiato tutto
 canon: canon
 pov:

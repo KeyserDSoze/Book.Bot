@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:020-il-prezzo-di-una-memoria:002-cio-che-resta-dopo
-chapter: chapter:020-il-prezzo-di-una-memoria
+id: scene:022-il-prezzo-di-una-memoria:002-cio-che-resta-dopo
+chapter: chapter:022-il-prezzo-di-una-memoria
 number: 2
 title: Ciò che resta dopo
 canon: canon
