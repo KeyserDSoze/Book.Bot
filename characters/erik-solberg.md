@@ -25,4 +25,4 @@ Nel capitolo 27 Erik contesta con una croce una brochure che chiama *turno inter
 
 ## Tredicesima review — l'indipendenza ha un prezzo
 
-Nel 27/003 Erik ha una proposta, non ancora confermata, per un ciclo successivo di prove. Sa che la croce tracciata sulla promessa di autonomia di un turno intero potrebbe fargli perdere il contratto. Preferirebbe continuare quel lavoro: il suo rifiuto non è un gesto senza costi né il segno di una perfezione etica. La domanda su avvisi esteri nasce dalla curiosità di chi controlla condizioni e misure, non gli dà autorità sulle politiche Passerella.
+Nel 29/003 Erik ha una proposta, non ancora confermata, per un ciclo successivo di prove. Sa che la croce tracciata sulla promessa di autonomia di un turno intero potrebbe fargli perdere il contratto. Preferirebbe continuare quel lavoro: il suo rifiuto non è un gesto senza costi né il segno di una perfezione etica. La domanda su avvisi esteri nasce dalla curiosità di chi controlla condizioni e misure, non gli dà autorità sulle politiche Passerella.

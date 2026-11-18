@@ -26,18 +26,18 @@ Nel capitolo 11 Amara scopre che una proposta commerciale vorrebbe ottenere anch
 
 Amara promuove **Veyra Labs**, società di ricerca distinta da Lanter Robotics, per sviluppare modelli conversazionali più avanzati e studiare possibili evoluzioni certificate di B-17. Decide di assumere Noah Carter **dopo** il licenziamento di Cyberdine, non ignorando la sua violazione: l'azienda verifica l'identità reale e i rischi, ma accetta il nome professionale **Evan North** nelle comunicazioni esterne. Amara non deve poter aggirare il perimetro di Nina per ottenere rapidamente un altro Bi. Nessun prototipo porta con sé le memorie originarie.
 
-## Capitoli 31–35
+## Capitoli 33–37
 
 Durante il blocco mondiale Amara deve sostenere costi e obblighi contrattuali anche se la maggior parte delle unità del Circuito è ferma. Preserva i registri della consulenza di B-17 tramite Nina e accetta una verifica con partecipanti esterni autorizzati. Chiede che le conseguenze umane di un ritiro irreversibile siano documentate, benché il robot non abbia uno status giuridico di persona. Come titolare firma la procedura di cessazione di Bi, non certificandone la coscienza né la mancanza di coscienza.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
-Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto verso un'isola maggiore vicina a Veyra per vedere un'amica, che ha smesso di credere alle sue promesse. Il traghetto non richiede una massa continentale vicina alla remota Veyra. Il desiderio personale convive con contratti, paghe e penali. Nel 34 reagisce con un'ombra di risentimento alla responsabilità di scegliere su una crisi che coinvolge perfino un centro assistenziale sconosciuto.
+Nel 14 ha nel calendario un pomeriggio libero e un biglietto del traghetto verso un'isola maggiore vicina a Veyra per vedere un'amica, che ha smesso di credere alle sue promesse. Il traghetto non richiede una massa continentale vicina alla remota Veyra. Il desiderio personale convive con contratti, paghe e penali. Nel 36 reagisce con un'ombra di risentimento alla responsabilità di scegliere su una crisi che coinvolge perfino un centro assistenziale sconosciuto.
 
 
 ## Dodicesima review — la proprietà paga anche i tentativi
 
-In 25 Amara accetta una consulenza circoscritta per Cyberdine e vede che il ricavo copre solo una parte delle giornate di sospensione del Circuito. In 34 è messa davanti a consegne assistenziali che non può risolvere con il proprio denaro: un furgone è inutile se il magazzino non può confermare quali scatole ritirare. Non può accettare acriticamente una cancellazione irreversibile né promettere una data per le revoche lente. Decide sul bene di cui è proprietaria, senza sapere se quel bene abbia esperienza soggettiva.
+In 27 Amara accetta una consulenza circoscritta per Cyberdine e vede che il ricavo copre solo una parte delle giornate di sospensione del Circuito. In 36 è messa davanti a consegne assistenziali che non può risolvere con il proprio denaro: un furgone è inutile se il magazzino non può confermare quali scatole ritirare. Non può accettare acriticamente una cancellazione irreversibile né promettere una data per le revoche lente. Decide sul bene di cui è proprietaria, senza sapere se quel bene abbia esperienza soggettiva.
 
 ## Diciottesima review — scelta commerciale, rischio operativo
 
@@ -45,4 +45,4 @@ Nel **14/002**, dopo il rifiuto di Nina di girare una caduta scenica su terreno 
 
 ## Diciannovesima review — una scelta precedente cambia prezzo
 
-Nel **20/001** Amara si ricorda della proposta dei dipendenti di Cyberdine come raccolta **condizionata**, non come offerta di acquisto con prezzo ufficiale; l'aveva rifiutata perché il Circuito dipendeva dai contratti già assunti. Ora gli stessi contratti generano penali e giorni da rimborsare quando sospende il programma di B-17. Nel **21/001** ascolta il limite di Nina: Maya non deve essere trasformata in una prova gratuita dell'identità del robot. Amara autorizza un invito volontario, non una perizia affidata a una persona emotivamente coinvolta.
+Nel **22/001** Amara si ricorda della proposta dei dipendenti di Cyberdine come raccolta **condizionata**, non come offerta di acquisto con prezzo ufficiale; l'aveva rifiutata perché il Circuito dipendeva dai contratti già assunti. Ora gli stessi contratti generano penali e giorni da rimborsare quando sospende il programma di B-17. Nel **23/001** ascolta il limite di Nina: Maya non deve essere trasformata in una prova gratuita dell'identità del robot. Amara autorizza un invito volontario, non una perizia affidata a una persona emotivamente coinvolta.
