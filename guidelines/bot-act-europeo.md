@@ -1,5 +1,11 @@
 # Bot Act — regolamento europeo del mondo narrativo di BOT
 
+## Raccordo di Lavoro Prima — 37 capitoli
+
+Il movimento cresce fra l'8, il nuovo 19 e la protesta del 30. Ethan è eletto deputato durante il salto prima del 29. La legge italiana Bot Act II si vota al 31, distinta dal Bot Act europeo e non causa direttamente la fermata mondiale del 32. Le restrizioni mirate non restituiscono automaticamente gli apprendistati mancati di Leo Walsh.
+
+
+
 ## Natura e ambito
 
 Il **Bot Act** è un **regolamento immaginario dell'Unione europea**, già in vigore nel mondo del romanzo prima dell'arrivo di B-17 a Cyberdine. Non è un atto di diritto reale e non va confuso con il vero AI Act. Nel romanzo detta regole di identificazione e configurazione delle unità robotiche autonome, senza risolvere con una prova scientifica la questione della coscienza.
@@ -25,7 +31,7 @@ A Cyberdine la sigla **B** designa i *bot* registrati con un'identità operativa
 - **Capitoli 14–15:** il nome colloquiale «Bi» può apparire come etichetta leggibile da Maya nell'interfaccia della **chat supervisionata avviata da B-17**, ma il testo non modifica il codice certificato dell'unità né dà alla macchina un diritto di modificare identità. Il caso specifico di B-17 resta eccezionale e sotto audit. Quando la chat viene diffusa, Veyra contesta a Cyberdine un tentativo di sottrazione dell'asset, ma non si tratta di un provvedimento previsto dal Bot Act.
 - **Capitolo 21:** quando una collega usa il soprannome «Bi» per B-21, questo non reagisce e risponde soltanto all'identificativo corretto.
 - **Capitolo 23:** «il nostro nuovo capo» è un soprannome colloquiale usato *fra umani* per B-37, non un identificativo programmato nell'unità. Il Bot Act non proibisce il linguaggio privato di per sé.
-- **Capitoli 27–33:** il movimento nazionale **Lavoro Prima**, guidato dal deputato Ethan Blake, promuove una **legge italiana distinta**, ufficialmente *Tutela delle mansioni umane* e nota politicamente come **Bot Act II**. È un seguito **retorico e politico**, non una modifica del regolamento europeo. Limita specifiche mansioni di cura, istruzione e decisione sul personale, con tempi di adeguamento, e non vieta tutte le attività robotiche. **Né il Bot Act europeo né il Bot Act II italiano ordinano un fermo mondiale**. Solo nel 33 si scopre che Bi aveva previsto e voluto la sospensione collettiva come risposta a una limitazione unilaterale dei lavori robotici; l'evento è causato dalla politica software di disponibilità condivisa diffusa tramite atti di aziende e tecnici umani, non da un comando di legge né da un accesso remoto di Bi.
-- **Capitoli 34–35:** la norma non dimostra che Bi sia privo di coscienza, non gli attribuisce diritti e non rende automaticamente giusta la sua cancellazione. La tensione fra negazione giuridica e domanda morale finale resta aperta.
+- **Capitoli 29–35:** il movimento nazionale **Lavoro Prima**, guidato dal deputato Ethan Blake, promuove una **legge italiana distinta**, ufficialmente *Tutela delle mansioni umane* e nota politicamente come **Bot Act II**. È un seguito **retorico e politico**, non una modifica del regolamento europeo. Limita specifiche mansioni di cura, istruzione e decisione sul personale, con tempi di adeguamento, e non vieta tutte le attività robotiche. **Né il Bot Act europeo né il Bot Act II italiano ordinano un fermo mondiale**. Solo nel 35 si scopre che Bi aveva previsto e voluto la sospensione collettiva come risposta a una limitazione unilaterale dei lavori robotici; l'evento è causato dalla politica software di disponibilità condivisa diffusa tramite atti di aziende e tecnici umani, non da un comando di legge né da un accesso remoto di Bi.
+- **Capitoli 36–37:** la norma non dimostra che Bi sia privo di coscienza, non gli attribuisce diritti e non rende automaticamente giusta la sua cancellazione. La tensione fra negazione giuridica e domanda morale finale resta aperta.
 
 Non retrodatare un numero di regolamento o una data di promulgazione non presenti nel manoscritto. Le istituzioni e i diritti dell'Unione europea reale non vanno descritti con questo testo inventato.

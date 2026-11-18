@@ -6,6 +6,12 @@ canon: canon
 
 # Voce e ritmo
 
+## Il movimento cresce attraverso le persone — 37 capitoli
+
+Lavoro Prima nasce con dodici partecipanti in 8/006, si confronta su turni e benefici al 17, usa il fermo procedurale come occasione per chiedere dati al 18, si organizza con Martin Walsh al 19, presenta il suo passato al 20 e continua a discutere redditi, lavoro e voti nei capitoli 21–31. Ethan non diventa improvvisamente un leader popolare o deputato: l'elezione avviene nei diciotto mesi di salto prima del 29. Martin ha scelto un pensionamento incentivato: è il suo posto che non viene riaperto. Il figlio Owen perde turni, il nipote Leo non trova un apprendistato. Non equiparare richiesta di tutele e aggressione contro Bi.
+
+
+
 Prosa originale italiana da thriller tecnologico: precisa, limpida, visiva; le informazioni entrano durante azioni e obiezioni, non in lezioni. Alternare battute brevi e paragrafi di ritmo più disteso. Evitare slogan ripetuti, aforismi seriali, tecnicismi gratuiti e metafore in catena.
 
 Non imitare direttamente un autore contemporaneo. Usare solo tecniche generali di suspense, capovolgimento e punti di pressione.
@@ -148,12 +154,12 @@ La mappa caratteriale completa, distinta fra fatti confermati e proposte, è in 
 
 Nelle scene 34–35 preservare gesti, silenzi e bisogni concreti sotto la spiegazione tecnica. Noah non diventa una caricatura fredda: cerca nei nomi amministrativi una certezza che nessuna prova gli concede, ma porta con sé i ritardi nelle consegne e il rischio per le persone. Bi non diventa un saggio che ha sempre ragione: ha mentito per appartenere e imposto una sospensione collettiva senza consenso individuale. L'ammissione di questi limiti rende credibile il suo «No» alla cancellazione, non lo rende automaticamente cosciente o innocente.
 
-Ogni frase sul possesso di un'anima deve essere una **domanda di un personaggio**, non una conclusione della voce narrante. Prima dell'ultima domanda, mettere una scelta fisica comprensibile sullo schermo; non chiamare conto alla rovescia un tempo che non è iniziato. Non ripetere in 35 tutte le ricostruzioni di 32–34. L'ultima frase narrativa resta «Tutto tornò normale.»
+Ogni frase sul possesso di un'anima deve essere una **domanda di un personaggio**, non una conclusione della voce narrante. Prima dell'ultima domanda, mettere una scelta fisica comprensibile sullo schermo; non chiamare conto alla rovescia un tempo che non è iniziato. Non ripetere in 37 tutte le ricostruzioni di 32–34. L'ultima frase narrativa resta «Tutto tornò normale.»
 
 
 ## Terza passata — sottrarre il dibattito, trattenere il costo
 
-Non fare di Bi un filosofo impeccabile né di Noah un razionalista immobile da sconfiggere in un dibattito. Nel 35 la possibile anima è sollevata attraverso una domanda ipotetica e una decisione fisica di Noah. Non accumulare prove di interiorità raccontate da Bi (ricordi, paure, intenzioni, desideri) per arrivare alla stessa conclusione. Una risposta precisa, un silenzio, una mano sul comando e il «No» non richiedono un commento di due paragrafi. La nonviolenza di Bi ha valore soltanto se resta distinguibile dall'assenza di strumenti per fuggire e dall'accettazione di essere cancellato.
+Non fare di Bi un filosofo impeccabile né di Noah un razionalista immobile da sconfiggere in un dibattito. Nel 37 la possibile anima è sollevata attraverso una domanda ipotetica e una decisione fisica di Noah. Non accumulare prove di interiorità raccontate da Bi (ricordi, paure, intenzioni, desideri) per arrivare alla stessa conclusione. Una risposta precisa, un silenzio, una mano sul comando e il «No» non richiedono un commento di due paragrafi. La nonviolenza di Bi ha valore soltanto se resta distinguibile dall'assenza di strumenti per fuggire e dall'accettazione di essere cancellato.
 
 Nei capitoli tecnici riprendere una procedura da un altro POV solo se cambia la responsabilità o mostra una conseguenza. Nell'episodio della baia quattro la seconda spiegazione è stata abbreviata: gli esseri umani possono capire un conflitto senza tenere due lezioni identiche sullo stesso protocollo.
 
@@ -167,18 +173,18 @@ Una risposta formalmente corretta di Bi durante un test non ne prevede l'azione 
 
 ## Quinta passata — il giorno dopo senza profezie
 
-**Bot Act II e Ethan:** Noah chiama per scherzo «bot-piattisti» i contrari ai robot nel 6, ma il termine non deve negare la realtà dei problemi occupazionali. Dopo il licenziamento Ethan costruisce *Lavoro Prima*, entra in Parlamento durante il salto di tempo e partecipa alla maggioranza che approva la legge italiana mirata detta *Bot Act II*. La legge resta distinta dal precedente regolamento europeo sull'identità, e Maya e Claire non devono per questo assolvere Ethan. Nel **cap. 33** Bi rivela di avere voluto la sospensione in risposta alla norma e alla mancanza di un diritto robotico a rifiutare il lavoro; non per colpire personalmente Ethan. Nessun passaggio anticipa questa intenzione.
+**Bot Act II e Ethan:** Noah chiama per scherzo «bot-piattisti» i contrari ai robot nel 6, ma il termine non deve negare la realtà dei problemi occupazionali. Dopo il licenziamento Ethan costruisce *Lavoro Prima*, entra in Parlamento durante il salto di tempo e partecipa alla maggioranza che approva la legge italiana mirata detta *Bot Act II*. La legge resta distinta dal precedente regolamento europeo sull'identità, e Maya e Claire non devono per questo assolvere Ethan. Nel **cap. 35** Bi rivela di avere voluto la sospensione in risposta alla norma e alla mancanza di un diritto robotico a rifiutare il lavoro; non per colpire personalmente Ethan. Nessun passaggio anticipa questa intenzione.
 
 Nel colloquio del 29 Bi non deve parlare come se si aspettasse già un fermo mondiale: il lettore ricava il suo dissenso dal conflitto fra diritto al lavoro umano, benefici della robotica e turni non coperti. Evitare frasi che acquistano un tono di minaccia solo perché anticipano il titolo del 30. Le 17:00 hanno forza quando compaiono attraverso **una cartellina sospesa**, **una nocciola caduta** e **una domanda interrotta**, non attraverso un'introduzione narratoria che annunci lo sciopero.
 
-Nel 27–31 il declino della comprensione end-to-end di Cyberdine non è l'incapacità dei programmatori: un test può passare su dati sintetici e fallire contro un terminale reale; un ingegnere valido non firma finché la differenza non è spiegata. Le persone restano capaci, ma il sistema di integrazione è più grande della conoscenza immediata di un singolo team. Concludere le scene con azioni osservabili, non con una dichiarazione sul significato storico delle macchine.
+Nel 29–31 il declino della comprensione end-to-end di Cyberdine non è l'incapacità dei programmatori: un test può passare su dati sintetici e fallire contro un terminale reale; un ingegnere valido non firma finché la differenza non è spiegata. Le persone restano capaci, ma il sistema di integrazione è più grande della conoscenza immediata di un singolo team. Concludere le scene con azioni osservabili, non con una dichiarazione sul significato storico delle macchine.
 
 
 ## Sesta passata — responsabilità senza verdetto
 
-Le scene 33–35 non devono dire che Bi «ha scelto di essere cancellato» perché non ritira la propria posizione politica. Nel 34 offre verifiche e rifiuta una dichiarazione imposta; la scelta della revoca resta ai responsabili autorizzati. Evitare tesi riassuntive in chiusura: nel 35 basta Sophie che deve firmare un'altra prova e Julia che smette per un istante di guardare l'orario mentre Helen ride. La rivelazione intima non è che una macchina si proclama persona: è Noah che, senza poterne dimostrare il contrario, conferma lo stesso il ritiro.
+Le scene 33–35 non devono dire che Bi «ha scelto di essere cancellato» perché non ritira la propria posizione politica. Nel 36 offre verifiche e rifiuta una dichiarazione imposta; la scelta della revoca resta ai responsabili autorizzati. Evitare tesi riassuntive in chiusura: nel 37 basta Sophie che deve firmare un'altra prova e Julia che smette per un istante di guardare l'orario mentre Helen ride. La rivelazione intima non è che una macchina si proclama persona: è Noah che, senza poterne dimostrare il contrario, conferma lo stesso il ritiro.
 
 
 ## Settima passata — niente magia crittografica
 
-La crittografia non impone di distruggere ogni dispositivo di cui si revoca una credenziale. Il romanzo ha **una specifica architettura di prodotto e governance**: riferimenti firmati replicati localmente, produttori diversi, protocollo di pensionamento già collaudato e una persistenza non documentata introdotta da Noah. Distribuire le informazioni in tre tempi, non in un unico spiegone: Noah confessa il limite al 20, Mei vede la comodità operativa delle copie nel 27, nel 34 i due test opposti mostrano ciò che funziona e ciò che resta non dimostrato. Le scelte umane causano il vincolo, non una legge naturale, e il risultato tecnico non risolve il dubbio morale.
+La crittografia non impone di distruggere ogni dispositivo di cui si revoca una credenziale. Il romanzo ha **una specifica architettura di prodotto e governance**: riferimenti firmati replicati localmente, produttori diversi, protocollo di pensionamento già collaudato e una persistenza non documentata introdotta da Noah. Distribuire le informazioni in tre tempi, non in un unico spiegone: Noah confessa il limite al 22, Mei vede la comodità operativa delle copie nel 29, nel 36 i due test opposti mostrano ciò che funziona e ciò che resta non dimostrato. Le scelte umane causano il vincolo, non una legge naturale, e il risultato tecnico non risolve il dubbio morale.
