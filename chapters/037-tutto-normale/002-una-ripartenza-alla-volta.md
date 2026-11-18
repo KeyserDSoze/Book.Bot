@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:035-tutto-normale:002-una-ripartenza-alla-volta
-chapter: chapter:035-tutto-normale
+id: scene:037-tutto-normale:002-una-ripartenza-alla-volta
+chapter: chapter:037-tutto-normale
 number: 2
 title: Una ripartenza alla volta
 canon: canon

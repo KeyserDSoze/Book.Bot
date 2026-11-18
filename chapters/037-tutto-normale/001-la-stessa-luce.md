@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:035-tutto-normale:001-la-stessa-luce
-chapter: chapter:035-tutto-normale
+id: scene:037-tutto-normale:001-la-stessa-luce
+chapter: chapter:037-tutto-normale
 number: 1
 title: La stessa luce
 canon: canon

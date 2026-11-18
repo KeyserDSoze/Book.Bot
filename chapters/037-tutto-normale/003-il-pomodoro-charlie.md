@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:035-tutto-normale:003-il-pomodoro-charlie
-chapter: chapter:035-tutto-normale
+id: scene:037-tutto-normale:003-il-pomodoro-charlie
+chapter: chapter:037-tutto-normale
 number: 3
 title: Il pomodoro Charlie
 canon: canon

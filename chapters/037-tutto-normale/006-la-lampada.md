@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:035-tutto-normale:006-la-lampada
-chapter: chapter:035-tutto-normale
+id: scene:037-tutto-normale:006-la-lampada
+chapter: chapter:037-tutto-normale
 number: 6
 title: La lampada
 canon: canon

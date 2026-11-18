@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:035-tutto-normale:004-il-prossimo-giro
-chapter: chapter:035-tutto-normale
+id: scene:037-tutto-normale:004-il-prossimo-giro
+chapter: chapter:037-tutto-normale
 number: 4
 title: Il prossimo giro
 canon: canon
