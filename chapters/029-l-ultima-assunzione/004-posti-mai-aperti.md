@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:027-l-ultima-assunzione:004-posti-mai-aperti
-chapter: chapter:027-l-ultima-assunzione
+id: scene:029-l-ultima-assunzione:004-posti-mai-aperti
+chapter: chapter:029-l-ultima-assunzione
 number: 4
 title: Posti mai aperti
 canon: canon

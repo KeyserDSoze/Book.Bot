@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:027-l-ultima-assunzione:003-senza-ventola
-chapter: chapter:027-l-ultima-assunzione
+id: scene:029-l-ultima-assunzione:003-senza-ventola
+chapter: chapter:029-l-ultima-assunzione
 number: 3
 title: Senza ventola
 canon: canon

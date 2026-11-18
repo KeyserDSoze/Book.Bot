@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:027-l-ultima-assunzione
-number: 27
+id: chapter:029-l-ultima-assunzione
+number: 29
 title: L'ultima assunzione
 canon: canon
 pov:

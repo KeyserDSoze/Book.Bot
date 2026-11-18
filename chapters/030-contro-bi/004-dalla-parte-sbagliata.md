@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:028-contro-bi:004-dalla-parte-sbagliata
-chapter: chapter:028-contro-bi
+id: scene:030-contro-bi:004-dalla-parte-sbagliata
+chapter: chapter:030-contro-bi
 number: 4
 title: Dalla parte sbagliata
 canon: canon

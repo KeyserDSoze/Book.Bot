@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:027-l-ultima-assunzione:001-due-persone
-chapter: chapter:027-l-ultima-assunzione
+id: scene:029-l-ultima-assunzione:001-due-persone
+chapter: chapter:029-l-ultima-assunzione
 number: 1
 title: Due persone
 canon: canon

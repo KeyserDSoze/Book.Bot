@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:028-contro-bi:002-piu-minuti
-chapter: chapter:028-contro-bi
+id: scene:030-contro-bi:002-piu-minuti
+chapter: chapter:030-contro-bi
 number: 2
 title: Più minuti
 canon: canon

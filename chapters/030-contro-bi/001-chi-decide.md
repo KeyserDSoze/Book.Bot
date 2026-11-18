@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:028-contro-bi:001-chi-decide
-chapter: chapter:028-contro-bi
+id: scene:030-contro-bi:001-chi-decide
+chapter: chapter:030-contro-bi
 number: 1
 title: Chi decide
 canon: canon

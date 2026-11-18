@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:028-contro-bi
-number: 28
+id: chapter:030-contro-bi
+number: 30
 title: Contro Bi
 canon: canon
 pov:

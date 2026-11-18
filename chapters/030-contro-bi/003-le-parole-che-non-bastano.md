@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:028-contro-bi:003-le-parole-che-non-bastano
-chapter: chapter:028-contro-bi
+id: scene:030-contro-bi:003-le-parole-che-non-bastano
+chapter: chapter:030-contro-bi
 number: 3
 title: Le parole che non bastano
 canon: canon

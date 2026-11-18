@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:027-l-ultima-assunzione:002-esperienza-precedente
-chapter: chapter:027-l-ultima-assunzione
+id: scene:029-l-ultima-assunzione:002-esperienza-precedente
+chapter: chapter:029-l-ultima-assunzione
 number: 2
 title: Esperienza precedente
 canon: canon
