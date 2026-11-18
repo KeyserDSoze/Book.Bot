@@ -10,6 +10,7 @@ pov:
   - character:maya-bennett
   - character:claire-foster
   - character:gavin-shaw
+  - character:ethan-blake
 ---
 
 # Direzione
@@ -25,6 +26,8 @@ La plenaria chiarisce che **Ethan Blake e Marcus Reed**, già allontanati cautel
 3. Il numero — Maya riflette sul nome ufficiale, sull'assenza di denaro per ripararlo e sul fatto che il sostituto farà soltanto pochi compiti; nessuno promette il ritorno di Bi.
 4. Un mese di mani — nelle settimane successive Claire copre verifiche fisiche e conoscenze legacy, con formazione non finanziata: il B-21 di fascia base non riporterà le capacità di Bi.
 5. Quello che difendi — Gavin affronta Kyla sul lavoro invisibile e sulle commesse perse contro software house più agili; lei riconosce i suoi meriti, critica il suo stile di gestione e ammette la propria complicità nella selezione ottimistica dei dati finanziari. Gavin riceve un invito a un incontro del nuovo gruppo anti-robot **Lavoro Prima**, fondato da Ethan dopo l'espulsione da Cyberdine; non ne approva la violenza.
+
+6. Dodici sedie — Ethan organizza il primo incontro di Lavoro Prima dopo il licenziamento. Soltanto dodici partecipanti, esperienze lavorative diverse e un confronto esplicito sulla violenza contro B-17: il movimento nasce senza unità di intenti né soldi per la sala.
 
 # Continuità
 
