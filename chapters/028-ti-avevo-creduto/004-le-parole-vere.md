@@ -107,4 +107,12 @@ Claire lo fotografò.
 
 «Forse. Ma prima vorrei capire chi paga quel corso e a chi promette davvero un impiego.»
 
+Sul retro dell'annuncio qualcuno aveva appeso un volantino di Lavoro Prima: *Contratti non rinnovati, posti non aperti: assemblea pubblica*. In piccolo c'era il nome di Ethan Blake.
+
+Maya lo notò. «Vuoi andarci?»
+
+«Voglio che qualcuno ascolti i numeri», rispose Claire. «Non voglio ritrovarmi in una fotografia con Ethan come se quello che mi è successo gli desse ragione su Bi.»
+
+Staccò un lembo con la data e lo mise in tasca. Non era un'adesione. Era un indirizzo a cui chiedere conto di una scelta.
+
 Quando arrivò l'autobus, salirono insieme.

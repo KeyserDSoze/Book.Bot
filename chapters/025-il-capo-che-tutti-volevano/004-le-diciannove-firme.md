@@ -109,6 +109,14 @@ La richiesta partì senza una data confermata. Ruby la vide arrivare sul telefon
 
 «Voglio anche i dati», disse Ruby. «Le ore aggiuntive che abbiamo fatto negli ultimi dodici mesi e quelle che prevedete per i prossimi tre. Non soltanto il mio turno.»
 
+Tirò fuori dalla tasca un foglio con l'intestazione di Lavoro Prima. Una collega le aveva inoltrato l'invito a un incontro sui turni ridotti.
+
+«Non ho firmato niente», disse. «Quelli di Ethan parlano come se ogni robot andasse tolto. Io non voglio tornare a fare i turni impossibili. Però voglio che qualcuno risponda dei soldi che mancano.»
+
+Sophie lesse l'ora dell'incontro. «Puoi andarci. Per il nostro confronto chiamo i rappresentanti dei lavoratori e chiedo il prospetto del personale. Sono due cose diverse.»
+
+Ruby ripiegò il foglio. Era la prima volta che qualcuno non le chiedeva di scegliere fra stare dalla parte del robot e stare dalla propria.
+
 «Posso chiedere il prospetto», rispose Sophie. «E possiamo parlarne con i rappresentanti dei lavoratori.»
 
 Ruby annuì. Avrebbe preferito una cifra certa per la rata del mese. Non era ancora una risposta, ma almeno non chiedeva di tornare ai turni ingiusti.
