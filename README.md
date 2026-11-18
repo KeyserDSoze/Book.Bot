@@ -8,7 +8,7 @@ Il libro è sviluppato in italiano come un progetto editoriale versionato. Il ma
 
 La struttura attuale del manoscritto comprende **37 capitoli**: dopo il 18 sono stati inseriti **19 — Ti ricordi di me?** (Martin Walsh telefona a Ethan e contribuisce alla crescita di Lavoro Prima) e **20 — L'ultimo giorno** (flashback della sua festa di pensionamento e della scelta di Cyberdine di investire in B-17). Gli originali 19–35 sono rinumerati 21–37. Il movimento anti-robot è mostrato progressivamente nelle scene 8/006, 17–19, 21, 25, 28–31.
 
-Leggi la **[mappa narrativa corrente dei 37 capitoli](reviews/mappa-narrativa-37-capitoli-2026-11-18.md)**. La sinossi integrale da 35 capitoli riportata sotto è un documento storico della versione precedente e conserva la vecchia numerazione.
+Leggi la **[mappa narrativa corrente dei 37 capitoli](reviews/mappa-narrativa-37-capitoli-2026-11-18.md)**. La sinossi integrale da 35 capitoli riportata sotto è un documento storico della versione precedente e conserva la vecchia numerazione. La cronologia normativa attuale è `timeline/events.md` e lo stato aggiornato è `state/current.md`. La review integrale del novembre 2026 si trova in `reviews/`.
 
 ## Sinossi analitica per capitolo
 

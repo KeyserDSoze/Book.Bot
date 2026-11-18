@@ -1,5 +1,8 @@
 # Istruzioni editoriali per Bot
 
+**CANONE VIGENTE v0.34.0 (37 capitoli):** usare come guida attuale `state/current.md`, `timeline/events.md` e `guidelines/continuity.md`. Le precedenti versioni di questi documenti sono archiviate sotto `reviews/archive-*-pre-0.34.0.md` e non sono normative. Se una nota editoriale del passato contrasta con una scena, prevale la scena con `canon: canon`. Dopo il merge controllare `VERSION`, `tools/check_edition.py` e i capitoli finali 35–37.
+
+
 ## Nuovo arco Lavoro Prima e 37 capitoli (novembre 2026)
 
 Il romanzo contiene **37 capitoli**. Gli originali 19–35 sono rinumerati 21–37. I nuovi 19 («Ti ricordi di me?») e 20 («L'ultimo giorno») seguono il fermo procedurale del 18: Martin Walsh chiama Ethan Blake, partecipa a un'assemblea allargata di Lavoro Prima e nel capitolo successivo si racconta, in flashback, la festa di pensionamento incentivato, la decisione di Cyberdine di non riaprire il posto di tuttofare e la scelta di acquistare B-17 per soli compiti di servizio. Il pensionato non è stato licenziato; figlio Owen e nipote Leo incontrano effetti economici diversi, non riconducibili a un unico robot.
