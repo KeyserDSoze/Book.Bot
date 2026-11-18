@@ -41,7 +41,7 @@ Dall'altra parte Martin sentì un attrezzo che cadeva su una superficie metallic
 
 «Due volte questo mese. Non ci pago l'affitto con due volte.»
 
-Martin si sedette. Aveva appoggiato davanti a sé la cartella della buonuscita, aperta alla pagina dei bonifici. Non mancava denaro per quella settimana. Era questo, in un certo senso, a rendergli impossibile la telefonata.
+Martin si sedette. Sua moglie era nella stanza accanto a parlare al telefono con sua sorella. Sul tavolo aveva lasciato il calendario di due giornate prenotate per stare insieme. Martin l'aveva spostato per far posto alla cartella della buonuscita, aperta alla pagina dei bonifici. Non mancava denaro per quella settimana. Era questo, in un certo senso, a rendergli impossibile la telefonata.
 
 «Leo ha saputo qualcosa dal colloquio?»
 

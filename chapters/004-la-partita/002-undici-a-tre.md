@@ -31,6 +31,8 @@ Bi lo aveva preso in giro per tre minuti senza dire una parola.
 
 La racchetta del robot era fissata a un'impugnatura di gomma fatta per impedire che gli scivolasse dalle dita. Ogni movimento restava dentro un perimetro segnato sul pavimento. Il profilo di gioco limitava accelerazione e ampiezza del braccio: niente slanci contro il bordo del tavolo, niente passi improvvisi verso chi guardava.
 
+Prima di segnare il primo punto aveva passato diversi minuti a provare colpi senza avversario, sempre nello stesso corridoio di movimento. Paul gli aveva tirato dieci palline lente: cinque erano finite sul nastro, due fuori dal tavolo. Alla terza pallina mandata larga, Bi aveva fermato il braccio a metà strada invece di rincorrerla. Non riusciva a recuperare uno spostamento brusco; però, se Paul serviva nella zona centrale, il robot iniziava il gesto prima che la pallina toccasse il suo lato. Il gomito si arrestava, il polso aspettava una frazione di secondo e la racchetta arrivava comunque nella posizione calcolata. Paul non aveva mai visto qualcuno essere così goffo e così preciso nello stesso scambio.
+
 Non sembrava affatto un giocatore di ping pong. Stava troppo diritto. Non si chinava sul ginocchio sinistro. Non seguiva la pallina con gli occhi come Paul aveva visto fare a suo fratello quando preparava una schiacciata.
 
 Eppure, qualunque cosa Paul mandasse dall'altra parte, tornava.
@@ -123,7 +125,7 @@ Sul secondo scambio Bi rimandò una pallina corta. Ethan entrò vicino al tavolo
 
 «Uno pari», disse Mila.
 
-Ethan cambiò ritmo. Alternò servizi lunghi e corti, colpi al corpo e diagonali ampie. A ogni variazione Bi rispondeva con un movimento che pareva cominciare un istante prima dell'ultimo rimbalzo. Non era una forza brutale; era una precisione fastidiosa.
+Ethan cambiò ritmo. Alternò servizi lunghi e corti, colpi al corpo e diagonali ampie. Quando costrinse Bi a recuperare una pallina verso l'esterno, il robot piantò il piede, sollevò il gomito e arrivò troppo tardi. Il punto fu suo. Al servizio dopo, però, Ethan attaccò ancora in mezzo: Bi rimase nella posizione già preparata e rispose con un colpo corto che il collega non raggiunse. Ogni volta che la palla rientrava nel corridoio di gioco, la racchetta del robot sembrava sapere dove aspettarla. Non era una forza brutale né un recupero atletico; era una precisione fastidiosa dentro limiti molto stretti.
 
 Sul quattro pari Ethan tentò una schiacciata verso il lato destro. Bi la intercettò con un piccolo scatto del polso. La pallina tornò rasente alla rete e cadde corta. Ethan arrivò con la punta della racchetta, ma non abbastanza.
 
