@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:024-la-prima-bugia:002-il-polso
-chapter: chapter:024-la-prima-bugia
+id: scene:026-la-prima-bugia:002-il-polso
+chapter: chapter:026-la-prima-bugia
 number: 2
 title: Il polso
 canon: canon

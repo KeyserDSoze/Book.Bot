@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:024-la-prima-bugia:003-la-risposta-mancante
-chapter: chapter:024-la-prima-bugia
+id: scene:026-la-prima-bugia:003-la-risposta-mancante
+chapter: chapter:026-la-prima-bugia
 number: 3
 title: La risposta mancante
 canon: canon

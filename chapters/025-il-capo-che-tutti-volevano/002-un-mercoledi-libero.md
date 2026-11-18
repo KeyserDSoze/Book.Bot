@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:023-il-capo-che-tutti-volevano:002-un-mercoledi-libero
-chapter: chapter:023-il-capo-che-tutti-volevano
+id: scene:025-il-capo-che-tutti-volevano:002-un-mercoledi-libero
+chapter: chapter:025-il-capo-che-tutti-volevano
 number: 2
 title: Un mercoledì libero
 canon: canon

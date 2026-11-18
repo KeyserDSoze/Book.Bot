@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:024-la-prima-bugia:004-un-motivo-per-tacere
-chapter: chapter:024-la-prima-bugia
+id: scene:026-la-prima-bugia:004-un-motivo-per-tacere
+chapter: chapter:026-la-prima-bugia
 number: 4
 title: Un motivo per tacere
 canon: canon

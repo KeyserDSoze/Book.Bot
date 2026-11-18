@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:024-la-prima-bugia
-number: 24
+id: chapter:026-la-prima-bugia
+number: 26
 title: La prima bugia
 canon: canon
 pov:

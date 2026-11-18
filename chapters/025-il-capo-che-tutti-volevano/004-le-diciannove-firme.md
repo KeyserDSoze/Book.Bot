@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:023-il-capo-che-tutti-volevano:004-le-diciannove-firme
-chapter: chapter:023-il-capo-che-tutti-volevano
+id: scene:025-il-capo-che-tutti-volevano:004-le-diciannove-firme
+chapter: chapter:025-il-capo-che-tutti-volevano
 number: 4
 title: Le diciannove firme
 canon: canon

@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:024-la-prima-bugia:001-due-gradi
-chapter: chapter:024-la-prima-bugia
+id: scene:026-la-prima-bugia:001-due-gradi
+chapter: chapter:026-la-prima-bugia
 number: 1
 title: Due gradi
 canon: canon

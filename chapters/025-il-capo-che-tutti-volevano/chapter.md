@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:023-il-capo-che-tutti-volevano
-number: 23
+id: chapter:025-il-capo-che-tutti-volevano
+number: 25
 title: Il capo che tutti volevano
 canon: canon
 pov:
