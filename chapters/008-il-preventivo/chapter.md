@@ -49,4 +49,4 @@ In 004, nel mese senza B-17, il piano di continuità funziona soltanto perché s
 
 ## Quattordicesima review — relazioni e continuità
 
-Nel 005 Gavin vede la pizza che il figlio gli ha lasciato dopo la cena mancata. Non ferma Elena nel corridoio e promette un altro lavoro serale agli sviluppatori. Solo nel 25/004 comincia a portare sul proprio prospetto le ore esterne di QA che rendono meno verde il suo KPI.
+Nel 005 Gavin vede la pizza che il figlio gli ha lasciato dopo la cena mancata. Non ferma Elena nel corridoio e promette un altro lavoro serale agli sviluppatori. Solo nel 27/004 comincia a portare sul proprio prospetto le ore esterne di QA che rendono meno verde il suo KPI.
