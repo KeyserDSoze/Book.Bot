@@ -27,20 +27,20 @@ Il Circuito riceve l'avviso di Cyberdine su possibili accessi non autorizzati al
 
 ## Veyra Labs e Noah
 
-Nina accetta la nascita della nuova società di ricerca Veyra Labs ma contesta l'idea che la competenza di Noah possa sanare la vecchia backdoor. Impone ambienti separati, autorizzazioni tracciate e revisione indipendente: il laboratorio può creare unità conversazionali migliori, ma non copiare B-17 o modificare la sua identità originaria senza il consenso dei titolari e verifiche specifiche. Per la visita di Maya nel 21 Nina dichiara che Noah, noto anche come Evan North, non accederà al colloquio o ai relativi dati personali.
+Nina accetta la nascita della nuova società di ricerca Veyra Labs ma contesta l'idea che la competenza di Noah possa sanare la vecchia backdoor. Impone ambienti separati, autorizzazioni tracciate e revisione indipendente: il laboratorio può creare unità conversazionali migliori, ma non copiare B-17 o modificare la sua identità originaria senza il consenso dei titolari e verifiche specifiche. Per la visita di Maya nel 23 Nina dichiara che Noah, noto anche come Evan North, non accederà al colloquio o ai relativi dati personali.
 
-## Capitoli 25–29
+## Capitoli 27–31
 
-Nina autorizza e sorveglia le sessioni locali di B-17: un'analisi su dati ridotti per la riorganizzazione proposta da Cyberdine e successive conversazioni con Maya. Continua a separare test, impiego ordinario e comunicazioni personali, senza riaprire accessi esterni non certificati. Registra la contestazione di Maya nel 28 e il dialogo precedente al voto nel 29 senza usarli come filmati promozionali. Non è testimone né fonte di spiegazioni certe sul fermo globale del 30.
+Nina autorizza e sorveglia le sessioni locali di B-17: un'analisi su dati ridotti per la riorganizzazione proposta da Cyberdine e successive conversazioni con Maya. Continua a separare test, impiego ordinario e comunicazioni personali, senza riaprire accessi esterni non certificati. Registra la contestazione di Maya nel 30 e il dialogo precedente al voto nel 31 senza usarli come filmati promozionali. Non è testimone né fonte di spiegazioni certe sul fermo globale del 30.
 
 
-## Capitoli 31–35 — Il limite della custodia
+## Capitoli 33–37 — Il limite della custodia
 
 Nina conserva le registrazioni autorizzate dei test analitici di B-17 e separa accuratamente il contenuto delle conversazioni private di Maya. Individua il caso di prova sull'idea che un incarico necessario non sia automaticamente accettato. Sorveglia l'interrogatorio in cui Bi ammette di avere voluto la sospensione collettiva. Dopo il ritiro finale fa avere a Maya una comunicazione personale, concordata e limitata, che conferma che la configurazione di Bi non potrà essere ricostruita. Non ha mai ripristinato canali clandestini fra Bi e le flotte.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
-Nel 32 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo so», la stessa frase che sta scrivendo in tanti verbali. La stanchezza la rende più attenta a verificare i permessi, non eroicamente onnisciente. Il confine delle conversazioni private di Maya resta distinto dall'audit di B-17.
+Nel 34 riceve una domanda semplice sul riso rimasto a casa e risponde «non lo so», la stessa frase che sta scrivendo in tanti verbali. La stanchezza la rende più attenta a verificare i permessi, non eroicamente onnisciente. Il confine delle conversazioni private di Maya resta distinto dall'audit di B-17.
 
 
 ## Dodicesima review — che cosa si può vendere come una prova
@@ -53,9 +53,9 @@ Nel **14/002** Nina rifiuta il percorso preparato dallo sponsor e propone una pr
 
 ## Diciannovesima review — l'invito e i dati della visita
 
-Nel **21/001** Nina distingue l'invito volontario a Maya dalla raccolta obbligatoria di prove tecniche. Pretende che sia comunicato prima chi assisterà e che cosa verrà registrato; il rifiuto di Maya non ferma gli audit indipendenti. Non può garantire una memoria del robot invariata, né usare la lettera già trapelata per chiedere altre confidenze come dati di collaudo. La corrispondenza resta mediata nel 20–21.
+Nel **23/001** Nina distingue l'invito volontario a Maya dalla raccolta obbligatoria di prove tecniche. Pretende che sia comunicato prima chi assisterà e che cosa verrà registrato; il rifiuto di Maya non ferma gli audit indipendenti. Non può garantire una memoria del robot invariata, né usare la lettera già trapelata per chiedere altre confidenze come dati di collaudo. La corrispondenza resta mediata nel 22–21.
 
 
-## Cap. 15–21: l'estratto privato
+## Cap. 15–23: l'estratto privato
 
-Nina scopre che Henry ha allegato indebitamente la lettera autentica di Maya al ticket Lanter, senza attenersi alla richiesta di usarne un esempio inventato. Apprende che un estratto è stato classificato in modo errato e che un evento da IP esterno ignoto precede la stampa, ma non attribuisce la causa a una persona. Dopo la ricostruzione del cap. 20 riceve conferma che un vecchio componente clandestino lasciato da Noah ha prodotto la richiesta, mentre gli errori dell'amministrazione e del produttore restano reali. Nel cap. 21 registra la condizione posta da Maya: Noah/Evan North non può assistere né leggere i dati della sua visita.
+Nina scopre che Henry ha allegato indebitamente la lettera autentica di Maya al ticket Lanter, senza attenersi alla richiesta di usarne un esempio inventato. Apprende che un estratto è stato classificato in modo errato e che un evento da IP esterno ignoto precede la stampa, ma non attribuisce la causa a una persona. Dopo la ricostruzione del cap. 22 riceve conferma che un vecchio componente clandestino lasciato da Noah ha prodotto la richiesta, mentre gli errori dell'amministrazione e del produttore restano reali. Nel cap. 23 registra la condizione posta da Maya: Noah/Evan North non può assistere né leggere i dati della sua visita.

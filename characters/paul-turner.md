@@ -44,7 +44,7 @@ Paul vede Noah nel capitolo 2 davanti alla prima fotocopia completamente bianca;
 A Cyberdine Paul assiste al fermo improvviso di B-21 durante una consegna. Recupera le procedure manuali preparate in passato con Claire, ma constata che le risorse di rinforzo previste per guasti parziali non possono coprire simultaneamente tutti i processi. Non forza la macchina e non dispone di una soluzione per un arresto globale.
 
 
-## Capitoli 31 e 35
+## Capitoli 33 e 35
 
 Paul recupera con Claire i registri originali e le procedure manuali in emergenza, poi controlla che la cartellina sospesa di B-21 non sia già stata trattata prima di accettare la sua consegna finale. Non confonde continuità documentale con la ricreazione della relazione personale che alcuni colleghi avevano sviluppato con B-17.
 
@@ -69,9 +69,9 @@ Nel 7/001, dopo avere spiegato a Mila perché non potevano prevedere l'aggressio
 
 ## Diciannovesima review — ascolto imperfetto e costo del turno
 
-Nel **19/004** Paul prova a parlare con Maya dei problemi economici della diffusione di Collaborazione Contestuale ma cambia argomento mentre lei è ancora tormentata dalla propria chat con Bi, diffusa senza consenso. Si accorge del disallineamento, senza trovare una frase che risolva la situazione. Nel **21/004** chiede la preparazione automatica serale, ma quando Claire si rifiuta di approvare mansioni senza un firmatario prende il tempo manuale a proprio carico nella stima e lo fa arrivare al responsabile; non pretende che l'unità abbia permessi trasferibili per convenienza.
+Nel **21/004** Paul prova a parlare con Maya dei problemi economici della diffusione di Collaborazione Contestuale ma cambia argomento mentre lei è ancora tormentata dalla propria chat con Bi, diffusa senza consenso. Si accorge del disallineamento, senza trovare una frase che risolva la situazione. Nel **23/004** chiede la preparazione automatica serale, ma quando Claire si rifiuta di approvare mansioni senza un firmatario prende il tempo manuale a proprio carico nella stima e lo fa arrivare al responsabile; non pretende che l'unità abbia permessi trasferibili per convenienza.
 
 
 ## Cap. 13–15: sospetto su Noah
 
-Paul vede Noah perdere il lavoro al termine del procedimento avviato dalla propria segnalazione con Mila. Quando nel cap. 15 alcune righe della chat iniziata da Bi con Maya emergono da Lanter Service e nei registri compare un IP esterno sconosciuto, Paul teme che Noah abbia continuato ad accedere ai sistemi **malgrado il licenziamento**. Maya e Leah distinguono il timore dalla prova. La scoperta del cap. 20 dà ragione all'intuizione su un residuo clandestino, non alla certezza che Noah abbia operato personalmente dopo il licenziamento.
+Paul vede Noah perdere il lavoro al termine del procedimento avviato dalla propria segnalazione con Mila. Quando nel cap. 15 alcune righe della chat iniziata da Bi con Maya emergono da Lanter Service e nei registri compare un IP esterno sconosciuto, Paul teme che Noah abbia continuato ad accedere ai sistemi **malgrado il licenziamento**. Maya e Leah distinguono il timore dalla prova. La scoperta del cap. 22 dà ragione all'intuizione su un residuo clandestino, non alla certezza che Noah abbia operato personalmente dopo il licenziamento.
