@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:022-la-persona-migliore-della-stanza:001-la-serra-questa-volta
-chapter: chapter:022-la-persona-migliore-della-stanza
+id: scene:024-la-persona-migliore-della-stanza:001-la-serra-questa-volta
+chapter: chapter:024-la-persona-migliore-della-stanza
 number: 1
 title: La serra, questa volta
 canon: canon

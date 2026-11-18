@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:022-la-persona-migliore-della-stanza:004-nessuno-e-stato-sostituito
-chapter: chapter:022-la-persona-migliore-della-stanza
+id: scene:024-la-persona-migliore-della-stanza:004-nessuno-e-stato-sostituito
+chapter: chapter:024-la-persona-migliore-della-stanza
 number: 4
 title: Nessuno è stato sostituito
 canon: canon

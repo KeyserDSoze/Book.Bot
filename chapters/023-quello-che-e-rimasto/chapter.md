@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:021-quello-che-e-rimasto
-number: 21
+id: chapter:023-quello-che-e-rimasto
+number: 23
 title: Quello che è rimasto
 canon: canon
 pov:

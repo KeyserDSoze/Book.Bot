@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:022-la-persona-migliore-della-stanza:003-la-donna-con-i-guanti
-chapter: chapter:022-la-persona-migliore-della-stanza
+id: scene:024-la-persona-migliore-della-stanza:003-la-donna-con-i-guanti
+chapter: chapter:024-la-persona-migliore-della-stanza
 number: 3
 title: La donna con i guanti
 canon: canon

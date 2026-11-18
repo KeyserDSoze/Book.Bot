@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:022-la-persona-migliore-della-stanza:002-la-visita
-chapter: chapter:022-la-persona-migliore-della-stanza
+id: scene:024-la-persona-migliore-della-stanza:002-la-visita
+chapter: chapter:024-la-persona-migliore-della-stanza
 number: 2
 title: La visita
 canon: canon

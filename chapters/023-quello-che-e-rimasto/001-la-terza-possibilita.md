@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:021-quello-che-e-rimasto:001-la-terza-possibilita
-chapter: chapter:021-quello-che-e-rimasto
+id: scene:023-quello-che-e-rimasto:001-la-terza-possibilita
+chapter: chapter:023-quello-che-e-rimasto
 number: 1
 title: La terza possibilità
 canon: canon

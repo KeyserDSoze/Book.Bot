@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:021-quello-che-e-rimasto:002-la-prova
-chapter: chapter:021-quello-che-e-rimasto
+id: scene:023-quello-che-e-rimasto:002-la-prova
+chapter: chapter:023-quello-che-e-rimasto
 number: 2
 title: La prova
 canon: canon

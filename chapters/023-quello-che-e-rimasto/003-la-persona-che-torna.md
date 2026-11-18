@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:021-quello-che-e-rimasto:003-la-persona-che-torna
-chapter: chapter:021-quello-che-e-rimasto
+id: scene:023-quello-che-e-rimasto:003-la-persona-che-torna
+chapter: chapter:023-quello-che-e-rimasto
 number: 3
 title: La persona che torna
 canon: canon

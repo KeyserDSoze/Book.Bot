@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:022-la-persona-migliore-della-stanza
-number: 22
+id: chapter:024-la-persona-migliore-della-stanza
+number: 24
 title: La persona migliore della stanza
 canon: canon
 pov:

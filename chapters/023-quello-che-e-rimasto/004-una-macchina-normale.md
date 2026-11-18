@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:021-quello-che-e-rimasto:004-una-macchina-normale
-chapter: chapter:021-quello-che-e-rimasto
+id: scene:023-quello-che-e-rimasto:004-una-macchina-normale
+chapter: chapter:023-quello-che-e-rimasto
 number: 4
 title: Una macchina normale
 canon: canon
