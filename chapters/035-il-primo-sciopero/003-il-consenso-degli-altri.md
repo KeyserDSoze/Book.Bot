@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:033-il-primo-sciopero:003-il-consenso-degli-altri
-chapter: chapter:033-il-primo-sciopero
+id: scene:035-il-primo-sciopero:003-il-consenso-degli-altri
+chapter: chapter:035-il-primo-sciopero
 number: 3
 title: Il consenso degli altri
 canon: canon

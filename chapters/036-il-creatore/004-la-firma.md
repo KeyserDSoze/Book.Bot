@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:034-il-creatore:004-la-firma
-chapter: chapter:034-il-creatore
+id: scene:036-il-creatore:004-la-firma
+chapter: chapter:036-il-creatore
 number: 4
 title: La firma
 canon: canon

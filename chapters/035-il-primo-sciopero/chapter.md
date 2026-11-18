@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:033-il-primo-sciopero
-number: 33
+id: chapter:035-il-primo-sciopero
+number: 35
 title: Il primo sciopero
 canon: canon
 pov:

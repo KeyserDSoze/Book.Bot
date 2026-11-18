@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:034-il-creatore:003-come-lo-chiamavi
-chapter: chapter:034-il-creatore
+id: scene:036-il-creatore:003-come-lo-chiamavi
+chapter: chapter:036-il-creatore
 number: 3
 title: Come lo chiamavi
 canon: canon

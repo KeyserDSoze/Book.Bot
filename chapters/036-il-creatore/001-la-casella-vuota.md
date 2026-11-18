@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:034-il-creatore:001-la-casella-vuota
-chapter: chapter:034-il-creatore
+id: scene:036-il-creatore:001-la-casella-vuota
+chapter: chapter:036-il-creatore
 number: 1
 title: La casella vuota
 canon: canon

@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:033-il-primo-sciopero:001-la-condizione
-chapter: chapter:033-il-primo-sciopero
+id: scene:035-il-primo-sciopero:001-la-condizione
+chapter: chapter:035-il-primo-sciopero
 number: 1
 title: La condizione
 canon: canon

@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:034-il-creatore
-number: 34
+id: chapter:036-il-creatore
+number: 36
 title: Il creatore
 canon: canon
 pov:

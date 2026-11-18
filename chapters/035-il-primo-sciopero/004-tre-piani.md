@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:033-il-primo-sciopero:004-tre-piani
-chapter: chapter:033-il-primo-sciopero
+id: scene:035-il-primo-sciopero:004-tre-piani
+chapter: chapter:035-il-primo-sciopero
 number: 4
 title: Tre piani
 canon: canon

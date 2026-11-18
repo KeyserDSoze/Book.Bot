@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:033-il-primo-sciopero:002-il-si
-chapter: chapter:033-il-primo-sciopero
+id: scene:035-il-primo-sciopero:002-il-si
+chapter: chapter:035-il-primo-sciopero
 number: 2
 title: Il sì
 canon: canon
