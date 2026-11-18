@@ -34,7 +34,7 @@ In 001 Mei controlla tre firme effettive — compatibilità, risorse, ripresa in
 
 ## Sesta review — registri e prova nuova
 
-La scena 002 mostra **log di due impianti reali** che non si accordano sulla referenza, non un test di revoca già compiuto. Noah chiede una prova controllata: verrà effettuata soltanto nel 34/002. Le sei firme umane hanno convalidato aspetti differenti; la loro validità non certifica la tenuta globale. In 003 Nina raccoglie la proposta di Bi senza anticiparne l'intenzione prima del capitolo 33; nel 004 Claire contesta l'uso della parola «sciopero» senza un consenso verificato.
+La scena 002 mostra **log di due impianti reali** che non si accordano sulla referenza, non un test di revoca già compiuto. Noah chiede una prova controllata: verrà effettuata soltanto nel 36/002. Le sei firme umane hanno convalidato aspetti differenti; la loro validità non certifica la tenuta globale. In 003 Nina raccoglie la proposta di Bi senza anticiparne l'intenzione prima del capitolo 33; nel 004 Claire contesta l'uso della parola «sciopero» senza un consenso verificato.
 
 
 ## Decima review — catena di pertinenza, adattatori e attestazioni

@@ -52,7 +52,7 @@ Il ritorno di B-32 include la verifica diretta degli eventi di sicurezza senza f
 
 ## Undicesima review — dialoghi e scena conclusiva
 
-In 001 l'apertura ripete meno materiale tecnico già verificato nei capitoli 33–34. Il badge temporaneo e la sconnessione operativa rendono concreto il perimetro di Noah. Il timer di sessanta secondi scorre dopo la conferma, con dettagli quotidiani e nessuna rappresentazione di dolore robotico come fatto. Preservare l'esatto «No» di Bi, la frase «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.», «Sei ancora qui?», «Bene» e la perdita irreversibile. Nessuna ripartenza mondiale istantanea. Ultima frase del libro sempre «Tutto tornò normale.»
+In 001 l'apertura ripete meno materiale tecnico già verificato nei capitoli 35–36. Il badge temporaneo e la sconnessione operativa rendono concreto il perimetro di Noah. Il timer di sessanta secondi scorre dopo la conferma, con dettagli quotidiani e nessuna rappresentazione di dolore robotico come fatto. Preservare l'esatto «No» di Bi, la frase «Forse non ho un'anima. Ma se ti sbagli, avrai ucciso qualcuno.», «Sei ancora qui?», «Bene» e la perdita irreversibile. Nessuna ripartenza mondiale istantanea. Ultima frase del libro sempre «Tutto tornò normale.»
 
 
 ## Tredicesima review — continuità istituzionale e personaggi

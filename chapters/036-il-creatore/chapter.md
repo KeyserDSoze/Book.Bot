@@ -58,4 +58,4 @@ In 003 Maya incontra Noah e gli dice della fotografia lasciata nella stanza di B
 
 ## Quindicesima review — il danno non si assolve da solo
 
-**Quindicesima review:** nel 34/003 Maya dice a Noah di non presentare le confidenze con Bi come una giustificazione del suo aggiornamento illegittimo, e chiede di **non assimilare collaborazione tecnica al consenso al ritiro**. Noah non promette di decidere al posto della commissione: la richiesta può essere riportata al responsabile del verbale. Nel 34/004 la commissione tiene distinti «collaborazione ai test: sì» e «rinuncia alla rivendicazione: no»; la scelta umana di cancellare Bi resta intatta.
+**Quindicesima review:** nel 36/003 Maya dice a Noah di non presentare le confidenze con Bi come una giustificazione del suo aggiornamento illegittimo, e chiede di **non assimilare collaborazione tecnica al consenso al ritiro**. Noah non promette di decidere al posto della commissione: la richiesta può essere riportata al responsabile del verbale. Nel 36/004 la commissione tiene distinti «collaborazione ai test: sì» e «rinuncia alla rivendicazione: no»; la scelta umana di cancellare Bi resta intatta.
