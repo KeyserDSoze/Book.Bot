@@ -5,7 +5,7 @@ chapter: chapter:019-ti-ricordi-di-me
 number: 4
 title: Le firme
 canon: canon
-pov: character:ethan-blake
+pov: character:martin-walsh
 characters:
   - character:ethan-blake
   - character:martin-walsh
@@ -27,7 +27,7 @@ Un uomo voleva aggiungere il divieto immediato di tutte le unità nei luoghi di 
 
 «Non siamo qui per far finta che togliere una macchina ricrei un posto», disse Martin.
 
-Ethan avrebbe voluto rispondere in modo più netto, per non perdere un sostenitore. Guardò la lista delle presenze e vide che la donna del magazzino non aveva ancora votato. Aveva aspettato fino a quell'ora per una ragione precisa.
+Ethan aprì la bocca, poi guardò la lista delle presenze. La donna del magazzino non aveva ancora votato. Era rimasta lì fino a quell'ora e teneva ancora in mano il cedolino spiegazzato.
 
 «Vogliamo limitare dove vengono usati senza controllo», disse. «E vogliamo che il risparmio non venga deciso senza chi paga il prezzo. Le proposte devono essere scritte, altrimenti domani ognuno dirà di aver votato una cosa diversa.»
 
@@ -47,7 +47,7 @@ Ethan prese il foglio da firmare. Per la prima volta l'intestazione non recava s
 
 «Non significa che siete dirigenti», precisò Martin. «Significa che chi viene a lamentarsi sa a chi rivolgersi.»
 
-Quando uscirono, una giornalista aspettava sotto il portico. Ethan la conosceva: Olivia Brooks gli aveva già chiesto una risposta documentata sulla violenza contro B-17.
+Quando uscirono, una giornalista aspettava sotto il portico. Era Olivia Brooks, la giornalista che aveva già chiesto pubblicamente a Ethan una risposta documentata sulla violenza contro B-17.
 
 «Quanti eravate?» domandò.
 
@@ -71,7 +71,7 @@ Martin esitò. Aveva creduto che sarebbe stato facile mettere il proprio nome su
 
 Olivia prese nota. Non promise che avrebbe usato quella frase.
 
-Un ragazzo dalla sala chiese a Ethan se fossero pronti a fare una marcia. Ethan guardò Martin e rispose che prima servivano permessi, un percorso e persone disponibili ad assumersi l'organizzazione. Non avrebbero trasformato un invito in una prova di forza solo per avere una fotografia.
+Un ragazzo dalla sala chiese a Ethan se fossero pronti a fare una marcia. Ethan guardò Martin e rispose che prima servivano permessi, un percorso e persone disponibili ad assumersi l'organizzazione. Martin annuì. La fotografia della prima marcia poteva aspettare.
 
 Più tardi, nel parcheggio, Martin aprì la galleria del telefono per cercare la vecchia tessera da mostrare a Leo.
 
@@ -89,4 +89,4 @@ Martin si chinò sul telefono. Lo era stato. Ricordava ancora il sapore troppo d
 
 Leo guardò l'immagine un'altra volta. Poi restituì il telefono al nonno.
 
-Nella fotografia, dietro la torta, c'era un cartello con una data di qualche settimana precedente all'arrivo di B-17. Martin non aveva motivo di ricordarla fino a quel momento.
+Martin ingrandì la fotografia. Sul muro, dietro la torta, c'era un cartello con la data. Ricordò il rumore degli applausi più chiaramente di qualsiasi discorso.
