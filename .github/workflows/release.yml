@@ -66,7 +66,15 @@ jobs:
             test -s "dist/Bot-v${VERSION}.${ext}"
           done
           test -s "dist/Bot-illustrations-v${VERSION}.zip"
-          python -m zipfile -l "dist/Bot-illustrations-v${VERSION}.zip" | grep -q chapter-035.png
+          python - <<'PY'
+          from pathlib import Path
+          import zipfile
+          from tools.common import chapter_dirs, load_document
+          version = Path('VERSION').read_text(encoding='utf-8').strip()
+          last = max(int(load_document(d/'chapter.md')[0]['number']) for d in chapter_dirs())
+          with zipfile.ZipFile(f'dist/Bot-illustrations-v{version}.zip') as art:
+              assert f'chapter-{last:03d}.png' in art.namelist(), 'Final chapter illustration missing'
+          PY
 
       - name: Inspect rendered PDF and illustrations
         run: python tools/check_edition.py

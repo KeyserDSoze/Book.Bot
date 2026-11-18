@@ -210,7 +210,7 @@ def add_title_pages(doc, chapters, version, art_dir):
     doc.add_paragraph()
     text_par(doc,"Un romanzo di fantascienza sociale",9,MUTED,0,WD_ALIGN_PARAGRAPH.CENTER)
 
-def add_chapter(doc, meta, scenes, art_dir):
+def add_chapter(doc, meta, scenes, art_dir, final_number):
     n=int(meta["number"]);title=str(meta["title"])
     doc.add_page_break()
     p=doc.add_paragraph()
@@ -232,7 +232,7 @@ def add_chapter(doc, meta, scenes, art_dir):
             r=p.add_run("◆   ◆   ◆")
             r.font.name=SANS;r.font.color.rgb=AMBER;r.font.size=Pt(8)
         # On the final illustrated plate the novel's last line must still be last.
-        if n==35 and i==len(scenes)-1 and body.rstrip().endswith("Tutto tornò normale."):
+        if n==final_number and i==len(scenes)-1 and body.rstrip().endswith("Tutto tornò normale."):
             body=body.rstrip()[:-len("Tutto tornò normale.")].rstrip()
         add_body(doc,body)
     art=art_dir/f"chapter-{n:03d}.png"
@@ -252,7 +252,7 @@ def add_chapter(doc, meta, scenes, art_dir):
     label.paragraph_format.space_before=Pt(11)
     r=label.add_run(f"CAPITOLO {n:02d}  ·  {title}")
     r.font.name=SANS;r.font.size=Pt(8);r.font.color.rgb=MUTED
-    if n==35:
+    if n==final_number:
         closing=doc.add_paragraph()
         closing.alignment=WD_ALIGN_PARAGRAPH.CENTER
         closing.paragraph_format.space_before=Pt(48)
@@ -279,8 +279,9 @@ def render(output: Path,version: str,art_dir: Path):
     doc=Document()
     configure_styles(doc)
     add_title_pages(doc,[(int(meta["number"]),meta["title"]) for meta,_ in canonical],version,art_dir)
+    final_number=max(int(meta["number"]) for meta,_ in canonical)
     for meta,scenes in canonical:
-        add_chapter(doc,meta,scenes,art_dir)
+        add_chapter(doc,meta,scenes,art_dir,final_number)
     doc.core_properties.title="BOT"
     doc.core_properties.subject="L'innovazione non chiede permesso"
     doc.core_properties.language="it-IT"

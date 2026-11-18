@@ -22,17 +22,46 @@ OFF = (221, 229, 224)
 ART_ROOT = Path(__file__).resolve().parent.parent / "art"
 
 # Iconic object or image from the corresponding narrative arc, not portraits
-# invented afresh for each scene.
+# invented afresh for each scene. Chapter 19 and 20 are newly inserted;
+# former motifs 19–35 are shifted to their canonical positions 21–37.
 MOTIFS = {
-    1: "campus", 2: "paper", 3: "robot", 4: "racket", 5: "chair",
-    6: "shoulder", 7: "corridor", 8: "invoice", 9: "twins",
-    10: "lens", 11: "arena", 12: "key", 13: "coins", 14: "lock",
-    15: "letter", 16: "door", 17: "warehouse", 18: "pause",
-    19: "circuit", 20: "archive", 21: "racket", 22: "tomato",
-    23: "calendar", 24: "crate", 25: "network", 26: "contract",
-    27: "hazelnut", 28: "protest", 29: "parliament", 30: "clock",
-    31: "corridor", 32: "clocks", 33: "hand", 34: "pair",
-    35: "lamp",
+    1: "campus",
+    2: "paper",
+    3: "robot",
+    4: "racket",
+    5: "chair",
+    6: "shoulder",
+    7: "corridor",
+    8: "invoice",
+    9: "twins",
+    10: "lens",
+    11: "arena",
+    12: "key",
+    13: "coins",
+    14: "lock",
+    15: "letter",
+    16: "door",
+    17: "warehouse",
+    18: "pause",
+    19: "protest",
+    20: "key",
+    21: "circuit",
+    22: "archive",
+    23: "racket",
+    24: "tomato",
+    25: "calendar",
+    26: "crate",
+    27: "network",
+    28: "contract",
+    29: "hazelnut",
+    30: "protest",
+    31: "parliament",
+    32: "clock",
+    33: "corridor",
+    34: "clocks",
+    35: "hand",
+    36: "pair",
+    37: "lamp",
 }
 
 def font(size: int, sans: bool = False, bold: bool = False):
