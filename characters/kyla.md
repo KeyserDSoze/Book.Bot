@@ -7,6 +7,12 @@ canon: canon
 
 # Kyla Morgan
 
+## Raccordo con Martin Walsh
+
+Al tempo della festa di pensionamento di Martin (flashback narrato nel capitolo 20), Kyla conosce il suo accordo di uscita incentivata, conferma con Gavin e Victor che i compiti routinari saranno distribuiti al robot B-17 e a fornitori, mentre il posto da tuttofare non verrà riaperto. Kyla non decide da sola il contratto d'acquisto, ma partecipa al processo e annota il rischio delle ore di supervisione. Molto tempo dopo (nuovo 21) ritrova il nome di Martin nelle interviste di Lavoro Prima: la scelta non era stata una menzogna, ma aveva avuto conseguenze che non aveva misurato per le nuove generazioni.
+
+
+
 Giovane professionista responsabile HR e Marketing di Cyberdine S.p.A. Cura la visita del cliente Aruvhana. È preparata, brillante nel leggere una stanza, fiera delle ore che l'automazione ha restituito ai colleghi. Non finge entusiasmo e non possiede informazioni che il suo ruolo non giustifica.
 
 **Capitolo 1**: Kyla vuole vendere Bridgeglass ad Aruvhana e guadagna tempo dopo il fallimento tecnico mostrando B-17 in giardino. Autorizza una demo simulata ma ne ritarda la spiegazione esplicita, una scelta commerciale che gli ospiti le contestano. Propone un proof of concept, non ancora accettato. La sera ha un appuntamento al cinema promesso a un'amica, che continua a trascurare.
@@ -43,18 +49,18 @@ Dopo la segnalazione di Paul e Mila, a cui Noah aveva confidato per primi il pro
 Nel capitolo 1 Kyla non incontra Noah nell'atrio: il varco bloccato viene gestito dalla manutenzione. Noah aiuta invece Malik, Elena e Daniel nell'emergenza Bridgeglass, senza appartenere alla commessa. In capitolo 8 Kyla lo vede lasciare la plenaria quando compare B-17. Solo con la confessione nel capitolo 12 scopre la modifica clandestina e il suo contrasto con il talento tecnico e sociale di Noah; il lavoro successivo a Veyra Labs non lo reintegra a Cyberdine.
 
 
-## Capitoli 25–30
+## Capitoli 27–32
 
-Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; Cyberdine rende concreta la dimensione economica di ciò che il lettore conosce già dal capitolo 1: è una software house che vende integrazione e continuità dei sistemi industriali. Chiede che ogni stima di efficienza includa le competenze e le persone coinvolte. Nel capitolo 26, dopo il rinnovo condizionato del cliente, affronta con Claire la mancata prosecuzione della sua funzione. Nel 28 rifiuta comunicati sul progresso che ignorino posti non più creati o lavori sostituiti. Nel 29 distingue la legge italiana mirata dalle attività non vietate e dalle sedi estere; non promette continuità assoluta. Durante il fermo mondiale del 30 chiede un piano per i clienti internazionali, trovandosi davanti a procedure manuali pensate per guasti parziali.
+Kyla riceve la richiesta di Aruvhana di ridurre del 17% il costo del servizio; Cyberdine rende concreta la dimensione economica di ciò che il lettore conosce già dal capitolo 1: è una software house che vende integrazione e continuità dei sistemi industriali. Chiede che ogni stima di efficienza includa le competenze e le persone coinvolte. Nel capitolo 26, dopo il rinnovo condizionato del cliente, affronta con Claire la mancata prosecuzione della sua funzione. Nel 30 rifiuta comunicati sul progresso che ignorino posti non più creati o lavori sostituiti. Nel 31 distingue la legge italiana mirata dalle attività non vietate e dalle sedi estere; non promette continuità assoluta. Durante il fermo mondiale del 30 chiede un piano per i clienti internazionali, trovandosi davanti a procedure manuali pensate per guasti parziali.
 
 
-## Capitoli 31–35
+## Capitoli 33–37
 
 Kyla continua a gestire presso Cyberdine gli effetti economici del fermo: piani di continuità con Aruvhana, autorizzazioni manuali, richieste dei clienti e ricostituzione progressiva dei processi. La risoluzione richiede verifiche dei produttori e dei siti, non un comando generale emesso dal campus. I ruoli professionali eliminati dall'automazione non ricompaiono automaticamente con la ripartenza; l'azienda apre anche incarichi di controllo e manutenzione.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
-Nel capitolo 1 Kyla promette a un'amica di non rimandare più una serata al cinema; nel 25 scopre che l'amica ha smesso di acquistare biglietti per lei. Questo piccolo fallimento è distinto dalle comunicazioni aziendali, in cui Kyla sembra invece sempre capace di tenere insieme le persone. Non farle pronunciare soltanto giudizi equilibrati: può essere più abile con Aruvhana che con un'amica.
+Nel capitolo 1 Kyla promette a un'amica di non rimandare più una serata al cinema; nel 27 scopre che l'amica ha smesso di acquistare biglietti per lei. Questo piccolo fallimento è distinto dalle comunicazioni aziendali, in cui Kyla sembra invece sempre capace di tenere insieme le persone. Non farle pronunciare soltanto giudizi equilibrati: può essere più abile con Aruvhana che con un'amica.
 
 ## Revisione v0.32.0 — Software e robot
 
@@ -70,17 +76,17 @@ Il responsabile Delivery Gavin Shaw la accusa di essere stata premiata senza i s
 
 ## Conflitto da azionista — capitoli 12, 25–30
 
-La partecipazione all'1,5% non sparisce dopo gli applausi. Alla confessione di Noah (12) Kyla deve resistere all'istinto di pensare prima alla reputazione aziendale, lasciando a Leah la guida dell'accertamento. Nel 25 difende la verifica tecnica del rinnovo Aruvhana mentre ha anche un interesse economico personale nella sopravvivenza della società. Nel 26, malgrado la promessa di non far scoprire a Claire il proprio futuro da una tabella, si presta a una riunione che fa esattamente quello: una colpa organizzativa concreta. Nel 28 deve firmare comunicazioni su una legge che modifica il settore mentre la sua quota la espone al rischio economico; nel 30 coordina risorse limitate e riceve da Gavin un primo aiuto interfunzionale tracciato. Non farne una portavoce perfetta di etica aziendale.
+La partecipazione all'1,5% non sparisce dopo gli applausi. Alla confessione di Noah (12) Kyla deve resistere all'istinto di pensare prima alla reputazione aziendale, lasciando a Leah la guida dell'accertamento. Nel 27 difende la verifica tecnica del rinnovo Aruvhana mentre ha anche un interesse economico personale nella sopravvivenza della società. Nel 28, malgrado la promessa di non far scoprire a Claire il proprio futuro da una tabella, si presta a una riunione che fa esattamente quello: una colpa organizzativa concreta. Nel 30 deve firmare comunicazioni su una legge che modifica il settore mentre la sua quota la espone al rischio economico; nel 32 coordina risorse limitate e riceve da Gavin un primo aiuto interfunzionale tracciato. Non farne una portavoce perfetta di etica aziendale.
 
 
 ## Decima review — il costo della casella non finanziata
 
-Nel 25 Kyla, azionista e direttrice HR/Marketing, lascia senza finanziamento la possibile posizione di formazione sulle vecchie librerie per non appesantire subito il rinnovo Aruvhana. Non approva personalmente i collaudi tecnici, ma partecipa al compromesso di bilancio. Nel 26 Claire la costringe a distinguere una futura valutazione da una posizione aperta. Solo dopo il fermo, nel 35, le ore per insegnare quelle librerie entrano in un contratto temporaneo: questo non cancella la decisione del 25.
+Nel 27 Kyla, azionista e direttrice HR/Marketing, lascia senza finanziamento la possibile posizione di formazione sulle vecchie librerie per non appesantire subito il rinnovo Aruvhana. Non approva personalmente i collaudi tecnici, ma partecipa al compromesso di bilancio. Nel 28 Claire la costringe a distinguere una futura valutazione da una posizione aperta. Solo dopo il fermo, nel 37, le ore per insegnare quelle librerie entrano in un contratto temporaneo: questo non cancella la decisione del 25.
 
 
 ## Quattordicesima review — conseguenze dei rapporti
 
-Nel 25/004 Kyla accetta la stima più alta di QA e documenta il ritardo di Delivery. Nel 26/001 ammette a Claire di averla invitata a presentare prove pur sapendo che quella riunione avrebbe comportato comunicazioni sul personale. Non poteva anticipare dati individuali riservati; poteva evitare quell'invito. La sua ammissione non restituisce il posto a Claire.
+Nel 27/004 Kyla accetta la stima più alta di QA e documenta il ritardo di Delivery. Nel 28/001 ammette a Claire di averla invitata a presentare prove pur sapendo che quella riunione avrebbe comportato comunicazioni sul personale. Non poteva anticipare dati individuali riservati; poteva evitare quell'invito. La sua ammissione non restituisce il posto a Claire.
 
 
 ## Diciassettesima passata — comunicare senza anticipare gli esiti
