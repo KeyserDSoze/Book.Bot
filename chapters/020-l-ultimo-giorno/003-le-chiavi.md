@@ -58,26 +58,18 @@ Leo prese il foglio del colloquio e lo piegò in quattro.
 
 «Portaci quello che hai studiato», disse Martin. «Il mio metro lascialo qui. È storto.»
 
-Due settimane dopo Leo uscì dal colloquio senza una risposta. Dopo un mese arrivò la mail: il percorso di apprendistato veniva sospeso, perché il reparto aveva scelto di acquistare un servizio esterno di diagnostica per le nuove macchine e non avrebbe aperto la posizione junior prevista.
+Martin prese il foglio di Leo e lo rimise sul tavolo. «Quando ti dicono la data, ci guardiamo insieme come arrivarci.»
 
-Owen cominciò a ricevere turni più corti da un altro committente. Non sparirono tutte le chiamate. Alcune diventarono più impegnative, perché quando una macchina automatica si bloccava serviva davvero qualcuno che sapesse intervenire. Ma le giornate non bastavano a coprire le settimane vuote.
+«Ci vado da solo», rispose il ragazzo.
 
-Martin diede a Leo una parte dei soldi della buonuscita per rinnovare un corso. Owen rifiutò un primo bonifico e accettò il secondo quando arrivò una rata imprevista.
+«Allora ti presto la macchina.»
 
-«Non voglio vivere con i tuoi soldi», gli disse.
+Owen sorrise. «Non lo lasciare andare con quella del nonno. Il suo navigatore ti porta ancora alle strade chiuse.»
 
-«Non devi viverci. Devi attraversare questo mese.»
+«Sulle strade chiuse», disse Martin, «mi arrangio.»
 
-«E il prossimo?»
+Finirono i pasticcini. Leo segnò l'ora del colloquio sul calendario del frigorifero, fra la visita dal dentista di Owen e l'appuntamento per controllare il passaggio alla pensione.
 
-Martin guardò il calendario sul frigorifero, le date cerchiate e cancellate. Aveva passato trent'anni a sapere che una serratura rotta, prima o poi, si poteva riparare. Davanti a quelle settimane vuote non trovava un componente da cambiare.
+Quando gli altri andarono via, Martin salì su una sedia per sistemare la targa sopra l'armadio. La lasciò in vista.
 
-Leo appese al frigorifero il foglio del colloquio, non per ricordare la sconfitta ma perché nella mail c'era un indirizzo di un'altra impresa.
-
-«Provo anche lì», disse.
-
-Martin gli passò la penna per segnare la data.
-
-«Va bene.»
-
-Quella sera mise la targa della pensione sopra l'armadio, fuori dalla vista della cucina. Non era pentito di essersi ritirato. Era stanco di essere l'unico dei tre a poterselo permettere.
+Il suo nome, finalmente, non era più necessario su nessun turno.

@@ -94,4 +94,16 @@ Cancellò la seconda frase.
 
 Posò il telefono e, prima di partire, guardò ancora il prato dall'altra parte della recinzione. B-17 seguiva una linea tracciata da altri. Per quello era stato comprato. C'era un uomo accanto a lui per assicurarsi che continuasse a farlo.
 
-Martin mise in moto. La targa con i ventinove anni di servizio lo aspettava a casa, insieme alle domande a cui non sapeva rispondere.
+Martin mise in moto. Il giardino di Cyberdine era ormai un lavoro che qualcun altro organizzava.
+
+Nelle settimane seguenti arrivò la notizia che il colloquio di Leo non avrebbe portato a un apprendistato: il reparto aveva affidato la diagnostica delle nuove macchine a un servizio esterno e non apriva più la posizione junior. Owen ricevette alcuni incarichi difficili, poi altri turni troppo brevi per coprire le spese ordinarie.
+
+Martin cominciò a usare una parte della buonuscita per pagare un corso a Leo e per anticipare una rata a Owen. Nessuno dei due gli chiese di smettere di aiutare. Nessuno dei due ne era contento.
+
+Ogni tanto, quando passava davanti al campus, vedeva B-17 dietro il tagliaerba. Non aveva imparato a detestare quella macchina. Continuava a chiedersi perché, nel posto che aveva lasciato libero, non ci fosse stato spazio per un altro ragazzo che imparasse da qualcuno.
+
+Un giorno Leo gli scrisse: *Mi chiedono ancora esperienza. Ma come la faccio, se non comincio mai?*
+
+Martin restò a lungo davanti al messaggio.
+
+Sulla mensola dietro di lui la targa diceva *ventinove anni di servizio*. Era l'unica risposta che aveva, e non serviva a niente.

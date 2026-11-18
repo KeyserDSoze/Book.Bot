@@ -35,7 +35,7 @@ Gavin Shaw aveva portato la lista dei compiti, preparata con Martin negli ultimi
 
 Kyla fece scorrere il prospetto dei costi. Un'assunzione avrebbe portato continuità di presenza e competenze crescenti, ma anche un costo annuale impegnativo per un posto che la direzione voleva evitare di ricreare. I contratti esterni avrebbero avuto tariffe maggiori per gli interventi urgenti. Il robot richiedeva un investimento iniziale, batterie, assistenza, supervisioni e giornate in cui un dipendente avrebbe dovuto comunque intervenire.
 
-«Se compriamo l'unità, non possiamo mettere tutta la colonna sotto “ore risparmiate”», disse Kyla. «Chi gestisce i percorsi? Chi controlla che non provi a fare lavori non autorizzati?»
+«Se compriamo l'unità, non possiamo mettere tutta la colonna sotto «ore risparmiate»», disse Kyla. «Chi gestisce i percorsi? Chi controlla che non provi a fare lavori non autorizzati?»
 
 Gavin mostrò il preventivo del distributore. L'hardware sarebbe arrivato dalla Cina, con attrezzi certificati per compiti delimitati e un accordo di assistenza. L'unità individuata portava un numero di fabbrica. Cyberdine l'avrebbe registrata nel proprio censimento di bot come B-17.
 
