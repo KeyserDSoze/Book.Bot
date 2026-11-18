@@ -11,10 +11,12 @@ characters:
   - character:maya-bennett
   - character:olivia-brooks
   - character:ethan-blake
+  - character:martin-walsh
 locations:
   - location:cyberdine-campus
 factions: 
   - faction:cyberdine
+  - faction:lavoro-prima
 ---
 
 Claire arrivò davanti ai cancelli di Cyberdine con un cartello che non aveva scritto lei.
@@ -51,7 +53,19 @@ Maya fece una smorfia.
 
 «Nemmeno io.»
 
-Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita. Poco dopo sul palco mobile salì Ethan Blake. Non aveva più il tesserino di Cyberdine: adesso era deputato e guidava la componente parlamentare di **Lavoro Prima**, nata dagli incontri anti-robot che aveva cominciato dopo il licenziamento.
+Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il passaggio per il personale in uscita.
+
+Prima di Ethan prese il microfono un uomo con una vecchia spilla appuntata alla giacca. Claire ne riconobbe il volto prima del nome: **Martin Walsh**, l'ex tuttofare di Cyberdine. Quando lei era arrivata in azienda lui sapeva già quali porte andavano spinte con la spalla e quali non bisognava toccare.
+
+«Sono andato in pensione prima che arrivasse B-17», disse Martin. «Non mi hanno licenziato. Ho firmato lo scivolo e sono tornato a casa con una torta. Il mio posto, però, non è stato riaperto. Mio figlio vive di chiamate di manutenzione che diminuiscono, mio nipote è ancora in cerca del primo contratto. Io ho avuto una carriera intera. Loro stanno discutendo quanto deve durare una settimana di lavoro.»
+
+Dalla folla qualcuno gridò di spegnere tutte le macchine. Martin aspettò che la voce finisse.
+
+«Se domani spegni una macchina, non riappare automaticamente l'apprendistato che non hai finanziato. Io voglio sapere chi decide quali mestieri devono ancora essere insegnati.»
+
+Non tutti applaudirono. Claire sì, una volta sola, prima di rendersi conto che teneva ancora il cartello.
+
+Poco dopo sul palco mobile salì Ethan Blake. Non aveva più il tesserino di Cyberdine: adesso era deputato e guidava la componente parlamentare di **Lavoro Prima**, nata dagli incontri anti-robot che aveva cominciato dopo il licenziamento.
 
 Claire lo riconobbe dalla voce. Aveva sentito quella stessa sicurezza quando le aveva chiesto di raccontare la mancata promozione come una colpa di Bi.
 
