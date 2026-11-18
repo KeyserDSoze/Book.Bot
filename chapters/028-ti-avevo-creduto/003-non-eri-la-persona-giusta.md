@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:026-ti-avevo-creduto:003-non-eri-la-persona-giusta
-chapter: chapter:026-ti-avevo-creduto
+id: scene:028-ti-avevo-creduto:003-non-eri-la-persona-giusta
+chapter: chapter:028-ti-avevo-creduto
 number: 3
 title: Non eri la persona giusta
 canon: canon

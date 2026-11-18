@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:026-ti-avevo-creduto:002-ventidue-minuti
-chapter: chapter:026-ti-avevo-creduto
+id: scene:028-ti-avevo-creduto:002-ventidue-minuti
+chapter: chapter:028-ti-avevo-creduto
 number: 2
 title: Ventidue minuti
 canon: canon

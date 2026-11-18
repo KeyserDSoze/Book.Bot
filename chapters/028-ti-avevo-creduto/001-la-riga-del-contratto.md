@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:026-ti-avevo-creduto:001-la-riga-del-contratto
-chapter: chapter:026-ti-avevo-creduto
+id: scene:028-ti-avevo-creduto:001-la-riga-del-contratto
+chapter: chapter:028-ti-avevo-creduto
 number: 1
 title: La riga del contratto
 canon: canon

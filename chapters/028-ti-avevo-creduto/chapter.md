@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:026-ti-avevo-creduto
-number: 26
+id: chapter:028-ti-avevo-creduto
+number: 28
 title: Ti avevo creduto
 canon: canon
 pov:

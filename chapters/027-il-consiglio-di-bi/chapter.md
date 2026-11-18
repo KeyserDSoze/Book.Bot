@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:025-il-consiglio-di-bi
-number: 25
+id: chapter:027-il-consiglio-di-bi
+number: 27
 title: Il consiglio di Bi
 canon: canon
 pov:

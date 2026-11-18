@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:025-il-consiglio-di-bi:001-la-lettera-di-aruvhana
-chapter: chapter:025-il-consiglio-di-bi
+id: scene:027-il-consiglio-di-bi:001-la-lettera-di-aruvhana
+chapter: chapter:027-il-consiglio-di-bi
 number: 1
 title: La lettera di Aruvhana
 canon: canon

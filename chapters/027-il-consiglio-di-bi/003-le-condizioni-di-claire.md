@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:025-il-consiglio-di-bi:003-le-condizioni-di-claire
-chapter: chapter:025-il-consiglio-di-bi
+id: scene:027-il-consiglio-di-bi:003-le-condizioni-di-claire
+chapter: chapter:027-il-consiglio-di-bi
 number: 3
 title: Le condizioni di Claire
 canon: canon

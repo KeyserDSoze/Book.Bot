@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:025-il-consiglio-di-bi:004-la-firma-umana
-chapter: chapter:025-il-consiglio-di-bi
+id: scene:027-il-consiglio-di-bi:004-la-firma-umana
+chapter: chapter:027-il-consiglio-di-bi
 number: 4
 title: La firma umana
 canon: canon

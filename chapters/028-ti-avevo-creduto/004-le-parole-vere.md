@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:026-ti-avevo-creduto:004-le-parole-vere
-chapter: chapter:026-ti-avevo-creduto
+id: scene:028-ti-avevo-creduto:004-le-parole-vere
+chapter: chapter:028-ti-avevo-creduto
 number: 4
 title: Le parole vere
 canon: canon

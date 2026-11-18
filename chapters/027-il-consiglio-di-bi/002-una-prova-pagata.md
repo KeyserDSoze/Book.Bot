@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:025-il-consiglio-di-bi:002-una-prova-pagata
-chapter: chapter:025-il-consiglio-di-bi
+id: scene:027-il-consiglio-di-bi:002-una-prova-pagata
+chapter: chapter:027-il-consiglio-di-bi
 number: 2
 title: Una prova pagata
 canon: canon
