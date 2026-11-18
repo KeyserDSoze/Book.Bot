@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:030-le-diciassette:001-la-nocciola
-chapter: chapter:030-le-diciassette
+id: scene:032-le-diciassette:001-la-nocciola
+chapter: chapter:032-le-diciassette
 number: 1
 title: La nocciola
 canon: canon

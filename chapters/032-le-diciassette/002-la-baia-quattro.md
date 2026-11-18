@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:030-le-diciassette:002-la-baia-quattro
-chapter: chapter:030-le-diciassette
+id: scene:032-le-diciassette:002-la-baia-quattro
+chapter: chapter:032-le-diciassette
 number: 2
 title: La baia quattro
 canon: canon

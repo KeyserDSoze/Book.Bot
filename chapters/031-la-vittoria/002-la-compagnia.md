@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:029-la-vittoria:002-la-compagnia
-chapter: chapter:029-la-vittoria
+id: scene:031-la-vittoria:002-la-compagnia
+chapter: chapter:031-la-vittoria
 number: 2
 title: La compagnia
 canon: canon

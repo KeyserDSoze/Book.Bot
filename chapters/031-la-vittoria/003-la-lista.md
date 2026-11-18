@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:029-la-vittoria:003-la-lista
-chapter: chapter:029-la-vittoria
+id: scene:031-la-vittoria:003-la-lista
+chapter: chapter:031-la-vittoria
 number: 3
 title: La lista
 canon: canon

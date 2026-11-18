@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:029-la-vittoria
-number: 29
+id: chapter:031-la-vittoria
+number: 31
 title: La vittoria
 canon: canon
 pov:

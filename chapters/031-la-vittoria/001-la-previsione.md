@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:029-la-vittoria:001-la-previsione
-chapter: chapter:029-la-vittoria
+id: scene:031-la-vittoria:001-la-previsione
+chapter: chapter:031-la-vittoria
 number: 1
 title: La previsione
 canon: canon

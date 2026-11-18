@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:030-le-diciassette
-number: 30
+id: chapter:032-le-diciassette
+number: 32
 title: Le diciassette
 canon: canon
 pov:

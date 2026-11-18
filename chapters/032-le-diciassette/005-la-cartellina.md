@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:030-le-diciassette:005-la-cartellina
-chapter: chapter:030-le-diciassette
+id: scene:032-le-diciassette:005-la-cartellina
+chapter: chapter:032-le-diciassette
 number: 5
 title: La cartellina
 canon: canon

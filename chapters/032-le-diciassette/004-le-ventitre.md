@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:030-le-diciassette:004-le-ventitre
-chapter: chapter:030-le-diciassette
+id: scene:032-le-diciassette:004-le-ventitre
+chapter: chapter:032-le-diciassette
 number: 4
 title: Le ventitré
 canon: canon

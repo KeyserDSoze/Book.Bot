@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:029-la-vittoria:004-il-voto
-chapter: chapter:029-la-vittoria
+id: scene:031-la-vittoria:004-il-voto
+chapter: chapter:031-la-vittoria
 number: 4
 title: Il voto
 canon: canon
