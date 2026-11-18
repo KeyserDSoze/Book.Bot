@@ -57,7 +57,7 @@ Un megafono gracchiò. L'organizzatore invitò le persone a lasciare libero il p
 
 Prima di Ethan prese il microfono un uomo con una vecchia spilla appuntata alla giacca. Claire ne riconobbe il volto prima del nome: **Martin Walsh**, l'ex tuttofare di Cyberdine. Quando lei era arrivata in azienda lui sapeva già quali porte andavano spinte con la spalla e quali non bisognava toccare.
 
-«Sono andato in pensione prima che arrivasse B-17», disse Martin. «Non mi hanno licenziato. Ho firmato lo scivolo e sono tornato a casa con una torta. Il mio posto, però, non è stato riaperto. Mio figlio vive di chiamate di manutenzione che diminuiscono, mio nipote è ancora in cerca del primo contratto. Io ho avuto una carriera intera. Loro stanno discutendo quanto deve durare una settimana di lavoro.»
+«Sono andato in pensione prima che arrivasse B-17», disse Martin. «Non mi hanno licenziato. Ho firmato lo scivolo e sono tornato a casa con una torta. Il mio posto, però, non è stato riaperto. Mio figlio vive di chiamate di manutenzione che diminuiscono, mio nipote è ancora in cerca di un primo contratto stabile. Io ho avuto una carriera intera. Loro stanno discutendo quanto deve durare una settimana di lavoro.»
 
 Dalla folla qualcuno gridò di spegnere tutte le macchine. Martin aspettò che la voce finisse.
 

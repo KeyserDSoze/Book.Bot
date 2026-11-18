@@ -27,6 +27,9 @@ def assemble(version: str):
     ]
     chapters=[]
     scene_count=0
+    final_number=max((int(load_document(folder/"chapter.md")[0]["number"])
+                      for folder in chapter_dirs()
+                      if load_document(folder/"chapter.md")[0].get("canon")=="canon"), default=0)
     for folder in chapter_dirs():
         meta,_=load_document(folder/"chapter.md")
         if meta.get("canon")!="canon":continue
@@ -42,7 +45,7 @@ def assemble(version: str):
             target.extend([f"# Capitolo {num}","","## "+title,""])
             for i,body in enumerate(scenes):
                 if i:target.extend(["","* * *",""])
-                if target is epub_lines and num==35 and i==len(scenes)-1:
+                if target is epub_lines and num==final_number and i==len(scenes)-1:
                     body=body.rstrip()
                     if body.endswith("Tutto tornò normale."):
                         body=body[:-len("Tutto tornò normale.")].rstrip()
@@ -50,7 +53,7 @@ def assemble(version: str):
         epub_lines.extend([
             "",f"![Immagine iconica del capitolo {num}: {title}](chapter-{num:03d}.png){{width=4.4in}}",""
         ])
-        if num==35:
+        if num==final_number:
             epub_lines.extend(["", "Tutto tornò normale.", ""])
         scene_count+=len(scenes)
     if not chapters:raise SystemExit("No canonical scenes to export")

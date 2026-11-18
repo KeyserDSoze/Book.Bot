@@ -9,6 +9,7 @@ pov:
   - character:ruby-collins
   - character:daniel-bennett
   - character:noah-carter
+  - character:martin-walsh
 ---
 
 # Scene
@@ -17,6 +18,7 @@ pov:
 2. Le ore ritrovate — Ruby viene richiamata all'Hub, ottiene ore di lavoro ma scopre che i processi manuali non sostituiscono immediatamente una flotta organizzata.
 3. Un permesso per il ritiro — Daniel e Maya riescono a far ritirare medicinali urgenti con procedure e viaggi manuali, senza dichiarare risolto il sistema delle consegne.
 4. Il tesserino temporaneo — Leah invita Noah, ex dipendente licenziato e ora sviluppatore di Veyra Labs sotto il nome Evan North, a esaminare copie verificate della procedura di disponibilità al servizio; il suo nuovo contratto e il conflitto d'interessi vengono dichiarati, mentre gli accessi operativi originali restano revocati.
+5. Le mani disponibili — Martin organizza volontariato durante il fermo, ma deve distinguere abilitazioni, tempo retribuito e assistenza; Owen e Leo non possono diventare disponibilità gratuita del movimento. Il lavoro che ritorna in emergenza non significa un impiego stabile.
 
 # Guardrail
 

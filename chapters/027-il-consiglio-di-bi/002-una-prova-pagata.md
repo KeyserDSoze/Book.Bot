@@ -23,6 +23,8 @@ Nina Solis non permise di portare i documenti di Aruvhana nel laboratorio di B-1
 
 Il materiale rimase nel sistema autorizzato del Circuito. I tecnici ne prepararono un estratto di lavoro, privo di nomi dei dipendenti, credenziali, prezzi unitari riservati e percorsi che potessero rivelare procedure sensibili del cliente. Leah Rosen aveva imposto il controllo, Mei Lin aveva verificato che non ci fossero funzioni capaci di eseguire modifiche esterne.
 
+Il legale di Veyra aveva fatto aggiungere una pagina al protocollo. Il ricorso civile contro Cyberdine non era stato ritirato: restava contestata la condotta relativa all'invito privato di Maya. Le parti avevano però concordato che una consulenza limitata, pagata e registrata non avrebbe costituito né una trattativa per la vendita del robot né una rinuncia alle rispettive pretese. La richiesta urgente di impedire qualsiasi contatto con B-17 era stata circoscritta alle iniziative di trasferimento non autorizzate; l'attività di questa giornata non ne faceva parte. Nina controllò che la pagina fosse firmata da entrambi gli uffici legali prima di aprire il materiale.
+
 Amara Ortiz era meno interessata alle formule tecniche.
 
 «Chi paga questa prova?», chiese.

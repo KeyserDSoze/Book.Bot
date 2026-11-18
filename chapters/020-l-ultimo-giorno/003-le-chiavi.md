@@ -16,7 +16,15 @@ factions:
   - faction:cyberdine
 ---
 
-Martin tornò a casa con una targa sotto il braccio e una scatola di pasticcini che nessuno era riuscito a finire.
+Martin tornò a casa con una targa sotto il braccio e una scatola di pasticcini che nessuno era riuscito a finire. Sua moglie era in cucina, con il cappotto appeso allo schienale della sedia e due biglietti del treno sul tavolo.
+
+«Non eri tu quello che oggi doveva smettere di lavorare?», gli chiese vedendolo entrare con una vite rimasta attaccata al polsino.
+
+«Questa viene dalla serratura, non dal lavoro.»
+
+«Avevamo detto che il primo lunedì libero saremmo andati via insieme. Li ho comprati prima che tu ti inventi un altro giro al campus.»
+
+Martin guardò le date. Non ricordava di averle chiesto a che ora partissero; le chiese se poteva ancora scegliere il posto vicino al finestrino. Lei gli indicò il biglietto con il suo nome e tornò a preparare i piatti.
 
 Owen aveva parcheggiato davanti al garage. La macchina aveva il paraurti ammaccato e un faro che si accendeva soltanto dopo due colpi sul cofano. Martin si era già offerto di comprarne uno nuovo. Owen gli aveva risposto che avrebbe preferito pagarselo.
 
@@ -70,6 +78,14 @@ Owen sorrise. «Non lo lasciare andare con quella del nonno. Il suo navigatore t
 
 Finirono i pasticcini. Leo segnò l'ora del colloquio sul calendario del frigorifero, fra la visita dal dentista di Owen e l'appuntamento per controllare il passaggio alla pensione.
 
-Quando gli altri andarono via, Martin salì su una sedia per sistemare la targa sopra l'armadio. La lasciò in vista.
+Quando Owen e Leo andarono via, sua moglie gli mostrò il biglietto una seconda volta.
+
+«Non è un premio per avere aggiustato tutte le serrature», disse.
+
+«È per aver smesso», rispose Martin.
+
+«Allora prova a farlo.»
+
+Martin salì su una sedia per sistemare la targa sopra l'armadio. La lasciò in vista.
 
 Il suo nome, finalmente, non era più necessario su nessun turno.

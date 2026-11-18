@@ -67,6 +67,16 @@ Cole si sporse verso il microfono. «Se il prezzo è vincolante, dovremo present
 
 «Allora fatele vedere anche al reparto che userà il software. Non soltanto ai nostri acquisti.»
 
+Kyla cercò l'altra domanda che aveva rimandato da troppo tempo.
+
+«Anika, il collaudo di Bridgeglass dopo quella visita. Per voi è una pratica chiusa?»
+
+«La prova sul nostro terminale l'abbiamo autorizzata solo quando ci avete consegnato i registri del fallimento, non il filmato della simulazione», rispose Anika. «Sul retry identico il secondo test ha retto. Poi abbiamo cambiato versione del terminale e avete dovuto riaprire il ticket. Non abbiamo bocciato il progetto, ma non abbiamo dimenticato il pomeriggio in cui volevate mostrarci qualcosa che non era ancora vero.»
+
+«Il caso sulla versione nuova è stato corretto e firmato dai vostri tecnici.»
+
+«Sì. È per questo che siamo ancora qui. Non perché una vostra presentazione fosse convincente. Il rinnovo lo difendo soltanto se le verifiche restano pagabili e dimostrabili.»
+
 Anika chiuse la chiamata: aveva una revisione con i tecnici di un altro fornitore. Kyla rimase davanti alle quattro tabelle. La quarta era vuota, ma adesso sapeva quale domanda non avrebbe potuto nascondervi.
 
 «Quante persone dipendono davvero da Aruvhana?», domandò Kyla.
