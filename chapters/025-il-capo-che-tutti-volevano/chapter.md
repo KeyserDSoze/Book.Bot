@@ -8,6 +8,7 @@ pov:
   - character:sophie-grant
   - character:ruby-collins
   - character:omar-haddad
+  - character:martin-walsh
 ---
 
 # Scene
@@ -16,6 +17,7 @@ pov:
 2. Un mercoledì libero — Ruby beneficia della prima pianificazione e scopre un tempo familiare che prima non aveva.
 3. Le ore che non servono — Omar rileva che l'efficienza riduce le emergenze e gli straordinari, senza attribuire al robot poteri decisionali sul personale.
 4. Le diciannove firme — Ruby e Sophie affrontano la perdita di reddito e i mancati rinnovi, conseguenze di una richiesta condivisa.
+5. Il foglio restituito — al primo tentativo di ottenere dati dalle aziende Lavoro Prima riceve rifiuti o rinvii; Martin usa la situazione di Owen senza averne il consenso e ne paga il prezzo in famiglia. Ethan cerca dati aggregati controllabili invece di gonfiare la protesta.
 
 # Guardrail
 

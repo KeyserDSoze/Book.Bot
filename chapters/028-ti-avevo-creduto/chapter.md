@@ -7,6 +7,7 @@ canon: canon
 pov:
   - character:claire-foster
   - character:maya-bennett
+  - character:ethan-blake
 ---
 
 # Scene
@@ -15,6 +16,7 @@ pov:
 2. Ventidue minuti — Maya parla con Bi dei timori di Claire; il robot ascolta e consiglia senza comunicare una previsione occupazionale riservata che conosce per categoria.
 3. Non eri la persona giusta — Maya scopre il contenuto dell'analisi e affronta Bi sulla distanza tra riservatezza professionale e fiducia intima.
 4. Le parole vere — Claire non lascia che il lavoro perduto venga attribuito soltanto al robot; il rapporto tra Maya e Bi resta incrinato.
+5. La riga che non c'era — Ethan presenta i dati parziali ottenuti dalle imprese, rifiuta uno slogan falso e perde alcuni sostenitori. Leo racconta una proposta temporanea pagata per la manutenzione dei robot; Martin reagisce male, Owen difende l'autonomia del figlio e Martin riconosce il torto senza un perdono automatico. Claire partecipa soltanto come ospite.
 
 # Guardrail
 
