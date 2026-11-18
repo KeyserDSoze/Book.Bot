@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:031-il-mondo-senza-robot
-number: 31
+id: chapter:033-il-mondo-senza-robot
+number: 33
 title: Il mondo senza robot
 canon: canon
 pov:

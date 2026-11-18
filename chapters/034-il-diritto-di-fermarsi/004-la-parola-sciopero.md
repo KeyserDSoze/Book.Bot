@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:032-il-diritto-di-fermarsi:004-la-parola-sciopero
-chapter: chapter:032-il-diritto-di-fermarsi
+id: scene:034-il-diritto-di-fermarsi:004-la-parola-sciopero
+chapter: chapter:034-il-diritto-di-fermarsi
 number: 4
 title: La parola sciopero
 canon: canon

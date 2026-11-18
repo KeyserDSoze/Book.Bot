@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:031-il-mondo-senza-robot:002-le-ore-ritrovate
-chapter: chapter:031-il-mondo-senza-robot
+id: scene:033-il-mondo-senza-robot:002-le-ore-ritrovate
+chapter: chapter:033-il-mondo-senza-robot
 number: 2
 title: Le ore ritrovate
 canon: canon

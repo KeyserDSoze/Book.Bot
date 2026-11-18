@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:031-il-mondo-senza-robot:003-un-permesso-per-il-ritiro
-chapter: chapter:031-il-mondo-senza-robot
+id: scene:033-il-mondo-senza-robot:003-un-permesso-per-il-ritiro
+chapter: chapter:033-il-mondo-senza-robot
 number: 3
 title: Un permesso per il ritiro
 canon: canon

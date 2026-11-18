@@ -1,7 +1,7 @@
 ---
 type: chapter
-id: chapter:032-il-diritto-di-fermarsi
-number: 32
+id: chapter:034-il-diritto-di-fermarsi
+number: 34
 title: Il diritto di fermarsi
 canon: canon
 pov:

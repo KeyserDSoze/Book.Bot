@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:031-il-mondo-senza-robot:004-il-tesserino-temporaneo
-chapter: chapter:031-il-mondo-senza-robot
+id: scene:033-il-mondo-senza-robot:004-il-tesserino-temporaneo
+chapter: chapter:033-il-mondo-senza-robot
 number: 4
 title: Il tesserino temporaneo
 canon: canon

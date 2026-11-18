@@ -1,7 +1,7 @@
 ---
 type: scene
-id: scene:032-il-diritto-di-fermarsi:002-sei-firme
-chapter: chapter:032-il-diritto-di-fermarsi
+id: scene:034-il-diritto-di-fermarsi:002-sei-firme
+chapter: chapter:034-il-diritto-di-fermarsi
 number: 2
 title: Sei firme
 canon: canon
