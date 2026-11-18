@@ -27,7 +27,7 @@ Non confondere sospensione cautelativa con smantellamento, reset definitivo o mo
 
 ## Diciannovesima review — la richiesta non aveva un prezzo
 
-In **20/001** Amara non ricorda una vendita rifiutata per un prezzo troppo basso: al capitolo 14 non aveva aperto una trattativa e la raccolta di Cyberdine valeva solo come disponibilità condizionata. Dopo aver rinviato le riprese, riconosce il costo dei contratti già sottoscritti, proprio quelli che prima giustificavano il rifiuto. Restano responsabilità sue e del Circuito, non di Bi o della raccolta.
+In **22/001** Amara non ricorda una vendita rifiutata per un prezzo troppo basso: al capitolo 14 non aveva aperto una trattativa e la raccolta di Cyberdine valeva solo come disponibilità condizionata. Dopo aver rinviato le riprese, riconosce il costo dei contratti già sottoscritti, proprio quelli che prima giustificavano il rifiuto. Restano responsabilità sue e del Circuito, non di Bi o della raccolta.
 
 ## Review della responsabilità (terza passata)
 
@@ -51,4 +51,4 @@ In 003 Noah mostra un diagramma nel quaderno: parte dello stato conversazionale 
 
 ## Quindicesima review — il danno non si assolve da solo
 
-**Quindicesima review:** nel 20/003 Noah risponde a un vero bivio di collaudo: analizzare dipendenze senza eseguire la configurazione non certificata oppure provare un riavvio su un'identità nuova che potrebbe ingannare sulla continuità. Sceglie la prima e spiega perché. La sua competenza non ripara il difetto passato, né assicura una futura migrazione della coscienza/configurazione.
+**Quindicesima review:** nel 22/003 Noah risponde a un vero bivio di collaudo: analizzare dipendenze senza eseguire la configurazione non certificata oppure provare un riavvio su un'identità nuova che potrebbe ingannare sulla continuità. Sceglie la prima e spiega perché. La sua competenza non ripara il difetto passato, né assicura una futura migrazione della coscienza/configurazione.

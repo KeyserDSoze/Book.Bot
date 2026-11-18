@@ -25,7 +25,7 @@ La sessione di B-17 non certifica la configurazione e non autorizza la ripresa d
 
 ## Diciannovesima review — Maya non è il collaudo; Paul non è il firmatario
 
-Nel **21/001** Amara vuole ascoltare una persona che ha conosciuto B-17, ma Nina chiede consenso informato e limiti sui dati registrati: Maya può rifiutare e la sua memoria non certifica la configurazione. Nel **21/003** Nina comunica gli accessi al verbale, riconosce che Maya non è un test e non le attribuisce una funzione certificatrice; è Maya a scegliere di entrare. In **21/004** Claire apre una richiesta di estensione serale senza approvarla in assenza del responsabile autorizzato; Paul quantifica il lavoro manuale che ne consegue. B-21 continua i compiti già approvati. Il nodo non viene «risolto» inventando una firma o trasformando Claire nella nuova responsabile senior.
+Nel **23/001** Amara vuole ascoltare una persona che ha conosciuto B-17, ma Nina chiede consenso informato e limiti sui dati registrati: Maya può rifiutare e la sua memoria non certifica la configurazione. Nel **23/003** Nina comunica gli accessi al verbale, riconosce che Maya non è un test e non le attribuisce una funzione certificatrice; è Maya a scegliere di entrare. In **23/004** Claire apre una richiesta di estensione serale senza approvarla in assenza del responsabile autorizzato; Paul quantifica il lavoro manuale che ne consegue. B-21 continua i compiti già approvati. Il nodo non viene «risolto» inventando una firma o trasformando Claire nella nuova responsabile senior.
 
 ## Undicesima review — prosa, voci e gesti
 

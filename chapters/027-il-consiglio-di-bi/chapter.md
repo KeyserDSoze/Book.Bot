@@ -32,7 +32,7 @@ La lettera di Aruvhana riguarda esplicitamente **licenze, sviluppo software, man
 
 ## Raccordo della revisione sulla responsabilità di Bi
 
-Nella scena 002, davanti allo scenario aggregato di riduzione delle mansioni, B-17 domanda a chi spetterà comunicare le conseguenze alle persone. Non conosce nomi individuali e non ha il potere di decidere rinnovi o licenziamenti. La scelta di tacere il conflitto nella successiva confidenza con Maya (cap. 26) ne risulterà più difficile, non meno colpevole.
+Nella scena 002, davanti allo scenario aggregato di riduzione delle mansioni, B-17 domanda a chi spetterà comunicare le conseguenze alle persone. Non conosce nomi individuali e non ha il potere di decidere rinnovi o licenziamenti. La scelta di tacere il conflitto nella successiva confidenza con Maya (cap. 28) ne risulterà più difficile, non meno colpevole.
 
 
 ## Quinta review — cifra, provenienza e responsabilità

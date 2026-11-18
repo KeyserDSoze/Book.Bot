@@ -25,7 +25,7 @@ Noah non viene assolto, reso mostro o genio onnipotente. L'origine pubblica del 
 
 ## Diciannovesima review — un'intervista non è una perizia
 
-In **19/002** Noah non può rispondere «No» alla domanda se il modulo commerciale contenga il suo codice: non conosce il sorgente di Lanter e non è titolato a escluderne o certificarne la copia. Può documentare solo il proprio intervento e il riuso dichiarato di risultati. In **19/004**, Paul tenta di discutere un articolo sulle condizioni di una lavoratrice dell'Hub Levante, ma Maya riporta la conversazione al problema della sua lettera privata. Paul capisce di aver cambiato argomento prima che lei abbia ricevuto risposta, senza che il testo confonda i due incidenti di dati.
+In **21/002** Noah non può rispondere «No» alla domanda se il modulo commerciale contenga il suo codice: non conosce il sorgente di Lanter e non è titolato a escluderne o certificarne la copia. Può documentare solo il proprio intervento e il riuso dichiarato di risultati. In **21/004**, Paul tenta di discutere un articolo sulle condizioni di una lavoratrice dell'Hub Levante, ma Maya riporta la conversazione al problema della sua lettera privata. Paul capisce di aver cambiato argomento prima che lei abbia ricevuto risposta, senza che il testo confonda i due incidenti di dati.
 
 ## Undicesima review — prosa, voci e gesti
 
@@ -34,4 +34,4 @@ In **19/002** Noah non può rispondere «No» alla domanda se il modulo commerci
 
 ## Quindicesima review — il danno non si assolve da solo
 
-**Quindicesima review:** il sospetto rivolto a Noah in 19/002 riguarda il video del **fermo locale di 47 minuti di Hub Levante** (capitolo 18), non l'arresto mondiale ancora futuro. Il titolo «L'uomo che ha cambiato tutto» resta parte dell'eco giornalistica, non una valutazione del narratore. L'amico Jonas mantiene una relazione quotidiana con Noah sui circuiti e sull'incontro della domenica; il rifiuto di firmare una dichiarazione di diritti non è una prova di innocenza per la backdoor.
+**Quindicesima review:** il sospetto rivolto a Noah in 21/002 riguarda il video del **fermo locale di 47 minuti di Hub Levante** (capitolo 18), non l'arresto mondiale ancora futuro. Il titolo «L'uomo che ha cambiato tutto» resta parte dell'eco giornalistica, non una valutazione del narratore. L'amico Jonas mantiene una relazione quotidiana con Noah sui circuiti e sull'incontro della domenica; il rifiuto di firmare una dichiarazione di diritti non è una prova di innocenza per la backdoor.
