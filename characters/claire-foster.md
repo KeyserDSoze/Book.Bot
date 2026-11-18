@@ -7,6 +7,12 @@ canon: canon
 
 # Claire Foster
 
+## Reazioni alla crescita del movimento
+
+Nel nuovo 28 Claire vede un invito pubblico di Lavoro Prima sui contratti non rinnovati, ma non vuole che la sua vicenda diventi un'assoluzione dell'aggressione commessa da Ethan. Alla grande protesta del nuovo 30 ascolta anche Martin Walsh: lui riconosce di essersi ritirato volontariamente e denuncia la scomparsa delle occasioni di ingresso per il nipote. Claire sostiene tutele mirate, non il divieto universale dei robot.
+
+
+
 Lavoratrice con contratto a termine a Cyberdine, da diciotto mesi lavora sulle eccezioni di processo e sulla qualità delle integrazioni software. Sa costruire casi di test, distinguere una regressione da un errore documentale e individuare dipendenze tra reparti e di ottenere decisioni motivate. Ha affiancato Margaret Ellis nel coordinamento senior e spera di candidarsi alla posizione che si renderà disponibile con il pensionamento. Non le è stata promessa formalmente la promozione.
 
 Per Claire non conta soltanto lo stipendio: vuole guidare riunioni difficili, assumersi la responsabilità del giudizio e formare altri colleghi. Nel capitolo 5 apprende che l'azienda non aprirà la posizione e riorganizzerà i compiti: Bi farà raccolta di elementi e preparazione delle alternative; ai manager umani andranno la responsabilità e le firme. Il suo contratto attuale non viene revocato.
@@ -42,18 +48,18 @@ Claire controlla la provenienza di un originale e domanda chi avrà la responsab
 Claire riceve un ulteriore rifiuto per una candidatura esterna di coordinamento, nonostante abbia preparato in forma anonima la cartella dei trentaquattro esempi. Discute con Maya la differenza fra i vantaggi operativi dei robot e le nuove opportunità di lavoro che non si aprono. Non è stata licenziata, né promossa.
 
 
-## Capitoli 25–30 — Il lavoro e la legge
+## Capitoli 27–32 — Il lavoro e la legge
 
 Claire corregge le ipotesi di automazione del contratto Aruvhana, chiedendo di mantenere tracciabilità dei dati e avalli umani. Dopo il rinnovo condizionato del cliente, la direzione Cyberdine decide di non proseguire la sua posizione alla scadenza: le restano quattro mesi e non le viene offerto un nuovo posto sicuro. Diciotto mesi dopo svolge incarichi saltuari e cerca nuove occasioni professionali, molte delle quali non diventano assunzioni. Partecipa alle proteste con Maya **senza chiedere lo spegnimento generale dei robot**; reclama criteri di distribuzione dei benefici e responsabilità umana. Nel capitolo 29 festeggia l'approvazione della legge mirata in Piazza Montecitorio, precisando che il voto non le restituirà il ruolo perso. Non appare come causa tecnica né come organizzatrice dell'arresto mondiale del 30.
 
 
-## Capitoli 31–35 — Una normalità senza garanzie
+## Capitoli 33–37 — Una normalità senza garanzie
 
 Claire torna a Cyberdine per alcune giornate retribuite di verifica delle procedure manuali, utili durante l'emergenza. Rifiuta la semplificazione secondo cui lo stop robotico sarebbe automaticamente uno sciopero: per lei bisogna stabilire chi abbia scelto e potuto dissentire. Dopo la ripartenza ottiene un incarico a termine di **tre mesi** per il controllo di alcuni processi di continuità, non il posto senior un tempo soppresso e non un impiego stabile. Sostiene Maya dopo la notizia della cancellazione di Bi. I problemi distributivi che hanno attraversato il romanzo restano irrisolti.
 
 ## Revisione v0.31.0 — Desideri e contraddizioni quotidiane
 
-Nel 5 Claire conserva nel telefono una libreria che vorrebbe comprare per togliere i libri dalle sedie di cucina. Nel 26 la ritrova più cara proprio quando il contratto viene messo in discussione. Nel 35 ne compra finalmente una usata e chiede a Maya di aiutarla a montarla. Non è un risarcimento al ruolo senior perduto: soltanto un gesto privato che riesce a compiere anche con un futuro professionale incerto.
+Nel 5 Claire conserva nel telefono una libreria che vorrebbe comprare per togliere i libri dalle sedie di cucina. Nel 28 la ritrova più cara proprio quando il contratto viene messo in discussione. Nel 37 ne compra finalmente una usata e chiede a Maya di aiutarla a montarla. Non è un risarcimento al ruolo senior perduto: soltanto un gesto privato che riesce a compiere anche con un futuro professionale incerto.
 
 ## Revisione v0.32.0 — Software e robot
 
@@ -62,12 +68,12 @@ Il suo ruolo è vicino allo sviluppo e al collaudo software: legge versioni, con
 
 ## Decima review — dalla lezione non pagata al contratto breve
 
-L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 25 una possibile riallocazione non finanziata. Claire la chiede esplicitamente nel 26 e scopre che non esiste un ruolo. Dopo il fermo ottiene tre mesi pagati anche per la formazione, senza titolo senior né prospettive stabili. La libreria comprata a casa rimane un gesto indipendente e non una compensazione narrativa per il lavoro perso.
+L'insegnamento sui sistemi legacy proposto nel 5 e rinviato fino al 9 resta nel 27 una possibile riallocazione non finanziata. Claire la chiede esplicitamente nel 28 e scopre che non esiste un ruolo. Dopo il fermo ottiene tre mesi pagati anche per la formazione, senza titolo senior né prospettive stabili. La libreria comprata a casa rimane un gesto indipendente e non una compensazione narrativa per il lavoro perso.
 
 
 ## Quattordicesima review — conseguenze dei rapporti
 
-Nel 26/001 Claire contesta a Kyla una convocazione evitabile. Nel 26/004 dice a Maya che non vuole doverla rassicurare continuamente sul significato delle intenzioni di Bi mentre lei perderà il contratto in quattro mesi. Nel 29/004 Maya lascia all'amica lo spazio per raccontare a Olivia la propria esperienza del voto. L'amicizia continua senza annullare quella ferita.
+Nel 28/001 Claire contesta a Kyla una convocazione evitabile. Nel 28/004 dice a Maya che non vuole doverla rassicurare continuamente sul significato delle intenzioni di Bi mentre lei perderà il contratto in quattro mesi. Nel 31/004 Maya lascia all'amica lo spazio per raccontare a Olivia la propria esperienza del voto. L'amicizia continua senza annullare quella ferita.
 
 
 ## Diciassettesima passata — attribuzione non equivale a carriera
@@ -79,4 +85,4 @@ Nei capitoli **13/004** e **14/003** Claire rimane critica verso la raccolta di 
 
 ## Diciannovesima review — il turno serale senza un approvatore
 
-Nel **21/004** Claire vede che l'estensione automatizzata alle pratiche serali di Cyberdine non ha nominato un responsabile degli avalli e non presta il proprio nome a una firma anticipata. Apre una richiesta di autorizzazione lasciando operativa B-21 sulle mansioni già consentite. Il lavoro manuale ricade su Paul ed entra nella stima dei costi. Questa scelta professionale non ripristina la posizione senior soppressa: prepara le richieste di ore riconosciute e di continuità nel 25–26.
+Nel **23/004** Claire vede che l'estensione automatizzata alle pratiche serali di Cyberdine non ha nominato un responsabile degli avalli e non presta il proprio nome a una firma anticipata. Apre una richiesta di autorizzazione lasciando operativa B-21 sulle mansioni già consentite. Il lavoro manuale ricade su Paul ed entra nella stima dei costi. Questa scelta professionale non ripristina la posizione senior soppressa: prepara le richieste di ore riconosciute e di continuità nel 27–26.

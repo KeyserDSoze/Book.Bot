@@ -16,7 +16,7 @@ Il riferimento richiesto a un thriller di grande leggibilità va inteso in termi
 
 ### 1. La sindrome della spiegazione finale — ALTA
 
-Dopo una scena efficace, troppo spesso il narratore formula la tesi che il lettore aveva appena ricavato. Casi emersi: il nome «Bi» viene spiegato dopo essere stato già usato da un secondo collega (3/004); la porta senza targhetta diventa un discorso sulla rivoluzione che nessuno ha visto (5/004); il pavimento divide metaforicamente le fazioni dopo un incontro già teso (6/002); il finale di Valle Corta dichiara che il lavoro non è finito (20/004); l'ultima pagina ricapitola il significato della racchetta (20/005).
+Dopo una scena efficace, troppo spesso il narratore formula la tesi che il lettore aveva appena ricavato. Casi emersi: il nome «Bi» viene spiegato dopo essere stato già usato da un secondo collega (3/004); la porta senza targhetta diventa un discorso sulla rivoluzione che nessuno ha visto (5/004); il pavimento divide metaforicamente le fazioni dopo un incontro già teso (6/002); il finale di Valle Corta dichiara che il lavoro non è finito (22/004); l'ultima pagina ricapitola il significato della racchetta (22/005).
 
 **Intervento:** sono rimasti richiami, oggetti, rumori e gesti. In 3/004 un secondo collega chiama Bi senza chiedere spiegazioni. In 5/004 Margaret domanda a Claire dove sia il cacciavite per smontare la vecchia targhetta. In 6/002 Mila, distratta da una sedia, lascia uscire Ethan e Marcus nel corridoio dietro al robot. Nel finale Nina chiude la porta. La scena, non il narratore, sostiene il peso.
 
@@ -50,7 +50,7 @@ Un filmato virale non è automaticamente un mistero, e un personaggio non può p
 
 Troppi documenti esistevano principalmente per far conoscere al lettore l'informazione richiesta.
 
-**Intervento:** Mei vede *due schermate, due clienti, una stessa frase privata*; apre due incidenti separati, benché il programma le suggerisca di unirli per il numero di serie. Nella documentazione commerciale di Lanter trova una dichiarazione di trasferibilità con un campo di approvazione che rimanda alla qualità del prodotto, non alla liceità della provenienza. Nel capitolo 19 Kyla riceve un **ritaglio** con «N. Carter», non una prova integrale: può vedere il nome, non ricostruire la fonte. Nel 20 il consulente chiede a Noah se il test sfavorevole fosse **precedente al rilascio** e Leah richiede una verifica delle date. L'informazione ha una conseguenza investigativa concreta.
+**Intervento:** Mei vede *due schermate, due clienti, una stessa frase privata*; apre due incidenti separati, benché il programma le suggerisca di unirli per il numero di serie. Nella documentazione commerciale di Lanter trova una dichiarazione di trasferibilità con un campo di approvazione che rimanda alla qualità del prodotto, non alla liceità della provenienza. Nel capitolo 19 Kyla riceve un **ritaglio** con «N. Carter», non una prova integrale: può vedere il nome, non ricostruire la fonte. Nel 22 il consulente chiede a Noah se il test sfavorevole fosse **precedente al rilascio** e Leah richiede una verifica delle date. L'informazione ha una conseguenza investigativa concreta.
 
 **Guardrail:** non trasformare un dettaglio tecnico in istruzioni su accessi abusivi; i limiti delle prove restano espliciti. I documenti possono mentire per omissione, ma non per magia narrativa.
 
@@ -58,7 +58,7 @@ Troppi documenti esistevano principalmente per far conoscere al lettore l'inform
 
 Alcuni finali tornavano a commentare ciò che una scena aveva concluso. Il ritmo da thriller richiede di uscire quando un gesto modifica la domanda successiva, non necessariamente con un cliffhanger in ogni pagina.
 
-**Intervento:** nel 14/004 la procedura di messaggistica salva una richiesta senza un destinatario responsabile; nel 16/003 l'annuncio di un pilota arriva sul telefono di Noah, e la notifica viene chiusa senza interpretare il futuro; nel 19/001 il microfono della presentazione continua a essere provato mentre la fuga stampa prende forma; nel 20/005 resta il suono della porta, non una spiegazione di ciò che Bi rappresenta.
+**Intervento:** nel 14/004 la procedura di messaggistica salva una richiesta senza un destinatario responsabile; nel 16/003 l'annuncio di un pilota arriva sul telefono di Noah, e la notifica viene chiusa senza interpretare il futuro; nel 21/001 il microfono della presentazione continua a essere provato mentre la fuga stampa prende forma; nel 22/005 resta il suono della porta, non una spiegazione di ciò che Bi rappresenta.
 
 **Ancora aperto:** la seconda metà del libro alterna molto spesso POV e scene da 600–900 parole. Una sequenza decisiva ha bisogno, a volte, di **restare con un solo personaggio più a lungo**, mostrando tentativi, errori, tempo, correzioni e costo; non di moltiplicare brevi resoconti.
 

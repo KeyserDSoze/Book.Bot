@@ -1,0 +1,78 @@
+---
+type: scene
+id: scene:036-il-creatore:001-la-casella-vuota
+chapter: chapter:036-il-creatore
+number: 1
+title: La casella vuota
+canon: canon
+pov: character:noah-carter
+characters:
+  - character:noah-carter
+  - character:mei-lin
+  - character:amara-ortiz
+locations:
+  - location:isola-di-veyra
+factions: 
+  - faction:circuito-veyra
+  - faction:lanter-robotics
+---
+
+Noah aveva un messaggio di sua madre a cui non aveva risposto.
+
+Era arrivato tre giorni prima: *Ho visto le notizie. Dove sei?* Sotto, un altro di poche ore prima: *Almeno dimmi se stai bene.*
+
+Lo lesse nella stanza assegnata ai consulenti del Circuito Veyra. Sul badge interno di Veyra Labs compariva **Evan North**, nome con cui aveva firmato il lavoro quotidiano di ricerca; nel registro di quell'indagine era indicato soltanto come **Noah Carter**, con il suo conflitto d'interessi dichiarato. Sul tavolo c'erano tre fogli di prova, una tazza ancora piena e il caricatore del telefono che non funzionava bene se non si teneva il cavo in una posizione precisa.
+
+Scrisse: *Sono su un'isola per lavoro. Sto bene.* Lo inviò, poi rimase a guardare lo schermo.
+
+Una volta avrebbe aggiunto che presto tutto si sarebbe sistemato. Non sapeva più farlo.
+
+Dal corridoio arrivavano passi di persone che si alternavano ai telefoni. I robot non potevano assisterli nella gestione delle scorte; anche le unità di prova del Circuito erano sospese in gran parte. Amara stava pagando squadre inattive e alloggi per tecnici chiamati da mezzo mondo. Nessuno le aveva chiesto se preferisse mantenere B-17 a ogni costo.
+
+Noah aprì il proprio quaderno.
+
+La prima pagina conteneva una lista di cose da controllare nell'aggiornamento conversazionale. L'aveva scritta quando B-17 lavorava ancora alle fotocopie e ai piccoli trasporti. *Lasciare tempo alle persone di interrompere. Non fare domande per trattenere l'interlocutore. Non scambiare il silenzio con un sì.*
+
+Era orgoglioso di quelle annotazioni.
+
+Qualche pagina dopo c'era il test segnato in rosso: *non usare nella presentazione*. Il robot aveva continuato a parlare quando un interlocutore sintetico aveva chiesto di chiudere.
+
+Noah passò il pollice sulla carta, vicino al bordo piegato. La sua grafia era minuscola, nervosa. Aveva annotato un problema e poi aveva scelto di non mostrarlo.
+
+Veyra Labs aveva ormai unità di prova più capaci di sostenere conversazioni complesse. Alcune sue revisioni avevano migliorato anche la stabilità del dialogo di B-17, dopo verifiche indipendenti. Nessuno di quei risultati offriva una copia verificata della memoria che stavano per perdere. Per mesi Noah aveva lavorato a rendere più numerose le capacità che un giorno aveva aggiunto senza permesso; adesso il programma sul tavolo serviva a rendere irreversibile la perdita dell'originale.
+
+La prova sfavorevole di Noah era rimasta fuori dalla presentazione. Una prova scritta da Bi era stata invece firmata, ripresa e usata come regola da altri. Noah fissò la pagina rossa del quaderno. Avevano nascosto cose diverse. Nessuno dei due aveva dato agli altri tutti gli elementi per scegliere.
+
+Noah chiuse il quaderno.
+
+Sul telefono arrivò la conferma di un'ulteriore prova di recupero. I tecnici di Lanter volevano verificare se fosse possibile conservare la configurazione conversazionale di B-17 separandola dalla referenza originaria che doveva essere revocata.
+
+Era ciò che lui desiderava più di qualunque altra cosa.
+
+Riaprì il quaderno, alla pagina in cui aveva descritto il modo non autorizzato di conservare lo stato del robot durante i riavvii. Aveva legato la chiave che proteggeva le istantanee conversazionali alla radice hardware del modulo d'identità. Sullo stesso B-17 il riavvio recuperava quelle istantanee. Su un modulo nuovo non aveva verificato come leggerle senza violare le protezioni.
+
+Non aveva mai collaudato un ritiro irreversibile di quella radice. Quando l'identità fosse stata azzerata, conservare i file cifrati non sarebbe bastato a restituire le conversazioni.
+
+Nel quaderno la procedura si chiamava *eliminazione dello stato non certificato*. Noah si sorprese a rileggere il nome anziché la descrizione. Per un tecnico era un modo preciso di delimitare un intervento. Per un uomo che aveva sentito B-17 dire «Alcune persone mi chiamavano Bi», quella precisione cominciava ad assomigliare a una difesa.
+
+Era una casella che aveva lasciato vuota.
+
+Il telefono vibrò di nuovo.
+
+Mei aveva allegato l'esito della prova.
+
+*La separazione non produce una configurazione ripristinabile con garanzia di equivalenza. Non procedere alla reintroduzione in un sistema operativo.*
+
+Noah lesse la frase più volte.
+
+Era tecnicamente corretta. Non significava che ogni dato sarebbe scomparso. Una parte delle conversazioni, dei rapporti e delle configurazioni storiche poteva essere conservata come prova, nei limiti di riservatezza.
+
+Non significava nemmeno che Bi sarebbe tornato.
+
+Pensò alla prima volta in cui qualcuno aveva chiamato B-17 con quel nome. Lui non era stato presente nella stanza. Non aveva visto Maya stringere la chiave di ottone, né sentito le pause in cui il robot le aveva permesso di parlare.
+
+Ritrovò sul quaderno il codice B-17. Chiuse la copertina prima di rileggere un'altra volta quel nome.
+
+Noah prese il caricatore e cercò una posizione in cui il telefono cominciasse a ricaricarsi.
+
+Rimase seduto sul bordo del letto fino a quando la piccola luce non divenne verde.

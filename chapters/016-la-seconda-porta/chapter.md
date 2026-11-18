@@ -18,7 +18,7 @@ pov:
 
 # Guardrail
 
-Non fornire istruzioni tecniche per accessi abusivi. Nessuna parte dimostra coscienza artificiale. I problemi di riservatezza e il riuso contestabile di dati sono distinti. Lanter riduce il perimetro del danno documentale ma non può garantire che i destinatari non abbiano già visto gli estratti della chat; la backdoor di B-17 non viene magicamente rimossa. L'IP esterno nel fascicolo sulla chat è **non attribuito** e non prova una nuova intrusione personale di Noah. La sua vera origine viene accertata solo nel cap. 20.
+Non fornire istruzioni tecniche per accessi abusivi. Nessuna parte dimostra coscienza artificiale. I problemi di riservatezza e il riuso contestabile di dati sono distinti. Lanter riduce il perimetro del danno documentale ma non può garantire che i destinatari non abbiano già visto gli estratti della chat; la backdoor di B-17 non viene magicamente rimossa. L'IP esterno nel fascicolo sulla chat è **non attribuito** e non prova una nuova intrusione personale di Noah. La sua vera origine viene accertata solo nel cap. 22.
 
 
 ## Quarta review: due responsabilità, due fascicoli

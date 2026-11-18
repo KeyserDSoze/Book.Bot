@@ -1,0 +1,95 @@
+---
+type: scene
+id: scene:025-il-capo-che-tutti-volevano:002-un-mercoledi-libero
+chapter: chapter:025-il-capo-che-tutti-volevano
+number: 2
+title: Un mercoledì libero
+canon: canon
+pov: character:ruby-collins
+characters:
+  - character:ruby-collins
+  - character:b-37
+  - character:sophie-grant
+locations:
+  - location:hub-levante
+factions:
+  - faction:hub-levante
+---
+
+Ruby scoprì di avere il mercoledì libero mentre stava preparando la cena.
+
+Il telefono le mostrò il nuovo turno proposto dal sistema dell'Hub Levante. Non era ancora definitivo: accanto a ogni settimana compariva il nome della persona che l'aveva autorizzata e un termine entro il quale segnalare errori. La prima era firmata da Sophie; per due giorni della settimana successiva figurava una vicecapoturno, designata come sostituta durante l'assenza di Sophie. Le richieste ancora senza firma rimanevano bozze, non turni assegnati.
+
+Per la prima volta dopo mesi avrebbe potuto accompagnare suo figlio a una visita senza chiedere a un collega di coprirla.
+
+«Hai vinto alla lotteria?», le chiese il bambino, vedendola sorridere.
+
+«Quasi.»
+
+«Allora compriamo una pizza.»
+
+«Non esageriamo.»
+
+La mattina dopo Ruby andò a controllare il calendario stampato, per essere sicura che non si trattasse di un errore del telefono. Il foglio era identico. B-37, l'unità incaricata di raccogliere vincoli e proporre i turni, stava spostando dei contenitori vicino al banco vetrato.
+
+Ruby gli si avvicinò.
+
+«Se chiedo di tenere sempre libero il mercoledì pomeriggio, lo puoi fare?»
+
+«Posso registrare la preferenza e verificare se esistono soluzioni compatibili. Non posso garantirla in ogni settimana.»
+
+«Se ti spiego perché, cambia qualcosa?»
+
+«Non è necessario indicare la ragione. Sono richieste soltanto disponibilità e vincoli pertinenti alla pianificazione.»
+
+Ruby pensò a quante volte aveva dovuto raccontare al vecchio responsabile i turni dell'altro genitore, gli orari della scuola, perfino l'età del figlio, per ottenere un cambio che spesso non arrivava.
+
+«Allora segnalo il mercoledì.»
+
+«Puoi farlo dal terminale personale. Il nuovo calendario sarà sottoposto alla verifica del responsabile umano.»
+
+«Che sarebbe Sophie.»
+
+«Sì.»
+
+«Perfetto.»
+
+In reparto gli umori erano insolitamente buoni. Un collega non doveva più fare tre notti consecutive. Un'altra aveva ottenuto il fine settimana richiesto da mesi. Le rotazioni scomode non erano sparite; erano distribuite in modo che tutti potessero vedere con quale criterio.
+
+Qualcuno aveva cominciato a chiamare B-37 *il nostro nuovo capo*.
+
+Il soprannome faceva ridere anche Sophie, ma soltanto quando nessuno le chiedeva di approvare uno scambio impossibile.
+
+Durante la terza settimana Ruby si trovò a discutere con un collega che voleva il suo sabato.
+
+«L'hai chiesto prima tu?», domandò lui.
+
+«No. Risultava a me, ma possiamo fare una proposta.»
+
+Il robot segnalò che lo scambio non avrebbe violato i riposi, ma avrebbe creato una mancanza di personale abilitato alla linea di carico.
+
+«Allora non si può», concluse Ruby.
+
+«Lo poteva dire anche Sophie.»
+
+«Sì. Ma adesso vediamo perché.»
+
+Le sembrò una differenza enorme.
+
+Alla fine del mese il figlio le chiese perché non si lamentasse più dei turni mentre apparecchiava. Ruby gli spiegò che finalmente qualcuno stava cercando di distribuire le giornate senza preferire sempre le stesse persone.
+
+«E chi è?»
+
+Ruby esitò.
+
+«Un robot, ma poi controlla Sophie.»
+
+«Allora il robot è bravo.»
+
+«Sì», rispose. «Per una volta sembra di sì.»
+
+Il bambino rimase soddisfatto.
+
+Ruby, invece, non aveva ancora guardato il riepilogo delle ore straordinarie in fondo al nuovo calendario. Non perché fosse nascosto: era stampato in caratteri grandi.
+
+Semplicemente, non aveva avuto motivo di cercarlo.

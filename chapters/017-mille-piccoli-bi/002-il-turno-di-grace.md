@@ -81,6 +81,18 @@ Grace guardò il rapporto del turno. Una colonna segnava meno consegne ripetute,
 
 La aggiunse nelle note, senza chiamarla produttività.
 
+Julia portò anche un foglio ripiegato, trovato nella sala pause. Era un invito di Lavoro Prima a raccogliere testimonianze sui turni ridotti dopo l'introduzione dei robot.
+
+«Tu lo firmeresti?» chiese.
+
+Grace lo lesse. «Non parla del nostro centro. Chiede anche dati che riguardano persone assistite. Quelli non li mando a un gruppo politico.»
+
+«Io non voglio togliere i robot», disse Julia. «Ho finalmente un quarto d'ora in più con Helen. Però vorrei sapere se fra sei mesi la direzione userà quei minuti per tagliare un turno.»
+
+Grace posò l'invito accanto al prospetto del personale. «Su questo avete diritto a discutere con i vostri rappresentanti. I dati aggregati sulle ore possiamo prepararli. Non le cartelle degli ospiti.»
+
+Julia si riprese il foglio. Non lo strappò e non lo appese in bacheca a nome di tutti.
+
 A fine giornata arrivò una proposta commerciale per estendere la funzione ad altre unità. Grace non la approvò subito. Chiese prima una prova più lunga e un elenco dei casi in cui il sistema aveva insistito per ottenere chiarimenti non necessari.
 
 Il venditore propose di registrare comunque la richiesta come *estensione programmata*, in attesa del suo via libera. Grace si fece mostrare il modulo e lo restituì senza la firma.
